@@ -482,8 +482,8 @@ def figure_flowable(block, md_dir, S, avail, frame_h):
         pw, ph = im.size
     aspect = ph / pw
     width = avail
-    if width * aspect > frame_h * 0.58:
-        width = (frame_h * 0.58) / aspect
+    if width * aspect > frame_h * 0.52:
+        width = (frame_h * 0.52) / aspect
     height = width * aspect
     cap = block.get("alt") or ""
     flow = [Spacer(1, 5), Image(str(png), width=width, height=height)]
@@ -866,9 +866,12 @@ def story_for(md, meta, S, frame_w, frame_h):
 
     first_h2 = True
     prev_t = None
+    last_heading = None
     for b in blocks:
         was_rule = prev_t == "hr"
         prev_t = b["t"]
+        if b["t"] == "h":
+            last_heading = re.sub(r"[*`]", "", b["text"]).strip().lower()
         t = b["t"]
         if t == "h":
             lvl = b["lvl"]
@@ -909,6 +912,9 @@ def story_for(md, meta, S, frame_w, frame_h):
         elif t == "quote":
             story += callout(b, S, frame_w)
         elif t == "img":
+            alt = (b.get("alt") or "").strip().lower()
+            if alt and alt == last_heading:
+                b = dict(b, alt="")
             story += figure_flowable(b, str(meta["path"].parent), S, frame_w, frame_h)
         elif t == "hr":
             story.append(HRFlowable(width="100%", thickness=0.5, color=RULE,
