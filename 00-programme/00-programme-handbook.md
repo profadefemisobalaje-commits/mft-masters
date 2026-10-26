@@ -219,6 +219,10 @@ skip the practicals; they are where the learning is consolidated.
 * **One teaching and assessment guide** for lecturers: [`01-teaching-and-assessment-guide.md`](01-teaching-and-assessment-guide.md).
 * A built HTML edition with sidebar navigation, search, and print styles:
   `python3 scripts/build_site.py --serve`.
+* **A print edition**: each course exists as a finished A4 PDF with cover, contents and page numbers in
+  [`../pdf/`](../pdf/README.md), and the whole programme is bound into
+  [`MFT-Library-Complete-28-volumes.pdf`](../pdf/MFT-Library-Complete-28-volumes.pdf) (449 pages). Print the
+  week you are teaching, or the whole book at the start of the semester.
 
 ---
 

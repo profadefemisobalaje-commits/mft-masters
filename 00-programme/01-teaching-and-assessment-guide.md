@@ -127,3 +127,23 @@ pathway for students as well as clients.
 Teach Week 1 (framing), the week containing the central model, and the integration chapter. Set the
 practicals as self-directed triad work with a submitted log. That preserves the spine of the course:
 what the work is, how it is done, and how it fits together.
+
+---
+
+## 9. Printing and distributing the materials
+
+Every course is available as a finished A4 PDF in [`../pdf/`](../pdf/README.md); the whole programme is in
+[`MFT-Library-Complete-28-volumes.pdf`](../pdf/MFT-Library-Complete-28-volumes.pdf). Practical notes for
+running a semester from the print edition:
+
+* **Set the reading from the page numbers, not the chapter titles.** Each PDF's contents page carries real
+  page numbers, and the bookmarks in the sidebar match them, so "read pages 6–9 before Thursday" is
+  unambiguous.
+* **Print the week, not the book.** The weekly sections are self-contained: the idea, the practice, a case
+  and a reflective task. A 14-week course prints to roughly 25 pages of core text.
+* **Photocopy the practicals.** Callout panels (case, practical, caution, debate, reflection) are set in
+  tinted boxes precisely so they can be lifted onto a worksheet without re-typing.
+* **Licence.** CC BY 4.0: copy, adapt and translate freely with attribution. If you change a book, mark it
+  as changed and keep the attribution line from the imprint page.
+* **Regenerating.** After editing the Markdown, run `python3 scripts/build_pdfs.py --complete` and both the
+  individual volumes and the merged file update, with contents and bookmarks rebuilt automatically.

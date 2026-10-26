@@ -220,7 +220,7 @@ SHELL = """<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><style>{css}</style></head><body><div class="wrap">
 <nav><h1>MSc Marriage &amp; Family Therapy</h1>
-<div class="sub">Complete lecture library · 27 course books</div>
+<div class="sub">Complete lecture library · 28 course books</div>
 <input id="q" placeholder="Filter courses…" oninput="f(this.value)">
 {nav}</nav>
 <main><h1>{h1}</h1>{meta}{toc}{body}</main></div>
@@ -307,9 +307,12 @@ def build():
     idx = SHELL.format(
         title="MFT Masters — Lecture Library", css=CSS, nav=nav_html, toc="",
         h1="MSc Marriage and Family Therapy",
-        meta='<p class="meta">Complete lecture library · 27 course books · 40 original figures</p>',
+        meta='<p class="meta">Complete lecture library · 28 course books · 40 original figures</p>',
         body=("<p>Every course in the programme is written as a self-contained book: 14–16 weeks of "
               "teaching, worked cases, practicals, assessment, glossary and further reading.</p>"
+              "<p>The same books are also typeset as a <b>print edition</b>: one finished A4 PDF per "
+              "course, plus the whole programme bound into a single bookmarked file. "
+              '<a href="../pdf/README.md">Open the print edition</a>.</p>'
               + "".join(cards)))
     open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(idx)
     # asset passthrough: pages live in site/, figures referenced as ../assets/...

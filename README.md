@@ -9,6 +9,10 @@ Each book is built to carry a **14–16 week semester**: a week-by-week teaching
 cases, in-class practicals, assessment, glossary, and further reading. Nothing here is a summary — the books
 are written to be taught from.
 
+Every volume also exists as a **finished A4 PDF** — cover, imprint, contents with page numbers, running
+heads, folios, embedded figures and bookmarks — in [`pdf/`](pdf/README.md), and the whole programme is
+bound into one 449-page file.
+
 ---
 
 ## Start here
@@ -18,6 +22,7 @@ are written to be taught from.
 | A student | [Programme handbook](00-programme/00-programme-handbook.md) |
 | A lecturer | [Teaching and assessment guide](00-programme/01-teaching-and-assessment-guide.md) |
 | Looking for a diagram | [Figure index](00-programme/02-figure-index.md) or the visual [Figure gallery](00-programme/03-figure-gallery.md) |
+| Wanting a printed book | [PDF print edition](pdf/README.md) — one A4 PDF per course, or the [complete library in one file](pdf/MFT-Library-Complete-28-volumes.pdf) |
 | Wanting to browse everything | `python3 scripts/build_site.py`, then open `site/index.html` (or `python3 -m http.server`) |
 
 ---
@@ -70,6 +75,37 @@ are written to be taught from.
 
 ---
 
+## The print edition
+
+There are two ways to read the library: as Markdown/HTML, or as a finished book. The `pdf/` folder holds
+**29 PDFs** — one per course, plus the whole library in a single bookmarked volume.
+
+| Edition | What it is | Where |
+|---|---|---|
+| Course PDFs | 28 files, A4, 11–27 pages each, 447 pages in total | [`pdf/`](pdf/README.md) |
+| Complete library | all 28 volumes in programme order, 449 pages, nested bookmarks | [MFT-Library-Complete-28-volumes.pdf](pdf/MFT-Library-Complete-28-volumes.pdf) |
+
+Each PDF opens with a cover carrying the course code, semester, unit value and prerequisite; an imprint
+page with the citation, licence and the fictional-case statement; and a page listing every course in the
+programme with the current volume marked. Then comes a two-level contents with real page numbers, the full
+course text, and the back matter — integration chapter, glossary, self-assessment with model answers,
+further reading.
+
+The PDFs are **generated from the Markdown**, so the text has a single source of truth:
+
+```bash
+python3 scripts/build_pdfs.py              # 28 course PDFs -> pdf/
+python3 scripts/build_pdfs.py --complete   # + the merged 449-page volume
+python3 scripts/build_pdfs.py --only MFT-701
+```
+
+They need `reportlab`, `pillow`, `pypdf` and a `node` install of `@resvg/resvg-js` (used to turn the SVG
+figures into print-resolution PNGs, so no reader ever has to render SVG). Type is DejaVu Serif and DejaVu
+Sans throughout, embedded in every file, with italic faces synthesised by shearing so the output does not
+change with the machine.
+
+---
+
 ## How each book is structured
 
 ```
@@ -96,16 +132,21 @@ stay sharp at any size, print cleanly, and can be recoloured or edited in any ve
 ## Working with the repository
 
 ```bash
-python3 scripts/build_figures.py      # regenerate all 40 figures + layout lint
-python3 scripts/build_site.py         # build the HTML edition into site/
-python3 scripts/build_site.py --serve # build, then serve on :8000
+python3 scripts/build_figures.py       # regenerate all 40 figures + layout lint
+python3 scripts/build_site.py          # build the HTML edition into site/
+python3 scripts/build_site.py --serve  # build, then serve on :8000
+python3 scripts/build_pdfs.py          # build the 28 A4 PDFs into pdf/
+python3 scripts/build_pdfs.py --complete  # + the single 449-page library volume
 ```
 
 * `scripts/figstyle.py` — a small SVG toolkit with real font metrics and a layout linter, so figures do not
   produce overlapping labels.
 * `scripts/figs_*.py` — the figure definitions (theory, clinical, practice).
 * `scripts/build_site.py` — Markdown → static HTML with sidebar, search and print CSS.
+* `scripts/build_pdfs.py` — Markdown → A4 PDF: typesetting, tables, callouts, covers, contents, bookmarks.
+* `scripts/svg2png.js` — figure rasteriser used by the PDF build (`@resvg/resvg-js`).
 * `site/` — the generated HTML edition (safe to delete and rebuild; committed so it can be opened directly).
+* `pdf/` — the generated print edition (also committed, so the books can be handed out as-is).
 
 The figure scripts also **lint** each drawing: they report out-of-canvas text and overlapping labels, and the
 build prints `0 layout problem(s)` when everything is clean.

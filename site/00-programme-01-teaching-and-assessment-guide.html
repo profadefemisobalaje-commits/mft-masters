@@ -61,7 +61,7 @@ hr{border:none;border-top:1px solid var(--line);margin:34px 0}
  main{padding:24px 18px 60px}h1{font-size:24px}}
 </style></head><body><div class="wrap">
 <nav><h1>MSc Marriage &amp; Family Therapy</h1>
-<div class="sub">Complete lecture library · 27 course books</div>
+<div class="sub">Complete lecture library · 28 course books</div>
 <input id="q" placeholder="Filter courses…" oninput="f(this.value)">
 <div class="sec">Programme</div>
 <a href="00-programme-00-programme-handbook.html">Programme Handbook — MSc Marriage and Family Therapy</a>
@@ -100,7 +100,7 @@ hr{border:none;border-top:1px solid var(--line);margin:34px 0}
 <a href="04-electives-MFT-725-integrative-approaches-in-therapy.html">MFT 725 — Integrative Approaches in Therapy</a>
 <a href="04-electives-MFT-726-neurobiology-of-relationships.html">MFT 726 — Neurobiology of Relationships</a>
 <a href="04-electives-MFT-727-play-therapy-techniques.html">MFT 727 — Play Therapy Techniques</a></nav>
-<main><h1>Teaching and Assessment Guide for Lecturers</h1><div class="toc"><div>In this book</div><a href="#1-the-default-session-shape-2-hours-1-hour-practical">1. The default session shape (2 hours + 1 hour practical)</a><a href="#2-assessment-design-principles">2. Assessment design principles</a><a href="#3-teaching-the-difficult-topics">3. Teaching the difficult topics</a><a href="#4-running-the-skills-labs">4. Running the skills labs</a><a href="#5-common-student-difficulties-and-what-to-do">5. Common student difficulties (and what to do)</a><a href="#6-materials-ethics-and-logistics">6. Materials, ethics and logistics</a><a href="#7-a-suggested-semester-rhythm">7. A suggested semester rhythm</a><a href="#8-if-you-only-have-three-hours-with-this-book">8. If you only have three hours with this book</a></div><div class="callout note">For the person delivering the course. Short, practical, and designed so a new lecturer can pick up a book and teach it next week.</div>
+<main><h1>Teaching and Assessment Guide for Lecturers</h1><div class="toc"><div>In this book</div><a href="#1-the-default-session-shape-2-hours-1-hour-practical">1. The default session shape (2 hours + 1 hour practical)</a><a href="#2-assessment-design-principles">2. Assessment design principles</a><a href="#3-teaching-the-difficult-topics">3. Teaching the difficult topics</a><a href="#4-running-the-skills-labs">4. Running the skills labs</a><a href="#5-common-student-difficulties-and-what-to-do">5. Common student difficulties (and what to do)</a><a href="#6-materials-ethics-and-logistics">6. Materials, ethics and logistics</a><a href="#7-a-suggested-semester-rhythm">7. A suggested semester rhythm</a><a href="#8-if-you-only-have-three-hours-with-this-book">8. If you only have three hours with this book</a><a href="#9-printing-and-distributing-the-materials">9. Printing and distributing the materials</a></div><div class="callout note">For the person delivering the course. Short, practical, and designed so a new lecturer can pick up a book and teach it next week.</div>
 <hr>
 <h2 id="1-the-default-session-shape-2-hours-1-hour-practical">1. The default session shape (2 hours + 1 hour practical)</h2>
 <div class="tw"><table><thead><tr><th>Time</th><th>Segment</th><th>Purpose</th></tr></thead><tbody>
@@ -178,7 +178,17 @@ hr{border:none;border-top:1px solid var(--line);margin:34px 0}
 </tbody></table></div>
 <hr>
 <h2 id="8-if-you-only-have-three-hours-with-this-book">8. If you only have three hours with this book</h2>
-<p>Teach Week 1 (framing), the week containing the central model, and the integration chapter. Set the practicals as self-directed triad work with a submitted log. That preserves the spine of the course: what the work is, how it is done, and how it fits together.</p></main></div>
+<p>Teach Week 1 (framing), the week containing the central model, and the integration chapter. Set the practicals as self-directed triad work with a submitted log. That preserves the spine of the course: what the work is, how it is done, and how it fits together.</p>
+<hr>
+<h2 id="9-printing-and-distributing-the-materials">9. Printing and distributing the materials</h2>
+<p>Every course is available as a finished A4 PDF in <a href="../pdf/README.md"><code>../pdf/</code></a>; the whole programme is in <a href="../pdf/MFT-Library-Complete-28-volumes.pdf"><code>MFT-Library-Complete-28-volumes.pdf</code></a>. Practical notes for running a semester from the print edition:</p>
+<ul>
+<li><strong>Set the reading from the page numbers, not the chapter titles.</strong> Each PDF's contents page carries real page numbers, and the bookmarks in the sidebar match them, so "read pages 6–9 before Thursday" is unambiguous.</li>
+<li><strong>Print the week, not the book.</strong> The weekly sections are self-contained: the idea, the practice, a case and a reflective task. A 14-week course prints to roughly 25 pages of core text.</li>
+<li><strong>Photocopy the practicals.</strong> Callout panels (case, practical, caution, debate, reflection) are set in tinted boxes precisely so they can be lifted onto a worksheet without re-typing.</li>
+<li><strong>Licence.</strong> CC BY 4.0: copy, adapt and translate freely with attribution. If you change a book, mark it as changed and keep the attribution line from the imprint page.</li>
+<li><strong>Regenerating.</strong> After editing the Markdown, run <code>python3 scripts/build_pdfs.py --complete</code> and both the individual volumes and the merged file update, with contents and bookmarks rebuilt automatically.</li>
+</ul></main></div>
 <script>
 function f(v){v=v.toLowerCase();
 document.querySelectorAll('nav a').forEach(function(a){
