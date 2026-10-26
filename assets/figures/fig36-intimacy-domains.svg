@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="662" viewBox="0 0 980 662" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="662" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Eight Domains of Couple Intimacy</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Sex is one spoke, not the wheel; couples often argue about the spoke when the wheel is broken</text>
+  <circle cx="490.0" cy="350.0" r="74" fill="#334155" stroke="none" stroke-width="1.5"/>
+  <text x="490.0" y="340.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;">Intimacy</text>
+  <text x="490.0" y="364.0" fill="#cbd5e1" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">is plural</text>
+  <line x1="490.0" y1="272.0" x2="490.0" y2="170.0" stroke="#0f766e" stroke-width="2"/>
+  <rect x="402.0" y="110.0" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="132.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Emotional</text>
+  <text x="490.0" y="152.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">being known and accepted</text>
+  <line x1="545.2" y1="294.8" x2="594.7" y2="222.7" stroke="#1d4ed8" stroke-width="2"/>
+  <rect x="550.5" y="171.5" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <text x="638.5" y="193.5" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Physical</text>
+  <text x="638.5" y="213.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">touch, affection, proximity</text>
+  <line x1="568.0" y1="350.0" x2="638.0" y2="350.0" stroke="#9f1239" stroke-width="2"/>
+  <rect x="612.0" y="320.0" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <text x="700.0" y="342.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Sexual</text>
+  <text x="700.0" y="362.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">desire, pleasure, consent</text>
+  <line x1="545.2" y1="405.2" x2="594.7" y2="477.3" stroke="#6d28d9" stroke-width="2"/>
+  <rect x="550.5" y="468.5" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <text x="638.5" y="490.5" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Intellectual</text>
+  <text x="638.5" y="510.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">ideas, curiosity, play</text>
+  <line x1="490.0" y1="428.0" x2="490.0" y2="530.0" stroke="#15803d" stroke-width="2"/>
+  <rect x="402.0" y="530.0" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="552.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Spiritual</text>
+  <text x="490.0" y="572.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">shared meaning, prayer, values</text>
+  <line x1="434.8" y1="405.2" x2="385.3" y2="477.3" stroke="#b45309" stroke-width="2"/>
+  <rect x="253.5" y="468.5" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="341.5" y="490.5" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Social</text>
+  <text x="341.5" y="510.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">friends, family, community</text>
+  <line x1="412.0" y1="350.0" x2="342.0" y2="350.0" stroke="#0891b2" stroke-width="2"/>
+  <rect x="192.0" y="320.0" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#0891b2" stroke-width="1.5" opacity="1.0"/>
+  <text x="280.0" y="342.0" fill="#0891b2" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Recreational</text>
+  <text x="280.0" y="362.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">fun, adventure, rest</text>
+  <line x1="434.8" y1="294.8" x2="385.3" y2="222.7" stroke="#7c2d12" stroke-width="2"/>
+  <rect x="253.5" y="171.5" width="176.0" height="60.0" rx="10" fill="#ffffff" stroke="#7c2d12" stroke-width="1.5" opacity="1.0"/>
+  <text x="341.5" y="193.5" fill="#7c2d12" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Financial</text>
+  <text x="341.5" y="213.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">money, security, decisions</text>
+  <rect x="40.0" y="588.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="607.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="628.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Assessment question: 'On a scale of 0–10, how satisfied are you with each of these eight?' Plot both partners' scores. Discrepancy is information, not</text>
+  <text x="54.0" y="642.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">betrayal — and the lowest spoke is rarely the one the couple complains about.</text>
+</svg>

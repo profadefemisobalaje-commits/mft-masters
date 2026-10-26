@@ -1,0 +1,299 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MFT 770 — Master Thesis</title><style>
+:root{--ink:#1f2937;--muted:#5b6675;--line:#e2e8f0;--teal:#0f766e;--bg:#fff;
+--panel:#f8fafc;--amber:#b45309;--rose:#9f1239;--plum:#6d28d9;--blue:#1d4ed8;--green:#15803d;}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;
+color:var(--ink);background:var(--bg);line-height:1.68;font-size:16.5px}
+.wrap{display:grid;grid-template-columns:296px minmax(0,1fr);min-height:100vh}
+nav{position:sticky;top:0;height:100vh;overflow-y:auto;background:#0f172a;color:#cbd5e1;padding:22px 18px 60px}
+nav h1{font-size:15px;letter-spacing:.4px;color:#fff;margin:0 0 4px;line-height:1.35}
+nav .sub{font-size:11.5px;color:#94a3b8;margin-bottom:16px}
+nav input{width:100%;padding:8px 10px;border-radius:8px;border:1px solid #334155;
+background:#1e293b;color:#e2e8f0;font-size:13px;margin-bottom:14px}
+nav a{display:block;color:#cbd5e1;text-decoration:none;font-size:13px;padding:5px 8px;border-radius:6px}
+nav a:hover{background:#1e293b;color:#fff}
+nav a.on{background:var(--teal);color:#fff;font-weight:600}
+nav .sec{font-size:10.5px;letter-spacing:1.2px;text-transform:uppercase;color:#64748b;margin:18px 0 6px}
+a{color:var(--teal)}
+main{padding:44px 52px 90px;max-width:1000px;width:100%}
+h1{font-size:30px;line-height:1.25;margin:0 0 8px;color:#0f172a;letter-spacing:-.4px}
+h2{font-size:22px;margin:46px 0 12px;padding-top:12px;border-top:1px solid var(--line);
+color:#0f172a;scroll-margin-top:16px}
+h3{font-size:17.5px;margin:28px 0 8px;color:var(--teal)}
+h4{font-size:15px;margin:20px 0 6px;color:#334155}
+p{margin:0 0 14px;max-width:76ch}
+ul,ol{margin:0 0 16px;padding-left:24px;max-width:76ch}
+li{margin:5px 0}
+code{background:#f1f5f9;padding:1px 5px;border-radius:4px;font-size:.9em}
+pre{background:#0f172a;color:#e2e8f0;padding:16px;border-radius:10px;overflow-x:auto}
+figure{margin:22px 0;padding:0}
+figure img{width:100%;height:auto;border:1px solid var(--line);border-radius:12px;background:#fff}
+figcaption{font-size:13px;color:var(--muted);margin-top:8px;font-style:italic}
+.tw{overflow-x:auto;margin:18px 0}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{border:1px solid var(--line);padding:9px 11px;vertical-align:top;text-align:left}
+th{background:var(--panel);font-size:12.5px;text-transform:uppercase;letter-spacing:.5px;color:#475569}
+tr:nth-child(even) td{background:#fcfdfe}
+blockquote,.callout{margin:20px 0;padding:16px 18px;border-radius:10px;border-left:4px solid var(--amber);
+background:#fdf7ec;font-size:15px}
+.callout.case{border-color:var(--teal);background:#eef7f5}
+.callout.practical{border-color:var(--blue);background:#eef2fd}
+.callout.caution{border-color:var(--rose);background:#fcf0f4}
+.callout.reflect{border-color:var(--plum);background:#f5f0fe}
+.callout.key{border-color:var(--green);background:#eef8f1}
+.callout.dialog{border-color:#475569;background:#f4f6f9}
+.callout.law{border-color:#7c2d12;background:#fbf3ee}
+hr{border:none;border-top:1px solid var(--line);margin:34px 0}
+.meta{color:var(--muted);font-size:14px;margin:0 0 6px}
+.toc{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 22px;margin:24px 0}
+.toc div{font-size:11px;letter-spacing:1.3px;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.toc a{display:block;font-size:14px;padding:3px 0;text-decoration:none}
+.toc a:hover{text-decoration:underline}
+@media print{
+ nav{display:none}.wrap{display:block}main{padding:0;max-width:none}
+ h2{page-break-after:avoid}figure{page-break-inside:avoid}body{font-size:11.5pt}
+ a{color:inherit;text-decoration:none}
+}
+@media (max-width:900px){.wrap{display:block}nav{position:static;height:auto}
+ main{padding:24px 18px 60px}h1{font-size:24px}}
+</style></head><body><div class="wrap">
+<nav><h1>MSc Marriage &amp; Family Therapy</h1>
+<div class="sub">Complete lecture library · 27 course books</div>
+<input id="q" placeholder="Filter courses…" oninput="f(this.value)">
+<div class="sec">Programme</div>
+<a href="00-programme-00-programme-handbook.html">Programme Handbook — MSc Marriage and Family Therapy</a>
+<a href="00-programme-01-teaching-and-assessment-guide.html">Teaching and Assessment Guide for Lecturers</a>
+<a href="00-programme-02-figure-index.html">Figure Index — 40 Original Diagrams</a>
+<a href="00-programme-03-figure-gallery.html">Figure Gallery — All 40 Diagrams</a>
+<div class="sec">Semester One</div>
+<a href="01-semester-one-MFT-701-fundamentals-of-marriage-and-family-therapy.html">MFT 701 — Fundamentals of Marriage and Family Therapy</a>
+<a href="01-semester-one-MFT-702-theories-of-family-therapy.html">MFT 702 — Theories of Family Therapy</a>
+<a href="01-semester-one-MFT-703-human-development-across-the-lifespan.html">MFT 703 — Human Development Across the Lifespan</a>
+<a href="01-semester-one-MFT-704-ethical-and-legal-issues-in-therapy.html">MFT 704 — Ethical and Legal Issues in Therapy</a>
+<a href="01-semester-one-MFT-705-research-methods-in-mft.html">MFT 705 — Research Methods in Marriage and Family Therapy</a>
+<a href="01-semester-one-MFT-706-clinical-practice-and-techniques.html">MFT 706 — Clinical Practice and Techniques</a>
+<a href="01-semester-one-MFT-707-assessment-and-diagnosis-in-family-therapy.html">MFT 707 — Assessment and Diagnosis in Family Therapy</a>
+<a href="01-semester-one-MFT-708-cultural-competence-in-therapy.html">MFT 708 — Cultural Competence in Therapy</a>
+<div class="sec">Semester Two</div>
+<a href="02-semester-two-MFT-709-group-therapy-techniques.html">MFT 709 — Group Therapy Techniques</a>
+<a href="02-semester-two-MFT-710-couples-therapy.html">MFT 710 — Couples Therapy</a>
+<a href="02-semester-two-MFT-711-child-and-adolescent-therapy.html">MFT 711 — Child and Adolescent Therapy</a>
+<a href="02-semester-two-MFT-712-crisis-intervention-strategies.html">MFT 712 — Crisis Intervention Strategies</a>
+<a href="02-semester-two-MFT-713-substance-abuse-and-family-dynamics.html">MFT 713 — Substance Abuse and Family Dynamics</a>
+<a href="02-semester-two-MFT-714-trauma-informed-care.html">MFT 714 — Trauma-Informed Care</a>
+<a href="02-semester-two-MFT-715-family-systems-theory.html">MFT 715 — Family Systems Theory</a>
+<div class="sec">Semester Three</div>
+<a href="03-semester-three-MFT-716-communication-skills-in-therapy.html">MFT 716 — Communication Skills in Therapy</a>
+<a href="03-semester-three-MFT-717-psychopathology-in-families.html">MFT 717 — Psychopathology in Families</a>
+<a href="03-semester-three-MFT-718-intimacy-and-relationship-dynamics.html">MFT 718 — Intimacy and Relationship Dynamics</a>
+<a href="03-semester-three-MFT-719-family-life-cycle-and-transitions.html">MFT 719 — Family Life Cycle and Transitions</a>
+<a href="03-semester-three-MFT-720-supervision-and-consultation.html">MFT 720 — Supervision and Consultation in Therapy</a>
+<a href="03-semester-three-MFT-721-research-methodology.html">MFT 721 — Research Methodology</a>
+<a href="03-semester-three-MFT-770-master-thesis.html">MFT 770 — Master Thesis</a>
+<div class="sec">Electives</div>
+<a href="04-electives-MFT-722-professional-development-and-self-care.html">MFT 722 — Professional Development and Self-Care</a>
+<a href="04-electives-MFT-723-special-populations-in-therapy.html">MFT 723 — Special Populations in Therapy</a>
+<a href="04-electives-MFT-724-family-law-and-advocacy.html">MFT 724 — Family Law and Advocacy</a>
+<a href="04-electives-MFT-725-integrative-approaches-in-therapy.html">MFT 725 — Integrative Approaches in Therapy</a>
+<a href="04-electives-MFT-726-neurobiology-of-relationships.html">MFT 726 — Neurobiology of Relationships</a>
+<a href="04-electives-MFT-727-play-therapy-techniques.html">MFT 727 — Play Therapy Techniques</a></nav>
+<main><h1>MFT 770 — Master Thesis</h1><p class="meta"><strong>MSc Marriage and Family Therapy</strong> · Semester Three (continuing) · 1.71 Units · 14 structured weeks + submission and defence · Prerequisite: MFT 705, 721</p><div class="toc"><div>In this book</div><a href="#how-to-use-this-book">How to use this book</a><a href="#1-what-the-thesis-is">1. What the thesis is</a><a href="#2-the-fourteen-structured-weeks">2. The fourteen structured weeks</a><a href="#3-choosing-a-question-you-can-finish">3. Choosing a question you can finish</a><a href="#4-the-literature-review">4. The literature review</a><a href="#5-design-and-methods">5. Design and methods</a><a href="#6-ethics">6. Ethics</a><a href="#7-data-collection">7. Data collection</a><a href="#8-analysis">8. Analysis</a><a href="#9-writing-the-thesis">9. Writing the thesis</a><a href="#10-the-supervision-relationship">10. The supervision relationship</a><a href="#11-the-viva">11. The viva</a><a href="#12-after-the-defence">12. After the defence</a><a href="#13-project-management">13. Project management</a><a href="#14-assessment">14. Assessment</a><a href="#appendix-thesis-checklist">Appendix: thesis checklist</a><a href="#further-reading">Further reading</a></div><p><strong>Course leader's summary.</strong> The thesis is not a bigger essay. It is a supervised, ethical, original inquiry that a professional body would accept as evidence that you can generate knowledge, not only consume it. This book is the project management manual plus the academic guide.</p>
+<hr>
+<h2 id="how-to-use-this-book">How to use this book</h2>
+<p>Work the milestones in order; they are dated to protect you from the two classic disasters — a brilliant plan that cannot be completed, and a completed study that answers nothing. Bring the weekly artefact to supervision even if it is imperfect. Progress beats polish.</p>
+<hr>
+<h2 id="1-what-the-thesis-is">1. What the thesis is</h2>
+<div class="tw"><table><thead><tr><th>Element</th><th>Requirement</th></tr></thead><tbody>
+<tr><td>Length</td><td>15,000–20,000 words (excluding appendices), or the institutional equivalent</td></tr>
+<tr><td>Contribution</td><td>Original, however modest: new data, new analysis, a local validation, a qualitative account, a service evaluation</td></tr>
+<tr><td>Methods</td><td>Quantitative, qualitative or mixed; must be defensible and feasible</td></tr>
+<tr><td>Ethics</td><td>Institutional approval before any data collection</td></tr>
+<tr><td>Supervision</td><td>Minimum fortnightly contact with a named supervisor</td></tr>
+<tr><td>Output</td><td>Bound thesis, oral defence, and (encouraged) a publishable manuscript</td></tr>
+</tbody></table></div>
+<p><strong>What it is not.</strong> A literature review alone (that is a different degree component). A clinical case series without a systematic method. A replication of a manual with no question. A project that requires resources you do not have.</p>
+<hr>
+<h2 id="2-the-fourteen-structured-weeks">2. The fourteen structured weeks</h2>
+<div class="tw"><table><thead><tr><th>Week</th><th>Milestone</th><th>Artefact due in supervision</th></tr></thead><tbody>
+<tr><td>1</td><td>Topic refinement and scope</td><td>One-page problem statement</td></tr>
+<tr><td>2</td><td>Literature search strategy</td><td>Search log and 20 key references</td></tr>
+<tr><td>3</td><td>Critical literature review draft</td><td>2,000-word draft</td></tr>
+<tr><td>4</td><td>Research question and aims</td><td>PICO/SPIDER and aims table</td></tr>
+<tr><td>5</td><td>Design selection</td><td>Design decision log</td></tr>
+<tr><td>6</td><td>Measurement and materials</td><td>Instrument pack</td></tr>
+<tr><td>7</td><td>Ethics application</td><td>Completed ethics form</td></tr>
+<tr><td>8</td><td>Sampling and recruitment plan</td><td>Recruitment protocol and letters</td></tr>
+<tr><td>9</td><td>Analysis plan</td><td>Pre-specified analysis plan</td></tr>
+<tr><td>10</td><td>Pilot or feasibility work</td><td>Pilot findings and amendments</td></tr>
+<tr><td>11</td><td>Data collection checkpoint</td><td>Recruitment and data quality report</td></tr>
+<tr><td>12</td><td>Analysis progress</td><td>First results tables/coding frame</td></tr>
+<tr><td>13</td><td>Findings and discussion drafting</td><td>Draft chapters 4–5</td></tr>
+<tr><td>14</td><td>Full draft and defence preparation</td><td>Complete draft, viva questions</td></tr>
+</tbody></table></div>
+<p><strong>Timeline discipline.</strong> A part-time student should assume 12–18 months from registration to defence. Full-time students commonly need 9–12 months. If your plan assumes everything goes right, add 30%.</p>
+<hr>
+<h2 id="3-choosing-a-question-you-can-finish">3. Choosing a question you can finish</h2>
+<p><strong>The three-circle test.</strong> A viable thesis sits where (1) you are curious, (2) the field needs it, and (3) you have access. If any circle is missing, choose a different question, not a bigger effort.</p>
+<p><strong>Good thesis questions in this field (examples).</strong></p>
+<ol>
+<li>What is the reliability and factor structure of the RDAS in a Nigerian clinical sample?</li>
+<li>How do fathers describe their experience of being excluded from family therapy?</li>
+<li>Does a four-session psychoeducation group reduce caregiver burden among families of people with psychosis?</li>
+<li>What do couples report about the process of rebuilding trust after infidelity?</li>
+<li>What predicts drop-out after a first family therapy appointment in a community clinic?</li>
+<li>How do therapists in training describe the influence of their own family of origin on their clinical decisions?</li>
+<li>Does a culturally adapted version of the speaker–listener technique improve communication in a small clinical series?</li>
+</ol>
+<p><strong>Questions to avoid.</strong> "The effect of family therapy on family functioning" (too broad); "Why is family therapy better than individual therapy?" (advocacy, not inquiry); anything requiring a sample you cannot access or an instrument you cannot obtain.</p>
+<div class="callout note"><strong>ARTEFACT</strong> — A one-page problem statement: what is unknown, why it matters, who it affects, and what you will produce.</div>
+<hr>
+<h2 id="4-the-literature-review">4. The literature review</h2>
+<p><strong>Purpose.</strong> Not to summarise everything, but to establish (a) what is known, (b) what is contested, (c) what is missing, and (d) why your question follows.</p>
+<p><strong>Search discipline.</strong></p>
+<ul>
+<li>At least three databases (PubMed, PsycINFO, Scopus, AJOL, Google Scholar as a supplement).</li>
+<li>Document the strategy: terms, limits, date, number of results, number retained.</li>
+<li>Use a reference manager from day one.</li>
+<li>Read systematic reviews first; they map the field faster than primary papers.</li>
+</ul>
+<p><strong>Structure of the chapter.</strong> Context → key constructs and definitions → what the evidence shows → what is contested → what is missing (the gap) → your question and aims.</p>
+<p><strong>The gap must be specific.</strong> "Few studies have examined X in Y population using Z method" — not "more research is needed."</p>
+<hr>
+<h2 id="5-design-and-methods">5. Design and methods</h2>
+<p><strong>The rule.</strong> The method chapter must be detailed enough that a competent reader could replicate the study, and honest enough that they could see its limits.</p>
+<p><strong>Chapter contents.</strong></p>
+<ol>
+<li>Design and rationale.</li>
+<li>Setting and context.</li>
+<li>Participants: inclusion, exclusion, recruitment, consent, sample size justification.</li>
+<li>Measures: source, psychometrics, scoring, adaptation and translation procedures.</li>
+<li>Procedure: what happened, in what order, for how long.</li>
+<li>Analysis: software, models, assumptions, missing data, coding approach, rigour procedures.</li>
+<li>Ethical considerations: approval reference, consent, confidentiality, risk, data storage.</li>
+<li>Researcher position and reflexivity.</li>
+</ol>
+<hr>
+<h2 id="6-ethics">6. Ethics</h2>
+<p><strong>Required before any data collection.</strong> A retrospective application is a serious breach.</p>
+<p><strong>Standard components.</strong> Purpose and design; participants and recruitment; consent process and documents; risks and benefits; confidentiality and data management; payment; dissemination; and procedures for distress or incidental findings.</p>
+<p><strong>Family-specific issues.</strong> Consent from guardians plus assent from minors; separate consent for each family member; managing the possibility that one member withdraws; protecting group confidentiality; and a protocol for disclosures of risk during data collection.</p>
+<div class="callout note"><strong>ARTEFACT</strong> — A complete ethics application with consent forms for an adult and a minor, and a risk protocol for a participant who discloses harm during an interview.</div>
+<hr>
+<h2 id="7-data-collection">7. Data collection</h2>
+<p><strong>Pilot first.</strong> Five to ten participants will reveal problems that a hundred will not forgive: unclear questions, unworkable recruitment, unusable audio, unrealistic time estimates.</p>
+<p><strong>Data quality.</strong> Check recordings the same week; transcribe promptly; keep a fieldwork log; record refusals and reasons (they are data).</p>
+<p><strong>Recruitment tactics that work in clinical settings.</strong> A named contact who can introduce you; a one-page information sheet; flexible times; a clear statement of what participation involves; and a follow-up call at 48 hours. Do not rely on posters.</p>
+<hr>
+<h2 id="8-analysis">8. Analysis</h2>
+<p><strong>Quantitative.</strong> Follow the pre-specified plan; document deviations; check assumptions; report descriptives before inference; report effect sizes with confidence intervals; run sensitivity analyses; keep the analysis log current.</p>
+<p><strong>Qualitative.</strong> Transcribe verbatim; code systematically; keep memos; audit your coding; discuss divergence with a second coder; move from codes to themes with an explicit, documented logic; and present themes with data extracts (anonymised).</p>
+<p><strong>Mixed methods.</strong> Decide in advance how the strands will be integrated, and produce at least one joint display.</p>
+<hr>
+<h2 id="9-writing-the-thesis">9. Writing the thesis</h2>
+<p><strong>Standard structure.</strong></p>
+<div class="tw"><table><thead><tr><th>Chapter</th><th>Content</th><th>Typical length</th></tr></thead><tbody>
+<tr><td>1</td><td>Introduction and background</td><td>2,000</td></tr>
+<tr><td>2</td><td>Literature review</td><td>5,000</td></tr>
+<tr><td>3</td><td>Methodology</td><td>3,500</td></tr>
+<tr><td>4</td><td>Findings</td><td>4,000</td></tr>
+<tr><td>5</td><td>Discussion</td><td>3,500</td></tr>
+<tr><td>6</td><td>Conclusion and recommendations</td><td>1,000</td></tr>
+<tr><td>—</td><td>References, appendices</td><td>—</td></tr>
+</tbody></table></div>
+<p><strong>Writing rules.</strong></p>
+<ul>
+<li>Write the method first; it is the easiest chapter and it clarifies everything.</li>
+<li>Draft findings as soon as you have data; do not wait for "enough".</li>
+<li>Keep a "parking lot" file for ideas that belong elsewhere.</li>
+<li>Write 500 words a day rather than 5,000 in a panic.</li>
+<li>Read your work aloud; if you run out of breath, the sentence is too long.</li>
+</ul>
+<p><strong>Voice.</strong> Academic but human. First person is acceptable in reflective and qualitative sections; follow your institution's guidance. Avoid both inflated jargon and chatty informality.</p>
+<hr>
+<h2 id="10-the-supervision-relationship">10. The supervision relationship</h2>
+<p><strong>What your supervisor owes you.</strong> Regular contact; timely feedback; methodological and ethical guidance; honesty about the standard of your work; and reasonable availability.</p>
+<p><strong>What you owe your supervisor.</strong> Prepared meetings with an agenda and an artefact; drafts submitted on time; decisions recorded; and honesty about difficulties — especially delays.</p>
+<p><strong>Managing difficulty.</strong> If supervision is not working, raise it early with the programme director. A change of supervisor is legitimate and common; drifting for six months is not.</p>
+<p><strong>The meeting agenda template.</strong></p>
+<ol>
+<li>Progress since last meeting (three bullets).</li>
+<li>Decisions needed today (the most important item first).</li>
+<li>Problems I am stuck on.</li>
+<li>What I will do before the next meeting.</li>
+<li>Date of next meeting.</li>
+</ol>
+<hr>
+<h2 id="11-the-viva">11. The viva</h2>
+<p><strong>What examiners test.</strong> Whether you understand your own study: why you chose it, what you did, what it means, and what it cannot support.</p>
+<p><strong>Preparation.</strong></p>
+<ol>
+<li>Re-read your thesis and mark every claim you could not defend.</li>
+<li>Prepare a two-minute summary.</li>
+<li>Prepare answers to the four standard questions: design, validity, analysis, conclusion.</li>
+<li>Rehearse with a peer who is instructed to be difficult.</li>
+<li>Bring a copy of your thesis, your analysis log and a pen.</li>
+</ol>
+<p><strong>In the room.</strong> Answer the question asked. Say "I don't know" when you don't. Distinguish what the data show from what you hope they show. Correct errors gracefully.</p>
+<p><strong>Common reasons for referral or failure.</strong> Design cannot answer the question; analysis misapplied; ethics breach; unacknowledged limitations; and evidence of work not being the candidate's own.</p>
+<hr>
+<h2 id="12-after-the-defence">12. After the defence</h2>
+<p><strong>Corrections.</strong> Make them promptly, with a tracking table mapping each examiner comment to the change made.</p>
+<p><strong>Dissemination.</strong> Submit a manuscript to a journal; present at a conference; give a plain-language summary to the participating service. Dissemination is part of the ethical contract with your participants.</p>
+<p><strong>Your data.</strong> Retain as required by your institution's policy, then destroy securely.</p>
+<hr>
+<h2 id="13-project-management">13. Project management</h2>
+<div class="tw"><table><thead><tr><th>Risk</th><th>Early warning</th><th>Mitigation</th></tr></thead><tbody>
+<tr><td>Recruitment failure</td><td>Fewer than 50% of target by mid-point</td><td>Widen eligibility; add sites; adjust design (with supervisor and ethics approval)</td></tr>
+<tr><td>Analysis paralysis</td><td>Repeated re-coding without writing</td><td>Fixed decision date; write the methods and limitations</td></tr>
+<tr><td>Supervisor unavailability</td><td>Missed meetings</td><td>Written agenda; escalate early</td></tr>
+<tr><td>Personal crisis</td><td>Missed deadlines</td><td>Tell the programme early; request extension with evidence</td></tr>
+<tr><td>Scope creep</td><td>New questions each week</td><td>Freeze the question after Week 4; park ideas</td></tr>
+</tbody></table></div>
+<p><strong>The one-page dashboard.</strong> Question, milestones, current position, next action, date, supervisor appointment. Update weekly; it will save your degree.</p>
+<hr>
+<h2 id="14-assessment">14. Assessment</h2>
+<div class="tw"><table><thead><tr><th>Component</th><th>Weight</th></tr></thead><tbody>
+<tr><td>Proposal (approved by panel)</td><td>10%</td></tr>
+<tr><td>Ethics approval</td><td>Pass/fail gate</td></tr>
+<tr><td>Thesis</td><td>70%</td></tr>
+<tr><td>Oral defence</td><td>20%</td></tr>
+</tbody></table></div>
+<p><strong>Marking criteria (typical).</strong> Originality and significance; command of the literature; appropriateness and rigour of method; quality of analysis; critical discussion; ethical practice; presentation and referencing.</p>
+<hr>
+<h2 id="appendix-thesis-checklist">Appendix: thesis checklist</h2>
+<ul>
+<li>[ ] Question is specific, answerable, and stated in one sentence</li>
+<li>[ ] Literature search documented and reproducible</li>
+<li>[ ] Gap statement is specific, not "more research is needed"</li>
+<li>[ ] Design justified against at least one alternative</li>
+<li>[ ] Sample size justification provided</li>
+<li>[ ] Ethics reference number included</li>
+<li>[ ] Measures described with psychometric properties and any adaptation</li>
+<li>[ ] Analysis plan pre-specified; deviations recorded and explained</li>
+<li>[ ] Assumptions checked and reported</li>
+<li>[ ] Effect sizes with confidence intervals</li>
+<li>[ ] Findings presented before interpretation</li>
+<li>[ ] Limitations specific and honest</li>
+<li>[ ] Implications for practice are actionable</li>
+<li>[ ] Referencing consistent and complete</li>
+<li>[ ] Plain-language summary prepared for participants</li>
+</ul>
+<hr>
+<h2 id="further-reading">Further reading</h2>
+<ul>
+<li>Wisker, G. (2012). <em>The Good Supervisor</em>. Palgrave.</li>
+<li>Booth, W., Colomb, G., &amp; Williams, J. (2016). <em>The Craft of Research</em> (4th ed.). Chicago.</li>
+<li>Swetnam, D., &amp; Swetnam, R. (2009). <em>Writing Your Dissertation</em>. How To Books.</li>
+<li>Braun, V., &amp; Clarke, V. (2022). <em>Thematic Analysis: A Practical Guide</em>. Sage.</li>
+<li>Field, A. (2018). <em>Discovering Statistics Using IBM SPSS Statistics</em> (5th ed.). Sage.</li>
+</ul>
+<hr>
+<p><em>End of Semester Three. Continue to the electives: <a href="../04-electives/MFT-722-professional-development-and-self-care.md">MFT 722 — Professional Development and Self-Care</a></em></p></main></div>
+<script>
+function f(v){v=v.toLowerCase();
+document.querySelectorAll('nav a').forEach(function(a){
+a.style.display=a.textContent.toLowerCase().includes(v)?'block':'none';});}
+</script></body></html>

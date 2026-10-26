@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="560" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22.75px;font-weight:700;">Narrative Therapy: Externalising the Problem, Re-authoring the Story</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">The person is never the problem; the problem is the problem</text>
+  <rect x="40.0" y="100.0" width="210.0" height="300.0" rx="12" fill="#fce8ee" stroke="#f0c9d5" stroke-width="1.5" opacity="1.0"/>
+  <text x="145.0" y="128.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PROBLEM-SATURATED</text>
+  <text x="145.0" y="146.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">STORY</text>
+  <text x="145.0" y="180.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;font-style:italic;">"I am a bad mother."</text>
+  <text x="145.0" y="214.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Thin description; the</text>
+  <text x="145.0" y="229.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">person is fused with</text>
+  <text x="145.0" y="245.1" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">the problem.</text>
+  <rect x="280.0" y="100.0" width="210.0" height="300.0" rx="12" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="385.0" y="128.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:1px;">EXTERNALISE</text>
+  <text x="385.0" y="162.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">"When did 'the guilt'</text>
+  <text x="385.0" y="178.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">first arrive? What does</text>
+  <text x="385.0" y="194.4" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">it tell you to do?"</text>
+  <text x="385.0" y="230.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Name it. Map its</text>
+  <text x="385.0" y="245.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">influence. Separate</text>
+  <text x="385.0" y="261.1" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">identity from problem.</text>
+  <rect x="520.0" y="100.0" width="200.0" height="300.0" rx="12" fill="#e6f4f1" stroke="#c8e3dd" stroke-width="1.5" opacity="1.0"/>
+  <text x="620.0" y="128.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">UNIQUE OUTCOMES</text>
+  <text x="620.0" y="162.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">"Tell me about a</text>
+  <text x="620.0" y="178.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">moment the guilt was</text>
+  <text x="620.0" y="194.4" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">quieter — what were</text>
+  <text x="620.0" y="210.6" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">you doing?"</text>
+  <text x="620.0" y="234.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Find exceptions the</text>
+  <text x="620.0" y="249.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">dominant story cannot</text>
+  <text x="620.0" y="265.1" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">explain.</text>
+  <rect x="750.0" y="100.0" width="190.0" height="300.0" rx="12" fill="#f1ebfd" stroke="#ddd0f7" stroke-width="1.5" opacity="1.0"/>
+  <text x="845.0" y="128.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">RE-AUTHOR</text>
+  <text x="845.0" y="162.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">"Who would recognise</text>
+  <text x="845.0" y="178.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">this version of you?</text>
+  <text x="845.0" y="194.4" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">What would they</text>
+  <text x="845.0" y="210.6" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;font-style:italic;">name it?"</text>
+  <text x="845.0" y="240.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Thicken the preferred</text>
+  <text x="845.0" y="255.5" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">story; recruit an</text>
+  <text x="845.0" y="271.1" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">audience.</text>
+  <line x1="250.0" y1="250.0" x2="278.0" y2="250.0" stroke="#334155" stroke-width="2"/>
+  <path d="M 268.0 245.0 L 278.0 250.0 L 268.0 255.0 z" fill="#334155"/>
+  <line x1="490.0" y1="250.0" x2="518.0" y2="250.0" stroke="#334155" stroke-width="2"/>
+  <path d="M 508.0 245.0 L 518.0 250.0 L 508.0 255.0 z" fill="#334155"/>
+  <line x1="720.0" y1="250.0" x2="748.0" y2="250.0" stroke="#334155" stroke-width="2"/>
+  <path d="M 738.0 245.0 L 748.0 250.0 L 738.0 255.0 z" fill="#334155"/>
+  <text x="490.0" y="440.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;font-style:italic;">Therapy is a re-writing, not a repair: the family leaves with a story it can live in.</text>
+  <rect x="40.0" y="470.0" width="900.0" height="69.0" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="489.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="510.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Practical: write the externalised name on a card and put it on the table between you. Ask the family to speak to the problem, not to each other, and</text>
+  <text x="54.0" y="525.5" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">to describe its tactics, size, and times of day. Children often join this immediately.</text>
+</svg>

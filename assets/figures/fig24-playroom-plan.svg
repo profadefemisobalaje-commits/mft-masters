@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="662" viewBox="0 0 980 662" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="662" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Play Therapy Room: A Practical Floor Plan</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A predictable room is a therapeutic instrument: same place, same rules, same limits</text>
+  <rect x="70.0" y="100.0" width="840.0" height="460.0" rx="12" fill="#fbfcfd" stroke="#334155" stroke-width="2.2" opacity="1.0"/>
+  <rect x="70.0" y="400.0" width="10.0" height="90.0" rx="12" fill="#ffffff" stroke="#ffffff" stroke-width="1.5" opacity="1.0"/>
+  <path d="M 70 400 A 90 90 0 0 1 160 490" fill="none" stroke="#334155" stroke-width="1.6" stroke-dasharray="4 3"/>
+  <text x="120.0" y="520.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">door</text>
+  <rect x="120.0" y="130.0" width="200.0" height="120.0" rx="6" fill="#fdf3e3" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="220.0" y="178.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">SAND TRAY</text>
+  <text x="220.0" y="196.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">wet + dry, miniatures</text>
+  <rect x="360.0" y="130.0" width="160.0" height="120.0" rx="6" fill="#f1ebfd" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <text x="440.0" y="172.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">DOLLHOUSE</text>
+  <text x="440.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">&amp; family figures</text>
+  <rect x="560.0" y="130.0" width="160.0" height="120.0" rx="6" fill="#e6f4f1" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="640.0" y="172.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">ART TABLE</text>
+  <text x="640.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">paper, crayons, clay</text>
+  <rect x="750.0" y="130.0" width="120.0" height="120.0" rx="6" fill="#e8eefc" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <text x="810.0" y="172.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">PUPPETS</text>
+  <text x="810.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">stage + basket</text>
+  <circle cx="190.0" cy="340.0" r="58" fill="#ffffff" stroke="#15803d" stroke-width="1.6"/>
+  <text x="190.0" y="336.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">BEAN BAGS</text>
+  <text x="190.0" y="352.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">circle time</text>
+  <rect x="300.0" y="300.0" width="150.0" height="90.0" rx="6" fill="#ffffff" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <text x="375.0" y="330.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:700;">CHILD CHAIR</text>
+  <text x="375.0" y="346.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">child height</text>
+  <rect x="480.0" y="300.0" width="150.0" height="90.0" rx="6" fill="#ffffff" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <text x="555.0" y="330.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:700;">THERAPIST CHAIR</text>
+  <text x="555.0" y="346.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.5px;font-weight:400;">90° angle, not opposite</text>
+  <rect x="660.0" y="300.0" width="200.0" height="90.0" rx="6" fill="#e8f5ec" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <text x="760.0" y="330.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">BOOKS &amp; FEELINGS</text>
+  <text x="760.0" y="346.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">faces, stories, cards</text>
+  <rect x="300.0" y="420.0" width="300.0" height="100.0" rx="6" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" stroke-dasharray="5 4" opacity="1.0"/>
+  <text x="450.0" y="452.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">OPEN FLOOR SPACE</text>
+  <text x="450.0" y="470.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">for role-play, movement,</text>
+  <text x="450.0" y="484.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">and family sessions</text>
+  <rect x="690.0" y="430.0" width="200.0" height="100.0" rx="6" fill="#fce8ee" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <text x="790.0" y="458.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">STORAGE</text>
+  <text x="790.0" y="476.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">labelled boxes;</text>
+  <text x="790.0" y="490.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">child can reach</text>
+  <rect x="860.0" y="100.0" width="40.0" height="460.0" rx="12" fill="#eef2f7" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <text x="880.0" y="340.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">mirror</text>
+  <rect x="40.0" y="588.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="607.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="628.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Limit-setting script: 'You can be as angry as you want in here, and you may not hurt yourself, me, or the room.' State the limit, offer an acceptable</text>
+  <text x="54.0" y="642.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">alternative, and name the feeling. Consistency is the intervention.</text>
+</svg>

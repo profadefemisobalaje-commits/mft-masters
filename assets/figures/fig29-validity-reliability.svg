@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="600" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:24.25px;font-weight:700;">Validity and Reliability: Four Targets, Three Kinds of Consistency</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A measure can be reliable without being valid; it cannot be valid without being reliable</text>
+  <circle cx="130.0" cy="190.0" r="46" fill="#eef2f7" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="130.0" cy="190.0" r="32" fill="#dde6f0" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="130.0" cy="190.0" r="18" fill="#0f766e" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="136.0" cy="186.0" r="3.5" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <line x1="136.0" y1="186.0" x2="158.0" y2="164.0" stroke="#9f1239" stroke-width="2"/>
+  <text x="130.0" y="262.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Internal validity</text>
+  <text x="130.0" y="284.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">did the intervention,</text>
+  <text x="130.0" y="299.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">not something else,</text>
+  <text x="130.0" y="314.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">produce the change?</text>
+  <circle cx="365.0" cy="190.0" r="46" fill="#eef2f7" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="365.0" cy="190.0" r="32" fill="#dde6f0" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="365.0" cy="190.0" r="18" fill="#1d4ed8" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="357.0" cy="195.0" r="3.5" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <line x1="357.0" y1="195.0" x2="379.0" y2="173.0" stroke="#9f1239" stroke-width="2"/>
+  <text x="365.0" y="262.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">External validity</text>
+  <text x="365.0" y="284.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">can these findings</text>
+  <text x="365.0" y="299.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">travel to other families,</text>
+  <text x="365.0" y="314.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">settings, cultures?</text>
+  <circle cx="600.0" cy="190.0" r="46" fill="#eef2f7" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="600.0" cy="190.0" r="32" fill="#dde6f0" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="600.0" cy="190.0" r="18" fill="#b45309" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="574.0" cy="202.0" r="3.5" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <line x1="574.0" y1="202.0" x2="596.0" y2="180.0" stroke="#9f1239" stroke-width="2"/>
+  <text x="600.0" y="262.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Construct validity</text>
+  <text x="600.0" y="284.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">are you really measuring</text>
+  <text x="600.0" y="299.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">'alliance' and not</text>
+  <text x="600.0" y="314.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">'social desirability'?</text>
+  <circle cx="835.0" cy="190.0" r="46" fill="#eef2f7" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="835.0" cy="190.0" r="32" fill="#dde6f0" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="835.0" cy="190.0" r="18" fill="#6d28d9" stroke="#ffffff" stroke-width="1.4"/>
+  <circle cx="845.0" cy="196.0" r="3.5" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <line x1="845.0" y1="196.0" x2="867.0" y2="174.0" stroke="#9f1239" stroke-width="2"/>
+  <text x="835.0" y="262.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Statistical validity</text>
+  <text x="835.0" y="284.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">is the effect large enough</text>
+  <text x="835.0" y="299.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">and the test powerful</text>
+  <text x="835.0" y="314.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">enough to trust?</text>
+  <rect x="60.0" y="340.0" width="860.0" height="150.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="86.0" y="368.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">THREE WAYS TO DEMONSTRATE RELIABILITY</text>
+  <text x="90.0" y="400.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Test–retest</text>
+  <text x="90.0" y="420.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">same people, two occasions</text>
+  <text x="90.0" y="438.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">→ stability over time</text>
+  <text x="375.0" y="400.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Inter-rater</text>
+  <text x="375.0" y="420.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">two coders, same material</text>
+  <text x="375.0" y="438.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">→ agreement between observers</text>
+  <text x="660.0" y="400.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Internal consistency</text>
+  <text x="660.0" y="420.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">items within one scale</text>
+  <text x="660.0" y="438.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">→ Cronbach's alpha, ω</text>
+  <rect x="40.0" y="518.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="537.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="558.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Practical caution with family measures: a couple's score is not the sum of two individual scores, and self-report is vulnerable to the 'halo' of a partner in the</text>
+  <text x="54.0" y="572.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">room. Prefer multi-informant, multi-method assessment (self-report + observation + collateral).</text>
+</svg>
