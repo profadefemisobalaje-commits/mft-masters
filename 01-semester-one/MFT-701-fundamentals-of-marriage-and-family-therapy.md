@@ -2276,44 +2276,708 @@ explicit and defensible rather than temperamental.
 
 ## Week 4 — Systems concepts you will actually use
 
-Six concepts do most of the clinical work. Learn them precisely; vagueness here produces vague therapy.
+### 4.1 The lecture in ninety minutes
 
-**1. System and subsystem.** A system is a set of elements in interaction such that a change in one
-produces a change in the others. Subsystems (the couple, the siblings, the parental dyad) are organised
-by boundaries.
+Weeks 1 to 3 built the frame. This week supplies the vocabulary you will use in every session for the rest of
+your career. It is a technical week, and students often find it the most useful of the first month, because for
+the first time they can *describe* what they are seeing rather than merely reacting to it.
 
-**2. Boundary.** The invisible rules about who participates and how. Boundaries range from *diffuse*
-(enmeshed: little privacy, feelings shared before they are owned) to *rigid* (disengaged: autonomy
-without belonging). Healthy is not the middle of a line; healthy is *appropriate to the task* — the
-parental subsystem needs a clearer boundary than the sibling subsystem (Figure 5 in MFT 702).
+The organising principle: a concept earns its place only if it changes what you do. Every term in this week is
+therefore taught with three things attached — what you can observe that tells you it is present, what it costs
+the family, and what you would do about it.
 
-**3. Feedback.** Negative feedback corrects deviation (a thermostat, a bedtime routine); positive
-feedback amplifies it (an escalation, a panic spiral). Families contain both, always. Symptoms often
-persist because a negative-feedback loop protects a positive-feedback loop underneath.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The test of a concept | Two formulations, one with and one without usable concepts | Decide which they could act on |
+| 10–25 | Boundaries and subsystems | Live mapping with a volunteer family of dolls | Map a family from a transcript |
+| 25–40 | Triangles, coalitions, detouring | The three-person diagram, drawn and then applied | Identify the triangle in a case |
+| 40–55 | Rules, roles, myths, secrets | The invisible rule exercise | Write three rules from a family description |
+| 55–70 | Communication concepts | Metacommunication, levels, symmetry and complementarity | Mark levels in a four-line transcript |
+| 70–85 | Mapping the Adeyemis | Draw the map, defend every symbol | Draw and defend in pairs |
+| 85–90 | Set the lab | The structural map assessment | Prepare a map for next week |
 
-![Figure 4.1 — The same feedback logic in a thermostat and in a family](../assets/figures/fig10-feedback-loops.svg)
+### 4.2 What makes a concept usable
 
-**4. Homeostasis.** The system's tendency to maintain its familiar organisation, *including familiar
-pathology*. This is why a family may resist improvement: the drinking, the fighting, or the symptom has
-become load-bearing.
+A concept is usable when it meets four criteria.
 
-**5. Rules.** Recurrent patterns that prescribe and proscribe behaviour ("we do not discuss money"; "no
-one is allowed to be angry at Father"). Most family rules are never spoken; they are inferred from what
-produces anxiety.
+1. **Observable.** You can point to something in the session that would count as evidence. "Enmeshment" fails
+   this test in most students' hands; "mother answers questions addressed to her daughter, three times in ten
+   minutes" passes it.
+2. **Relational.** It describes something between people, not inside one person. "Triangulation" passes;
+   "manipulative" fails.
+3. **Actionable.** It tells you where to intervene, or at least where to look next.
+4. **Falsifiable.** You can be wrong. If no observation would make you withdraw the description, you are not
+   describing the family; you are describing your own frame.
 
-**6. Triangles.** When tension between two people exceeds what the dyad can hold, a third is recruited —
-a child, an affair, a job, an in-law, a symptom. Triangles distribute anxiety; they also freeze the
-dyad's capacity to resolve it (covered fully in MFT 715).
+The discipline of this week is to translate every concept into observables before you use it in a report, a
+supervision or a session. It is the difference between a clinician and someone who has read about clinicians.
 
-> **CASE** — Since the father's redundancy, the household has run a nightly cycle: he criticises the
-> children's homework, the mother defends them, he accuses her of undermining him, she goes to bed early,
-> and the eldest daughter stays up to calm him. Mapping it: the father's shame (unspoken) → criticism →
-> mother's protection → his isolation → daughter's role as regulator. Nothing here is "the problem".
-> The system has found a way to hold his shame — at the cost of a 14-year-old's adolescence.
+### 4.3 Boundaries
 
-**Practice (lab).** Using the case above, label each element: boundary, feedback type, homeostatic
-function, rule, triangle. Then answer: what would have to change elsewhere if the daughter stopped
-regulating?
+A **boundary** is the set of rules that governs who participates in what, and how close members may be. It is
+not a wall; it is a permeable membrane that regulates contact, and it exists between subsystems (parent/child,
+couple/siblings), between the family and the outside (school, kin, services), and inside individuals
+(self/other, thought/feeling).
+
+Minuchin's three-way classification is still the most useful, provided you replace his normative tone with
+observational criteria.
+
+| Type | What you observe | Typical cost | Typical presentation |
+|---|---|---|---|
+| Clear | Adults decide adult matters; children are informed appropriately; each member has privacy and a voice | None inherent; flexibility is the point | Families who manage difficulty without losing function |
+| Diffuse | Members answer for each other; privacy is treated as secrecy; distress in one member is felt by all and acted on by all | Chronic anxiety; difficulty individuating; a child recruited as confidant | "We are very close" families in which one adolescent cannot leave |
+| Rigid | Information is compartmentalised; emotion is not discussed; contact is formal or distant | Isolation; secrets; children who cannot read emotion | "We don't have problems" families who present late and in crisis |
+
+**Observational markers of a diffuse boundary.** One member finishes another's sentence; a parent answers a
+question put to a child; the family reports that everyone knows everything; a member's mood is described as
+the household's weather; there is no closed door in the house; alliances are assumed rather than chosen.
+
+**Observational markers of a rigid boundary.** The family reports that a member "has never been one to talk
+about feelings"; there is a topic nobody names; the parents describe the marriage as "not the children's
+business" and also cannot discuss it with each other; siblings are estranged; contact with extended family has
+been cut after a dispute.
+
+**Two cautions.** First, boundaries are culturally specified. A household in which three generations share
+sleeping space, income and child-rearing is not enmeshed by definition; the question is whether its members can
+think, disagree and move. Second, boundaries fluctuate with circumstance: after a death, a migration or an
+illness, a family will temporarily close ranks, and that is adaptive. Diagnose a boundary only when it is
+stable across contexts and costly to someone.
+
+> **PRACTICAL** — Listen to five minutes of any family conversation (a recorded role-play is fine). For each
+> member, count: (a) times they answered for another person, (b) times they were interrupted, (c) times they
+> were asked directly and (d) times they spoke without being asked. The four counts give you a boundary profile
+> in numbers, which is worth more than an adjective.
+
+### 4.4 Subsystems and hierarchy
+
+Families are organised into **subsystems**: the couple, the parents, the siblings, each individual, and the
+extended kin who function as a subsystem even at a distance. Each subsystem has its own rules, its own
+language and its own legitimate authority.
+
+**Hierarchy** is the arrangement of authority and responsibility. In families with children, the parental
+subsystem carries executive authority: decisions about money, schooling, discipline, safety and contact with
+the outside world. That authority is not a value judgement about who matters; it is a functional necessity,
+because someone has to decide, and children cannot.
+
+**Three common structural problems, with their observable signs.**
+
+*Weak parental hierarchy.* The child decides, negotiates or vetoes; parents ask the child's permission; a child
+is the family's spokesperson; discipline is inconsistent because it is negotiated. Cost: the child carries
+authority without the capacity for it, which produces anxiety, not confidence.
+
+*Cross-generational coalition.* One parent and one child form a stable alliance against the other parent. Signs:
+the child knows about the marriage; the child takes one parent's side in arguments; the other parent is treated
+as an outsider in discipline. Cost: the child loses the parent they are allied with *as a parent* — the
+relationship becomes a partnership, and the child's own development is mortgaged.
+
+*Parentification.* A child takes on practical or emotional care of a parent or siblings. Signs: the child cooks,
+organises medication, translates, manages the household's feelings. Cost: precocious competence alongside
+suppressed need; these children present in adolescence or adulthood with anxiety, resentment or a collapse when
+they finally cannot carry it. Note carefully: parentification is not always harmful. Many children in many
+households take real responsibility and thrive. The harm correlates with *the absence of recognition and
+support*, not with the task itself — a distinction that matters in cultures where children's contribution is
+normative.
+
+### 4.5 Triangles, coalitions, detouring: three different things
+
+Students conflate these constantly, and the conflation produces bad formulations. They are not synonyms.
+
+**A triangle** (Bowen) is a three-person emotional configuration that is the smallest stable relationship
+system. Two people under tension recruit a third to manage it; the third may be a person, an activity, a
+substance or a symptom. Triangles are normal and universal; the question is how rigid and how costly they are.
+*Observable signs:* conversation about a third person whenever two are together; a member who is always
+discussed and never present; a symptom that appears when the couple's tension rises.
+
+**A coalition** (Minuchin) is an alliance of two against a third that crosses generational lines. It is a
+structural fact, not an emotional process: parent and child against the other parent. *Observable signs:*
+seating; who looks at whom when a topic is raised; who defends whom; who is described as "the one who
+understands".
+
+**Detouring** is a specific manoeuvre: the couple's conflict is displaced onto a third party — usually a child
+— so that the couple never has to fight. Two forms: **detouring-attacking** (the child is defined as the
+problem and both parents unite against them) and **detouring-supportive** (the child is defined as fragile and
+both parents unite to protect them). *Observable signs:* the couple's disagreements reliably become
+conversations about the child; the child's symptoms appear at moments of marital tension; the parents agree
+warmly about the child and coolly about everything else.
+
+**Why the distinction matters.** A triangle is a process you interrupt with questions; a coalition is a
+structure you change with tasks and seating; a detour is a function you name, carefully, when the couple is
+ready to hear it. The same family can have all three, and the sequence in which you address them is a clinical
+judgement, not a doctrine.
+
+> **DEBATE** — "Detouring is a useful concept and a dangerous accusation." Fifteen minutes. Note that the
+> danger is greatest when the child is present: any formulation the family hears as "your child's illness is
+> your marriage" will mobilise defences and may harm the child's relationship with the therapist.
+
+### 4.5a A triangle worked, carefully
+
+Take a triangle that is present in the Adeyemi household and show how to establish it without asserting it.
+
+**The evidence.** In the first session, four things happened. The mother described the father's drinking and
+then, within the same breath, described Amara's sensitivity: "she takes everything to heart, she is like me."
+When the therapist asked Amara a question about school, the mother answered first, twice. When the therapist
+asked about the marriage, the mother returned to Amara within one sentence. And when Amara was asked what she
+worried about, she said "that my mother will be alone".
+
+**The inference.** The marital tension is being managed through the mother–daughter relationship. That is a
+triangle in Bowen's sense — a third party recruited to absorb what the dyad cannot hold — and it is also, at
+the structural level, a coalition, because the alliance is stable and the father is positioned outside it.
+Note that the two descriptions are of the same phenomenon seen with different instruments.
+
+**What you say in the room.** Not "Amara is triangulated". The usable sentences are about behaviour and are
+addressed to the person who can act:
+
+> "Mrs Adeyemi, I notice that when I ask about you and your husband, you tell me about Amara. I may be wrong,
+> but I wonder whether Amara is the person you talk to about the hard things. Is that right?"
+
+Then, to the daughter, without requiring her to betray anyone:
+
+> "Amara, when your mother is upset, what do you do? And what happens to your own evening?"
+
+**What you do not do.** You do not interpret the triangle to the child, you do not describe the father as
+"peripheral" in front of his family, and you do not invite the daughter to stop being close to her mother. Each
+of those moves would produce loyalty conflict in the person with least power, which is the clinical definition
+of harm in family work.
+
+**How you know it is working.** Three signs, in order of appearance: the mother begins to answer questions
+about her marriage with information about her marriage; the daughter volunteers an opinion that differs from
+her mother's without checking her face; and the father, when present, is addressed by his wife before the
+daughter is consulted. None of these is dramatic. All of them are structural.
+
+### 4.6 Rules, roles, myths and secrets
+
+Four concepts that describe the invisible organisation of a family. Each is taught badly in most textbooks,
+because each is presented as a noun rather than as a procedure for noticing.
+
+**Rules.** Families run on rules that nobody wrote down: who speaks first, who is consulted, who may be angry,
+what may be discussed at dinner, who apologises, how money is decided, what happens when someone cries. Most
+rules are functional and invisible, which is what makes them rules rather than decisions.
+
+*Metarules* govern the rules: for example "we do not discuss the rules". A family whose metarule is "conflict
+must not be named" will produce a session in which nothing is argued and everything is tense, and it will
+describe itself as close.
+
+*How to surface a rule.* Ask about a specific, recent, ordinary occasion: "What happens at dinner if someone is
+upset?" "Who decides when the television goes off?" "What would happen if you disagreed with your father in
+front of your mother?" The answers are rules, stated as customs — and customs can be examined.
+
+**Roles.** Functional roles (the responsible one, the clown, the sick one, the peacemaker, the scapegoat) are
+distributed early and stabilise the system. The clinical significance is that a role can outlive its usefulness
+and imprison the person in it: the peacemaker who cannot express anger, the sick one who cannot be well without
+destabilising the system, the responsible one who cannot fail.
+
+A crucial caution: roles are descriptions *of positions in a system*, not of personalities. A child in the
+scapegoat position is not a bad child. When a therapist slips into "he is the difficult one", the formulation
+has failed.
+
+**Myths.** A family myth is a shared belief about the family that organises behaviour and resists disconfirming
+evidence: "we are a happy family", "we never needed anyone", "the men in this family are hot-tempered",
+"nobody in this family gets depressed, we just get on with it". Myths are not lies; they are the family's
+constitution, and they are usually protective. They become a problem when reality contradicts them and nobody
+is allowed to say so.
+
+*How to work with a myth.* Never by confrontation. The usable route is through an exception or a cost: "You have
+described a family that never asks for help. What has that cost you?" Or, with a myth of invulnerability:
+"Which of you would find it hardest to say 'I am not coping'?" The myth is then available to be revised
+without anybody being humiliated.
+
+**Secrets.** Not all secrets are damaging; some are protective and some are nobody else's business. Three
+categories are clinically important. *Secrets about the past* (a death, a prison term, an adoption, a previous
+marriage) that are known to some and not others, and that distort the family's explanatory map. *Secrets
+inside the session* (an affair disclosed by one partner, a plan to leave, a diagnosis withheld) that place the
+therapist in an impossible position; the ethical handling of these is treated in MFT 704 and revisited in
+MFT 710. *Secrets that protect harm* (abuse, violence) which must be addressed under safeguarding protocols,
+whatever the family's wish.
+
+*The rule of thumb for secrets.* Ask: who is protected by this secret, and who is protected *from* it? If the
+answer is the same person, the secret may be kind. If the person protected and the person kept in the dark are
+different, the secret is doing something else.
+
+> **CASE** — A 14-year-old is brought for "lying". The parents discovered she had been meeting a boy. In the
+> second session the mother mentions, in passing, that the girl's father is not her biological father and that
+> she does not know. The family myth is "we are completely honest with each other". The therapist's task is not
+> to expose the myth but to establish that the girl's lying is a rational response to a household in which two
+> people hold information the third is not allowed to have — and to work with the parents about whether, when
+> and how the disclosure should happen, with the girl's interests, not the therapist's candour, as the
+> criterion.
+
+### 4.7 Communication concepts worth keeping
+
+Week 2 gave you punctuation and feedback. Four more concepts complete the vocabulary.
+
+**Metacommunication.** Communication about communication: "I don't mind you being late, it's that you don't
+text." Metacommunication is how relationships are negotiated, and families vary enormously in how much of it
+they do. A family with no metacommunication has no way to revise its rules except through crisis.
+
+**Levels: content and relationship.** Every message carries information and a definition of the relationship.
+"How was your day?" can be an inquiry or a check on whereabouts. Most couple conflict is a relationship-level
+dispute conducted at content level — an argument about the dishes that is about respect.
+
+**Symmetrical and complementary.** In symmetrical exchanges, both parties behave as equals (which can escalate
+into competition). In complementary exchanges, the behaviours are different and mutually fitting (parent/child,
+pursuer/withdrawer, teacher/student). Neither is healthy or unhealthy in itself; problems arise from rigidity.
+A couple stuck in complementary pursuit–withdrawal needs to build symmetry; a couple stuck in symmetrical
+escalation needs to accept asymmetry in some domains.
+
+**Double-level messages.** Messages in which the content and the relationship level contradict each other
+("Of course I want you to go out with your friends" said in a tone that forbids it). This is *not* the double
+bind — the double bind requires that the recipient cannot leave the field and cannot comment on the
+contradiction. Ordinary double-level messages are common, survivable and worth naming in session.
+
+### 4.8 The genogram as a conceptual instrument
+
+A **genogram** is a three-generation diagram of family structure, relationships and events. Students often
+treat it as a data-collection form. It is better understood as a *hypothesis machine*: its value is in what it
+makes visible, and in the family's reaction to seeing it.
+
+For this week, three uses only. (Week 8 covers the technique in full.)
+
+1. **To reveal structure.** Deaths, divorces, remarriages, migrations, births, adoptions — drawn to scale,
+   across generations — make patterns visible that no interview would have produced.
+2. **To reveal repetition.** "Your father left at 9, you left at 9, your son is 9." Nobody had said this
+   sentence in the family before.
+3. **To reveal the family's own version.** Ask the family to draw it, or to correct yours. The corrections are
+   the data: who is included, who is omitted, which relationships are drawn close and which distant.
+
+**Symbols you must know.** Male square, female circle, deceased crossed, marriage a horizontal line with the
+date, divorce two slashes, children descending in birth order, household membership a dotted rectangle,
+close relationship a double line, conflict a zigzag, cutoff a slash through the line. Learn to draw them small
+and neat; a genogram drawn badly is a message to the family about how carefully they are being taken.
+
+### 4.9 The Adeyemi family, mapped
+
+The map, described in words so that you can draw it.
+
+*Household.* Father (48), mother (45), Amara (16), brother (11). A dotted rectangle around all four — with the
+brother's position marked and a note that he is "the easy one". The paternal grandmother lives 200 km away and
+is telephoned every day by the mother; draw a close line to the mother, a conflicted line to the father.
+
+*Relationships.* Between the parents: conflict (zigzag), with a note "arguments about money and the
+father's drinking". Father to Amara: distant with moments of criticism; draw a dashed line and mark it
+"unpredictable". Mother to Amara: very close (double line) with an arrow from Amara to the mother marked
+"caretaking". Mother to brother: close but described as "neglected" by the mother herself. Brother to Amara:
+close, protective.
+
+*Events.* Father's redundancy fourteen months ago (mark it on the timeline). Mother's first depressive episode
+six years ago, and the current one. The father's own father died of a stroke when the father was 19; mark
+deceased and note that the father "has never talked about it". A stillbirth between the two living children,
+never discussed.
+
+*What the map makes visible that the interview did not.* Four things. The father's father died when he was
+Amara's age, which reframes his difficulty with her adolescence. The stillbirth sits between the two living
+children and is never mentioned, which suggests an unmourned loss in the mother's story. The grandmother is a
+daily presence and a structural authority. And the brother is described by everyone as fine, which in a family
+like this is a hypothesis to test rather than a fact to accept.
+
+**How to use the map in session.** Show it, ask for corrections, and then ask the two questions the map makes
+possible: "Who is missing from this picture?" and "What would change on this drawing if therapy worked?"
+
+> **PRACTICAL** — Draw the Adeyemi genogram yourself, from the description above, without looking at the
+> printed version in the appendix. Then compare. Most students omit the stillbirth, place the grandmother
+> wrongly, or fail to mark the father's age at his own father's death — which is precisely the kind of omission
+> that makes a formulation respectable and useless.
+
+### 4.10 Annotated transcript: mapping in the room
+
+> **T1 Therapist:** I am going to draw your family on this paper while we talk. Tell me if I get it wrong.
+> **T2 Mother:** (laughs) You will get it wrong.
+> **T3 Therapist:** Good. Start me with your husband's family. Who were his parents?
+> **T4 Mother:** His father is dead. His mother is alive, she is in Ibadan. He does not talk to her much.
+> **T5 Therapist:** (draws) How long has he not talked to her much?
+> **T6 Mother:** Since his father died. That was a long time ago. He was still a boy.
+> **T7 Therapist:** How old was he?
+> **T8 Mother:** (pause) About nineteen. He had to leave school.
+> **T9 Therapist:** And Amara is how old?
+> **T10 Mother:** Sixteen.
+> **T11 Therapist:** (draws, then stops) Is there anything else on this paper that I should know about?
+
+**Annotations.** *T1* announces the task and immediately hands the family the right to correct the therapist.
+This is a structural move: it makes the map a shared object rather than the therapist's assessment. *T2* is a
+test of the therapist's response to teasing; the answer — warmth and an invitation — establishes that the room
+can be informal.
+
+*T3* starts with the *father's* family, who are absent. This is deliberate: it prevents the session from
+becoming a conversation about the mother, and it surfaces the paternal cutoffs that no one has mentioned.
+Students almost always start with the presenting child.
+
+*T5–T8* produce the most important sentence in the session: the father was 19 when his own father died and he
+had to leave school. The therapist asks for the age and does not comment further. *T9* is the juxtaposition —
+"and Amara is how old?" — which lets the mother make the connection herself. She does, in the pause before
+T10.
+
+*T11* is the invitation that produces secrets. "Is there anything else on this paper that I should know about?"
+is open, bounded by the drawing, and not threatening: it asks about the paper, not about the family's morality.
+
+**What the therapist did not do.** She did not say "so your husband is repeating his own adolescence with his
+daughter" — which would have been an interpretation the mother could neither confirm nor use. She did not ask
+about the stillbirth directly, which would have been premature in a first mapping session. She did not draw
+conclusions from the map in front of the family; the map's job in session one is to gather and to invite.
+
+### 4.10a Second transcript: naming the rule, not the person
+
+> **T1 Father:** In this house we don't discuss feelings. That is not how I was raised.
+> **T2 Therapist:** So the rule is that feelings are handled privately. Who taught you that rule?
+> **T3 Father:** My father. He never said a word about anything. He just worked.
+> **T4 Therapist:** And what did that give you?
+> **T5 Father:** (long pause) It gave me a strong house. Nobody went hungry.
+> **T6 Therapist:** And what did it cost?
+> **T7 Father:** (longer pause) I don't know what my son is thinking. I don't know what my wife is thinking.
+> **T8 Therapist:** Amara, in this family, if you were having a bad week, who would know?
+
+**Annotations.** *T2* is the whole technique of this week in one move: the father has stated a rule, and the
+therapist treats it as a rule — a thing with an author, a history and a cost — rather than as a fact about the
+family or a failing of the father. *T4* asks for the *gain* before the cost, which is why *T5* is not defensive;
+the therapist has protected the father's inheritance before examining it.
+
+*T6* is the pivot, and it only works because *T4* came first. A therapist who leads with "what did it cost?"
+produces a defended father; a therapist who establishes what the rule achieved produces a father who can name
+its limits himself. *T7* is the father doing the formulation.
+
+*T8* moves the question from the father, who has just disclosed something painful, to the daughter, in a way
+that lets her answer without contradicting him. Her answer — "nobody, unless my mother notices" — completes the
+picture: the rule is not just the father's; it is the household's, and the mother has been carrying the
+emotional work the rule leaves undone.
+
+### 4.11 Laboratory: the structural map
+
+The assessed practical. Groups of three. Each group receives a one-page case summary (case bank, appendix) and
+must produce a structural map, a genogram and a two-minute presentation.
+
+**Rules for the map.** Every symbol must be justifiable from the text or from an inference you state aloud.
+Adjectives are not permitted on the drawing; only behaviours and events. Each map must mark at least one
+*hypothesis* with a question mark, so that the group declares what it does not know.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Genogram accuracy | 20% | Three generations, correct symbols, dates and deaths, household marked |
+| Structural reading | 30% | Subsystems, boundaries and hierarchy named with observational evidence, not adjectives |
+| Triangle/coalition/detour distinction | 20% | The correct concept is applied, and the group can say why not the others |
+| Hypothesis discipline | 20% | At least two competing hypotheses, each with the question that would test it |
+| Presentation | 10% | Two minutes, no jargon the family could not follow |
+
+### 4.12 Six errors in using systems concepts
+
+1. **Concept as insult.** "She is enmeshed" said about a mother who is doing what her culture and her
+   circumstances require. Fix: describe the behaviour and its cost before you use any label.
+2. **The static map.** Drawing a family once and treating the drawing as the family. Fix: redraw after every
+   third session; families change, and so should your map.
+3. **Triangle-spotting as a game.** Finding triangles everywhere, including where the evidence is a single
+   sentence. Fix: a triangle requires evidence of a *process* — a third party recruited when tension rises —
+   not merely three people in a room.
+4. **Detour accusations.** Telling parents their child's illness is about their marriage. Fix: name the
+   function only when the couple has enough containment to hear it, and never with the child present.
+5. **Normative hierarchy.** Assuming that a "proper" family has a particular shape, and pathologising
+   households that organise differently. Fix: ask what the organisation *costs* and *whom*, rather than whether
+   it matches a template.
+6. **The unmarked inference.** Presenting an inference as an observation, in a report or in a session. Fix:
+   distinguish, out loud, between what you saw and what you think — "I noticed your husband answered for you
+   twice; I may be wrong, but I wondered whether that happens often."
+
+### 4.12a Writing a structural formulation for a report
+
+Students can formulate in the room and freeze at the keyboard. A short template, with the rule that every
+sentence must survive a challenge from a colleague who has never met the family.
+
+> *Structure.* The household consists of four members (father 48, mother 45, daughter 16, son 11) with a
+> peripheral but present paternal role and a telephone-based involvement of the paternal grandmother.
+> *Hierarchy.* Executive decisions are made by the mother; the father is consulted after the event, and his
+> disagreement is registered as criticism rather than as participation.
+> *Boundaries.* The mother–daughter relationship is highly involved and carries emotional confidences; the
+> marriage is comparatively disengaged; the son is described by all members as "easy" and appears to be outside
+> the organising conflict.
+> *Hypothesis.* The daughter's school refusal is maintained by a sequence in which her presence at home reduces
+> the mother's isolation and defers marital discussion. This is a hypothesis, not a conclusion: it is supported
+> by three observations and would be disconfirmed if the refusal persisted during a period in which the parents'
+> contact increased and the mother's support from others improved.
+> *Risk.* No current indicators of violence or self-harm were disclosed on direct enquiry; the father's alcohol
+> use was reported at 4–6 units on 5 nights per week and has been raised with him for assessment.
+> *Plan.* Conjoint sessions including the father; a joint parental task in session; a staged school return
+> negotiated with the school; support for the mother's own treatment; review at six sessions.
+
+**Three rules for this kind of writing.** Separate observation from inference, in different sentences. State at
+least one thing that would prove you wrong. And never write a sentence you would not be willing to read aloud to
+the family in a feedback session — because in many settings, that is exactly what will happen.
+
+### 4.13 Culture, faith and the boundary question
+
+The concepts in this week are the ones most likely to do cultural damage, because they describe closeness,
+hierarchy and obligation — precisely the domains in which cultures differ most. Four corrections.
+
+**Closeness is not enmeshment.** In households where three generations share care of children, sleep in the
+same room, pool income and take decisions collectively, a high level of involvement is functional. The
+diagnostic question is not "how close are they?" but "can each member think, disagree and move?" A young
+adult who consults her mother about a marriage proposal is not enmeshed; a young adult who cannot form an
+opinion without her mother's approval, and who experiences disagreement as betrayal, may be.
+
+**Hierarchy is not obedience.** A family in which children do not question adults is not automatically
+dysfunctional. The functional question is whether the hierarchy carries responsibility as well as authority:
+do the adults protect, provide and decide, or do they merely command and then require the children to manage
+the consequences?
+
+**Filial duty is a resource.** Expectations that adult children care for parents and siblings can be a source
+of meaning and support, and also of exhaustion. Both are true, and the therapist who treats obligation as
+pathology will lose the family. Ask instead: what does this obligation give you, and what does it cost, and
+who decided?
+
+**Respect for elders can mask abuse.** The most difficult clinical situation in this domain is a household in
+which hierarchy is used to silence a victim: "you cannot speak against your uncle." The professional obligation
+is clear — child protection and adult safeguarding override deference — but the skill is to act without
+humiliating the family, and to keep the door open for the members who need you. MFT 704 and MFT 724 give the
+legal and ethical framework; this week's contribution is the conceptual warning.
+
+> **CAUTION** — "In our culture, families are close" is sometimes a description and sometimes a prohibition on
+> examining anything. The therapist's response is neither agreement nor challenge, but curiosity with
+> boundaries: "Tell me what closeness means in your family, and what happens when someone needs distance."
+
+### 4.13b A five-minute version for the corridor
+
+Colleagues in hospitals and schools will ask you what you think, in a corridor, with thirty seconds to answer.
+A usable five-sentence formulation, in the order that survives interruption:
+
+1. **Who is in the system** — "Four at home, plus a grandmother who makes the decisions by telephone."
+2. **What is happening, behaviourally** — "The 16-year-old has been out of school six weeks; her mother answers
+   for her; the father is present but outside the executive."
+3. **What maintains it** — "Her presence at home reduces her mother's isolation and defers a marital
+   conversation that nobody wants to have."
+4. **What I am unsure about** — "Whether the father's drinking is a cause or a consequence; I have not assessed
+   it yet."
+5. **What I am doing next** — "Both parents in the room next week, a joint task on the school letter, and a
+   separate alcohol assessment for the father."
+
+Note the fourth sentence. Including what you do not know is not weakness in a corridor; it is how you prevent a
+colleague from acting on your guess as though it were an assessment. The habit also protects you: the clinician
+who always sounds certain is the one who is quoted in a serious case review.
+
+### 4.13a When the concept is the problem: the misuse audit
+
+A concept becomes dangerous at the moment it stops generating questions and starts closing them. Five signs,
+each with the question that reopens the inquiry.
+
+**Sign 1 — the label arrives before the evidence.** You find yourself saying "this is an enmeshed family" in the
+first ten minutes. *Reopening question:* what exactly did I see, and what else could explain it?
+
+**Sign 2 — the family's own account is treated as resistance.** A mother says "in our family we are close" and
+you hear denial. *Reopening question:* what would it mean if she were simply right?
+
+**Sign 3 — the concept explains everything.** Every behaviour in the session becomes evidence of the same
+structure. *Reopening question:* name one observation from today that does not fit my formulation.
+
+**Sign 4 — the concept justifies a plan the family has not agreed to.** You find yourself designing an
+intervention to change a boundary the family has not identified as a problem. *Reopening question:* whose goal
+is this, and did they ask for it?
+
+**Sign 5 — the concept travels into the report as fact.** "The family is enmeshed" appears in a letter to a
+school or a court. *Reopening question:* can I rewrite this sentence as an observation with a date and a count?
+
+> **AUDIT** — Take your most recent formulation, written or spoken. Run the five signs against it. Then rewrite
+> it so that every sentence could be defended in a case conference by a colleague who disagrees with you.
+
+### 4.14 The concept table you will actually use
+
+Twelve concepts, each with what to observe, what it usually costs, and what you would do. Learn this table and
+you can formulate almost any family in the language the profession shares. Copy it into the front of your
+clinical notebook.
+
+| Concept | What you observe | Usual cost | What you do |
+|---|---|---|---|
+| Diffuse boundary | Members answer for each other; no privacy; moods shared as weather | Chronic anxiety; difficulty leaving; confidences that a child cannot carry | Mark the behaviour in the room; build one small boundary with the family's consent |
+| Rigid boundary | Topics that cannot be named; formality; information kept in compartments | Isolation; late presentation; secrets | Name the cost of the rule, not the rule; use a third-person question to open it |
+| Weak parental hierarchy | Child decides or vetoes; parents negotiate with the child | Anxious, parentified or defiant child; inconsistent discipline | Give the parents a joint task in the session and coach them through it |
+| Cross-generational coalition | Parent and child allied against the other parent; child knows the marriage | Child loses a parent as a parent; other parent discredited | Re-seat; give the couple a task; support the outsider without blaming the insider |
+| Parentification | Child cooks, translates, manages a parent's feelings | Premature competence; suppressed need; later collapse or resentment | Name the competence and the cost; redistribute one task to an adult |
+| Triangle | Third party discussed whenever two are together; symptom rises with tension | The third person carries what the pair cannot | Ask about the third person's view; bring them in; work the pair's tension directly |
+| Detouring | Couple's conflict reliably becomes a conversation about a child | The child's symptom is the couple's containment | Name the function, cautiously, when the couple can hear it |
+| Rule | Repeated pattern described as custom ("that's just how we are") | Rigidity; invisible obligations | Ask about a specific ordinary occasion; make the rule sayable |
+| Metarule | "We don't discuss that"; "we don't argue in this house" | The family cannot revise its own rules | Ask what would happen if it were discussed; work with the feared consequence |
+| Role | Stable position (peacemaker, sick one, responsible one) | A person imprisoned in a function | Name the position, not the person; ask who else could occupy it |
+| Myth | Shared belief resistant to evidence ("we never needed anyone") | Reality that cannot be spoken; delayed help-seeking | Work through exceptions and costs, never by confrontation |
+| Secret | Information held by some and withheld from others | Distorted explanations; alliances; a member who "lies" | Ask who is protected, and from what; manage the disclosure ethically |
+
+**How to use the table in supervision.** Present the *observation* column first, with your evidence, and only
+then the concept. "The mother answered three questions addressed to the daughter, and the daughter looked at
+her mother before every answer, so I am working with a diffuse boundary — but I may be wrong, because the
+daughter also corrected her mother twice." A presentation in that order cannot be dismissed as labelling.
+
+### 4.15 Two families, same concept, opposite interventions
+
+The most important skill in this week is knowing that a concept does not dictate an intervention. Two cases
+illustrate the point.
+
+**Family A — the close household.** A 20-year-old university student is brought by her parents because she is
+"withdrawn and rude". She has stopped attending lectures. The family is warm, loud, interdependent. The mother
+and daughter share a bed when the daughter is home; the father describes his wife and daughter as "best
+friends". The daughter says, in a private moment, that she has never made a decision without her mother.
+
+*Formulation:* a diffuse boundary between mother and daughter, which was functional in adolescence and is now
+costly at the threshold of adulthood.
+
+*Intervention:* not separation, and emphatically not a lecture on independence. First, name the closeness as a
+strength and get the family's agreement that it is. Second, create one small experiment: the daughter takes
+one decision a week without consulting her mother, and reports it afterwards. Third, work with the mother's own
+anxiety about the daughter's adulthood — what does the mother lose if the daughter becomes independent? Fourth,
+involve the father as a partner to the mother, so that the mother is not left with only the daughter's company.
+
+**Family B — the distant household.** A 20-year-old university student is brought by her parents because she is
+"withdrawn and rude". She has stopped attending lectures. The family is formal; conversation is conducted in
+turn; nobody has raised their voice in the house for years. The father works abroad and telephones on Sundays.
+The daughter says, in a private moment, that she has never told her parents anything that mattered.
+
+*Formulation:* a rigid boundary around emotional information, with an implicit rule that distress is not
+discussed. The withdrawal is not individuation; it is the family pattern applied to one member.
+
+*Intervention:* the opposite of Family A. First, name the absence without accusing anyone: "In this family,
+people manage things privately — is that right?" Second, use a structured, low-risk disclosure task in the
+session (each person says one thing about the past month that the others did not know). Third, work with the
+father's distance explicitly, including the question of what he knows about his daughter's life. Fourth, expect
+the family to find the session uncomfortable and to report that it was "fine" — and use that report as the next
+topic.
+
+**The point.** Diffuse and rigid boundaries need opposite moves. This is why a diagnosis-like use of concepts
+produces bad therapy: the same label, applied to two families, licenses interventions that would harm one and
+help the other. The concept tells you where to look; the family tells you which direction to move.
+
+> **PRACTICAL** — Read both cases again. Write the first three sentences you would say in each session. Then
+> swap with a peer and check: could your sentences for Family A be said to Family B? If so, you are working from
+> the concept rather than from the family.
+
+### 4.16 Evidence note: which of these concepts have research support
+
+Students should know how much weight each concept can bear outside the consulting room.
+
+**Boundaries and hierarchy.** Structural family therapy has a reasonable evidence base for adolescent conduct
+and substance problems, and observational research on family organisation — for example the work on
+authoritative versus permissive versus authoritarian parenting — broadly supports the claim that clear
+hierarchy with warmth predicts better child outcomes. The specific vocabulary of "enmeshment" has weaker
+support: measures of family cohesion show curvilinear relationships with wellbeing, which is to say that both
+very low and very high cohesion can be problematic, and that the optimum depends on culture and stage.
+
+**Triangles.** Bowen's triangles are theoretically influential and empirically under-tested as a mechanism.
+There is support for the broader claim that interparental conflict affects children's adjustment, and that
+children's involvement in parental conflict — especially that which makes them feel caught — predicts worse
+outcomes. This is not proof of triangles; it is consistent with them.
+
+**Parentification.** There is good evidence that *destructive* parentification (role reversal without
+recognition or support) predicts internalising problems, and equally good evidence that *adaptive* or
+"filial responsibility" in supportive contexts predicts competence. The distinction is now standard in the
+literature and should be standard in your practice.
+
+**Rules, roles, myths.** Mostly clinical concepts with qualitative support. They are useful and they are not
+measurable; say so when you write reports. Their value is descriptive and intervention-generating, not
+predictive.
+
+**Communication concepts.** Demand–withdraw patterns, negative reciprocity and the balance of positive to
+negative affect have solid empirical support in couple research. The stronger claims of the early
+communication school — that specific communication deficits cause distress — have been revised: communication
+is as much a product of satisfaction as a cause of it, and the direction of effect is contested.
+
+**What this means for practice.** Use the concepts; do not over-claim for them. A formulation can be clinically
+excellent and evidentially modest at the same time, and the professional habit is to be able to say which is
+which.
+
+### 4.17 Key terms
+
+| Term | Definition |
+|---|---|
+| Boundary | The rules governing participation, closeness and privacy between subsystems |
+| Subsystem | A unit within the family organised by generation, function or gender (couple, parents, siblings) |
+| Hierarchy | The arrangement of authority and responsibility, especially across generations |
+| Coalition | An alliance of two against a third that crosses generational lines |
+| Triangle | A three-person emotional configuration recruited to manage tension between two |
+| Detouring | Displacement of couple conflict onto a third party, usually a child |
+| Parentification | A child taking on adult caregiving responsibilities for a parent or siblings |
+| Enmeshment | Diffuse boundaries with excessive sharing and low autonomy (use with care) |
+| Disengagement | Rigid boundaries with little emotional contact |
+| Rule / metarule | A recurring pattern of what is permitted; a rule about rules |
+| Family myth | A shared belief about the family that organises behaviour and resists disconfirmation |
+| Metacommunication | Communication about the relationship or about communication itself |
+| Symmetrical / complementary | Equal versus different-and-mutually-fitting exchanges |
+| Genogram | A three-generation diagram of structure, relationships and events |
+| Homeostasis | The system's tendency to maintain its existing organisation |
+| Function of a symptom | The work a symptom does in maintaining the system's organisation |
+
+### 4.18 Self-test
+
+1. Name the three boundary types and give one observational marker of each.
+2. What distinguishes a coalition from a triangle?
+3. What is the difference between detouring-attacking and detouring-supportive?
+4. Why is "enmeshment" dangerous as a label in a collectivist household?
+5. What is a metarule, and how do you surface one?
+6. Which question helps you decide whether a secret is protective?
+7. Give one concept from this week with strong empirical support and one with weak support.
+8. Why do two families with the same boundary problem need opposite interventions?
+
+**Answers.** 1. Clear (each member has voice and privacy; adults decide adult matters), diffuse (members answer
+for each other; moods shared as weather), rigid (topics that cannot be named; formality). 2. A coalition is a
+structural alliance across generations against a third; a triangle is an emotional process in which a third is
+recruited to manage tension between two. 3. In detouring-attacking the child is defined as the problem and the
+parents unite against them; in detouring-supportive the child is defined as fragile and the parents unite to
+protect them. 4. Because high involvement can be functional and normative; the diagnostic question is whether
+members can think, disagree and move, not how close they are. 5. A rule about what may be discussed; surface it
+by asking what would happen if the topic were raised. 6. Ask who is protected by the secret and who is
+protected from it. 7. Hierarchy/parenting style or demand–withdraw has reasonable support; "enmeshment" as a
+diagnosis or Bowen's triangles as a mechanism have weak support. 8. Because the same label can describe
+under-involvement or over-involvement, and the direction of the required change is opposite.
+
+### 4.19 Reflective task
+
+Draw your own family of origin as a structural map: subsystems, boundaries, hierarchy, one triangle, one rule
+that was never stated. Then answer three questions in 300 words. Which of the concepts was easiest to apply to
+your own family, and why might that be? Which was hardest, and what does the difficulty protect? And what would
+your family say if they saw the drawing?
+
+Bring the drawing to the lab, but not the answers to the third question: that one stays private, and you will
+return to it in Week 14.
+
+### 4.21 Appendix: the case bank for this week
+
+The lab draws on four cases. Read all four; you will be assigned one.
+
+**Case 1 — the returning father.** A father returns to the household after three years working in another
+city. The 13-year-old son refuses to obey him and the mother mediates every exchange. *Concept focus:*
+hierarchy, coalition, re-entry.
+
+**Case 2 — the two-household child.** A 10-year-old moves between two households with different rules, and
+presents with "behaviour problems" that occur only after each transition. *Concept focus:* boundaries between
+systems, rules across contexts, the child as the carrier of a conflict between two subsystems.
+
+**Case 3 — the bereaved couple.** A couple in their fifties lost their eldest son eighteen months ago. They
+describe no conflict and no intimacy. Their younger daughter has become the household's organiser.
+*Concept focus:* rigid boundary around grief, parentification, the function of silence.
+
+**Case 4 — the church leader's family.** A pastor's household in which the father is a public figure and the
+family's difficulties are treated as a threat to his ministry. The 17-year-old daughter has disclosed self-harm
+to a teacher. *Concept focus:* myth, secret, hierarchy, and the point at which risk overrides the family's
+preferred account.
+
+**What to produce for your assigned case.** A genogram, a structural map, a one-paragraph formulation, two
+competing hypotheses with the question that would test each, and the first intervention with its rationale. Two
+pages maximum. The two-page limit is deliberate: a formulation you cannot compress is one you have not
+finished thinking about.
+
+**How the four cases are marked together.** Cases 1 and 2 test hierarchy and cross-system boundaries; cases 3
+and 4 test the concepts that carry the most risk of harm — parentification and secrecy respectively. Present
+your case to a group working on a different one, and spend five minutes on the question: which of your concepts
+would have been dangerous in the other group's family, and why? That question, asked honestly, is the best
+protection against the misuse discussed in section 4.13a.
+
+### 4.20 Readings for this week
+
+* **Minuchin (1974)**, *Families and Family Therapy*, chapters 2–4. Boundaries, subsystems, mapping.
+* **Bowen (1978)**, *Family Therapy in Clinical Practice*, chapter 8 on triangles. Read for the mechanism, not
+  the dogma.
+* **Nichols & Schwartz**, chapters 5–6. The structural model, summarised fairly.
+* **Byng-Hall (1995)**, "Creating a secure family base", *Family Process*. On caregiving roles and their costs —
+  a bridge between structure and attachment.
+* **Kerig (2005)**, on parentification. Read one empirical paper and notice the distinction between destructive
+  and adaptive forms.
+* **Palazzoli et al. (1978)**, *Paradox and Counterparadox*, on the referring person and the function of the
+  symptom. Dated and illuminating.
+
+*Next: [Week 5 — The profession: identity, scope and settings](#week-5--the-profession-identity-scope-and-settings)*
+
+---
 
 ---
 
