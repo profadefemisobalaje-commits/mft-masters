@@ -100,40 +100,719 @@ MFT 706. The gate is pass/fail with one resit.
 
 ## Week 1 — What is family therapy? The relational turn
 
-**The idea.** Family therapy is a *frame*, not a set of techniques. It is the decision to treat the
-relationship as the client. That decision has four consequences:
+### 1.1 The lecture in ninety minutes
 
-1. **The unit of assessment changes.** You must hear from more than one person, and notice what happens
-   *between* them.
-2. **The unit of intervention changes.** You intervene in sequences, rules, meanings and structures,
-   not only in individual cognition.
-3. **The definition of success changes.** Success may be a family that argues well, not a family that
-   never argues.
-4. **The therapist's position changes.** You are not a technician outside the system; you are a
-   participant who affects it (Figure 1).
+Week 1 has one job: to make the relational frame feel inevitable rather than eccentric. Everything a student
+does later — the first session, the genogram, the formulation, the ethics of conjoint work — assumes they can
+see a relationship as a thing with a shape, a history and a set of rules. Students arrive able to see people.
+Very few arrive able to see *between* people.
+
+The ninety minutes run like this.
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Two formulations | Read the Okonkwo referral twice: once as an individual case, once as a relational one | Note which version they would have written |
+| 10–30 | Where the field came from | The three failures of the individual frame (1.2) | Timeline exercise: place five founding texts |
+| 30–50 | Five claims of the relational frame | Build the list on the board, testing each against a live example | Vote: which claim is hardest to accept? |
+| 50–65 | Systems as a way of thinking | Cybernetics, feedback, the Watzlawick axioms (1.5) | Map one family loop on paper |
+| 65–80 | Three openings in a first session | Annotated transcript, read aloud in parts | Mark where the therapist widened the field |
+| 80–90 | Set the lab and the journal | Hand out the widening-question protocol (1.11) | Form triads, choose a real (non-clinical) difficulty |
+
+The lecture is deliberately front-loaded with history. Students who know the field's origins stop treating
+systemic thinking as a technique among techniques and start treating it as an epistemology — a claim about
+what kind of thing a problem is.
+
+### 1.2 Why the field exists: three failures of the individual frame
+
+Family therapy was not invented because someone preferred groups to individuals. It was invented because
+three well-funded, well-intentioned research programmes ran into the same wall: the individual frame kept
+losing information that mattered clinically.
+
+**The first failure: the patient kept relapsing into a family.** In the 1950s, Gregory Bateson's research
+group at Palo Alto — Bateson, Don Jackson, Jay Haley and John Weakland — was studying communication in
+families where one member had been diagnosed with schizophrenia. Their 1956 paper, "Toward a theory of
+schizophrenia," proposed the **double bind**: a pattern in which a person receives two messages at different
+logical levels that contradict each other, cannot comment on the contradiction, and cannot leave the field.
+A mother who says "come here, dear" while stiffening when the child approaches; a father who asks for
+honesty and then punishes it; a family that requires affection and forbids the expression of need that would
+make affection possible.
+
+The double-bind theory has not survived as an explanation of schizophrenia. Its status as a causal claim
+about psychosis is dead, and students should know that. But something else in that research survived and
+became the spine of the field: the observation that **sequences of behaviour between people carry information
+that is invisible when you describe the people separately.** The patient's behaviour was intelligible as a
+move in a game; the game was not in the patient.
+
+**The second failure: the symptom made sense at home.** Independently, researchers studying families of
+people with serious mental illness — Theodore Lidz at Yale, Lyman Wynne at the National Institute of Mental
+Health — noticed that families organised themselves around the symptomatic member. Wynne described
+**pseudo-mutuality**: a family that maintains the appearance of harmony by prohibiting any relationship that
+would threaten it. Lidz described **marital schism** and **marital skew**: two patterns in which the couple's
+conflict or the couple's imbalance shaped the child's development. Again the aetiological claims are dated.
+Again the structural insight held: **a family can be organised by a symptom**, and the symptom can be doing
+work for the system.
+
+**The third failure: the child was the family's messenger.** The child guidance movement of the 1920s–1950s
+treated the child, advised the mother, and sent both home to a household that had not changed. Clinicians
+began to notice that improvement in the child was routinely followed by a new symptom in a sibling, or in the
+mother, or by a marital crisis that had been dormant. The pattern is now so familiar that it has a name —
+**symptom substitution** — and the observation that produced it is the most practically useful idea in this
+week: *if the symptom is functional for the system, removing the symptom without changing the system is
+unstable.*
+
+Three research programmes, three different populations, one conclusion: the unit of assessment was wrong.
+Between 1950 and 1975 the field built an alternative. Nathan Ackerman founded the Family Institute in 1960
+and, with Jackson, the journal *Family Process* in 1962. Murray Bowen developed his theory of differentiation
+and multigenerational transmission at the Menninger Clinic and later at Georgetown. Virginia Satir was
+teaching conjoint family interviewing in California. Salvador Minuchin, working with delinquent boys at the
+Wiltwyck School and then at the Philadelphia Child Guidance Clinic, built structural family therapy out of
+the observation that these families were not sick so much as **organised at the wrong level of hierarchy** —
+children in charge, parents disengaged or in coalition, boundaries too diffuse or too rigid. Jay Haley joined
+Minuchin in Philadelphia in 1967 and brought strategy, power and the deliberate use of directives.
+
+By the late 1970s the field had a canon: the Palo Alto communication school, Bowen's multigenerational
+theory, Minuchin's structural therapy, Haley and Madanes's strategic therapy, the Milan group's systemic
+therapy with its rituals and positive connotation, Satir's human validation, and the beginnings of
+solution-focused work at Milwaukee and narrative therapy in Adelaide and Auckland. Students will meet each
+of these properly in MFT 702. For now, one thing matters: **every one of these schools is an answer to the
+question "what is the unit?"** and each answers it slightly differently — the sequence, the generations, the
+structure, the meaning, the solution, the story.
+
+> **DEBATE** — "If the aetiological claims of the 1950s were wrong, the field built on them is unsound."
+> Ten minutes, two sides. The strongest argument against: a science is allowed to keep its methods after
+> discarding its first theories — medicine kept auscultation after humoral theory fell. The strongest
+> argument for: the field has never fully shed the habit of blaming families for individual distress.
+
+### 1.3 What "relational" actually means: five claims
+
+"Systemic" is a word students learn to say before they learn to mean. Here are the five claims that make
+the relational frame a frame, in ascending order of how much they cost you as a clinician.
+
+**Claim 1 — Behaviour is patterned.** Any two people who spend time together generate repeating sequences.
+The pattern is not in either person; it is in the loop. A couple who report "we never talk" will, within
+twenty minutes of a first session, demonstrate precisely how the not-talking is produced: one asks a question
+that contains an accusation, the other answers with a fact, the first escalates the volume, the second goes
+quiet. Neither is doing it *to* the other. Both are in it.
+
+**Claim 2 — The pattern is maintained by its consequences, not by its causes.** This is cybernetics in one
+sentence. The question "why did this start?" is usually unanswerable and clinically useless; the question
+"what keeps it going?" is answerable and clinically decisive. A father's withdrawal is maintained by his
+wife's criticism, which is maintained by his withdrawal. Ten years of history explain how they got into the
+loop; only the loop explains why they are still in it.
+
+**Claim 3 — Meaning is negotiated between people.** The same act means different things to different family
+members, and those meanings are not private. A daughter's silence means "respect" to her father, "punishment"
+to her mother, and "safety" to herself. The clinical task is not to find the true meaning but to make the
+several meanings audible to everyone in the room.
+
+**Claim 4 — Symptoms can serve the system.** Not always, not deliberately, and never in a way that makes the
+symptomatic person responsible. But frequently enough that the therapist must ask: what would change in this
+household if this symptom disappeared tomorrow? Sometimes the honest answer is "nothing." Sometimes it is
+"my marriage would have to be looked at," and that answer reorganises the whole treatment.
+
+**Claim 5 — The observer is inside the observed system.** You are not a camera. Your presence changes what
+the family does, what they say, what they notice about themselves, and what they will risk in front of each
+other. The family that arrives furious will perform its fury for you; the family that arrives polite will
+perform its politeness. This is not contamination to be minimised — it is the instrument you have. Second-
+order cybernetics, which students meet formally in MFT 715, is simply the discipline of using that
+instrument knowingly (Figure 1.1).
 
 ![Figure 1.1 — First- and second-order cybernetics: where the therapist stands](../assets/figures/fig01-two-cybernetics.svg)
 
-**A working definition.** Marriage and family therapy is the assessment and treatment of relational
-systems — couples, families, and the wider networks in which they live — using interventions that target
-interaction patterns, meaning systems, and the emotional bonds between people.
+**A working definition.** Marriage and family therapy is the assessment and treatment of relational systems —
+couples, families, and the wider networks in which they live — using interventions that target interaction
+patterns, meaning systems, and the emotional bonds between people. Read the definition carefully: *assessment
+of relational systems* means the unit of assessment is the relationship; *interventions that target patterns*
+means the unit of intervention is the loop, the rule, the structure or the story; *emotional bonds* means
+that a purely behavioural account is insufficient, because people are attached to each other and the
+attachment is what makes the pattern stubborn.
 
-**What it is not.** It is not "seeing everyone together" as a matter of policy. Sometimes the right
-systemic move is an individual session within family work. It is not a belief that individuals do not
-exist, or that suffering is imaginary. It is a disciplined focus on context.
+**What it is not.** Four clarifications, because students routinely collect the wrong ones.
 
-> **CASE** — Mrs Okonkwo brings her 9-year-old son, Ebuka, for "stubbornness". In the first ten minutes
-> she mentions, twice, that his father "is never home". The linear frame says: assess and treat Ebuka's
-> behaviour. The systemic frame says: ask who else is affected by the behaviour, what happens after it,
-> and what would change in the household if it stopped. The second question is not a rejection of the
-> first; it is a widening of the field in which the first can be treated.
+1. **It is not "seeing everyone together" as a matter of policy.** Sometimes the right systemic move is an
+   individual session inside family work. Conjoint work is a means, not a doctrine.
+2. **It is not a denial that individuals exist, or that biology, trauma and temperament matter.** It is a
+   disciplined focus on context, not a metaphysics.
+3. **It is not the claim that families cause mental illness.** That claim was made in the 1950s and it was
+   wrong, cruel, and expensive. Contemporary systemic practice holds families as the site where distress is
+   *expressed, maintained and relieved* — not as the sole cause.
+4. **It is not "we don't do diagnosis."** Systemic therapists diagnose, formulate and often work inside
+   services that require a diagnosis; see MFT 707.
 
-**Practice (lab).** In triads, one person describes a current difficulty for three minutes. The
-"therapist" may only ask questions that include another person ("who notices when…", "what does your
-mother do when…"). Debrief: what did the widening do to the description?
+### 1.4 The four consequences, worked through
 
-> **REFLECT** — Write down the last significant conflict in your own family. Now write it again from the
-> point of view of the person you understood least. Note what changed in your body as you wrote.
+The four consequences in the original week note are worth more than a bullet list. Take them one at a time,
+each with what it changes on Monday morning.
+
+**Consequence 1 — The unit of assessment changes.** You must hear from more than one person, and notice what
+happens *between* them. In practice this means the assessment cannot be completed in a single interview with
+one informant. It means disagreement between informants is data rather than noise: if the mother says the
+boy is defiant and the father says he is fine, the difference is the finding. It means you watch the room —
+who sits where, who answers for whom, who looks at whom before speaking, what happens to the volume when
+one person enters.
+
+**Consequence 2 — The unit of intervention changes.** You intervene in sequences, rules, meanings and
+structures, not only in individual cognition. A cognitive intervention asks the depressed woman to examine
+the evidence for her belief that she is a burden. A systemic intervention asks what happens in the household
+in the forty-eight hours after she expresses that belief — and often finds that the expression triggers
+reassurance, that reassurance prevents any change in the division of labour, and that the division of labour
+is what is depressing her. Both are legitimate. The second is invisible from inside the first.
+
+**Consequence 3 — The definition of success changes.** Success may be a family that argues well, not a family
+that never argues. This is the hardest consequence for students trained in symptom reduction, because it
+means the goal is not the absence of conflict but the presence of **repair**. A couple who can fight, rupture
+and come back together within an hour is doing better than a couple who never fight and are quietly
+contemptuous. Outcome measures should reflect this: not only "has the symptom gone?" but "can this system
+handle disagreement without breaking?"
+
+**Consequence 4 — The therapist's position changes.** You are not a technician outside the system; you are a
+participant who affects it. Three practical implications. First, you must account for your own effect: the
+family will behave differently because you are watching, and the difference is informative rather than
+annoying. Second, you cannot claim neutrality; you can only be transparent about your partiality. Third,
+your own family of origin is in the room with you — which is why every week of this book ends with a
+reflective task, and why personal therapy and supervision are professional requirements, not luxuries.
+
+> **CASE** — Mrs Okonkwo brings her 9-year-old son, Ebuka, for "stubbornness". In the first ten minutes she
+> mentions, twice, that his father "is never home". The linear frame says: assess and treat Ebuka's
+> behaviour. The systemic frame says: ask who else is affected by the behaviour, what happens after it, and
+> what would change in the household if it stopped. The second question is not a rejection of the first; it
+> is a widening of the field in which the first can be treated.
+
+### 1.5 Systems as a way of thinking
+
+Students often assume "system" is jargon for "family". It is not. A system is any set of elements whose
+interaction produces effects none of the elements produces alone. Ludwig von Bertalanffy's general system
+theory (1968), Norbert Wiener's cybernetics (1948) and the communications research at Palo Alto gave the
+field three tools, and they are still the three tools.
+
+**Feedback.** A system regulates itself through loops. **Negative feedback** reduces deviation and restores
+the previous state — the family that pulls a member back whenever they move too far, the couple whose
+argument returns to the same sentence. **Positive feedback** amplifies deviation and produces change or
+escalation — the quarrel that grows, the affair that is discovered, the child who leaves. Note that the words
+are not evaluative: negative feedback is not bad, positive is not good. Most clinical problems are stuck
+negative-feedback loops with high cost; most crises are positive-feedback loops that have run away.
+
+**Homeostasis and morphostasis.** Systems resist change in order to remain themselves. When a family comes to
+therapy, two processes are always running: the pressure to solve the problem and the pressure to keep the
+system intact. This is why families sometimes seem to sabotage their own treatment, and why the therapist
+who moves too fast loses the family. The technical answer is to pace: introduce change at a rate the system
+can absorb, and check that each change is stable before the next.
+
+**Rules and punctuation.** Watzlawick, Beavin and Jackson's *Pragmatics of Human Communication* (1967) gave
+the field its most quoted propositions: one cannot not communicate; every communication has a content and a
+relationship level; relationships are defined by punctuation of sequences; humans communicate digitally
+(words) and analogically (behaviour, tone, gesture). The idea of **punctuation** is the most clinically
+valuable. Each partner punctuates the same sequence differently: she says "he goes silent, so I get loud";
+he says "she gets loud, so I go silent". Both are describing the same loop from different points on it, and
+each punctuation makes the other the cause. Therapy begins when the loop, rather than either partner, becomes
+the object of attention.
+
+**Structure.** Minuchin added what communication theory lacked: an account of *organisation*. Families have
+subsystems (parental, sibling, couple), boundaries (clear, diffuse, rigid), hierarchies, alliances and
+coalitions. A child who is in a coalition with one parent against the other is not "manipulative"; the child
+is holding a structural position that the adults' conflict has created. Structure gives the therapist
+something to see in the seating plan and something to change in the session.
+
+**Meaning.** The later schools — Milan, narrative, collaborative — pushed the field from pattern to
+interpretation. If the system is a set of interactions, it is also a set of stories about those interactions.
+A family that has decided "our son is the problem" has organised its attention, its conversations and its
+hopes around that sentence. Change the sentence and the interactions move; move the interactions and the
+sentence loses its evidence.
+
+> **PRACTICAL** — Choose an ordinary recurring household event: the school run, Sunday lunch, the nightly
+> argument about homework. Draw it as a loop with four to six nodes, each node a behaviour, with arrows
+> showing what follows what. Then mark: where is the negative feedback (what restores the previous state)?
+> Where is the positive feedback (what escalates)? Where does each participant punctuate the loop? Bring the
+> drawing to the lab; you will redraw it after hearing someone else's account of the same event.
+
+---
+
+### 1.11a What the evidence says, in one page
+
+Students are often told either that family therapy "works" or that the evidence is contested. Both are
+unhelpful. Here is what a careful reading of the outcome literature supports, stated with the hedge each
+claim requires.
+
+**Family and couple therapy outperform no treatment, and generally match individual treatment for relational
+problems.** Meta-analyses of couple and family therapy trials report effect sizes in the moderate range —
+roughly half a standard deviation to eight-tenths — against no-treatment and wait-list controls, with the
+larger effects for couple distress, child conduct problems, and adolescent substance use. Effects are smaller
+and less consistent against credible active comparators, which is what you would expect if the specific model
+matters less than the common structure of good therapy.
+
+**The model explains less of the variance than the alliance.** The most robust finding in psychotherapy
+research, replicated across modalities, is that the therapeutic alliance predicts outcome better than the
+technical ingredients of any particular school. In couple and family work the alliance is more complicated
+than in individual work, because there is more than one alliance to build and they can pull against each
+other: siding with one partner to engage them alienates the other, and a determined even-handedness can leave
+both feeling unheard. This is why Week 6 of this book spends two sessions on joining, and why your assessed
+skill in this course includes your ability to hold two alliances at once.
+
+**Common factors do a lot of the work.** Client factors (severity, chronicity, social support, motivation),
+the alliance, the therapist's skill and the expectancy generated by a credible rationale account for a large
+share of change. The practical implication is not that technique is irrelevant but that technique is
+delivered *through* a relationship, and a technique delivered through a poor relationship is inert or
+harmful.
+
+**Dose and dropout matter more than most trainees think.** A substantial proportion of families attend one
+session and never return; the first session is therefore an outcome event, not a preliminary. Retention is
+predicted by early alliance, by the fit between the therapist's explanation and the family's own
+understanding, and by practicalities — travel, cost, timing, childcare — that a therapist who ignores them
+will mistake for resistance.
+
+**Evidence is unevenly distributed across problems.** Couple therapy for relationship distress, behavioural
+parent training for conduct problems, family-based treatment for adolescent eating disorders, multidimensional
+family therapy for adolescent substance use, and systemic work with chronic illness in children have
+reasonably strong support. Evidence for some popular ideas — mechanical use of paradox, unexamined
+"dysfunctional family" typologies, polyvagal explanations treated as established mechanism — is much weaker.
+Learning to distinguish these is part of professional formation, and MFT 705 and MFT 721 teach you to read the
+literature rather than the marketing.
+
+> **CAUTION** — Do not let the common-factors literature become an excuse for not learning a model. "The
+> alliance is what matters" is true and is also the sentence most often used by trainees who have not yet
+> learned to do anything. You need a model precise enough to be taught, supervised and evaluated, and a
+> relationship good enough for the model to reach the family. Neither substitutes for the other.
+
+### 1.6 First contact: three openings, annotated
+
+The relational frame is not announced, it is enacted. Three openings show what it looks like when a
+therapist begins relationally in the first five minutes — before any genogram, any diagnosis, any technique.
+
+**Opening A — from the referred person to the referral system.**
+
+> **Therapist:** Before we start, tell me how this appointment came about. Who first said something needed to
+> change, and who agreed?
+> **Mrs Okonkwo:** The school called me. His teacher said he refuses to write anything.
+> **Therapist:** And when you told your husband, what did he say?
+> **Mrs Okonkwo:** (pause) He said I should handle it. He is not around.
+> **Therapist:** So the school spoke to you, you spoke to your husband, and here you are with Ebuka. Who else
+> in the family knows you are here today?
+
+Note what the therapist has done. She has not asked about the symptom at all. She has mapped the **referral
+pathway**, which is itself a relational fact: who is worried, who is not, who carries the problem, who was
+told and who was not. She has also discovered, in four questions, the sentence that will organise the
+assessment: *he said I should handle it.* That sentence is not a complaint about a husband. It is a
+description of a household in which one adult holds all the worry, and a child's symptom sits in the space
+where the other adult would be.
+
+**Opening B — from the symptom to the sequence.**
+
+> **Therapist:** Tell me about the last time it happened. Not the worst time — the most recent.
+> **Mrs Okonkwo:** Yesterday morning. He would not get out of bed. I called him three times, then I started
+> shouting, then he got up and stood in the bathroom for twenty minutes.
+> **Therapist:** And then?
+> **Mrs Okonkwo:** Then I drove him late and I was angry all day.
+> **Therapist:** What did Ebuka do when you were angry all day?
+> **Mrs Okonkwo:** He was very quiet. He even made me tea.
+
+The sequence is now visible: refusal, escalation, compliance, and then **repair initiated by the child**. That
+is the loop. The therapist did not need to interpret it. She asked for a specific episode and then asked
+"and then?" until the loop closed. This is the single most useful micro-skill in the first session:
+**episode, not opinion.** Opinions produce character descriptions ("he is stubborn"); episodes produce
+sequences.
+
+**Opening C — from the individual to the room.**
+
+> **Therapist:** (to Ebuka) Your mum says mornings are hard. If I asked her to describe a good morning, what
+> would she say happens?
+> **Ebuka:** (shrugs) She would be happy.
+> **Therapist:** How would she know? What would she see?
+> **Ebuka:** (long pause) My dad would be there.
+
+Three questions, and the child has produced the formulation. The therapist did not ask "how do you feel
+about your father's absence?" — a question no nine-year-old answers truthfully. She asked a **behavioural
+question about a third person's perception**, which is easier to answer and much harder to fake. Involving
+the child as an informant, not a patient, is a structural act: it moves the child out of the identified-
+patient position and into the family's information system.
+
+**What all three openings have in common.** Each one moves the unit of attention one step outward — from the
+person to the pathway, from the event to the sequence, from the individual to the room — and each does so
+with a question that is answerable. That is the whole craft of a first session in miniature. The student who
+can do these three moves in the first ten minutes will get a formulation. The student who cannot will get a
+history.
+
+### 1.7 The Okonkwo case, fully worked
+
+**Referral.** Ebuka, 9, referred by his school for "defiance and refusal to write". Six weeks of refusing to
+complete written work; two episodes of leaving the classroom. Class teacher describes him as "stubborn and
+rude". Mother reports he is "fine at home, except mornings". Father did not attend.
+
+**What the linear frame produces.** A differential diagnosis: oppositional defiant disorder versus a specific
+learning difficulty (writing), versus anxiety, versus an attention problem. An assessment plan: psychometric
+testing, teacher rating scales, classroom observation, possibly a paediatric review. A treatment plan:
+behavioural contract, reward chart, parent training in commands and consequences. This is not wrong. It is
+incomplete in a way that will matter, because the most important information in this family is not about
+Ebuka's writing.
+
+**What the systemic frame adds.** Four moves, in order.
+
+*Move 1 — the referral pathway.* Who is worried? The school, then the mother. Who is not in the room? The
+father. Who decided that the mother should manage it? The father, according to the mother. The first
+structural fact: **the parental subsystem is not operating as a subsystem.** One adult holds the worry, the
+other holds the distance.
+
+*Move 2 — the sequence.* Mornings: refusal, three calls, shouting, compliance, lateness, a day of maternal
+anger, evening reparation initiated by the child. The second structural fact: **the child regulates the
+mother's emotional state.** He absorbs her anger and then repairs it. A nine-year-old is doing the work of a
+partner.
+
+*Move 3 — the function of the symptom.* What would change at home if Ebuka got up cheerfully and wrote
+fluently? The mornings would be calm; the mother's day would be easier; and the father's absence would become
+a topic rather than a background condition. There is no evidence that anyone wants the child to be
+symptomatic. There is good evidence that the symptom sits at the exact point where a marital conversation
+would otherwise occur.
+
+*Move 4 — the wider system.* School, church, extended family. In this case the maternal grandmother is
+mentioned twice and the paternal aunt once. In many Nigerian households the grandmother is a co-parent and a
+court of appeal; leaving her out of the assessment is not neutrality, it is an omission.
+
+**The formulation, in one paragraph.** Ebuka's refusal to write is maintained by a morning sequence in which
+escalation reliably produces compliance and in which the child then repairs his mother's distress. That
+sequence is itself maintained by a household in which one parent carries all the worry and the other is
+absent, and by a school system that has defined the problem as a defect in the child. The symptom is not
+caused by the marriage, and nobody is to blame; but the symptom is *located* where the marriage would
+otherwise be discussed, and it will be difficult to resolve without that conversation becoming possible.
+
+**The plan that follows.** Conjoint sessions including the father (with an explicit invitation framed as
+expertise rather than blame: "I need your view of what happens in the mornings; your wife and I are working
+from one account"). A behavioural component for the mornings, because it works and because success builds
+the parents' confidence in themselves as a team. A separate conversation with the parents about the marriage,
+held only when both are willing. Liaison with the school to reframe "defiance" as "a problem we are
+assessing", which reduces the pressure that feeds the loop.
+
+> **TASK** — Rewrite this case as you would present it in a multidisciplinary team meeting in forty seconds,
+> without using the word "systemic" and without blaming either parent. Then rewrite it for the parents
+> themselves. The two versions should differ in vocabulary, not in content.
+
+### 1.8 Where the profession sits
+
+Students enter training with a blurred map of the mental health professions. In Nigeria, as in most places,
+the practical differences matter for referral, for legal standing, and for what you are allowed to do.
+
+| Profession | Core unit | Typical training | What they usually do with a struggling family |
+|---|---|---|---|
+| Psychiatry | The patient, medically | Medical degree, then residency | Diagnose, prescribe, admit; refer for therapy |
+| Clinical psychology | The individual | Doctorate or master's plus internship | Assess, formulate, deliver individual therapy |
+| Counselling psychology | The individual in context | Master's or doctorate | Individual and group counselling, some couple work |
+| Social work | The person in their environment | Degree plus registration | Case management, child protection, family support |
+| Marriage and family therapy | The relationship | Master's or doctorate in MFT | Conjoint, family and couple therapy; relational formulation |
+
+The distinctive contribution is not a technique. Clinical psychologists do behavioural couple work;
+psychiatrists do family meetings; social workers do family support. The distinctive contribution is the
+**relational formulation** — the disciplined habit of locating the problem in the space between people, and
+the training in interventions that change that space. A therapist who can only see individuals will treat a
+family by treating its members one at a time and will be genuinely puzzled when the symptom returns.
+
+**Settings in which the work happens.** Outpatient clinics and private practice; hospitals, where family
+meetings follow diagnoses that reorganise households; schools, where the referral pathway usually begins;
+NGOs and humanitarian settings, where family separation, displacement and bereavement are the presenting
+context; faith settings, where pastors, imams and church counsellors are often the first and sometimes the
+only port of call; and courts and child protection services, where the therapist's opinion may be read by a
+judge. Each setting changes the ethics (see MFT 704), the assessment (MFT 707) and even the language you use.
+
+**Scope of practice.** Three boundaries worth stating on the first day of training. First, family therapists
+do not prescribe; any question about medication is a referral question, and the referral should be made
+without implying that medication is a failure. Second, family therapists do not give legal advice; they
+provide clinical opinion and, where required, reports, and they tell families to obtain a lawyer (see MFT
+724). Third, family therapists do not practise beyond their competence — and competence is specific:
+adult couple work is not child work, child work is not forensic work, and neither is trauma processing
+without specific training (MFT 711, MFT 714).
+
+> **AUDIT** — Write down, in one sentence each, what you would do and would not do if a family asked you to
+> (a) advise whether the husband can legally take a second wife, (b) tell the court which parent should have
+> custody, (c) prescribe something for the child's sleep. Bring the three sentences to the lab.
+
+### 1.9 Culture, faith and class in the first meeting
+
+The relational frame is not culturally neutral, and pretending otherwise is its own kind of arrogance. Three
+adjustments matter from the first session in most Nigerian consulting rooms.
+
+**Kinship is wider than the household.** A genogram that stops at the nuclear family will miss the
+grandmother who raised the child for three years, the uncle who pays the school fees and therefore has
+standing, the aunt who lives with the family and disciplines the children, and the cousin whose presence has
+changed the sleeping arrangements. Ask who is *involved*, not who lives *there*. The distinction between
+household and family is one of the most practically useful in the whole programme.
+
+**Faith is a resource and a referral system, not a rival.** Families commonly arrive having already seen a
+pastor, an imam, a traditional healer or all three. The therapist's task is not to adjudicate but to
+coordinate: what did the prayer, the deliverance, the fasting, the herbal treatment do? What was helpful?
+What was frightening? What does the family believe is happening spiritually? A family that believes the
+problem is spiritual and a therapist who believes it is relational can still work together if the therapist
+takes the belief seriously as a *meaning in the system*, which is exactly what it is.
+
+**Class shapes what is possible.** A recommendation to reduce working hours is meaningless to a family with
+two jobs and no childcare. A recommendation to attend weekly sessions is meaningless to a family who travel
+four hours. A recommendation to "talk to your husband" is meaningless in a household where his mother is the
+decision-maker. Practical recommendations fail not because families are resistant but because the therapist
+prescribed from a life the family does not have. The discipline is to ask, before prescribing: what would
+have to be true in your week for this to happen? The answer is usually the real treatment plan.
+
+> **CAUTION** — Do not treat cultural deference as consent. A wife who says "I will do whatever my husband
+> decides" may be expressing a genuine value, or may be signalling that she cannot speak safely. The
+> difference is discovered by seeing her alone at least once, and by asking about safety in the standard
+> way — not by assuming either interpretation.
+
+### 1.10 Six errors that begin in week one
+
+These are the mistakes students actually make in their first role-plays, and each one is a failure of the
+relational frame rather than a failure of technique.
+
+1. **The single-informant assessment.** You interview the mother, form a picture, and never test it. Fix: no
+   relational formulation without at least two informants, and no family assessment without asking who is
+   missing.
+2. **The character formulation.** "He is oppositional." "She is enmeshed." These are descriptions of persons
+   disguised as systemic language. Fix: every formulation must contain at least one *sequence* ("when X, then
+   Y, then Z") and at least one *context* ("in the presence of…").
+3. **Premature reassurance.** "I'm sure he loves you." It closes the exploration and hands the therapist's
+   opinion to a family that needs its own. Fix: acknowledge the experience, ask for the evidence, keep the
+   question open.
+4. **The alliance slide.** You begin to like one member more than another and your questions begin to build
+   the case for that person. Fix: track your questions across a session (record it) and count how many were
+   addressed to each person and whose account each question elaborated.
+5. **The technique-first session.** You arrive with a genogram to draw, a technique to demonstrate, a model to
+   apply — and the family's actual concern is never heard. Fix: the first session belongs to the family's
+   account, not to the therapist's plan.
+6. **The safety omission.** You conduct a full conjoint assessment without ever asking about violence. Fix:
+   every first session includes a private screen for harm to self, harm to others, abuse of children and
+   intimate partner violence, conducted in a way that makes disclosure possible (see MFT 704 and MFT 712).
+
+> **REFLECT** — Which of the six are you most likely to commit? Not in theory: in your last conversation with
+> someone who was struggling. Write the answer down. You will be asked to revisit it in Week 14.
+
+### 1.11 Laboratory: the widening question
+
+The week's practical is a triad drill in which the therapist may only ask questions that include another
+person. It looks simple and it is not: most students discover that their natural question is a question about
+an individual, and that widening feels artificial for the first twenty minutes.
+
+**Setup.** Groups of three. Roles rotate every eight minutes, so each person is therapist once. One person
+brings a real but non-clinical difficulty — a disagreement with a flatmate, a difficult decision about a
+sibling, a strain with a colleague. No clinical material, no disclosure that would be regretted.
+
+**Rules for the therapist.**
+
+1. No statements, interpretations or advice — questions only.
+2. Every question must include a third party or a relationship: "who notices…", "what does your sister do
+   when…", "who would disagree…", "what happens between you after…".
+3. One question at a time, with silence after each.
+4. Eight minutes, then stop whether or not the conversation feels finished.
+
+**Observer's task.** Two columns on one sheet: **W** (questions that widened the field) and **N** (questions
+that narrowed it back to the individual). Tally, then quote the single most useful widening question and the
+single most narrowing one.
+
+**Debrief questions.** What did the client notice about their own description when it was widened? Which
+widening felt intrusive, and why? What did the therapist want to say but could not? What happened to the
+client's tone when a third person entered the story?
+
+**Marking rubric** (used in the Week 6 skills gate).
+
+| Criterion | Weight | What full marks looks like |
+|---|---|---|
+| Proportion of widening questions | 30% | More than 80% of questions include another person or a relationship |
+| Question quality | 25% | Open, specific, answerable; no double questions; no embedded advice |
+| Pacing and silence | 20% | Roughly one question per 30–45 seconds; client speaks more than therapist |
+| Use of the client's words | 15% | At least three questions reuse the client's own phrasing |
+| Reflexivity in debrief | 10% | Can name what was hard, what was tempting, what they avoided |
+
+> **DRILL** — Record a five-minute role-play on your phone. Count your questions. Then count how many contain
+> a third person. Most first attempts are around one in ten. The target is eight in ten, and it takes about
+> three hours of deliberate practice to get there.
+
+### 1.12 Reflective task
+
+Write 500 words on the last significant conflict in your own family, then rewrite it from the point of view
+of the person you understood least. Note what changed in your body as you wrote. Keep both versions; you will
+return to them in Week 14, when you write your emerging clinical stance, and you will find that the second
+version contains the therapist you are becoming.
+
+Two rules for this task. Do not show it to the person concerned, and do not bring the person's name into the
+seminar. The purpose is to develop the capacity to hold more than one punctuation of the same sequence at
+once — which is precisely what you will ask families to do.
+
+### 1.13 Self-test
+
+Six questions, answers below. If you cannot answer 4 and 5 without notes, reread 1.5.
+
+1. Define negative and positive feedback, and give one clinical example of each.
+2. Why is "punctuation" clinically useful?
+3. State the double-bind hypothesis and its current scientific status.
+4. What is symptom substitution, and what does it imply for treatment?
+5. Name the five claims of the relational frame, in order.
+6. What are the four consequences of treating the relationship as the client?
+
+**Answers.** 1. Negative feedback reduces deviation and restores a prior state (a family pulling a member
+back from independence); positive feedback amplifies deviation (an argument that escalates through
+counter-complaint). 2. Because each participant's punctuation makes the other appear to be the cause; the
+therapist who makes punctuation visible turns blame into a loop both can act on. 3. A person receives
+contradictory messages at different logical levels, cannot comment on the contradiction and cannot leave the
+field; it is historically important and not a supported causal explanation of schizophrenia. 4. The
+observation that removing a symptom is often followed by a new symptom elsewhere in the system; it implies
+that treatment must change the system, not only the symptom. 5. Behaviour is patterned; patterns are
+maintained by consequences rather than causes; meaning is negotiated; symptoms can serve the system; the
+observer is inside the observed system. 6. The unit of assessment, the unit of intervention, the definition
+of success, and the therapist's position.
+
+### 1.14 Readings for this week
+
+Read the first two before the lecture; the rest are for the assignment.
+
+* **Bateson, Jackson, Haley & Weakland (1956)**, "Toward a theory of schizophrenia", *Behavioral Science*.
+  Read it as a historical document and notice how carefully the authors hedge.
+* **Watzlawick, Beavin & Jackson (1967)**, *Pragmatics of Human Communication*, chapters 1–2. The axioms, in
+  the original.
+* **Nichols & Schwartz**, *Family Therapy: Concepts and Methods*, chapter 1. The best single overview of the
+  field's history.
+* **Becvar & Becvar**, *Family Therapy: A Systemic Integration*, chapters 3–5. On cybernetics and
+  second-order thinking.
+* **Hoffman (1985)**, "Beyond power and control", *Family Systems Medicine*. The turn to second-order
+  cybernetics, written by a participant.
+* **Minuchin (1974)**, *Families and Family Therapy*, chapter 2. Structure, in Minuchin's own voice.
+
+### 1.6a An extended transcript, annotated
+
+Role-plays teach faster than principles. Below is a twelve-turn excerpt from a first session with a couple
+who present with "we cannot communicate". The therapist is a trainee in her second term. Read the transcript,
+cover the annotations, and decide what you would have asked next. Then read the annotations.
+
+> **T1 Therapist:** What would you like me to understand first?
+> **T2 Folake:** He doesn't talk to me. He comes home, eats, watches television, sleeps. I am alone in this
+> house.
+> **T3 Therapist:** (to Dele) What do you think your wife means when she says she is alone?
+> **T4 Dele:** I don't know. I work. I am tired. She is not alone, there are three children in the house.
+> **T5 Therapist:** Folake, what do you do when he is watching television?
+> **T6 Folake:** I stand there. Sometimes I ask him something and he says "mm".
+> **T7 Therapist:** And what happens then?
+> **T8 Folake:** I get angry. I say something sharp. Then he goes to bed.
+> **T9 Therapist:** Dele, when she says something sharp, what goes through your mind?
+> **T10 Dele:** That nothing I do is enough. So I stop.
+> **T11 Therapist:** And when you stop, Folake, what happens to the anger?
+> **T12 Folake:** It grows. And then I cannot sleep and I am tired the next day and the children see me crying.
+
+**Annotations.**
+
+*T1* is a neutral opening that hands the agenda to the couple without inviting either partner to be the
+complainant. Compare "What is the problem?" — which usually produces one person's problem statement and
+positions the other as the problem.
+
+*T3* is the first systemic move: instead of asking Dele to defend himself, the therapist asks him to
+**interpret his wife**, which requires him to engage with her experience rather than his own. It also reveals
+whether he has a theory of her mind at all. He does not: "I don't know" is honest and important.
+
+*T5* is an **episode question** and it is doing three things at once. It bypasses the argument about whether
+she is alone (unwinnable), it specifies a moment (television, evening), and it puts the therapist physically
+in the room with them. Students who ask "why do you feel alone?" get an explanation; students who ask "what do
+you do when he is watching television?" get the behaviour that maintains the loneliness.
+
+*T7*, "and then?", is the single most productive two-word intervention in family therapy. It builds the
+sequence one link at a time and stops the therapist from doing the formulating.
+
+*T9* takes the same event and asks for the **other partner's internal sequence**, which turns two monologues
+into one loop. Note that the therapist does not challenge Dele's account ("three children in the house" is
+not an answer to loneliness, but arguing about it would lose him). She lets the sequence do the work.
+
+*T10* is the pivot of the session. "Nothing I do is enough, so I stop" is a complete formulation of Dele's
+side of the loop, offered by Dele. Nothing the therapist could have said would have been as convincing or as
+usable.
+
+*T11* closes the loop by returning to Folake with the consequence of his withdrawal. At T12 she supplies it:
+the anger grows, sleep is lost, the children see her crying. The loop is now on the table, described entirely
+in the couple's own words, and neither partner has been blamed.
+
+What the therapist has **not** done in twelve turns is worth listing, because trainees over-value these
+moves: she has not asked about the history of the marriage, has not asked how they met, has not asked about
+sex, has not offered an interpretation, has not normalised, has not asked either partner to change anything,
+and has not used the word "communication". Every one of those is legitimate; none of them was needed to
+establish the relational frame in the first ten minutes.
+
+> **PRACTICAL** — In pairs, take turns being the therapist with this transcript. Cover T3 to T12 and improvise
+> your own next question at each point. Then compare with the original. Where did you ask for an opinion
+> rather than an episode? Where did you reassure? Where did you take a side without noticing?
+
+### 1.10a Three punctuations of one quarrel
+
+The same sequence can be punctuated at least three ways, and each punctuation licenses a different
+intervention. Take the quarrel the couple above actually have.
+
+**Punctuation 1 — the character story.** "He is cold and withdrawn; I am affectionate and he rejects me."
+*What it licenses:* an appeal to Dele to change, a diagnosis of Dele (avoidant, depressive, possibly
+autistic), and a treatment that works on Dele. *What it costs:* Folake's contribution disappears, Dele
+becomes a project rather than a partner, and Dele — who already believes nothing he does is enough —
+experiences therapy as one more arena in which he fails.
+
+**Punctuation 2 — the mirror story.** "She criticises; I withdraw; she criticises more." *What it licenses:*
+a circular formulation, a sequence map, and interventions aimed at the loop (interrupting the escalation,
+slowing the exchange, rehearsing a different response to criticism). *What it costs:* the loop can become an
+abstraction that hides the asymmetry of power and the real losses — his hours, her sleeplessness, the
+children's exposure.
+
+**Punctuation 3 — the meaning story.** "She is asking for evidence that she matters; he is protecting himself
+from evidence that he fails." *What it licenses:* work on attachment, on the meanings each assigns to the
+other's behaviour, and on the moment of turning toward or away. *What it costs:* meaning work without
+behaviour change can become insight that never reaches the household.
+
+A competent therapist holds all three and chooses deliberately, usually sequencing them: the loop first
+(because it lowers blame), the meaning second (because it explains why the loop is so adhesive), and the
+character story never as a formulation, only as each partner's experience to be listened to. This pluralism —
+several punctuations available, one chosen for a reason — is what distinguishes a systemic clinician from
+someone who has memorised a model.
+
+> **DEBATE** — "Circular formulations are kinder but less true." Fifteen minutes. Note that the strongest
+> argument for circularity is not moral but empirical: linear accounts of complex interaction are almost
+> always wrong about causation, even when they are right about blame.
+
+### 1.13a Examination question with model answer
+
+**Question (20 marks).** "Family therapy is a way of seeing, not a set of techniques." Discuss, with
+reference to the historical development of the field and to at least one clinical example.
+
+**Model answer, in note form, with the markers' expectations visible.**
+
+*Introduction (2 marks).* State the claim in your own words: the relational frame is an epistemological
+commitment — a claim about the unit of analysis and the nature of causation — and techniques are downstream
+of it. Signal the structure of the answer: history, epistemology, clinical example, limits.
+
+*History (6 marks).* Three research programmes converged on the same failure: Bateson's group and the double
+bind; Lidz and Wynne on family organisation around psychosis; the child guidance movement and symptom
+substitution. The aetiological claims of the 1950s were largely wrong and you should say so; what survived is
+the methodological insight that sequences carry information individuals do not. Trace the schools as answers
+to "what is the unit?" — Palo Alto (the sequence), Bowen (the generations), Minuchin (the structure), Milan
+(the meaning), Milwaukee (the solution), Adelaide (the story).
+
+*Epistemology (6 marks).* Circular versus linear causality; feedback and homeostasis; punctuation;
+second-order cybernetics and the therapist's position. Use Watzlawick's axioms precisely — content and
+relationship levels, digital and analogic communication — and show what each buys clinically. Demonstrate
+that you understand the difference between an ecological claim (the system is the unit of *assessment*) and
+a causal claim (the system *causes* the symptom), and reject the second.
+
+*Clinical example (4 marks).* The strongest answers use one case throughout rather than several in passing.
+The Okonkwo case works: a nine-year-old's school refusal, a morning sequence, a parental subsystem that is
+not operating, and a formulation that no single-informant assessment could have produced. Show what the
+relational frame let you see and what it let you do.
+
+*Limits (2 marks).* Name them honestly: the frame can obscure individual biology, trauma and temperament; it
+can be used to distribute responsibility in ways that leave an abusive member unaccountable; it can become a
+language that describes loops without ever changing them. Note the feminist critique of neutrality and the
+evidence that the alliance — not the model — predicts much of the outcome.
+
+*Common ways to lose marks.* Describing techniques without explaining the frame; treating "systemic" as a
+synonym for "family"; repeating the double-bind hypothesis as if it were current; failing to give a clinical
+example at all; writing about circular causality without ever defining feedback.
+
+### 1.13b What "good" looks like at the end of week one
+
+A checklist you can use on yourself before Week 2. Tick only what you can do *without notes*.
+
+- [ ] Explain, in ninety seconds, why the field moved from the individual to the relationship, using three
+      historical examples and one honest caveat about the science of the 1950s.
+- [ ] Define negative and positive feedback and give a clinical example of each that you have actually seen.
+- [ ] Explain punctuation to a couple without using the word "punctuation".
+- [ ] Turn three opinion questions into episode questions, out loud, without hesitation.
+- [ ] State the four consequences of treating the relationship as the client, and give one practical
+      implication of each for a first session.
+- [ ] Describe the difference between a linear and a circular formulation using the same case twice.
+- [ ] Name the three professional boundaries from 1.8 and what you would say to a family that crossed them.
+- [ ] Ask about safety in a first session without it sounding like an accusation or an afterthought.
 
 ---
 
