@@ -4,6 +4,15 @@ One print-ready PDF per course book, plus the whole library bound into a single 
 
 **28 course books · 447 pages · 40 figures · A4 · fonts embedded.**
 
+**→ [Open the cover gallery](index.html)** — every course as a clickable cover, or jump straight to a
+PDF from the table below. All 28 course files in one download:
+[`MFT-All-28-Course-PDFs.zip`](../MFT-All-28-Course-PDFs.zip) (10 MB, repository root).
+
+```bash
+python3 scripts/build_pdfs.py --programme --complete   # typeset every PDF
+python3 scripts/build_pdf_gallery.py --zip             # covers, index.html and the zip
+```
+
 | Code | Course | Semester | Pages | PDF |
 |---|---|---|---|---|
 | MFT 701 | Fundamentals of Marriage and Family Therapy | One | 27 | [open](MFT-701-fundamentals-of-marriage-and-family-therapy.pdf) |

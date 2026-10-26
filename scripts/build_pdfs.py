@@ -606,11 +606,18 @@ class BookDoc(BaseDocTemplate):
         if m["figures"] or m["practicals"] or m["cases"]:
             canv.setFillColor(colors.HexColor("#9FB3AE"))
             canv.setFont("Sans", 7.6)
-            bits = [f"{m['practicals']} practicals", f"{m['cases']} worked cases",
-                    f"{m['figures']} figures"]
-            strip = f"{m['weeks']} teaching weeks" if m["kind"] == "course" else ""
-            if strip:
-                bits.insert(0, strip)
+            def plural(n, word):
+                return f"{n} {word}" if n == 1 else f"{n} {word}s"
+
+            bits = []
+            if m["kind"] == "course":
+                bits.append(f"{m['weeks']} teaching weeks")
+            if m["practicals"]:
+                bits.append(plural(m["practicals"], "practical"))
+            if m["cases"]:
+                bits.append(plural(m["cases"], "worked case"))
+            if m["figures"]:
+                bits.append(plural(m["figures"], "figure"))
             canv.drawString(x, panel + 26, "   ·   ".join(bits))
 
         # lower half of the cover
@@ -786,8 +793,10 @@ def read_meta(path: Path, volume: int, total: int):
         "volume": volume,
         "total_volumes": total,
         "epigraph": epigraph,
-        "practicals": len(re.findall(r"^>\s+\*\*(PRACTICAL|TASK|DRILL|REHEARSAL|ASSESSED)", md, re.M)),
-        "cases": len(re.findall(r"^>\s+\*\*CASE", md, re.M)),
+        "practicals": (len(re.findall(r"^>\s*\*\*(PRACTICAL|TASK|DRILL|REHEARSAL|ASSESSED|ARTEFACT)", md, re.M))
+                       + len(re.findall(r"^\*\*Practice", md, re.M))),
+        "cases": (len(re.findall(r"^>\s*\*\*CASE", md, re.M))
+                  + len(re.findall(r"^>\s*\*\*Therapist", md, re.M))),
         "figures": len(re.findall(r"^!\[", md, re.M)),
         "path": path,
     }

@@ -22,7 +22,7 @@ bound into one 449-page file.
 | A student | [Programme handbook](00-programme/00-programme-handbook.md) |
 | A lecturer | [Teaching and assessment guide](00-programme/01-teaching-and-assessment-guide.md) |
 | Looking for a diagram | [Figure index](00-programme/02-figure-index.md) or the visual [Figure gallery](00-programme/03-figure-gallery.md) |
-| Wanting a printed book | [PDF print edition](pdf/README.md) — one A4 PDF per course, or the [complete library in one file](pdf/MFT-Library-Complete-28-volumes.pdf) |
+| Wanting a printed book | [PDF cover gallery](pdf/index.html) — all 28 course PDFs, one click each — or the [complete library in one file](pdf/MFT-Library-Complete-28-volumes.pdf) |
 | Wanting to browse everything | `python3 scripts/build_site.py`, then open `site/index.html` (or `python3 -m http.server`) |
 
 ---
@@ -82,7 +82,7 @@ There are two ways to read the library: as Markdown/HTML, or as a finished book.
 
 | Edition | What it is | Where |
 |---|---|---|
-| Course PDFs | 28 files, A4, 11–27 pages each, 447 pages in total | [`pdf/`](pdf/README.md) |
+| Course PDFs | 28 files, A4, 11–27 pages each, 447 pages in total | [cover gallery](pdf/index.html) · [`pdf/`](pdf/README.md) |
 | Complete library | all 28 volumes in programme order, 449 pages, nested bookmarks | [MFT-Library-Complete-28-volumes.pdf](pdf/MFT-Library-Complete-28-volumes.pdf) |
 
 Each PDF opens with a cover carrying the course code, semester, unit value and prerequisite; an imprint
