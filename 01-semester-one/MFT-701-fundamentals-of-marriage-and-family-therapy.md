@@ -818,42 +818,712 @@ A checklist you can use on yourself before Week 2. Tick only what you can do *wi
 
 ## Week 2 — Linear and circular causality
 
-**The idea.** Linear causality asks *who started it* and *what caused it*. Circular causality asks *what
-maintains it* and *how each response feeds the next*. This is the single most important conceptual shift
-in the course.
+### 2.1 The lecture in ninety minutes
 
-The shift is not merely philosophical. It changes what you do:
+Last week asked *who is the client*. This week asks a harder question: **what kind of thing is a cause?** It
+is the single most consequential idea in the programme, because everything downstream — the formulation, the
+questions you ask, what you count as progress, how you write a report for a court — depends on whether you
+think in lines or in loops.
 
-| Linear question | Circular question |
-|---|---|
-| "When did the depression begin?" | "What happens in the house when she stays in bed?" |
-| "Why does he lose his temper?" | "What does she do just before he raises his voice?" |
-| "Who is to blame?" | "How does the blaming itself work?" |
+Students usually arrive believing they already understand this. They can define circular causality in a
+sentence: "each person's behaviour causes the other's." Then they conduct a role-play in which every question
+they ask is a search for who started it. The gap between being able to say it and being able to do it is the
+work of this week.
 
-**Punctuation.** Each family member punctuates a sequence differently — she says he withdraws, he says
-she nags — and each believes the other started it. The therapist's job is not to decide who is right but
-to make the sequence visible so that both can see the same film (Figure 2).
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Two sentences | Reads a case in a linear account, then in a circular account | Mark every causal verb in both |
+| 10–25 | The philosophy nobody teaches | Aristotle's four causes, Hume, Mills, why "cause" is plural (2.2) | Sort five clinical explanations into cause types |
+| 25–45 | Feedback, formally | Loop diagrams, delay, gain, thresholds (2.3–2.4) | Draw the same family as two different loops |
+| 45–60 | Punctuation, again | The same quarrel punctuated three ways (2.5) | Identify their own punctuation habit |
+| 60–75 | Circular questioning | Live demonstration, then triads (2.6) | Ask three circular questions each |
+| 75–90 | Hypothesis discipline | How to hold a hypothesis without becoming its servant (2.7) | Write one hypothesis, then one disconfirming question |
 
-![Figure 2.1 — The pursue–withdraw loop: a circular formulation](../assets/figures/fig02-circular-causality.svg)
+The lecture has a deliberate shape: philosophy first, engineering second, clinical craft third. Students who
+skip the philosophy conclude that circular causality is a nicer way of saying "we are all responsible".
+Students who skip the engineering cannot tell a loop from a list.
 
-**First-order and second-order cybernetics.** First-order cybernetics treats the observer as outside the
-system: you measure, you intervene, you evaluate the result. Second-order cybernetics accepts that the
-observer is part of the system being observed: the family responds to being watched, and your presence
-is data. Contemporary practice is mostly second-order, which is why reflexivity (Week 10) is a clinical
-skill rather than a personality trait.
+### 2.2 What a cause is: four traditions you will use without knowing
 
-> **CASE** — In a couple session, Folake says Dele "starts every fight". Dele says Folake "is never
-> satisfied". Rather than adjudicate, the therapist asks each to describe, minute by minute, what
-> happened last Tuesday. The sequence that emerges is: Folake raises a worry → Dele answers with a joke
-> → Folake escalates → Dele leaves the room → Folake follows him → Dele goes silent for two days. Nobody
-> started it. The loop started it.
+Family therapy inherited a muddle about causation and never fully cleaned it up. The muddle is worth
+untangling, because most of the field's disagreements about evidence, responsibility and blame are
+disagreements about what counts as a cause.
 
-**Practice (lab).** Watch five minutes of a recorded (consented) or scripted argument with the sound off.
-Write the sequence as a loop of four to six steps, with an arrow for each move. Then watch with sound and
-compare your loop with what the speakers said caused it.
+**Aristotle's four causes.** Aristotle distinguished the *material* cause (what something is made of), the
+*efficient* cause (what set it in motion), the *formal* cause (the pattern it realises) and the *final* cause
+(the purpose it serves). A wooden chair: wood, a carpenter, a design, the purpose of sitting. Now apply the
+scheme to a symptom. A boy's school refusal: his anxiety (material), a frightening event (efficient), a
+pattern of family accommodation (formal), and the function the refusal serves in the household (final). Most
+clinical arguments are people defending one of these four while denying the others. The systemic tradition is
+chiefly interested in the formal and final causes — the pattern and the function — which is exactly why it
+seems to slight the efficient cause (the event that started it) and infuriates colleagues who want to know
+what happened.
 
-> **KEY** — If you can draw the loop, you can intervene in it. If you can only name a villain, you are
-> still thinking linearly.
+**Hume and the regularity theory.** A cause is an event constantly conjoined with another, temporally prior,
+and contiguous with it. This is the model implicit in most medical training and in most of what patients
+believe. It works well for infections and badly for families, because in families the "effect" is usually
+also the "cause", arriving before and after in alternation.
+
+**Mill's methods.** Agreement, difference, concomitant variation. These underwrite the randomised trial, and
+they are why the trial remains the best tool for the question "does this treatment cause improvement?" They
+are much weaker for the question "what maintains this pattern in this family?", where the relevant variation
+cannot be manipulated.
+
+**Systems and constitutive causation.** In a system, the state of each element is partly constituted by its
+relations to the others. A thermostat is not caused to switch by the temperature in the way a billiard ball
+is caused to move by another; the switching is what the system *does*. Family therapists use this sense when
+they say that the pursuit and the withdrawal "cause" each other: not that A pushes B and B pushes A in a
+chain, but that the two behaviours are what they are in virtue of the loop they form.
+
+> **EXERCISE** — Take the sentence "his drinking broke up the marriage". Rewrite it four times, once for each
+> Aristotelian cause. Then decide which of your four sentences a court would want, which a wife would want,
+> and which would actually help in session.
+
+Two consequences follow, and students should write them down.
+
+**First, circularity is not a moral claim.** "We are both in the loop" does not mean "we are equally
+responsible", and it certainly does not mean "the victim is complicit". A man who is violent and a woman who
+placates him are in a loop, and only one of them is doing the violence. Confusing description with
+responsibility is the most serious error in the systemic literature, and the feminist critique of the 1980s —
+developed by Hare-Mustin, Goldner, Bograd and others — was right about it. The corrective is not to abandon
+circularity but to pair it with an explicit account of power: who has the resources, who can leave, who is
+believed, whose account is treated as the account.
+
+**Second, circularity is a stance, not a finding.** You cannot observe a loop from outside; you can only
+offer a description of a loop from a position inside it. That is second-order cybernetics in one line, and it
+means your circular formulation is a hypothesis with an author, not a fact with a discoverer.
+
+### 2.3 Feedback, formally
+
+The engineering vocabulary is not decoration. It gives you words for things you can otherwise only gesture
+at, and the words make the difference between a formulation that guides intervention and one that merely
+sounds sophisticated.
+
+**Loop, not line.** A loop has a variable, a sensor, a comparison with a reference value, and an effector. In
+a family: the variable might be *proximity between the couple*; the sensor is each partner's attention to the
+other; the reference value is an implicit standard of how close they should be; the effector is the behaviour
+that moves them. This sounds mechanical and is not: the reference values are moral and historical, inherited
+from the families the partners grew up in.
+
+**Negative feedback.** Deviation is detected and reduced. The system returns to its set point. Clinically:
+the family that pulls the adolescent back whenever she separates; the couple whose argument always returns to
+the same unresolved sentence; the mother whose anxiety rises when the household is calm, and who finds a
+problem to restore the familiar tension. Note the crucial point: **negative feedback produces stability, and
+stability is not always health.**
+
+**Positive feedback.** Deviation is amplified. Clinically: the argument that escalates because each response
+is experienced as an attack; the affair discovered, denied, discovered again; the child's school refusal that
+produces maternal anxiety that produces more refusal. Positive feedback produces change, and change is not
+always growth. Most crises are runaway positive loops; most chronic presentations are locked negative loops.
+
+**Delay.** The most under-taught concept in the field. Systems respond to yesterday's state, not today's. A
+wife raises a complaint on Monday; the husband responds on Thursday with a small act of help; she has by then
+concluded he does not care and does not notice the help. Delay is why good interventions often look as though
+they failed: the change is in the pipeline, and the therapist who panics at session four and changes approach
+destroys the very feedback they needed to see. Rule of thumb: **give a structural intervention three sessions
+before judging it.**
+
+**Gain.** How much a system responds to a small deviation. High-gain systems escalate fast and are fragile;
+low-gain systems are stable and can be rigid. A high-gain couple needs the therapist to slow the exchange and
+lower the volume; a low-gain family needs the therapist to introduce novelty, raise the emotional temperature
+slightly, and use enactment. This is the practical payoff of the vocabulary: gain tells you whether to
+accelerate or decelerate.
+
+**Thresholds and hysteresis.** Systems do not change smoothly; they flip. A family tolerates a behaviour for
+years and then, at a threshold, reorganises around it — the daughter's disclosure that triggers a family
+schism, the debt that ends the pretence of solvency. Hysteresis means the threshold for going one way is not
+the threshold for coming back: it is easier to enter a crisis than to leave it, and families often need help
+to cross back.
+
+> **PRACTICAL** — Draw one family twice. First as a negative-feedback loop with a labelled set point: what
+> state does this family return to, and how does it get there? Then as a positive-feedback loop: what is
+> amplifying, and what would a threshold for change look like? Ten minutes, both drawings, no words allowed
+> beyond labels.
+
+### 2.4 Three ways of drawing the same family
+
+The Adeyemi family: Amara, 16, has refused school for six weeks. Her mother has depression and is on
+medication. Her father was made redundant fourteen months ago and drinks in the evenings. There is a younger
+brother, 11.
+
+**Drawing one — the linear account.** Redundancy → paternal drinking → marital conflict → maternal depression
+→ Amara's caregiving and anxiety → school refusal. Every arrow points one way. This drawing is *true* as far
+as it goes, and it is what a referral letter usually contains. It is also useless as a treatment plan,
+because every arrow points at a cause the therapist cannot move, and the only intervention it licenses is at
+Amara.
+
+**Drawing two — the circular account.** Amara's refusal keeps her at home; her presence at home reduces the
+parents' opportunity to argue; the reduction in argument lowers the mother's distress; the mother's lowered
+distress makes Amara's presence feel necessary; the father's drinking continues in the space that the
+parental conflict has vacated. No single arrow is the cause; each arrow maintains the next. This drawing is
+*also* true, and it is actionable: the loop has four places where it could be interrupted.
+
+**Drawing three — the power account.** Overlay resources and legitimacy: who earns, who decides, who is
+believed, who can leave, whose distress is taken seriously. The father's drinking is not neutralised by being
+"part of a loop": it is a behaviour with a cost, exercised by the person with the most structural power in
+the household. The mother's depression constrains her capacity to act. Amara has the least power and the most
+symptomatic expression. The overlay changes what the therapist says: the mother is not "enmeshed", she is
+exhausted and unsupported; the father is not "in a loop", he is a man who is drinking and needs to be asked
+to stop, with the consequences named.
+
+**What the three drawings teach.** A formulation is a *choice of drawing for a purpose*. The linear drawing
+is good for history and for medico-legal chronology; the circular drawing is good for intervention design
+and for lowering blame; the power drawing is good for ethics, safety and responsibility. A competent
+clinician keeps all three and says which they are using and why. A weak clinician uses the circular drawing
+because it is the house style and then cannot understand why the wife in the violent marriage is not helped
+by a conversation about mutual escalation.
+
+> **CAUTION** — If there is violence, the circular drawing must never be used in the room as the primary
+> formulation until safety has been established and responsibility assigned. Nothing in this week's material
+> licenses the sentence "you are both keeping the cycle going" to a woman who has been hit. See MFT 704,
+> MFT 712 and MFT 714 for the full protocol.
+
+### 2.4a A worked loop, with numbers
+
+Circular accounts are often criticised for being unfalsifiable. They need not be. Any loop can be given
+rough magnitudes, and doing so changes what you notice.
+
+Take Loop B from the Adeyemi case: mother's low mood → Amara's caregiving → mother's temporary relief →
+Amara's increased responsibility → Amara's anxiety about school → school refusal → more time at home.
+
+Assign a plausible scale, in the family's own terms, and mark how confident you are.
+
+| Link | Direction | Rough magnitude | Confidence | Evidence |
+|---|---|---|---|---|
+| Mother's mood → Amara's caregiving | ↑ caregiving as mood falls | Large | High | Both describe it; it happens most days |
+| Caregiving → mother's relief | Relief for hours | Moderate | High | Mother: "she settles me" |
+| Relief → Amara's load | Load grows, no reduction | Moderate | Medium | Described across six weeks |
+| Load → anxiety about leaving | Anxiety rises | Large | Medium | Amara: "I can't settle at school" |
+| Anxiety → refusal | Refusal | Large | High | Directly observed |
+| Refusal → time at home | Six extra hours a day | Large | High | Arithmetic |
+| Time at home → caregiving | Loop closes | Large | High | Session observation |
+
+Three things follow, and each is a clinical decision rather than a theoretical one.
+
+**First, the loop has a strongest link.** The largest, best-evidenced arrows run through *time at home*. That
+is why the first intervention addressed the timetable — not because school attendance is a moral good, but
+because it is the highest-leverage node in the loop as drawn.
+
+**Second, magnitudes tell you what to expect from partial change.** If caregiving fell by half but the
+mother's mood did not improve, the loop would reassert within days, because the relief arrow would still be
+live. This is why single interventions on complex loops fail and why therapists conclude, wrongly, that
+"the family is resistant". The family is not resisting; the arithmetic is against you.
+
+**Third, confidence is part of the formulation.** Two of the seven links are medium-confidence. A good
+therapist names them in supervision and tests them with a question, rather than building a plan on them
+silently. "I am assuming your daughter's being at home makes your days easier; is that right, or is it more
+complicated than that?" is not a weak question — it is the question that protects the plan.
+
+> **PRACTICAL** — Take your own loop drawing from 2.3 and add two columns: magnitude (small/moderate/large) and
+> confidence (low/medium/high). Then mark the single link you would test first in the next session, and write
+> the question you would use to test it.
+
+### 2.5 Punctuation, worked
+
+Punctuation is the process by which each participant marks a beginning in a continuous sequence, thereby
+assigning cause. It is not a mistake to be corrected; it is the ordinary operation of a mind trying to make
+sense of a loop it is inside.
+
+**The four standard punctuations in couple work.**
+
+1. **The complainant's punctuation.** "I complain because he withdraws." The complaint is a response; the
+   withdrawal is the cause. Intervention: ask the complainant what they do immediately *before* the
+   withdrawal, in a specific episode.
+2. **The withdrawer's punctuation.** "I withdraw because she criticises." The withdrawal is a response; the
+   criticism is the cause. Intervention: ask what they notice in their body immediately before they go quiet,
+   and what they are protecting.
+3. **The reciprocity punctuation.** "We wind each other up." This sounds enlightened and often conceals the
+   asymmetry: someone is doing more of the escalating, or someone is more afraid.
+4. **The system punctuation.** "The loop between us has a life of its own." Useful therapeutically, but it can
+   become a way of talking about the relationship at the exact moment when someone needs to be accountable
+   for a specific act.
+
+**How punctuation is changed in the room.** Not by argument. Telling a husband "actually you both do it" does
+not change his punctuation; it recruits him into defending it. Punctuation changes through **specific
+episode work**: slow the sequence down until both partners can see the moment where their own action
+occurred, and let them describe it themselves. In practice this means three moves, which students should
+rehearse until they are automatic:
+
+*Move 1 — narrow the time frame.* "Not the usual argument. The last one. Tuesday evening. Start at the point
+where you were both still in the kitchen."
+
+*Move 2 — ask for the moment before.* "What were you doing in the thirty seconds before he stood up?" This is
+the question that gives the complainant back their own agency without blaming them, because it is factual
+rather than evaluative.
+
+*Move 3 — ask what they noticed inside.* "What went through your mind when she said that?" This converts a
+behavioural sequence into an emotional one, which is where change becomes possible.
+
+Done well, the couple arrives at a sentence neither could have said at the start: *"I go quiet because I
+think I have already lost, and then she gets louder because the quiet looks like contempt."* That sentence is
+the treatment target for the rest of the work.
+
+> **DRILL** — Record a five-minute role-play in which one partner describes a recurring argument. Listen back
+> and count how many times the therapist asks "why" (which invites justification) versus "what happened next"
+> and "what did you notice" (which invite sequence). Targets: no more than one "why" in five minutes; at
+> least six sequence questions.
+
+### 2.6 Circular questioning
+
+The Milan associates — Mara Selvini Palazzoli, Luigi Boscolo, Gianfranco Cecchin and Giuliana Prata — developed
+**circular questioning** in the late 1970s as the operational form of systemic thinking: questions designed to
+elicit *differences* and *relationships between people*, rather than facts about individuals. The technique
+is more than fifty years old and remains the most portable skill in the field, because it works inside any
+model.
+
+**The four families of circular question.**
+
+1. **Difference questions.** "Who is most upset by this? Who is least? Who would notice first if it changed?"
+   These map the system's distribution of concern and give every member a position.
+2. **Behavioural-effect questions.** "When she cries, what does your father do? And then what does your mother
+   do?" These build the sequence in the room, from several points of view.
+3. **Comparison questions.** "Is this worse than it was when your mother was alive? Better than last year?"
+   These locate the problem in time and reveal the family's own baseline.
+4. **Hypothetical or future questions.** "If this problem disappeared tomorrow, what would be the first thing
+   each of you noticed? Who would miss it?" The second half of that question is the one that produces the
+   information, and it must be asked gently.
+
+**Two more devices worth knowing.** The **interviewing-the-interviewer** move — the therapist asks one member
+to comment on what the therapist has been asking, which reveals the observing system inside the family. And
+the **positive connotation** — describing the symptom as serving the family's cohesion — which was Milan's
+way of preventing the family from defending itself against the therapist. Both are powerful and both are easy
+to misuse: positive connotation applied to violence is a serious error, and interviewing-the-interviewer can
+feel like a parlour trick if it is not clearly in the service of the family's question.
+
+**What makes a circular question good.** It is answerable; it concerns a third party; it asks for a
+*difference*; and it is asked without a preferred answer. The last criterion is the hardest. A question like
+"don't you think your mother worries more than your father?" is a statement with a question mark, and families
+can hear the difference even when students cannot.
+
+> **PRACTICAL** — In triads, one person describes a family difficulty. The "therapist" must ask eight
+> questions, two from each family of circular question. The observer records which questions produced new
+> information and which produced a repeat of information already given. The correlation with quality is
+> brutal and instructive.
+
+### 2.6a Reframing: the intervention that follows from circularity
+
+: the intervention that follows from circularity
+
+If the loop is the unit, then the fastest way to change a loop is to change the meaning each member assigns
+to the other's behaviour, because meaning is what selects the response. **Reframing** is the deliberate
+provision of a new frame that fits the same facts and supports a different response. It is the most portable
+intervention in the field and the easiest to do badly.
+
+**The structure of a reframe.** Three parts: *the behaviour as observed* (unchanging, factual), *the intention
+or function* (new, plausible, benign), and *the consequence for the relationship* (which now invites a
+different response). Example, with a father who works late:
+
+> "You are the person who makes sure this family is provided for, and you do it by being away from it. That
+> has worked for the family's security. What your wife is telling me is that it has also taught your son that
+> a man's place is outside the house. Neither of you wants that lesson."
+
+Note what has happened. The behaviour is unchanged: he works late. The intention is newly stated and
+creditable: he provides. The consequence is newly visible: the son is learning something. The father is not
+accused and not excused, and a different response is now available to him.
+
+**Five rules for a reframe that works.**
+
+1. **It must fit the facts.** A reframe the family experiences as false is worse than no reframe: it damages
+   credibility and closes the topic. If you cannot find a genuinely plausible benign intention, do not invent
+   one — use a difference question instead.
+2. **It must be delivered as an offer, not a verdict.** "I wonder whether…" outperforms "What is really
+   happening is…" in almost every family, because it leaves room for the family to correct you, which is
+   itself engagement.
+3. **It must be addressed to the person whose behaviour is being reframed, in their presence.** Reframing
+   someone to their partner behind their back is gossip with a therapeutic vocabulary.
+4. **It must not absolve harm.** You can reframe the function of a behaviour without reframing away its cost.
+   "He drinks to manage a shame he cannot speak" is a reframe; it does not make the drinking acceptable, and
+   the next sentence must say so.
+5. **It must be followed by a task.** A reframe without a next step is a compliment. The loop changes when the
+   family does something different, not when it understands something new.
+
+**Reframes that students overuse.** "You are both doing the best you can" (true and inert). "Your son's
+behaviour is a message of love" (often false, and it places an impossible burden on the child). "This is a
+normal stage" (sometimes true, and sometimes a way of not assessing). Each of these is a sentence that makes
+the therapist feel kind and the family feel handled.
+
+> **DRILL** — Write three reframes for the Adeyemi case: one for the mother's depression, one for the father's
+> drinking, one for Amara's refusal. For each, check the five rules explicitly, then read it aloud to a peer
+> who plays the family member and tells you whether it landed as an offer or a verdict.
+
+### 2.7 Hypotheses: how to hold one without being owned by it
+
+A **systemic hypothesis** is a provisional explanation of how the presenting problem is maintained by the
+relationships in the system, stated so that it can be wrong. Milan's team formalised the discipline: the
+team forms a hypothesis before the session, tests it through circular questioning, and revises it, keeping
+several alive at once.
+
+**Three properties of a usable hypothesis.**
+
+1. **It is relational.** It mentions at least two people and at least one sequence: "when the father
+   criticises, the mother intervenes, and the son then refuses to speak — which returns the couple to a
+   familiar division of labour."
+2. **It is testable in the room.** There is a question whose answer would make you doubt it. If no such
+   question exists, you are holding a belief, not a hypothesis.
+3. **It includes the function.** What work does the symptom do for the system? The answer may be "very little,
+   and the family is simply suffering", which is a legitimate finding and should be said out loud.
+
+**The hypothesis-discipline drill.** Write your hypothesis in one sentence. Then write three questions: one
+that would support it, one that would complicate it, and one that would refute it. Ask all three. Trainees
+routinely discover that they only ever ask the first. That habit is the beginning of confirmatory practice,
+and it is the most common failure of experienced therapists as well as novices.
+
+**Hypotheses in a team.** Where a reflecting team or a live supervisor is available, the discipline is
+strongest: the team holds the hypothesis, the therapist stays curious, and the family is spared the weight of
+being interpreted. Where there is no team, the therapist must build the discipline internally — writing the
+hypothesis down before the session, and reviewing it after, is not bureaucracy; it is the substitute for a
+second mind.
+
+> **TASK** — Take the Adeyemi family. Write three competing hypotheses: one structural, one
+> multigenerational, one strategic. For each, name the single question you would ask first and the
+> observation that would make you abandon it. Bring all three to the lab; you will be asked to defend the one
+> you would bet on, then switch.
+
+### 2.8 The Adeyemi family, worked: from loop to plan
+
+**Referral.** Amara, 16, out of school for six weeks. Referred by the school counsellor, who writes: "Amara
+presents with anxiety and possible depression; family reluctant to engage." Mother attends with Amara.
+Father "working" and unavailable.
+
+**Session one, what actually happens.** The mother speaks for twenty minutes. Amara sits with her hood up and
+says four words. The therapist's temptation, named openly in supervision afterwards, was to get Amara talking
+— the standard move, and the wrong one, because it would have confirmed the family's map in which Amara is
+the patient and the mother is the escort. Instead the therapist asked three questions, in this order.
+
+1. *"Before Amara stopped going to school, what was happening in the house?"* Mother: a long account of her
+   husband's redundancy, her own illness, the money.
+2. *"Who else in the family knows how bad things have been?"* Mother: nobody. Her sister "would only worry".
+   Her husband "knows some of it".
+3. *"Amara, when your mother is having a bad day, what do you do?"* Amara, first full sentence: "I stay with
+   her."
+
+The sequence is now visible, and it took three questions. The daughter's presence at home is not only a
+symptom; it is the household's arrangement for managing the mother's distress in the absence of another
+adult. The school refusal is doing work.
+
+**Formulation.** Three loops, nested.
+
+- **Loop A (parental).** Father's redundancy → shame and drinking → mother's depression → father's further
+  withdrawal (he experiences the household as a place where he fails) → more drinking. This is the primary
+  loop, and it is invisible while the child is the identified patient.
+- **Loop B (mother–daughter).** Mother's low mood → Amara's caregiving → mother's temporary relief → Amara's
+  increasing responsibility → Amara's anxiety about leaving → school refusal. This loop is maintained by love
+  and by the absence of another adult, not by pathology.
+- **Loop C (family–school).** School pressure → mother's shame → pressure on Amara → Amara's withdrawal →
+  school escalation → more pressure. This loop is powered by an institution's timetable, which is why it is so
+  hard to slow.
+
+**What the therapist did next, and why.** The plan was sequenced deliberately, and the sequencing is the
+teachable part.
+
+*Step 1 — change the unit of the sessions before changing anything else.* The therapist asked for a session
+with both parents, framed as expertise: "I need your husband's view of what the house is like now; I am
+working from one account and it is not fair to any of you." Framing the invitation as a request for
+information rather than a summons to be confronted is the difference between a father who attends and a
+father who refuses.
+
+*Step 2 — give the parents a job that is theirs.* Not "spend more time together" (an instruction that will be
+experienced as another failure) but a specific, small, observable task: both parents to handle the next
+school letter together, before either of them speaks to Amara about it. The task is structural — it creates a
+parental subsystem in the presence of the therapist — and it is small enough to succeed.
+
+*Step 3 — separate the caregiving from the child.* With the mother: who else could be with her on a bad day?
+The answer produced a sister, a neighbour and a church member. The therapist did not ask the mother to need
+less; she asked the system to supply more adults.
+
+*Step 4 — take the school out of the loop.* A single call from the therapist to the school counsellor,
+reframing "anxiety and reluctance" as "a family in a difficult year, with a plan", reduced the institutional
+pressure that was feeding Loop C. Ten minutes of professional-to-professional contact changed the family's
+week.
+
+*Step 5 — attend to the father's drinking, on its own terms.* Not as a symptom of the marriage. The therapist
+raised it directly, with the mother present and without moralising: how much, how often, what it does, what he
+thinks about it. He agreed to a referral for assessment. He did not stop drinking in the course of the work.
+The family still improved, which is a finding worth holding: improvement is not contingent on every problem
+being solved.
+
+**What happened by session eight.** Amara returned to school part-time, with a staged timetable agreed between
+the parents, the school and the therapist. Her caregiving load was shared. The parents' arguments did not
+disappear; they became discussable in session, which is a modest and real outcome. The father attended six of
+eight sessions and was, by his own account, "not fixed, but in the conversation".
+
+**What a student should take from the case.** Four things. The symptom was doing work, and naming that did not
+blame the child. The primary loop was the parents', and the presenting problem was the route to it, not a
+distraction from it. The interventions were sequenced, small, and structural. And not everything was solved —
+which is what real work looks like and what written case studies too rarely admit.
+
+### 2.9 Annotated transcript: turning a linear account into a loop
+
+The following excerpt is from the first session, minutes 18–26. The mother has been describing Amara's
+refusal. Read the annotation after each turn.
+
+> **T1 Mother:** She just will not go. I have tried everything. Her father says I am too soft with her.
+> **T2 Therapist:** So your husband thinks the answer is firmer handling. What do you think he would say if I
+> asked him why?
+> **T3 Mother:** (pause) He would say I let her wrap me round her finger. He thinks I need her at home.
+> **T4 Therapist:** What makes you say that?
+> **T5 Mother:** Because when she is at home she sits with me. And when she is at school I am on my own all
+> day.
+> **T6 Therapist:** So her being at home helps you. And it also worries you.
+> **T7 Mother:** (crying) Both. I know it is wrong to say that.
+> **T8 Therapist:** It is not wrong. It is the most honest thing said in this room today. Amara, when your
+> mother is crying, what do you do?
+> **T9 Amara:** I get her water.
+> **T10 Therapist:** And what happens to your own day when you are getting her water?
+
+**Annotations.**
+
+*T2* is the pivot of the whole session and it is worth studying closely. The therapist does not ask "are you
+too soft?" — which would put the mother on trial — nor does she defend the mother. She asks the mother to
+**report her husband's view and its reasons**, which does three things: it brings the absent father into the
+room as a voice rather than a criticism; it treats the mother as a reliable observer of her marriage; and it
+reveals that she already knows what he thinks. Families usually do know. The therapist's job is to make the
+knowing speakable.
+
+*T3–T5* produce the formulation from the mother's own mouth. Note that the therapist asks only "what makes you
+say that?" — five words, no interpretation. The hypothesis (the daughter's presence is serving the mother's
+isolation) is now the mother's own statement, which is the only form in which it can be worked with. Had the
+therapist said it, the mother would have had to defend herself against it.
+
+*T6* is the **both-and** move: it holds two truths without resolving them. "It helps you and it worries you."
+This is the linguistic form of circularity, and it is a skill that can be practised: every time you are
+tempted by "but", try "and".
+
+*T7* is the moment of shame, and it must be handled with precision. What the mother fears is that she is
+being accused of wanting her child ill. *T8* does not reassure her ("of course you don't want that") because
+reassurance would close the opening; it validates the honesty and moves immediately to the child, which
+distributes the emotional weight and prevents the mother from becoming the identified patient in turn.
+
+*T9–T10* bring the child in as an informant about her own behaviour in relation to her mother. T10 is the
+crucial one: "what happens to your own day when you are getting her water?" It is a question about
+consequence, addressed to the person with least power, and it invites her to describe her own experience
+without requiring her to blame her mother. Her answer — that she cannot settle, that she worries, that she
+cannot face school after a night of listening — completes the loop.
+
+**What the therapist avoided, deliberately.** She did not ask about the marriage directly in this session.
+She did not name the father's drinking. She did not offer a diagnosis. She did not reassure the mother that
+she was a good mother, though she was. Each omission was a decision: the first session's job was to establish
+that the problem lived between people, and every one of those moves would have pulled it back into one
+person.
+
+> **DRILL** — Take turns reading T1–T5 aloud in pairs. The listener must replace T6 with their own "both-and"
+> sentence. Then replace T8 with a sentence that validates without reassuring. Compare. Most attempts either
+> reassure ("you're a good mother") or interpret ("so you see, you need her at home") — both of which close
+> the opening that T7 created.
+
+### 2.10 Laboratory: the same case, three drawings
+
+The week's assessed practical. Ninety minutes, groups of four, one case per group drawn from the case bank
+(Appendix to this week).
+
+**Stage 1 (20 minutes) — linear account.** Each group writes the case as a one-directional chain of at least
+six arrows, in the form "A → B → C". No loops permitted. This constraint is uncomfortable and instructive:
+students discover how natural the linear account is, and how much it leaves out.
+
+**Stage 2 (25 minutes) — circular account.** Redraw as a loop. Rules: every node must be a behaviour or an
+observable event, not a trait; every arrow must be justifiable from something a family member said; at least
+one node must be something the therapist could actually change.
+
+**Stage 3 (20 minutes) — power overlay.** On the same drawing, mark for each member: resources (income,
+housing, mobility), legitimacy (whose account is believed), and exit options. Then write one sentence stating
+what the overlay changes about the plan.
+
+**Stage 4 (25 minutes) — presenting.** Each group presents all three drawings in four minutes. The audience
+scores on a single criterion: **does the third drawing change the plan?** If the power overlay leaves the
+intervention identical, the group has decorated rather than analysed.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Linear account fidelity | 15% | Chain is accurate to the referral and contains no smuggled loops |
+| Circular account quality | 30% | Nodes behavioural, arrows evidenced, one actionable node identified |
+| Power overlay | 25% | Resources, legitimacy and exit named for each member; plan visibly changed |
+| Integration and presentation | 20% | Three drawings used together, with the purpose of each stated |
+| Reflexivity | 10% | Group can name the drawing they found hardest and why |
+
+### 2.11 Six common errors with circularity
+
+1. **Circularity as absolution.** Using the loop to avoid naming a behaviour that must stop. Fix: pair every
+   circular formulation with an explicit statement of responsibility where responsibility exists.
+2. **The endless loop with no entry point.** A drawing with eight nodes and no plausible intervention. Fix:
+   every formulation must nominate the node the therapist will work on first, and why that one.
+3. **Loop-washing the history.** "It doesn't matter who started it" is sometimes true and sometimes a way of
+   avoiding a trauma that needs to be named and mourned. Fix: ask the history question, then decide whether to
+   work with it.
+4. **Circular questions as interrogation.** Eight questions in a row with no acknowledgement, and a family that
+   closes. Fix: one question, one answer, one acknowledgement; the ratio should feel slow to the therapist.
+5. **The hypothesis that cannot lose.** Interpreting every response as confirmation. Fix: write down, before
+   the session, what would count as refutation.
+6. **Systems language as a way of sounding clever.** "The system is communicating its homeostatic imperative"
+   is not a sentence that helps anybody. Fix: translate every formulation into language a 14-year-old in the
+   room could follow, and check that you can.
+
+> **AUDIT** — Record one of your own sessions (role-play is fine). Transcribe three minutes. Mark every causal
+> claim you made. Count how many were linear, how many circular, and how many attributed responsibility. If the
+> third number is zero, you have a habit worth breaking.
+
+### 2.12 Culture, faith and the limits of circularity
+
+Two cautions, both learned the hard way in supervision.
+
+**The respectful-withdrawal pattern.** In many families, a father's distance is not "coldness" but a culturally
+scripted division of labour: he is the provider, the mother is the emotional manager of the household, and his
+non-attendance at a clinic is not a symptom but a role. Reading this pattern as "disengagement" and
+intervening to increase his emotional involvement can be experienced as an accusation of inadequate
+masculinity — and it will fail. The better move is to reframe the invitation in terms of his existing role:
+"I need the person who understands the finances and the school fees, because decisions about Amara's school
+are partly financial." You are not asking him to become someone else; you are asking him to bring what he
+already does into the room.
+
+**The extended-family triangle.** Circular accounts built on the nuclear household routinely miss the
+grandmother who is the actual decision-maker, the aunt who funds the school, or the uncle whose approval the
+father needs. When these figures are absent from the drawing, the loop looks like a couple problem and the
+intervention fails at the point where the real authorisation was required. Ask, always: who else would need to
+agree for this plan to happen? Then decide whether to invite them, telephone them with consent, or work with
+the family's account of them.
+
+**Faith as an explanation in the system.** "This is a spiritual attack" is a causal account, and a serious
+one. It competes with your circular account, and arguing with it is both rude and ineffective. The systemic
+move is to treat it as part of the system's explanatory map: who in the family believes it, who does not, what
+the belief licenses (more prayer, less school), and what the family would accept as evidence either way. Very
+often the family does not need the therapist to agree; it needs the therapist to take the belief seriously
+enough to plan around it.
+
+> **CAUTION** — Do not use circularity to soften a disclosure. If a father says "she provoked me" about a
+> physical assault, the correct response is not "so you both escalate". It is to name the act, state that it
+> is not acceptable, and follow the safety protocol. Circular thinking is a tool for understanding, never a
+> substitute for safeguarding.
+
+### 2.13 Key terms for this week
+
+| Term | Definition | Why it matters clinically |
+|---|---|---|
+| Linear causality | A causes B in one direction | Good for history and legal chronology; poor for intervention |
+| Circular causality | Each element both causes and is caused by the others | The basis of loop formulations and of blame reduction |
+| Punctuation | The way each participant marks a beginning in a sequence, assigning cause | The mechanism by which blame is distributed; changeable through episode work |
+| Feedback (negative) | Process that reduces deviation and restores a set point | Explains stability, including stable misery |
+| Feedback (positive) | Process that amplifies deviation | Explains escalation, crisis and sudden change |
+| Set point | The state a system returns to | Named in the family's own words whenever possible |
+| Delay | Lag between an action and its effect in the system | The reason therapists abandon good interventions too early |
+| Gain | Responsiveness of a system to small deviations | Tells you whether to slow down or speed up |
+| Threshold / hysteresis | The point at which a system flips, and the asymmetry of flipping back | Explains why crises are easier to enter than to leave |
+| Systemic hypothesis | A provisional relational explanation, stated so it can be refuted | Keeps the therapist curious rather than certain |
+| Circular question | A question that elicits difference or relationship between people | The core skill of systemic interviewing |
+| Difference question | Who is most/least affected; who notices first | Maps the distribution of concern |
+| Behavioural-effect question | What one person does when another does X | Builds the sequence in the room |
+| Positive connotation | Describing a symptom as serving the system's cohesion | Powerful, and dangerous if applied to violence |
+| Second-order cybernetics | The observer is part of the observed system | Makes the therapist's own effect part of the data |
+| Constitutive causation | Relations constitute the elements rather than pushing them | The philosophical basis of the loop |
+
+### 2.14 Evidence note: does circularity survive contact with the evidence?
+
+Students are right to ask whether a conceptual scheme this old still earns its place. Three honest answers.
+
+**As a description of interaction, circularity is not controversial.** Sequential analysis of couple
+interaction — coding who does what, in what order, and what follows — reliably shows reciprocity: negative
+affect from one partner raises the probability of negative affect from the other, and the strength of that
+reciprocity predicts relationship satisfaction. Gottman's cascade models and the demand–withdraw literature
+(Christensen and colleagues) are, in effect, empirical confirmations that the loop is real. What the
+literature does *not* support is the stronger claim that the loop is the cause of the distress, or that both
+parties contribute equally. Asymmetry is the norm: demand–withdraw patterns are strongly gendered, with women
+more often in the demand role and men in the withdraw role, and that asymmetry is not an artefact of
+observation.
+
+**As a therapeutic stance, circularity has modest but real support.** Interventions that externalise the
+problem and reduce mutual blame — reframing, positive connotation, circular questioning used to build shared
+understanding — are associated with improved alliance and reduced dropout, and the alliance is one of the
+strongest predictors of outcome. This is not the same as saying that circular formulations cure. It says that
+a formulation the whole family can accept is a precondition for the work, and circular formulations are
+better at earning acceptance than accusatory ones.
+
+**As a theory of causation, circularity is under-specified.** The critique from outside the field is that
+"circular causality" often means merely "correlation over time", and the critique from inside is that the
+metaphor smuggles in a homeostatic assumption — that systems prefer the status quo — which is not always true
+and which can make therapists conservative in the face of change that families are ready for. The most
+defensible position is the one this week has taught: **circularity is a stance for generating hypotheses and
+questions, not a causal theory to be tested.** Use it to widen the field and lower blame; do not use it to
+explain the aetiology of anything.
+
+> **DEBATE** — "Circular causality is a metaphor that has done more good than harm, and it is time to retire
+> it." Twenty minutes. Note that the strongest argument for retiring it is the violence literature; the
+> strongest against is that no better vocabulary for interaction has been found.
+
+### 2.15 Self-test
+
+Eight multiple-choice items and three short answers. Answers follow.
+
+1. Which statement best captures negative feedback?
+   (a) A process that amplifies deviation (b) A process that reduces deviation and restores a set point
+   (c) A criticism delivered calmly (d) A system's refusal to change
+2. "He goes silent because I shout" and "I shout because he goes silent" are examples of:
+   (a) Linear causality (b) Different punctuations of one sequence (c) Homeostasis (d) Positive connotation
+3. Which is a difference question?
+   (a) Why do you fight? (b) What do you do when she cries? (c) Who is most upset by this, and who is least?
+   (d) Do you think he is depressed?
+4. A couple escalate quickly and the session feels unmanageable. In systems terms the system has:
+   (a) High gain (b) Low gain (c) High delay (d) Strong hysteresis
+5. The strongest reason to give an intervention three sessions before judging it is:
+   (a) Families are resistant (b) Delay in feedback loops (c) Therapist fatigue (d) Ethical guidelines
+6. Which formulation error does "you are both keeping the cycle going" most clearly risk when there is
+   violence?
+   (a) Over-attributing responsibility (b) Absolving responsibility (c) Confusing content and relationship
+   (d) Ignoring delay
+7. A hypothesis that cannot be refuted is best described as:
+   (a) Robust (b) Systemic (c) A belief (d) A difference question
+8. Positive connotation should not be used when:
+   (a) The family is angry (b) There is violence or abuse (c) The therapist is unsure (d) The symptom is mild
+
+**Answers.** 1 b · 2 b · 3 c · 4 a · 5 b · 6 b · 7 c · 8 b.
+
+**Short answers (150 words each).**
+
+*Explain the difference between a linear and a circular formulation, using one family.* A strong answer names
+the direction of the arrows, states that the linear account is not false but incomplete, gives a specific
+sequence, and shows what each formulation licenses clinically — including that the linear account is the one a
+court or a school will usually want.
+
+*What does the power overlay add to a circular formulation?* A strong answer names resources, legitimacy and
+exit options; explains that circularity describes interaction while power explains whose interaction counts;
+and gives an example in which the overlay changes the intervention (for instance, from "reduce mutual
+escalation" to "name the violence, safety-plan, and refer").
+
+*Why can a good hypothesis make a therapist worse?* A strong answer describes confirmatory questioning, the
+loss of curiosity, the family's experience of being interpreted, and the discipline of writing down a
+refutation condition before the session.
+
+### 2.16 Reflective task
+
+Think of a recurring difficulty in your own family. Write two paragraphs. In the first, punctuate it the way
+you usually do — that is, with the other person's behaviour as the beginning. In the second, punctuate it from
+the other person's position, with *your* behaviour as the beginning. Do not try to be fair; try to be accurate
+about what each punctuation leaves out.
+
+Then answer, in three sentences: what did you have to believe about yourself to write the second paragraph,
+and what did you have to give up? Most students find the answer uncomfortable, and that discomfort is the
+beginning of the capacity to hold a loop without needing to be innocent in it.
+
+### 2.17 Readings for this week
+
+Read the first two before the lecture.
+
+* **Watzlawick, Beavin & Jackson (1967)**, *Pragmatics of Human Communication*, chapter 2 — punctuation, in the
+  original. Notice how much of the argument is philosophical rather than empirical.
+* **Selvini Palazzoli, Boscolo, Cecchin & Prata (1980)**, "Hypothesizing–circularity–neutrality: three
+  guidelines for the conductor of the session", *Family Process*. The canonical statement of Milan technique.
+* **Bateson (1972)**, *Steps to an Ecology of Mind*, part III. The cybernetic essays, which are better written
+  than most of what followed.
+* **Hoffman (1981)**, *Foundations of Family Therapy*, chapters 1–4. The best history of the shift from linear
+  to circular thinking.
+* **Goldner (1985)**, "Feminism and family therapy", *Family Process*, and **Hare-Mustin (1978)**, "A feminist
+  approach to family therapy", *Journal of Marital and Family Therapy*. The critique that circularity without
+  power is not neutral.
+* **Christensen & Heavey (1990)** and the later demand–withdraw literature. Read one empirical paper on
+  reciprocity and note what it does and does not establish.
+
+*Next: [Week 3 — A short history of the field](#week-3--a-short-history-of-the-field)*
+
+---
 
 ---
 
