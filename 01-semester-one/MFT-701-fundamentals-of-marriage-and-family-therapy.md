@@ -1529,39 +1529,748 @@ Read the first two before the lecture.
 
 ## Week 3 — A short history of the field
 
-You cannot critique a tradition you cannot narrate. This week gives you the story in five movements.
+### 3.1 The lecture in ninety minutes
 
-**1. The pre-history (1900s–1950s).** Child guidance clinics, marriage counselling, and social casework
-treated families, but individually. Psychoanalysis dominated, and the family was understood as the
-source of individual pathology rather than as a system in its own right.
+Why does a clinician need history? Three reasons, and they are not decorative. First, models are answers to
+questions, and you cannot evaluate an answer without the question. Second, the field's current fashions are
+usually old arguments in new clothes, and a clinician who knows the argument is harder to sell a rebranding.
+Third, your own professional identity is built from this material: what you call yourself, what you think you
+are doing, and what you refuse to do all come from a seventy-year conversation.
 
-**2. The research rupture (1950s–1960s).** Several independent groups — Bateson's Palo Alto project,
-Lidz and Wynne studying families of people diagnosed with schizophrenia, Bowen at Menninger, Ackerman in
-New York — began observing whole families and describing *patterns* rather than *causes*. Bateson's team
-gave us the double bind hypothesis and, more durably, the vocabulary of communication and paradox.
+The lecture is a walk through five waves, with a hard question attached to each.
 
-**3. The heroic era (1960s–1970s).** Charismatic founders built schools: Minuchin (structural), Haley
-and Madanes (strategic), Satir (experiential/human validation), Whitaker (symbolic-experiential), Bowen
-(multigenerational), Boszormenyi-Nagy (contextual), the Milan group (systemic/milan). Techniques were
-bold, sessions were long, and therapists were often filmed behind one-way mirrors.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Prehistory | The child guidance movement, marriage counselling, social casework | Note which problems each could and could not solve |
+| 10–30 | Wave 1: communication | Palo Alto, Bateson, Jackson, Haley, Watzlawick | Timeline: place five key texts |
+| 30–45 | Wave 2: structure and generations | Minuchin, Haley, Bowen, Satir | Draw the same family as each would see it |
+| 45–60 | Wave 3: meaning | Milan, systemic therapy, positive connotation, circular questioning | Identify what Milan added and what it cost |
+| 60–72 | Wave 4: solutions and stories | de Shazer, White, Epston, Andersen | Compare two session transcripts |
+| 72–85 | Wave 5: evidence and integration | Common factors, attachment, neuroscience, feedback-informed work | Argue for what the sixth wave will be |
+| 85–90 | Set the essay | The comparative assignment (3.14) | Choose two models to compare |
 
-**4. The critique and the turn to meaning (1980s–1990s).** Feminists (Hare-Mustin, Goldner, Walters)
-demonstrated that "neutral" systemic descriptions hid gendered power. Social constructionism and
-postmodernism (Anderson & Goolishian, White & Epston) shifted attention from structure to story. The
-Milan team's later work introduced curiosity and the reflecting team.
+### 3.2 Prehistory: three streams before "family therapy"
 
-**5. Evidence and integration (1990s–present).** Manualised models were tested in randomised trials
-(behavioural couples therapy, EFT, multisystemic therapy, functional family therapy, multidimensional
-family therapy). Attachment, neuroscience and trauma research entered the field. The current mainstream
-is integrative: model-informed, evidence-aware, culturally situated.
+Nobody invented family therapy in a single place. Three professional streams were converging by 1950, each
+with its own methods and its own blind spots.
 
-**Why the history matters clinically.** Every school was a reaction to a limitation of its predecessor.
-Structural therapy reacted to an over-focus on insight; narrative therapy reacted to an over-focus on
-expertise; trauma-informed care reacted to an over-focus on technique. When you find yourself irritated
-by a model, ask which limitation it is answering — you will usually find your own blind spot there.
+**Child guidance.** From the 1920s, clinics in the United States and Britain treated children referred for
+behavioural and emotional problems. The standard team was a psychiatrist, a psychologist and a social worker:
+the psychiatrist saw the child, the social worker saw the mother. Fathers were largely absent from the
+literature, and the mother was usually the object of investigation — a framing that did enormous damage and
+whose echoes are still audible in referrals today ("mother is over-involved"). The practical legacy is the
+multi-disciplinary team, which survives in child and adolescent mental health services.
 
-> **PRACTICAL** — Build a one-page timeline in small groups. For each decade, write (a) the dominant
-> idea, (b) the model it produced, (c) the critique that ended its dominance. Present one decade each.
+**Marriage counselling.** From the 1930s, and especially after the Second World War, counsellors began seeing
+couples together — often in religious or voluntary settings, often with an explicitly moral vocabulary. The
+American Association of Marriage Counsellors was founded in 1942. Its legacy is the couple as a legitimate
+clinical unit and, less happily, a tendency to treat marital distress as a communication problem to be
+instructed rather than a system to be understood.
+
+**Social casework.** Caseworkers had always worked with families, but as the environment of an individual
+client rather than as a system with its own properties. The legacy is attention to context — housing, income,
+kin, migration — that purely psychological models lack, and which this library's cultural chapters depend on.
+
+**What the three streams lacked.** A theory of interaction. Each could describe a person in a family; none
+could describe the family as a thing with a structure. That arrived from an unexpected direction: engineering
+and biology.
+
+### 3.3 Wave 1: communication (1952–1970)
+
+The founding texts are not clinical. They are cybernetic and anthropological, and that origin still shapes how
+the field thinks.
+
+**Bateson's project.** Gregory Bateson — anthropologist, cyberneticist, and a man whose influence is out of all
+proportion to the number of patients he treated — assembled a research group at Palo Alto from 1952 with Jay
+Haley, John Weakland and, from 1954, Don Jackson. They studied communication in families with a member
+diagnosed with schizophrenia, and produced the double-bind paper in 1956. Bateson's wider project was a theory
+of mind as a property of systems rather than brains: "the difference which makes a difference", information as
+a pattern in a circuit.
+
+**Jackson and homeostasis.** Don Jackson, a psychiatrist, founded the Mental Research Institute (MRI) in 1959
+and, with Ackerman, the journal *Family Process* in 1962. His contribution was the application of homeostasis
+to families: a family is a rule-governed system that maintains itself against change, and symptomatic behaviour
+can be part of that maintenance. He also introduced **family homeostasis** as a clinical observation: when one
+member improves, another may worsen, because the system's set point has not changed.
+
+**Haley and strategy.** Jay Haley's *Strategies of Psychotherapy* (1963) and *Problem-Solving Therapy* (1976)
+treated symptoms as tactics in a power struggle, and therapy as a contest of influence to be won by the
+therapist's directives. Out of this came **strategic therapy**: prescribing the symptom, ordeals, paradoxical
+instructions, and a therapist who takes responsibility for change. Haley's later collaboration with Cloe
+Madanes produced a body of technique that is unfashionable and still effective in the right hands.
+
+**Watzlawick and the axioms.** *Pragmatics of Human Communication* (1967) gave the field a vocabulary: one
+cannot not communicate; content and relationship levels; punctuation; digital and analogic codes; symmetrical
+and complementary relationships. Two of these are now so embedded in clinical language that students use them
+without knowing their source, which is exactly what a foundational vocabulary looks like.
+
+**What wave 1 got right.** The unit is the sequence. Communication is not a skill laid on top of a
+relationship; it is the relationship. Change the sequence and the symptoms move.
+
+**What wave 1 got wrong.** It was often manipulative (therapists withholding information, using paradox on
+unconsenting families), it was blind to power and gender, and its central aetiological claim about
+schizophrenia was false. Students should be able to say all three without either dismissing the wave or
+defending it.
+
+### 3.4 Wave 2: structure and generations (1965–1980)
+
+Wave 2 made the field clinical. It brought families into rooms, built training programmes, and produced the
+models still most widely taught.
+
+**Minuchin and structure.** Salvador Minuchin, trained as a paediatrician and psychoanalyst, worked with
+delinquent boys at the Wiltwyck School and then led the Philadelphia Child Guidance Clinic from 1965. His
+observation was that these families were not deficient in insight or motivation; they were **organised**
+in ways that made the child's symptom functional — a weak parental subsystem, a child in coalition with one
+parent against the other, boundaries too diffuse or too rigid. *Families and Family Therapy* (1974) remains
+the clearest book in the field. His techniques — joining, enactment, unbalancing, restructuring, mapping —
+are the backbone of MFT 706.
+
+**Haley in Philadelphia.** Haley joined Minuchin in 1967, and the exchange between structure and strategy
+produced much of what is now standard: the therapist as an active organiser of the session, the deliberate use
+of directives, the assumption that change in behaviour precedes change in understanding.
+
+**Bowen and the generations.** Murray Bowen, at the Menninger Clinic and later Georgetown, built the most
+elaborate theory in the field: **differentiation of self** (the capacity to stay emotionally connected while
+thinking for oneself), **triangles** (the three-person unit as the molecule of emotional systems),
+**multigenerational transmission** (patterns passed down and intensified across generations), **family
+projection** (a child recruited to carry the family's undifferentiation), **emotional cutoff**, and **societal
+regression**. Bowen's therapy was explicitly about the therapist's own family of origin: trainees were
+required to work on their own genograms and to re-enter relationships with their families of origin as the
+core of their training. That requirement is why this library asks you to do a reflective task every week.
+
+**Satir and the person.** Virginia Satir brought warmth, communication training, family sculpture and an
+explicitly humanistic value system. Her categories — placator, blamer, computer, distractor, leveller — are
+crude and useful: students recognise them instantly, and so do families. She also insisted, against the
+cybernetic mainstream, that the therapist's own personhood is the instrument, a claim that the common-factors
+literature later supported with less charm.
+
+**The experiential wing.** Carl Whitaker's symbolic-experiential therapy — deliberately unsettling,
+co-therapy with a live team, the therapist's own fantasies used in the room — represents a road the field
+mostly did not take, and its influence survives in the use of self and in the practice of working with the
+therapist's own reactions in the moment.
+
+> **PRACTICAL** — Take the Okonkwo family. Write four sentences describing the same session as Minuchin,
+> Bowen, Satir and Whitaker would each have conducted it. Where do they differ: in the seating, the first
+> question, the target of change, or the theory of what a symptom is?
+
+### 3.5 Wave 3: meaning (1975–1990)
+
+The Milan group — Selvini Palazzoli, Boscolo, Cecchin and Prata — began as strategic therapists and became
+something else. Their *Paradox and Counterparadox* (1978) described a team working behind a one-way mirror,
+long intervals between sessions, and interventions delivered as letters: rituals, positive connotation, and
+the **prescription of the symptom**. The style was hierarchical, elegant and, in retrospect, ethically
+awkward.
+
+By the early 1980s the group had split, and the second phase — associated especially with Cecchin — turned
+from intervention to **meaning**. The key concepts: **hypothesising** (a provisional explanation, held lightly
+and revised), **circularity** (the interviewer's discipline of asking about differences and relationships),
+**neutrality** (curiosity about all positions rather than indifference), and **circular questioning** as the
+primary instrument. The therapist's job was less to change the system than to introduce information that the
+system could not have generated itself.
+
+**Second-order cybernetics** entered here, through the work of Heinz von Foerster and the writing of Lynn
+Hoffman ("Beyond power and control", 1985). The observer is part of the observed system; there is no
+Archimedean point; therapy is a conversation in which the therapist's own descriptions are part of what is
+described. This is intellectually attractive and clinically dangerous, because a therapist who is only
+curious can leave a violent household undisturbed. The corrective came from the outside, in wave 5.
+
+**The reflecting team.** Tom Andersen, in Tromsø, Norway, developed the reflecting team (1985–87): the team
+observes and then discusses in front of the family, with the family listening, in a tone of tentative
+curiosity. The move distributes expertise and gives the family the experience of being thought about rather
+than judged. It is one of the few techniques of this period that has survived intact and is used across
+models.
+
+### 3.6 Wave 4: solutions and stories (1980–2000)
+
+Two movements, both impatient with pathology, both popular with trainees because they feel respectful, and
+both vulnerable to the criticism that respect can shade into avoidance.
+
+**Solution-focused brief therapy.** Steve de Shazer, Insoo Kim Berg and colleagues at the Milwaukee Brief
+Family Therapy Center built an approach around the question "what would be different if the problem were
+solved?" — the **miracle question** — plus **scaling**, **exceptions** (times the problem did not happen),
+and **coping questions**. The stance is minimal-intervention, client-as-expert, and oriented to the next small
+step. The strength: engagement, brevity, respect. The weakness: when there is trauma, violence or serious
+mental illness, a focus on solutions can leave the worst of the situation unaddressed, and the therapist may
+not notice, because the conversation is pleasant.
+
+**Narrative therapy.** Michael White and David Epston, in Adelaide and Auckland, worked from the premise that
+people organise experience through stories, and that problems are maintained by **dominant stories** that
+narrow what a person can be. The techniques: **externalisation** ("the problem is the problem, the person is
+not the problem"), **unique outcomes** (moments that contradict the dominant story), **re-authoring**,
+**definitional ceremonies**, and the use of letters and documents. The political commitment is explicit:
+narrative therapy is designed to notice and resist the power of diagnosis, institutions and cultural
+norms — including, in White's later work, the norms that shape gender and family life.
+
+**Collaborative and dialogic practice.** Harlene Anderson and Harry Goolishian's collaborative language
+systems approach, and the open-dialogue work of Jaakko Seikkula in Finnish Western Lapland, pushed further:
+therapy as a conversation among many voices, the therapist as a participant in a dialogue rather than an
+agent of change. Open dialogue's outcomes with first-episode psychosis have been widely discussed and are
+methodologically contested; students should read the primary papers rather than the summaries, which are
+usually more enthusiastic than the data.
+
+> **DEBATE** — "Solution-focused and narrative therapy are the most ethical models in the field, and the least
+> adequate for serious risk." Twenty minutes. Both halves of the sentence need defending.
+
+### 3.7 Wave 5: evidence, attachment and integration (1990–present)
+
+Contemporary practice is not a single wave but a convergence, and students should be able to name its parts.
+
+**The evidence movement.** Manualised treatments, randomised trials, meta-analysis, and the rise of
+evidence-based practice as a policy requirement. Its achievements are real: couple therapy for relationship
+distress, behavioural parent training, family-based treatment for anorexia, multidimensional family therapy
+for adolescent substance use, and systemic work in paediatric chronic illness all have credible support. Its
+costs are also real: manualisation can strip the flexibility that made systemic work effective; trials
+under-represent the families who actually attend public clinics; and the hierarchy of evidence privileges
+questions about average effects over questions about mechanism and meaning.
+
+**The common-factors turn.** Research on the alliance, on therapist effects and on client factors demonstrated
+that a large share of outcome variance is not attributable to the model. This did not make models irrelevant;
+it made the *fit* between model, therapist and family the central question. Feedback-informed treatment —
+the routine use of session-by-session outcome and alliance measures — is the practical descendant, and it is
+now a standard of good practice rather than an innovation.
+
+**Attachment.** Emotionally focused therapy (Sue Johnson, Les Greenberg) rebuilt couple therapy on attachment
+theory and emotion science. It is the most influential couple model of the last thirty years, and its
+evidence base — including several randomised trials and meta-analytic support — is the strongest of any
+couple approach. Attachment thinking also reorganised work with children, fostering and adoption (see MFT
+711).
+
+**Neuroscience.** Findings on the social brain, stress physiology, co-regulation and memory have enriched the
+field's language and some of its techniques (see MFT 726). The danger is **neuro-pseudo-profundity**: using
+brain vocabulary as though it explained what it merely redescribes. Polyvagal theory, in particular, is
+clinically generative and scientifically contested; a professional should be able to use its metaphors while
+saying honestly that the mechanism is not settled.
+
+**Integration and the common structure.** Most practitioners now describe themselves as integrative. The
+substantive question is not whether to integrate but *how*: by theory (a superordinate framework), by
+technique (borrowing tools), by sequence (matching the model to the phase of work), or by feedback (letting
+outcome data choose). MFT 725 takes this up properly; here it is enough to note that "integrative" is a
+description of a problem, not a solution.
+
+> **TASK** — Write 300 words predicting the sixth wave. Defend it with two pieces of evidence from the last
+> five years and one prediction that could be shown to be wrong within a decade. Keep it; you will reread it
+> in Week 14.
+
+### 3.8 The family tree as a diagram
+
+The history is easier to hold as a picture than as a list. Draw it once, by hand, and you will not need to
+revise it.
+
+```
+1890 ── child guidance ──┐
+1930 ── marriage counsel ─┼──→ 1952 PALO ALTO (Bateson, Jackson, Haley, Weakland)
+1930 ── social casework ──┘         │  cybernetics · double bind · homeostasis
+                                    │  Watzlawick 1967: the axioms
+                    ┌───────────────┴───────────────┐
+                    ▼                               ▼
+        1965 PHILADELPHIA                    1965 GEORGETOWN
+        Minuchin, Haley                      Bowen
+        structure · enactment                differentiation · triangles
+        unbalancing · mapping                multigenerational transmission
+                    │                               │
+                    ▼                               ▼
+        1978 MILAN                           1970s EXPERIENTIAL
+        Palazzoli, Boscolo,                  Satir · Whitaker
+        Cecchin, Prata                       sculpture · use of self
+        paradox · ritual · positive connotation
+                    │
+                    ▼
+        1985 SECOND-ORDER CYBERNETICS (Hoffman; von Foerster)
+        hypothesising · circularity · neutrality
+        reflecting teams (Andersen)
+                    │
+        ┌───────────┴────────────┐
+        ▼                        ▼
+  1982 MILWAUKEE            1985 ADELAIDE / AUCKLAND
+  de Shazer, Berg           White, Epston
+  miracle question          externalisation · re-authoring
+  exceptions · scaling      unique outcomes · letters
+        │                        │
+        └───────────┬────────────┘
+                    ▼
+        1990s–2020s: EVIDENCE · ATTACHMENT · NEUROSCIENCE · FEEDBACK
+        EFT (Johnson, Greenberg) · common factors · routine outcome monitoring
+```
+
+Read the diagram three ways. **Vertically**, as descent: Milan comes out of Palo Alto, solution-focused and
+narrative come out of Milan's turn to meaning. **Horizontally**, as disagreement: Philadelphia and Georgetown
+were contemporaries answering the same question differently, and their disagreement about whether the target
+is structure or differentiation is still unresolved. **Diagonally**, as return: the contemporary interest in
+attachment is a return to wave 1's question about emotional bonds, with better instruments.
+
+**What the diagram leaves out, and why it matters.** The feminist critique (Hare-Mustin, Goldner, Walters,
+Bograd, and later intersectional writers) is drawn as an arrow into the whole picture rather than a branch: it
+did not produce a school but it changed every school's self-understanding, by insisting that power,
+gender and violence are not background variables. The same is true of the cultural critique, which this
+library treats as constitutive rather than supplementary (MFT 708).
+
+### 3.9 What each wave still gives you
+
+Students often ask, reasonably, which model to learn. The honest answer is that each wave contributes
+something you will use whatever you call yourself, and that the contributions are not equally large.
+
+| Wave | Permanent contribution | What to leave behind |
+|---|---|---|
+| Communication | Sequence, punctuation, feedback vocabulary, the idea that communication is the relationship | Manipulation; treating paradox as a default; the double-bind aetiology |
+| Structure and generations | Enactment, joining, mapping, subsystem and boundary language, the multigenerational lens, work on the therapist's own family | Rigid normative assumptions about "healthy" family form |
+| Meaning | Hypothesising, circular questioning, reflecting teams, curiosity as a discipline | Neutrality as an excuse for inaction in the face of danger |
+| Solutions and stories | Engagement, brevity, externalisation, respect for the family's own language and values | Avoidance of trauma, risk and diagnosis dressed as respect |
+| Evidence and integration | Outcome measurement, attachment science, feedback-informed practice, training in what demonstrably helps | Manual-worship; neuro-vocabulary substituting for mechanism |
+
+**The test of a professional.** Can you say, for a specific family, why you chose a particular stance and what
+you would have done differently if you had chosen another? The therapist who cannot answer that question is
+not eclectic; they are unskilled and lucky.
+
+### 3.10 The Adeyemi family seen through five lenses
+
+The same family, five ways. This exercise is the heart of the week: it demonstrates that the models are not
+competing truths but different instruments, each of which reveals something the others hide.
+
+**Communication lens (wave 1).** The sequence: father criticises → mother defends Amara → father withdraws →
+Amara refuses school → mother appeals to father → father criticises. Punctuation: father says "she is out of
+control because you indulge her"; mother says "he is never here and then he interferes". The intervention
+would be to slow the sequence, mark the punctuation, and change one link — for example, agreeing that
+criticism happens only in a scheduled conversation. *What this lens sees:* the mechanics of escalation. *What
+it misses:* the father's grief about his job, which is the fuel.
+
+**Structural lens (wave 2).** The parental subsystem is weak; Amara is in a coalition with her mother against
+her father; the boundary between mother and daughter is diffuse. The intervention: strengthen the parental
+subsystem by giving the parents a joint task, move Amara out of the executive position, and re-establish the
+sibling subsystem by giving the brother a role that is not "the easy one". *What this lens sees:* hierarchy and
+coalition, and it produces action immediately. *What it misses:* the meaning of the father's drinking and the
+mother's depression, which structure alone treats as noise.
+
+**Multigenerational lens (Bowen).** The father's own father was a proud man who lost everything in a business
+failure and drank; the father's withdrawal is a repetition he has never named. The mother is the child who
+managed her own mother's depression and has recruited Amara to the same role — family projection in progress.
+The intervention: a genogram across three generations, work on the father's relationship with his own father,
+and coaching the mother to differentiate rather than to manage. *What this lens sees:* the timeline that
+explains why *this* family, *now*. *What it misses:* the immediate sequence, and the risk that a
+multigenerational story becomes an excuse ("it was passed down to us").
+
+**Meaning lens (wave 3).** What does the family believe is happening? Mother: "I am failing as a mother."
+Father: "I am no longer the man of this house." Amara: "If I leave, something will happen." Brother: "Nobody
+notices me." The intervention: circular questions that make these beliefs audible to one another; a reframe
+that the family is protecting each other rather than failing; a ritual — a weekly family conversation with a
+fixed structure — that lets new meanings be enacted. *What this lens sees:* the moral world of the family and
+its capacity for loyalty. *What it misses:* the practicalities of a household in financial strain.
+
+**Solution-focused lens (wave 4).** Exceptions: what happens on the days Amara goes to school? (Her mother's
+sister visited; the father was at home in the morning.) Scaling: where are you today, 0 to 10, on "this family
+coping"? What would one point higher look like this week? The intervention: build on the exceptions,
+deliberately, one small step at a time. *What this lens sees:* competence, and it engages a family exhausted by
+being a problem. *What it misses:* the depression and the drinking, which are not solved by scaling.
+
+**The point of the exercise.** A formulation is a *choice of lens for a purpose*, and the competent clinician
+uses at least two lenses and says which they are using. The incompetent clinician uses one lens, calls it
+"the evidence-based approach", and cannot explain what it hides.
+
+> **PRACTICAL** — In groups of five, each person takes one lens and prepares a five-minute opening for the
+> family. Present in role. The observers score each opening on two criteria: does it fit the family's own
+> language, and does it make the next step obvious?
+
+### 3.10a Four primary sources, read closely
+
+History is learned from secondary summaries at the student's peril. Below are four short extracts, each with
+what to notice. You do not need to agree with any of them; you need to be able to say what they claim and what
+they assume.
+
+**Bateson, Jackson, Haley and Weakland (1956), on the double bind.** The authors describe a mother who, when
+her child approaches, stiffens; when the child withdraws, she asks why he does not love her. The child cannot
+win and cannot comment on the game. *What to notice:* the paper is hedged much more carefully than its
+reputation suggests — the authors call it a hypothesis and explicitly disclaim a simple causal claim; and the
+language of "victim" is used without any account of what the mother herself is experiencing. That absence is
+the seed of the feminist critique, twenty years early.
+
+**Watzlawick, Beavin and Jackson (1967), on punctuation.** "The nature of a relationship is contingent upon
+the punctuation of the communicational sequences between the communicants." *What to notice:* this is a claim
+about *description*, not about causation. The authors do not say both parties are equally responsible; they say
+each behaves as though the other started it. Students who muddle those two claims produce circularity without
+accountability, which is the error discussed in Week 2.
+
+**Minuchin (1974), on structure.** "The therapist joins the family in a position of leadership and then uses
+himself to change the organisation." *What to notice:* the therapist is inside, and directive. The sentence is
+unimaginable in the Milan writing that followed, and it is the ancestor of every modern discussion of the
+therapist's use of self.
+
+**White (1989), on externalisation.** "The problem is the problem; the person is not the problem." *What to
+notice:* the sentence's power is grammatical. It separates a person from a description, which changes what the
+family can do; and its weakness is that some problems are also acts — violence is not merely a story, and a
+person who commits it is not only a narrator.
+
+### 3.11 Annotated transcript: history in one sentence
+
+Students often experience the history as inert because it is taught as a list of names. It comes alive when you
+see a clinician *choose* a tradition in a single sentence. Four openings, all defensible, all different.
+
+> **Opening A (structural):** "Before we talk about Amara, I would like to see how the two of you decide
+> something together. Can you choose something small — the next school letter, say — and decide it now, in
+> front of me?"
+
+*What this does.* It creates the parental subsystem by asking it to act, and it gives the therapist live data
+rather than reported data. It comes straight out of Minuchin's enactment. *What it costs.* It is directive, and
+a family that feels managed will resist it; it presumes the parents can act together at all.
+
+> **Opening B (Bowenian):** "I want to understand where this pattern comes from. Could you tell me about your
+> own parents' marriage — what happened in their house when money was short?"
+
+*What this does.* It places the current difficulty in a multigenerational frame and begins the process of
+differentiation by asking an adult to think about their family rather than react within it. *What it costs.*
+It can feel like a history lesson when the family wants relief, and it can deflect from immediate risk.
+
+> **Opening C (Milan):** "I am going to ask some unusual questions, and I want each of you to answer for
+> someone else. Amara, who in this family is most worried about your mother? And who is least worried?"
+
+*What this does.* It builds a map of the system's concern and immediately distributes the problem across
+relationships. *What it costs.* It can feel like a parlour game, particularly with a family in acute distress,
+and it can produce abstract answers that the therapist then over-interprets.
+
+> **Opening D (solution-focused):** "Tell me about a day in the last month when things went better than usual
+> — even slightly. What was different about that morning?"
+
+*What this does.* It starts from competence and gives the family an experience of itself as capable, which is
+powerful with a demoralised household. *What it costs.* If the honest answer is "there hasn't been one", the
+therapist is left holding an approach the family has just refuted; a skilled practitioner will have a bridge
+ready ("then tell me how you have kept going").
+
+**The lesson.** Each opening is a hypothesis about what will help, expressed as a first move. Your training
+should leave you able to make any of the four deliberately, and able to explain afterwards why you chose the
+one you chose. That capacity — not loyalty to a school — is what "integrative" should mean.
+
+> **DRILL** — Deliver all four openings to the same peer, in role as the mother. Ask which one made her want to
+> come back, and which one made her want to leave. The answers will surprise you and will differ by person,
+> which is the point.
+
+### 3.11a How the field's arguments became clinical habits
+
+The history is not over; its disagreements are embedded in the language clinicians use, usually without
+attribution. Five examples.
+
+**"Let's not get into the past"** comes from the strategic and solution-focused waves, which treated history as
+a distraction from the loop. It is right about the futility of archaeology and wrong when the past contains
+unmourned loss or untreated trauma.
+
+**"Everyone in the family is doing their best"** comes from Satir and the humanistic wing. It is a useful
+corrective to pathologising and a dangerous substitute for accountability.
+
+**"What would it look like if the problem were solved?"** comes from Milwaukee. It is the single most portable
+question in the field and it will fail with a family for whom the problem is a death.
+
+**"That's a boundary issue"** comes from Minuchin, filtered through thirty years of training. It is often
+accurate and almost always unusable as a sentence uttered in the room.
+
+**"The system is resisting"** comes from the cybernetic wave and is the field's most damaging inheritance. It
+converts the therapist's failure into the family's pathology. The corrective is a sentence this library repeats:
+if nothing is changing, check the formulation, the dose, the goal and the fit before you check the family's
+motivation.
+
+> **AUDIT** — List five sentences you habitually use in clinical conversation. For each, identify which wave it
+> comes from and what it assumes. Then mark the ones you would be unable to defend if challenged by a
+> colleague, a supervisor or a family member.
+
+### 3.12 Six errors in using history
+
+1. **The name-drop.** Citing Bateson to a family. Fix: history is for you, not for them; translate every idea
+   into the family's language before it leaves your mouth.
+2. **Nostalgia.** Treating the 1970s as a golden age. Fix: name what those clinicians did that would now be
+   unethical, and say why.
+3. **Fashion as evidence.** Adopting a model because it is current or because a training was convenient. Fix:
+   ask what evidence supports it for *this* problem, and what it costs.
+4. **Model loyalty as identity.** "I am a structural therapist" as a personality claim. Fix: describe what you
+   do, when, and why; let others attach a label if they need one.
+5. **The single-story training.** Learning one model deeply and calling it integration. Fix: the comparative
+   assignment exists for this reason; do it honestly.
+6. **Ignoring the critiques.** Teaching the canon without the feminist, anti-racist and survivor critiques.
+   Fix: they are not add-ons; they are the reason the canon changed.
+
+### 3.12a A supervision case: what happens when the model fails
+
+A trainee presented this in supervision. She had been working with a family of four for six sessions using a
+structural approach — joining, mapping, enacting, unbalancing — and nothing had shifted. The parents performed
+the joint tasks in the room and abandoned them at home. The children were polite and blank. The trainee's
+formulation, reviewed in supervision, was accurate but incomplete: she had described the family's organisation
+and had not asked what the organisation was *for*.
+
+Two questions changed the case.
+
+**"What does this family believe would happen if they did the task?"** The answer, discovered through circular
+questions, was that both parents believed that acting together would expose the marriage as a pretence. The
+father's family had a saying: "a house that discusses its problems is a house with no roof." The mother had
+been raised to keep the peace at any price, and had watched her own mother absorb her father's rage for thirty
+years. The structural task was, from inside their world, a request to demolish the house.
+
+**"What has this family survived together?"** A fire, a business collapse, a stillbirth, and a period of
+separation the children knew nothing about. This is a family with a history of endurance and a rule that
+endurance is done silently.
+
+**What the trainee did in the next session.** She abandoned the enactment task for the moment and used a
+different instrument: she asked the parents, in front of the children, to describe one thing they were proud of
+having got through together. It took four minutes and produced more contact between them than six sessions of
+structure. She then reframed the joint parental task in the family's own terms — not "decide together" but "as
+a family that has survived worse, decide how to handle this one".
+
+**The lesson for this week.** Models are instruments, and the skill is diagnostic: when an instrument is not
+working, the question is not "how do I do the technique better?" but "what does the family's world make this
+technique mean?" That question is historical in its logic — it asks which tradition of family life the family
+itself belongs to, and which of the field's available languages can reach them. A therapist who has only one
+model has only one chance of finding a language the family can hear.
+
+### 3.13 Culture, faith and the Nigerian lineage
+
+The history above is mostly North American and European, and a student in Ibadan should ask what it has to do
+with them. Two answers.
+
+**First, the critiques from the global South are part of the field's history, not a local appendix.** The
+assumption that the nuclear household is the unit, that individuation is the goal, and that the therapist is a
+neutral observer have all been contested from African, Asian and Latin American contexts for decades. The
+Nigerian literature — in counselling, psychology, social work and pastoral care — has its own lineage:
+community mental health work in the 1970s and 1980s, the integration of traditional healers into referral
+pathways, pastoral counselling in the churches and *alfas* and imams in the mosques, and a strong tradition of
+family-life education. Knowing that lineage is not decoration: it is what allows you to place imported models
+rather than being placed by them.
+
+**Second, the extended family is a theoretical asset, not a complication.** Western family therapy spent thirty
+years discovering that the household is not the system — through work on multigenerational process, on
+non-resident fathers, on kinship care. A clinician trained in a context where grandmothers, aunts, uncles and
+cousins routinely co-parent starts with that insight rather than arriving at it. The task is to make it
+explicit and teachable, not to apologise for it.
+
+**A caution.** Cultural specificity can become a way of exempting families from scrutiny. "In our culture,
+discipline means beating" is a claim that requires examination, not deference — the evidence on corporal
+punishment is clear, and the child's safety is not a Western import. The discipline is to take the family's
+frame seriously *and* to hold the professional's obligations, including the legal ones (see MFT 724).
+
+> **REFLECT** — Which of the five waves most resembles how your own family handles difficulty? Which one most
+> resembles how you were taught to handle it professionally? Write 250 words on the gap between them.
+
+### 3.13a The Nigerian and African lineage, in more detail
+
+A student who learns only the North American canon will arrive at a professional identity that is borrowed. The
+local lineage is substantial and should be known.
+
+**Community psychiatry and the extension of care, 1960s–1980s.** The Aro Mental Hospital in Abeokuta, and its
+community-based programme from the early 1960s under T. Adeoye Lambo, is a landmark in world psychiatry: it
+replaced custodial care with village-based care, involved families and traditional healers, and demonstrated
+outcomes that were, for their time, remarkable. Family involvement was not an added technique; it was the
+model. Any honest history of systemic practice has to include it.
+
+**Traditional and faith-based healing as part of the referral system.** Herbalists, *babalawos*, pastors,
+*alfas* and imams are, for most Nigerian families, the first port of call and sometimes the only one. The
+professional task is not to compete but to understand, coordinate and — where a practice is dangerous — to say
+so clearly while keeping the family engaged. Research on collaboration between traditional healers and formal
+services has a long history in Nigeria and West Africa, and the practical lessons are consistent: respect,
+clarity about what each can offer, and an explicit safety floor.
+
+**Family life education and pastoral counselling.** Churches and mosques run premarital counselling, marriage
+enrichment, and considerable informal couple and family work. Many of the referrals you will receive come
+through these channels, and many of the families you see will have had a pastoral conversation before they had
+a clinical one. Knowing what those conversations contain — and their limits — makes you a better collaborator
+and a less anxious professional.
+
+**The academic lineage.** Departments of psychology, sociology, guidance and counselling, and social work in
+Nigerian universities have produced a substantial literature on marriage, family structure, child-rearing,
+migration and mental health. Students writing dissertations (MFT 721, MFT 770) should search it deliberately:
+the international databases are not neutral archives, and a literature review that cites only Northern
+journals will have missed the studies with the most relevant samples.
+
+**What to take from this.** The relational frame is not an import that must be adapted to local reality; it is
+an insight that local practice arrived at independently, with different vocabulary and different institutional
+forms. Your task is to learn both lineages and to be able to say, for any particular technique, whether it
+travels, what it needs to travel, and what it might destroy on arrival.
+
+### 3.14 The comparative essay: how to write it
+
+Half of the marks for this course come from a comparative essay of 2,000 words on two models applied to one
+case. Students lose marks in predictable ways, and the essay is easier than it looks if you follow the
+structure.
+
+**The brief.** Choose two models from different waves — for example, structural (wave 2) and narrative
+(wave 4), or Milan systemic (wave 3) and emotionally focused (wave 5). Choose one family from the case bank.
+Write an essay with the following sections, in this order.
+
+1. **The presenting pattern** (250 words). The family as they arrive: who is worried, who is present, what has
+   been tried, what the referral says. No theory yet. This section establishes that you can describe before
+   you interpret — a skill examiners find conspicuously rare.
+2. **Model one: how it sees** (450 words). The model's assumptions: what a symptom is, where pathology lives,
+   what counts as the unit, what counts as change. Then the formulation in that model's terms, in its
+   vocabulary, with the specific evidence from the case that supports it.
+3. **Model one: what it would do** (250 words). Two or three concrete moves, in sequence, with the reasoning.
+   Not "use enactment"; rather, "ask the parents to decide the school letter in front of Amara, because the
+   parental subsystem is the target and doing it live gives me better data than asking about it".
+4. **Model two: how it sees** (450 words). As above. Resist the temptation to make model two a foil; a
+   comparison in which one model is obviously superior is a failed comparison.
+5. **Model two: what it would do** (250 words). As above.
+6. **The comparison** (250 words). Where do the two formulations conflict? Where do they merely differ in
+   emphasis? What does each model see that the other cannot? Which would you choose for this family, and on
+   what grounds — evidence, fit, the family's preferences, your own competence, or the setting's constraints?
+   The grounds must be explicit.
+7. **Conclusion** (100 words). What you have learned about the relationship between theory and practice.
+
+**The six ways students lose marks.** Describing models without applying them to the case; applying both
+models to different aspects of the case so no comparison occurs; declaring one model "more holistic" without
+evidence; using the models' jargon without translating it; ignoring power, culture and risk; and failing to
+state a reasoned preference.
+
+**Model paragraph, for calibration.** Here is a body paragraph at distinction level.
+
+> Structural family therapy locates the problem in the organisation of the family rather than in the
+> individual. Minuchin's claim is that symptomatic children are frequently occupying a position in the
+> hierarchy that belongs to adults — in coalition with one parent against the other, or parentified by an
+> absent adult. This is visible in the Adeyemi family in three places: Amara sits beside her mother and answers
+> questions addressed to her; she describes managing her mother's low mood; and her father, when he attends,
+> is treated by both as a visitor whose opinion arrives from outside the household. The structural formulation
+> is therefore that the parental subsystem is not functioning as a subsystem, and that Amara's school refusal
+> is a stabilising move within that structure. What this formulation gains is a target that can be acted on in
+> the room: the therapist can create the parental subsystem by giving the parents a joint task and observing
+> them attempt it. What it risks losing is the meaning of the father's absence to the father — his own
+> redundancy, his own father's drinking — which structural language can describe as "distance" but cannot
+> explain.
+
+Note what the paragraph does: it names the model's claim, applies it to specific observable evidence, states
+what the formulation buys and what it costs. That last sentence is what separates a distinction from a
+competent pass.
+
+### 3.15 Timeline for revision
+
+Twenty dates, in the order a student should be able to produce them. The examination sometimes asks for a
+timeline, and always rewards precision about which decade a development belongs to.
+
+| Year | Event | Why it matters |
+|---|---|---|
+| 1942 | American Association of Marriage Counsellors founded | The couple as a clinical unit, before "family therapy" existed |
+| 1952 | Bateson's group begins work at Palo Alto | Cybernetics enters the study of families |
+| 1956 | "Toward a theory of schizophrenia" published | The double bind; the field's founding controversy |
+| 1959 | Mental Research Institute founded (Jackson) | An institutional base for communication research |
+| 1960 | Ackerman Family Institute, New York | Clinical training in family therapy begins |
+| 1962 | *Family Process* founded (Ackerman and Jackson) | The field acquires a journal and a canon |
+| 1963 | Haley, *Strategies of Psychotherapy* | Strategic therapy formalised |
+| 1965 | Minuchin leads the Philadelphia Child Guidance Clinic | Structural family therapy develops |
+| 1966 | Bowen, "The use of family theory in clinical practice" | Differentiation and triangles published |
+| 1967 | Watzlawick, Beavin and Jackson, *Pragmatics* | The axioms; the field's vocabulary fixed |
+| 1972 | Bateson, *Steps to an Ecology of Mind* | The cybernetic essays collected |
+| 1974 | Minuchin, *Families and Family Therapy* | The clearest clinical text in the field |
+| 1978 | Selvini Palazzoli et al., *Paradox and Counterparadox* | Milan systemic therapy; the team behind the mirror |
+| 1980 | "Hypothesizing–circularity–neutrality" published | The technique of circular questioning formalised |
+| 1982 | Milwaukee Brief Family Therapy Center founded | Solution-focused work begins |
+| 1985 | Hoffman, "Beyond power and control" | Second-order cybernetics enters clinical writing |
+| 1985–87 | Andersen's reflecting team papers | The team discusses in front of the family |
+| 1990 | White and Epston, *Narrative Means to Therapeutic Ends* | Narrative therapy consolidated |
+| 1990s | EFT trials begin to appear (Johnson, Greenberg) | Attachment-based couple therapy acquires evidence |
+| 2000s– | Feedback-informed treatment; routine outcome monitoring | The model matters less than the fit and the feedback |
+
+### 3.16 Self-test
+
+Multiple choice, then short answers.
+
+1. The double-bind hypothesis was developed by:
+   (a) Minuchin and Haley (b) Bateson, Jackson, Haley and Weakland (c) Bowen and Kerr (d) White and Epston
+2. "The problem is the problem; the person is not the problem" is a principle of:
+   (a) Structural therapy (b) Strategic therapy (c) Narrative therapy (d) Bowenian therapy
+3. Which model is most associated with enactment and unbalancing?
+   (a) Milan systemic (b) Structural (c) Solution-focused (d) Collaborative
+4. Positive connotation and ritual are techniques of:
+   (a) The Milan group (b) The Milwaukee group (c) The Philadelphia group (d) The Galveston group
+5. Differentiation of self, triangles and multigenerational transmission belong to:
+   (a) Satir (b) Whitaker (c) Bowen (d) de Shazer
+6. Second-order cybernetics holds that:
+   (a) Systems have two levels (b) The observer is part of the observed system (c) Feedback operates twice
+   (d) Two therapists should work together
+7. The reflecting team was developed by:
+   (a) Andersen (b) Anderson and Goolishian (c) Seikkula (d) Cecchin
+8. Which is the strongest evidence-supported couple therapy?
+   (a) Milan systemic (b) Emotionally focused therapy (c) Strategic therapy (d) Collaborative therapy
+
+**Answers.** 1 b · 2 c · 3 b · 4 a · 5 c · 6 b · 7 a · 8 b.
+
+**Short answers.**
+
+*What did wave 3 add that wave 1 lacked, and what did it lose?* A strong answer names meaning, hypothesis,
+circular questioning and the reflecting team; then names the loss — therapeutic ambition, responsibility for
+change, and attention to power and risk.
+
+*Why is "integrative" a description of a problem rather than a solution?* A strong answer distinguishes
+integration by theory, technique, sequence and feedback, and shows that each requires a criterion for
+choosing; without a criterion, integration is incoherence with good manners.
+
+### 3.16a What the examiners look for
+
+A note on assessment for this week's material, since the examination question on history is one of the most
+predictable and the most frequently answered badly.
+
+**Three habits earn marks.** Precision about dates and decades (not "in the seventies" when you mean 1978);
+attribution that is correct (positive connotation is Milan, not Minuchin); and evaluation — what each wave
+gained and lost, stated in the same paragraph as the description.
+
+**Three habits lose them.** The list, in which each model is described in a sentence and nothing is compared;
+the hagiography, in which founders are praised rather than understood; and the anachronism, in which 1950s
+claims are judged by 2020s standards without noting that the standards themselves are a product of the
+intervening argument.
+
+**A model sentence for evaluation.** "Milan's turn to meaning gave the field its most refined interview
+technique and deprived it, for a decade, of a theory of action; the reflecting team is best understood as an
+attempt to recover action without abandoning curiosity." A sentence like that demonstrates that you can hold
+a gain and a loss at once, which is the intellectual skill this course is trying to build.
+
+### 3.17 Reflective task
+
+Write 300 words on the model you find most attractive and the model you find most repellent. For each, name
+the reason — and then check the reason against your own family history. Students usually discover that the
+attractive model is the one that would have helped their family and the repellent one is the one their family
+was subjected to. That discovery is not a debunking; it is professional formation, and it is the reason
+supervision exists.
+
+### 3.18 Readings for this week
+
+* **Nichols & Schwartz**, *Family Therapy: Concepts and Methods*, chapters 1–4. The best overview; read it as a
+  map, not as a verdict.
+* **Hoffman (1981)**, *Foundations of Family Therapy*. The history written by someone who was there.
+* **Minuchin (1974)**, *Families and Family Therapy*, chapters 1–3. Read for the clarity of the clinical
+  reasoning, not for the model.
+* **Bowen (1978)**, *Family Therapy in Clinical Practice*, chapters 1–5. Dense, idiosyncratic, foundational.
+* **White & Epston (1990)**, *Narrative Means to Therapeutic Ends*, chapters 1–2. Externalisation, in the
+  original.
+* **de Shazer (1985)**, *Keys to Solution in Brief Therapy*. The miracle question and its rationale.
+* **Hare-Mustin (1978)** and **Goldner (1985)**, as for Week 2. The critiques that changed the canon.
+
+*Next: [Week 4 — Systems concepts you will actually use](#week-4--systems-concepts-you-will-actually-use)*
+
+---
+
+### 3.16b Two worked formulations, same family, different waves
+
+The clearest test of historical knowledge is the ability to formulate the same family in two vocabularies
+without mixing them. Here are two, both about the Adeyemis, both defensible, written to be read side by side.
+
+**Structural formulation.** The household is organised around a weak parental subsystem. The father is
+peripherally involved: he is present, but he occupies a visiting position, offering opinions from outside the
+executive of the family. The mother–daughter boundary is diffuse; Amara functions as her mother's emotional
+companion and, in the mornings, as the person who absorbs and then repairs her mother's distress. A stable
+cross-generational coalition has formed. The school refusal is not a symptom that arrived from nowhere; it is
+the behaviour that keeps the coalition intact by keeping Amara at home. *Target of change:* strengthen the
+parental subsystem, move Amara out of the executive position, and re-establish the sibling subsystem so that
+the younger brother is not recruited into the space Amara vacates. *First move:* a joint parental task,
+attempted in the session, on a real decision.
+
+**Bowenian formulation.** The family's level of differentiation is low in the marital dyad, and the anxiety
+that this generates has been triangulated through Amara, who is the child most attuned to her mother and
+therefore the most available for the family projection process. The father's emotional cutoff from his own
+family of origin — he has not spoken to his brother in nine years, and his father drank — has left him with no
+vocabulary for the shame of redundancy and no relationship in which to think about it. The mother's
+over-functioning is a repetition of her position in her family of origin, where she managed her own mother's
+depression. *Target of change:* increase differentiation — the capacity of each adult to stay connected while
+thinking for themselves — and reduce the triangulation of Amara. *First move:* a three-generation genogram,
+followed by coaching the mother to define a position to her own mother, and the father to re-open contact with
+his brother.
+
+**What to notice in comparing them.** Structural language gives you an immediate, testable, in-session action;
+Bowenian language gives you a timeline and a theory of why these particular people, and it produces change
+slowly, through the adults' own development. Neither is a description of the family; both are descriptions of
+what the clinician has decided to notice. The mark of a trained clinician is that the choice between them is
+explicit and defensible rather than temperamental.
+
+> **TASK** — Write a third formulation, 300 words, in the vocabulary of narrative therapy. Then write one
+> sentence stating what your narrative formulation can see that neither of the above can, and one sentence
+> stating what it cannot see.
 
 ---
 
