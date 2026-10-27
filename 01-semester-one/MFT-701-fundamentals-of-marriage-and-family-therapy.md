@@ -7859,33 +7859,715 @@ and most students find it easier to write than they expected.
 ---
 ## Week 12 — Ethics, risk and the limits of the systemic frame
 
-Ethics is not a chapter at the end of the course; it is the frame that makes the work possible. Here we
-establish the four issues every family therapist meets in the first month.
+Ethics is not a chapter at the end of the course; it is the frame that makes the work possible. Every family
+therapist meets the four issues below in the first month, and meets them again every year thereafter.
 
-**1. Confidentiality in a multiperson system.** There is no single confidentiality. Agree the rules at
-the start: what is said in the joint session is shared; what is told to you individually may need to be
-brought into the open; secrets that affect safety cannot be kept. Write the policy down and give it to
-the family.
+### 12.1 The lecture in ninety minutes
 
-**2. Risk.** Screen for suicide, self-harm, violence, abuse and neglect in every new case, and document
-it. You cannot assume a colleague has done it.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why systemic thinking creates ethical problems | Four ways the frame can be used to avoid responsibility | Identify the four in a case |
+| 10–25 | Confidentiality in a multiperson system | Write a confidentiality policy on the board | Draft the three sentences they will say aloud |
+| 25–45 | Risk: screening, assessing, managing | The screen, the assessment and the plan, demonstrated | Screen a role-played case in eight minutes |
+| 45–60 | The limit case: secrets | Work the affair case in groups, then compare | Decide, and defend the decision |
+| 60–72 | Competence and the duty to refer | What competence means when the model is relational | Audit one's own limits honestly |
+| 72–85 | Dual relationships in small communities | The test, applied to five scenarios | Score and justify |
+| 85–90 | Documentation | Read a good note and a bad note | Rewrite the bad one |
 
-**3. Competence.** Taking a case you are not trained for is not courage. It is a risk to the client and
-to you.
+### 12.2 Four ways the systemic frame can be misused
 
-**4. Multiple relationships and power.** Small communities, religious networks and family ties make dual
-relationships likely. The test is not "is there a second relationship?" but "does the second relationship
-impair the first, or exploit the first?"
+Systemic thinking is a powerful set of ideas, and like any powerful set it can be used to avoid responsibility. Four
+recognisable abuses, each of which a trainee will hear from an experienced colleague at some point.
 
-> **CASE** — During an individual session, a husband tells you he has resumed an affair and asks you not
-> to tell his wife. He is not at risk and no one is being harmed in the sense that requires disclosure.
-> What do you do? (Work this case in groups; then compare with the decision model in Figure 33, MFT 704.)
+**Abuse 1 — "The problem is in the system, not in the person", used to avoid individual responsibility.** Circular
+causality explains how a pattern is maintained; it does not dissolve a man's responsibility for violence, a parent's
+responsibility for a child's safety, or a professional's responsibility for a decision. The circular account is a
+description of a mechanism, not a moral verdict. Where a therapist uses circularity to soften a disclosure of harm,
+the theory has become a defence.
 
-**Documentation.** Write notes as if a colleague will take over tomorrow and a court may read them in a
-year: date, attendees, presenting issues, risk screen result, interventions, plan, and who was told what.
+**Abuse 2 — "We must not take sides", used to avoid protecting the weaker party.** Neutrality is a technique for
+keeping both members engaged, not a moral position. A therapist who is neutral between a parent and a child about
+whether the child is safe has mistaken a stance for a value.
+
+**Abuse 3 — "The family did not engage", used to avoid examining the service.** Disengagement is described in the
+literature as a client characteristic and is often a service characteristic: waiting times, location, language,
+letters, the room, the first ten minutes. The ethical version of the sentence is: "the family did not return, and
+here is what we did that may have contributed."
+
+**Abuse 4 — "It is cultural", used to avoid acting.** Discussed in Week 10, and stated here as an ethical principle:
+culture explains, law and the code of conduct oblige.
+
+**The test.** For any principle you are applying, ask: *who benefits from my applying it this way in this case?* If
+the answer is the therapist's comfort, the principle is being used as a defence.
+
+### 12.2a Four principles, applied to a family
+
+The four-principles framework — respect for autonomy, non-maleficence, beneficence and justice — is usually taught
+for individual work and becomes more interesting, and harder, when there are three or four clients in the room.
+
+**Autonomy.** Whose autonomy? A father's autonomy to refuse a conversation about his drinking; a mother's autonomy to
+decide what is disclosed to her family; an adolescent's autonomy over their own body and information; a child's
+developing autonomy, which is not the same as an adult's. The principles conflict directly in family work, and no
+framework resolves them. What a framework does is force the therapist to name whose autonomy is being weighed, and
+why.
+
+**Non-maleficence.** The duty not to harm. In family work the specific harms to watch for are: a disclosure that
+produces violence at home; a session that unites the parents against a child; a formulation that becomes a family's
+permanent story about one member; a record that follows a young person into adulthood. Each is a foreseeable harm
+and each is preventable with method.
+
+**Beneficence.** The duty to benefit. In family work this includes the duty to notice when the therapy is not
+benefiting the family, and to change it — which requires measurement, and which is why Week 11 sits beside Week 12.
+
+**Justice.** The fair distribution of the therapist's time, attention and access. In a family, the therapist will be
+tempted to give more to the member who is more articulate, more distressed or more likeable. In a service, the
+therapist will be tempted to give more to the families who are easier to help. Both are justice problems, and both
+are visible in the record if the record is honest.
+
+**The practical use of the framework.** When a decision is hard, write the four headings and, under each, the
+considerations in this case. Then make the decision and record the reasoning. The framework's value is not that it
+produces the answer; it is that it prevents the therapist from deciding on the basis of the one consideration that
+happened to occur to them.
+
+### 12.3 Confidentiality in a multiperson system
+
+There is no single confidentiality in family work, and the failure to say so at the start is the commonest ethical
+error in the field.
+
+**What to say in the first session, in three sentences.** "What is said in this room, with all of us here, is shared
+between us. If one of you tells me something alone, I will ask you to tell the others, and I may need to raise it
+myself if it affects someone's safety. What you tell me is confidential outside this family, except where the law
+requires me to act — if someone is at risk of serious harm, or a child is being harmed, I will have to tell someone,
+and I will tell you first that I am doing it."
+
+**Write it down.** A one-page policy, given to the family at the first session, containing: who is seen together and
+who separately; what happens to information from individual sessions; the limits of confidentiality; how records are
+kept and who can see them; what happens if the family separates, or if one member asks for the record; and the
+complaints procedure. This page prevents most of the disputes that would otherwise occupy sessions.
+
+**The three categories of information.** Useful to teach explicitly.
+
+*Shared information* — said in a joint session, held by the family as a whole. Can be referred to freely.
+
+*Individual information* — said to the therapist alone. Cannot be kept indefinitely if it bears on the work. The
+therapist's task is to help the member bring it into the open, with a deadline and support, and to say in advance
+what will happen if they do not.
+
+*Unkeepable information* — disclosure of risk to a child, of serious harm to self or others, of an offence that the
+law requires be reported. Cannot be kept, must be handled transparently, and the member should be told what will
+happen and when.
+
+**Secrets: a decision model.** When a member discloses something and asks that it be kept, five questions in order.
+
+1. *Is anyone at risk?* If yes, the secret cannot be kept, and the process of disclosure is managed, not optional.
+2. *Does the information bear on the work?* A secret that changes the formulation cannot be held without the
+   therapist working dishonestly.
+3. *What is the likely consequence of disclosure, for each member?* Violence, a breakdown of the therapy, a
+   rupture in the family, a lost job. These are weighed, not dismissed.
+4. *Can the member be supported to disclose?* Almost always the best route: a deadline, a rehearsal, the therapist
+   present.
+5. *What will the therapist do, and by when, if the member does not?* This must be stated in advance, in specific
+   terms, and honoured.
+
+> **CASE** — During an individual session, a husband tells you he has resumed an affair and asks you not to tell his
+> wife. He is not at risk and nobody is being harmed in the sense that requires disclosure. What do you do? Work it
+> in groups, then compare with the decision model above. The defensible answers differ, and each must be able to
+> answer question 2 honestly.
+
+### 12.4 Risk: the screen, the assessment, the plan
+
+Risk is not a topic; it is a routine. Every new case, every session where something has changed, and every session
+before a break.
+
+**The screen (two minutes).** Five questions, asked of the relevant members, in plain language, every new case.
+
+> "In the last month, have you had thoughts of ending your life, or of harming yourself?"
+> "Have you ever tried?"
+> "Is anyone in the house being hurt — hit, pushed, threatened, or made afraid?"
+> "Is there anyone you are afraid of?"
+> "Is there anything happening to the children that worries you, that we have not talked about?"
+
+**The assessment (when the screen is positive).** Intent, plan, means, timeframe, protective factors, previous
+attempts, substance use, and the response of the people around the person. For violence: frequency, severity,
+escalation, weapons, children's exposure, and the victim's own safety plan. For child protection: the specific
+incident, the child's account, the marks, and the family's explanation.
+
+**The plan (what must be written).** Who is at risk, of what, how imminent; what has been done; who has been
+informed; what the family has agreed to do; what the therapist will do and by when; the next contact; and the
+review date. A risk assessment without a plan is a note, not an assessment.
+
+**The limits of risk prediction.** Actuarial tools outperform clinical judgement for some outcomes, and none of them
+predict individual events well. The professional standard is therefore not accurate prediction but systematic
+enquiry, documented reasoning, appropriate action and review. A therapist who asks, records, acts and reviews has
+met the standard; a therapist who relies on a feeling has not.
+
+**The systemic dimension.** Risk in families is relational: the risk to a woman is affected by who knows, who
+believes her, and what the family will do; the risk to a child is affected by the parents' capacity to protect, which
+is affected by their own circumstances. The formulation of Week 9 should include the risk, and the plan should
+address the relationships that make protection possible or impossible.
+
+> **PRACTICAL** — In pairs, take a risk history in eight minutes using the five screening questions, then write a
+> risk plan in six lines. Swap and critique: does the plan name who, what, by when, and who else knows?
+
+### 12.4b Domestic abuse: a screen that changes the work
+
+Family work with domestic abuse is the ethical terrain on which trainees most often come unstuck, because the
+instincts of the model — bring everyone together, hold both accounts, avoid taking sides — can be exactly wrong.
+
+**The screen.** Ask each adult separately, at least once, in words that do not require disclosure in front of a
+partner: "Has anyone in the house ever hurt you, or made you afraid? Has there been pushing, hitting, or threats?"
+Asking in front of the partner is not a screen; it is a test of the partner's reaction, and it can be dangerous.
+
+**The prevalence.** In clinical populations, rates of domestic abuse disclosed to services are high, and in couple
+therapy samples substantial minorities of couples report aggression, sometimes mutual, often not. The therapist who
+does not ask will work with several such couples without knowing, which is both unsafe and clinically ineffective.
+
+**When disclosure occurs, four decisions.**
+
+*One: is the couple work safe?* Couple therapy is contraindicated where there is coercion and control, fear of the
+partner, escalation, or a risk of serious injury. It may be possible where there is situational aggression without
+control and both partners want to address it, with explicit agreements and safety planning. The distinction is not
+the presence of an argument; it is the presence of control and fear.
+
+*Two: what does the victim want?* Not as a veto over safety, but as essential information. Many women do not want to
+involve the police, for reasons that are usually rational: money, children, family pressure, immigration status, and
+the probability of retaliation. The therapist's task is to widen the options, not to override the choice.
+
+*Three: what is the safety plan?* Practical and specific — a bag, a telephone, a code word, a relative, a refuge
+number, a copy of documents. Written, and held where the partner cannot find it.
+
+*Four: what is the therapist's legal position?* In many jurisdictions, disclosure of a risk to a child triggers a
+safeguarding duty; some jurisdictions have specific domestic abuse reporting duties. Know yours precisely, and say
+what you know to the person concerned.
+
+**The error to avoid.** Splitting the couple work into "communication training" while the abuse continues, which
+treats a safety problem as a skills problem. The formulation must include the abuse as a fact about power, not only
+as a pattern of interaction.
+
+**The systemic nuance worth teaching.** Abuse is not symmetrical, and circular accounts that describe "mutual
+escalation" can obscure who is afraid. It is legitimate to describe the interaction without implying equal
+responsibility, and the therapist should be able to say both: "you both shout, and only one of you is afraid of what
+will happen next."
+
+### 12.5 Competence, and the duty to refer
+
+Taking a case you are not trained for is not courage. It is a risk to the client and to you.
+
+**What competence means.** The combination of knowledge, skills, supervision and judgement sufficient to work with
+this presentation, this family, in this setting. It is specific: a competent family therapist may be incompetent with
+a family in which a child is psychotic, or with a couple where there is a live court case about custody.
+
+**Four domains in which trainees most often over-reach.** Adult mental illness (where the family work must be
+alongside, not instead of, psychiatric care); child protection (where the therapist is not the investigator);
+substance misuse and detoxification (where medical management is required); and legal proceedings (where the
+therapist may be asked to write a report beyond their competence).
+
+**The duty to refer, and the duty not to abandon.** Where a case is beyond your competence, the professional
+response is: discuss in supervision; identify a colleague or service with the competence; make the referral with the
+family's agreement; and, where appropriate, continue to work alongside. The failure mode is the therapist who refers
+and disappears, leaving the family to negotiate a new system alone.
+
+**The duty to develop competence.** The other side of the same coin: a therapist who refers every family with a
+particular presentation will never become competent with it. A training plan, with supervision, is the professional
+way to expand the boundary.
+
+### 12.6 Dual relationships and power in small communities
+
+Small communities, religious networks and family ties make dual relationships likely rather than exceptional. The
+test is not "is there a second relationship?" but "does the second relationship impair the first, or exploit the
+first?"
+
+**The five scenarios students most often get wrong.**
+
+1. *The family in your church.* You will see them on Sunday. Not automatically disqualifying; requires explicit
+   agreement about what will be said in public, and a plan for what happens if the therapy becomes known.
+2. *Your cousin's neighbour.* A distant social connection, but information will travel. Ask the family whether they
+   know you, and record the answer.
+3. *A former client's sister.* Usually workable with explicit acknowledgement; the previous client's confidentiality
+   is the constraint.
+4. *A family where you have already given advice informally at a family gathering.* The informal relationship has
+   already compromised the clinical one; refer, and say why.
+5. *A family who ask you to attend a ceremony, give a lecture to their church, or invest in their business.* Each
+   converts a clinical relationship into another kind, and each needs to be declined or examined with supervision.
+
+**The power analysis to complete.** For each potential dual relationship, ask: who benefits; what could the family
+feel unable to refuse; what would the family's neighbours think; and what would you write in the record if a
+complaint were made? If the fourth answer is uncomfortable, the answer to the case is probably no.
+
+### 12.7 Documentation, and the record as an ethical object
+
+Write notes as if a colleague will take over tomorrow and a court may read them in a year: date, attendees,
+presenting issues, risk screen result, interventions, plan, and who was told what.
+
+**Five disciplines.**
+
+1. **Separate fact from inference.** "Mother reports two incidents of pushing in March" is a fact. "Mother is
+   frightened of father" may be an inference; say so if you write it.
+2. **Record what you did, not only what you thought.** The intervention, the question you asked, the advice you
+   gave, the referral you made, the time you made it.
+3. **Record what the family said, in their words, where it matters.** Quotation is more defensible than summary and
+   more useful to a colleague.
+4. **Record the decisions and their reasons.** "Risk assessed as low because X, Y, Z; decided not to refer; will
+   review in two weeks." Fourteen words that would answer most of the questions a review would ask.
+5. **Never write anything you would not say to the family.** The record can be requested; the phrase "manipulative
+   mother" in a file will be read by the mother one day, and it will be indefensible.
+
+**The record and the family.** Increasingly, families have a right of access to their records. Write with that in
+mind: the record should be truthful, respectful, and comprehensible to an intelligent non-clinician. Where you must
+record something painful, record it in neutral language and record the context that makes sense of it.
+
+> **AUDIT** — Take the last note you wrote. Underline every sentence that is inference, every adjective about a
+> person, and every claim you could not evidence. Rewrite the note so that nothing is underlined, without losing any
+> clinical information.
+
+### 12.7b Who owns the record?
+
+A question that arises in every family case and is almost never discussed with the family until it becomes a dispute.
+
+**The legal position varies, and you must know yours.** In many jurisdictions the record belongs to the
+organisation that created it, and the client has a right of access, subject to exemptions where access would cause
+serious harm to the client or another person. In others the client owns the record. In private practice the
+practitioner is usually the data controller and must comply with data protection law.
+
+**The family complexity.** When several people are seen, the record contains information about each of them. A
+request from one member raises the question of the others' rights, and the professional response is to seek the
+guidance of the organisation's information governance lead rather than to decide alone.
+
+**What to tell the family.** In the written policy: who holds the record, who has access, for how long, how it is
+shared with other professionals, and how to request a copy. The families who are told this at the outset are the
+families who complain least, because the surprise of discovering a shared record is worse than the requirement.
+
+**What this means for writing.** Write every sentence on the assumption that every member may one day read the whole
+document. That single discipline improves record quality more than any template, because it removes exactly the kind
+of sentence that should never be written.
+
+### 12.8 The limits of the systemic frame
+
+The course teaches a systemic frame because it is powerful, and a professional education owes students an honest
+account of what the frame cannot do.
+
+**Limit 1 — it cannot substitute for individual treatment where individual treatment is indicated.** Severe
+anorexia in an adult, psychosis, acute suicidality, a trauma requiring a phased individual approach: family work
+may be part of the plan and it is not the plan.
+
+**Limit 2 — it cannot adjudicate facts.** Whether a child was hit, whether an assault occurred, whether a man
+accessed an image: these are questions for investigation, and a family therapist who offers a relational account of
+a disputed fact may inadvertently obscure it.
+
+**Limit 3 — it can silence the individual.** A focus on the system can make it difficult for a member to say "this
+happened to me". The therapist must be able to move between the relational and the individual register, and to say
+which register they are in.
+
+**Limit 4 — it can become a totalising theory.** When every difficulty is a system, the therapist loses the capacity
+to notice biology, trauma, poverty, injustice or chance. The mature position is that the systemic frame is one of
+several and that its usefulness is conditional on the question.
+
+**Limit 5 — it can over-claim its evidence base.** Week 11 sets out what is known. The ethical obligation is to
+practise within the evidence and to say plainly where it is thin.
+
+**The integration.** A clinician who can say "I am working systemically here because the maintenance pattern is
+relational, and I am recommending individual trauma work for the mother in parallel" is demonstrating the frame's
+mature use, which is to know what it is for. The immature use is to treat the frame as a commitment rather than a
+tool; the mature use is to be able to name, in any given session, which frame is operating, why, and what it costs
+the family to have that frame rather than another.
+
+### 12.9 Six ethical errors
+
+1. **The unstated confidentiality policy.** Working for weeks and only then discovering that members assumed
+   different rules. Fix: three sentences in the first session, written down.
+2. **The secret kept too long.** A disclosure held alone while the therapy proceeds on a false basis. Fix: a
+   deadline, support to disclose, and a stated consequence.
+3. **The omitted risk screen.** Assuming somebody else asked. Fix: ask, record, and ask again after any change.
+4. **The competence overreach.** Accepting a case to avoid appearing inadequate. Fix: supervision before the second
+   session, not after the tenth.
+5. **The judgmental record.** Adjectives about people, in a document that outlasts the therapy. Fix: write as if the
+   family will read it, because one day they may.
+6. **The theory used as a defence.** Circularity, neutrality or culture invoked to avoid acting on harm. Fix: ask who
+   benefits from the principle as applied, and say the answer out loud in supervision, where it can be examined by
+   somebody who is not invested in your comfort.
+
+### 12.9a Case: the secret that involves an institution
+
+A case that requires the confidentiality policy, the risk framework and the systemic frame to be used together.
+
+**The facts.** A mother attends alone and discloses that her 15-year-old son has been taking money from her purse and
+that she believes he has been involved with a group of older boys who are "doing drugs". She has not told the father,
+who she says "would beat him". She has not told the school, which has a policy that would lead to exclusion. She asks
+the therapist to keep all of it.
+
+**Why this is not a simple secret.** Three of the three categories are in play. The information bears directly on the
+work (it is the presenting problem). Some of it is unkeepable (a child involved with drugs and at risk of harm, and a
+foreseeable risk of physical punishment if the father learns abruptly). And the mother's request is reasonable in her
+own terms: she is protecting her son from two systems she believes will harm him.
+
+**The decision model, applied.**
+
+*Risk:* is anyone at risk? Yes — the son, from the drug involvement and from the father's likely response. Is the
+risk imminent? Needs assessment, not assumption.
+
+*Bearing on the work:* complete. The therapy cannot proceed as though the therapist did not know.
+
+*Consequences of disclosure:* to the son, a beating if the father learns without preparation; to the mother, the loss
+of her only confidential ally; to the family, possibly a school exclusion.
+
+*Support to disclose:* the mother can be helped to tell the father in a session, with the therapist present, in a
+conversation that is prepared; the school conversation can be staged, with the mother and the son, focusing on
+support rather than sanction.
+
+*What the therapist will do if she does not:* stated in advance, and specific — an assessment of the son's safety
+with the mother's knowledge, a safeguarding consultation if the risk is confirmed, and a refusal to continue family
+sessions on a false basis.
+
+**The plan that follows.** A session with the mother and son to assess; a joint session with both parents in which the
+mother discloses with the therapist's support and the father's response is managed; a school meeting arranged with the
+mother and son and framed around support; a safety plan for the son's contact with the older boys; and a
+confidentiality addendum recording exactly what was agreed and what the therapist said she would do.
+
+**What makes this ethical rather than merely competent.** The therapist has not overridden the mother; she has
+refused to be complicit in a silence that puts the son at risk, and she has used her position to make the disclosures
+happen in the least harmful order. That combination — honesty about the limits of confidentiality, support for the
+person disclosing, and action in the interest of the person at risk — is the shape of ethical practice in family
+work.
+
+> **DEBATE** — The mother says: "If you tell his father, he will beat him, and that will be your fault." How do you
+> answer? Write the three sentences you would actually say, and defend them against a peer who argues that the
+> therapist should respect the mother's judgement.
+
+### 12.10 Key terms
+
+| Term | Definition |
+|---|---|
+| Confidentiality (multiperson) | The negotiated rules governing what is shared, what is individual and what cannot be kept |
+| Unkeepable information | Information that must be disclosed because of risk or law |
+| Risk screen | A routine set of questions asked of every new case |
+| Risk formulation | An account of who is at risk, of what, and what makes it more or less likely |
+| Duty to refer | The obligation to involve a more competent professional or service |
+| Dual relationship | A second relationship with a client or family member that may impair or exploit the clinical one |
+| Competence (professional) | Knowledge, skill, supervision and judgement sufficient for this presentation, family and setting |
+| Record access | The client's or family's right to see their clinical record |
+| Mandated work | Therapy required by a court or statutory body |
+| Whistleblowing | Raising a concern about unsafe practice within or outside an organisation |
+
+### 12.11 Self-test
+
+1. Give two ways in which circular thinking can be misused.
+2. What three sentences should introduce confidentiality in a first session?
+3. What are the three categories of information in family work?
+4. What is the difference between a risk screen and a risk assessment?
+5. What must a risk plan contain?
+6. What is the test for whether a dual relationship is acceptable?
+7. Name three things a clinical note should record, and one thing it should not.
+8. Name two limits of the systemic frame.
+
+**Answers.** 1. To soften a disclosure of harm ("so you both escalate"), and to avoid protecting the weaker party
+in the name of neutrality. 2. What is said together is shared; what is said alone will be brought into the open with
+support; confidentiality is limited by risk and law, and the family will be told before action is taken. 3. Shared,
+individual and unkeepable. 4. The screen is five routine questions asked of everyone; the assessment is the
+structured enquiry that follows a positive screen. 5. Who is at risk, of what, how imminent; what has been done; who
+has been informed; what the family has agreed; what the therapist will do and by when; next contact and review date.
+6. Whether the second relationship impairs or exploits the first — operationally, who benefits, what the family could
+not refuse, and what you would write if a complaint were made. 7. Record: the risk screen result, the intervention,
+the decisions and their reasons; do not record adjectives about people. 8. It cannot substitute for individual
+treatment where indicated, cannot adjudicate disputed facts, can silence the individual, and can become a totalising
+theory (any two).
+
+### 12.12 Reflective task
+
+Write your own confidentiality policy in the three sentences you would actually say aloud, then read it to a peer and
+ask them to describe, in their own words, what they understood. Most students discover that one of the three
+sentences is unclear, usually the second, and that the peer heard a promise the therapist had not intended to make.
+Revise, and bring the final version to the seminar.
+
+A second exercise, done in the same pairs: each student states, in one sentence, the circumstances in which they
+would break confidentiality without the family's agreement. The sentences are collected anonymously and read aloud.
+Almost every cohort produces the same two or three situations — a child at immediate risk, a serious threat to a
+partner, a disclosure of abuse by a person who is not in the room — and the exercise demonstrates that the ethical
+position does not depend on the individual therapist's temperament but on a small number of defensible limits that
+can be stated in advance and held under pressure.
+
+### 12.13 Readings for this week
+
+* **Your professional code of conduct and ethics**, read in full this week rather than consulted when needed.
+* **BACP, AFT or your national association's ethical framework**, with particular attention to the sections on
+  multiple clients, confidentiality and competence.
+* **Your jurisdiction's safeguarding guidance**, including the threshold for referral and the definition of harm.
+* **Bond (2015)**, *Standards and Ethics for Counselling in Action*, for the practical ethics of multiperson work.
+* **A published professional conduct case** or fitness-to-practise hearing, read for how the standards are applied
+  when things go wrong.
+* **Chapter 5 of MFT 704** in this library, on decision models, for the detailed treatment of the affair case.
+
+*Next: [Week 13 — Integration I: three lenses on one family](#week-13--integration-i-three-lenses-on-one-family)*
 
 ---
 
+### 12.3a Annotated transcript: setting the frame in ninety seconds
+
+The confidentiality statement is usually delivered badly: too long, too legalistic, or as a form to be signed. Here is
+the opening of a first session, with annotations.
+
+> **T1 Therapist:** Before we start, I want to tell you how I work with information, because we are three people in
+> this room and there is no single rule. Is that all right?
+> **T2 Mother:** Yes.
+> **T3 Therapist:** Anything said here, with all of us present, stays with all of us. That is the easy part.
+> **T4 Father:** And if she comes alone?
+> **T5 Therapist:** If one of you comes alone and tells me something, I will encourage you to tell the others, and I
+> will tell you in advance if I think I have to raise it myself. I will not carry a secret about your family and work
+> as though I did not know it.
+> **T6 Father:** What if it is not my business to tell her?
+> **T7 Therapist:** Then we talk about what to do with it, and you decide, unless it is about someone's safety. If a
+> child is being hurt, or someone is at risk of serious harm, I am not allowed to keep that, and I will tell you
+> before I do anything.
+> **T8 Mother:** And the school?
+> **T9 Therapist:** Nothing goes to the school without your agreement, except in the safety situation I have
+> described. If I write a letter, you will see it first.
+> **T10 Father:** (nods) That is fair.
+
+**Annotations.** *T1* names the structural fact — three people, no single rule — and asks permission. The permission
+is not merely courteous: it establishes that the frame is negotiated rather than imposed, which is the first
+demonstration of how the therapy will work.
+
+*T4* is the question the therapist wants, and it comes because she left a gap rather than filling it. Trainees tend
+to deliver all three categories in a monologue, which produces silence; a short statement followed by a pause
+produces the question that matters to the family.
+
+*T5* contains the crucial phrase: "I will not carry a secret about your family and work as though I did not know it."
+This is the sentence that prevents the commonest ethical trap, and it is more honest than the usual formula ("what
+you tell me alone stays alone"), which is a promise the therapist cannot keep.
+
+*T7* states the exception in plain language, with two examples, and adds the procedural guarantee: "I will tell you
+before I do anything." The guarantee is what converts a threat into a protection, and it is what families remember
+when something goes wrong.
+
+*T9* pre-empts the question every family with a school involvement will ask, and it makes a promise the therapist can
+keep. Note the specificity: "if I write a letter, you will see it first," not "your information is confidential."
+
+**What is missing, and should be added in the written policy.** The record: how it is kept, who can see it, how it
+is shared, and what happens if the family separates or if a member requests access. A ninety-second statement cannot
+contain everything, which is why the written page exists.
+
+### 12.4a Suicide risk in a family session
+
+The commonest serious-risk situation in family work is an adolescent's disclosure of suicidal thoughts, and the
+commonest failure is a therapist who does not ask because asking feels like introducing the idea.
+
+**The evidence on asking.** Asking directly about suicide does not increase risk; there is consistent evidence that
+screening and asking are safe and that they identify people who would otherwise be missed. The reluctance is the
+therapist's, not the family's.
+
+**What to do when an adolescent discloses, in order.**
+
+*One: thank them, and slow down.* "Thank you for telling me. That took courage. I want to ask you some careful
+questions, and then I want us to decide together what happens next."
+
+*Two: assess.* Thoughts, frequency, intent, plan, access to means, previous attempts, what has kept them safe so far,
+who knows, and what they would want their parents to know. Ask in plain language: "Have you thought about how you
+would do it?" is a legitimate clinical question.
+
+*Three: negotiate disclosure with the young person before speaking to the parents.* Not a veto — the parents must be
+told — but an agreement about how, when and by whom. "I have to tell your mother. Would you rather do it with me in
+the room, or would you rather I did it while you wait outside?"
+
+*Four: involve the parents as protectors, not as investigators.* The conversation with parents should give them three
+things: what has been disclosed, what the plan is, and what to do tonight. Parents who are frightened become
+intrusive; parents who are informed and given a task become protective.
+
+*Five: means restriction.* The single most effective intervention available to a family therapist is the reduction of
+access to means — medication, pesticides, a vehicle, a weapon. Ask: "What is in the house that could be used?" and
+make a specific plan.
+
+*Six: a written safety plan.* Warning signs, coping strategies, people to contact, professional contacts, and the
+means restriction agreed. Written with the young person, in their words, and copied to the parents with their
+agreement.
+
+*Seven: escalate if needed, and record.* Same-day psychiatric assessment where intent or plan is present; the
+family's general practitioner informed with consent; and the reasoning recorded, including what was decided and why.
+
+> **CAUTION** — Do not manage serious suicide risk in a family session as though the family's presence were a
+> substitute for a clinical risk assessment. The family is a resource, not a plan.
+
+### 12.5a Mandated families: the ethics of court-referred work
+
+A significant proportion of family therapy is mandated: by a court, a child protection plan, a probation order or a
+school's conditional enrolment. Mandated work has its own ethical architecture.
+
+**Who is the client?** The first question, and it must be answered explicitly and in writing. Where the referrer is a
+court or a local authority, there are three possible answers: the family is the client and the referrer receives
+reports (the usual arrangement); the referrer is the client and the family are participants in an assessment; or the
+therapist has a dual role that must be managed in the open. Each has different rules about confidentiality, and the
+family must be told which one applies before the first session.
+
+**Consent under mandate.** Consent is not absent because the family is required to attend; it is thinner and must be
+worked for. "You did not choose to be here. You can choose what you tell me, and how you use the sessions. I am
+obliged to report on attendance and on risk; I am not obliged to report everything you say, and I will tell you
+before I write anything."
+
+**Reporting.** Say what will be reported, to whom and when, in advance. A report that surprises the family is a
+breach even when it is lawful. Where the report will be read by a court, write it with the standards of 12.7 and give
+the family the opportunity to correct factual errors before it is filed.
+
+**Therapeutic work under mandate.** Mandated families can engage genuinely, particularly when the therapist is clear
+about the mandate, offers something the family actually wants, and does not pretend that attendance is voluntary.
+The failure mode is the therapist who either becomes an agent of the court (losing the family) or colludes with the
+family against the court (losing the mandate and the professional standing).
+
+**The ethical floor.** The therapist does not write a report that misrepresents the evidence, does not accept a
+referral whose purpose is to produce a predetermined conclusion, and does not conceal a conflict of interest. Where
+the instruction is to produce a particular finding, the professional response is to decline the instruction in
+writing.
+
+### 12.5b Three worked competence decisions
+
+**Case 1 — the psychotic adolescent.** A family is referred for "communication problems"; the sixteen-year-old son
+has become withdrawn, is not sleeping, and has begun to say that the neighbours are transmitting his thoughts.
+*Competence question:* is this family work? *Answer:* the presentation requires urgent psychiatric assessment, and
+family work is a component of the care that follows, not a substitute for it. *The professional move:* telephone the
+general practitioner and the local mental health service that day, with the family's knowledge; offer the family
+sessions alongside the assessment; and record the reasoning.
+
+**Case 2 — the live custody dispute.** Parents of two children, separated, each requesting therapy for the children
+and each asking the therapist to "note what the other one is like". *Competence question:* can a therapist hold a
+clinical role in a contested legal process? *Answer:* not without clarity. The professional move is to state, in
+writing, that the therapist's role is clinical, that no report will be provided for the proceedings without a
+separate instruction and the agreement of both parties, and that any letter will be sent to both parents. Where the
+court requires a report, it should be commissioned from an independent expert, not from the treating clinician, and
+the therapist should say so.
+
+**Case 3 — the family that wants a diagnosis for the father.** An adult family brings a 62-year-old father who has
+become irritable and forgetful; the family wants the therapist to "confirm it is stress". *Competence question:* is
+this a psychological presentation? *Answer:* the change in an older adult requires a medical assessment for
+neurological and other causes before any psychological formulation. *The professional move:* state plainly that a
+medical assessment is needed, help the family arrange it, and hold the family work until the results are known.
+
+### 12.6a Five dual-relationship scenarios, decided
+
+The test from 12.6 applied, with reasoning shown, so that students can see how a decision is made rather than only
+what it is.
+
+**Scenario A — the family who attend your church.** *Facts:* you will see them weekly in a setting where you are a
+member rather than a therapist. *Risks:* the family may feel unable to speak about matters that would become known in
+the congregation; the therapist's own standing may be affected. *Decision:* usually workable, with three conditions —
+an explicit conversation about what will be said in public, an agreement that you will not acknowledge the therapy
+at church unless they do, and a review after four sessions. *If the family is prominent in the congregation, or the
+presentation involves matters the community would find scandalous:* refer.
+
+**Scenario B — your cousin's neighbour, in a small town.** *Facts:* information travels; you may be seen as connected
+to the family's affairs. *Risks:* the family may censor what they say; you may hear accounts of yourself through the
+network. *Decision:* ask the family directly whether they know you, and record the answer. If the connection is
+genuine and acknowledged, work with a stricter boundary than usual. If the family did not know and would have chosen
+otherwise, offer an alternative.
+
+**Scenario C — a former client's sister, referred for couple work.** *Facts:* you hold confidential information about
+the sister's family of origin. *Risks:* inadvertent disclosure; the former client may feel betrayed; the sister may
+ask you questions you cannot answer. *Decision:* usually workable, provided you (a) obtain the former client's
+permission where they are identifiable and the information is relevant, (b) tell the new clients what you cannot
+discuss, and (c) record the arrangement.
+
+**Scenario D — you gave advice informally at a family gathering.** *Facts:* a clinical relationship is being proposed
+after an informal one. *Risks:* the family will treat you as an adviser with a prior view; their account will be
+shaped by what you already said; you have already formed a view without a proper assessment. *Decision:* decline, and
+explain why in one sentence. Offer a referral to a colleague; the family will usually accept.
+
+**Scenario E — an invitation to speak at the family's church, or to invest in the family's business.** *Facts:* the
+relationship is being converted from clinical to public or commercial. *Risks:* the family may feel unable to refuse;
+the therapeutic relationship is contaminated by an audience or a financial interest. *Decision:* decline both while
+the therapy is live. After discharge, the public invitation may be acceptable if the family initiates it, if no
+clinical material is used, and if the offer is recorded; the commercial invitation is never acceptable.
+
+**The general rule.** The question is never "is this comfortable for me?" but "would this family be able to refuse,
+and would they be able to speak freely afterwards?" Where the answer to either is no, the boundary is in the wrong
+place.
+
+### 12.7a A note that survives scrutiny
+
+The same session, written twice.
+
+**The bad note.**
+
+> "Seen mother and J (14). Mother very hostile and manipulative, clearly enmeshed with J. J sullen, probably
+> depressed. Father not present, as usual. Discussed boundaries. Mother became tearful and blamed everyone. Will
+> review. Risk — none apparent."
+
+**What is wrong with it.** Four adjectives about a person ("hostile", "manipulative", "enmeshed", "sullen"); a
+diagnosis made in passing ("probably depressed"); a judgement about an absent person ("as usual"); an intervention
+described in a word that means nothing without context ("discussed boundaries"); no record of what was actually done
+or agreed; a risk conclusion without a screen; and a tone that the mother would experience as an attack if she ever
+read it.
+
+**The good note.**
+
+> "Session 3, 14 October, 60 minutes. Present: mother, J (14). Father absent — mother reports he is working away and
+> has been informed of the appointment by text.
+>
+> Presenting: mother reports two arguments this week, both about J's telephone. J reports that mother 'checks
+> everything'.
+>
+> Risk screen: mother and J both denied thoughts of self-harm or suicide. No disclosure of physical harm in the
+> household. J said 'it is not that bad'. No safeguarding concern identified today; screen to be repeated at review.
+>
+> Work: I asked each of them to describe the last argument in sequence. The sequence each described was: J takes the
+> telephone to her room; mother asks for it; J refuses; mother takes it; J shouts; mother leaves the room; both
+> silent for the evening. Both agreed this was accurate.
+>
+> Intervention: I offered the reframe that both of them are trying to keep the peace, in different ways, and that the
+> telephone has become the place where the argument happens. Mother said 'I am not trying to control her'. I did not
+> argue; I asked what she would want instead. She said she would want J to tell her who she is talking to. J said she
+> would tell her if she did not 'make it a police matter'.
+>
+> Agreed task: J to tell mother who she is messaging, once a day, unprompted; mother to ask once and not to take the
+> telephone for one week. Both agreed to try; J said 'I will try'.
+>
+> Plan: session 4 next week, father invited by telephone call from me with mother's agreement. Risk screen repeated.
+> Supervision: discussed the father's absence and my own irritation with the mother.
+>
+> Signed, time, date."
+
+**Why the second note is defensible.** It records fact and quotation; it records the risk screen and the reasoning;
+it records the intervention precisely; it records what was agreed by whom; it records the plan and the supervisory
+discussion; and it contains not one adjective about a person. It is also more useful: a colleague taking over
+tomorrow could continue the work from it.
+
+### 12.8a Referring well: the handover
+
+A referral is a clinical intervention, not an administrative act. Four components.
+
+**One: the conversation before the letter.** Tell the family what you are recommending, why, and what will happen.
+Families who are referred without explanation experience it as rejection, and a proportion of them do not attend.
+
+**Two: a letter that would help a colleague.** The reason for referral; what has been assessed; the formulation in
+three sentences; what has been tried; the risk status and the safety plan; what the family wants; and what you have
+told them. Two sides of A4 at most.
+
+**Three: the warm handover where possible.** A joint meeting, or a telephone call with the receiving clinician
+present, raises attendance substantially. Time-consuming and worth it.
+
+**Four: the boundary of your continuing role.** Say what you will do next: remain available for consultation, hold
+the family's file, close the case. Ambiguity here is the commonest cause of families falling between services.
+
+> **PRACTICAL** — Write a referral letter for the Adeyemi family to an adult mental health service for the mother.
+> Then have a peer read it as if they were the receiving clinician and say what they would still need to know.
+
+### 12.10a When a complaint is made
+
+Complaints are inevitable in a professional career and are survivable. Five principles.
+
+**Respond promptly and personally.** A telephone call within 48 hours prevents most escalations. The complaint is
+usually about being unheard, and hearing it is half the remedy.
+
+**Separate the complaint from your self-image.** Being complained about does not make you incompetent, and dismissing
+the complaint does not make you competent. Read it twice before responding.
+
+**Record everything, factually.** What was said, when, to whom, and what you did. Do not amend the clinical record in
+a way that could look like retrospective justification; add a dated addendum instead.
+
+**Use the formal process, and get support.** Tell your supervisor and your indemnity organisation. Do not handle a
+serious complaint alone, and do not discuss it with colleagues who are not part of the process.
+
+**Learn, and say what you learned.** Where the complaint is justified, an apology and a specific change are worth more
+than a defence. Where it is not, a clear, kind explanation is worth more than silence.
+
+**The systemic point.** Most complaints in family work arise from the multiperson structure: one member feels the
+therapist sided with another, or feels that information was shared wrongly. The confidentiality policy of 12.3 and
+the record discipline of 12.7 are, in practice, the best complaint prevention available.
 ## Week 13 — Integration I: three lenses on one family
 
 This week is a rehearsal for MFT 702. You will apply three models to the same case and notice that each
