@@ -4336,8 +4336,7 @@ artefact you can bring to the seminar, and it will serve you again in the viva, 
 
 ## Week 7 — Experiential and human validation models
 
-**The question.** *What would happen if this family could feel and say the truth to each other, right
-now?*
+**The question.** *What would happen if this family could feel and say the truth to each other, right now?*
 
 **Key figures.** Virginia Satir (family sculpture, communication stances, self-worth, "the five freedoms");
 Carl Whitaker (symbolic-experiential therapy, absurdity, the therapist's use of self); Kempler and the
@@ -4358,10 +4357,692 @@ of its insights survive inside EFT and other emotion-focused models.
 **Blind spots.** Dependent on the charisma and health of the therapist; thin manualisation; risk of
 emotional flooding without containment.
 
-> **CASE** — In a family session, the father has not cried in 20 years. Whitaker-influenced response:
-> the therapist does not push the tears, but stays with the father's jaw and breathing, wondering aloud
-> about what it costs to hold it. When the father finally speaks, the therapist keeps the room still long
-> enough for others to respond. The intervention is *pace*, not technique.
+![Figure 7.1 — Satir's five stances: four ways of managing the threat of another person's response, and the one the therapy aims at](../assets/figures/fig41-satir-stances.svg)
+
+### 7.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | From Milan to the living room | Where the model came from, and why it distrusted technique | Name the difference from Week 6 |
+| 10–25 | Satir: self-worth and the stances | The five stances, demonstrated with three chairs | Identify each stance in a recorded clip |
+| 25–40 | Whitaker: the therapist as instrument | Absurdity, the use of self, the risk of charisma | Write one sentence on their own therapeutic presence |
+| 40–55 | Sculpture | A volunteer family, sculpted twice | Sketch the sculpture and what changed |
+| 55–70 | Here-and-now enactment | The grammar of the invitation, four moves | Practise the invitation in pairs |
+| 70–80 | Flooding and containment | When feeling overwhelms the room | Design a containment move |
+| 80–90 | Critique and matrix row | The model's evidential and ethical position | Fill the row |
+
+**The teaching idea that carries the week.** This is the first model in the course that cannot be taught by
+explaining it. Every other model so far could be conveyed in a lecture and practised afterwards; this one
+must be *seen* — in a recording, in a live demonstration, or in the lecturer's own way of being in the room.
+A lecturer who explains experiential therapy in a flat voice has taught the opposite of the model.
+
+**What the lecture must therefore do.** Demonstrate. Sit in a chair and show a blaming stance, then a
+placating one, then a congruent one, and let the class feel the difference in their bodies before any
+theory is offered. The theory lands afterwards, when the experience has given it something to attach to.
+
+### 7.1a Whitaker's absurdity, demonstrated three ways
+
+The model's most misunderstood technique, because it sounds like licence to be strange. Three demonstrations
+that a lecturer can perform in five minutes each, with the principle behind each one.
+
+**Demonstration one — the exaggerated agreement.** A student complains that their flatmate never washes up.
+The lecturer replies, with genuine interest: "you are right, and I think it is worse than you say. I think the
+flatmate is running a campaign, and the campaign is working." The student laughs, and then says what the
+flatmate might actually be doing. *The principle:* absurdity disrupts the problem-saturated account without
+contradicting it, and the disruption produces new information.
+
+**Demonstration two — the deliberate wrong question.** To the same complaint, the lecturer asks: "when the
+flatmate does wash up, what do you do that rewards it?" The question is logically odd — nobody is trained by
+a flatmate's dishwashing — and it makes the student think about their own part in the pattern. *The
+principle:* a question that is slightly off-centre is harder to answer with a rehearsed complaint.
+
+**Demonstration three — the therapist's own absurdity.** The lecturer says, of their own reaction: "I notice I
+am oddly invested in this. I think I want the flatmate to be the villain." The room relaxes. *The principle:*
+the therapist's willingness to be a person, including a faintly ridiculous one, lowers the family's need to
+defend themselves.
+
+**The rule that separates absurdity from harm.** Whitaker's play is always warm, always in the service of
+contact, and never aimed at a person's dignity. An absurdity that makes the family laugh *with* each other is
+the model; an absurdity that makes them laugh *at* someone is bullying with a theoretical justification.
+
+### 7.2 Core concepts
+
+**Growth rather than pathology.** The model's premise is that families are not broken but blocked: the
+capacity for growth, intimacy and honesty is present and has been suppressed by fear, habit and the
+requirements of survival. The therapist's task is not to repair a defect but to create the conditions in
+which the family's own capacity can appear. This is a strong claim, and it has a clinical consequence: the
+therapist asks less "what is wrong here?" and more "what is being prevented from happening, and by what?"
+
+**The present moment as the site of change.** Every model in this course works with the present to some
+degree; this one makes the present the *only* site of change. The past explains; the present alters. When a
+wife describes last Tuesday's argument, the experiential therapist is interested in what happens in her
+body as she describes it, and in what happens between her and her husband while she is describing it. The
+question "what is happening right now?" is not a technique among others; it is the model's epistemology.
+
+**Self-worth as the organising variable.** Satir's central construct. A person with low self-worth cannot
+say what is true without fearing the loss of the relationship, and so develops a stance that protects the
+relationship at the expense of the truth. The stances are therefore not personality types but survival
+strategies, and the therapy aims at a self-worth sturdy enough to bear congruence.
+
+**The five stances.** *Placating*: "whatever you want, I am nothing without you." *Blaming*: "it is your
+fault, you are the problem." *Super-reasonable*: "let us be logical, feelings are irrelevant."
+*Irrelevant*: the deflection into humour, distraction or another topic. *Congruent*: the person's words,
+feelings and body agree, and the person speaks for themselves rather than about someone else. The four
+incongruent stances share one function: they avoid the risk of a direct statement.
+
+**The therapist's aliveness as an instrument.** Whitaker's contribution and the model's most contested
+feature. The therapist's own spontaneity, boredom, warmth, irritation and playfulness are not noise to be
+filtered out but information and intervention. A therapist who is present as a person offers the family an
+experience that no technique can produce: an adult who is neither pretending nor withdrawing. The hazard
+follows immediately: the model's effectiveness depends on the health of the therapist's own person, and a
+charismatic therapist can produce impressive sessions and dependent families.
+
+**Symbolic-experiential therapy.** Whitaker's term for a therapy that works at the level of symbol and
+experience rather than instruction. The therapist joins the family's absurdity, names the unspeakable
+lightly, and uses the session itself as the event. "The therapy is not a conversation about the family's
+life; the therapy is a piece of the family's life."
+
+**Human validation.** The model's ethical core: the family's experience is accepted as valid before it is
+changed. This is not agreement with every account; it is the refusal to begin by correcting. The stance is
+closer to Milan neutrality than it first appears, with the difference that the experiential therapist shows
+their own reaction rather than concealing it behind curiosity.
+
+**Enactment.** Bringing the relationship into the room and letting it happen in front of the therapist:
+"tell him now", "show me with your hands", "say that again looking at her". Enactment is the model's bridge
+between feeling and structure — a concept the structural school (Week 4) also uses, with a different
+purpose: there, to change boundaries; here, to make contact.
+
+**Family sculpture.** Satir's signature: the family arranges itself physically into a tableau that
+represents the emotional map, and then rearranges it. The sculpture externalises what cannot be said, it
+makes the family's structure visible to the family, and — crucially — the body remembers what the mind
+edits.
+
+**The five freedoms.** Satir's statement of the model's values: the freedom to see and hear what is here
+rather than what should be; to say what one feels and thinks rather than what one should; to feel what one
+feels rather than what one should; to ask for what one wants rather than waiting for permission; and to
+risk in the direction of one's own growth rather than choosing safety.
+
+### 7.2a Two Satir maps, learned by drawing them
+
+The model's concepts are easier to hold if they are drawn. Two maps, both of which a trainee can reproduce
+from memory, and both of which are useful in a live session.
+
+**Map one — the self-worth iceberg.** Draw a small triangle above a waterline: at the tip, "behaviour" (what
+the family sees); below the line, in descending order, "coping stance", "feelings", "feelings about
+feelings", "perceptions and expectations", and at the base "self-worth". The map makes a single point
+visually: every argument the family brings is the visible tip of a structure of which self-worth is the
+floor. The clinical use is a question: "when your wife criticises you, what happens below your behaviour?"
+Most clients can answer it, and the answer is a feeling about a feeling.
+
+**Map two — the temperature reading.** Satir's structured check-in, drawn as five small boxes: appreciations,
+new information, puzzles, complaints with recommendations, and hopes and wishes. The drawing is a session
+plan; the sequence is deliberate, moving from the easiest material (appreciation) to the riskiest (wishes),
+so that the family's capacity to speak is built before it is tested. A trainee who runs a temperature
+reading in a family session has performed the model's core move in twelve minutes, and can then reflect on
+what happened when the sequence reached "complaints".
+
+**Why drawing matters for this model in particular.** Experiential therapy is often taught as a set of
+feelings, which makes it hard to revise. Both maps convert the feelings into a structure with parts, and a
+structure can be taught, practised, marked and criticised. Draw them by hand during the lecture, not from a
+slide: the awkwardness of the drawing is itself a demonstration of the model's attitude to technique.
+
+**The exercise.** In pairs, draw the iceberg from memory in ninety seconds, then explain it to the partner
+without using the words "self-esteem", "confidence" or "trauma". The prohibition forces the explanation back
+to the model's own vocabulary — behaviour, stance, feeling, expectation — and the vocabulary is what the
+examination will test.
+
+### 7.3 The therapy: warmth, pace and the person of the therapist
+
+Experiential therapy is the least procedural model in the course. Its method is a set of attitudes enacted in
+the room, and its most important variable is the therapist's own state.
+
+**The stance, in five commitments.**
+
+1. *Contact before content.* The session begins with each person being seen: "before we start, I want to know
+   how each of you is, today, in one sentence." The greeting is not a formality; it establishes the model's
+   premise that people are met before problems are solved.
+2. *The present tense.* Descriptions of the past are received, and then the work moves to now: "what happens
+   in your body as you say that?" "Say it to him rather than about him."
+3. *The therapist's own response, offered sparingly.* "I noticed I felt heavy as you were speaking." The
+   disclosure is an instrument, not a confession: it must be brief, about the relation, and in the service of
+   the family's work.
+4. *Pace.* Whitaker's most-quoted contribution: the therapist slows down, waits, and does not fill the silence.
+   The case in the week's stub — the father who has not cried in twenty years — is resolved by pace, not by
+   technique.
+5. *Play and absurdity.* Humour is permitted, and often necessary. A family that can laugh together in the
+   session has already had an experience of connection that the therapy can build on.
+
+**What the therapist is doing technically, while appearing not to work.** Tracking the level of arousal in the
+room; noticing which member's body has changed; choosing the moment to invite a statement; holding the frame
+so that the feeling is contained; and ending each session with the family settled rather than raw. The model
+looks spontaneous and is in fact highly disciplined.
+
+**The two hands metaphor.** A useful image for trainees: one hand holds the feeling (warmth, contact,
+permission), the other holds the frame (time, safety, containment, ending). Therapists trained in
+technique-heavy models tend to use only the second hand; therapists drawn to this model tend to use only the
+first. Competence is the simultaneous use of both.
+
+**The dependency hazard, stated plainly.** Because the instrument is the therapist's person, the therapy can
+become a relationship the family cannot leave, and the therapist can begin to need the family's response.
+Signs: sessions that run long by twenty minutes; the therapist's disappointment when a family cancels; the
+sense that the therapy is the therapist's growth project. The safeguards are supervision that examines the
+therapist's own material, a caseload that includes non-experiential work, and a written formulation that can
+be examined by someone else.
+
+### 7.3a Where the therapist's own history enters the room
+
+The model requires the therapist to be a person. That requirement has a training consequence that the
+literature discusses less often than it should: the practitioner's own emotional history will shape what they
+notice, invite and avoid.
+
+**The three patterns most often seen in training.**
+
+*The rescuer.* A therapist whose own family required them to manage a parent's distress will move quickly
+toward comforting, will interrupt expressions of anger, and will produce sessions that feel warm and change
+nothing. The family leaves soothed and returns with the same problem.
+
+*The distancer.* A therapist who grew up in a family where feeling was dangerous will keep the session
+intellectual, will ask about patterns instead of inviting contact, and will describe their work as
+"systemic" in a way that conceals avoidance. Milan training (Week 6) is a comfortable home for this pattern.
+
+*The performer.* A therapist who was rewarded for being interesting will produce sessions that are memorable
+for the therapist's interventions and not for the family's change. The families most at risk are those with
+least power to resist, and the therapist's caseload will show families who return, admire the therapist, and
+do not improve.
+
+**The discipline that catches each one.** Record sessions and review them with a supervisor who is asked a
+specific question: "what did I avoid in that session?"; keep an outcome measure so that warmth is not
+mistaken for effectiveness; and, once a term, ask two families directly what they experienced as unhelpful.
+
+**A written exercise for the trainee.** Write half a page on the feeling you find hardest to sit with in a
+session — anger, tears, silence, neediness, sexual material, boredom — and one sentence on where you learned
+to find it hard. Bring it to supervision. This is not therapy, and it should not become therapy; it is the
+minimum professional maintenance that a model with this premise requires of its practitioners.
+
+### 7.4 Techniques, with the grammar of each
+
+**Family sculpture.** Ask the family to arrange themselves physically to represent how things are: who stands
+near whom, who turns away, who is lifted up, who is left at the edge. Then ask each member, in turn, how it
+feels to be in that position. Then ask the sculptor to change one thing — usually one thing only — and let
+the family stand in the new arrangement long enough to feel it. Finally, ask what the new arrangement would
+require of each person in ordinary life.
+
+*The grammar:* sculpt; feel; alter one element; feel again; translate into a sentence about daily life. The
+technique fails when the therapist sculpts for the family, or moves too fast through the last step.
+
+**Communication stances.** Name the stance being used, ask the person to try its alternative, and let the
+room feel the difference. "When your wife says 'whatever you want', what happens to you?" — asked of the
+husband — makes the placating visible. Then: "can you say what you actually want, in one sentence, looking at
+her?" The invitation is always small and behavioural. A trainee can rehearse the whole technique in one sentence: name the stance without blaming it, ask the other person what it does to them, and then offer one small alternative and wait.
+
+**Here-and-now enactment.** Four moves: *notice* ("I see your jaw tighten when she says that"); *invite*
+("can you say that to her, rather than about her?"); *hold* ("stay with it a moment"); *harvest* ("what
+happened in the room just then?"). The harvest is the part trainees skip, and it is the part that turns an
+emotional moment into learning.
+
+**The temperature reading.** The structured check-in described in 7.2a: appreciations, new information,
+puzzles, complaints with recommendations, hopes and wishes. Useful at the start of a session, at the start of
+a group, and as a whole session in a family that has stopped speaking.
+
+**Parts party.** A Satir technique for internal conflict: the person names the parts of themselves in tension
+("the part that wants to leave", "the part that cannot"), gives each a voice in the room, and lets the
+family hear the internal argument. Used carefully, it converts a person's self-attack into something the
+family can witness with compassion.
+
+**Family reconstruction.** Satir's longer method for working with a parent's family of origin, using guided
+enactment of three generations. It belongs to intensive workshops rather than weekly clinic work and is
+included here because it explains the model's theory of transmission: the parent's unmet needs are the
+material the child is asked to manage.
+
+**The aesthetic use of the room.** Chairs, distance, height, standing and sitting — the model treats the
+physical arrangement as data and as intervention. A therapist who moves a chair has made an intervention;
+the model knows this and uses it deliberately.
+
+### 7.4a A sculpture, drawn and then read
+
+Sculpture is the technique trainees find hardest to describe in writing, so this section gives a worked
+example with a diagram in words and a reading of it.
+
+**The family.** The Ogundipe family (mother 44, father 47, daughter 16 withdrawn for six months, son 12).
+
+**The first sculpture, as the daughter arranges it.** The daughter places herself in a corner, facing the
+wall. She places her mother two steps behind her, facing her back. She places her father at the far side of
+the room, near the door, facing the room. She places her brother beside the father. The therapist asks each
+person to hold the position for thirty seconds without speaking.
+
+**The reading, in the family's own words.** Mother: "I am looking at her back and I cannot reach her."
+Father: "I am by the door because somebody has to be able to leave." Son: "I am with my father because it is
+quieter there." Daughter: "I am against the wall because then nobody is behind me."
+
+**What the sculpture made visible that three sessions of talk had not.** The father's position by the door is
+not indifference, which is how the mother had described it, but an exit strategy that he had never named;
+the mother's position is pursuit, which she had named as care; and the daughter's wall is a defence against
+being approached from behind, which relates to an incident the family had not mentioned.
+
+**The alteration.** The therapist asks the daughter to change one thing. She moves her mother from behind her
+to beside her, still facing the wall, and says "this is better, but I still want the wall." The therapist
+asks her to stay there for a minute.
+
+**The second reading.** Mother: "I can breathe." Daughter: "It is not so tight." Father, unprompted: "I would
+come closer if I thought there was room." The therapist writes that sentence down and reads it back at the
+next session as the family's own formulation of the change.
+
+**The translation step.** "What would have to happen at home for your mother to be beside you rather than
+behind you?" The daughter's answer — "she would have to knock" — is the therapy's first behavioural task and
+it came from the family, not the therapist.
+
+**The drawing task for the seminar.** Draw the two sculptures as simple floor plans on one page: circles for
+people, arrows for facing, distances to scale. Bring the drawing, not a description. The exercise teaches the
+technique's key skill, which is spatial observation, and it produces a record that a supervisor can read in
+ten seconds. Draw the second sculpture on a tracing sheet over the first, so that the change appears as a
+movement on the page rather than as a claim in a report: two circles that were apart are now adjacent, one
+arrow has reversed, and one person has been given a chair. That single sheet will do more for a case
+discussion than three pages of prose, and it is the record the family will ask to keep.
+
+### 7.5 The first session: contact, safety and the first invitation
+
+An experiential first session has a different shape from the structured first sessions of Weeks 4–6.
+
+**Phase one, the meeting (ten minutes).** Everyone is greeted by name and asked one question that is not about
+the problem: what they did today, how school was, what they would be doing if they were not here. The purpose
+is twofold: the therapist learns how each person occupies a room, and the family learns that this therapy
+begins with people rather than with the problem.
+
+**Phase two, the account (ten minutes).** Each member is asked, in turn, what they would want the therapist to
+know, and each is asked to say it without being interrupted. The therapist tracks the body: who leans
+forward, who looks at whom, who speaks for whom. The tracking notes are the material for the invitation that
+follows.
+
+**Phase three, the first invitation (fifteen minutes).** One observation, offered tentatively, becomes an
+invitation to make contact. "I noticed that when your wife described the last argument, you looked at the
+floor and your jaw moved. I wondered whether there was something you wanted to say to her that did not get
+said." If the invitation is declined, it is accepted gracefully, and the session continues. The model's
+principle: an invitation is offered, never extracted.
+
+**Phase four, the harvest (ten minutes).** "What happened in the room in the last ten minutes?" Each member
+answers. The therapist does not interpret the answers; the family's own description of the moment is the
+session's most valuable product.
+
+**Phase five, the frame (ten minutes).** What the therapy will be, how often, and what each person can expect;
+one small piece of contact to practise at home, chosen by the family rather than prescribed; and a clear
+ending. The model's homework tends to be relational rather than behavioural: "one conversation this week in
+which nobody is interrupted for three minutes", rather than a chart.
+
+**What the therapist does not do in session one.** Does not take a full history; does not construct a
+genogram; does not explain the model; does not attempt a sculpture in the first meeting unless the family
+invites it; and does not press for tears. The first session's task is to establish that feeling can be
+spoken in this room without anyone being harmed by it.
+
+**The diagnostic question the therapist is asking silently.** Can this family tolerate contact? Some families
+cannot, yet, and a therapist who begins with enactment in such a family will lose them. The test is small:
+offer one sentence of feeling and watch the response. If the response is deflection, the therapy begins with
+the deflection — which is itself the material.
+
+### 7.5a A first-session opening, scripted in eleven sentences
+
+What the model sounds like before any technique appears. Read aloud in pairs; the sentences are short because
+the model's openings are.
+
+"Thank you for coming, all of you. Before we talk about why you are here, I would like to know each of you a
+little. Tunde, what did your day look like before you came? Funke? Amara? Segun? Good. Now I would like each
+of you to tell me one thing you would want me to know, and I would like the others to listen without
+correcting. Amara, would you start? Thank you. What I noticed while you were speaking was that your mother
+looked at you the whole time and your father looked at the floor. I am not going to make anything of that yet.
+I want to ask one question: what would each of you want to be different in this house in six months? Good.
+Then let us begin there, and I will go slowly."
+
+### 7.6 Case: the Adeyemis and the unsaid sentence
+
+The week's case, developed across four sessions, with the model's decisions marked.
+
+**The presentation.** Amara Adeyemi (14) has refused school for five weeks. Her mother, Funke (41), has taken
+leave from work. Her father, Tunde (46), is in Lagos on a contract and attends by telephone. Her brother,
+Segun (11), is present and silent.
+
+**Session one.** The therapist greets everyone, including Segun, and asks each person what they did this
+morning. Segun says "nothing"; his mother answers for him. The therapist notes it and does not comment. In
+the account phase, Funke describes the school refusal in detail; Tunde, on speaker, says the problem is
+"laziness" and that his wife is "too soft". Amara says nothing at all. The therapist's first invitation is to
+Segun, not to Amara: "Segun, when your mother and father talk about this, what happens in the house?"
+Segun says: "Mummy cries in the kitchen and Daddy's phone goes quiet." The sentence reorganises the session,
+and the therapist's harvest question is simply "did everyone hear that?"
+
+**The model's decision.** The first invitation went to the quietest member, because the model's premise is
+that the family's truth is distributed and the therapist's task is to make it speakable. The choice was not
+neutral: it privileged the child's observation over the parents' explanation.
+
+**Session two.** The therapist begins with the temperature reading: appreciations first. Tunde's
+appreciation of his wife — "she has carried this alone" — is the first warm sentence he has said in the
+family's hearing. Funke cries. The therapist slows down, does not speak for forty seconds, and then asks
+Funke what she would want to say to her husband if the phone were not between them.
+
+**The enactment.** Funke: "I want to say that I am angry with you, and I do not know how to say it because
+you are doing the job for us." Tunde: silence, then, "I did not know." The therapist asks him to say it again
+to his wife rather than to the room, and he does. The harvest: Amara says "that is the first time I have heard
+you two talk without shouting".
+
+**Session three.** The sculpture. Amara places her mother beside her, her father at the door of the room,
+Segun behind the father, and herself facing a window. In the reading, Tunde says "I am at the door because I
+am always about to leave". Funke says "I am beside her because if I am not, she disappears". Amara says "I am
+looking out of the window because that is where I want to be". The therapist asks Amara to change one thing;
+she moves her father from the door to a chair near the window, and says "he can sit there when he is home".
+
+**Session four.** The translation: what would have to happen at home for the sentence "I am angry with you
+and I am saying it" to be possible? The family's answer is a weekly twenty-minute conversation on Sunday
+evenings, no phones, on the balcony, with the children free to join. The therapist resists improving the plan.
+Amara returns to school in week seven of the therapy. The family continues for four more sessions.
+
+**What the case teaches.** That the model's interventions are small and precisely timed; that the therapist's
+main tool was pace, not technique; that a child's sentence can carry more information than two adults'
+accounts; and that a plan owned by the family is more likely to survive than a plan designed by the
+therapist.
+
+### 7.6a The same family, with the therapy done badly
+
+A second version, for contrast, with the errors marked in the margin.
+
+**Session one, badly.** The therapist takes a forty-minute history of the school refusal, asks the parents to
+describe the family of origin, and concludes with a formulation: "Amara's symptom is a way of keeping the
+family together while her father is away." Amara is not asked a question. Segun is not addressed. Tunde, on
+speaker, is asked to "reflect on his absence".
+
+*Errors.* The history before contact; the formulation delivered rather than co-constructed; the child
+described rather than asked; the father shamed, which in a family already organised around shame guarantees
+defensive withdrawal; and a systemic hypothesis offered without a single circular question.
+
+**Session two, badly.** The therapist attempts a sculpture in the second meeting, directing the arrangement
+herself. Amara refuses to move, and the therapist interprets the refusal as resistance: "you are showing us
+how hard it is to let anyone near you." Amara stops speaking for the rest of the session.
+
+*Errors.* The technique before the relationship; the therapist sculpting for the family; the interpretation of
+refusal as pathology rather than as information about the pace; and the absence of a harvest question in
+which the family could have told the therapist what the moment was like.
+
+**Session three, badly.** The therapist asks Tunde, on speaker, "when did you last cry?" Tunde says nothing
+for a long time and then ends the call. Funke apologises. The therapist explains the importance of emotional
+expression and the family does not return.
+
+*Errors.* The demand for feeling without contact or safety; the question asked in front of the children and
+down a telephone line; the lecture after the withdrawal; and no repair attempt.
+
+**The lesson in one sentence.** In this model, the therapist's timing is the technique, and a correct
+intervention at the wrong moment is an error of the same magnitude as a wrong intervention.
+
+### 7.7 Annotated transcript: one enactment, minute by minute
+
+Sixteen turns from session two of the Adeyemi case. The transcript is short because the model's work is slow.
+
+> **T1 Therapist:** Before we start — Funke, you said on the phone that this has been a hard week.
+
+> **T2 Funke:** Segun was ill, and Tunde could not come, and Amara would not come out of her room.
+
+> **T3 Therapist:** (pause) When you say "Tunde could not come" — what happens in your body as you say it?
+
+> **T4 Funke:** I get tight. Here. (touches chest)
+
+> **T5 Therapist:** Stay with that for a moment. What is the tightness?
+
+> **T6 Funke:** It is anger. I am angry.
+
+> **T7 Therapist:** And where does the anger go when it is tight like that?
+
+> **T8 Funke:** Nowhere. It goes into the cooking.
+
+> **T9 Therapist:** (to Tunde, on speaker) Tunde, did you hear what your wife just said?
+
+> **T10 Tunde:** I heard.
+
+> **T11 Therapist:** She said the anger goes into the cooking. What is it like for you to hear that?
+
+> **T12 Tunde:** (long pause) I do not know what to do with it.
+
+> **T13 Therapist:** I am not asking you to do anything with it yet. I am asking whether you can say
+> something to her about hearing it.
+
+> **T14 Tunde:** (pause) Funke. I am sorry that you are carrying it alone.
+
+> **T15 Therapist:** (to the room, quietly) Let us stay here for a moment. Nobody needs to say anything.
+
+> **T16 Therapist:** Funke, what happened when he said that?
+
+**Annotations.** *T1* is contact: one member is asked about their week before the problem is discussed, and the
+choice of member is deliberate — the mother is the family's manager and has not been met as a person.
+
+*T3* is the model's central intervention: the move from narrative to the body. The question does not ask what
+she felt then; it asks what happens in her body now, as she says it. *T4* is the answer the model is looking
+for — a sensation rather than a theory.
+
+*T5–T6* is the discipline of staying with a sensation rather than moving to its explanation. The therapist
+does not say "so you feel angry", which would close the exploration; she asks what the tightness is, and the
+client names it herself.
+
+*T8* is the session's most valuable sentence, and it was not planned. "It goes into the cooking" is a precise
+description of a family process — anger converted into service — in the client's own idiom, and the therapist
+immediately makes it public within the family (*T9*), which is a Milan move (Week 6) deployed inside an
+experiential session.
+
+*T11–T13* is the enactment's grammar: notice, invite, hold. The therapist declines to make the husband
+responsible for the emotion (*T13*), which lowers the threat enough for him to speak (*T14*). The apology is
+short, awkward and effective, in the way that genuine contact usually is.
+
+*T15* is pace: the therapist protects the moment from being filled. Forty seconds of silence in a family
+session feels like five minutes to a trainee, and that discomfort is precisely the thing to be trained out.
+
+*T16* is the harvest: the moment is converted into something the family can describe, and the description is
+what they will remember.
+
+**What the trainee should notice.** The transcript contains no interpretation, one piece of information about
+the therapist's inner state (none at all, in fact), and four questions that are about the present. The
+technique here is almost entirely restraint, and restraint is the hardest thing in this book to teach.
+
+### 7.8 Laboratory: the four-move enactment
+
+Sixty minutes, triads, one technique drilled until it is automatic.
+
+**Setup.** A peer plays a family member describing a recent grievance; a second peer observes; the therapist
+practises the four moves — notice, invite, hold, harvest — with a different content each round. Three rounds
+of eight minutes, then rotate.
+
+**The observation sheet.** For each round the observer records: the noticing sentence (verbatim); the
+invitation (verbatim, and whether it was an invitation or a demand); how long the therapist held silence
+(seconds, counted); and the harvest question.
+
+**The three rules of the drill.** The noticing must refer to something observable — breath, jaw, hands, gaze,
+posture — and not to a feeling the therapist has inferred. The invitation must be answerable with no. The
+silence must be at least ten seconds, timed.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Noticing | 25% | Concrete, behavioural, offered tentatively and not as diagnosis |
+| Invitation | 25% | Small, answerable, about contact rather than about content or advice |
+| Holding | 25% | At least ten seconds of silence after the invitation; no filling, no rescuing |
+| Harvesting | 25% | The moment converted into the family's own description afterwards |
+
+**Debrief questions.** Which move was hardest, and why? What did you feel in the silence, and what did you do
+with that feeling? What would you have said if the invitation had been refused?
+
+**The refusal rehearsal.** Half the pairs practise refusal deliberately: the client says "no, I do not want to
+talk about that", and the therapist must respond without persuasion or withdrawal. The good response is
+something like: "that is fair. What is it like to be asked?" The rehearsal exists because refusals are common
+and trainees handle them by pushing; a therapist who can stay warm through a refusal has acquired the model's
+most portable skill.
+
+### 7.9 Six errors in experiential work
+
+1. **Enactment without a frame.** Inviting feeling before the family has a shared understanding of what the
+   session is for, and without a plan for containment. Fix: contact first, and a stated ending time.
+2. **The demand disguised as an invitation.** "Tell her how you feel" said in a tone that makes refusal
+   impossible. Fix: the invitation is answerable with no, and the no is worked with.
+3. **Flooding without containment.** A session in which a member sobs for twenty minutes and leaves raw.
+   Fix: the model's own discipline — slow the pace, ground the body, end settled, plan the next contact.
+4. **The therapist's disclosure as the main event.** Sessions in which the therapist's feelings become the
+   material. Fix: brief, relational, in the service of the family's work, and examined in supervision.
+5. **Charisma mistaken for effectiveness.** Families who admire the therapist and do not change. Fix: outcome
+   measurement, and supervision that asks about dependency.
+6. **The anti-technical stance as an excuse.** "I work with whatever comes up" used to avoid formulation,
+   planning or evaluation. Fix: a written formulation after session three, and a review at every sixth.
+
+### 7.10 Culture, faith and the model's critique
+
+**Where the model travels well.** Its emphasis on the person, on warmth and on the family's own language is
+congenial in cultures where relationship precedes task. Nigerian and other African family work often begins
+with greeting, food, and the recognition of each person's standing, and an experiential therapist can work
+with that structure rather than against it. The model's insistence that the therapist is a person, not a
+technician, also fits contexts where the therapist is expected to be a human being with a life, a faith and a
+family.
+
+**Where it strains.** Three places.
+
+*The expression of feeling as an unquestioned good.* In many families, restraint is a virtue and public
+emotional display is a loss of dignity, particularly for men and for elders. A therapist who treats
+expression as health will pathologise a family's competence. The adjustment is not to abandon the model but
+to ask what expression means in this family, and to accept a smaller, more private form of contact.
+
+*The individual self as the unit of self-worth.* Satir's language of self-worth, autonomy and the "five
+freedoms" carries a particular cultural assumption about the individuated self. Families organised around
+duty, hierarchy and interdependence are not thereby deficient, and a therapist who uses "congruence" to mean
+"say what you want regardless of the cost to the family" has imported a value and called it health.
+
+*The elder's authority.* Enactment between a young therapist and a senior family member can be read as
+disrespect. The model's answer is that the therapist addresses the elder with formal respect and enquires
+about the younger members' experience, rather than inviting the elder to be confronted.
+
+**Faith and the experiential model.** The model is hospitable to spiritual experience because it takes
+feeling and symbol seriously. A family's prayer, its sense of a presence in the room, its grief rituals, can
+all be worked with as experience rather than as belief. The caution is symmetrical: the therapist must not
+use the family's faith as an emotional technique, and must not substitute their own spiritual experience for
+the family's.
+
+> **DEBATE** — "Satir's 'five freedoms' are a Western liberal anthropology dressed as universal health." Argue
+> both sides, then say what you would keep.
+
+### 7.10a The two strongest critiques, and the model's answers
+
+**Critique one: it cannot be manualised, and therefore cannot be tested.** The intervention is the therapist's
+person, and the person varies. Two therapists trained in the same institute will conduct visibly different
+sessions, and the model has no specification against which fidelity could be measured. To a research funder
+this is close to a disqualification.
+
+*The model's answer.* Manualisation is one route to evidence, not the only one; common-factor research
+(Week 11) shows that the therapist's alliance and qualities account for substantial variance, which is the
+model's central claim; and the model's techniques can be specified even where the stance cannot. Family
+sculpture, the temperature reading and the four-move enactment are all describable, trainable and measurable.
+
+*The fair verdict.* The critique is broadly right about the package and wrong about the components. The
+model should be taught as a stance with a small set of specifiable techniques, and evaluated as such.
+
+**Critique two: it is unsafe for families in which expression has been dangerous.** A family with a violent
+member, a family in which one person's emotions have historically governed the household, a family in which a
+child has been scapegoated — in each, an invitation to express feeling can produce harm, and the model's
+literature gives little guidance on screening.
+
+*The model's answer.* The original texts assume voluntary, non-violent families and a therapist with the skill
+to contain; where those conditions are absent, the model's own emphasis on safety and pace should govern, and
+the therapist should not invite material they cannot hold. The honest verdict is that this answer is
+insufficient: the model needs a screening protocol, and it does not have one.
+
+*What a contemporary practitioner should add.* A standard pre-therapy screen for violence and coercion, a
+containment plan written before the first enactment, and a rule that no enactment is attempted in a session
+where the therapist has reason to believe a member will be harmed for what is said, at home or afterwards. That rule is not in the model's canon; it is a professional obligation that overrides the technique, and it should be written into the service's policy as well as the therapist's practice.
+
+### 7.11 Evidence note: what is known and what is claimed
+
+**The evidence base.** Experiential family therapy, in Satir's and Whitaker's forms, has very little
+randomised trial evidence. The classic literature is case-based and theoretical. Satir's approach has been
+studied mainly through training outcome research and qualitative work; Whitaker's symbolic-experiential
+therapy likewise.
+
+**What has been inherited and tested.** The model's central mechanisms have been absorbed into
+emotionally focused therapy (MFT 709) and into common-factor research: emotional engagement in session,
+therapeutic presence, the processing of affect, and enactment are all studied constructs. EFT has a
+substantial trial literature, and its manuals cite the experiential tradition as an ancestor. The evidence
+for those mechanisms therefore supports the model's *components* without supporting the model as a package.
+
+**What the matrix cell should say.** "No RCT evidence for Satir or Whitaker as packages; the model's
+mechanisms (affect regulation in session, enactment, therapeutic presence) are supported through EFT and
+common-factor research; the techniques are teachable and observable; the therapist-variable problem is the
+central limitation."
+
+**The practitioner's claim, in a defensible form.** "I use the model's discipline of contact, pace and
+enactment because it deepens the session's emotional processing, and I measure outcomes and alliance because
+the model's evidence base does not tell me whether I am effective with this family." That sentence is what a
+viva examiner will want, and it is honest about the gap.
+
+### 7.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Congruence | Words, feeling and body agreeing; speaking for oneself |
+| Incongruent stance | Placating, blaming, super-reasonable or irrelevant; a strategy that protects the relationship by hiding the truth |
+| Self-worth | Satir's organising variable; the capacity to bear the risk of speaking truly |
+| Family sculpture | Physical arrangement of the family representing the emotional map, then rearranged |
+| Enactment | Bringing the relationship into the present session and letting it happen |
+| Temperature reading | Five-part structured check-in: appreciations, information, puzzles, complaints, wishes |
+| Parts party | Naming and voicing internal parts in tension |
+| Family reconstruction | Satir's guided three-generation enactment method |
+| Symbolic-experiential | Whitaker's term for therapy that works through symbol and experience |
+| Use of self | The therapist's own presence, feeling and spontaneity as the instrument |
+| Pace | The deliberate slowing of the session; the model's core discipline |
+| Containment | The frame that makes emotional intensity safe and endable |
+
+### 7.13 Self-test
+
+1. Name the five stances and the function they share.
+2. What is the difference between an invitation and a demand, and how is the difference tested?
+3. Give the four moves of an enactment and the sentence that performs each.
+4. Why is the harvest the step trainees skip, and what does it produce?
+5. What is the model's central evidence problem?
+6. State the two strongest critiques and the fairest verdict on each.
+7. What does "use of self" require of the therapist professionally?
+8. Name three adaptations for a family in which emotional restraint is a value.
+
+**Answers.** 1. Placating, blaming, super-reasonable, irrelevant, congruent; the first four protect the
+relationship by hiding the truth, and the fifth risks the truth for the sake of contact. 2. An invitation can
+be answered with no without consequence to the relationship; it is tested by the therapist's response to a
+refusal — no persuasion, no withdrawal, curiosity about the refusal. 3. Notice ("I see your jaw tighten when
+she says that"); invite ("can you say that to her rather than about her?"); hold ("stay with it a moment");
+harvest ("what happened in the room just then?"). 4. Because it feels like an anticlimax after intensity; it
+converts the moment into the family's own description, which is what carries the learning out of the room. 5.
+No manualisation and no RCTs, so the package cannot be tested or fidelity-checked, while its mechanisms are
+supported through EFT and common-factor research. 6. Critique one — untestable package; fairest verdict, right
+about the package, wrong about the components. Critique two — unsafe where expression has been dangerous;
+fairest verdict, the model's answer is insufficient and a screening protocol must be added. 7. It requires
+supervision of the therapist's own material, outcome measurement against dependency, and a caseload that
+includes non-experiential work. 8. Any three of: ask what expression means in this family; accept a smaller
+private form of contact; avoid confrontation of elders; use enactment in pairs rather than the whole family;
+use writing or drawing instead of speech for the hardest material.
+
+### 7.14 Reflective task
+
+Think of a moment in your own family when somebody said something true and the room changed. Write it in three
+paragraphs: what was said; what happened in the bodies of the people present; and what the family did with it
+afterwards. Do not analyse it and do not draw a conclusion. Bring it to the seminar, and notice which
+paragraph was hardest to write — that is usually the one that tells you something about your own practice. If nothing was hard to write, write about that instead, and be suspicious of it.
+
+### 7.15 Readings for this week
+
+* **Satir (1972)**, *Peoplemaking*, the accessible statement of the stances and self-worth, read for the
+  vocabulary rather than the theory.
+* **Satir & Baldwin (1983)**, *Satir Step by Step*, a session-by-session account, the best source for the
+  techniques in action.
+* **Whitaker & Keith (1981)**, "Symbolic-experiential family therapy", in Gurman & Kniskern, for the
+  therapist's use of self and the model's attitude to technique.
+* **Napier & Whitaker (1978)**, *The Family Crucible*, the model's most readable casebook and the book most
+  students remember.
+* **Bitter (1988)**, "Family mapping and family sculpture", for the technique described systematically.
+* **Greenberg & Johnson (1988)**, *Emotionally Focused Therapy for Couples*, read the opening chapters for how
+  the tradition became manualised and testable — the bridge to MFT 709.
+
+Read *The Family Crucible* as a novel and then again as a technique manual; the second reading is the one that
+shows how much of the therapy is timing. Keep a note of every silence in the transcripts you read, and count
+them. For the essay, cite Satir and Whitaker for the model, Greenberg and Johnson for the mechanism, and the
+common-factor literature for the therapist variable, and be explicit that the package has no trial evidence.
+The reading log question for this week is different from last week's: not "what does the argument assume?" but
+"what would this therapist have to be like for this to work?" Answer it in five sentences and bring the answer to supervision, because it is the question the model asks of everyone who practises it.
+
+*Next: [Week 8 — Cognitive-behavioural and behavioural couple therapy](#week-8--cognitive-behavioural-and-behavioural-couple-therapy)*
 
 ---
 
