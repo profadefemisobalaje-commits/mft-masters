@@ -4345,32 +4345,702 @@ you into practice, and the only reliable remedy is to have named it early.
 
 ## Week 7 — The first session II: defining the problem
 
-The referral question is rarely the clinical question. Your task is to negotiate a problem definition
-that is (a) specific, (b) interactional, (c) owned by the family, and (d) changeable.
+### 7.1 The lecture in ninety minutes
 
-**From vague to specific.** "He is disrespectful" → "When I ask him to help, he looks at his phone and
-says nothing. That happens most evenings, and then I shout."
+Week 6 was about joining: getting into the system in a position from which change is possible. This week is
+about the second half of the same hour — turning a complaint into a definition of the problem that the whole
+family can work with. It is the most cognitively demanding skill in the first month, because it requires you to
+hold three things at once: the family's language, your clinical hypothesis, and the criteria by which the
+definition will be judged usable.
 
-**From individual to interactional.** "She is manipulative" → "When she cries, her father gives in and
-you feel undermined; then you withdraw, and she comes to me." Notice: no blame is removed, but the
-description now includes three people and a sequence.
+The week's central claim is simple and contested: **the way a problem is defined determines what counts as a
+solution.** A family that defines the problem as "he is stubborn" will accept only that he becomes compliant. A
+family that defines it as "the evenings have become a battle none of us knows how to end" can work on something.
+The therapist's job in the first session is not to impose a definition but to negotiate one that is specific,
+interactional, owned by the family, and changeable.
 
-**From imposed to owned.** Ask each person to complete: "I will know this has worked when…". Write the
-answers down and read them back. If the parents' answers are incompatible, that incompatibility *is* the
-work.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why definitions matter | Two definitions of one problem, and the plans that follow | Predict the plan from the definition |
+| 10–25 | The four criteria | Specific, interactional, owned, changeable — tested on live examples | Score six definitions |
+| 25–45 | From complaint to request | The negotiation, demonstrated twice | Negotiate with a scripted parent |
+| 45–60 | Reframing the definition | From trait to sequence to function | Rewrite five complaints |
+| 60–75 | Presenting problem versus underlying problem | What to leave alone in session one | Diagnose a formulation for over-reach |
+| 75–90 | The agreed statement | Write it, read it back, get it agreed | Draft and test in pairs |
 
-**From unchangeable to changeable.** "I want him to respect me" is a relational outcome that no one can
-deliver on demand. "I want us to agree on one consequence for phone use, and both apply it for a week"
-is testable.
+### 7.2 Why the definition is the intervention
 
-> **CASE** — The Adeyemis come because their 16-year-old, Amara, has refused school for six weeks. The
-> referral says "school refusal". The negotiated definition becomes: "The mornings have become a battle
-> that everyone loses; Amara does not leave the house; her mother stays home from work; her father works
-> later; and her brother has started sleeping in her room." The problem is now a system, not a girl.
+A definition of the problem is not a description; it is a set of instructions. It tells the family what to
+notice, who is responsible, what would count as improvement, and who has to change. Four consequences follow,
+and students should be able to state them.
 
-**Practice (lab).** Take a complaint a peer brings from placement (disguised) and rewrite it four times:
-specific, interactional, owned, changeable. Read the final version to the "family" and ask whether it is
-recognisable.
+**First, a definition selects the data.** A family that defines the problem as "Amara refuses school" will report
+on school attendance and will not report the mornings, the mother's mood or the father's drinking. The definition
+is a filter, and the therapist who accepts it unexamined will work with a filtered family.
+
+**Second, a definition distributes responsibility.** "He is stubborn" places the problem inside a nine-year-old.
+"The mornings have become a battle" places it between people. The second is not kinder by accident; it is kinder
+because it is more accurate, and it is more useful because more people can act on it.
+
+**Third, a definition sets the criterion of success.** If the problem is "he does not obey", success is obedience,
+and the family will be dissatisfied with anything less. If the problem is "we cannot get through a morning
+without shouting", success is a calm morning, which is achievable within a fortnight and which changes the
+family's sense of itself.
+
+**Fourth, a definition is a hypothesis about cause smuggled into a description.** "She is manipulative" contains
+an account of intention; "she asks for her mother whenever her father enters the room" contains a sequence. The
+second can be tested; the first cannot. The therapist's discipline is to convert the first into the second,
+without correcting the family and without agreeing with them.
+
+> **CAUTION** — There is a difference between negotiating a definition and rewriting the family's experience.
+> The family's account is data, and the version they bring is the version they can bear to bring. If you replace
+> it too quickly with your own, you have not defined the problem; you have taken it.
+
+### 7.3 The four criteria, tested
+
+A usable definition of the problem meets four criteria. Teach them as a checklist and use them as a test in the
+room.
+
+**1. Specific.** It names an occasion, a behaviour and a time frame. *Not:* "we have no communication." *But:*
+"on weekday evenings, after the children are in bed, we sit in different rooms and neither of us starts a
+conversation."
+
+**2. Interactional.** It involves at least two people and at least one sequence. *Not:* "she is cold." *But:*
+"when I ask about her day she answers in one word, and then I stop asking, and then she says I never ask."
+
+**3. Owned.** The family recognises it as theirs, in their language, without having to be persuaded. The test is
+simple: read it back and ask, "is that right?" If they correct you twice, the definition is still yours.
+
+**4. Changeable.** It is the kind of thing that could plausibly be different within the timeframe of the work.
+*Not:* "he has always been like this." *But:* "the last three months, since the new job, the arguments have moved
+from the weekend to every night."
+
+**Scoring exercise.** Six definitions, from real referral letters. Score each 0–2 on the four criteria, then
+rewrite the weakest.
+
+| Definition (as presented) | Specific | Interactional | Owned | Changeable | Total |
+|---|---|---|---|---|---|
+| "Family communication problems" | 0 | 1 | 1 | 1 | 3 |
+| "Mother is over-involved with daughter" | 1 | 0 | 0 | 1 | 2 |
+| "Since the father's redundancy, the parents argue about money every weekend and the daughter refuses school on Mondays" | 2 | 2 | 2 | 2 | 8 |
+| "Adolescent behavioural difficulties" | 0 | 0 | 1 | 1 | 2 |
+| "He will not talk to me since his brother was born" | 2 | 2 | 2 | 2 | 8 |
+| "The family is enmeshed" | 0 | 0 | 0 | 0 | 0 |
+
+The exercise produces two lessons. Definitions from institutions score badly because they are written for
+categories, not families; and the best definitions sound like ordinary speech, because they are the family's own
+words arranged more carefully.
+
+### 7.4 From complaint to request: the negotiation
+
+Families arrive with a **complaint** (what is wrong) and often without a **request** (what they want). The
+therapist's task is to convert one into the other without dismissing either. Four moves, in sequence.
+
+**Move 1 — get the complaint in full, in the complainant's language.** Do not translate yet. "Tell me what it is
+like. Not the summary — the last time it happened."
+
+**Move 2 — find the exception or the contrast.** "When was the last time it did not happen?" or "What is
+different on the days it is better?" This does two things: it establishes that the pattern is not total, and it
+gives the family a piece of evidence about their own competence.
+
+**Move 3 — ask for the wished-for change, in behaviour.** "If this were better, what would I see you doing
+differently?" Not "how would you feel" but "what would you see". Vague answers are normal; the therapist's job is
+to keep asking until something observable appears.
+
+**Move 4 — test the request for feasibility and ownership.** "Is that something you could do this week, or is it
+too big?" A request that fails this test is not a request; it is a wish, and the therapist should say so gently
+and shrink it.
+
+**The negotiation, worked.**
+
+> **Mother:** He will not listen to me. I have to say everything five times.
+> **Therapist:** Give me the last time. Yesterday morning?
+> **Mother:** Yesterday. I asked him to get ready. Five times. Then I shouted.
+> **Therapist:** And the fifth time — did he get ready?
+> **Mother:** Yes. After I shouted.
+> **Therapist:** So shouting works. It gets him ready and it costs you the morning, and by the evening you are
+> both tired. What would you want instead — what would I see happening in that kitchen if it were better?
+> **Mother:** I would ask once and he would move.
+> **Therapist:** Once. And if it took twice, would that be acceptable?
+> **Mother:** (pause) Twice would be fine.
+
+The negotiation has produced a definition ("in this kitchen, getting ready takes five requests and a shout") and a
+request ("asking once or twice and he moves") that is specific, interactional, owned and changeable. Note what the
+therapist did not do: she did not tell the mother that shouting is bad, she did not diagnose the child, and she did
+not propose a technique. She found the sequence, found its cost, and let the mother name the alternative.
+
+### 7.5 Reframing the definition
+
+Reframing was introduced in Week 2 as an intervention for meaning. Here it is a tool for the definition itself.
+Three routes, each converting a trait into something workable.
+
+**Route 1 — from trait to sequence.** "He is lazy" becomes "when you ask him to start his homework, he says
+'nothing', and you then do it yourself". The rewrite is not a correction; it is a request for the episode that
+produced the trait. Ask: "What does he do, exactly, that you would call lazy?" The answer is always a sequence.
+
+**Route 2 — from sequence to function.** "When you take over his homework, what happens?" — "It gets done, and we
+stop arguing." The function is now visible: taking over ends the argument and costs the child the experience of
+finishing something. Naming the function must be done without blame: "the takeover is doing a job for the
+household."
+
+**Route 3 — from function to a both-and.** The mature definition holds the cost and the function: "the two of you
+have found a way to stop the evening becoming a fight, and it means he never has to finish anything on his own.
+What would let you keep the peace and let him finish?"
+
+**Five complaints, rewritten.** From the case bank, with the rewrite a competent therapist would negotiate rather
+than impose.
+
+| Complaint | Usable definition |
+|---|---|
+| "My husband is controlling" | "He asks where I am three or four times an evening, and I have stopped telling him things in advance" |
+| "My daughter is rude" | "She answers in one word and leaves the room when I ask about school, which she did not do before the exam period" |
+| "My mother interferes" | "She telephones every morning with advice about the children, and I have not told her that it makes me feel judged" |
+| "He drinks too much" | "He drinks four to six bottles on five nights, and on those nights he does not speak to me or the children" |
+| "We have grown apart" | "We have not had a conversation longer than five minutes, without the children, in about a year" |
+
+**The rule behind the table.** Every usable definition contains a behaviour, a time frame, and at least two
+people. Every unusable one contains an adjective, a diagnosis or a verdict.
+
+### 7.6 Presenting problem, underlying problem, and what to leave alone
+
+The commonest error of enthusiastic trainees is to address the underlying problem in the first session. Three
+categories, and the discipline each requires.
+
+**The presenting problem** is what the family brings. It must be taken seriously, addressed concretely, and, if
+possible, improved. A therapist who ignores it in favour of a richer formulation teaches the family that therapy
+is a place where their actual trouble is not discussed.
+
+**The underlying problem** is what the therapist believes maintains the presenting one — a disengaged father, an
+unmourned loss, a marital conflict, a family myth. It is a hypothesis, and it should be held, tested and, in most
+cases, not named in the first session.
+
+**The unnamed problem** is the material that is not available yet: a secret, a trauma, a violence that has not
+been disclosed. It must be *suspected carefully* and *not pursued* beyond the safety screen. The therapist who
+pushes for a disclosure in the first hour often gets one that the family is not ready to have made.
+
+**A sequencing rule that serves students well.** In the first session: address the presenting problem concretely,
+test the underlying hypothesis with two or three questions, and make one small move. Name the underlying problem
+only when (a) the family raises it, (b) the alliance is sufficient that a name will not feel like an accusation,
+and (c) you have something to offer once it is named.
+
+> **CASE** — A couple presents with "our son will not sleep in his own bed" (presenting). The underlying
+> hypothesis is that the mother has not recovered from a miscarriage two years ago and the child's presence in the
+> bed is the couple's way of not being alone together. The therapist says nothing about the miscarriage in session
+> one. She takes a sleep history, identifies the sequence (child wakes, mother goes to him, father sleeps in the
+> spare room), and offers a graded plan. In session four, the mother mentions the miscarriage; by then the couple
+> have succeeded at something together and can bear the conversation. That sequencing is not avoidance; it is
+> clinical judgement about dose.
+
+### 7.7 The agreed statement
+
+The first session ends with a negotiated statement of the problem and a first step. It should be short enough to
+be remembered, and it should be written down — on paper, in front of the family, and given to them.
+
+**The template, in five parts.**
+
+> *What happens* — the sequence, in the family's words, with a time frame.
+> *What it costs* — the consequence, stated by the family.
+> *What has been tried* — evidence of effort, named so it is not repeated or dismissed.
+> *What would be different* — the request, behavioural and small.
+> *What happens next* — who does what, by when.
+
+**Worked example, for the Okonkwos.**
+
+> "Over the last two months, getting ready for school has taken five requests and usually a shout, and it leaves
+> both of you tired and upset for the day (what happens, what it costs). You have tried rewards, taking things
+> away and talking to the school (what has been tried). What you want is to ask once, or twice, and for him to
+> move (what would be different). Next week I would like to see all three of you, and before then, when the school
+> telephones, I would like the two of you to talk to each other before either of you speaks to Ebuka (what happens
+> next)."
+
+**Reading it back.** The statement is read aloud and offered for correction. Two corrections are typical: the
+family will want to add something they consider important, and they will want to soften a word that sounds like
+an accusation. Accept both; the statement is better with them.
+
+**Giving it to them.** A written copy on a single sheet — the statement, the task, the next appointment — is one
+of the cheapest and most effective interventions available. Families keep these; they show them to relatives; they
+remind themselves of what they agreed when the week gets difficult.
+
+### 7.7a The Adeyemi definition, negotiated in real time
+
+The general method becomes concrete in a single case. Here is the negotiation, as it happened, with the therapist's
+reasoning.
+
+**The complaint as offered.** "Amara refuses to go to school. She has missed six weeks. The school is threatening
+to report us." Three complaints in two sentences: a behaviour, a duration and an institutional threat. The therapist
+records all three and returns to the first.
+
+**The first attempt at specificity.** *Therapist:* "Tell me about this morning. Not the whole six weeks — this
+morning, from waking up." *Mother:* "I woke her at six. She said she was not going. I said she had to. She pulled
+the cover over her head. I shouted. She cried. I left her." *Therapist:* "And then what did you do?" *Mother:* "I
+telephoned the school and said she was sick."
+
+**What the therapist now has.** A sequence with five links, a lie told to an institution, and a mother who is
+managing alone. Note that the sequence is *not* "Amara refuses school"; it is "waking, refusal, escalation, tears,
+and a telephone call that converts a family difficulty into an absence". The definition is already more useful
+than the complaint.
+
+**The second attempt — the cost.** *Therapist:* "What does that morning do to the rest of your day?" *Mother:* "I
+am angry all day. And then I feel guilty. And then I wait for her to come out of her room." The cost is now
+specific and is the mother's own, not the institution's.
+
+**The third attempt — the request.** *Therapist:* "If I could change one thing about that morning, what would you
+want it to be?" *Mother:* "That I did not have to lie." This is the pivot of the session, and it is not what the
+therapist expected. The mother does not ask for attendance; she asks to stop deceiving the school. The therapist
+follows it: "So the lie is the worst part." *Mother:* "Because they will find out and then they will think I am a
+bad mother."
+
+**The reframe.** *Therapist:* "So you have been protecting your daughter from the school's judgement, and yourself
+from being seen as a bad mother, at the cost of being alone with something you cannot manage." *Mother:* (cries)
+"Yes."
+
+**The negotiated statement, written on paper and read back.**
+
+> "For six weeks, most mornings have gone: you wake Amara, she refuses, you insist, she cries, you telephone the
+> school and say she is ill. The cost is that you spend the day angry and guilty, and you are carrying something
+> alone that you believe will make people think you are a bad mother. You have tried insisting, talking, and
+> threatening. What you want first is to stop having to lie. What I suggest is that we tell the school the truth
+> together — a letter from me, and a conversation with you present — and that we do not make attendance the first
+> goal. The first goal is that you are not alone with this."
+
+**What makes this statement good.** It is specific (six weeks, most mornings, five links); interactional (mother
+and daughter, then mother and school); owned (the mother's words: "I did not have to lie", "a bad mother"); and
+changeable (a letter and a conversation can happen this week). It also does something that a formulation based on
+the referral could never have done: it identifies the *institutional* loop as part of the problem, and it makes the
+therapist an ally in the mother's relationship with the school rather than an agent of the school's demand.
+
+**The lesson for trainees.** The definition you would have written from the referral letter ("school refusal in a
+16-year-old, six weeks") is accurate and unusable. The definition the family negotiated is accurate and
+actionable, and it took fourteen minutes of questions and one reframe.
+
+### 7.8 Annotated transcript: negotiating with a family that does not agree
+
+In many first sessions the family does not have one problem; it has three. The negotiation of a shared definition
+is the clinical work. Below is a twelve-turn excerpt from a family in which the parents' definitions are
+incompatible.
+
+> **T1 Mother:** The problem is his temper. He shouts at the children and then they come to me.
+> **T2 Father:** The problem is that she undermines me. I say no, she says yes, they learn that I mean nothing.
+> **T3 Therapist:** So there are two accounts. Let me hold both for a moment. Mother, when he shouts, what do the
+> children do?
+> **T4 Mother:** They cry and come to me. Then I tell him he is frightening them.
+> **T5 Therapist:** And then, Father?
+> **T6 Father:** Then I leave the room. There is no point.
+> **T7 Therapist:** So: he shouts, they go to her, she tells him he is frightening them, he leaves. Is that what
+> happens most weekend evenings?
+> **T8 Both:** (nods) Yes.
+> **T9 Therapist:** Which part of that would each of you most want to be different? Not the whole thing — one part.
+> **T10 Mother:** I would want him not to shout.
+> **T11 Father:** I would want her to back me up in front of them, even if she disagrees with me.
+> **T12 Therapist:** Those are different requests, and they might be connected. Let me see whether I can put them
+> together in a way that is honest for both of you.
+
+**Annotations.** *T3* is the pivot, and it is a refusal to arbitrate. The therapist does not decide whose definition
+is correct; she says she is holding both, which is both truthful and the only position from which the loop can be
+described. Students who arbitrate — even silently, by asking more questions of one partner — lose the other.
+
+*T3–T8* build a sequence that both partners confirm. Note the technique: the therapist asks each partner about the
+*other's* behaviour, not their own, which is easier to answer honestly and produces the loop rather than two
+monologues. The confirmation at T8 ("is that what happens most weekend evenings?") matters: a definition the
+family has confirmed is a definition they cannot easily disown later.
+
+*T9* is the request-elicitation move, and the constraint ("not the whole thing — one part") is doing important
+work. It prevents the session from becoming a negotiation of everything, and it produces two requests that can be
+compared. *T10* and *T11* are incompatible as stated — he must not shout; she must back him up when he shouts —
+which is precisely the material for the next several sessions.
+
+*T12* names the incompatibility honestly and promises an integrative move without pretending there is none. The
+therapist's next sentences, not shown, construct a both-and: "What would let him speak firmly without shouting,
+and let her support the decision without supporting the shouting?" That question converts two competing requests
+into one joint task.
+
+**The most common trainee error in this transcript.** Asking "how do you feel when he shouts?" That question is
+sympathetic, and it makes the loop harder to see, because it invites each partner to describe their own inner
+state rather than their joint behaviour. Feelings become clinically useful *after* the sequence is visible, not
+before.
+
+### 7.9 Laboratory: the definition negotiation
+
+Ninety minutes. Triads, with a scripted family played by two peers from a case card, and an observer scoring
+against the rubric. Each student takes the therapist's chair once, for twenty minutes.
+
+**The card.** Both parents present, one adolescent present and silent, and a referral letter containing a
+diagnosis. The parents' definitions conflict. The adolescent has not been asked.
+
+**The task.** Produce, in twenty minutes: a sequence the family confirms; one behavioural request from each
+parent; a both-and formulation that does not require either parent to concede; and a written statement of five
+lines, read back and agreed.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Sequence elicited and confirmed | 25% | A behavioural loop, stated in the family's words, confirmed by both partners |
+| Requests elicited | 20% | One behavioural request per parent; vague requests converted into observable ones |
+| Non-arbitration | 20% | Both definitions held; no silent siding; questions balanced |
+| Integrative formulation | 20% | A both-and that addresses both requests without collapsing them into one |
+| Written statement | 15% | Five lines; specific, interactional, owned, changeable; read back and corrected |
+
+**The pass standard.** Four of five criteria at 3/5 or better, with sequence and non-arbitration at 4/5. Students
+who fail most often fail on non-arbitration, and the usual cause is a sympathetic identification with the parent
+who arrived first or who is more articulate.
+
+### 7.9a The goals grid: four columns, one page
+
+Families rarely have one goal; they have several, held by different members, of different sizes, with different
+time horizons. A single page, completed in the first or second session, prevents most of the confusion that
+follows.
+
+| Person | What they want (behavioural) | By when | What they would accept as a first step |
+|---|---|---|---|
+| Mother | To stop lying to the school; to have one calm morning a week | Six weeks | A letter to the school this week |
+| Father (when present) | To know what is happening in the house; to stop being the last to hear | Six weeks | A fortnightly conversation with his wife before the session |
+| Amara | To be left alone in the mornings; not to be asked about school every day | Two weeks | Nobody mentions school before 9 a.m. |
+| Therapist | A shared definition the family owns; one structural change in the parental subsystem | Four sessions | Both parents in the room next week |
+
+**How to use the grid.** Complete it in front of the family, reading each entry back. Where a row is blank, say so:
+"Amara, I do not have anything from you yet." Where two entries conflict, name the conflict as the work: "Your
+mother wants one calm morning and you want no conversation before nine. Those might be the same thing."
+
+**Why a grid rather than a conversation.** Because the conversation produces the illusion of agreement, and the
+grid produces evidence of disagreement. The families who benefit most from therapy are often those whose members
+want incompatible things, and the grid makes that incompatibility discussable without making anybody the villain.
+
+> **TASK** — Complete a goals grid for a family you know from placement, role-play or the case bank. Bring it to
+> the seminar. Then answer: whose goal did you find hardest to write in behavioural terms, and why? The answer is
+> usually the goal you understand least, which is the goal you will accidentally neglect in the work.
+
+### 7.10 Six errors in defining the problem
+
+1. **Accepting the referral's definition.** The letter says "oppositional behaviour" and the session proceeds as
+   though that were established. Fix: ask the family what they would call it, and note the difference.
+2. **The premature insight.** Naming the underlying problem in the first session, before the family has the
+   resources to hear it. Fix: test the hypothesis by questions, name it only when the family raises it.
+3. **The vague request.** Accepting "I want us to communicate better" as a goal. Fix: ask what you would see, on a
+   Tuesday, that would tell you it had improved.
+4. **The single request.** Agreeing only the more articulate partner's goal. Fix: ask each person separately and
+   write both down, even if they conflict — especially if they conflict.
+5. **The definition that blames.** A statement the family experiences as an accusation, however carefully worded.
+   Fix: read it back and ask for corrections; if a member goes quiet, the definition is not agreed.
+6. **The missing safety clause.** A definition that omits risk — violence, self-harm, safeguarding — because the
+   family did not raise it. Fix: the screen comes before the definition, always.
+
+### 7.10a Rewriting six institutional definitions
+
+Referral letters are written for institutions. This week's most practical skill is translating them without
+losing the information they contain.
+
+**1. "Poor engagement; family disengaged from services."** *Translation:* the family has attended four services,
+each of which asked them to do something they could not do, and the fourth asked them to come to a clinic two
+buses away on a weekday morning. *What to do:* ask what each previous service asked of them, and change the
+practical conditions before interpreting the motivation.
+
+**2. "Mother is over-involved; enmeshed relationship with daughter."** *Translation:* the mother is the only adult
+who has been managing a chronic difficulty, and the daughter has become her confidante because the marriage is
+disengaged. *What to do:* widen the support, not detach the daughter; interview the father.
+
+**3. "Non-compliant with treatment plan."** *Translation:* the plan required something the family could not
+sustain — daily homework, weekly attendance, a medication schedule that conflicts with shift work. *What to do:*
+ask what happened at home when they tried; redesign the plan around the family's actual week.
+
+**4. "Adolescent is manipulative; splits parents."** *Translation:* the adolescent has learned that approaching one
+parent produces a different answer from the other, and uses the difference to get what most adolescents want,
+which is to be allowed out. *What to do:* work with the parents on a consistent position; do not diagnose the
+adolescent.
+
+**5. "Child has behavioural difficulties at school only."** *Translation:* the difficulty is a property of the
+school–child fit, and possibly of the classroom, not of the family. *What to do:* obtain the school's observations
+before assuming a family pattern; involve the school in the plan.
+
+**6. "Family in denial."** *Translation:* the family does not accept the institution's definition of the problem,
+and has reasons. *What to do:* ask what they think the problem is, and what they make of the institution's account.
+"Denial" is usually a description of a disagreement, written from the side that has more power.
+
+**The general rule.** Every institutional definition contains information about the family and information about
+the institution. Your job is to separate the two, and to notice that the second is often more revealing than the
+first.
+
+### 7.10b The definition audit: five questions after every first session
+
+A checklist to complete in the ten minutes after a first session, before the notes. It takes five minutes and it
+improves the second session more than any technique.
+
+**1. Whose words are in my definition?** Count the phrases in your agreed statement that came from the family,
+and the phrases that came from you or from the referral. A statement with more of your language than theirs is
+a formulation, not an agreement, and it will not survive a difficult week.
+
+**2. Who did not contribute a goal?** Every family has a member who says nothing when goals are requested. Name
+them in your notes, and plan how to hear from them next time — usually alone, usually first, and usually with a
+question about what they would change if they had a magic wand.
+
+**3. Did I define the problem in a way that requires someone to become a different person?** "He needs to be less
+aggressive" is a definition that requires a personality change. "When he raises his voice, his wife leaves the room
+and takes an hour to return" is a definition that describes a pattern two people can alter.
+
+**4. What would count as evidence, next week, that the definition was wrong?** If nothing could count, you have a
+belief rather than a hypothesis. Write the evidence condition in your note.
+
+**5. Did I leave the session with a statement I could read aloud to the family without flinching?** If not, the
+statement contains something you would not defend in their presence, which means it contains something you have
+not yet said to them. That is the material for session two.
+
+### 7.11 Culture, faith and the definition of a problem
+
+The definition of the problem is one of the most culturally loaded moments in the session, because it determines
+what kind of difficulty this is: medical, moral, spiritual, relational or social. Four adjustments.
+
+**Whose problem is it?** In many families, the person who telephones is not the person with authority to define the
+problem. A mother may describe the difficulty, but the father, the grandmother or an uncle may hold the right to
+name it. A definition agreed with the wrong person will not hold. Ask, early: who else would need to agree that
+this is the problem?
+
+**The spiritual definition.** "This is a spiritual attack" is a complete definition, with its own aetiology,
+treatment and criterion of success. It competes with yours and should not be dismissed. The usable move is to
+establish what the family would count as evidence of improvement, and to negotiate a definition that allows both
+accounts: "The family believes this is spiritual, and we are also going to look at what happens in the household,
+because both matter for a child." Note that where a spiritual definition leads to a child being denied treatment,
+the professional obligation overrides the negotiation.
+
+**The moral definition.** "He is disobedient" is a moral claim, and in many families it is a claim about the
+parents' standing as much as about the child. Challenge it directly and you challenge the parents. Instead, keep
+the moral frame and widen it: "Disobedience is serious in this family. I want to understand what makes it possible
+in this house, because that is what we can change." The parents' values are preserved; the target moves.
+
+**The social definition.** Poverty, migration status, housing and unemployment are definitions of the problem that
+therapists often translate into psychological language to their cost. A family whose problem is that the father
+has no work does not need a formulation about boundaries. Ask the practical question first, and let the family tell
+you whether the difficulty is material, relational or both.
+
+> **CAUTION** — Do not use "we need to understand the family's meaning system" as an excuse for not stating the
+> obvious. If a child is not attending school, or a woman is being hit, the professional's definition of the
+> problem has to include it, in plain language, whatever the family's preferred account.
+
+### 7.11a Working with a family whose definition is a diagnosis
+
+Increasingly, families arrive with a diagnosis already in hand — from a school, a paediatrician, a previous
+clinician, or increasingly from the internet. The diagnosis is both a definition and a resource, and it must be
+handled with respect rather than either deference or dismissal.
+
+**What a diagnosis gives a family.** A name, which reduces chaos; an explanation, which reduces self-blame; an
+entitlement to services; a community of other families; and, often, a moral status ("this is an illness, not bad
+behaviour"). These are substantial benefits, and a therapist who attacks the diagnosis attacks the family's coping.
+
+**What a diagnosis costs.** It can locate the problem entirely inside one person, which removes the family's
+leverage; it can freeze a developing picture into a label; it can become the family's only way of talking about the
+child; and it can license a fatalism ("this is how he is") that forecloses change.
+
+**The systemic move.** Do not dispute the diagnosis; widen the definition around it. Four sentences that work:
+
+> "The diagnosis explains a lot, and it does not explain everything. In this house, the difficult hours are
+> between six and eight in the evening — is that right? Let us look at what happens in those hours, because those
+> are the hours we can change, whatever the diagnosis says about the rest."
+
+The family keeps its explanation and acquires a target. The therapist does not have to win an argument about
+aetiology in order to do useful work.
+
+**A caution about diagnostic enthusiasm.** The opposite error is equally common: a family arrives with a relational
+story, and the clinician supplies a diagnosis that reorganises the family's understanding of their child. The
+responsibility that comes with naming a condition is significant, and it belongs to an assessment process, not to a
+first session (see MFT 707).
+
+### 7.12 Evidence note: goal consensus and outcome
+
+Three findings from the literature on goals and definition of the problem, all practically useful.
+
+**Goal consensus predicts outcome.** Across psychotherapy research, agreement on goals and tasks between client and
+therapist is one of the more robust predictors of outcome, and disagreement about goals is a common precursor to
+dropout. In family work the finding is stronger and more complicated, because there are several clients: consensus
+must be built with each member, and where members' goals conflict, the therapy must accommodate the conflict
+explicitly rather than resolve it by fiat.
+
+**Behavioural specificity improves engagement.** Families given vague goals report less progress and discontinue
+more often than families given specific, observable goals. This is not merely a measurement convenience; a specific
+goal allows a family to notice change, and noticing change is what sustains hope in the early weeks.
+
+**The first-session formulation predicts attendance at session two.** Families who leave the first session with a
+formulation they recognise — in their own words, offered as a hypothesis — are significantly more likely to return.
+The mechanism is probably the experience of being understood, which is the same construct the alliance literature
+measures.
+
+**The implication.** The negotiating skills in this week are not a preliminary to treatment; they are among its
+active ingredients. A therapist who spends the first session chasing information and leaves without an agreed
+statement has spent the hour on the least evidence-based part of the work.
+
+### 7.12a Two definitions, two plans: the same family, a year apart
+
+A comparison that makes the week's argument vivid. The same household, defined two ways, six months apart, by two
+different clinicians.
+
+**Definition A (a community clinic, first appointment after the referral).** "Amara, 16, school refusal for six
+weeks, with anxiety features; mother reports exhaustion; father works away." *The plan that follows:* an anxiety
+assessment for Amara, a graded return-to-school plan negotiated with the school, individual CBT, and a review in
+six weeks. *What happened:* Amara attended two sessions, the graded plan collapsed in the second week, and the
+family did not return.
+
+**Definition B (a family therapist, six months later).** "The mornings have become a battle in which the mother
+asks five times, shouts, and then telephones the school with an explanation she knows is not true; the cost is a
+day of anger and guilt for her, and a daughter who is at home and cannot leave; the father is outside this
+sequence and has not been asked what he thinks." *The plan that follows:* a letter to the school, written with the
+mother; both parents in the room; a small morning task; a conversation about the marriage when the parents are
+ready; review in two weeks. *What happened:* the family attended eleven sessions; the school return was staged over
+two months; the parents' arguments became discussable; the father did not stop drinking, and the household still
+improved.
+
+**What the comparison is not saying.** It is not saying that CBT is wrong, that anxiety was not present, or that
+the first clinician was incompetent. It is saying that the first definition located the problem where nothing in
+the household could be changed, and the second located it where several things could. Two accurate descriptions,
+one usable.
+
+**The question for the examination.** "What is the relationship between the accuracy of a formulation and its
+usefulness?" A strong answer says that they are different virtues: a formulation can be accurate and inert, or
+actionable and incomplete, and the professional's task is to be accurate *and* to choose, deliberately, the level
+of description at which change is possible.
+
+### 7.13 Key terms
+
+| Term | Definition |
+|---|---|
+| Presenting problem | The difficulty the family brings and wants addressed |
+| Underlying problem | The therapist's hypothesis about what maintains the presenting problem |
+| Complaint | What is wrong, as described by the complainant |
+| Request | The behavioural change the family wants |
+| Goal consensus | Agreement between therapist and clients on goals (and on tasks) |
+| Reframing | Offering a new frame for the same facts that supports a different response |
+| Both-and formulation | A statement holding two apparently incompatible truths without collapsing them |
+| Agreed statement | A short written summary of the problem, its cost, the request and the next step |
+| Exception | An occasion when the problem did not occur, or occurred less |
+| Scaling question | A question asking the family to place the problem or their coping on a numbered scale |
+
+### 7.14 Self-test
+
+1. What are the four criteria of a usable definition of the problem?
+2. Why is "he is stubborn" a poor definition? Give two reasons.
+3. What is the difference between a complaint and a request?
+4. Give the four moves of the negotiation from complaint to request.
+5. What are the three routes of reframing a definition?
+6. Why should the underlying problem usually not be named in the first session?
+7. What are the five parts of the agreed statement?
+8. What does the research say about goal consensus?
+
+**Answers.** 1. Specific, interactional, owned, changeable. 2. It names a trait rather than a behaviour, so it
+cannot be observed or tested; and it places the problem inside one person, so only that person can change. 3. A
+complaint describes what is wrong; a request describes the behaviour the family wants instead. 4. Take the
+complaint in full; find the exception or contrast; ask for the wished-for change in behaviour; test for feasibility
+and ownership. 5. Trait to sequence; sequence to function; function to a both-and. 6. Because it is a hypothesis,
+and naming it before the family has the resources to hear it produces defence or compliance rather than
+collaboration. 7. What happens; what it costs; what has been tried; what would be different; what happens next. 8.
+Goal consensus predicts outcome, and disagreement about goals precedes dropout.
+
+### 7.15 Reflective task
+
+Take a difficulty you have described about your own family, in the words you actually use — "my mother is
+controlling", "my brother is irresponsible", "we are not a demonstrative family". Now run it through the three
+reframing routes: the sequence it hides, the function it performs, and the both-and that holds both truths. Write
+300 words on what you had to give up to write the both-and. Most students find they had to give up a satisfying
+certainty.
+
+### 7.16 Readings for this week
+
+* **Minuchin (1974)**, *Families and Family Therapy*, chapter 7, on problem definition and restructuring.
+* **de Shazer (1985)**, *Keys to Solution in Brief Therapy*, on well-formed goals. Read it alongside the family
+  therapy literature, because it is the clearest writing on specificity.
+* **Friedlander, Escudero & Heatherington (2008)**, chapters on goals and on ruptures — the empirical case for this
+  week's skills.
+* **Weakland, Fisch, Watzlawick & Bodin (1974)**, "Brief therapy: focused problem resolution", *Family Process*. The
+  classic statement on negotiating a workable definition.
+* **Anderson & Goolishian (1988)**, "Human systems as linguistic systems", *Family Process*. The opposite view —
+  problem-dissolving rather than problem-solving — worth arguing with.
+* **Any current clinical guideline** for the presenting problem in your placement, to see how institutions define
+  problems and what that definition does to the family's own account. Read one guideline as if you were the family
+  receiving it: what does it say the problem is, who does it say is responsible, and what would it count as
+  failure? That exercise takes twenty minutes and changes how you write a formulation for the rest of your career.
+
+*Next: [Week 8 — The genogram as a hypothesis machine](#week-8--the-genogram-as-a-hypothesis-machine)*
+
+---
+
+### 7.10b The definition audit: five questions after every first session
+
+A checklist to complete in the ten minutes after a first session, before the notes. It takes five minutes and it
+improves the second session more than any technique.
+
+**1. Whose words are in my definition?** Count the phrases in your agreed statement that came from the family,
+and the phrases that came from you or from the referral. A statement with more of your language than theirs is
+a formulation, not an agreement, and it will not survive a difficult week.
+
+**2. Who did not contribute a goal?** Every family has a member who says nothing when goals are requested. Name
+them in your notes, and plan how to hear from them next time — usually alone, usually first, and usually with a
+question about what they would change if they had a magic wand.
+
+**3. Did I define the problem in a way that requires someone to become a different person?** "He needs to be less
+aggressive" is a definition that requires a personality change. "When he raises his voice, his wife leaves the room
+and takes an hour to return" is a definition that describes a pattern two people can alter.
+
+**4. What would count as evidence, next week, that the definition was wrong?** If nothing could count, you have a
+belief rather than a hypothesis. Write the evidence condition in your note.
+
+**5. Did I leave the session with a statement I could read aloud to the family without flinching?** If not, the
+statement contains something you would not defend in their presence, which means it contains something you have
+not yet said to them. That is the material for session two.
+
+### 7.11a Working with a family whose definition is a diagnosis
+
+Increasingly, families arrive with a diagnosis already in hand — from a school, a paediatrician, a previous
+clinician, or increasingly from the internet. The diagnosis is both a definition and a resource, and it must be
+handled with respect rather than either deference or dismissal.
+
+**What a diagnosis gives a family.** A name, which reduces chaos; an explanation, which reduces self-blame; an
+entitlement to services; a community of other families; and, often, a moral status ("this is an illness, not bad
+behaviour"). These are substantial benefits, and a therapist who attacks the diagnosis attacks the family's coping.
+
+**What a diagnosis costs.** It can locate the problem entirely inside one person, which removes the family's
+leverage; it can freeze a developing picture into a label; it can become the family's only way of talking about the
+child; and it can license a fatalism ("this is how he is") that forecloses change.
+
+**The systemic move.** Do not dispute the diagnosis; widen the definition around it. Four sentences that work:
+
+> "The diagnosis explains a lot, and it does not explain everything. In this house, the difficult hours are
+> between six and eight in the evening — is that right? Let us look at what happens in those hours, because those
+> are the hours we can change, whatever the diagnosis says about the rest."
+
+The family keeps its explanation and acquires a target. The therapist does not have to win an argument about
+aetiology in order to do useful work.
+
+**A caution about diagnostic enthusiasm.** The opposite error is equally common: a family arrives with a relational
+story, and the clinician supplies a diagnosis that reorganises the family's understanding of their child. The
+responsibility that comes with naming a condition is significant, and it belongs to an assessment process, not to a
+first session (see MFT 707).
+
+### 7.12a Two definitions, two plans: the same family, a year apart
+
+A comparison that makes the week's argument vivid. The same household, defined two ways, six months apart, by two
+different clinicians.
+
+**Definition A (a community clinic, first appointment after the referral).** "Amara, 16, school refusal for six
+weeks, with anxiety features; mother reports exhaustion; father works away." *The plan that follows:* an anxiety
+assessment for Amara, a graded return-to-school plan negotiated with the school, individual CBT, and a review in
+six weeks. *What happened:* Amara attended two sessions, the graded plan collapsed in the second week, and the
+family did not return.
+
+**Definition B (a family therapist, six months later).** "The mornings have become a battle in which the mother
+asks five times, shouts, and then telephones the school with an explanation she knows is not true; the cost is a
+day of anger and guilt for her, and a daughter who is at home and cannot leave; the father is outside this
+sequence and has not been asked what he thinks." *The plan that follows:* a letter to the school, written with the
+mother; both parents in the room; a small morning task; a conversation about the marriage when the parents are
+ready; review in two weeks. *What happened:* the family attended eleven sessions; the school return was staged over
+two months; the parents' arguments became discussable; the father did not stop drinking, and the household still
+improved.
+
+**What the comparison is not saying.** It is not saying that CBT is wrong, that anxiety was not present, or that
+the first clinician was incompetent. It is saying that the first definition located the problem where nothing in
+the household could be changed, and the second located it where several things could. Two accurate descriptions,
+one usable.
+
+**The question for the examination.** "What is the relationship between the accuracy of a formulation and its
+usefulness?" A strong answer says that they are different virtues: a formulation can be accurate and inert, or
+actionable and incomplete, and the professional's task is to be accurate *and* to choose, deliberately, the level
+of description at which change is possible.
+
 
 ---
 
