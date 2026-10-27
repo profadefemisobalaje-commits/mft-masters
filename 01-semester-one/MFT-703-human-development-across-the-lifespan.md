@@ -2228,6 +2228,691 @@ about **hearing** and about **which language is spoken at home and by whom**.
 > rules. The intervention is not a behaviour chart; it is a family agreement about one set of five rules,
 > one language of instruction, and ten minutes of child-led play a day with each caregiver.
 
+### 4.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The second year | What changes, and why it is the hardest year for most households | Name the toddler behaviour they find hardest |
+| 10–25 | Autonomy and shame | Erikson's pair, and the difference between the two outcomes | Rewrite three shaming sentences |
+| 25–40 | "No" as a developmental act | Three recorded "no"s at 18 months, 24 months, 3 years | Classify each and predict the parent's best move |
+| 40–55 | Language | The vocabulary explosion, and the five-way differential for delay | Take a language history |
+| 55–70 | Limits without humiliation | The formula, demonstrated on three scenarios | Rehearse the formula in pairs |
+| 70–82 | The household's rules | Why three caregivers and five sets of rules is the commonest presentation | Map one household's rules |
+| 82–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** This week's material is where the course most often becomes
+advice, and advice is what the families have already had. The lecture should therefore take the commonest
+presentation — "he does not listen" — and demonstrate that the answer is not a technique but a household
+agreement, arrived at by mapping who says what to whom. The class should leave with the habit of asking, before
+any behavioural advice, "who else is giving him a different rule?"
+
+**The sentence the lecture must land.** "The toddler's task is to become a separate person, and the family's task
+is to survive that without either crushing it or abandoning the limits." Every technique this week is judged by
+whether it serves both halves of that sentence.
+
+### 4.2 Core concepts
+
+**Autonomy versus shame and doubt.** Erikson's second stage. The toddler's task is to establish a self that can
+act — to walk, to choose, to refuse, to do it myself — and the outcome depends on whether the environment permits
+the acting. Too much control, or ridicule of the attempts, produces shame and doubt; too little produces a child
+without limits, who is also without safety, because a limit is a form of being held. The stage's clinical value is
+that it makes the tantrum intelligible: the child is not testing the parent's patience but the boundary of the
+self.
+
+**The developmental function of "no".** The word appears at around eighteen months and peaks in frequency in the
+second year. Its function is to establish separateness: the child discovers that a word can stop an adult, which
+is the first experience of agency. The clinical implication is that a household which cannot tolerate "no" will
+produce either a compliant child or a child who escalates, and both presentations arrive in clinics.
+
+**The language explosion.** From roughly fifty words at eighteen months to three hundred or more and two-word
+combinations by twenty-four months, with a further acceleration in the third year. Comprehension precedes
+production, which is the single most useful fact in the differential: a child with poor production and good
+comprehension is a different clinical case from a child with poor comprehension.
+
+**The five-way differential for language delay.** A late talker (normal variation, good comprehension, family
+history); a bilingual or multilingual child (normal, and often assessed in the wrong language); hearing loss (the
+first thing to exclude, always); global developmental delay (delay in all domains); and an autism spectrum
+presentation (delay with differences in social communication, play and flexibility). The differential is decided
+by a hearing test, a comprehension assessment, a play observation, and a language history — not by the number of
+words.
+
+**Symbolic play.** The capacity to use one object for another — a block as a phone — which appears in the second
+year and is the foundation of imagination, narrative and self-regulation. Its absence or its poverty is a clinical
+sign, and its presence is a resource the therapist can use.
+
+**Self-regulation, borrowed and then owned.** The toddler's capacity to manage frustration is being assembled from
+the caregiver's co-regulation (Week 3) and from the language the family provides. The child who is told "you may
+be angry, you may not hit" is being given a vocabulary and a limit at once, which is the formula this week
+teaches.
+
+**Limits without humiliation.** The formula has three parts: name the feeling, hold the limit, offer the
+alternative. "You are angry that we are leaving. We are not staying. You may hold my hand or walk beside me." The
+formula is not a trick; it is a structure that prevents the two failures — the limit without the feeling (which
+teaches that feelings are not allowed) and the feeling without the limit (which teaches that the world will
+accommodate anything).
+
+**The consistency problem.** Toddler behaviour is shaped by consistency, and consistency in most households is not
+a matter of willpower but of coordination: three caregivers, five sets of rules, two languages, and a grandmother
+who does not accept the parents' authority. The clinical presentation "he does not listen" is, in a majority of
+the families a therapist will see, a presentation of an uncoordinated household.
+
+**The one-language question.** In multilingual households, the assessment question is not "which language is
+best?" — the evidence supports multilingualism — but "which language does each caregiver speak to the child, and
+is there a language in which the child hears sustained, contingent talk?" A child who hears commands in three
+languages and no conversation in any is at risk not of bilingual confusion but of language poverty.
+
+**Toddlerhood as the family's first discipline negotiation.** Before the second year, the household's rules are
+about care; after it, they are about conduct. The negotiation of who has authority, whose family's methods
+prevail, and what happens when the child refuses is the household's first real conflict about child-rearing, and
+in many couples it is the first time they discover that they were raised differently.
+
+### 4.2a The limit formula, taught and rehearsed
+
+The week's core skill, in three parts, with the sentences and the failures.
+
+**The three parts.** *Name the feeling*: "you are angry that we are leaving the park." *Hold the limit*, in a
+sentence with no argument in it: "we are leaving now." *Offer the alternative*: "you can walk to the car or I can
+carry you."
+
+**Why the order matters.** The feeling comes first because a child in distress cannot process a limit until they
+have been understood; the limit comes second because a limit offered without the feeling teaches that feelings are
+inadmissible; the alternative comes third because a child needs something to do with the refusal, and a choice is
+the smallest available autonomy.
+
+**Three rehearsals.**
+
+*Scenario one — hitting.* "You are angry with your brother. You may not hit. You can stamp your foot and tell me,
+or you can sit here with me until you are ready." Note the limit is absolute (no hitting), the feeling is allowed,
+and the alternatives are two behaviours the child can actually perform.
+
+*Scenario two — the supermarket.* "You want the sweets. We are not buying sweets today. You can help me find the
+rice, or you can sit in the trolley." Note that the second alternative is not a reward; it is a structure.
+
+*Scenario three — bedtime.* "You do not want to stop playing. It is bedtime. You can choose the book, or I will
+choose it." Note the choice is real but bounded, which is the definition of autonomy within a limit.
+
+**The four failures.**
+
+*The lecture.* "You know you should not hit, we have talked about this, why do you always…" — the child is two;
+the lecture is for the parent's anxiety, and it lengthens the episode.
+
+*The bargain.* "If you stop crying I will give you the phone." — the limit has been replaced by a price, and the
+child has learned that crying is a currency.
+
+*The threat that cannot be executed.* "If you do not come now I will leave you here." — the child learns that
+the parent's words are not reliable, which is the opposite of what a limit is for.
+
+*The shame.* "Big boys do not cry. Look at you." — the feeling is prohibited and the self is judged, which is
+exactly the outcome Erikson's stage warns against.
+
+**The tone.** The formula is delivered quietly and slowly, without explanation, and repeated in the same words if
+it fails. The most common error after the words is right is the tone: a formula delivered at speed and volume is
+a reprimand with better vocabulary.
+
+**The repetition rule.** The same three sentences, in the same words, every time the same situation recurs. Toddlers
+learn from pattern, not from explanation, and the parent who varies the wording is teaching the child that the
+limit is negotiable.
+
+**When the formula does not work.** If the child escalates regardless, the limit is held with the body and with
+silence: stay, do not argue, do not leave, and wait. The episode ends. The parent's task is to survive it without
+adding a humiliation, which is what the formula is for.
+
+### 4.2b The tantrum, anatomised
+
+Tantrums are the second year's signature event, and the literature on them is more useful clinically than the
+advice most families receive.
+
+**What a tantrum is.** A loss of the child's regulatory capacity under a combination of frustration, fatigue,
+hunger and an audience. It is not manipulation — manipulation requires a theory of the other's mind and a capacity
+to inhibit an impulse, both of which are under construction — and it is not a failure of parenting. It is the
+developmental task colliding with an immature nervous system.
+
+**The four phases, and what each needs.** *The trigger:* a want blocked, a transition, a hunger, a tiredness, an
+over-stimulation. What it needs: anticipation, and fewer transitions when the child is tired. *The escalation:*
+shouting, going rigid, throwing. What it needs: safety, and the adult's calm — a co-regulation problem, not a
+discipline problem. *The peak:* the child cannot hear anything. What it needs: presence and very few words; this is
+the phase in which talking makes it worse. *The recovery:* the child returns, often clingy. What it needs: the
+repair — a cuddle, a naming of what happened, and no lecture.
+
+**The three errors at each phase.** At the trigger: begging, bargaining, or giving in, all of which teach the child
+that escalation works. At the peak: reasoning, threatening, or shaming, all of which add a second distress to the
+first. At the recovery: a lecture, a punishment, or a demand for an apology, all of which lose the repair.
+
+**The one useful sentence at the peak.** "I am here. I will wait." Spoken quietly, repeated, with no argument
+attached. The sentence is not a technique for stopping the tantrum; it is a technique for surviving it without
+damage, and the tantrum ends when the nervous system is finished, which is usually within ten minutes.
+
+**The household's contribution.** Tantrums are more frequent in households with inconsistent rules, more
+transitions, more caregivers with different responses, and more adult stress. The clinical implication is the
+week's: the frequency is a property of the household's coordination as much as of the child. That is not a
+criticism of the parents; it is the reason the intervention is a meeting about five rules rather than a lecture
+about the child.
+
+**What to tell the parents, in three sentences.** "This is the year his feelings are bigger than his ability to
+manage them, and he needs you to be the calm one. When it peaks, talk less and stay. Afterwards, when he comes
+back to you, that is the moment that matters, not the tantrum."
+
+### 4.3 Language: the assessment
+
+The most common developmental concern in clinics, and the one with the clearest assessment pathway.
+
+**Step one — hearing.** Always first, always. A child with glue ear or a sensorineural loss will present as a late
+talker, and no amount of language stimulation will change it. The referral is to audiology, and it is made in the
+first session in which language is the concern.
+
+**Step two — the language history.** Which languages, spoken by whom, how much, and in what register? Does the
+child hear sustained talk — conversation, narration, questions — or mostly commands? Who reads to the child, and
+in what language? Is there a family history of late talking?
+
+**Step three — comprehension before production.** "Show me the one that is bigger." "Give the ball to the
+grandmother." Comprehension is assessed by instruction, not by vocabulary, and it is the variable that most
+changes the differential: poor production with good comprehension is a different case from poor comprehension.
+
+**Step four — the play observation.** Ten minutes of child-led play (Week 5's skill, used early): does the child
+use symbols, take turns, follow the adult's point, share attention on an object? The observation answers questions
+the vocabulary count cannot.
+
+**Step five — the settings.** Does the child speak at nursery and not at home, or the reverse? A child who is
+fluent in one setting and silent in another is presenting a relationship or anxiety issue, not a language disorder
+— and the bilingual child who is silent at nursery is the commonest example.
+
+**Step six — the referral decision.** Four outcomes: no concern (review in three months); monitor with specific
+advice (more talk, less command, one language of instruction where the household can manage it); refer to speech
+and language therapy; or refer to paediatrics or child development for a broader assessment. The decision is
+recorded with its reasons.
+
+**What the therapist says to the parents.** Not "he is a late talker" and not "he may be autistic", but a
+statement of what is known and what will be done: "his hearing needs checking first; in the meantime, the most
+useful thing you can do is talk with him rather than to him — narrate what you are doing, wait for his sound, and
+answer it. We will look again in eight weeks."
+
+**The advice that works.** Five practices, all supported by the language-development literature: follow the
+child's attention rather than directing it; narrate and expand ("yes, a big bus"); pause and wait for a turn;
+reduce questions and increase comments; and read the same book repeatedly. The fifth is the most enjoyable for
+families and the most effective per minute.
+
+**The advice that does not work.** Flashcards, screens as language instruction, correcting the child's speech,
+and telling a bilingual household to abandon one language. Each is common, and each is either ineffective or
+harmful.
+
+### 4.3a Ten minutes of child-led play, in the second year
+
+The practice that appears again in Week 5, used early because it is the fastest way to change a toddler's language
+and a caregiver's relationship with the child at the same time.
+
+**The instructions to the caregiver.** "Ten minutes, once a day, at a time when you are not rushed. He chooses what
+to play. You do four things and nothing else: you watch, you describe what he is doing, you copy what he does, and
+you say back what he says. You do not ask questions, you do not teach, you do not correct, and you do not use your
+phone."
+
+**Why each instruction is there.** Watching teaches the caregiver to see what the child is actually doing, which is
+the skill the household lacks. Describing gives the child language attached to his own attention, which is the
+mechanism of vocabulary growth. Copying gives the child the experience of being followed, which is the antidote to
+a week of commands. And reflecting his speech back is the single most effective language intervention available to a
+non-specialist.
+
+**The prohibitions, and their reasons.** Questions ("what colour is that?") test rather than converse, and the
+second year is not the age for testing. Teaching ("no, that goes there") converts play into instruction. Correcting
+("say 'truck', not 'tuck'") interrupts the attempt at speech. And the phone, which is the most common failure of the
+practice in this decade, breaks the contingency the practice exists to build.
+
+**What the caregiver notices, in the first week.** Three things, reported with surprise: that the child does more
+when not directed; that the child looks at them more; and that ten minutes is longer than they expected. The third
+observation is the one that changes behaviour, because it shows the caregiver that attention is a practice rather
+than a feeling.
+
+**What the therapist does with the reports.** Asks for one specific thing the child did and one thing the caregiver
+did, so that the account is behavioural rather than evaluative. Then asks the question that generalises the
+practice: "what would it take to talk to him like that at other times of the day?" — which is where the language
+advice becomes a household habit rather than an exercise.
+
+**The contraindication.** In households where the child's play is destructive or unsafe, or where the caregiver's
+own state makes ten minutes of undivided attention impossible, the practice is postponed and the caregiver's
+circumstances are the intervention. A parent who is being asked to do something they cannot do learns that they are
+failing, which is precisely what the second year's stage warns against.
+
+### 4.4 Case: the grandmother who "cannot manage him"
+
+The week's case, worked in full, because it is the presentation the course's own stub describes and the one that
+appears most often in clinics.
+
+**The referral.** Tunde (2 years, 4 months), referred by a community nurse at the request of his grandmother, who
+says he "does not listen" and "shouts at me". His parents work: the mother (Yemi, 27) runs a stall six days a week;
+the father (Kola, 31) drives a taxi on shifts. The grandmother (58) has cared for Tunde since he was eight months
+old. The household also contains the father's younger brother (19).
+
+**The history.** Walking at 15 months; first words at 14; two-word combinations at 27 months — at the lower end of
+range, in a household where three languages are spoken. Hearing has not been tested. Tunde attends a nursery three
+mornings a week, where he is described as "settled and quiet".
+
+**The three-setting comparison.** At nursery: follows routines, speaks little, plays alone but near others. With
+his mother on Sundays: clingy, and speaks more, mostly in Yoruba. With the grandmother on weekdays: shouts, refuses,
+hits the furniture. Three settings, three children.
+
+**The rules map, which is the assessment's centre.** The grandmother's rules: no playing outside, eat at the table,
+do not touch the radio, sleep at one. The mother's rules: outside is allowed in the yard, eating happens when he is
+hungry, the radio is not a problem, sleep at two if he is tired. The uncle's rules: none, and he gives sweets. The
+nursery's rules: a routine, a mat for stories, a rule about sharing.
+
+**The formulation, in three parts.** First, Tunde is living in a household with four rule systems, two of which
+(the grandmother's and the mother's) contradict each other on almost every point. Second, the grandmother is doing
+the largest share of the care with the least authority: the mother's rules prevail in principle and the grandmother's
+in practice, and neither woman can say so to the other. Third, the shouting is the most effective strategy available
+to a two-year-old in this arrangement: it produces attention, and it produces a change of plan.
+
+**The language finding.** Comprehension in Yoruba is good; production is delayed at the lower end of normal, in a
+trilingual environment. The referral for hearing is made in the first session. The language advice is not "speak
+one language" but "each caregiver speaks their strongest language to him, and everyone talks with him rather than
+at him" — which preserves the multilingual household and increases the child's exposure to sustained talk.
+
+**The intervention, in four parts.** One: a family meeting with the three adults (grandmother, mother, father) in
+which the rules map is drawn and *five* rules are agreed — and only five, because five is a number a household can
+keep. Two: the authority question settled explicitly — the grandmother decides the weekday routine, the mother
+decides the weekend, and neither contradicts the other in front of the child. Three: the limit formula, taught to
+the grandmother first, because she is doing the work, and rehearsed with her in her own words. Four: ten minutes a
+day of child-led play, by whoever is with him, because it is the fastest way to increase his language and his
+experience of being followed rather than directed.
+
+**What the parents' absence means.** The parents are not the caregivers during the week, and a plan that requires
+them to change their weekday behaviour will fail. The plan therefore works through the grandmother, and the parents'
+role is to endorse her authority in the child's hearing — one sentence, said in front of Tunde, once a week: "you
+do what Grandma says."
+
+**The outcome at eight weeks.** The shouting reduced substantially; the grandmother reported that "he listens
+better", which in practice meant that she had stopped repeating herself and started using the formula; the hearing
+test was normal; the language was at age level in Yoruba and improving in English at nursery. The mother and the
+grandmother had one argument, in the third week, about the rules, and settled it without the therapist.
+
+**What the case teaches.** That "he does not listen" is usually a statement about a household rather than a child;
+that the caregiver with the least authority is often doing the most work; that the intervention's site is the
+coordination between adults, not the child's behaviour; and that the language advice for a multilingual household is
+not subtraction.
+
+### 4.5 Annotated transcript: the family meeting about five rules
+
+Twelve turns from the family meeting in the case above, in which the therapist builds an agreement between three
+adults who have been contradicting each other for eighteen months.
+
+> **T1 Therapist:** I want to make a list of what actually happens now, not what should happen. Grandma, what are
+> your rules for him in the day?
+
+> **T2 Grandmother:** No going outside. He eats at the table. He sleeps at one.
+
+> **T3 Therapist:** (writing) And Yemi, when you are here on Sunday?
+
+> **T4 Mother:** He can play in the yard. And he eats when he is hungry, I do not force him.
+
+> **T5 Therapist:** (writing, then turning the sheet) So there are two sets, and both of you are doing what you
+> think is right. Who decides when they disagree?
+
+> **T6 Grandmother:** (pause) She is the mother.
+
+> **T7 Mother:** (pause) But I am not here.
+
+> **T8 Therapist:** So the person who is here has the rules of the person who is not here. That is very hard for
+> both of you, and it is also very confusing for a two-year-old.
+
+> **T9 Grandmother:** (nods) He knows. He goes to her when I say no.
+
+> **T10 Therapist:** That is exactly it. He has learned that there are two answers. Can we agree five rules that
+> are the same whoever is with him, and let everything else be each person's own business?
+
+> **T11 Mother:** (to grandmother) Which five?
+
+> **T12 Therapist:** (quietly) That is the question. You two decide, and I will write them down, and we will give
+> the fifth to Kola when he comes.
+
+**Annotations.** *T1* asks for the actual, not the ideal, and addresses the caregiver with the most practice rather
+than the parents with the most authority. The choice is deliberate: it credits the work before it asks for change.
+
+*T2–T4* produce the two rule systems without conflict, because the therapist is writing rather than judging. The
+sheet is visible to both, which means neither woman is being asked to hold her rules in her head against the other.
+
+*T5* is the question the household has avoided for eighteen months, and it is asked as a question about the
+household, not about either woman's competence. *T6–T7* are the answer, and the sequence is the finding: the
+grandmother concedes authority and the mother concedes presence, and neither had said so aloud.
+
+*T8* is the reformulation, and it is the session's turning point. It names the difficulty for both women, and it
+introduces the child's experience as the reason for change — which converts a power negotiation into a shared
+problem.
+
+*T9* is the grandmother's own evidence, offered freely once the conflict has been named, and it is better evidence
+than anything the therapist could have produced. The child "goes to her when I say no" is the two-year-old's
+solution to the household's problem, described by the person who has watched it.
+
+*T10* is the intervention: five rules, agreed, with everything else left as each person's business. The "five" is
+chosen deliberately — small enough to keep, large enough to cover safety — and the "everything else is your own
+business" is what makes agreement possible.
+
+*T11–T12* hand the authorship to the two women, and the therapist's last sentence adds the father without making
+him the absent problem. The fifth rule is "given to Kola", which enrols him and does not blame him.
+
+**What the trainee should notice.** The therapist made no behavioural recommendation, gave no parenting advice, and
+did not name the grandmother's methods as wrong. She built a structure in which the household could agree, and the
+agreement — not the technique — is what changed the shouting.
+
+### 4.5b The nine words a caregiver needs
+
+A short section on the vocabulary of the second year, because the words are the intervention.
+
+**"You may not. You may be angry."** The pair that separates the behaviour from the feeling, and the earliest
+lesson the child receives that both can be true.
+
+**"I will wait."** The sentence for the peak of a tantrum: presence without negotiation.
+
+**"You choose."** The smallest autonomy, offered where it is real: which cup, which book, which way to the car.
+
+**"Show me."** The instruction that replaces "use your words" for a child who does not yet have them, and that
+teaches the caregiver to look for the message rather than the misbehaviour.
+
+**"That was hard, and you did it."** The sentence that builds the child's account of himself as someone who
+manages difficulty, which is the second year's real prize.
+
+**"I am sorry I shouted."** The sentence that models repair, and that most caregivers have never heard from an
+adult themselves. Its effect on a two-year-old is small and its effect on a household is large, because it teaches
+everyone in the room that repair is possible.
+
+**"What does he need?"** The question the caregiver asks themselves instead of "why is he doing this?", and the one
+the therapist is trying to install.
+
+**"Who else says something different?"** The therapist's question, not the caregiver's, and the one that turns a child's behaviour into a household's coordination problem, which is the difference between a week of advice and a change in the household's arrangements.
+
+**"We will do it the same way."** The household's sentence, said by each caregiver to the child, and the smallest
+possible statement of an agreed structure.
+
+**How the nine are taught.** Not as a list to be memorised, but one at a time, in the family's language, rehearsed
+in the session, and written on the page the family takes home. Three of the nine, chosen by the family, are enough
+for a fortnight; the rest come later, and some never do.
+
+### 4.6 Laboratory: the formula and the rules map
+
+Sixty minutes, in threes.
+
+**Task one — the formula under pressure (twenty minutes).** Three scenarios, each played twice: first as a tired
+parent at the end of a day (the therapist plays the parent badly, on purpose), then using the formula. The observer
+records the three parts, the tone, and whether the parent explained.
+
+**Task two — the rules map (twenty-five minutes).** Each student maps a household they know: who is present, what
+each person's rules are, where the rules contradict, and who decides when they do. Then write the question that
+would open the conversation, in the family's language.
+
+**Task three — the five rules (fifteen minutes).** For the mapped household, draft five rules that all caregivers
+could keep, and mark which one is the safety rule. The test: could a grandmother, a mother and a nursery all keep
+them?
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| The formula | 30% | Feeling named, limit held without argument, alternative offered; quiet and repeated |
+| Tone and restraint | 20% | No lecture, no bargain, no threat, no shaming |
+| The rules map | 25% | Every caregiver covered; contradictions named; the deciding question identified |
+| Five rules | 15% | Keepable by all caregivers; one is a safety rule; the child could understand each |
+| Language advice | 10% | Multilingual household supported rather than simplified; comprehension assessed first |
+
+**The debrief question.** "Which part of the formula did you drop when the child escalated?" Almost everyone drops
+the alternative, and the discussion of why — because it feels like a reward, because the parent is angry — is the
+week's most useful ten minutes.
+
+### 4.6a When the household cannot agree
+
+The case in 4.4 went well; most do not, and the failures are instructive.
+
+**The household that cannot agree because the disagreement is about something else.** A couple who argue about
+whether their three-year-old may sleep in their bed. The rules map shows the disagreement is not about the child:
+the mother's own mother slept beside her until she was six, and the father's family regards a child in the marital
+bed as a boundary violation. The therapist who helps them agree about the child without naming the difference in
+their own histories will produce a rule that fails in a fortnight. The intervention is the history question, asked
+of each parent separately: "where did you learn what a family does at night?"
+
+**The household where the person with authority is not present.** A father who works abroad and who telephones
+every evening with instructions. The mother's rules are superseded nightly, and the child has learned that the
+telephone is the real authority. The intervention is a single conversation with the father, scheduled, in which the
+five rules are agreed and his role is redefined: not the nightly auditor, but the endorser of the mother's
+authority, in one sentence said to the child. Fathers who agree to this change the household more than any other
+single intervention in this week's material.
+
+**The household where the caregiver is exhausted.** A grandmother caring for two grandchildren under four while
+her daughter works, with no help and a bad knee. The five rules are agreed in ten minutes and abandoned by the
+second week, not because the household is uncoordinated but because the caregiver has nothing left. The
+intervention is not the rules; it is the relief — one afternoon a week, a nursery place, a neighbour — and the
+rules only work afterwards.
+
+**The household where the disagreement is being conducted through the child.** Each parent has a rule, and the
+child is the site of the argument; the toddler's "he lets me" and "she is strict" is the household's conflict in a
+two-year-old's vocabulary. The intervention is the same as in the first case: the adults' disagreement is named,
+the child is removed from the argument, and the five rules are agreed as a truce rather than as a philosophy.
+
+**The common lesson.** In every failure the technique was taught and the structure was not built. The formula and
+the five rules are instruments; they require a household that can agree, a caregiver who has capacity, and an
+authority structure in which the person doing the work has the standing to do it. A therapist who teaches the
+instrument without the structure has taught a technique the family will fail to use, and the family will conclude
+that they have failed.
+
+### 4.7 Six errors in toddler work
+
+1. **The advice avalanche.** Five techniques offered in one session, none of them practised. Fix: one formula, one
+   rehearsal, one week.
+2. **The child as the problem.** The assessment focused on the toddler's behaviour and the household left
+   unexamined. Fix: the rules map, before any behavioural plan.
+3. **The authority vacuum.** A plan that requires the parents to enforce rules they are not present to enforce.
+   Fix: work through the caregiver who is there, and have the parents endorse that authority aloud.
+4. **The missed hearing test.** A language delay assessed and managed without audiology. Fix: hearing first, every
+   time.
+5. **The subtractive language advice.** Telling a multilingual household to speak one language. Fix: each caregiver
+   speaks their strongest language; increase sustained talk; assess comprehension.
+6. **The shaming correction.** Any intervention that produces shame in the child or the caregiver. Fix: the limit
+   without humiliation, applied to the adults too.
+
+### 4.8 Culture, faith and the second year
+
+**Where the week's material travels well.** The developmental facts about autonomy, language and limits are robust,
+and the clinical claim — that a household's coordination matters more than any single technique — is more obviously
+true outside the Western nuclear family than within it, because more households are multi-caregiver.
+
+**Where it strains, three ways.**
+
+*The autonomy value.* Erikson's stage names autonomy as the outcome, and many households name obedience. A child
+who is taught to comply first and choose later is not delayed; the family's curriculum is different. The therapist's
+task is to distinguish a curriculum from a problem: a household that teaches obedience and also allows the child to
+be a person is doing both, and a household that punishes every assertion is producing the shame the stage warns
+about. The distinction is behavioural, not cultural.
+
+*The physical punishment question.* Many families use physical punishment, and the evidence on its effects is
+negative and consistent. The therapist's obligation is to state the evidence plainly, to be clear about the legal
+position where it applies, and to offer an alternative that the caregiver can actually use — which is the limit
+formula, taught with respect for the caregiver's intention. Moralising does not change behaviour; a workable
+alternative sometimes does.
+
+*The multi-caregiver household as the norm.* The literature's advice assumes a parent who is present and has
+authority. In households where a grandmother, an aunt or a paid helper does the care, the advice must be addressed
+to them, and the parents' role must be defined rather than assumed. This is the week's central cultural point, and
+it is the reason the case is written the way it is.
+
+**Faith and the second year.** Naming, dedication, first prayer, first fast, and the child's introduction to the
+community's rules are all part of the second and third years in religious households. The therapist should ask what
+the household expects of a two-year-old in religious terms, because the answer often contains a standard the parents
+are failing by and a resource they have not used — a grandparent, a community, a routine.
+
+> **DEBATE** — "Physical punishment is a cultural practice and a therapist should not impose a view about it."
+> Argue both sides, and say what the therapist is professionally obliged to do.
+
+### 4.9 Evidence note: robust development, contested practice
+
+**Well established.** The sequence of language milestones, with wide ranges; the importance of comprehension as
+against production in the differential; the effectiveness of hearing assessment as the first step; the association
+between sustained, contingent talk and language development; the association between consistent, non-humiliating
+limit-setting and later self-regulation; and the negative association between physical punishment and child
+outcomes, which holds across cultural contexts in the research, though the effect sizes vary.
+
+**Contested.** Whether the vocabulary count or the comprehension assessment is the better screen; the optimal
+amount of screen exposure in the second year, where the evidence is clearer about displacement of interaction than
+about the screens themselves; the effectiveness of parenting programmes delivered in groups versus individually;
+and the extent to which findings on physical punishment are confounded by the family contexts in which it occurs,
+which is the strongest version of the sceptical case and does not overturn the association.
+
+**What the popular literature gets wrong.** That the "terrible twos" are a period to be survived rather than a
+developmental achievement; that a child who does not speak by two is "just lazy"; that bilingual households should
+simplify; and that consistency means rigidity. Each is common in the advice families receive, and each requires
+correction.
+
+**What the practitioner may claim.** "The second year is the beginning of the self, and the household's task is to
+hold limits without humiliating the child; language delay is assessed by hearing, comprehension and play, not by
+word counts; and the intervention that works is an agreement between the adults who actually provide the care."
+Each claim is defensible.
+
+### 4.4a The same household, six months later: what changed and what did not
+
+A follow-up section, because the course's cases should show the ordinary unevenness of clinical change.
+
+**What changed.** The shouting at the grandmother reduced from "several times a day" to "maybe twice a week". The
+five rules were in use: the grandmother could recite them, the mother could, and Kola could recite three of them.
+Tunde's language was at age level in Yoruba. The grandmother and the mother had stopped contradicting each other in
+front of the child, mostly.
+
+**What did not change.** The parents were still absent during the week. The uncle still gave sweets, which nobody
+had included in the five rules, and which produced one predictable argument every Sunday. The grandmother still
+believed that the mother was "too soft", and said so to the therapist, once, when the mother was not in the room.
+And the household's crowding had worsened, with a cousin moving in.
+
+**What the therapist did with the things that did not change.** Three decisions, each recorded. The uncle's sweets
+were left alone: they were not a safety issue, and the household had chosen five rules that did not include them,
+which is what "everything else is each person's own business" means in practice. The grandmother's view of the
+mother was noted in supervision as a likely source of future difficulty, and not raised with her, because raising
+it would have required the therapist to take a side. And the cousin's arrival was added to the map, with one
+question to the grandmother: "what will be different for Tunde now that there is one more person in the room?"
+
+**Why this section exists.** Students reading case studies learn that therapy produces change in the areas it
+addresses and leaves the rest, and that a therapist who tries to change everything produces a family who comply in
+the room and revert at home. The discipline is to choose the smallest change that matters, get it into the
+household's routine, and leave the rest to the household.
+
+### 4.4b Two toddlers, two very different assessments
+
+A comparison, to make the differential concrete.
+
+**Toddler one.** Twenty-eight months. Twenty words. Understands everything: fetches named objects, follows
+two-step instructions, points to pictures on request. Uses gesture and vocalisation richly. Plays symbolically,
+feeding a doll. Hearing untested; family history of late talking (his father spoke at three).
+
+*Assessment:* expressive language delay, with good comprehension and symbolic play. *Action:* hearing test (normal);
+language stimulation advice; speech and language therapy referral; review in three months. *Prognosis:* good, and
+the family should be told so plainly.
+
+**Toddler two.** Twenty-eight months. Twenty words. Does not follow instructions unless they are accompanied by a
+gesture; does not point to show, only to obtain; does not bring objects to share; plays repetitively with one toy;
+distressed by a change of route to the nursery.
+
+*Assessment:* the language delay is accompanied by differences in social communication and flexibility, and the
+differential now includes a broader developmental assessment. *Action:* audiology, paediatric referral, and a
+speech and language assessment; the family work continues alongside, with attention to the parents' own distress
+and to the household's routines.
+
+**What distinguishes them.** Not the word count — both have twenty — but comprehension, gesture, shared attention,
+symbolic play and flexibility. The comparison is the reason the week teaches an assessment sequence rather than a
+vocabulary target.
+
+**The conversation with the parents of toddler two.** The hardest conversation in this week's material. What to do:
+name what is observed without naming a diagnosis; state what will be assessed and why; say what will not change,
+which is the parents' relationship with the child; give one thing to do this week that is useful whatever the
+outcome (a daily ten minutes of following the child's lead); and set the next appointment before they leave. What
+not to do: reassure falsely ("he will catch up"), speculate about causes, or deliver a diagnosis in a corridor.
+
+### 4.5a The language history, asked as a conversation
+
+Six questions, with what each produces, because the history is where the differential is decided.
+
+**One — "who speaks to him, in what language, and how much of the day?"** *Produces:* the exposure map, and the
+frequent finding that the child hears commands in three languages and conversation in none.
+
+**Two — "when he makes a sound, what happens?"** *Produces:* the contingency of the response. A household that does
+not answer the child's sounds is not depriving him; it is not yet in conversation with him, and that is changeable
+in a week.
+
+**Three — "what does he understand that he does not say?"** *Produces:* the comprehension-production gap, which is
+the single most useful piece of information in the differential.
+
+**Four — "does he point, and does he look at you when he points?"** *Produces:* shared attention, the marker that
+distinguishes a language delay from a broader developmental difference.
+
+**Five — "is he different at nursery?"** *Produces:* the setting comparison, which identifies the child who is
+silent in one place and fluent in another.
+
+**Six — "what did you notice first, and when?"** *Produces:* the onset and the parents' own chronology, which is
+often more accurate than the referral.
+
+**How the six are used.** In a single conversation of fifteen minutes, in the family's language, with the child
+present so that the answers can be checked against what the therapist sees. The written summary goes in the
+record with the hearing status, the comprehension judgement, and the referral decision — because those three are
+what the next clinician will need.
+
+### 4.10 Key terms
+
+| Term | Definition |
+|---|---|
+| Autonomy versus shame and doubt | Erikson's second stage: the self that can act, or the self that is judged |
+| Developmental function of "no" | The word establishes separateness and the first experience of agency |
+| Language explosion | The growth from about fifty words to three hundred and to two-word combinations in the second year |
+| Comprehension–production gap | Understanding more than one can say; the key variable in the language differential |
+| Late talker | Normal variation with good comprehension and often a family history |
+| Shared attention | Following and directing another's attention to an object; a marker distinguishing types of delay |
+| Symbolic play | Using one object for another; the foundation of imagination and narrative |
+| Limit formula | Name the feeling, hold the limit, offer the alternative |
+| Rules map | A drawing of every caregiver's rules and the points of contradiction |
+| Five rules | A deliberately small agreed set that a multi-caregiver household can keep |
+| Subtractive advice | Telling a multilingual household to abandon a language; not supported by evidence |
+| Coordination | The household's agreement about who decides and what the rules are |
+
+### 4.11 Self-test
+
+1. What is the developmental function of the word "no", and what happens in a household that cannot tolerate it?
+2. Give the three parts of the limit formula and explain why the order matters.
+3. Name the five-way differential for language delay and the assessment that decides it.
+4. Why is comprehension more useful than production in the assessment?
+5. What is the "rules map" and what does it reveal?
+6. Why is the multi-caregiver household the commonest presentation in toddler work?
+7. What does the evidence say about physical punishment, and what is the therapist obliged to do?
+8. What distinguishes a language delay from a broader developmental difference?
+
+**Answers.** 1. It establishes separateness and agency; a household that cannot tolerate it produces either a
+compliant child or an escalating one, and both present in clinics. 2. Name the feeling, hold the limit, offer the
+alternative; the order matters because a distressed child cannot process a limit until understood, a limit without
+the feeling teaches that feelings are inadmissible, and an alternative gives the refusal somewhere to go. 3. Late
+talker; multilingual; hearing loss; global delay; autism spectrum presentation — decided by audiology,
+comprehension assessment, play observation and the language history. 4. Because it separates a child who cannot
+produce from a child who cannot understand, which are different clinical situations and different prognoses. 5. A
+drawing of every caregiver's rules and their contradictions; it reveals that "he does not listen" is usually a
+household's uncoordinated rules. 6. Because most households with toddlers have more than two caregivers, and the
+literature's advice assumes a parent present with authority. 7. The association with negative outcomes is
+consistent across contexts; the therapist is obliged to state the evidence, be clear about the legal position, and
+offer a workable alternative rather than moralise. 8. Shared attention, gesture, symbolic play and flexibility — not
+the vocabulary count.
+
+### 4.12 Reflective task
+
+Write down five rules that were in force in the household where you grew up. Then write the five rules you would
+want in a household with a two-year-old. Compare them, and write three sentences on what the comparison tells you
+about your own developmental curriculum — the assumptions you will bring into a family's living room without
+noticing. Bring it to the seminar. The exercise is the week's cultural material applied to the practitioner, and most students discover at least one rule they have been enforcing in other people's houses without knowing where it came from.
+
+### 4.13 Readings for this week
+
+* **Erikson (1963)**, *Childhood and Society*, the second stage, read alongside the critique of the stages as
+  culturally located.
+* **Lieven (1994)** or **Tomasello (2003)**, *Constructing a Language*, for the language development this week
+  relies on.
+* **Rescorla (2011)**, on late talkers, for the evidence about prognosis and the case for early referral.
+* **Webster-Stratton (2005)**, on parenting programmes for young children, for the evidence behind the limit
+  formula.
+* **Gershoff (2002, 2016)**, the meta-analyses on physical punishment, read carefully, including the critique.
+* **Rogoff (2003)**, again, for the multi-caregiver household.
+
+Read Rogoff before the parenting literature; the corrective first. For the case analysis, take the language
+history of a real child (anonymised) and defend your differential in three sentences. The reading-log question this
+week is: "whose rules was I raised by, and how do they appear in my clinical advice?"
+
+*Next: [Week 5 — Early childhood: play, theory of mind, initiative](#week-5--early-childhood-play-theory-of-mind-initiative)*
+
 ---
 
 ## Week 5 — Early childhood: play, theory of mind, initiative
