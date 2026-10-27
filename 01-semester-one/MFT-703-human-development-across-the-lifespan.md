@@ -4824,7 +4824,7 @@ a stable arrangement that fails at twenty-six.
 and no one in the referral mentioned them. The absent parent's absence is a clinical fact even when — and
 especially when — it is presented as a virtue.
 
-### 7.9 Six errors, continued: the one that ends treatment
+### 7.9a A seventh error: the one that ends treatment
 
 There is a seventh error in this age band, and it is not a technique error; it is a relationship error with
 a predictable end.
