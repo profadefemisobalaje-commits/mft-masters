@@ -8792,6 +8792,35 @@ like?"
 
 ## Week 13 — Evidence, culture and critique
 
+**The question.** *Which of these nine models would you stake your registration on, and for which family?*
+
+This week assembles the matrix that the previous eleven weeks have been filling in, and then does three things
+with it: it examines what "evidence" means in a field where the trials are hard, it asks whose family each
+model was built for, and it practises the critique that a viva will require.
+
+### 13.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The matrix | Displays the completed table, and refuses to summarise it | Read their own row and mark what surprises them |
+| 10–25 | What counts as evidence | RCT, quasi-experiment, case series, process research, practice wisdom | Rank six kinds of claim by strength |
+| 25–40 | The common factors | The variance argument, and what it does to the matrix | Argue for and against the matrix's usefulness |
+| 40–55 | Whose family | The sample problem: who was in the trials | Name the families in their own caseload who were not |
+| 55–70 | Cultural translation | Three translations of one model, worked live | Translate one technique into a family's idiom |
+| 70–82 | The critique exercise | A model defended and attacked in four minutes each | Attack and defend in pairs |
+| 82–90 | Assessment briefing | The viva, the exam, and what distinction requires | Write their own thesis in one sentence |
+
+**The teaching decision that makes the week work.** The matrix must be displayed as an object of suspicion
+rather than as a summary. The lecturer should put it up, ask the class to find the three cells they trust least,
+and then examine why: the trials are small, the populations are narrow, the models were delivered by their
+inventors, the follow-ups are short. By the end of that examination the class should be able to use the matrix
+and to distrust it simultaneously, which is the professional posture the week is for.
+
+**The sentence the lecture must land.** "Every cell in this table is an argument, not a fact." A student who
+can say that and then defend a specific cell with a specific study has understood the week.
+
+### 13.2 The matrix, completed and read
+
 | Model | Strongest evidence | Weakest evidence | Main cultural critique |
 |---|---|---|---|
 | Structural | Child/adolescent behaviour; substance misuse | Adult mood disorders | Imposes a particular family hierarchy |
@@ -8804,18 +8833,1421 @@ like?"
 | Solution-focused | Moderate (depression, brief formats) | Severe mental illness | Can bypass grief and risk |
 | Narrative | Growing; strong qualitative base | Large trials | Requires verbal fluency |
 
-**The reflexive question.** For each row, ask: *whose family is this model describing?* Models were
-developed largely with white, Western, middle-class, two-parent families in clinic settings. When you
-apply them to a polygynous household, a three-generation compound, a family separated by migration, or a
-family whose authority structure is religious rather than developmental, you must translate — and say
-that you are translating.
+**How to read a row.** Four columns, and each is a different kind of claim. The first column is an outcome
+claim: this model has produced change in a controlled comparison, for this presentation, in these samples. The
+second is a limit claim: for this presentation the model has no good evidence, which is not the same as
+evidence of no effect. The third is a critique, which is a claim about values and fit rather than about
+outcomes. A student who confuses the three will write an essay that mixes them, which is the commonest error in
+this course's assessments.
+
+**How to read a column.** Reading down the first column produces a hierarchy of evidence: behavioural couple
+therapy and EFT at the top, structural and solution-focused in the middle, Bowen and Milan at the bottom.
+Reading down the third column produces a different pattern entirely: the models with the strongest evidence
+(behavioural, EFT) attract the sharpest cultural critique, and the models with the weakest evidence (Milan,
+narrative) are the ones most often described as culturally adaptable. That inverse relationship is not a
+coincidence, and 13.5 explains it.
+
+**The cells that students most often misstate.** *Structural* — the evidence is for child and adolescent
+behaviour problems and for substance misuse, mostly in the 1970s and 1980s literature, with later work in
+adolescent drug use; it is not evidence for adult mood disorders, where the trials belong to other models.
+*Bowen* — the claim is a clinical tradition, and the honest cell says so; there are very few controlled trials.
+*Milan* — the classical form has little trial evidence, and the cell must not be filled with the reflecting
+team's qualitative literature as though it were an outcome finding. *Solution-focused* — moderate, and weaker
+in family formats than in individual ones. *Narrative* — the qualitative literature is substantial and it is
+not outcome evidence.
+
+**The empty cells.** The matrix is also instructive where it is blank. There are no large trials of family
+therapy for families living in extreme poverty; none for polygynous households; almost none for families
+separated by migration; very few for families in which the identified client is an elder. These absences are
+not neutral: they mean the evidence base describes a subset of the world's families, and the practitioner who
+works with the others is necessarily extrapolating.
+
+### 13.3 What counts as evidence, ranked
+
+**The hierarchy, in the form the profession uses.** Systematic reviews and meta-analyses of randomised
+trials; individual randomised controlled trials; quasi-experimental studies with matched or waitlist
+comparisons; single-case experimental designs; systematic case studies; process research; practice wisdom and
+expert opinion. The hierarchy is about causal inference, and it is a good hierarchy for one question: did this
+treatment cause this change?
+
+**The other questions, and the designs that answer them.** *How does it work?* — process research, mediation
+analysis, qualitative studies of mechanism. *For whom does it work?* — moderator analyses, subgroup trials,
+and the qualitative study of non-responders. *Can it be delivered?* — implementation research, fidelity
+studies, and the audit of routine practice. *Is it acceptable to this family?* — qualitative work, and asking
+them. The hierarchy ranks designs for the first question and is silent about the others, which is why a
+therapist who reads only the hierarchy concludes that only trials produce knowledge.
+
+**The specific problem of family therapy trials.** Four difficulties, each of which lowers the quality of the
+evidence even where trials exist. *Blinding is impossible* for the therapist and difficult for the family, so
+allegiance and expectancy cannot be excluded. *Allegiance effects* are strong in psychotherapy research: the
+model's developer, who usually runs the trial, produces larger effects. *Manualisation and fidelity* vary, and
+a trial of "structural family therapy" may deliver something quite different from what the name promises.
+*The unit of analysis* is contested: the family is the client, and outcomes are usually measured on one
+member's symptoms, which may be the wrong unit.
+
+**The consequence for practice.** A practitioner should ask four questions of every trial they read: who ran
+it; what was the comparison; what was measured, and on whom; and how long was the follow-up. Those four
+questions will downgrade about half the literature and will make the remaining half usable.
+
+**What case series and single-case designs are for.** Not for establishing efficacy but for establishing
+feasibility, mechanism and descriptive detail. Milan therapy's canonical literature is a set of case reports,
+and their value is that they show what the model looks like in a room; their limitation is that they cannot
+show that it worked better than anything else. Both statements can be true at once, and a student who can hold
+them both is ready for the viva.
+
+### 13.4 The common factors, and the variance argument
+
+**The claim.** Across psychotherapy research, the specific techniques of different models account for a
+modest share of outcome variance, while factors shared by all models — the alliance, the therapist, the
+client's own resources and expectancies, the ritual of therapy itself — account for a larger share. The
+estimates are contested and vary by method, and Wampold's context-focused account and the medical-model
+account are both live positions in the field.
+
+**What it implies for the matrix.** If the common factors dominate, then the matrix's first column is less
+important than it looks: a well-delivered Bowen therapy by an excellent therapist may outperform a badly
+delivered EFT by a poor one, and the comparative trials will not detect it because they compare average
+therapists delivering manualised treatments. The matrix is therefore a statement about *models as delivered in
+trials*, not about *therapy as practised*.
+
+**What it does not imply.** That models do not matter. Three qualifications, all well supported. First, the
+variance share is not a claim that technique is irrelevant; some presentations have specific effective
+treatments (exposure for phobias; EFT for couple distress) and delivering the wrong one wastes the alliance.
+Second, the therapist effect is large, which means the model's delivery matters enormously and the model's
+label matters less. Third, the common factors are themselves trainable — alliance ruptures, repairing them,
+managing the frame — and a practitioner can improve at them.
+
+**The practitioner's synthesis, in three sentences.** "I will use a model with evidence for this presentation,
+because the specific treatment matters for some problems and because families deserve the best-tested option.
+I will accept that how I deliver it matters more than which one I chose, and I will therefore invest in
+alliance, in my own regulation, and in measuring what happens. And I will not use the common-factors argument
+to justify delivering a model I am not trained in, because the argument is about averages and my family is not
+an average."
+
+**The assessment's use of the argument.** The 30% case study and the viva both reward a student who can say
+what the common factors do and do not permit them to claim. A student who dismisses the matrix ("it is all
+common factors") is as limited as one who worships it.
+
+### 13.4a The four levels of evidence in routine practice
+
+A practitioner cannot generate trials, and can generate four kinds of knowledge in their own clinic. Each is
+worth naming, because students who believe only trials count will never evaluate their own work.
+
+**Level one — the routine outcome measure.** A satisfaction measure and, where relevant, a symptom measure,
+administered at intake, at review and at ending. The measure is not research; it is the minimum condition of
+knowing whether the therapy is working, and it takes four minutes. A clinician with two years of measures has
+data on their own practice that no trial contains, because it concerns their families.
+
+**Level two — the recorded session.** With consent, a session recorded and reviewed, by the therapist and with a
+supervisor, against a specific question: what did I do, and what happened next? This is process research at the
+scale of one case, and it is the most efficient form of continuing development available.
+
+**Level three — the systematic case study.** A written account, prospective, with measures, of a case that
+illustrates a problem: the family the model did not fit, the adaptation and its outcome, the failure and its
+analysis. The case-study literature is thin because practitioners write retrospectively; a prospective case study
+with measures is a genuine contribution (MFT 728).
+
+**Level four — the service audit.** The caseload's outcomes, attendance, drop-out and complaint data, examined
+annually. An audit can answer questions no trial can: who does not come back, and what do they have in common?
+That question is the beginning of most service improvements, and it is answerable from a filing cabinet.
+
+**What the four levels have in common.** Each is a discipline rather than an achievement: a measure repeated, a
+recording reviewed, a case written as it happens, a caseload examined. None requires a grant, and each produces
+knowledge that transfers to the next family, which is the only test a practitioner's evidence ultimately faces.
+
+### 13.5 Whose family? The sample problem
+
+**The demographic fact.** Most of the trials in this book's matrix were conducted with volunteers, recruited
+through clinics and advertisements, in high-income countries, mostly with white, partnered, employed,
+heterosexual parents of children living at home. The families in a public clinic in Ibadan, Lagos, Nairobi or
+Lagos's suburbs differ from that description in predictable ways: co-resident grandparents, non-marital
+households, polygyny, migration, informal employment, religious authority in family decisions, and a
+relationship to state services shaped by suspicion.
+
+**The three consequences.**
+
+*Consequence one — transportability is an assumption.* Nothing in the evidence base establishes that a model
+tested on one population works on another. The assumption is often reasonable, and it is an assumption. A
+practitioner who says "EFT has thirty trials" to a family whose circumstances resemble none of them is making a
+claim the trials do not support.
+
+*Consequence two — the mechanisms may not transfer.* EFT's mechanism — the softening event — depends on two
+partners being able to speak vulnerably to each other in front of a therapist. In a household where the
+marriage's difficulties are adjudicated by an elder, the mechanism may be unavailable not because the couple
+are defended but because the structure does not permit the conversation. The model is not wrong; it is
+partially inapplicable, and the practitioner must say so.
+
+*Consequence three — the critique is not a reason to abandon the models.* The alternative to a partially tested
+model is not no model; it is an untested model, usually the practitioner's own assumptions. The professional
+response is to use the best available model, adapt it explicitly, record the adaptation, and measure the
+result — which is what 13.6 practises.
+
+**The inverse relationship, explained.** Why do the models with the weakest evidence attract the warmest
+cultural reviews? Three reasons. First, the models that refuse to specify a treatment (Milan, narrative) cannot
+be manualised and therefore cannot be tested, and their refusal to specify is also what makes them adaptable.
+Second, the culturally adaptive models tend to work with meaning rather than with behaviour, and meaning is
+where cultural difference is most visible; a behavioural contract looks the same in every culture and is
+correspondingly less discussed. Third, the critiques of the well-evidenced models are written by scholars who
+are themselves working within the culturally adaptive traditions, which is a sociological fact about the
+literature rather than a fact about the models.
+
+**The exercise.** Take the family you know best who resembles none of the trial samples. For each of the nine
+models, write one sentence on what would have to change for the model to be used with that family. Then write
+one sentence on whether the change is an adaptation or a different treatment.
+
+### 13.6 Translating a model, worked three times
+
+The week's practical skill: taking a technique from a model and adapting it to a family whose circumstances the
+trial never saw, explicitly and with a record.
+
+**Translation one — the behavioural exchange in a polygynous household.**
+
+*The technique as written.* Each partner lists three small daily behaviours the other would find pleasing; the
+contract is exchanged and reviewed weekly. The technique assumes a dyad, a shared household, and a private
+negotiation.
+
+*The family.* A household with two wives, a husband, seven children and a resident grandmother, referred for
+conflict between the wives and the children's school attendance.
+
+*The problem with the technique as written.* A contract between the husband and one wife changes the other
+wife's position without her consent, and the household's economy is joint, so a private exchange is impossible.
+
+*The translation.* The contract is constructed as a household plan, with all three adults present and the
+grandmother consulted. The items are behaviours that each adult will do for the household rather than for a
+partner: who collects which child from school on which day; who takes the grandmother to the clinic; what
+happens when the husband is travelling. The exchange becomes a coordination agreement, and the technique's
+logic — small, daily, observable, chosen by the recipient — is preserved while its dyadic premise is dropped.
+
+*What is recorded.* "Behavioural exchange, adapted: three-adult household plan, coordination items, recipients
+defined by child care rather than by partnership. Adaptation recorded because the model's dyadic premise does
+not fit the household. Outcome measure: school attendance, and a weekly household coordination meeting."
+
+*What was lost.* The intimacy function of the technique, which was the model's mechanism: reciprocal positive
+exchange between partners builds the bond. In a polygynous household, the bond work must be done in another
+way, and the therapist should say that the adaptation addresses coordination and not intimacy.
+
+**Translation two — the miracle question in a family with a chronic illness.**
+
+*The technique as written.* Suppose tonight a miracle happens and the problem is solved; what is the first thing
+you notice tomorrow?
+
+*The family.* A mother with advanced renal disease, a father who has become her carer, and two adolescents whose
+schooling is being disrupted by hospital appointments.
+
+*The problem.* The answer to the miracle question, honestly given, is "I do not have kidney failure", and the
+question then becomes an invitation to wish for something impossible.
+
+*The translation.* Use the coping question first — "how have you kept the household going through eighteen
+months of dialysis?" — and then a bounded version of the miracle: "suppose the illness stays exactly as it is,
+and tomorrow is a good day within it. What is different about that day?" The answer is concrete: who takes her
+to the hospital, whether the father gets an hour's sleep, whether the boys do their homework at the kitchen
+table. The technique's function — a description of a preferred future in behavioural detail — is preserved, and
+the impossible wish is not solicited.
+
+*What is recorded.* "Solution-focused, adapted: bounded miracle ('a good day within the illness'), following two
+coping questions. Adaptation recorded because the unbounded version solicits an impossible remedy."
+
+*What was lost.* The hope function of the unbounded question, which for some families is precisely what mobilises
+them. The therapist judges that this family would find it cruel, and that judgement is recorded as a judgement.
+
+**Translation three — externalising in a family with low literacy and strong religious authority.**
+
+*The technique as written.* The problem is named in the family's language, personified, and its influence mapped
+in conversation; a letter is written.
+
+*The family.* A rural household referred by a clinic; the mother is the identified client and the paternal uncle
+is the decision-maker; literacy is limited and the family's account of the problem is spiritual ("a spirit of
+fear").
+
+*The problem.* A letter is useless to a family who cannot read it; and externalising a spirit can be heard as
+the therapist disputing the family's faith.
+
+*The translation.* The naming uses the family's own spiritual vocabulary without endorsing or contesting it: "the
+fear that has been in the house since the uncle's death — the family has a name for it, and I will use their
+name." The mapping is done aloud, with stones or marks on paper rather than writing, and the uncle is included
+because the family's decisions require him. The document is replaced by an audio recording on a phone, or by a
+short summary read aloud at the start of the next session.
+
+*What is recorded.* "Narrative, adapted: naming in the family's spiritual vocabulary; oral mapping; audio
+document; paternal uncle included as decision-maker. Adaptation recorded because of literacy and authority
+structure."
+
+*What was lost.* The permanence of the written document, which for many families is the technique's most durable
+component. The audio recording replaces it partially, and the therapist should check whether the family have a
+phone and whether it is shared.
+
+**The general method of translation.** Four steps: identify the technique's mechanism; identify the premise the
+premise depends on (a dyad, privacy, literacy, a shared reality, a decision-making couple); check the premise
+against the family; preserve the mechanism and change the delivery; record what was changed and what was lost.
+The last step is what separates adaptation from improvisation, and it is what a supervisor and an examiner will
+look for.
+
+### 13.6a A translation that went wrong
+
+The record of a failed adaptation, because the successes teach less.
+
+**The case.** A family referred after a father's stroke: the mother, three adult children, and the father, who
+had been the household's decision-maker and now could not speak. The therapist, trained in EFT, adapted the
+model to the family by using the couple's attachment cycle with the parents, with the children present, and
+using writing for the father.
+
+**What happened.** The first session produced a great deal of affect from the mother and silence from the
+father; the children intervened to interpret for him; and the session ended with the mother in tears and the
+father in distress. The second session was cancelled. The family did not return.
+
+**The errors, in order.** First, the couple work was attempted before the family had adapted to the stroke, so
+the model's stage one was not complete. Second, the technique's mechanism — a softening event between two
+partners who can speak to each other — was unavailable, because the father could not speak, and the adaptation
+did not supply a substitute mechanism. Third, the children were present as interpreters, which placed them
+inside the parents' attachment conversation, a structural error that any of Weeks 4, 6 or 12 would have caught.
+Fourth, no outcome measure and no review point were set, so the therapist learned of the failure only by the
+cancellation.
+
+**What should have been done.** A phase of family work on the household's reorganisation after the stroke
+(structural, with the children's roles made explicit); a communication aid for the father; the couple's
+emotional work deferred until a medium existed; and a supervision conversation about whether this therapist, at
+this stage of training, should have taken the case.
+
+**The lesson.** Adapting a technique requires adapting its mechanism, not only its delivery. If the mechanism
+cannot be preserved, the technique should not be used, and the therapist should say so — to the supervisor, to
+the family, and in the record.
+
+### 13.7 Case: the family the trials never saw
+
+A full case, integrating the week's three themes — evidence, culture and critique — in one family.
+
+**The family.** The Baloguns. Mr Balogun (52) is a long-distance lorry driver who is away for three weeks at a
+time. Mrs Balogun (46) runs a food business from the house, cares for her husband's mother (78, with dementia),
+and manages four children, of whom the eldest (17) has stopped attending school and the second (14) has been
+diagnosed with sickle cell disease. The referral comes from the school, and it names the eldest as "beyond
+parental control". The family's church pastor has been involved and has told the parents that the boy's behaviour
+is a spiritual matter.
+
+**The evidence question.** Which model, on the matrix, has the best evidence for an adolescent with school
+refusal in a family under this kind of strain? The honest answer is that the evidence base has almost nothing to
+offer for this configuration: structural family therapy has evidence for adolescent behaviour problems but the
+trials involved two-parent households with an available father; solution-focused work has moderate evidence and
+its brevity fits, and its samples were volunteers; narrative work has thin evidence and is the best fit for a
+family whom two institutions have described. The practitioner's reasoning, stated in the record: "Structural
+family therapy for the executive problem, with the father absent and therefore worked with by telephone at fixed
+times; solution-focused work for the school attendance, because a graded return is nameable and brief; narrative
+work for the church's description, because the boy is currently living inside a label."
+
+**The culture question.** Three features of this family are outside the trial samples. The father's occupation
+makes the parental subsystem geographically split. The grandmother's dementia means the household contains a
+second dependent adult whose care is the mother's, and whose presence changes what "the parents" means. The
+church is a decision-making authority in the family, and its account of the boy's behaviour is not a belief to be
+managed but a structure to be worked with.
+
+**The critique question.** What would each model do badly here? Structural work would attempt to strengthen a
+parental subsystem that cannot meet in a room, and might pathologise the mother's coalition with her son when it
+is in fact her only available support. Solution-focused work would risk asking a family under this strain what
+they want to be different, when the honest answer includes "I want my husband at home and my mother-in-law well".
+Narrative work would risk making the church's account a "dominant story" to be contested, when the family
+experience the church as help.
+
+**The plan.** Six sessions, with a review at three. Session one: the family's account, the risk screen (including
+a question about the grandmother's safety and the mother's exhaustion), and the pastor's involvement established
+with consent. Session two: a structural formulation, with the father joining by telephone at a fixed time, and a
+single executive task — one rule about the eldest's mornings, agreed by both parents, with the mother's authority
+explicitly delegated by the father in the call. Sessions three and four: a graded return to school, negotiated
+with the school, with the eldest's own goals as the target (he wants to sit his examinations). Sessions five and
+six: the church's involvement reframed with the pastor's consent — not as a spiritual problem but as a young man
+who needs the men of the church to take an interest in his schooling — and one of them attends session six.
+
+**The outcome, honestly reported.** The eldest returned to school after four weeks, attended erratically for a
+term, and sat his examinations. The mother's exhaustion did not change, because nothing in the plan addressed the
+household's division of labour, and the therapist recorded that as a limitation of the episode rather than as a
+success. The father's absences continued. The church's involvement became the most durable part of the plan.
+
+**What the case demonstrates.** That using a model with evidence requires stating what the evidence covers and
+what it does not; that cultural adaptation is a set of explicit decisions rather than a general sensitivity; and
+that a therapy can produce a real change and leave the family's central difficulty untouched, which the record
+should say.
+
+### 13.7a Two critiques of this course's own matrix
+
+The week should model the critique it teaches, including of the matrix that organises the course.
+
+**Critique one: the matrix measures the wrong thing.** Its first column asks whether a model produced change in
+a trial, and the question a family cares about is whether they will be helped. A model with a moderate average
+effect may be excellent for some families and useless for others, and the matrix's structure — one cell per
+model — hides the heterogeneity that matters. The matrix also ranks packages, and the evidence increasingly
+suggests that the therapist and the alliance are the largest determinants, which makes a model-level table a
+misleading summary of what determines outcome.
+
+*The reply.* The critique is right and the matrix is still useful, because a model-level summary is what a
+curriculum can teach and what a practitioner can choose between. The matrix should be read as a starting point
+for a selection decision, not as a verdict on therapy.
+
+**Critique two: the matrix's third column is doing something the first two are not.** The cultural critique
+column mixes at least three different kinds of claim: that a model's assumptions are culturally specific; that
+its effects may not transfer; and that its values are objectionable. A table that places "imposes a particular
+family hierarchy" beside "few RCTs" implies that the two are comparable findings, and they are not: one is
+empirical and the other is normative. A rigorous version of the matrix would separate them.
+
+*The reply.* Agreed, and the separation is what 13.2's "how to read a row" attempts. The table is a teaching
+device, and its compression is a pedagogical choice with a cost that students should be able to name.
+
+**The exercise.** Rewrite one row of the matrix in the way you think it should be written, with the columns you
+would use, and defend the change in five sentences. This is the exercise that separates a student who has
+learned the matrix from one who has understood it.
+
+### 13.8 Laboratory: the four-minute defence
+
+Sixty minutes, pairs, three rounds, each round on a different model.
+
+**The format.** Four minutes in which one student defends a model's evidence claim and the other attacks it;
+then swap. The defender must cite at least one specific study or body of work. The attacker must find the
+weakest element: the sample, the comparison, the measure, the follow-up, the allegiance, the population.
+
+**Round one — a model with strong evidence.** The defender cites the trials and the effect sizes; the attacker
+finds the exclusion criteria, the Western samples, the developer-led trials. The lesson: strong evidence has
+specific limits, and stating them strengthens rather than weakens the claim.
+
+**Round two — a model with weak evidence.** The defender must not overclaim: the honest defence is a clinical
+tradition, process evidence, and a claim about fit. The attacker presses for the missing trial. The lesson: a
+weak evidence claim can be made honestly, and the honest version is more persuasive than an inflated one.
+
+**Round three — the model the student dislikes.** The defender must argue for a model they do not use; the
+attacker must defend the model they do use. The lesson: the ability to argue the other side is the mark of a
+practitioner who has chosen rather than joined.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Specific citation | 25% | Names studies or bodies of work, not "research shows" |
+| Accurate claim strength | 25% | Does not overstate; distinguishes outcome, limit and critique |
+| Engagement with the attack | 25% | Answers the strongest version of the objection, not a straw man |
+| Reversal | 25% | Argues the other side convincingly in round three |
+
+**The debrief question.** "What would change your mind about your home model?" Students who cannot answer it
+have a commitment rather than a position, and the viva will find out.
+
+### 13.8a A cultural translation checklist
+
+Six questions, asked of any technique before it is used with a family unlike the trial sample.
+
+**One — what does this technique assume about who is present?** A couple, a parenting dyad, a household, a
+decision-making elder. If the assumption does not hold, the technique's target must be reconstituted.
+
+**Two — what does it assume about privacy?** A confidential conversation between partners; a room in which
+something can be said that others will not hear. Where a household has no privacy, an enactment may be
+impossible and dangerous.
+
+**Three — what does it assume about speech, and whose speech?** A family in which the senior man speaks for
+everyone will not produce the four-turn enactment the manual describes, and the therapist's invitation to the
+youngest member may be heard as the therapist's alliance against the elder.
+
+**Four — what does it assume about literacy, and about documents?** Written contracts, charts, letters and
+scales. Where literacy is limited, every document must be read aloud, drawn, or replaced by an audio record.
+
+**Five — what does it assume about time and money?** Weekly attendance, a fixed hour, a partner who can leave
+work, a household that can pay for transport. A technique that requires four consecutive weeks of attendance is
+not available to a family whose income depends on market days.
+
+**Six — what does it assume about the therapist's authority?** A therapist who can invite, challenge or reframe
+is assuming a position the family will grant them. In some families the therapist is a guest, and a guest who
+reframes the elders is a guest who is not invited back.
+
+**How to use the checklist.** Complete it in writing for the technique you intend to use, before the session, and
+record the adaptations. The checklist is not a demand for cultural correctness; it is a demand for specificity,
+and specificity is what makes an adaptation honest.
+
+### 13.9 Annotated transcript: a viva, examined
+
+Twelve turns from a mock viva, with the candidate's answers compressed and the examiner's reasoning annotated.
+This is the week's most direct preparation for the assessment.
+
+> **E1 Examiner:** You have said your home model is structural family therapy. Which trial would you cite for
+> it?
+
+> **C1 Candidate:** The evidence is strongest for adolescent behaviour problems and substance misuse, from the
+> 1970s and 1980s work and later adolescent drug-use trials. I would not cite a single trial as though it settled
+> the question, because the trials are old, the samples are narrow and the manuals varied.
+
+> **E2 Examiner:** So you are claiming an evidence base you have just undermined.
+
+> **C2 Candidate:** I am claiming a specific evidence base. It supports structural work with families where
+> there is an executive problem and an adolescent behaviour problem. It does not support structural work with
+> adult mood disorders, and I would not use it there.
+
+> **E3 Examiner:** Your case is a family with a father who works away. Structural therapy assumes a parental
+> subsystem that can meet.
+
+> **C3 Candidate:** Yes. That is the adaptation I would record: the subsystem meets by telephone at a fixed time,
+> with the father delegating authority explicitly in the call. The mechanism — a joint executive decision — is
+> preserved; the delivery is not.
+
+> **E4 Examiner:** What does the telephone do to the mechanism?
+
+> **C4 Candidate:** It removes the non-verbal channel, so the father cannot see his wife's face when he delegates,
+> and the children cannot see the parents together. I would compensate with one face-to-face session when he is
+> home, and I would say to the family that the telephone version is a compromise.
+
+> **E5 Examiner:** You have described three models in your plan. Which one is the therapy?
+
+> **C5 Candidate:** The structural work is the therapy for the first half. The graded return is a behavioural
+> plan negotiated with the school, which I would describe as a component rather than a therapy. The narrative
+> element is the smallest: it is a way of talking about the label, and I would drop it if the sessions were fewer.
+
+> **E6 Examiner:** And if the school refuses to cooperate?
+
+> **C6 Candidate:** Then the school's refusal becomes part of the formulation, and the target changes to what the
+> family can control. The review point would catch it, and I would record the change with its reason.
+
+> **E7 Examiner:** What would make you abandon your home model altogether?
+
+> **C7 Candidate:** A presentation where the evidence points elsewhere and the mechanism is unavailable — a couple
+> where one partner is afraid, for instance. That is not a structural question; it is a safety question and then an
+> EFT or a specialist referral.
+
+**Annotations.** *E1* is the question that separates students who have read from students who have absorbed: it
+asks for a citation, and the examiner is testing whether the candidate will produce a vague one. *C1* answers by
+naming the population and the era, and by refusing to overclaim — which is the strongest available answer.
+
+*E2* is the trap: the examiner presses the candidate's honesty as though it were a contradiction. *C2* passes
+because it distinguishes the specific claim from the general one, and because it says where the model would not be
+used. A candidate who became defensive here, or who inflated the claim, would fail the exchange.
+
+*E3–E4* test whether the candidate's adaptation is a real adaptation or a slogan. The distinction the candidate
+draws — mechanism preserved, delivery changed, with the loss (the non-verbal channel) named — is the answer the
+week has been building toward. *C4* is the answer that earns a distinction, because it names what the telephone
+costs.
+
+*E5* tests coherence: three models in a plan invite the accusation of technique salad. *C5* survives by
+subordinating the components to one therapy and by saying which one it would drop under constraint.
+
+*E6* tests whether the plan is a plan or a hope. The answer — the refusal becomes part of the formulation — is a
+structural answer, and it is correct.
+
+*E7* is the hardest question, and it is the one the course's final week will ask in writing. *C7* answers with a
+criterion rather than a feeling: a presentation, a piece of evidence, a mechanism unavailable. That is the form an
+answer should take.
+
+**What the trainee should notice.** Every strong answer in this transcript is a qualification. The viva is not
+testing conviction; it is testing whether the candidate can hold a position and its limits at the same time.
+
+### 13.10 Six errors in the evidence and culture week
+
+1. **The inflated citation.** "Research shows that EFT works" — for whom, at what effect size, in what
+   comparison? Fix: name the population and the strength, and say what the evidence does not cover.
+2. **The dismissive common factors.** "It is all the alliance, so the model does not matter." Fix: the
+   common-factors argument is about averages and it does not license incompetence in a specific model.
+3. **Cultural sensitivity as a general attitude.** "I am culturally sensitive" offered instead of a specific
+   adaptation. Fix: name the premise the technique assumes, and say what you changed.
+4. **The adaptation that loses the mechanism.** Keeping a technique's form and losing its function (13.6a).
+   Fix: state the mechanism, and check whether the adaptation preserves it.
+5. **The critique as a substitute for practice.** A student who can deconstruct all nine models and cannot
+   conduct a session. Fix: the laboratory, and a case in supervision.
+6. **The matrix as a verdict.** Using the table to conclude that two models are worthless. Fix: read the second
+   column as a limit claim, not as an absence of effect, and know what a case series can show.
+
+### 13.10a Faith, and the evidence question
+
+A short section at the end of the week, because the three themes meet here.
+
+**The claim to be examined.** Many of the families a practitioner will see hold a religious account of their
+difficulties, and the practitioner's models hold a psychological one. The question this week raises is not
+whether the two are compatible — they often are — but what the practitioner does when the family's account and
+the evidence point in different directions.
+
+**Three situations.** *Situation one:* the family's account is a resource and the evidence agrees — a couple
+whose church attends to their marriage, where the evidence supports social support and shared ritual. The
+practitioner mobilises both. *Situation two:* the family's account is neither confirmed nor contradicted by the
+evidence — a belief about a spiritual cause with no behavioural implications. The practitioner neither endorses
+nor contests, and asks what the family will do about it. *Situation three:* the family's account requires
+something the evidence contradicts — the withdrawal of a child from school, the refusal of medication for a
+psychosis, the attribution of a treatable illness to a spiritual cause. The practitioner states the position
+plainly, once, with respect, and follows the professional obligation (MFT 721, and this book's Week 5 for the
+ethics of direction).
+
+**What the evidence cannot adjudicate.** Whether a family's faith is true. That is not a clinical question, and
+a practitioner who treats it as one has confused two domains. What the evidence can adjudicate is the effect of
+specific practices on specific outcomes, and the practitioner's competence is to distinguish the two questions
+and to answer only the one they are equipped for.
+
+**The examinable sentence.** "I am not qualified to adjudicate your faith, and I am qualified to tell you what
+the evidence says about this treatment, and what I am obliged to do." That sentence is a practitioner's answer,
+and it holds the three themes of this week together.
+
+### 13.10b What a critique is for
+
+The week's last section, and the one that decides whether students become practitioners or commentators.
+
+**A critique is an instrument, not a verdict.** The purpose of asking what a model cannot do is to use it better:
+to know which family to give it to, which to keep away from it, and what to import when it fails. A critique
+that ends in dismissal has produced an opinion; a critique that ends in a selection rule has produced a
+practitioner.
+
+**The four questions of a usable critique.** *For whom does this fail?* (the population). *Through what mechanism
+does it fail?* (the premise that does not hold). *How would I know it was failing?* (the signal, and its timing).
+*What would I do instead, and on what evidence?* A critique that cannot answer the fourth question is a complaint.
+
+**The worked example.** Structural family therapy, critiqued as hierarchical. The usable version: it fails where
+the family's hierarchy is not the therapist's to strengthen — a household organised by a grandmother whose
+authority the parents cannot contest, or a household in which the parental subsystem is absent because a parent
+is dead, imprisoned or abroad. The mechanism of failure is that the technique requires an executive subsystem to
+strengthen, and there is none available. The signal is that the enactment produces compliance without change, or
+that the parents defer every task to a third party. What the practitioner does instead: works with the actual
+authority structure (Milan's neutrality, or a network approach), imports a behavioural task that does not require
+a joint parental act, and records the adaptation. That paragraph is a critique in the form this course requires.
+
+**The habit to build.** Every time you finish reading a model, write four sentences: for whom it fails, through
+what mechanism, how you would know, and what you would do instead. Nine models, thirty-six sentences, and they
+will serve you for a career — and they are the best possible preparation for a viva, because each of them is an
+answer waiting for its question.
+
+### 13.11 Evidence note: how to write an evidence claim
+
+The week's final skill, and the one the examination rewards. An evidence claim in family therapy has five parts,
+and a claim missing any of them can be dismantled in a viva.
+
+**Part one — the population.** For whom? "For couples in which one partner is depressed and the relationship is
+distressed, without violence."
+
+**Part two — the outcome.** What changed? "Relationship satisfaction improved, and depressive symptoms fell."
+
+**Part three — the comparison.** Compared with what? "Compared with a waitlist and, in one trial, with
+behavioural couple therapy."
+
+**Part four — the strength.** How strong, and how consistent? "Several trials from more than one team, moderate
+to large effects, with attrition that limits the estimates."
+
+**Part five — the limit.** What is not covered? "The trials exclude couples with coercion; the samples are
+Western; follow-up is mostly under two years; and the treatments were delivered by trained therapists with
+supervision, which most clinics cannot reproduce."
+
+**A worked example, spoken aloud.** "For couples where one partner is depressed and the relationship is also
+distressed, and where there is no violence, couple therapy has trial evidence: satisfaction improves and the
+depression improves more than with individual treatment in several trials, with moderate to large effects. The
+trials exclude coercion and are mostly Western, follow-up is short, and the therapists were trained and
+supervised. So I would offer it, I would screen for violence, and I would measure."
+
+That paragraph would pass a viva. It is thirty seconds long, it cites no study by name (which is acceptable in
+speech with a body of work this size), and it contains all five parts.
+
+**The three versions of a bad claim.** *The vendor's claim:* "EFT is the gold standard for couples." *The
+nihilist's claim:* "there is no real evidence for any of this." *The vagueness claim:* "research suggests family
+therapy helps." Each fails in a different way: the first overstates and cannot name a limit; the second
+understates and cannot name a study; the third says nothing and would not survive one question.
+
+**The exercise, set as homework.** Write five-part evidence claims for three models, in fewer than eighty words
+each, and bring them to the seminar to be attacked.
+
+### 13.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Evidence hierarchy | The ranking of designs by their capacity for causal inference |
+| Allegiance effect | The tendency of a treatment's developer to obtain larger effects |
+| Moderator | A variable that changes the size of an effect (age, culture, severity) |
+| Mediator | A mechanism through which an effect operates |
+| Transportability | Whether an effect found in one population holds in another |
+| Common factors | Elements shared by all therapies: alliance, expectancy, therapist, ritual |
+| Adaptation | A deliberate change to a technique's delivery that preserves its mechanism |
+| Mechanism | The process through which a technique produces change |
+| Normative claim | A claim about values rather than about effects |
+| Limit claim | A statement that evidence is absent for a presentation, not that the model fails there |
+| Sample problem | The narrowness of trial populations relative to the families practitioners see |
+| Differentiation of claims | Keeping outcome, limit and normative claims separate in argument |
+
+### 13.13 Self-test
+
+1. Give the three kinds of claim in a matrix row and explain why they must be kept separate.
+2. Name four reasons family therapy trials are weaker evidence than they appear.
+3. State the common-factors argument, and three things it does not imply.
+4. What are the three consequences of the sample problem?
+5. Why do the models with the weakest evidence attract the warmest cultural reviews? Give three reasons.
+6. Give the four steps of a cultural translation, and the fifth step that makes it an adaptation rather than an
+   improvisation.
+7. What are the five parts of an evidence claim?
+8. What does a practitioner say when the family's faith requires something the evidence contradicts?
+
+**Answers.** 1. An outcome claim (evidence of effect), a limit claim (absence of evidence, not evidence of
+absence) and a normative critique (values and fit); separating them prevents an essay from treating a value
+objection as an empirical finding. 2. Blinding is impossible; allegiance effects are strong; manualisation and
+fidelity vary; the unit of analysis is contested. 3. Shared factors account for a larger share of variance than
+specific technique; it does not imply that technique is irrelevant, that models are interchangeable for specific
+presentations, or that an untrained therapist may deliver any model. 4. Transportability is an assumption, not a
+finding; mechanisms may be unavailable in different structures; and abandoning the models would leave the
+practitioner with untested assumptions instead. 5. Their refusal to specify makes them untestable and adaptable;
+they work with meaning, where cultural difference is most visible; and their critics write from within those
+traditions. 6. Identify the mechanism; identify the premise the mechanism depends on; check the premise against
+the family; preserve the mechanism and change the delivery; and record what was changed and what was lost. 7.
+Population, outcome, comparison, strength, limit. 8. State the safety or legal position plainly once, with
+respect, follow the professional obligation, and do not adjudicate the theological question.
+
+### 13.14 Reflective task
+
+Write your own matrix row for your home model, in the four columns, and then write the sentence you would say if
+an examiner asked you to defend the weakest cell. Bring both. The exercise is designed to make the viva
+predictable: most students discover that their weakest cell is not the evidence but the cultural critique, and
+that they have never had to defend their model against a value objection rather than an empirical one.
+
+### 13.15 Readings for this week
+
+* **Lebow (2014)**, *Couple and Family Therapy: An Integrative Map of the Field*, for the comparative picture.
+* **Sexton, Ridley & Kleiner (2004)**, *Handbook of Family Therapy*, for the evidence summaries by model.
+* **Sprenkle & Piercy (2005)**, *Research Methods in Family Therapy*, for what the designs can and cannot show.
+* **Wampold (2015)**, *The Great Psychotherapy Debate*, for the common-factors argument in its strongest form.
+* **Stratton (2005)**, on the evidence base for family therapy, for a balanced overview.
+* **Waldegrave (2009)** and the cultural-adaptation literature, for the critique from within the field.
+* **Falconier & Epstein (2015)** or equivalent, for cultural adaptation in couple therapy specifically.
+
+Read Wampold with a pencil and mark the places where you disagree; the argument is more useful when it is
+contested than when it is accepted. For the assessment, use at least one source that is critical of the model you
+intend to defend, so that your defence has already met its strongest objection. The reading-log question this week
+is: "what evidence would change my practice, and what would I need to see to believe it?"
+
+*Next: [Week 14 — Your theoretical position](#week-14--your-theoretical-position)*
 
 ---
 
 ## Week 14 — Your theoretical position
 
-Write 1,500 words: your home model, why it fits you, what it cannot do, the models you borrow from and
-under what conditions, and how you will know when to change your mind. Defend it in a ten-minute viva.
+**The question.** *What do you actually believe about families, and what will you do when your belief meets a
+family it does not fit?*
+
+This is the course's final week and its most personal. Every previous week asked you to understand a model; this
+one asks you to construct a position — not a favourite model, but a reasoned account of what you believe about
+how families change, what you will do, what you will not do, and how you will know when you are wrong.
+
+The assessment is a 1,500-word statement defended in a ten-minute viva. Distinction answers do three things:
+they state a home model and the reasons for it; they name what it cannot do and what they borrow, with the
+conditions of the borrowing; and they specify the evidence that would change their mind. Pass answers describe a
+model accurately and stop there.
+
+### 14.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | What a position is | Not a preference: a claim with reasons and limits | Write their home model in one sentence |
+| 10–25 | The three components | Model, anthropology, mechanism — the beliefs underneath | Name their own beliefs under each heading |
+| 25–40 | Three worked positions | A structural, an affective and a narrative position, each defended | Mark which one is nearest to theirs and why |
+| 40–55 | Borrowing with conditions | When to import, and how to record it | Write one borrowing with its condition |
+| 55–70 | The change-of-mind clause | What evidence would move them, and how they would know | Write their own clause |
+| 70–82 | The viva | A live mock viva with a volunteer, stopped at each answer | Attack the volunteer's position for four minutes |
+| 82–90 | The statement | The exemplar, the rubric, and what distinction looks like | Sketch the structure of their 1,500 words |
+
+**The teaching decision that makes the week work.** The lecture must demonstrate a position rather than describe
+one. The lecturer should state their own position in four minutes, in the form the assessment requires, and then
+submit to the class's questions. The class will discover that a well-formed position is not a fortress: it has
+joints, it names its weak places, and it survives questioning better than a conviction does. That discovery is
+the week's purpose, and it cannot be made by reading about it.
+
+**The sentence the lecture must land.** "A theoretical position is what remains of your training when the
+technique has failed and you have to decide what to do next." A student who can say that sentence and then
+describe their own position in three minutes, without notes, is ready for the viva.
+
+### 14.2 The three components of a position
+
+A theoretical position has three layers, and students who write only the first produce a statement that a viva
+will dismantle.
+
+**Component one — the model.** The named tradition in which the therapist formulates and works: structural,
+Bowenian, strategic, Milan, experiential, behavioural, EFT, solution-focused, narrative. This is the visible
+layer, and it is the least interesting to an examiner, because it can be learned from a book.
+
+**Component two — the anthropology.** Every model carries beliefs about what a family is and what a person is.
+Structural work assumes that families organise themselves into subsystems and that symptoms arise from
+organisation. Bowen assumes that the individual's differentiation is the unit of development. Behavioural work
+assumes that behaviour is maintained by consequences and that change is achievable through skilful
+reinforcement. EFT assumes that the need for secure connection is primary. Narrative assumes that people's lives
+are storied and that the stories are shaped by power. A position states the anthropological claim explicitly,
+because the claim is what produces the model's strengths and its cultural limits.
+
+*The questions that elicit it.* What is a family for? What is a person? What makes a family healthy — and is
+"healthy" even the right word? Whose account of a family's life should a therapist privilege, and on what
+grounds? What is a symptom?
+
+**Component three — the mechanism.** The position states how change is believed to happen: through insight,
+through enacting a new pattern in the room, through emotional processing, through the interruption of
+behavioural contingencies, through the construction of a preferred story, through the mobilisation of the
+family's own solutions. The mechanism is the layer a viva probes hardest, because a therapist who cannot say how
+their therapy works cannot tell when it is not working.
+
+*Why the three layers matter.* They connect. The anthropology justifies the mechanism, and the mechanism
+justifies the model. A structural therapist who believes families are organised systems and that change happens
+by enacting a different organisation will conduct a structural session and can explain it. A therapist whose
+model is structural but whose anthropology is individual (people change when they understand themselves) will
+conduct a confused session and will not understand why.
+
+**The written form.** One page, in three paragraphs: what I believe about families; how I believe change
+happens; which tradition I use and why. The 1,500-word statement then expands each paragraph with reasons,
+examples from your own practice, and the limits.
+
+### 14.2a Three positions, defended
+
+The same three layers, worked for three different therapists, so that the form can be seen.
+
+**Position A — the structural therapist.**
+
+*Personal.* "I came to family therapy through teaching in a secondary school, where I watched the same child be
+described as difficult by four teachers and behave differently in each classroom. The experience made me
+suspicious of explanations located inside a person." One sentence of origin, and it is doing work: it shows the
+examiner that the model was chosen for reasons.
+
+*Anthropology.* "A family is an organisation with subsystems and boundaries, and a child's symptom is often the
+organisation's way of managing a problem the adults cannot manage together. A person is an agent whose behaviour
+is intelligible in its context."
+
+*Mechanism.* "Change happens when the organisation is enacted differently in the room — when the parents
+actually act together, in front of their children and in front of me, and experience what that produces. Insight
+follows the enactment; it does not replace it."
+
+*Model.* "Structural family therapy, with two borrowings: a behavioural task when the enactment needs to be
+concrete, and a narrative question when a family has been described by an institution."
+
+*Limits, stated.* "It fails where there is no executive subsystem to strengthen, and where the family's
+hierarchy is not mine to arrange — households organised by a grandmother, families with a parent abroad or
+imprisoned, and families whose authority is religious rather than developmental. It also fails where the
+presentation is a couple's attachment injury, which needs a different mechanism (EFT)."
+
+*The viva answer that earns a distinction.* "If a family has no executive subsystem, I do not attempt to build
+one. I work with the authority that exists — the grandmother, the uncle, the church — and I use the structural
+lens to understand why the parents cannot act together, rather than to instruct them to."
+
+**Position B — the affective therapist.**
+
+*Personal.* "I trained first as a nurse, and I learned that a person's body tells the truth before their
+sentence does. I have never been able to conduct a session as though the feeling in the room were irrelevant."
+
+*Anthropology.* "A family is a system of attachments. The need to know that one belongs, and that one's
+belonging is secure, is primary; conflict is usually a protest against the threat of losing it. A person is a
+relational being whose strategies for managing fear were learned early and are enacted in the present."
+
+*Mechanism.* "Change happens when a primary emotion is expressed to the person it concerns, in a session, and is
+met rather than punished. My work is to slow the cycle enough for that to be possible."
+
+*Model.* "Emotionally focused therapy for couples and families, with a structural component for the frames that
+make the emotional work safe, and a behavioural component for the practical tasks that the family needs when the
+emotional work is done."
+
+*Limits, stated.* "It does not work where one partner is afraid, and it should not be attempted there. It
+requires both partners in a room, which excludes many families whose work separates them. And its language of
+needs can be heard as self-indulgence by families whose moral vocabulary is duty."
+
+*The viva answer.* "If the couple cannot be in a room together, I do not run a diluted EFT and call it EFT. I
+say that the couple work is not currently available, and I do what is possible — structural work with the
+household, individual work, and a plan for when the couple can be together."
+
+**Position C — the narrative therapist.**
+
+*Personal.* "I worked for three years in a service where families arrived with files that described them before
+they described themselves. I learned that the file is an intervention, and I have been working against it ever
+since."
+
+*Anthropology.* "A family is a group of people telling stories about themselves, under conditions of unequal
+power. A person is the author of their own life, though frequently not the only author. A symptom is a
+description that has become dominant."
+
+*Mechanism.* "Change happens when the dominant description is externalised, its influence is mapped, and a
+preferred story is built from the moments the dominant story cannot account for. The therapist's questions
+create the space; the family writes."
+
+*Model.* "Narrative therapy, with a structural component where the household's organisation is the problem, and a
+solution-focused component where the family needs something brief and concrete."
+
+*Limits, stated.* It can talk a family out of a material problem, and I must keep the material conditions in
+the formulation. It requires verbal fluency, which excludes some families. And its evidence base is thin
+relative to its influence."
+
+*The viva answer.* "If a family's problem is a landlord and a leaking roof, I do not externalise the damp. I
+help them write to the council, and I use the narrative work for the part that is a story about themselves."
+
+**What the three positions share.** A personal reason, a stated anthropology, a stated mechanism, a named model,
+two borrowings with conditions, and a limit that is specific. None of them claims to be the best model. Each of
+them could be attacked and each would survive, because the joints are visible.
+
+**The exercise.** Write the same seven headings for your own position, in no more than 250 words, and bring it
+to the seminar to be attacked. The attack is the education.
+
+### 14.3 Borrowing with conditions
+
+Every practitioner borrows, and the difference between a position and a magpie's collection is the condition
+attached to each borrowing. A condition has three parts: the circumstance, the technique, and the reason it
+belongs in the home model.
+
+**The form.** "I use [technique] from [model] when [circumstance], because [reason in my own model's terms]."
+A borrowing without a condition is a habit; a borrowing with one is a decision that can be examined.
+
+**Six borrowings, worked, from different home models.**
+
+**One — a structural therapist borrowing a behavioural task.** "I use a behavioural exchange from couple therapy
+when the parents need something concrete to do together in the week, because a joint task enacts the executive
+subsystem I am trying to build, and a task the parents chose themselves is more likely to survive than an
+instruction from me."
+
+**Two — a behavioural therapist borrowing an enactment.** "I use an EFT-style enactment when a couple's homework
+keeps failing and I suspect the obstacle is emotional, because a performance problem in the model's terms is
+often an unspoken feeling, and the enactment is the fastest way to find out whether that is what is happening."
+
+**Three — an EFT therapist borrowing a structural move.** "I use a structural boundary-setting move when a child
+is sitting between the parents in the session and answering for them, because the emotional work cannot proceed
+while the child is in that position, and moving the chairs is a faster intervention than interpreting it."
+
+**Four — a solution-focused therapist borrowing a narrative question.** "I use an externalising question when a
+family arrive with a diagnosis that has become the whole description, because the model's own respect for the
+family's goals requires that the family can name a goal that is not the diagnosis, and naming the diagnosis as an
+influence rather than an identity produces that."
+
+**Five — a narrative therapist borrowing a scaling question.** "I use a nought-to-ten scale when a family's
+preferred story is too new to be described, because a number gives them a way to talk about movement before they
+have the language for it, and I record the number in the letter as the family's own evidence."
+
+**Six — a Bowenian therapist borrowing a Milan circular question.** "I use a circular question about who would
+notice first when a family's differentiation work has become an individual project for one member, because the
+question returns the work to the relationship without my having to instruct anyone."
+
+**What each borrowing has in common.** The technique is subordinate to the home model's aim; the circumstance is
+specific; and the reason is stated in the home model's vocabulary. That is what makes the borrowing assimilative
+rather than eclectic (Week 12).
+
+**The three tests of a borrowing.** Does it serve the primary target? Can I state the circumstance in advance, so
+that the borrowing is a decision rather than an improvisation? And would I abandon it if the home model's aim
+were better served another way?
+
+**The record.** Each borrowing should appear in the case notes with its circumstance and its effect. A therapist
+who has recorded twenty borrowings has a personal manual, written from their own practice, which is the most
+useful document they will ever produce about their own work.
+
+### 14.4 The change-of-mind clause
+
+The component that distinguishes a position from a conviction, and the one examiners use to separate a
+distinction from a merit.
+
+**What it must contain.** A specified observation that would count against the position; where that observation
+would come from; and what the therapist would do if it appeared. Vague openness ("I am always learning") does not
+count, because it cannot be tested.
+
+**Four forms of the clause, each defensible.**
+
+*The outcome form.* "If my routine outcome data showed that families with a particular presentation were not
+improving under my home model across a year, I would change the model for that presentation, and I would say so
+in supervision before I changed it in the room."
+
+*The mechanism form.* "If a family's change occurred without the mechanism I believe in — if a couple softened
+without any emotional enactment, or a structural change happened without any enactment of the subsystem — I would
+have to revise my account of how my therapy works, not only my technique."
+
+*The evidence form.* "If a trial appeared showing that a model I do not use outperformed mine for a presentation
+I see often, I would seek training in it, and I would not wait for the field to agree."
+
+*The personal form.* "If I noticed that I was avoiding a particular kind of family — the ones who make me feel
+incompetent, or the ones I want to be admired by — I would take it to supervision as a signal that my position is
+serving me rather than them."
+
+**What makes the clause hard.** It commits the therapist to a possible loss: of a model they are trained in, of
+an identity they have built, of the comfort of a familiar way of working. A clause that costs nothing is not a
+clause.
+
+**The viva question that tests it.** "Tell me about a case in which your model did not work, and what you did."
+Candidates who answer with a case in which the family were resistant have failed the question; candidates who
+answer with a case in which their formulation was wrong have passed it. The clause is the written form of that
+answer.
+
+### 14.5 Annotated transcript: the viva
+
+Twelve exchanges from a mock viva on a position statement, with the examiners' reasoning annotated. The candidate
+is a final-year student whose home model is EFT with structural borrowings.
+
+> **E1:** Read me your position in one sentence.
+
+> **C1:** Families are systems of attachment, and change happens when a primary fear is spoken to the person it
+> concerns and met rather than punished; I work in EFT, with structural work to make the room safe enough for
+> that.
+
+> **E2:** That is a mechanism, not a position. What do you believe a family is?
+
+> **C2:** A group of people whose first business is keeping each other, and whose conflicts are mostly protests
+> about whether they are being kept.
+
+> **E3:** So a family's conflict is never about the practical thing — money, the children, the housework?
+
+> **C3:** No, it is often about the practical thing, and the practical thing is also where the attachment question
+> gets fought. My mistake would be to translate every practical dispute into attachment language; I try to ask
+> rather than assume.
+
+> **E4:** You have said you borrow from structural therapy. Give me a case and the condition.
+
+> **C4:** A family where the child sat between the parents and answered for both. I moved the chairs so that the
+> parents faced each other, and asked the child to sit beside me. The condition is: when a child is in an
+> executive position in the room, because the couple work cannot happen while that is the arrangement.
+
+> **E5:** Why is that not just a technique you happen to like?
+
+> **C5:** Because I can state when I would not do it: if the child's position is a cultural norm the family have
+> not asked me to change, or if moving the chairs would humiliate a parent in front of the children.
+
+> **E6:** What can your model not do?
+
+> **C6:** It cannot work where one partner is afraid, and it assumes two partners in a room, which excludes
+> families separated by work or migration. And its language of needs can sound self-indulgent to a family whose
+> vocabulary is duty.
+
+> **E7:** What do you do with such a family?
+
+> **C7:** I translate: not "what do you need?" but "what do you owe each other, and what happens to you when you
+> cannot give it?" That is the same enquiry in the family's moral language.
+
+> **E8:** That is an adaptation. Does it still work?
+
+> **C8:** I do not know, and I would want to know. I would measure satisfaction and I would ask the family
+> directly whether the conversation had been useful, and I would record it as an adaptation with an unknown
+> outcome.
+
+> **E9:** Tell me about a case in which your formulation was wrong.
+
+> **C9:** A couple I formulated as a pursue–withdraw cycle. In the fourth session the wife disclosed that he had
+> been checking her phone and following her to work. The cycle was real and it was not the problem; the problem
+> was control. I stopped the couple work, named the behaviour, and referred.
+
+> **E10:** What did you learn?
+
+> **C10:** That my screen was too thin, and that attachment language can make control sound mutual. I now ask
+> about monitoring, phone access and money in the first session, of each partner separately.
+
+> **E11:** What would change your mind about EFT?
+
+> **C11:** My own outcome data, if a year of couples with the same presentation showed no reliable change; or a
+> trial showing a different model outperforming it for that presentation; or a series of cases in which the
+> softening event happened and nothing changed, which would make me doubt the mechanism rather than the
+> technique.
+
+> **E12:** Last question. What are you not willing to do, whatever the model says?
+
+> **C12:** I will not continue couple work where someone is afraid, and I will not let a model's neutrality
+> become silence about harm. And I will not take a case I am not trained for because I want the experience.
+
+**Annotations.** *E1–E2* is the commonest opening and the commonest failure: candidates offer a mechanism when
+asked for a position, and the examiner's follow-up reveals that the anthropology is missing. *C2* answers the
+question that was asked, and it is short, which is itself a sign of a formed position.
+
+*E3* is a fair challenge and *C3* survives it by conceding the objection's force ("it is often about the
+practical thing") and naming the failure mode ("my mistake would be to translate every dispute"). A candidate
+who defended the model against the objection would have failed the exchange; a candidate who abandoned it would
+also have failed.
+
+*E4–E5* is the borrowing test, and *C5* is the answer that earns a distinction, because it states the conditions
+under which the borrowing would not be made. The examiner's question ("why is that not just a technique you like")
+is unanswerable without a negative condition.
+
+*E6–E8* is the limits test, and *C8* is the strongest answer in the transcript: "I do not know, and I would want
+to know." A candidate who claimed the adaptation worked would have been pressed for evidence and would have had
+none; a candidate who admitted the unknown and described how they would find out has demonstrated the
+professional posture the week is for.
+
+*E9–E10* is the change-of-mind test in its practical form, and *C9*'s answer — a case where the formulation missed
+control — is what a distinction-level viva answer looks like: specific, unflattering to the candidate, and
+converted into a change in practice.
+
+*E11* tests the clause itself, and *C11* offers three forms, including the strongest (a doubt about the
+mechanism, not only the technique).
+
+*E12* is the question the course has been building toward since Week 1, and *C12*'s answer names the two
+non-negotiables — safety and competence — which are the only two a model cannot override.
+
+**What the trainee should notice.** The candidate never defends a model; they defend a position. The examiners
+never ask which model is best; they ask what the candidate believes, what they would do, and what would change
+their mind. Preparation for the viva is therefore not revision of the nine models; it is the writing of the
+seven headings and the rehearsal of the answers to *E2*, *E5*, *E6*, *E9*, *E11* and *E12*.
+
+### 14.6 The statement: an annotated exemplar
+
+The assessment is 1,500 words. The exemplar below is a condensed version — 700 words — with the examiner's
+annotations in brackets. Students should write their own, and should read this one for its structure rather than
+its content.
+
+---
+
+**My position (condensed exemplar).**
+
+I came to family therapy through community nursing in a city where most of the families I visited were caring for
+someone and being described by a service. I learned two things that have organised my practice since. The first
+is that a family's competence is usually invisible to the institution that refers it. The second is that the
+moment a family are described, they begin to live inside the description. [*The personal reason: one paragraph,
+specific, and it explains the model choice that follows.*]
+
+What I believe about families. A family is a group of people who are keeping each other, under conditions they
+mostly did not choose: an economy, a religion, a migration, a death. Conflict in families is usually a protest
+about whether one is being kept, conducted in the vocabulary available — money, the children, respect, the
+housework. A symptom is often the family's most economical solution to a problem the adults cannot name, and it
+is held in place by the family's organisation and by the descriptions the family has been given. A person is an
+agent, though a constrained one: nobody in a family is free to be anyone, and nobody is only what has been made
+of them. [*The anthropology: four sentences, each doing work, and the last one protecting against both
+determinism and voluntarism.*]
+
+What I believe about change. Change happens when the description loosens and the organisation moves, and I believe
+the order matters less than the loop: a family who see themselves differently will try something different, and a
+family who do something different will begin to see themselves differently. My work therefore has two levers: the
+questions that make a different description available, and the enactments that make a different organisation
+possible in the room. I believe feeling is the medium in which both happen, and I do not believe a session has
+done its work if the family have only understood something. [*The mechanism, stated in one vocabulary, with the
+two levers named and the role of affect specified.*]
+
+My home model is narrative therapy, because its first move — the person is not the problem — is the one I want to
+make in every family I meet, and because its techniques are the ones I can use with the families the institution
+has already described. I borrow from structural therapy when the household's organisation is the problem rather
+than its story: when a child is in an executive position, or when the parents cannot act together, I work with
+the arrangement in the room and the questions come later. The condition on that borrowing is that the family's
+authority structure is one they have asked me to change, and not one I have decided is wrong. I borrow from
+solution-focused therapy when a family needs something brief and concrete and the story is not the obstacle: a
+graded return to school, a scaling question, a task derived from their own exception. [*The model and two
+borrowings, each with a circumstance and a condition.*]
+
+What my position cannot do. It cannot work where a family's problem is material and immediate: a leaking roof, an
+eviction, a child who is not safe. In those cases I do the practical thing first, and the narrative work waits,
+and sometimes it does not happen at all. It requires a degree of verbal facility that not every family has, and I
+have adapted it with drawing, with the family's own language, and with audio rather than written documents. And
+it has a thin evidence base relative to its influence, which means I cannot claim for it what an EFT therapist
+can claim for theirs, and I measure my own outcomes partly because of that. [*The limits, three of them, each
+specific and each answered.*]
+
+What would change my mind. If my outcome data showed that the families with a particular presentation were not
+improving across a year, I would change the model for that presentation. If a family's change occurred without
+the description loosening — if they simply behaved differently and described themselves exactly as before — I
+would have to revise my account of the mechanism. And if I noticed that I was choosing narrative work because it
+keeps me comfortable — because the questions are safer than the confrontation a structural session would require
+— I would take that to supervision as evidence that my position is serving me. [*The change-of-mind clause, three
+forms, including the personal one, which is the hardest and the most persuasive.*]
+
+What I will not do. I will not continue a model's work where a child is unsafe, and I will not let a model's
+neutrality become silence about harm. I will not take a case I am not trained for because I want the experience.
+And I will not describe an adaptation as though it were the model. [*The non-negotiables: safety, competence,
+honesty about adaptation.*]
+
+---
+
+**What the annotations are testing.** The examiner is looking for six things: a reason for the model that is not
+"it resonated"; an anthropology rather than a technique; a mechanism stated in one vocabulary; borrowings with
+circumstances and conditions; limits that are specific and answered; and a change-of-mind clause that would cost
+the candidate something. A statement with all six, written in plain language, will earn a distinction even if the
+model chosen is not the examiner's.
+
+### 14.6a Four statements that fail, and why
+
+**Failure one — the survey.** A statement that summarises all nine models fairly and chooses none. The examiner
+cannot tell what the candidate believes, and the viva's first question ("what do you believe a family is?") will
+produce a summary of four anthropologies.
+
+**Failure two — the conversion narrative.** A statement in which the model arrived as a revelation during a
+placement and the candidate has been its adherent ever since. It reads as a testimony rather than a position, and
+it fails the change-of-mind test, because a convert's model cannot be wrong.
+
+**Failure three — the technique inventory.** A statement listing a repertoire — enactments, scaling, externalising,
+genograms — with no formulation and no primary target. It is Week 12's technique salad written down, and the viva
+will ask which one the candidate would drop and why.
+
+**Failure four — the model essay.** A statement that describes the model accurately, with citations, and says
+nothing about the candidate. It would pass a theory examination and fails this one, because the assessment is not
+about the model; it is about the practitioner.
+
+**The common thread.** All four fail to take a position, in the sense this week has used the word: a claim about
+families and change that the candidate is willing to be examined on, with its limits visible and its revision
+conditions stated. The model is the least important part of that, which is the week's quiet argument against the
+course's own syllabus.
+
+### 14.7 Laboratory: the position, attacked
+
+Sixty minutes, in fours, one candidate and three examiners.
+
+**Round one — the three-minute statement (ten minutes).** The candidate states the position from memory: the
+anthropology, the mechanism, the model, the two borrowings and the limits. The examiners note which component is
+missing.
+
+**Round two — the six questions (thirty minutes).** Each examiner takes two of the viva's standard questions (E2,
+E5, E6, E9, E11, E12 from 14.5) and presses for three answers each. The candidate may not repeat an answer.
+
+**Round three — the verdict (twenty minutes).** The examiners state which component was strongest and which was
+weakest, and the candidate rewrites the weakest paragraph on the spot, in five sentences. The rewriting is the
+exercise's real content.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Anthropology | 20% | A claim about what a family and a person are, distinct from a technique |
+| Mechanism | 20% | How change happens, in one vocabulary, with the role of affect specified |
+| Model and borrowing | 20% | A named home model; borrowings with circumstance and negative condition |
+| Limits | 20% | Specific failures, with what the candidate does in each |
+| Change of mind | 20% | An observation, its source, and a cost the candidate would bear |
+
+**The debrief question.** "Which answer did you not have?" Every candidate discovers one, and the discovery is what
+the remaining weeks of supervision are for.
+
+### 14.8 Six errors in constructing a position
+
+1. **The model as identity.** "I am an EFT therapist" rather than "I work in EFT and here is why". Fix: the
+   position is a set of claims, not a membership.
+2. **No anthropology.** A mechanism without a claim about families and persons. Fix: the three questions in 14.2.
+3. **Borrowings without conditions.** A repertoire described as openness. Fix: the circumstance and the negative
+   condition.
+4. **Limits that are not limits.** "It does not work for everyone" is not a limit. Fix: a named population and a
+   named mechanism of failure.
+5. **The costless clause.** "I am always open to new evidence." Fix: an observation, a source and a cost.
+6. **The statement as a performance.** A beautiful document with no claim in it. Fix: the viva rehearsal, which
+   strips the prose and leaves the position.
+
+### 14.9 Culture, faith and the position
+
+The final week's cultural question is not about a model; it is about the practitioner, and it has three parts.
+
+**Part one — where does the position come from?** Every position has an autobiography, and the honest practitioner
+knows its outline: the family they grew up in, the service they trained in, the clients who taught them, the
+mistake that changed their practice, the supervisor whose voice they still hear. Knowing the outline is not
+indulgence; it is the only defence against a position that is really a repetition. A therapist who became
+solution-focused because their family rewarded cheerfulness will practise solution-focused work beautifully with
+families who can be cheerful and will miss the ones who cannot.
+
+*The exercise.* Write the autobiography of your position in five sentences, and mark which sentence you would not
+want a supervisor to read. That sentence is the position's blind spot.
+
+**Part two — whose position is it?** The models were built in a particular cultural location, and a practitioner
+working elsewhere inherits their assumptions. A position statement written in Ibadan, Lagos, Nairobi or Accra
+should say which assumptions the practitioner has adopted, which they have rejected, and which they have
+translated. The examiner will ask; the honest answer is more persuasive than a claim of cultural neutrality.
+
+*The three sentences to write.* "I work within a Western model, and I have translated its language of individual
+needs into my families' language of duty and obligation." "I have kept the model's structure and dropped its
+assumption that a couple negotiates privately, because in most of my families the negotiation involves an elder."
+"I have not resolved the tension between the model's emphasis on the couple's bond and my families' understanding
+of marriage as a contract between households, and I record that as an open question in my practice."
+
+**Part three — what does the practitioner's faith do to the position?** For practitioners whose own religious or
+moral commitments are central, this is not a marginal question. Three positions are defensible, and a fourth is
+not.
+
+*The bracketing position.* "I keep my convictions out of the room and work within the family's values." Defensible
+where the practitioner can genuinely bracket, and dishonest where they cannot; the test is whether the family can
+tell.
+
+*The transparent position.* "I tell families where I stand when it is relevant, and I do not impose it." Defensible
+and demanding: it requires saying "I am a Christian and I do not want to impose that on you; if it matters to you,
+ask me" — and then answering honestly when they ask.
+
+*The shared-values position.* "I work with families whose tradition I share, and I say so." Defensible in
+communities where the practitioner's tradition is relevant to the family's trust, and it requires an explicit
+policy on referral for families who do not share it.
+
+*The indefensible position.* "My convictions do not affect my work." Nobody's convictions are inert, and a
+practitioner who believes otherwise has not examined them. The statement fails not because it is wrong about the
+practitioner's intentions but because it is unavailable to supervision.
+
+**The examinable sentence.** "My position is a set of claims I can defend and revise; my convictions are what
+make some claims easier for me to see than others; and supervision is where I check the difference." That is the
+sentence the final week exists to produce.
+
+> **DEBATE** — "A therapist's theoretical position should be invisible to the family." Argue both sides, and say
+> what the family is entitled to know.
+
+### 14.9a Two critiques of the position project, and the replies
+
+The course's last critiques are of the assessment itself, and a student should be able to make them.
+
+**Critique one: the position statement rewards articulacy rather than competence.** A practitioner who cannot
+write elegantly will produce a weaker statement than a practitioner who can, and neither the statement nor the viva
+measures what the therapist does in a room. Articulacy is a professional skill and it is not the same as clinical
+skill, and an assessment that rewards it may be selecting for the wrong thing.
+
+*The reply.* The critique is right about the risk and wrong about the remedy. A practitioner who cannot explain
+their reasoning to a colleague, a supervisor, a court or a family is limited in their practice, and the statement
+assesses a real competence — the capacity to give an account of one's reasoning — even if it is not the whole of
+clinical skill. The safeguard is the rest of the course's assessment: observed sessions, case studies with
+recordings, and supervision reports.
+
+**Critique two: the position is a Western genre.** A statement that begins "I believe that a family is…" and
+proceeds to a personal anthropology is a recognisably individualist document. In traditions where knowledge is
+held collectively, where a practitioner's authority derives from a lineage or a community rather than a personal
+synthesis, the genre may be inappropriate, and a student from such a tradition may be penalised for writing in
+their own idiom.
+
+*The reply.* The critique identifies a real narrowness, and the assessment should allow other forms: a position
+written as a case narrative, a position written as a set of rules for practice, a position co-authored with a
+supervisor or a peer group. The requirement is that the reasoning is visible and examinable, not that it takes
+one form. Students should ask whether an alternative form would be accepted, and if the answer is no, they should
+say so in the seminar.
+
+**The general lesson.** The course's final object of critique is the course. A programme that teaches nine models'
+limits and cannot examine its own is not teaching critique; it is teaching deference. The student who can make
+these two objections, and answer them, has finished the course.
+
+### 14.10 Annotated transcript: the position after two years of practice
+
+A different kind of transcript: an interview with a practitioner three years post-qualification, condensed, in
+which the position is examined in the light of what practice has done to it. Students about to qualify should read
+it as a forecast.
+
+> **Q:** Has your position survived practice?
+
+> **A:** The anthropology has, the model has changed. I still believe families are keeping each other, and I still
+> believe descriptions organise behaviour. I no longer believe that narrative work is the right first move for most
+> of the families I see. I see a lot of families in crisis with housing and money, and the first move there is
+> practical.
+
+> **Q:** So you changed your model. Was that a loss?
+
+> **A:** It was a loss of a way of being clever. Narrative work gave me a way of being useful in a session that was
+> entirely verbal; I was good at it, and the families liked it, and some of them were not changing. When I started
+> measuring, I found that the families I enjoyed most were not the ones who improved most.
+
+> **Q:** What did you do with that?
+
+> **A:** I took it to supervision, and my supervisor asked me a question I still use: "which families do you avoid
+> booking?" Mine were the ones with a chaotic, angry father, because I grew up with one. So I had been practising
+> the model that kept me comfortable with the families who were easiest, and avoiding the families who needed the
+> most.
+
+> **Q:** What is your position now?
+
+> **A:** Structural work first, because it organises the household and it is honest about power; narrative work when
+> a family have been described and the description is doing damage; solution-focused when the family need
+> something brief. And a rule: the first session includes the practical questions, because the family's material
+> situation is not a distraction from the therapy, it is the therapy's context.
+
+> **Q:** What would you say to a student writing their statement now?
+
+> **A:** Write the version you can defend, not the version that sounds impressive. And put the change-of-mind
+> clause in honestly, because you will need it, and it is easier to change your mind if you have written down in
+> advance what would count.
+
+**The three lessons for a student.** First, the position changes and the change is not a failure; a position that
+has not moved in three years of practice may be a position that has not been examined. Second, the outcome measure
+is what makes the change possible: without data, the therapist's preference governs the caseload, and preference
+is usually about the therapist. Third, the personal question — which families do you avoid? — is the most
+productive question in supervision and the one a position statement should make answerable.
+
+### 14.11 Laboratory: the final rehearsal
+
+Sixty minutes, the full simulation, run twice.
+
+**Setup.** Three examiners and one candidate, with the candidate's statement in the examiners' hands. Ten minutes
+of viva, three minutes of feedback, then the candidate becomes an examiner and the next student takes the chair.
+Four students, two rounds each.
+
+**The examiners' brief.** Ask the six standard questions in order, and do not accept a summary of a model as an
+answer. Press each answer once. Stop the candidate if they exceed ninety seconds on any question.
+
+**The candidate's brief.** Answer in under ninety seconds; concede what is true in the objection; and never defend
+a model, only a position. The three permitted openings are "I believe", "I do", and "I do not know, and I would
+find out by".
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Position in one sentence | 15% | Anthropology, mechanism and model in a single sentence that can be repeated back |
+| Defending without defending the model | 25% | Concedes the objection's force; answers with a circumstance and a condition |
+| Limits | 25% | A named population, a named mechanism of failure, and what the candidate does instead |
+| Change of mind | 20% | An observation, a source and a cost |
+| Non-negotiables | 15% | Safety, competence and honesty about adaptation, stated without prompting |
+
+**The debrief question.** "What did you say that you did not believe?" Every candidate produces one sentence they
+had rehearsed rather than thought, and finding it is the exercise's purpose.
+
+### 14.12 Evidence note: what this week can and cannot evidence
+
+The final week is assessed by an argument rather than by data, and it should be honest about that.
+
+**What the evidence says about therapist development.** The research on therapist effects is consistent: some
+therapists produce reliably better outcomes than others, and the differences are large — larger, in several
+analyses, than the differences between the models they practise. The characteristics associated with better
+outcomes include the ability to form an alliance across a range of clients, to monitor outcomes and respond to
+deterioration, to tolerate uncertainty, and to use feedback. Deliberate practice and feedback-oriented supervision
+are associated with improvement; experience alone is not, and several studies find that therapists do not improve
+with experience unless they are given feedback.
+
+**What this implies for the position.** The week's central claim — that a position is a set of revisable claims,
+held with visible joints, examined in supervision — is supported by the evidence on feedback and deliberate
+practice. A therapist who measures and revises improves; a therapist who practises the model they like for the
+clients they enjoy does not, and may deteriorate in the cases they avoid. The position statement is therefore not
+an academic exercise; it is a device for making the therapist's own pattern visible.
+
+**What the evidence does not say.** That any particular position is better. The literature does not adjudicate
+between structural and narrative therapists; it adjudicates between therapists who monitor their work and those
+who do not. That is the week's most useful finding for a student who is anxious about choosing the right model:
+the choice matters, and the monitoring matters more.
+
+**The matrix cell for this week.** There is none, and that is the point. The week is about the practitioner, not
+the model, and the relevant evidence is the therapist-effects and feedback literature rather than the model
+trials. A student who insists on a row for this week has not understood it.
+
+*The three claims a student may safely make.* "Therapist effects are large and consistent." "Feedback-informed
+practice is associated with better outcomes, particularly for clients at risk of deterioration." "Experience
+without feedback does not reliably produce improvement." Each is defensible, each is modest, and together they
+justify the week's method.
+
+### 14.13 Key terms
+
+| Term | Definition |
+|---|---|
+| Theoretical position | A set of claims about families, change and technique, with stated limits and revision conditions |
+| Anthropology (therapeutic) | The beliefs about persons and families that a model carries |
+| Mechanism | The account of how change happens in a therapy |
+| Home model | The tradition in which a therapist formulates and works |
+| Borrowing with condition | An imported technique with a stated circumstance and a reason in the home model's terms |
+| Negative condition | The circumstance in which the therapist would not use a borrowing |
+| Change-of-mind clause | A pre-specified observation that would count against the position, and its source |
+| Adaptation | A deliberate change to delivery that preserves a mechanism, recorded as such |
+| Non-negotiable | A limit no model can override: safety and competence |
+| Therapist effect | The variance in outcome attributable to the therapist rather than the treatment |
+| Feedback-informed practice | Routine outcome monitoring with the results used to change the therapy |
+| Deliberate practice | Structured practice of specific skills with feedback, as distinct from experience |
+
+### 14.14 Self-test
+
+1. Name the three components of a position and the question that elicits each.
+2. Give the structure of a borrowing with a condition, and the negative condition it requires.
+3. What must a change-of-mind clause contain to be a clause rather than a sentiment?
+4. Why is "it does not work for everyone" not a limit?
+5. What are the three non-negotiable limits on any model, and where do they come from?
+6. What does the therapist-effects literature imply for a student choosing a home model?
+7. Name two critiques of the position assessment and the fairest reply to each.
+8. In the viva, what are you defending?
+
+**Answers.** 1. The model (which tradition and why); the anthropology (what is a family, what is a person — asked
+as "what do you believe about families?"); the mechanism (how does change happen — asked as "how does your therapy
+work?"). 2. "I use X from Y when Z, because R in my own model's terms"; the negative condition is the circumstance
+in which the therapist would not use it, which is what distinguishes a decision from a habit. 3. An observation
+that would count against the position, a source for the observation, and a cost the therapist would bear if it
+appeared. 4. Because it names no population and no mechanism of failure, and so cannot guide a decision. 5.
+Safety, competence, and honesty about adaptation; they come from professional duty and the law, not from any
+model. 6. That the therapist's monitoring and feedback matter more than the model's label, so the choice should be
+made on evidence and fit and then examined continuously. 7. Critique one — it rewards articulacy rather than
+clinical skill; reply, the capacity to give an account of one's reasoning is a professional competence and the
+rest of the course assesses practice. Critique two — the personal position is a Western genre; reply, the
+requirement is visible reasoning, and alternative forms should be accepted. 8. A position: a set of claims with
+limits and revision conditions, not a model.
+
+### 14.15 Reflective task
+
+Write the position statement's hardest paragraph: the one about what your model cannot do, with the population
+named, the mechanism of failure named, and what you do instead. Then read it aloud to someone who is not a family
+therapist and ask them whether it sounded like an honest person or like a brochure. The answer is the most useful
+feedback you will get this term.
+
+### 14.16 Readings for this week
+
+* **Lebow (2014)**, *Couple and Family Therapy: An Integrative Map of the Field*, for the comparative map you are
+  choosing within.
+* **Wampold & Imel (2015)**, *The Great Psychotherapy Debate*, for the therapist-effects and common-factors
+  literature.
+* **Miller, Duncan & Hubble (2004)**, *The Heart and Soul of Change*, for feedback-informed practice read as a
+  practice manual.
+* **Rousmaniere (2017)**, *Deliberate Practice for Psychotherapists*, for how a position is improved rather than
+  asserted.
+* **Schoen (1983)**, *The Reflective Practitioner*, the source of most of this week's language about professional
+  knowing.
+* **Your own case notes from the last six months**, read as a dataset: which families did you enjoy, which did you
+  avoid, and what does the pattern say about the position you have written?
+
+Read your own notes last and most carefully; they are the only source in this list that is about you. For the
+statement, use at least one source that argues against your home model, and cite it in the paragraph on limits,
+because a limit supported by a critic's argument is more persuasive than a limit asserted in the first person.
+
+*This is the last of the fourteen teaching weeks. The book continues with the one-page integration summary, the
+glossary, the self-assessment and the further reading, all of which are designed to be used in the weeks before
+the examination.*
 
 ---
 

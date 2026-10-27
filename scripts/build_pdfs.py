@@ -350,6 +350,33 @@ def parse_blocks(md: str):
     return blocks
 
 
+DIALOGUE_PANEL_CHARS = 2300   # a panel must fit on one page
+DIALOGUE_PANEL_LINES = 9
+
+
+def _split_panel(block, out):
+    """Split an over-long transcript panel so it cannot exceed a page."""
+    lines = block.get("lines") or [(block["label"], block["text"])]
+    chunks, cur, chars = [], [], 0
+    for label, text in lines:
+        n = len(label) + len(text)
+        if cur and (chars + n > DIALOGUE_PANEL_CHARS or len(cur) >= DIALOGUE_PANEL_LINES):
+            chunks.append(cur)
+            cur, chars = [], 0
+        cur.append((label, text))
+        chars += n
+    if cur:
+        chunks.append(cur)
+    for i, chunk in enumerate(chunks):
+        label, text = chunk[0]
+        b = dict(block)
+        b["label"], b["text"] = label, text
+        b["lines"] = chunk
+        if i:
+            b["continued"] = True
+        out.append(b)
+
+
 def merge_dialogue(blocks):
     """Consecutive speaker lines become one transcript panel."""
     out = []
@@ -361,7 +388,13 @@ def merge_dialogue(blocks):
             prev["lines"].append((b["label"], b["text"]))
             continue
         out.append(b)
-    return out
+    final = []
+    for b in out:
+        if b["t"] == "quote" and b["kind"] == "dialog":
+            _split_panel(b, final)
+        else:
+            final.append(b)
+    return final
 
 
 # ------------------------------------------------------------------ flowables
