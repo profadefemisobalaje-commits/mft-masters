@@ -5692,29 +5692,704 @@ never as difficult again.
 
 ---
 
-## Week 9 — Adult development
+## Week 9 — Adult development: work, intimacy and the middle years
 
-**Tasks.** Intimacy versus isolation; career and work identity; generativity versus stagnation; the
-"social clock" (the culturally shared timetable for marriage, children, promotion, retirement).
+**Developmental tasks.** Intimacy versus isolation (Erikson, roughly the twenties and thirties); work and
+career identity, including the difference between a job, a career and a calling; generativity versus
+stagnation (the forties); and the "social clock" — the culturally shared timetable for marriage, children,
+promotion and retirement, and the distress that follows when a life runs off it.
 
 **Why this matters clinically.** Most couple problems presented in clinics are *adult developmental*
-problems wearing a relational mask: a 32-year-old's struggle with intimacy, a 45-year-old's reckoning
-with a career, a 58-year-old's grief for the life they did not have.
+problems wearing a relational mask: a thirty-two-year-old's struggle with intimacy, a forty-five-year-old's
+reckoning with a career, a fifty-eight-year-old's grief for the life they did not have. The therapist who
+hears only the relationship will treat the mask. The therapist who hears the developmental task will treat
+the person, and the relationship will follow.
 
-**Life structure and the "seasons" of adulthood** (Levinson; vaillant's longitudinal work). Treat these
-as metaphors with empirical support, not as laws. The strongest empirical finding is **continuity with
-change**: people change, but in patterned ways that reflect early relationships and current context.
+**Life structure and the "seasons" of adulthood.** Levinson's seasons, Vaillant's longitudinal cohorts, and
+the midlife literature are best treated as *metaphors with empirical support*, not as laws. The strongest
+finding in the whole of adult developmental research is **continuity with change**: people change, but in
+patterned ways that reflect early relationships and current context. The man who was defended at
+twenty-five is defended at fifty, in a different vocabulary, about different things.
 
-> **CASE** — A 45-year-old man presents with "irritability". Developmental enquiry finds two things: his
-> father died at 45, and his eldest child is about to leave for university. He is not depressed in the
-> clinical sense; he is renegotiating mortality and role. The intervention is narrative and relational —
-> mourning the father he barely knew, and planning what his own next decade is for.
+**What this week does not claim.** It does not claim that there is a crisis everyone has at forty, that
+marriage has stages everyone passes through in order, or that a person who has not achieved generativity by
+fifty is damaged. The evidence supports *tasks*, *timetables*, and *patterns*. It does not support
+prescription, and the therapist who turns a developmental map into a standard of normal adulthood will
+spend the week hurting families who are simply living on a different schedule.
+
+> **CASE** — A forty-five-year-old man presents with "irritability". Developmental enquiry finds that he
+> has been passed over for a promotion he had organised his entire adult life around, that his father died
+> eighteen months ago, that his eldest child has left for university, and that he has begun to notice that
+> he has no friends he did not acquire through work. The irritability is at the surface. Under it are four
+> adult developmental events arriving in the same eighteen months.
+
+### 9.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The mask | Why adult developmental problems arrive as relationship complaints | Take a couple complaint and name the developmental task inside it |
+| 8–22 | Intimacy versus isolation | What intimacy actually requires, and the four adult forms of not doing it | Score themselves on a five-item intimacy audit, privately |
+| 22–36 | Work identity | Job, career, calling; and the difference between a bad month and a bad decade | Classify six work presentations |
+| 36–48 | Generativity | The three routes — children, work, mentoring — and stagnation as its absence | Name three people who were generative towards them |
+| 48–62 | The social clock | On-time and off-time events, and the distress of the off-time life | Place four life events on the clock and mark the culturally expected age |
+| 62–74 | The midlife reckoning | How it presents in a clinic, and the two ways therapists pathologise it | Rewrite two diagnostic-sounding formulations as developmental ones |
+| 74–84 | Continuity with change | What longitudinal studies actually find, and what they do not | Predict a fifty-year-old from a twenty-five-year-old in a case vignette |
+| 84–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Adults present with a symptom and a story, and the
+story is usually chronological but not developmental: it lists events and omits tasks. The lecture's
+central demonstration is to take one ordinary adult complaint and place it against the developmental
+timetable, so that the class sees the difference between *what happened* and *what it cost
+developmentally*. Once students can do that, they stop treating forty-five-year-olds as thirty-year-olds
+with more money.
+
+**The sentence the lecture must land.** "By forty-five most people are not struggling with their marriage;
+they are struggling with a question their marriage has been asked to answer, and the marriage is not
+equipped to answer it."
+
+### 9.2 Five concepts that organise the week
+
+**1. Intimacy versus isolation.** Intimacy is not affection and it is not sex. It is the capacity to be
+known by another person without managing the version of oneself that is known — which requires, first,
+that there is a self to know. This is why Erikson placed identity before intimacy, and why the sequence
+matters clinically: a couple in which one partner has never settled who they are will present with
+"communication problems" that no communication exercise will touch.
+
+The four adult forms of not doing intimacy are worth memorising, because they present as different
+referrals.
+
+- **Fusion** — the person cannot tolerate separateness; difference is experienced as abandonment, and the
+  couple's argument is always about closeness.
+- **Pseudo-intimacy** — the person performs closeness; the couple is highly affectionate in public and
+  has no private conversation.
+- **Isolation** — the person keeps a whole domain of life outside the relationship; the complaint is
+  "he does not let me in".
+- **Serial replacement** — the person changes partners rather than being known by one; the pattern is
+  visible across relationships and invisible within any one of them.
+
+**2. Work identity: job, career, calling.** A *job* is what you do for money. A *career* is a trajectory
+with advancement. A *calling* is what you would do anyway. The three are not ranked; a person with a job
+and a rich life outside it is not deficient. The clinical significance is in the *mismatch*: a person who
+has organised their identity around a career and loses the trajectory has lost more than income, and a
+person who experiences their work as a calling and finds it meaningless is in a particular kind of
+distress that will not respond to work-life balance advice.
+
+**3. Generativity versus stagnation.** Generativity is the concern for establishing and guiding the next
+generation, and it has three routes: one's own children, one's work, and mentoring. The clinical value of
+the concept is that it provides an *alternative* to the two things adults in distress usually believe are
+their only options — more achievement, or resignation. A forty-eight-year-old man who is stagnating at
+work may be generative as a mentor, as a son, as an uncle, as a coach, and the therapeutic move is to find
+where the generative capacity can go rather than to fix the job.
+
+**4. The social clock.** Every culture has a timetable: the age at which one is expected to marry, to have
+a first child, to be established, to be a grandparent, to retire. The clock is not usually stated, which
+is what makes it powerful. Distress follows *off-time* events far more than *expected* ones — a first
+marriage at forty-five, a first child at nineteen, a promotion at twenty-nine, a retirement at fifty-five,
+a bereavement at thirty. The clinical implication is that the therapist must ask not only "what happened?"
+but "when, and where were you supposed to be by then?"
+
+**5. Continuity with change.** Longitudinal evidence supports the view that adult personality is stable in
+its *structure* and changing in its *expression*: the defended young adult becomes the defended middle-aged
+adult, with better manners and worse consequences. The clinical use is a caution against two errors: the
+error of expecting a person to become someone else in therapy ("he will never be warm"), and the error of
+assuming nothing can change ("this is just who he is at forty-five"). What changes is usually the
+*relationship to* the pattern, and the practical arrangements around it.
+
+### 9.2a The social clock and the off-time life
+
+The concept is simple and the clinical consequences are large. Five off-time situations account for most of
+the developmental distress seen in adult clinics.
+
+**Off-time marriage and the unmarried thirty-five-year-old.** In cultures with a strong marital timetable,
+an unmarried adult in their mid-thirties is subject to continuous enquiry, and the enquiry is experienced
+as an assessment of worth. The clinical presentations are anxiety, depression, or a relationship entered
+under pressure and presented as a decision. The therapist's task is to separate the person's own desire
+from the timetable's, which is done with one question: "if nobody ever asked you again, what would you
+want?"
+
+**Off-time parenthood, in both directions.** A first child at nineteen and a first child at forty-two
+produce different but comparable difficulties: in the first, the parent's own development is interrupted;
+in the second, the parent's peers are launching adolescents while they are managing toddlers, and the
+grandparent generation may be unavailable or dead.
+
+**The early promotion and the plateau.** Being established "too early" produces a lifelong problem of
+comparison; being passed over at forty-five produces the case in this week's stub. Both are versions of the
+same injury: the timetable said one thing and the life delivered another, and the gap is experienced as
+personal failure rather than as a fact about an organisation.
+
+**Off-time bereavement.** Losing a parent at twenty-five is statistically ordinary and developmentally
+early; losing a parent at seventy is developmentally "on time" and contains far less of the "I was not
+ready" quality. The distinction matters because the same event produces different clinical pictures
+depending on its position on the clock.
+
+**Off-time retirement.** Retirement at fifty-five in a culture where sixty-five is expected produces a
+particular shame, especially for men whose identity is occupational. The clinical picture is often
+depression misdiagnosed as a physical complaint, and the question that opens it is "what were you supposed
+to be doing now?"
+
+**How to use the clock without imposing it.** Ask about the timetable, do not supply one. "In your family,
+when were people supposed to marry? When were they supposed to be settled? Where are you on that?" Then
+listen for the gap. A therapist who tells a client that the timetable is oppressive — however true — will
+be heard as dismissing the family, and the client will defend a clock she has just spent an hour telling
+you she resents.
+
+### 9.2b The four adult tasks as they present in couple therapy
+
+Adults do not present their developmental tasks; they present their partners. The translation table below
+is the week's practical core, because it converts a couple complaint into a developmental hypothesis in one
+step.
+
+| The complaint | The developmental task underneath | The question that tests it |
+|---|---|---|
+| "He never talks to me" | Intimacy — the capacity to be known, or the absence of a self to offer | "What would he have to say that would frighten him?" |
+| "She is never satisfied" | Work identity — a calling unfulfilled, or a career stalled | "Whose standard is she failing to meet?" |
+| "There is no us any more, only the children" | Generativity, collapsed into one route | "Who were you generative towards before the children?" |
+| "He changed after his father died" | Off-time bereavement plus the collapse of a generation | "Who is the eldest in his family now?" |
+| "We have nothing to say now the children have gone" | Launching — the couple's identity was outsourced | "What did you talk about before them?" |
+| "She has become obsessed with her mother's care" | Generativity, reversed; the "responsible child" role | "Who decided she was the responsible one?" |
+
+**The rule that governs the table.** Each cell is a *hypothesis*, never a finding. The therapist offers it
+as a question, not a formulation, because a couple told that their problem is developmental will
+immediately begin to argue about whether it is.
+
+### 9.3 The method: the adult developmental history
+
+Eight questions, twenty to thirty minutes, taken with the individual present and the partner listening.
+The order is deliberate: it moves from the concrete to the evaluative, so that the person is describing
+their life before they are interpreting it.
+
+**Question 1 — Where were you at twenty-five, and what did you think your life would be by now?** The
+answer produces the person's own timetable, in their own words, and it is the baseline against which
+everything else is measured. Write the answer down verbatim; it will be quoted back in session four.
+
+**Question 2 — What happened instead?** Not "what went wrong". The phrasing allows for both gains and
+losses, and it prevents the interview from becoming a catalogue of failure in front of a partner who is
+listening.
+
+**Question 3 — What are you doing that you did not choose?** This surfaces the inherited life: the family
+business, the profession chosen to satisfy a parent, the move to a city for a spouse's work, the second
+child who was not planned. The answer is frequently the first time the partner has heard it.
+
+**Question 4 — What are you doing that nobody in your family has done before?** The counterweight to
+question three, and the source of legitimate pride. Adults in distress systematically under-report their
+own novelty, and the therapist's task is to make it visible in front of a witness.
+
+**Question 5 — Who depends on you, and what do they need?** Generativity, mapped concretely: children,
+parents, siblings, staff, a congregation, a community. The answer is often the discovery that the person
+is highly generative and has no route to receive.
+
+**Question 6 — Who did you lose, and when?** Deaths, separations, migrations, the end of a friendship, the
+loss of a country. The timing is asked for because off-time losses carry more weight.
+
+**Question 7 — What do you do that is not for anyone else?** The question that identifies the person's
+own territory, which has frequently collapsed in the preceding decade. If the answer is "nothing", that is
+the finding, and it is often more actionable than anything in the presenting complaint.
+
+**Question 8 — What would you want your life to have been about?** The integrity question, asked early
+because adults answer it more honestly at forty-five than at seventy, when it has become a verdict rather
+than a direction.
+
+**How to record the answers.** Not as a narrative. As an eight-line grid with the questions as headings and
+the answers as the person's own words. The grid is given to the person, which is itself an intervention:
+most adults in a couple clinic have not seen their own life summarised on one page.
+
+### 9.3a The midlife reckoning: what it is and what it is not
+
+The popular notion of a "midlife crisis" — a sports car, a younger partner, an abandoned career — is
+largely a marketing story with weak empirical support. What the evidence supports is something narrower and
+more useful: in the forties and early fifties, adults conduct a *reckoning* between the life they have
+built and the life they expected, and the reckoning produces either a reorganisation or a set of symptoms.
+
+**The four triggers.** A loss of a parent (the collapse of the generation ahead, and the arrival of one's
+own mortality as a fact rather than an idea). A child's departure (the loss of a daily role). A work event
+— promotion, plateau, redundancy, or the recognition that the ceiling has been reached. And a physical
+change — illness, injury, or the ordinary evidence of ageing that arrives earlier for some bodies than
+others.
+
+**How it presents.** Not usually as a crisis. As irritability, sleep disturbance, increased drinking,
+withdrawal from the couple, an obsessive new interest, an affair, a sudden conversion, a resignation
+letter, or a somatic complaint that no physician can explain. The commonest presentation in a family clinic
+is *irritability with no stated cause*, which is why this week's case begins there.
+
+**The two ways therapists go wrong.** The first is to pathologise: to diagnose depression in a person who
+is grieving a life, and to medicate or cognitive-restructure a reckoning that needs to be conducted. The
+second is to romanticise: to treat the affair, the resignation, or the abandoned family as a legitimate
+expression of midlife need, which converts a developmental event into a justification for harm.
+
+**The clinical position between them.** Take the reckoning seriously as a developmental task, name it as
+such, and hold the person accountable for what they do while conducting it. The sentence that does both:
+"what you are describing is a real question, and it does not entitle you to do whatever answers it."
+
+**The couple's part.** A midlife reckoning is conducted in front of a partner who is having their own. The
+clinical work is rarely with one person; it is with two people whose timetables have diverged. The
+question that organises it: "what did each of you expect to be doing at this age, and what has each of you
+given up to get here?" The answer is usually the first honest accounting the couple has done in a decade.
+
+### 9.4 Three techniques
+
+**Technique 1 — The lifeline, drawn by the person.** A horizontal line with the person's age along it,
+and vertical marks above the line for high points and below for low points, annotated in their own words.
+Twenty minutes, one sheet of paper, no interpretation while drawing. The technique works for four reasons:
+it makes the life visible as a shape rather than a series of complaints; it surfaces the pattern of
+transitions; it produces material the partner has never seen; and it gives the therapist a document to
+return to. The instruction that makes it work is "put the things that mattered, not the things that
+should have mattered".
+
+**Technique 2 — The two clocks.** Two columns on a sheet. Left: "when I expected to…" Right: "when it
+actually happened". Marriage, children, house, promotion, the death of a parent, retirement. The gap between
+the columns is the developmental distress, quantified by the person themselves. The technique is
+particularly effective with couples, because partners routinely discover that they are running on
+different clocks and have never said so.
+
+**Technique 3 — The generativity audit.** Three columns: "who I am responsible for", "what they need from
+me", "what I receive". The third column is almost always empty or filled with the same item repeated. The
+audit is not a complaint about ingratitude; it is a map of a system with no return path, and the
+intervention that follows — one hour a week that is not for anyone else — is drawn directly from it.
+
+### 9.5 The first session with a forty-five-year-old and his wife
+
+**Phase 1 — Both, and the complaint in each person's words (15 minutes).** The referrer has written
+"irritability". The therapist asks each partner to describe the last bad week, with one example each, and
+writes the examples down. This prevents the session from becoming an argument about character.
+
+**Phase 2 — The individual history, with the partner listening (25 minutes).** The eight questions, asked
+in order. The partner is asked not to comment, and is told why: "I want you to hear this without having to
+answer it. You will get your turn." The instruction is usually obeyed, and what follows is the most
+valuable twenty-five minutes in the case.
+
+**Phase 3 — The partner's turn, three questions (10 minutes).** What did you hear that you did not know?
+What did you expect your life to be at this age? What have you given up? The third question is the one that
+converts the session from an assessment of one person into a developmental conversation between two.
+
+**Phase 4 — The shared finding (5 minutes).** The therapist names, in one or two sentences, the
+developmental tasks she heard, and checks them: "I heard four things arriving at once. Is that right?" The
+couple corrects her, and the corrected version is the formulation.
+
+**Phase 5 — One task each (5 minutes).** One thing for him, one for her, and one for the pair. Not a
+programme. Written down, with a review date.
+
+**Why the partner listens before she speaks.** Because the couple's usual conversation is duelling
+accounts of the same events, and the developmental history is not an account of events; it is an account of
+expectations. A partner who hears her husband's answer to "what did you think your life would be by now?"
+has received information that no amount of arguing about the dishes could have produced.
+
+### 9.6 Case: the man who was passed over
+
+**Referral.** Dapo, 45, a bank branch manager, referred by his general practitioner after two visits with
+"fatigue and stomach trouble" for which no cause was found. He attends with his wife, Kemi, 43, a
+pharmacist, who says in the first minute: "he is angry all the time and he will not say why."
+
+**The household.** Dapo and Kemi, married nineteen years. Tolu, 18, in her first year at a university in
+another state. Femi, 14. Simi, 9. Dapo's mother, 71, widowed eighteen months ago, living alone in Ibadan
+in the house Dapo grew up in. Kemi's mother, 68, lives with Kemi's brother in Abuja. The household is
+comfortable and stretched.
+
+**The presenting complaint, in each person's words.** Dapo: "I am tired. I do not sleep. I do not enjoy
+anything." Kemi: "he shouts at the children over nothing. He sits in the car outside the house for twenty
+minutes before he comes in. Last month he did not come to my sister's wedding and he would not say why."
+
+**The eight questions, and what they produced.**
+
+1. *At twenty-five, what did you think your life would be?* "By forty-five I would be a regional director.
+   I would have built the house in Ibadan. My father would have seen it." — *Written down verbatim; quoted
+   back in session four.*
+2. *What happened instead?* "I got the branch in 2019 and I have been there six years. In March they gave
+   the region to a man who is thirty-eight and who I trained." A pause. "My father died in April last
+   year. I did not build the house."
+3. *What are you doing that you did not choose?* "The branch. I did not want the branch. I wanted the
+   region." Then, after some pressing: "I did not choose to be the one who is responsible for my mother. It
+   was decided. I am the first son."
+4. *What are you doing that nobody in your family has done?* Long pause. "I have never lost a job. Twenty
+   years. My father lost three." — *The first item of legitimate pride in the session, and it arrives only
+   because the question was asked.*
+5. *Who depends on you?* "Kemi, three children, my mother, my younger brother's school fees, and about
+   forty staff." *What do they need?* "Everything. I am the roof."
+6. *Who did you lose, and when?* "My father, April last year. And Tolu left in September." — *Two losses
+   in the same eighteen months, one a death and one a departure, and both are collapses of a role.*
+7. *What do you do that is not for anyone else?* A very long pause. "Nothing. I used to play squash." When
+   did you stop? "When my father was ill."
+8. *What would you want your life to have been about?* "That my children did better than me. And that my
+   father was proud." — *The generativity answer and the foreclosure answer arriving in one sentence, which
+   is the formulation of the case.*
+
+**Kemi's three questions, and what they produced.**
+
+*What did you hear that you did not know?* "That he wanted the region. He never told me. He told me it was
+a good job." *What did you expect your life to be at this age?* "I expected to have some time. The children
+are older. I thought we would have a life again." *What have you given up?* "My mother lives with my
+brother. I have never said this to anyone, but I gave up my mother because I was managing his." — *The
+sentence that reorganises the session, and it arrives from a question the therapist asked of the partner
+rather than of the patient.*
+
+**The five findings.**
+
+**1. Four developmental events in eighteen months.** A work plateau (the ceiling reached at forty-five, in
+public, in front of a man he trained); a bereavement (his father, and with him the audience for the life
+project); a launching (Tolu's departure, which removed the daily evidence of his generativity); and a
+reversal of generativity (his mother's widowhood, which converted him from the person who receives care to
+the person who must provide it, permanently).
+
+**2. The social clock has failed and nobody has said so.** Dapo's timetable said: regional director by
+forty-five, house built, father present. Every item on it has not happened, and the failure is experienced
+as personal rather than structural. He has not told his wife because telling her would require him to say
+the words, and the words are the injury.
+
+**3. The presenting symptom is a reckoning conducted badly in private.** Sleeping badly, sitting in the
+car, drinking two beers more than he used to, shouting at a nine-year-old about shoes. None of this is a
+disorder and all of it is a person conducting a reckoning without a single interlocutor.
+
+**4. The marriage has become an administration.** Kemi manages the household, Dapo provides; the couple's
+conversation is logistics and money. This is the ordinary outcome of two careers and three children, and it
+is also the reason the reckoning cannot be conducted at home: there is no room in the schedule for a
+conversation that does not have an agenda.
+
+**5. The live conflict is about his mother, and it is not about his mother.** Dapo wants his mother to move
+in. Kemi does not. Both positions are legitimate; neither has been stated as a position. Dapo experiences
+Kemi's resistance as a betrayal of the family; Kemi experiences Dapo's proposal as the final expropriation
+of a life she has already given two decades to. The therapist's job is to make both statements sayable in
+the same room, not to resolve them.
+
+**The formulation, in one paragraph.** A forty-five-year-old man whose life structure has been organised
+around a single audience — his father — and a single trajectory — the region — has lost both within
+eighteen months, and has no vocabulary, no interlocutor and no time in which to conduct the resulting
+reckoning. His irritability is the surface of a grief that has no permitted form. His marriage has become
+an administration, and the one live decision in front of the couple — whether his mother moves in — is
+being conducted as a loyalty test rather than as a household negotiation.
+
+**The intervention, in five parts.**
+
+**Part 1 — Name the reckoning.** In the second session the therapist says, in front of both: "four things
+have happened in eighteen months and each of them has taken away a role. That is not an illness. It is a
+lot, and it has arrived without a single conversation in which you were allowed to say it out loud." Dapo
+cries, briefly, and is embarrassed. Kemi takes his hand. Nothing else in the session matters as much.
+
+**Part 2 — Restore one non-instrumental hour.** The generativity audit has produced an empty column. The
+task is one hour a week that is not for anyone — squash, restored, on Saturday mornings. The therapist is
+specific about the obstacle: Dapo's objection is that it is self-indulgent, and the answer is that a man
+who receives nothing has nothing to give, which is a statement about the household's economics rather than
+about his entitlements.
+
+**Part 3 — The mother, as a negotiation with four options.** The therapist writes four options on the
+board, not two: she moves in; she stays and a paid carer is arranged; she moves to a flat nearby with
+support; she moves in for a trial of three months with a review. The purpose is to break the binary that
+has made the argument unwinnable. The couple chooses the fourth, and the review date is written into the
+plan.
+
+**Part 4 — The brother's school fees, named.** A second loyalty obligation, never mentioned in the referral
+and discovered by question five. The therapist asks one question: "what was the agreement, and who made
+it?" The answer reveals an arrangement made by Dapo alone, presented to Kemi as a fact. Renegotiating it
+is not the point; naming it as a joint decision rather than a unilateral one is, because the pattern — a
+man deciding alone and then resenting alone — is the marriage's actual problem.
+
+**Part 5 — One conversation a week that is not logistics.** Twenty minutes, Sunday evening, agenda-free,
+no children, no money. The rule: neither party may raise a problem in that twenty minutes. The purpose is
+not intimacy in the romantic sense; it is to rebuild the channel through which a reckoning could be
+conducted at home rather than in a car.
+
+### 9.6a Five months later
+
+The mother did not move in permanently. She moved into a flat two streets away with a carer who comes
+daily, and the arrangement is reviewed every three months. Dapo visits on Wednesdays and Sundays, which is
+more than he visited when she lived alone in Ibadan.
+
+Squash has become twice a week, with a man Dapo knew at university and had not telephoned in nine years.
+The therapist did not suggest the friend; the squash did.
+
+The region has not been offered and will not be. In session seven Dapo says, unprompted: "I am not going to
+be a regional director", and the sentence is flat rather than bitter. Kemi says afterwards, privately, that
+this was the moment she stopped being afraid of him.
+
+The drinking has reduced without being addressed. The therapist notes this in the record as an example of a
+symptom that resolves when the function it was serving is met elsewhere, which is the general principle
+this week has been teaching.
+
+**The honest limitations.** Dapo has not grieved his father, in any sense a therapist would recognise. He
+has stopped being angry, which is not the same thing, and the therapist says so in the final session rather
+than claiming a resolution. The couple's twenty minutes survives about three weeks in four. And the eldest
+child, Tolu, has not been part of the work at all, which the therapist records as a gap: a launching that
+happens to a family in difficulty usually needs the person who left to be spoken about, at least once.
+
+**What would have changed the plan.** If Dapo had described persistent low mood with anhedonia for more
+than two months and impairment at work, the plan would have begun with a diagnostic assessment and possibly
+medication, alongside the developmental work. If the drinking had reached a level with withdrawal symptoms,
+substance work would have taken precedence. If Kemi had refused to continue after the mother's proposal, the
+work would have become a couple's negotiation about competing obligations to two sets of parents, which is a
+different treatment with a different endpoint. And if Dapo had disclosed an affair — which the therapist
+asked about directly, and which he denied — the reckoning would have been conducted against a background of
+breach, and the sequence would have been different.
+
+### 9.7 Transcript: the lifeline, drawn in front of the couple
+
+Twelve turns from the second session. The therapist has one sheet of A4 and a pen, and she has given the
+pen to Dapo.
+
+> **T1 Therapist:** I want to draw your life on this page. A line across the middle, and your age along it.
+> Above the line, the things that were good. Below, the things that were hard. Not the things that
+> should have mattered — the things that did. — *The instruction that makes the technique work, and the
+> only instruction given.*
+>
+> **T2 Dapo:** *(draws, silent, for about four minutes)*
+>
+> **T3 Therapist:** *(says nothing)* — *Four minutes of silence while a man draws his life. The impulse to
+> comment at the first mark is strong and must be resisted; the drawing is the intervention and the
+> therapist's commentary would take it back.*
+>
+> **T4 Dapo:** *(stops)* There. *(handing it over)*
+>
+> **T5 Therapist:** *(reading)* 1998, graduation. 2001, marriage. 2003, Tolu. 2007, the first branch.
+> 2011, your mother's illness. 2014, Femi. 2019, this branch. *(pause)* 2024, your father. *(pause)* What
+> is that mark in 2016? — *The therapist reads the marks back flatly, without evaluation, and then asks
+> about one unexplained mark rather than about the obvious ones. The unexplained mark is where the person
+> has put something they have not decided how to describe.*
+>
+> **T6 Dapo:** That is when I stopped the squash. *(pause)* My father was ill from 2015.
+>
+> **T7 Therapist:** So the squash went first.
+>
+> **T8 Dapo:** *(quietly)* Yes.
+>
+> **T9 Kemi:** I did not know that. I thought you were tired.
+> — *The partner's first contribution, and it is not an argument. This is the effect the technique is
+> designed to produce: a fact the partner did not have, delivered without accusation.*
+>
+> **T10 Therapist:** *(to Kemi)* What do you notice about the line? — *The question is given to the
+> partner deliberately. It converts her from an audience into a reader, which is the difference between a
+> session about a man and a session about a couple.*
+>
+> **T11 Kemi:** Everything above the line is work or children. There is nothing on it that is just him.
+> — *She has found the generativity audit without being shown it.*
+>
+> **T12 Therapist:** *(to both, quietly)* That is what I noticed too. *(pause)* Dapo, what would you put on
+> it if you had an hour a week that was not for anybody? — *The question is asked of him, not proposed by
+> the therapist, and it is asked last, when the evidence for it is on the page in his own hand.*
+
+### 9.7a What to do when the partner weeps and the client does not
+
+A practical note that belongs to this week and recurs in every adult case.
+
+In the session above, Kemi weeps twice and Dapo does not. Trainees read this as evidence that Kemi is
+"more in touch" and Dapo is "defended", and they begin to work on Dapo's defences. The reading is usually
+wrong, and the intervention that follows from it usually fails.
+
+**Three alternative explanations, and how to tell them apart.** First, *timing*: the partner may have had
+years to grieve the marriage in private and is now crying about something old, while the client is hearing
+his own life described aloud for the first time and is in the numb phase that precedes grief. Second,
+*permission*: in many households the man has never cried in front of anyone and the prohibition is
+stronger than the feeling. Third, *role*: one partner is the expressive one and the other the containing
+one, and the arrangement is stable rather than pathological.
+
+**The test.** Ask each of them, separately and plainly: "when did you last cry, and who was there?" The
+answers distinguish the three explanations within a minute. A man who cries alone in a car is not defended;
+he is unaccompanied.
+
+**What to do in the session.** Do not pursue the non-crying partner's tears. Attend to the one who is
+crying, briefly and without fuss — a sentence, a pause, a glass of water — and then return to the material.
+The non-crying partner is watching how the therapist treats the crying one, and what he learns in those
+thirty seconds determines whether he will ever cry in this room.
+
+**What to say afterwards, if anything.** One sentence at the end of the session, addressed to him and not
+to the couple: "you did not have to do anything while she was crying, and you stayed." Naming the staying
+is more useful than naming the absence of tears, and it is accurate.
+
+### 9.8 Laboratory: the developmental history with a partner present
+
+**Aim.** To take the eight-question history with an individual whose partner is in the room, without
+losing the individual to the couple.
+
+**Procedure.** Trios: therapist, client, partner. The trainer briefs the client with a life containing
+three off-time events and one foreclosed choice; the partner is briefed to interrupt twice — once with a
+correction, once with an accusation — and to be silent otherwise. Thirty minutes. The observer records
+every interruption the therapist allowed and every one she prevented, and how she prevented it.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Structure** | Questions asked out of order or skipped | All eight asked, some merged | All eight asked in order, with the answers written verbatim |
+| **Protecting the individual** | Allowed the interruption and the session became a couple argument | Stopped the interruption but lost the client's thread | Stopped it, named why, and returned the client to the exact question |
+| **Using the partner** | Partner ignored | Partner invited at the end | Partner invited at the two designed moments, and her contribution used |
+| **The off-time reading** | Took the events at face value | Noticed one off-time event | Named the gap between the timetable and the life, in the client's words |
+| **The close** | Summarised for the client | Checked the summary | Checked it, was corrected, and used the correction |
+
+**The distinction that carries most of the marks.** The top band requires the therapist to write the
+answers *verbatim*, which is harder than it sounds: most trainees paraphrase into clinical language within
+the first question, and the paraphrase is what loses the case. "He says his father would have seen the
+house" is data. "He reports unresolved paternal expectations" is a summary of the therapist's own theory.
+
+### 9.9 Six errors
+
+**Error 1 — Hearing the relationship and missing the life.** The couple's complaint is the presenting
+system, not the whole person. A therapist who works only with the couple's communication will produce
+better arguments about the same unmet developmental needs.
+
+**Error 2 — Imposing the timetable.** Telling a forty-year-old unmarried woman that the social clock is
+oppressive is not support; it is the substitution of the therapist's analysis for the client's dilemma. Ask
+about the clock; never set it.
+
+**Error 3 — Pathologising the reckoning.** A man of forty-five who is grieving a life is not necessarily
+depressed, and the distinction matters because the treatments differ. The screening question is duration,
+impairment and severity, as in Week 8 — and if the criteria are met, treat the depression, because a
+depression will prevent the reckoning being conducted at all.
+
+**Error 4 — Romanticising the reckoning.** The mirror error. "He is finding himself" is not an adequate
+response to an affair, an abandoned family, or a resignation that leaves a household without income. The
+developmental frame explains the behaviour; it does not license it.
+
+**Error 5 — Treating generativity as a virtue.** Generativity becomes a trap when it is the only structure
+a person has: the man who is the roof for everyone and receives nothing is not a saint, he is a system
+with no return path, and the collapse is predictable. The audit's third column is the clinical finding.
+
+**Error 6 — Believing the timetable is the same for both partners.** Couples routinely run on different
+clocks — different families, different expectations, sometimes different countries. The two-clock exercise
+is not an icebreaker; it is the assessment of a mismatch that has been conducted silently for twenty years.
+
+### 9.10 Culture, faith and the adult timetable
+
+**The Nigerian adult clock.** The timetable in most of the households this book is written for is explicit
+and densely populated: finish university by twenty-three, marry by twenty-eight, first child within a year
+of marriage, a house by forty, a title by fifty, a grandchild by sixty. The clock is enforced by relatives,
+by church and mosque, and by the ordinary conversation of a compound. An adult who is off it is not merely
+uncomfortable; they are the subject of a collective project of correction.
+
+The clinical consequences are specific and worth naming. A thirty-four-year-old unmarried woman presents
+with anxiety that is entirely rational given her circumstances, and the therapist's first task is to
+distinguish between her own wish and the family's project. A forty-year-old man with no child presents with
+depression and is asked by everyone he meets when he will have one. A couple with one child and secondary
+infertility present with a marital problem that is, in fact, a public one.
+
+**The first son, the last born, and the birth-order contract.** Many households operate an explicit
+birth-order contract: the first son is responsible for the parents, the first daughter for the younger
+siblings, the last born for the parents' old age. The contract is not usually written and is rarely
+negotiated. Dapo's case is the ordinary version, and the clinical move is not to overturn it but to make it
+*speakable* — who decided, when, and what is the limit — because an unstated contract cannot be declined
+and therefore cannot be renegotiated.
+
+**Faith and the meaning of a stalled life.** Adults in a religious household may interpret a plateau, a
+childlessness, or a bereavement as a spiritual matter, and the interpretation is frequently a resource
+rather than an obstacle: it provides a language for endurance and a community for support. The clinical
+error is to treat the framework as a defence to be interpreted. The workable position is to ask what the
+framework is *doing* — sustaining, or postponing — and to negotiate only what must be negotiated, which is
+usually whether the person is also permitted to be angry.
+
+**Migration and the split timetable.** A substantial proportion of the adults in these clinics have one
+foot in another country: a sibling in the United Kingdom who sends money, a spouse working in the Gulf, a
+child studying abroad. The developmental timetable of the household is then partly external, and the
+clinician must ask who is where, who is expected to return, and what the migration has cost. A couple's
+"distance" is sometimes a visa.
+
+> **DEBATE** — "A forty-five-year-old man who has done everything his family required of him and is now
+> miserable should be encouraged to disappoint them." Argue for: the foreclosure was never his choice, the
+> misery is the cost of a life authored by others, and the therapeutic task is to return authorship. Argue
+> against: the obligations are real, the family is not an obstacle to be overcome, the man is likely to
+> lose more than he gains, and encouraging rebellion is a projection of the therapist's individualism.
+> Then state what you would actually say to Dapo if he told you he wanted to stop paying his brother's
+> school fees.
+
+### 9.11 Evidence note
+
+**What the research supports.** The longitudinal evidence for continuity with change is strong: personality
+traits are rank-order stable across adulthood while their behavioural expression shifts, and the "midlife
+crisis" as a universal phenomenon is not supported. Generativity in midlife is associated with better
+wellbeing and, in several cohorts, with better outcomes for the next generation — though the direction of
+causation is not settled. The association between off-time life events and distress is robust across
+cultures, which is the strongest single support for the social-clock concept.
+
+**What is weaker.** Levinson's seasons rest on a small interview sample of American men and should be
+taught as a heuristic. Vaillant's cohort studies are rich and unrepresentative — educated, male, and
+longitudinally privileged — and their conclusions travel poorly to households with different structures.
+The "work as calling" literature is largely correlational and heavily confounded by occupation and income.
+
+**What is not supported.** That there is a universal midlife crisis with a predictable shape. That
+marriage has invariant stages that all couples pass through in order. That generativity requires children.
+And that an off-time life is a damaged one — the evidence is about distress, not about outcome.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same promotion at thirty-eight is a triumph for one manager
+and a ceiling for another, and what distinguishes them is not the event but what the event was supposed to
+mean.
+
+### 9.12 Key terms
+
+**Intimacy versus isolation** — Erikson's sixth stage; the capacity to be known without managing what is
+known.
+
+**Fusion, pseudo-intimacy, isolation, serial replacement** — the four adult forms of avoiding intimacy.
+
+**Generativity** — concern for establishing and guiding the next generation; the midlife task.
+
+**Social clock** — the culturally shared timetable for life events; distress follows deviation from it more
+than the events themselves.
+
+**Off-time event** — a life event occurring earlier or later than the cultural timetable expects.
+
+**Life structure** — the underlying pattern of a person's life at a given time: roles, relationships, and
+the commitments that organise them.
+
+**Continuity with change** — the finding that personality is stable in structure and changing in
+expression across adulthood.
+
+**Foreclosure** — a commitment adopted without exploration, typically inherited from the family.
+
+**Birth-order contract** — an unstated family allocation of responsibility by ordinal position.
+
+**Two clocks** — the divergence between partners' expected and actual timetables.
+
+### 9.13 Self-test
+
+1. Name the four adult forms of avoiding intimacy and one presenting complaint for each.
+2. What is the difference between a job, a career and a calling, and why is the distinction clinically
+   useful?
+3. Explain the social clock and give three off-time events with their typical clinical presentations.
+4. Why does the lecture insist that the reckoning be taken seriously *and* that the person be held
+   accountable? Give the error that each half prevents.
+5. In the Dapo case, what were the four developmental events, and why did they arrive together?
+6. What is the third column of the generativity audit, and what does an empty column mean?
+7. Why is the partner asked what she gave up, rather than what she wants?
+8. What is the difference between pathologising and romanticising a midlife reckoning, and what is the
+   position between them?
+
+**Answers.** *(1)* Fusion ("he cannot bear me having a friend"); pseudo-intimacy ("we are very close" with
+no private conversation); isolation ("he does not let me in"); serial replacement (a pattern of
+relationships each of which ends when it becomes known). *(2)* A job is for money, a career is a
+trajectory, a calling is what you would do anyway; the distinction identifies what a person has actually
+lost when work changes, which determines whether the intervention is occupational or developmental.
+*(3)* A first child at nineteen (interrupted own development); a first marriage at forty-five (enforced
+singleness and pressure); retirement at fifty-five (shame and somatic presentation). *(4)* Taking it
+seriously prevents pathologising a developmental task as a disorder; holding the person accountable
+prevents romanticising harm as self-discovery. *(5)* A work plateau, his father's death, his daughter's
+departure, and his mother's widowhood — they arrived together because midlife concentrates losses of role,
+as the generation ahead dies and the generation behind leaves in the same decade. *(6)* What I receive;
+empty means a system with no return path, and the intervention is to build one. *(7)* Because the question
+produces the partner's own developmental account, which converts an assessment of one person into a
+conversation between two, and because "what do you want" invites a demand while "what did you give up"
+invites a history. *(8)* Pathologising treats a reckoning as depression; romanticising treats harm as
+growth; the position between them is to name the task and hold the person accountable for how they conduct
+it.
+
+### 9.14 Reflective task
+
+Write your own lifeline, on paper, with the instruction the case used: the things that mattered, not the
+things that should have mattered. Then write your own two clocks — when you expected to marry, to have
+children, to be established, to be settled — and when it actually happened or looks likely to. Then answer
+one question: which gap have you explained to yourself, and which have you not?
+
+### 9.15 Further reading
+
+- Erikson, E. *The Life Cycle Completed* — intimacy and generativity, in the author's own late revision.
+- Levinson, D. *The Seasons of a Man's Life* — read as a heuristic, with the sample in mind.
+- Vaillant, G. *Triumphs of Experience* — the Harvard cohort, and the case for continuity.
+- McAdams, D. *The Redemptive Self* — how adults narrate generativity, and why the story matters.
+- Neugarten, B. "Time, age and the life cycle" — the original social-clock paper, still the clearest.
+
+*Next: Week 10 — Couple development: the relationship across time.*
 
 ---
 
-## Week 10 — Couple development
+## Week 10 — Couple development: the relationship across time
 
-Couples develop too. A workable map (used again in MFT 710 and 718):
+Couples develop too, and the development is not a metaphor. A relationship has tasks that arrive in a
+sequence, capacities that are built or not built at each stage, and a trajectory that can be described in
+advance well enough to be clinically useful.
 
 | Phase | Central task | Common failure |
 |---|---|---|
@@ -5725,8 +6400,700 @@ Couples develop too. A workable map (used again in MFT 710 and 718):
 | Launching | Re-intimacy after children leave | The "empty nest" that was already empty |
 | Later life | Facing illness, retirement, loss together | Caretaking replaces relating |
 
-> **PRACTICAL** — With a peer, draw a couple timeline: five high points, five low points, one turning point
-> each. Then ask: which developmental transition explains the lowest point? Present in 5 minutes.
+**What the map is for.** Not prediction, and not assessment of how far along a couple "should" be. The map
+is a diagnostic instrument with three uses: it tells the therapist which *task* is live; it predicts which
+task is *next*, which is the basis of preventive work; and it locates the couple's complaint in a sequence,
+which is often the first time either partner has seen the complaint as a stage rather than a verdict.
+
+**What the map is not.** It is not a universal sequence. Couples form at twenty and at fifty; some never
+have children and some begin with them; some skip the launching phase because a parent moves in instead of
+a child moving out; and a substantial number of the households in these clinics are not a two-person
+system at all but a network of three or four adults raising children together. The map is a set of tasks,
+not a set of stations.
+
+**Why this week follows adult development.** Last week was the person's timetable. This week is the
+*relationship's* timetable, and the two are frequently out of step. The most common clinical picture in
+this week is a couple whose individual clocks have diverged from the couple's clock: one partner is still
+in the formation task ("have we really chosen each other?") while the other is deep in the young-children
+task ("who is doing the school run?").
+
+> **PRACTICAL** — With a peer, draw a couple timeline: five high points, five low points, and one turning
+> point each. Then ask: which developmental transition explains the shape of this line? Most students find
+> that at least two of their five low points sit next to a transition rather than next to a conflict, which
+> is the whole argument of the week.
+
+### 10.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | Why a couple develops | The difference between a relationship that changes and one that grows | Name the last transition their own family passed through |
+| 8–22 | The six phases | The tasks, in order, with one failure mode each | Place four couples on the map from a one-line description |
+| 22–34 | Formation and the unchosen couple | The "one partner never really chooses" pattern and how it presents ten years later | Identify the unchosen partner in two vignettes |
+| 34–46 | Young children | The division of labour, the disappearance of the couple, and the two-year window | Calculate the couple's weekly non-logistical time |
+| 46–58 | Adolescence and launching | The re-negotiation, and the couple who outsourced their identity to the children | Ask the "what did you talk about before them?" question in role |
+| 58–70 | The cascade and the repair trajectory | The behaviours that predict dissolution, and the ones that predict recovery | Code a two-minute argument for the four horsemen |
+| 70–82 | Rituals | What a ritual is, why couples without them drift, and how to build one | Inventory their own family's rituals |
+| 82–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Students arrive with a model of couple therapy as
+conflict management, and the week's job is to replace it with a model of *development management*. The
+demonstration that does this is to take a couple who argue well — who resolve every disagreement
+respectfully — and show that they are nonetheless in trouble, because they have not had a non-logistical
+conversation in four years. Conflict skill is necessary and it is not the same as a relationship.
+
+**The sentence the lecture must land.** "Couples do not fail because they fight. They fail because the
+tasks change and nobody tells them, so they keep doing the last stage's work in this stage's conditions."
+
+### 10.2 The six phases, with the clinical reading of each
+
+**1. Formation.** The task is commitment: two people becoming a couple that is distinct from the two
+families that produced them, and each of them genuinely choosing. The clinical issue that matters most is
+the *unchosen* couple — the relationship entered because of pregnancy, family pressure, immigration status,
+loneliness, or the end of another relationship. Ten years later, the unchosen partner presents a
+resentment that has no argument attached to it, because there was never a decision to point at.
+
+The signature in the room: one partner can describe the moment they chose, and the other cannot. The
+therapist's question is not "do you love him?" but "when did you decide?" — and the answer, or its absence,
+organises the whole treatment.
+
+**2. Early marriage.** The task is building rituals and boundaries: how Sundays work, whose family comes
+for Christmas, who decides about money, what the couple does that is theirs. The characteristic failure is
+the in-law triangle — a partner in coalition with a parent against the other partner, usually without
+intending it.
+
+The signature: the couple's disagreements are not about content but about *loyalty*, and every argument
+resolves into a question of whose family wins. The intervention is structural rather than communicative:
+the couple must have a stated position that they can deliver to both families, in the same words.
+
+**3. Young children.** The task is dividing labour while protecting the couple bond. The characteristic
+failure is that co-parenting replaces partnering: the couple becomes an efficient organisation for the
+management of children and ceases to be a relationship. This is the single most common presentation in
+couple clinics worldwide, and it is not a failure of love but a failure of time and structure.
+
+The signature: the couple can talk for an hour about the children and cannot name what they did together
+in the last month that was not for the children. The assessment question is arithmetic: how many hours a
+week does this couple spend alone together, awake, not discussing logistics? The answer is usually between
+zero and two.
+
+**4. Adolescent children.** The task is re-negotiating autonomy as a family, and — unavoidably — revisiting
+each parent's own adolescence. The characteristic failure is the two patterns from Week 7: escalation and
+abdication, frequently with one parent in each.
+
+The signature: the couple's conflict is conducted *through* the adolescent. One parent is the strict one,
+the other the lenient one, and the adolescent has learned to route every request through the lenient one.
+The developmental reading is that the parents are replaying their own adolescent conflicts with each other,
+using the child as the arena.
+
+**5. Launching.** The task is re-intimacy after the children leave. The characteristic failure is the empty
+nest that was already empty: a couple who discover, at the point of launch, that they have not had a
+relationship independent of the children for twenty years.
+
+The signature: the couple presents when the last child leaves, with a complaint that sounds sudden and is
+not. The question that opens it — "what did you talk about before them?" — usually produces a silence
+followed by an accurate and painful answer.
+
+**6. Later life.** The task is facing illness, retirement and loss together. The characteristic failure is
+that caretaking replaces relating: one partner becomes a nurse and the other a patient, and the
+relationship that was between two adults becomes a service.
+
+The signature: the healthy partner describes exhaustion and the ill partner describes loneliness, and both
+are describing the same loss. The intervention is to restore some domain of the relationship that is not
+about the illness — one hour, one activity, one subject that is not permitted to be medical.
+
+### 10.2a What the therapist asks at each phase
+
+The table below is the practical instrument. In a first session, the therapist does not need to know which
+phase the couple is in so much as which *task* is live, and the questions below identify it in about ten
+minutes.
+
+| Phase | The question that identifies it | What a positive answer means |
+|---|---|---|
+| Formation | "When did you decide?" | If only one can answer, the couple is unchosen |
+| Early marriage | "Whose family decides about Christmas, and who decided that?" | A coalition with a family of origin is live |
+| Young children | "How many hours a week are you alone together, awake?" | Below two hours, the bond is unprotected |
+| Adolescent children | "Who is the strict one?" | The conflict is being routed through the child |
+| Launching | "What did you talk about before the children?" | The couple's identity was outsourced |
+| Later life | "When did you last do something together that was not about the illness?" | Caretaking has replaced relating |
+
+**The rule for using the table.** One question per session, not six. A therapist who runs the whole table
+in the first session produces a couple who feel assessed rather than met, and the information gained is
+worth less than the alliance lost. The table is for the therapist's internal map; the questions are
+delivered one at a time, across sessions, in the order the couple's material invites.
+
+### 10.2b The cascade and the repair trajectory
+
+Couples do not dissolve in a single event. They move along one of two trajectories, and the behaviours that
+distinguish them are observable in a two-minute argument.
+
+**The cascade.** Four behaviours reliably predict deterioration, and they are not the loud ones. They are:
+*criticism* (an attack on the person rather than the behaviour: "you always", "you never"); *contempt* (mockery,
+sarcasm, eye-rolling, name-calling — the single strongest predictor); *defensiveness* (counter-attack or
+victim stance in response to a complaint); and *stonewalling* (withdrawal, silence, a phone). These are
+usefully taught not as sins but as *stages of a losing strategy*: criticism is a complaint that has been
+made too many times without being heard; contempt is criticism that has stopped expecting an answer;
+defensiveness is the response of a person who believes the accusation is a verdict; and stonewalling is
+what a physiologically flooded person does when they have no other option.
+
+**The repair trajectory.** The distinguishing feature of couples who recover is not the absence of the four
+behaviours but the presence of *repair attempts*: a joke, a hand, a "can we start again", a break, a
+sentence that concedes one point. Repair attempts succeed in proportion to the couple's capacity to notice
+them — which is trainable — and in proportion to the *positive sentiment override* built up outside the
+argument.
+
+**The developmental reading.** The cascade is what happens when a stage's task is not done and the couple
+keeps using the previous stage's methods. The couple in the young-children phase who are still arguing like
+a formation couple — about whether they chose each other — will fight about the school run and mean
+something else entirely. The therapist's job is not to teach them to argue better about the school run. It
+is to identify which task is live and to move the argument there.
+
+**What predicts recovery, in order.** The couple's capacity to repair in the moment; the ratio of positive
+to negative interaction outside conflict; the presence of shared meaning (children, faith, a project, a
+place); and the absence of contempt. Note what is not on the list: the frequency of conflict, the content
+of the disagreement, and the couple's skill at "communicating". Many couples with excellent communication
+skills are in trouble, and many couples who shout are not.
+
+### 10.3 The method: the couple timeline
+
+The timeline is the assessment and the intervention at once, and it takes one session.
+
+**Step 1 — Draw it, with both present, on one sheet.** A horizontal line, and the years along it from the
+couple's meeting to today. Above the line: five high points. Below: five low points. Both partners
+contribute; the therapist writes.
+
+**Step 2 — Ask for the same five moments from each partner separately, then compare.** The comparison is
+the finding. Couples routinely produce different high points, and the difference is not a memory error; it
+is a difference in what each of them is living for.
+
+**Step 3 — Mark the transitions in a third colour.** Marriage, first child, a move, a job change, a
+bereavement, a migration, a child leaving. Then look at the line. The pattern that appears in the great
+majority of cases is that the low points cluster *adjacent to* the transitions, not adjacent to the
+arguments.
+
+**Step 4 — Ask the turn question of each.** "Which point on this line was the turning point, and what
+turned?" The answers are frequently surprising and always usable, and they are the material for the rest of
+the treatment.
+
+**Step 5 — Ask the unanswered question.** "What happened on this line that is not on it?" The question
+produces the events the couple has agreed not to discuss: an affair, a miscarriage, a debt, a termination,
+a period of violence, a child who died. The therapist asks it once, and does not pursue the answer in the
+first session.
+
+**Step 6 — Convert the timeline into one task.** Not a programme. One thing that the couple will do, or
+stop doing, between now and the next session, chosen because it addresses the live task rather than the
+loudest complaint.
+
+**Why the technique works.** It externalises the relationship. A couple who have been conducting a
+characterological argument ("you are selfish") are suddenly looking at the same object on a page, and the
+object is a history rather than a defect. It also does something the partners cannot do alone: it makes
+visible the *ratio* between the good years and the bad, which is frequently more balanced than either
+partner believed.
+
+### 10.3a The turning-point interview
+
+The turn question from step 4 deserves a section of its own, because it is the most productive single
+question in couple work.
+
+**The question.** "If you had to put your finger on one point where this relationship turned — for better
+or worse — which point would it be?"
+
+**Why it works.** It asks for a *moment* rather than an evaluation. Couples in difficulty have an
+evaluation ready ("it has been bad for years") and no moment, and the request for a moment produces
+specificity, a date, and usually an incident that the other partner did not know was being carried.
+
+**The four kinds of answer, and what each requires.**
+
+- **An event** — a job loss, a move, a death, an affair. The therapist's work is to establish what the
+  event *meant*, which is usually not what happened but what was not said about it.
+- **A decision** — "when we decided to have the second child", "when I took the posting". The work is with
+  the decision's authorship: who decided, and who was informed.
+- **A sentence** — "when he said, in front of his mother, that I was exaggerating". The work is with the
+  moment itself, which is frequently the first time the other partner has understood its weight.
+- **A silence** — "I cannot think of one". This is the most informative answer of all, and it usually means
+  that the couple's difficulty is chronic rather than eventful, which changes the treatment from a
+  reconstruction of an injury to a construction of a relationship.
+
+**The rule for the therapist.** Do not choose between the two answers. A couple will offer two turning
+points and the therapist's temptation is to adjudicate. The useful move is to ask each partner what the
+other's turning point means to them, which is the first genuinely mutual act in most of these sessions.
+
+### 10.4 Three techniques
+
+**Technique 1 — The ritual inventory.** List every recurring practice in the household: the Sunday meal,
+the Friday call to a parent, the way birthdays are marked, the prayer before a journey, the walk, the
+programme watched together, the way an argument ends. Then mark each as *alive*, *dead*, or *contested*.
+Couples in difficulty have reliably lost their rituals, not their love, and the restoration of one ritual
+is frequently more effective than a communication exercise.
+
+**Technique 2 — The division-of-labour audit.** Two columns: everything that has to be done in a week, and
+who does it. Then a third column, which is the one that matters: *who notices when it is not done*. The
+third column is the measure of mental load, and it is the source of most of the resentment in the
+young-children phase. The audit is not a negotiation; it is a description, and the description usually
+produces the negotiation without the therapist having to run it.
+
+**Technique 3 — The twenty minutes.** One twenty-minute period per week, at a stated time, with no
+children, no money, no logistics and no problem-solving. The rule that makes it work: if a problem is
+raised, the twenty minutes ends and the problem goes to a different slot. Couples find this harder than any
+other task in the book, and their difficulty is the diagnosis.
+
+### 10.5 The first session with a couple in the young-children phase
+
+**Phase 1 — The complaint, in each person's words, with one example each (15 minutes).** Written down
+verbatim. The therapist does not allow the partners to respond to each other's examples in this phase, and
+says why: "you will each get to answer, and I want the examples to be on the table first."
+
+**Phase 2 — The timeline (25 minutes).** Drawn on one sheet, both contributing, with the transitions marked
+in a third colour.
+
+**Phase 3 — The live task, named and checked (5 minutes).** "I think the task in front of you is not the
+argument about the phone. I think it is that you have not been alone together, awake and not talking about
+the children, for about two years. Is that right?" The couple corrects, and the corrected version is the
+formulation.
+
+**Phase 4 — The arithmetic (5 minutes).** "How many hours a week?" The answer is written on the sheet, next
+to the timeline, because a number on a page is more persuasive than a number in a conversation.
+
+**Phase 5 — One task (10 minutes).** The twenty minutes, scheduled now, in the session, in the diary. The
+therapist does not leave the scheduling to the couple, because the couples who most need it are the ones
+least likely to find the time.
+
+**Why the timeline precedes the task.** A couple given a task before they have seen their own history
+experiences the task as an instruction from a stranger. A couple who have just drawn twenty years on a page
+experience the same task as a repair to something they can see.
+
+### 10.5a When one partner will not come
+
+The commonest structural obstacle in couple work: one partner attends and the other refuses. Three
+positions, and one of them is right.
+
+**The wrong position — treat the attending partner individually as if the couple were the problem.** This
+produces a therapy that is, in effect, an alliance against an absent person, and the absent person will
+eventually be told what was said, accurately or otherwise.
+
+**The second wrong position — refuse to work until both attend.** This abandons the person in front of you
+and, in practice, ends the treatment.
+
+**The workable position — work with one, on the relationship, explicitly and transparently.** Say what the
+frame is: "I will work with you on what you can change, which is your part. I will not build a case against
+your husband." Then three practical moves: ask the attending partner to invite the other once, in the
+therapist's words, with the offer that the first session is a consultation and not a commitment; offer a
+single joint session with an explicit agenda that the absent partner can read in advance; and set a review
+date at which the situation is reassessed.
+
+**The question that changes the refusal.** An absent partner usually refuses for one of three reasons: they
+believe the problem is the other person's; they are ashamed; or they are afraid of what will be said. The
+invitation that works addresses the third: "nothing will be decided about you in a room you are not in."
+That sentence, delivered by the attending partner, converts a substantial minority of refusals.
+
+### 10.4a The negative cycle, in the couple's own words
+
+Emotionally focused couple therapy describes a circular pattern — a pursue-withdraw or attack-defend cycle
+— that organises most distressed couples' arguments. The description is useful to a developmental
+therapist because the cycle is the *mechanism* by which a missed stage task turns into a stable
+arrangement.
+
+**How to name the cycle without jargon.** Ask each partner two questions: "when you are not getting
+through, what do you do?" and "what do you see him doing?" The answers produce the cycle in the couple's
+own language, which is the only version that will be remembered. A typical formulation, in a couple's
+words: "when I feel alone I ask for more, and the more I ask the more he goes quiet, and the quieter he
+goes the more I ask." The therapist writes it down and gives it a name the couple chooses.
+
+**Why the developmental frame matters here.** The cycle is not a communication defect; it is a
+stage-specific adaptation that has outlived its stage. In the young-children phase, pursuing is what one
+partner does to protect the bond from disappearing and withdrawing is what the other does to survive
+exhaustion. Both strategies are reasonable responses to the actual conditions. They become a cycle when
+each is experienced by the other as the cause of the problem, and the cycle becomes stable when neither
+partner can see their own half of it.
+
+**The three moves that break it, in order.**
+
+**First, name the cycle as the problem, not the partner.** "The thing that has been happening in your house
+for four years is this pattern, and it is not either of you." This is not a rhetorical softening; it is
+accurate, and it changes the couple's task from mutual accusation to joint observation.
+
+**Second, find the primary emotion under each position.** The pursuer's anger is usually underlain by fear
+of being unimportant; the withdrawer's flatness by a conviction of failure. Naming these is done with
+tentativeness — "I may be wrong, but I wonder whether the quiet is not indifference but a kind of
+protection" — because a confident attribution at this point is experienced as taking the other's side.
+
+**Third, give one small enactment in the session.** Ask the pursuer to say the fear directly to the
+withdrawer, and the withdrawer to answer without defending. The therapist keeps it to two turns and stops
+it before it becomes a conversation, because the first two turns are the intervention and the third is
+usually a relapse.
+
+**What the developmental therapist adds.** The cycle is described, and then the *task* is addressed: the
+Thursday, the audit, the defined grandmother. Naming a cycle without changing the structure that produces
+it produces a couple who understand their pattern and continue to enact it, which is the characteristic
+failure of insight-oriented couple work in a household with no time.
+
+### 10.5b The couple with a child with a disability
+
+One presentation deserves separate treatment because it reorganises the couple's developmental timetable
+more than any other.
+
+**What changes.** The young-children phase does not end when it should; the launching phase may never
+arrive; the division of labour becomes permanent and unequal; the couple's social world narrows to families
+in the same situation or disappears; and the services system becomes a third party with its own demands,
+appointments and forms. The couple's shared meaning is tested in a way that few other events test it.
+
+**What the evidence says.** The divorce rate among parents of children with disabilities is frequently
+quoted as higher than the general population; the better-designed studies find a smaller and less
+consistent difference than the popular claim, with the strongest predictors being the child's behaviour
+difficulties and the family's financial and service support rather than the disability itself. What is
+robust is the *elevation of parental stress* and the *reduction of couple time*.
+
+**The three clinical tasks.** First, protect one domain of the couple's life that is not about the child —
+which is the same intervention as the twenty minutes, with a higher stake. Second, define the division of
+labour explicitly, because the default is that one parent becomes the specialist and the other becomes the
+provider, and the arrangement is rarely chosen. Third, address the sibling, who is the family member most
+often described as "fine" and least often asked.
+
+**The question that opens the work.** "What did you imagine this would be like, and what is it like?" Asked
+of each partner separately, then together. The gap between the two answers is the couple's grief, which is
+usually unmourned because the child is loved and the grief feels like a betrayal of the child. Naming that
+directly — "it is possible to love this child completely and to grieve the life you expected" — is
+frequently the most useful sentence in the treatment.
+
+### 10.6 Case: Aisha and Sam, four years on
+
+The couple first met in Week 2, where Aisha, 31, and Sam, 34, were assessed for goodness of fit with a
+temperamentally slow-to-warm infant. They return three years later with a second child.
+
+**The household.** Aisha, 34, a lawyer, on a partnership track. Sam, 37, an architect, in a small practice
+he started with a colleague. Their daughter, Yusra, is four and in pre-school; their son, Bilal, is nine
+months. Sam's mother, 66, comes three days a week to help. Aisha's sister lives twenty minutes away and has
+two children of her own.
+
+**The referral.** Aisha telephones. "I do not think I love him any more. I am not saying I want to leave. I
+am saying I cannot remember." Sam's version, in the first session: "she is never here. When she is here she
+is on her phone. She has decided something and she has not told me what it is."
+
+**The complaint, with examples.** Aisha's example: "last Saturday I came back from the market and he had
+taken Bilal to his mother's without telling me, and I sat in the car outside my own house for ten minutes
+because I did not want to go in." Sam's example: "on Wednesday she came home at ten and I had done both
+bath times and she said 'you should have put him down earlier'."
+
+**The timeline.** Drawn with both, and it is the session.
+
+- 2016 — met at a wedding. *High.*
+- 2018 — married. Aisha's family objected to the tribe; she married him anyway. *High.*
+- 2019 — Yusra born, difficult birth. *Low.*
+- 2020 — Sam's practice started; the money stopped for eighteen months. *Low.*
+- 2021 — Aisha's father died. *Low, the deepest mark on the line.*
+- 2022 — Aisha made senior associate. *High.*
+- 2023 — The move to the bigger flat. *High, contested.*
+- 2024 — Bilal born. *High and low in the same month.*
+- 2025 — Sam's practice stable; Aisha's partnership decision due. *Unmarked, so far.*
+
+**What the timeline shows that neither partner had said.** Three findings.
+
+**First, the low points cluster at 2019 to 2021, and the couple has never discussed 2021 at all.** Aisha's
+father died in the same year Sam's practice was failing and Yusra was two. The therapist asks the unanswered
+question — "what is not on this line?" — and Aisha says: "I was pregnant in 2021 and I lost it in the August,
+and then my father died in the October, and nobody in this family knows that because we were doing the
+practice." Sam puts his face in his hands. It is the first time in four years that this has been said in the
+same room as both of them.
+
+**Second, the high points are almost all about achievement, and none of them are about each other.** 2022 is
+Aisha's promotion. 2023 is the flat. The couple's celebrations are external, and the therapist names this
+without interpretation: "there is nothing on the top of this line that is just the two of you."
+
+**Third, the word "partnership" appears twice — Sam's practice and Aisha's track — and the couple is
+competing in the same currency.** They are not in conflict about love. They are in a symmetric struggle in
+which each is asking the other to accommodate a career, and neither has said so in those terms.
+
+**The live task.** The young-children task: dividing labour while protecting the couple bond. The
+arithmetic is performed in the session: Aisha estimates that she is alone with Sam, awake, not discussing
+children, for "about twenty minutes a week, and that includes the argument". Sam says "less".
+
+**The three findings that produce the formulation.**
+
+1. **The couple's bond was never built as a separate structure; it was built as a joint project.** Two
+   ambitious people married in 2018 and immediately began building: a practice, a career, a flat, two
+   children. The project is now succeeding and the relationship that was supposed to be its purpose has no
+   independent existence. This is not a failure of love; it is a failure of construction.
+2. **An unmourned loss has been silently organising the last four years.** The miscarriage and the father's
+   death in the same autumn were absorbed as a logistical problem ("we were doing the practice") and never
+   mourned. Aisha's "I cannot remember loving him" is accurate: the years in which the memory would have
+   been made were the years in which the household was in emergency.
+3. **The conflict about the market and the bath time is not the conflict.** It is the ordinary surface of a
+   symmetric struggle about whose career accommodates whose, conducted through domestic detail because
+   neither partner has the standing to raise the real question — which is that they have never decided whose
+   work comes first.
+
+**The intervention, in five parts.**
+
+**Part 1 — Name the mourning, once, and do not process it in this session.** The therapist marks the
+September and October on the timeline, says "that is not a bad year, that is two deaths and a birth plan
+that ended", and moves on. The instruction is to notice, not to work. A couple who have avoided something
+for four years will not process it in the session in which it is first named, and a therapist who tries will
+teach them to avoid it more carefully.
+
+**Part 2 — Build one structure that is not the project.** The twenty minutes, scheduled in the session, on
+Thursday at nine-fifteen, after Bilal's last feed. The rule: no children, no money, no problems. The couple's
+objection — "we have nothing to say" — is answered by predicting it: "the first two will be awkward. That is
+the finding, not the failure."
+
+**Part 3 — The division of labour audit, with the third column.** Written in the session. The third column
+— who notices when it is not done — is almost entirely Aisha's, and Sam's reaction to seeing it written is
+the session's second significant moment. The negotiation that follows is not run by the therapist; it is run
+by the list.
+
+**Part 4 — The career question, named as a question.** "Whose work comes first when they conflict?" is asked
+plainly and answered badly, which is the beginning. The couple agrees on a rule for one year: Aisha's
+partnership year takes precedence for childcare logistics, and in exchange Sam's practice gets the first
+claim on any surplus money and one weekend a month. The rule is arbitrary and it is written down, and the
+arbitrariness is the point: a rule they chose is different from a pattern they resent.
+
+**Part 5 — The grandmother, defined.** Sam's mother comes three days a week to help. The therapist asks what
+she decides and what she does not. The answer reveals that she has views about Bilal's feeding which she
+expresses to Sam and not to Aisha, and that Sam has been carrying them. The three-domain agreement from
+Weeks 3 and 7 applies unchanged: what she decides, what she does not, and the sentence that says so in front
+of everybody.
+
+### 10.6a Four months later
+
+The Thursday twenty minutes has happened eleven times out of sixteen. Aisha reports that the first three
+were "terrible" and that the fourth was the first conversation in four years in which nobody mentioned a
+child.
+
+The miscarriage has been spoken about twice more, both times on a Thursday, both times briefly. The
+therapist has not run a grief protocol and does not intend to: the couple is doing the work in the place
+where the relationship is being rebuilt, which is more durable than a protocol.
+
+The rule about careers has already been broken once, in Aisha's favour, and renegotiated without a session.
+
+Sam's mother now says her views about feeding to both of them, which is worse in the short term and better
+in the long term. Aisha reports this with irritation and the therapist logs it as progress.
+
+**The honest limitation.** Aisha has not said she loves him. In the final session she says, "I do not want
+to leave", which is a different sentence and is the one available at this stage. The therapist does not
+convert it into a declaration, and the case is closed with a review at six months.
+
+**What would have changed the plan.** If the answer to "what is not on this line?" had been an affair, the
+sequence would have been disclosure, then a decision about the frame, then the developmental work. If either
+partner had disclosed violence — which the therapist screened for in the first session, as a matter of
+routine — the couple work would have stopped and safety work begun. If Aisha had said "I have decided", the
+treatment would have become a separation-focused process, which is a different treatment with a different
+endpoint and a different literature.
+
+### 10.7 Transcript: the unanswered question
+
+Ten turns from the third session, at the point where the timeline has been drawn and the therapist asks
+what is not on it. The couple has been together nine years.
+
+> **T1 Therapist:** I want to ask one more question about the line, and then we will stop drawing.
+> *(pause)* What happened in this relationship that is not on it? — *The question is asked once, flatly,
+> after the couple has invested twenty minutes in the drawing, which is when they have something to protect
+> and therefore something to add.*
+>
+> **T2 Aisha:** *(long silence)* Nothing. It is all there.
+>
+> **T3 Therapist:** *(waits)*
+> — *The single most important behaviour in the transcript. The silence is not a technique for producing
+> disclosure; it is the absence of pressure, which is the only condition in which disclosure occurs.*
+>
+> **T4 Aisha:** *(quietly)* There is one thing. *(pause)* I was pregnant in 2021. In the August. And then I
+> was not.
+>
+> **T5 Sam:** *(turns to look at her)* What?
+>
+> **T6 Therapist:** *(to Sam, very quietly)* You did not know.
+> — *Not a question. A statement that gives the partner a moment to be a person rather than a defendant.*
+>
+> **T7 Sam:** *(shakes his head)*
+>
+> **T8 Aisha:** You were at the practice. The money had gone. My father was already ill. I thought — *(stops)*
+> I thought if I told you it would finish you.
+> — *The reason for the silence, which is always a protection and never a deception, and the therapist's
+> next move depends on recognising that.*
+>
+> **T9 Therapist:** *(to both, after a pause)* I am not going to work on this today. I want it on the line,
+> and I want you to know that it is on the line. We will come back to it when you have had a week to know
+> that it is known. — *The refusal to process. Almost every trainee wants to work this material immediately,
+> and immediate processing of a four-year silence teaches the couple that disclosure produces a session
+> rather than a relationship.*
+>
+> **T10 Sam:** *(to Aisha, not to the therapist)* I would have wanted to know.
+
+### 10.8 Laboratory: the couple timeline
+
+**Aim.** To draw a couple timeline in twenty-five minutes, identify the live developmental task, and
+convert it into one task without running a communication exercise.
+
+**Procedure.** Trios: therapist, two partners. The trainer briefs the couple with a nine-year history
+containing three transitions and one undisclosed event which one partner will reveal only if asked the
+unanswered question at the right moment. Twenty-five minutes, then ten minutes of feedback.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The drawing** | Therapist drew it, or asked for a verbal history | Couple contributed, but unequally | Both partners' marks on the page, in the therapist's handwriting, with transitions in a third colour |
+| **The comparison** | Treated the two lists as one | Noticed a difference | Used the difference as the finding and asked what each difference meant |
+| **The transitions** | Not marked | Marked, not used | Marked, and the clustering of lows named |
+| **The unanswered question** | Not asked | Asked, then pursued immediately | Asked once, held, and the answer scheduled rather than processed |
+| **The task** | A programme | One task, unscheduled | One task, scheduled in the session, with a prediction of how it will fail |
+
+**The distinction that carries most of the marks.** The top band requires the therapist to *predict the
+failure* of the task she has just set. A couple told that the first three Thursdays will be awkward is
+protected from concluding, on the first awkward Thursday, that the therapy is not working.
+
+### 10.9 Six errors
+
+**Error 1 — Teaching communication skills to a couple whose problem is structural.** A couple with no
+shared time, two careers and an undefined grandmother do not need to learn to listen; they need a Thursday.
+Skill without structure produces a couple who listen beautifully in a session they cannot schedule.
+
+**Error 2 — Treating the loudest complaint as the task.** The market and the bath time are the surface. The
+therapist who negotiates the surface will be negotiating it again in a month, with a different example.
+
+**Error 3 — Taking sides with the more articulate partner.** In every couple there is one who speaks in
+paragraphs and one who speaks in sentences, and the therapist's sympathy follows the paragraphs. The
+correction is arithmetic and it should be visible: equal turns, equal minutes, and the therapist counting.
+
+**Error 4 — Processing a disclosure immediately.** The transcript above is the exemplar. A four-year silence
+is not resolved in the session in which it ends; it is registered, held, and returned to.
+
+**Error 5 — Believing the "empty nest".** A couple who present at the point of the last child's departure
+have usually been in difficulty for a decade. The presentation is late, not sudden.
+
+**Error 6 — Ignoring the household beyond the couple.** Three adults raising two children is not a couple
+with an in-law problem; it is a caregiving network with an undefined hierarchy. The unit of treatment is
+whatever is actually raising the children, which is frequently more than two people.
+
+### 10.10 Culture, faith and the couple
+
+**Marriage as a contract between families.** In much of the world the couple's formation is not a private
+decision but a treaty: bride price, family approval, religious ceremony, and obligations that run in both
+directions for decades. The Western developmental map's "formation" phase, with its emphasis on the couple
+choosing each other, describes one version of a universal task. In a marriage arranged with family
+involvement, the task is not *choosing* but *authoring* — the couple must become the authors of a
+relationship that others initiated, and the clinical question is whether they have ever been given the
+opportunity.
+
+**Polygyny and the couple unit.** Where a household includes more than one wife, the couple is not the
+clinical unit and a therapy designed for two people will misdescribe the system. The relevant tasks are
+allocation (of time, money, and the husband's presence), hierarchy (whose children, whose room, whose
+authority), and the children's experience of the arrangement. The therapist who has a position on polygyny
+will be unable to work; the therapist who can map the allocation without endorsing or condemning it can.
+
+**Religion as a third party in the room.** Couples frequently hold their marriage inside a religious
+framework that supplies obligations, rituals and an audience. This is a resource: it supplies a shared
+meaning, which is on the list of what predicts recovery. It is also a constraint: a couple who believe
+divorce is unavailable may present late, when the difficulty is chronic. Both are facts to be assessed, not
+positions to be taken.
+
+**The wife who earns more.** A specific and increasingly common presentation in the households this book is
+written for: a wife whose income exceeds her husband's, in a culture where provision is part of the
+definition of masculinity. The clinical picture is not usually the couple's own discomfort; it is the
+discomfort of the wider family, conducted through remarks, and it produces a husband who withdraws from
+decisions and a wife who resents the withdrawal. The intervention is to name the external audience and to
+build the couple's own position on it, which is Week 10's early-marriage task arriving late.
+
+> **DEBATE** — "A couple should stay together for the children." Argue for: the evidence on children's
+> outcomes is about conflict, not separation, and a low-conflict marriage is a better environment than a
+> divided household in most circumstances. Argue against: a high-conflict marriage is worse for children
+> than a clean separation, the phrase is used to trap people, and the children in question learn the
+> relationship they are shown. Then state what you would actually say to a couple who tell you this is their
+> reason for staying, and what you would ask them first.
+
+### 10.11 Evidence note
+
+**What the research supports.** The observational literature on couple interaction is strong: contempt,
+criticism, defensiveness and stonewalling predict deterioration, and repair attempts predict recovery, with
+effect sizes that survive controls for initial satisfaction. The association between shared meaning and
+relationship stability is consistent across studies. Emotionally focused couple therapy has the best
+evidence base of the couple modalities, with replicated effects in randomised trials and follow-up to two
+years (MFT 710).
+
+**What is weaker.** The stage models. The six-phase map is a teaching device assembled from family life
+cycle theory and clinical observation; it is not a validated developmental sequence, and couples vary
+enormously in the order and timing of the tasks. The claim that the couple should be the primary unit of
+treatment is a value as much as a finding, and in households with distributed caregiving it is frequently
+wrong.
+
+**What is not supported.** That communication training alone improves satisfaction in distressed couples —
+the evidence is that skill acquisition without change in the couple's structure and emotional bond does not
+transfer. That the empty nest is a crisis for most couples — the average finding is an *improvement* in
+satisfaction after the last child leaves, for couples who were not already distressed.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same second child, born into a couple with a Thursday and a
+defined grandmother, is a manageable strain; born into a couple with no shared time and an undefined
+authority, it is the point at which the relationship loses its structure entirely.
+
+### 10.12 Key terms
+
+**Formation** — the phase in which the couple becomes a distinct unit and each partner chooses it.
+
+**The unchosen couple** — a relationship entered without a genuine decision; presents later as resentment
+without an argument.
+
+**Ritual** — a recurring, meaningful practice that marks the relationship's continuity.
+
+**Negative sentiment override** — the state in which a partner's neutral behaviour is read as hostile.
+
+**Repair attempt** — any move that interrupts an escalating exchange; the best single predictor of recovery.
+
+**The four horsemen** — criticism, contempt, defensiveness, stonewalling.
+
+**Mental load** — the noticing and planning of household work, distinct from its execution.
+
+**Symmetric struggle** — a conflict in which both partners want the same thing from each other, and neither
+can yield.
+
+**Shared meaning** — the couple's common account of what their life is for; a predictor of stability.
+
+**Couple timeline** — the drawn history of high points, low points and transitions.
+
+### 10.13 Self-test
+
+1. Name the six phases and one failure mode for each.
+2. Why is the "unchosen couple" the most consequential formation pattern, and what is the diagnostic
+   question?
+3. What is the arithmetic question of the young-children phase, and what does a number below two hours
+   predict?
+4. Distinguish the cascade from the repair trajectory, and name the single strongest predictor in each
+   direction.
+5. Why does the therapist refuse to process the miscarriage in the session in which it is disclosed?
+6. What is the third column of the division-of-labour audit, and why does it matter more than the first two?
+7. How would you work with a couple in which one partner will not attend?
+8. In the Aisha and Sam case, what were the three findings, and which one changed the treatment?
+
+**Answers.** *(1)* Formation — one partner never chose; early marriage — in-law triangle; young children —
+co-parenting replaces partnering; adolescent children — escalation or abdication; launching — the nest that
+was already empty; later life — caretaking replaces relating. *(2)* Because there was never a decision to
+point at, so the resentment has no argument attached and cannot be negotiated; the question is "when did you
+decide?" *(3)* Hours per week alone, awake, not discussing logistics; below two predicts a bond with no
+maintenance and a slow loss of the couple's separate existence. *(4)* The cascade is criticism, contempt,
+defensiveness and stonewalling; the repair trajectory is the presence of repair attempts. Contempt is the
+strongest predictor of dissolution, repair the strongest of recovery. *(5)* Because a four-year silence
+cannot be resolved in the session in which it ends, and attempting it teaches the couple that disclosure
+produces a session rather than a relationship. *(6)* Who notices when it is not done — the measure of mental
+load, which is the actual source of the resentment. *(7)* Work with the attending partner on their part, be
+explicit that no case will be built against the absent partner, invite once in the therapist's words with a
+consultation-only offer, and set a review date. *(8)* The bond was built as a joint project rather than a
+separate structure; an unmourned loss had organised four years; and the conflict was a symmetric struggle
+about whose career accommodates whose. The first changed the treatment, because it moved the work from
+conflict to construction.
+
+### 10.14 Reflective task
+
+Draw the timeline of a couple you know well — your parents, relatives, or your own if you have one — with
+five high points and five low points, and mark the transitions. Then answer: which transition produced the
+largest low point, and what did the couple do about it? Most students find that the couple did something
+practical and nothing relational, which is not a failure; it is what most couples do, and it is the reason
+this week's techniques are so simple, and so easy to forget in a room where two people are angry
+
+### 10.15 Further reading
+
+- Gottman, J. *What Predicts Divorce?* — the observational literature behind the cascade.
+- Johnson, S. *Hold Me Tight* — the emotionally focused account of the negative cycle, written for couples.
+- McGoldrick, M. et al. *Genograms* — the family life cycle chapters that this week's map draws on.
+- Carter, B. and McGoldrick, M. *The Expanded Family Life Cycle* — the source of the phase structure.
+- Fowers, B. "The limits of communication training" — why skills without structure do not transfer.
+
+*Next: Week 11 — Parenting across stages: talking to parents well.*
 
 ---
 
