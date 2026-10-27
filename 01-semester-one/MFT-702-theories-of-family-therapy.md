@@ -2884,34 +2884,698 @@ difficulty of drawing it is the difficulty of working with it in someone else's 
 
 ## Week 5 — Strategic and MRI brief therapy
 
-**The question.** *What is the family doing that keeps the problem going — especially their attempted
-solutions?*
+**The question.** *What is the family doing that keeps the problem going — especially their attempted solutions?*
 
-**Core concepts.** The problem is maintained by current interaction, not by the past; attempted solutions
-often persist because they "almost" work; the symptom may serve a function in the system; resistance is
-a response to the therapist's approach, not a property of the family; brief, focused, pragmatic.
+### 5.1 The lecture in ninety minutes
 
-**Therapy.** The therapist is an **active strategist** who designs interventions — tasks, directives,
-reframes, and sometimes paradoxical instructions. Sessions are few; between-session tasks do the work;
-termination is early by design.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The Palo Alto problem | Why a group of researchers stopped asking why and started asking what | Name the attempted solution in one case |
+| 10–25 | Four core concepts | Attempted solution; function of the symptom; resistance as interaction; brevity | Trace the loop through a transcript |
+| 25–40 | Reframing | A reframe built live, with rules | Draft three reframes for one behaviour |
+| 40–55 | Directives and ordeals | Design and consent, demonstrated | Design one directive with a safety check |
+| 55–70 | Paradox, and its ethics | Prescribing the symptom: when, how, never | Decide three cases under supervision |
+| 70–85 | The brief architecture | The five-session frame, termination by design | Plan a four-session contract |
+| 85–90 | Critique and matrix row | Manipulation, evidence, depth | Fill the row |
 
-**Signature techniques.**
-- **Reframing:** "Your daughter's tantrums may be her way of keeping you two in the same room."
-- **Ordeals:** a task that must be performed whenever the symptom occurs, making the symptom more
-  costly than the change.
-- **Paradoxical directive (with caution):** prescribing the symptom, under close supervision, in carefully
-  selected cases.
-- **Pretend technique:** "For one week, pretend to have the symptom on purpose for ten minutes a night."
+### 5.1a The Palo Alto context, in five sentences
 
-**Contribution.** Broke the assumption that therapy must be long; emphasised the therapeutic power of
-therapist pragmatism and of clear, behavioural tasks.
+A short historical note, because the school's assumptions are explained by the problem it was built to solve.
 
-**Blind spots.** Manipulation risks; weak evidence for paradoxical techniques; may be superficial in
-cases with trauma or severe mental illness; the "function of the symptom" can be speculative.
+> In the 1950s and 1960s, a group of researchers at the Mental Research Institute in Palo Alto — Bateson, Jackson,
+> Weakland, Watzlawick, Haley — studied communication in families, and concluded that a problem is not a thing inside a
+> person but a pattern between people, maintained by what each does in response to the other. They noticed that families
+> arrive having already tried to solve the problem, that the attempts are sensible, and that they are the reason the
+> problem persists. They therefore stopped asking why a family has a problem and began asking what the family is doing
+> that keeps it going, and they shortened therapy accordingly. The school's optimism — that a small, well-designed
+> interruption can change a system quickly — is the direct product of that shift.
 
-> **PRACTICAL** — Design a one-week task for a family you know (disguised) that makes the current
-> attempted solution impossible to continue, without instructing them to do the opposite in so many
-> words. Present it; the group judges whether it is clear, doable, and safe.
+**What the five sentences omit.** The research programme's debt to cybernetics (MFT 701 Week 1), the disputes that split
+the group (Haley left to develop strategic therapy; the MRI group developed the brief model), and the fact that the
+school's founders were working with a clinic population for whom long therapy was unavailable.
+
+**Why the origin matters.** The model's characteristic strength — precision about the present loop — and its
+characteristic weakness — thinness about history, trauma and grief — both follow from the problem it was designed to
+solve. That is true of every model in this course, and the week's matrix row should record it.
+
+### 5.2 Core concepts
+
+The strategic and MRI schools — associated with the Mental Research Institute at Palo Alto, with Jay Haley, John
+Weakland, Paul Watzlawick, Don Jackson and Cloe Madanes — produced the first genuinely brief family therapies, and
+their central idea is still the most economical explanation of why problems persist.
+
+**The problem is maintained by current interaction.** Not by history, not by an internal object, not by a
+multigenerational pattern: by what is happening now, in the loop between the members. The past explains how the loop
+began; it does not maintain it, and changing it does not require working through the past.
+
+**The attempted solution maintains the problem.** This is the school's signature idea, and it is learnt best by
+example. A mother who wakes her son five times each morning to get him to school is solving the problem of his not
+getting up; her solution ensures that he never has to get up himself, and the problem persists. A couple who avoid
+discussing money in order to prevent arguments have a marriage in which money cannot be discussed, and the avoidance is
+now a problem in its own right. The attempted solution is usually sensible, kindly and nearly effective, which is why it
+continues.
+
+**The function of the symptom.** The symptom may serve a purpose in the system: it may prevent a worse conflict, keep a
+person at home, discharge an obligation, or hold a family together. The concept is powerful and speculative; it is the
+place where the school has most often overreached, and students should be able to state both the insight and the
+overreach.
+
+**Resistance is a response to the therapist, not a property of the family.** If the family does not follow a task, the
+therapist's formulation, framing or timing was wrong. This is a refreshing idea after models that describe families as
+"resistant", and it has an obvious failure mode: it can leave the therapist endlessly responsible for everything that
+goes wrong.
+
+**Brevity by design.** Therapy is short not because families are undeserving of long work but because a focused
+intervention on a maintained loop can produce change quickly, and because a short contract sets an expectation of
+change. The school's practitioners often set a limit of five or ten sessions at the outset.
+
+**First-order and second-order change.** Watzlawick's distinction: first-order change alters behaviour within a system
+that stays the same (more of the same, or less of it); second-order change alters the system's rules, so that the
+behaviour that was a solution is no longer necessary. The distinction is the school's theory of change, and the
+interventions are designed to produce the second.
+
+### 5.2a Six attempted solutions that recur
+
+The concept is easy to understand and hard to spot in a live session. Six patterns that recur across presentations, with
+the theme that unites them.
+
+**Pattern 1 — the repetition of the request.** The parent asks, asks again, raises the volume, and asks a fifth time. The
+theme: *responsibility is carried by the asker.* The child learns that the request can be waited out, and the parent
+learns that only escalation works.
+
+**Pattern 2 — the protective explanation.** The family explains the absence, the failure, the behaviour, to the school,
+the employer or the relatives. The theme: *the consequence is absorbed by the family.* The member never meets the
+consequence of their own decision.
+
+**Pattern 3 — the supervision of the incapable.** One member is treated as unable to manage a task, and another
+accompanies, reminds, checks and completes it. The theme: *competence is not permitted to be tested.* The pattern is
+always kindly meant, and it prevents the discovery that the member could manage.
+
+**Pattern 4 — the reconciliation that prevents resolution.** After each conflict, one member makes peace — a meal, a gift,
+a joke, a silence — before the disagreement has been resolved. The theme: *the conflict is ended by the person who
+cannot bear it.* The disagreement returns, unaddressed, and the peacemaking becomes part of the cycle.
+
+**Pattern 5 — the avoidance of the subject.** The family does not discuss money, the father's drink, the daughter's
+boyfriend, the grandmother's illness. The theme: *the topic is too dangerous to name.* The avoidance protects the family
+from a conflict and ensures that the topic governs the household from a distance.
+
+**Pattern 6 — the increase in surveillance.** A parent who is worried checks the telephone, the school bag, the friends,
+the whereabouts. The theme: *trust is replaced by control.* The adolescent responds by concealing, which increases the
+worry, which increases the surveillance.
+
+**The exercise.** For each pattern, write the one-sentence reframe and the one-sentence directive that would follow. The
+reframe names the theme without blame ("the two of you have arranged it so that one carries the asking and one carries
+the waiting"); the directive interrupts it ("for one week, ask once, and then write down what happens").
+
+**What the exercise teaches.** That the attempted solution is usually visible in the first ten minutes, in the way the
+family describes what they have already done. A therapist who listens for the theme rather than for the story will have a
+formulation by the end of the first session, which is what the model requires.
+
+### 5.3 Therapy: the active strategist
+
+The therapist in this model does four things, in order, and each is a designed move rather than a conversational
+development.
+
+**Step 1 — define the problem in behavioural terms, and find who is affected.** A specific behaviour, in a specific
+context, with a specific person doing it. "He is lazy" is not a problem definition; "he does not get out of bed before
+the fifth request, on school days, and his mother then dresses him" is.
+
+**Step 2 — trace the attempted solutions and their persistence.** What has the family done about it, in what order, and
+what happened? The list is usually long, and the interventions are usually variations on one theme. The theme is the
+target.
+
+**Step 3 — find the smallest intervention that interrupts the loop.** The school's preference is for the smallest
+sufficient move, delivered as a task, with a clear rationale. Big interventions are reserved for entrenched loops.
+
+**Step 4 — set a limit and review.** A stated number of sessions, an explicit review, and termination by design rather
+than by drift. The limit is itself an intervention: it tells the family that change is expected soon.
+
+**The stance.** Active, pragmatic, often directive, and deliberately focused on the present. The therapist takes
+responsibility for the design of change, and the family takes responsibility for carrying it out. This allocation is
+the source of the model's efficiency and of its characteristic ethical risk (5.6).
+
+**What the therapist deliberately does not do.** Does not explore the family's history beyond what is needed to
+understand the loop; does not interpret the family's dynamics for insight; does not wait for the family to arrive at a
+plan; and does not treat the family's reluctance as a topic in itself.
+
+### 5.3a Listening for the attempted solution
+
+A practical exercise that teaches the model's core perceptual skill in fifteen minutes, done in pairs with a script.
+
+**The script.** One partner reads a four-paragraph account of a family problem, in the family's voice, without
+interruption. The account contains the presenting complaint, the history, and — buried in the middle — a list of what the
+family has done. The listener takes notes on one question only: *what have they already tried, and what is the theme?*
+
+**A sample account, condensed.** "Our son is 13 and will not do his homework. He says the teachers do not explain. We
+have spoken to the school twice. My husband sits with him every evening, which ends in shouting. I have tried taking the
+games console away, but he then does nothing at all and the teachers complain. We have tried a tutor, which he liked for
+three weeks. We have tried a reward chart. Last term his report was poor and I cried in front of him, which I regret. He
+is not a bad boy. His father says I make excuses for him."
+
+**The attempted solutions, extracted.** Speaking to the school twice; the father sitting with him every evening;
+removing the console; a tutor; a reward chart; crying in front of him. **The theme:** every attempt is an increase in
+supervision and pressure, applied by an adult, addressed to the boy's behaviour rather than to the task. The boy's
+response is to do nothing.
+
+**The reframe that follows.** "You have tried everything that can be done *to* him — sitting with him, removing things,
+paying a tutor, talking to the school. He has learned that the homework is something adults do with him or about him.
+What would it look like if the homework were something he had to fail at, once, in a way you did not rescue?"
+
+**The directive that follows.** "For two weeks, nobody sits with him. He does the work or he does not. You will not
+speak to the school about homework, and you will not remove anything. You will keep a note of what he says at breakfast
+about the day before." The design interrupts the theme (supervision and pressure), which is what makes it a strategic
+intervention rather than a suggestion.
+
+**The debrief question.** "Could you have written the theme without the notes?" Most trainees cannot on the first
+attempt, because they listen to the story rather than to the list of attempts. The exercise is repeated weekly, with a
+different script, until the listener can produce the theme in one sentence on first hearing. That ability — to hear the
+attempted solutions inside a family's narrative — is the whole of the model's assessment, and it is a trainable skill
+rather than a talent.
+
+### 5.4 Signature techniques
+
+**Reframing.** Offering a new frame for the same facts, such that a different response becomes possible. *The example
+from the course material:* "Your daughter's tantrums may be her way of keeping you two in the same room." The reframe
+is not a reassurance; it is a claim about the function of the behaviour, offered as a possibility, and its purpose is to
+change what the parents do rather than to make them feel better.
+
+*The three rules of a good reframe.* It must be plausible (the family can entertain it); it must be in the family's
+own language and values (a reframe that imports the therapist's values will be rejected); and it must point to a
+different action (a reframe that produces only a feeling is a compliment).
+
+**Directives.** A task for the week, designed to interrupt the loop. Directives are of two kinds.
+
+*Straightforward directives* instruct the family to do something different: "for one week, do not wake him more than
+twice; if he is not up, let him be late, and do not write a note for the school." The design requires that the family
+can do it, that the consequence is survivable, and that the therapist has thought through what will happen.
+
+*Indirect directives* are the paradoxical family (5.5), and they require supervision.
+
+**Ordeals.** A task that must be performed whenever the symptom occurs, making the symptom more costly than the change.
+Haley's classic example is a task that must be completed before the symptom is allowed to happen. Ordeals are
+legitimate where the symptom is voluntary and low-risk (a bedtime ritual, a complaint, a habit) and are never
+legitimate where the symptom is a compulsion, an addiction with medical risk, or a self-harm behaviour.
+
+**The pretend technique.** "For one week, pretend to have the symptom on purpose, for ten minutes a night, at a time
+you choose." The technique changes the symptom from something that happens to the family into something the family
+controls, and it produces information: a symptom that cannot be produced on demand is a different kind of symptom.
+
+**Prediction and observation tasks.** "Between now and next week, notice the times when the problem does not happen, and
+write down what is different." These tasks gather data, change attention, and are almost always safe — which makes them
+the right first task for a trainee.
+
+### 5.4a A reframe, built in four steps
+
+Reframing is the model's most portable technique and the one trainees most often mistake for a compliment. Four steps,
+worked on one behaviour.
+
+**The behaviour.** A 15-year-old has been stealing small amounts of money from her mother's purse.
+
+**Step 1 — get the family's meaning.** "What do you think it means when she takes the money?" The mother's answer: "she
+has no respect." The meaning is moral, and it is the frame that must be changed.
+
+**Step 2 — find the alternative meaning that is both plausible and useful.** Look for a function: what does the theft
+do, or what does it express? In this case, the girl has no money of her own, her friends have money, and she has never
+asked for any. The alternative meaning: *the theft is a way of getting something she cannot ask for.*
+
+**Step 3 — offer it in the family's own values, tentatively.** "In this family, asking for money for yourself may be
+harder than taking it. I wonder whether what looks like disrespect is actually a girl who cannot say 'I need
+something'." Note the three elements: the family's values ("in this family"), the tentative grammar ("I wonder"), and
+the link to a different action (asking).
+
+**Step 4 — attach an action.** A reframe that produces no change of behaviour is a sentiment. The action here: "for two
+weeks, she has a set amount each week, given without comment, and she does not have to explain it. If she takes
+anything else, you will know that it is not about the money."
+
+**What makes the reframe work.** It does not deny the theft, does not excuse it, and does not require the mother to
+abandon her values. It changes the behaviour from a moral fact into a communication, which makes a different response
+available. The mother can now do something other than police and punish.
+
+**What would make it a bad reframe.** "She is stealing because she needs your love" — implausible, sentimental, and
+importing the therapist's theory. "She is stealing because teenagers do that" — dismissive of the mother's concern. "She
+is stealing because you work too much" — blaming, and it points to no action the mother can take.
+
+**The test.** A good reframe produces a change in what the family does in the next seven days. If the family says "that
+is interesting" and nothing changes, the reframe was a compliment.
+
+### 5.5 Paradox, and its ethics
+
+Prescribing the symptom is the school's most controversial technique and its most misused. It deserves a full section.
+
+**What it is.** The therapist instructs the family to continue, or deliberately to produce, the behaviour they want to
+stop — with a rationale, for a limited time, and with careful framing.
+
+**Why it can work.** Three mechanisms, none fully established. It removes the struggle: when the therapist stops
+pushing for change, the family's resistance to change disappears with the pressure. It places the behaviour under
+voluntary control, which changes the family's relationship to it. And it exposes the system: when the family is asked
+to produce the symptom deliberately, the members discover what the symptom does for them.
+
+**When it is defensible.** Where the loop is entrenched and the family's attempted solutions have all failed; where the
+symptom is voluntary and low-risk; where the therapist has a strong join and the family's trust; where there is
+supervision; and where the therapist has a plan for what happens if the symptom escalates.
+
+**When it is indefensible.** Where there is any risk of harm — self-harm, violence, substance use with medical risk,
+an eating disorder, a psychosis; where the family has not consented to the frame and would feel tricked if they
+understood it; where the therapist is working alone without supervision; and where the therapist's motive is to
+demonstrate cleverness.
+
+**The consent question, stated plainly.** A paradoxical intervention works partly by not being fully explained. The
+ethical position is that the family must be able to understand the frame if they think about it, must not be deceived
+about anything material, and must be able to refuse. "I am going to ask you to do something that will seem strange, and
+I will explain why afterwards" is honest; a directive whose rationale the therapist conceals is not.
+
+> **CAUTION** — No trainee in this course should use a paradoxical directive without prior discussion in supervision
+> and a documented rationale. The technique's literature is thin, its failure modes are serious, and its reputation
+> has damaged the field.
+
+### 5.6 The brief architecture: a five-session frame
+
+The model is practised as a short, focused therapy with a defined end. Here is a workable structure.
+
+**Session 1 — define, trace, reframe, task.** Ninety minutes or a standard hour. Define the problem behaviourally,
+trace the attempted solutions, offer one reframe, and give one task. Book the next session and state the total number
+of sessions you propose.
+
+**Session 2 — review the task, refine, second task.** The task is the first agenda item. What happened, what did the
+family notice, what got in the way? Then adjust the design and give the second task, which should be a development of
+the first rather than a replacement.
+
+**Session 3 — the loop in the room.** By now the maintain pattern should be visible in the session. Work with it
+directly: an enactment, a reframe delivered in the moment, or a directive designed from what has just happened.
+
+**Session 4 — consolidate.** What has changed, what has not, what would maintain the change? The family is asked to
+describe the difference in their own words, which is the school's version of the MFT 701 Week 14 ending review.
+
+**Session 5 — review and finish.** The outcome, measured if possible; the plan if the problem returns; the ending,
+named. A sixth session is added only if the review identifies a specific, time-limited piece of work, and the reason is
+recorded.
+
+**Why the architecture works.** It front-loads the definition and the first task, which is where brief therapy earns
+its brevity; it uses the second session to correct the therapist's errors; and it makes the ending a design feature
+rather than a failure.
+
+**The risk of the architecture.** It can become a formula applied to families who need something else — a family in
+which the presenting problem is the tip of a trauma, a violence, or a bereavement. The assessment question is not "how
+many sessions?" but "is the maintaining pattern accessible to a focused intervention?" and the honest answer is
+sometimes no.
+
+### 5.6a The five-session frame, worked through one case
+
+The architecture is easier to teach through a single case carried from session one to session five, with the therapist's
+decision at each point.
+
+**The case.** A couple, married six years, two children (4 and 2). The presenting complaint: "we never finish an
+argument; one of us walks out." The wife walks out; the husband follows her from room to room.
+
+**Session 1 — define, trace, reframe, task.**
+*Definition:* on most weekends, an argument begins about the children's bedtime; the wife leaves the room; the husband
+follows; the argument continues in the corridor and ends unresolved; both are exhausted by Sunday night.
+*Traced solutions:* the wife leaving (to end it), the husband following (to finish it), a rule that they will not argue
+in front of the children (which produces the corridor), and going to bed separately (which ends the evening).
+*Reframe:* "You are both trying to end the argument, and you are using opposite methods. One of you ends it by leaving,
+one by staying. The corridor is where the two methods meet."
+*Task:* for one week, when the argument begins, the wife stays in the room for two minutes without speaking, and the
+husband does not move towards her. Two minutes, timed.
+
+**Session 2 — review and refine.** The task produced one completed two-minute silence, and one failure. The failure is
+more informative: the husband moved, the wife left, and both reported the same feeling — "if I stay still, something
+worse will happen". The refinement: the two minutes are now spent with a stated topic ("the bedtime plan"), so that
+silence is not required, only the absence of leaving.
+
+**Session 3 — the loop in the room.** The therapist asks them to discuss the bedtime plan for five minutes without
+leaving their chairs. The pattern appears within ninety seconds: the wife leans back, the husband leans forward. The
+therapist names the movement, which the couple had never noticed, and asks what each was feeling at the moment of the
+lean. The answer, from both, is fear of the other's disappearance.
+
+**Session 4 — consolidate.** Both report that the corridor has not been used for two weeks. The therapist asks them to
+explain the change to each other, which produces a description the couple can own. A second task is agreed: one
+conversation a week about the children's week, on a stated evening, for twenty minutes.
+
+**Session 5 — review and finish.** The measure (a simple weekly rating of "how much of the weekend was spent arguing")
+has fallen from 8 to 3. The therapist names the ending, reviews what changed, and writes down what the couple will do if
+the pattern returns.
+
+**What the case demonstrates.** The model's power is in the first and third sessions: a definition precise enough to
+work with, and a loop made visible in the room. Sessions two, four and five are consolidation, and they could be
+compressed into one if the service required it. The case also demonstrates the model's limit: the couple's fear of the
+other's disappearance is an attachment issue that this formulation named but did not treat, and a longer therapy would
+have taken it up.
+
+### 5.7 The Adeyemi loop, traced
+
+An application that shows the model's method on the running case.
+
+**The behavioural definition.** On school days, Amara does not get out of bed before the fourth or fifth request; the
+mother then telephones the school with an explanation; Amara stays at home; the mother is angry and guilty for the rest
+of the day.
+
+**The attempted solutions, in order.** Asking; then insisting; then shouting; then removing the telephone; then
+telephoning the school; then taking leave from work to supervise the mornings; then involving the school counsellor;
+then prayer and fasting. Each was sensible; each was a variation on one theme: *the mother takes responsibility for the
+morning.*
+
+**The loop.** The mother's responsibility removes the consequence from Amara; the absence of consequence makes the
+refusal costless; the refusal increases the mother's anxiety; the anxiety increases her responsibility; and the
+morning repeats with less hope and more resentment.
+
+**The reframe.** "You have been protecting her from the consequences of her own decision, because you are frightened of
+what the school will do and of what people will think. Protecting her has meant carrying the whole morning yourself.
+That is not a failure of love; it is love in a form that has stopped working."
+
+**The directive.** "For two weeks, you will make one request at six o'clock, and a second at half past. If she is not
+up by seven, you will go to work. You will not telephone the school. You will let her be absent without an explanation,
+and you will let the school's letter arrive." The design includes the consequences the mother fears, which is why the
+reframe comes first and why the therapist must have discussed the school's reaction with her.
+
+**What the model sees and what it misses.** It sees the loop precisely and it produces a task that could change it
+within a fortnight. It does not see the mother's grief, the father's absence, the grandmother's death, or the meaning of
+school for Amara — and a task delivered without those would be cruel. The mature use of this model is therefore almost
+always in combination, which is the subject of Week 12.
+
+### 5.7a The matrix row, written
+
+| Dimension | Strategic / MRI brief therapy |
+|---|---|
+| Theory of problem | The problem is maintained by current interaction, especially the family's attempted solutions, which are sensible, nearly effective and therefore repeated |
+| Unit of focus | The behavioural loop between the members, in the present, around a specific problem |
+| Theory of change | Interrupt the loop, usually with a task, so that second-order change becomes possible; insight is not required |
+| Therapist position | Active strategist who designs interventions, takes responsibility for the design, and sets a limit |
+| Signature techniques | Reframing; straightforward directives; ordeals; the pretend technique; prediction and observation tasks; paradoxical directives under supervision |
+| Evidence base | Moderate for brief strategic family approaches in adolescent behaviour problems and substance misuse; strong component evidence (goals, tasks, brief contracts); paradoxical techniques unevidenced |
+| Cultural assumptions | That the therapist has a mandate to direct; that a behavioural task is a legitimate form of help; that brevity is a virtue |
+| Blind spot | Can be manipulative; can be superficial where trauma, grief or severe mental illness is present; the function of the symptom is speculative; may fit a family's problem to the service's budget |
+
+**The viva sentence.** "I use this model where the maintaining pattern is behavioural and the family wants something
+practical, I design the smallest intervention that interrupts the loop, I hold the ethics of direction explicitly, and I
+review at session four."
+
+### 5.8 Annotated transcript: building a directive with a reluctant father
+
+A ten-turn sequence from a second session with the Okonkwos. The task is not delivered; it is negotiated, which is the
+skill this transcript exists to teach.
+
+> **T1 Therapist:** Last week I asked you both to notice the mornings. What did you notice?
+> **T2 Mother:** I noticed I do it all. Five times. And on Saturday he did it once and Ebuka got up.
+> **T3 Therapist:** Once. And it worked.
+> **T4 Mother:** It worked for him.
+> **T5 Therapist:** Mr Okonkwo, what did you do that was different?
+> **T6 Father:** I do not know. I said, "Ebuka, I am going to work" and I went downstairs.
+> **T7 Therapist:** And he got up.
+> **T8 Father:** He got up. (pause) Because he knows I will leave.
+> **T9 Therapist:** That is the whole task, and you did it by accident. I want to ask you both to do it on purpose, and
+> I want to ask you something difficult: for two weeks, the morning belongs to your husband. Mrs Okonkwo, you will stay
+> in bed until seven. Not because you are lazy — because the two of you have arranged it so that you carry a
+> responsibility that is not only yours.
+> **T10 Mother:** (long pause) If I stay in bed, and she is late —
+> **T11 Therapist:** Then she is late, and the school telephones your husband.
+
+**Annotations.** *T1* makes the task the first agenda item, which is the model's discipline: the family learns that the
+therapist's attention is on what happens between sessions.
+
+*T2–T8* is the discovery of the intervention inside the family's own material. The therapist did not design a task from
+theory; she asked what happened and found that the father's ordinary behaviour was already the intervention. This is
+the school's method at its best, and it is far more persuasive to a family than an imported technique.
+
+*T8* is the father's own explanation, and the therapist's *T9* uses it verbatim. The phrase "the morning belongs to your
+husband" is the task in four words, and it is a structural idea delivered as a brief-therapy directive — a small
+demonstration that the models overlap in practice more than they do in their literature.
+
+*T9* also does the reframe's work in the same breath: "not because you are lazy — because the two of you have arranged
+it". The mother is not blamed, the arrangement is named, and the task follows from the naming.
+
+*T10* is the objection, and it is the moment most trainees lose the directive: they reassure ("it will be fine"), or
+they withdraw the task ("perhaps we start with one day"). *T11* instead completes the design by naming the consequence,
+which is what the mother needs in order to be able to agree.
+
+**What the therapist did not do.** Did not explain the theory; did not say "this is a strategic intervention"; did not
+ask the father whether he was willing (she asked the mother, who held the obstructing behaviour); and did not pretend
+the task was easy.
+
+**The follow-up, two weeks later.** The father reported three mornings of five in which Ebuka was up before seven. The
+mother reported that she had stayed in bed for four mornings and had telephoned the school once. The therapist's
+question was not "did it work?" but "what did you learn about the arrangement?" — which is the model's version of
+consolidation, and the bridge to the next task.
+
+### 5.9 Laboratory: design one directive
+
+The week's practical, ninety minutes, and the assessment's rehearsal.
+
+**Stage 1 (15 minutes) — the case.** Each student brings a disguised family from placement or the case bank, with the
+problem defined behaviourally and the attempted solutions listed. Pairs exchange cases.
+
+**Stage 2 (25 minutes) — the design.** For the partner's case, design one directive that makes the current attempted
+solution impossible to continue, without instructing the family to do the opposite in so many words. The design must
+state: the task in one sentence, the rationale the family will be given, the safety check, the likely objection, and the
+response to the objection.
+
+**Stage 3 (25 minutes) — delivery.** Deliver the directive to the partner, who plays the family and objects at least
+twice. The observer scores against the rubric.
+
+**Stage 4 (25 minutes) — the group judgment.** Each directive is presented to the group, which judges three things
+only: is it clear? is it doable in this family's week? is it safe? A directive that fails any of the three is
+redesigned in front of the group.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Definition | 15% | The problem is behavioural, with a context, a person and a consequence |
+| Loop analysis | 20% | The attempted solutions are traced and their common theme named |
+| Design | 25% | The directive interrupts the theme; is specific; and is achievable in the family's actual week |
+| Delivery | 20% | One sentence, clear rationale, both objections handled without withdrawal or reassurance |
+| Safety | 20% | The risks named, the consequences thought through, and no risk of harm to any member |
+
+**The commonest failure.** A directive that requires the family to feel something rather than to do something. "Tell
+her how you feel when she shouts" is not a strategic directive; it is an invitation, and the model's power lies in
+behaviour that can be observed and reviewed.
+
+### 5.9a Three directives that failed, and why
+
+The failures teach the design better than the successes.
+
+**Failure 1 — the task nobody could do.** A father on night shifts was asked to have breakfast with his son every
+morning for two weeks. He managed twice. The task failed because it was designed for a household with a different week.
+*The correction:* the therapist's question before designing any task — "walk me through your week, hour by hour" — is
+not optional, and it is the single most common omission in trainee designs.
+
+**Failure 2 — the task that required a feeling.** A wife was asked to "let him see that you are hurt rather than angry".
+She reported that she had tried and that "it came out as anger again". The task failed because it asked for an internal
+state rather than an observable behaviour.
+*The correction:* convert the feeling into a behaviour — "say one sentence: 'I am hurt, not angry' — whether or not it
+sounds true" — which is doable, observable and reviewable.
+
+**Failure 3 — the task that took sides.** A mother was asked to stop defending her son when the father criticised him.
+The father was delighted; the mother felt accused; the son concluded that the therapist had joined the father.
+*The correction:* the task was correct in its analysis and wrong in its distribution. A better design requires both
+parents to change something, so that neither is the identified problem: "when either of you criticises, the other will
+ask one question before responding."
+
+**What the three failures have in common.** Each was designed from a correct formulation and without sufficient
+attention to the family's week, the observability of the behaviour, or the distribution of the change. Those three
+considerations are the design checklist, and they are worth writing on the whiteboard during the laboratory.
+
+**The professional habit.** Before delivering any task, the therapist says it aloud and asks three questions silently:
+*can this family do it in this week? Can I tell on Tuesday whether they did it? Does it require everyone to change
+something, or does it identify one person as the problem?* A task that fails any of the three is redesigned in the
+session, in front of the family, which is itself a demonstration of the model's pragmatism.
+
+### 5.10 Six errors in strategic work
+
+1. **The clever intervention.** A design that impresses the therapist and confuses the family. Fix: the family must be
+   able to say the task back in one sentence; if they cannot, it is too clever.
+2. **The unearned paradox.** Prescribing a symptom without a join, supervision or a safety analysis. Fix: no paradox
+   without supervision and a documented rationale, as a course rule.
+3. **The directive without consequences.** A task whose failure has no consequence, which therefore cannot be
+   evaluated. Fix: build the consequence in, as T11 did in 5.8.
+4. **The missing function.** Treating the symptom as pure nuisance when it is doing something for the family. Fix: ask
+   what would be lost if the symptom stopped, and listen to the answer.
+5. **Brevity as a budget decision.** Ending at five sessions because the service allows five. Fix: the limit is a
+   clinical decision, stated to the family with a rationale, and reviewable.
+6. **The therapist's responsibility for everything.** Using "resistance is my problem" to take on responsibility for
+   every failure, including the family's choices. Fix: the model allocates responsibility; state the allocation aloud
+   and hold it.
+
+### 5.11 Culture, faith and the strategic stance
+
+The model's cultural profile is distinctive: it is unusually portable in some respects and unusually risky in others.
+
+**Where it travels well.** The model's core question — what is the family doing that keeps this going? — requires no
+cultural vocabulary, and its interventions are behavioural, brief and practical. In services with high demand and
+limited sessions, in families who want a solution rather than an exploration, and in settings where a directive from a
+professional is expected and welcome, the model fits.
+
+**Where it is risky.** Three features.
+
+*The directive assumes a mandate.* A therapist who tells a family to change the morning routine is exercising authority.
+In families where the therapist's authority is contested, or where the therapist is young, female, or from a different
+ethnic or religious community, the directive may be heard as impertinence. The model's answer is joining, and the model
+understates how much joining a directive requires.
+
+*The reframe imports values.* "Your daughter's tantrums may be her way of keeping you two in the same room" is a
+systemic reframe, and it is also a claim that the child's behaviour is about the parents. A family whose account is
+that the child is spiritually attacked, or that the behaviour is disobedience, will hear the reframe as a
+reinterpretation of their whole world. The reframe must be built from the family's own values: "in this family,
+children hold the peace between adults; that is a heavy thing for a nine-year-old to carry" performs the same function
+in the family's register.
+
+*The function of the symptom can be a spiritual claim in disguise.* The idea that a symptom serves the system is close
+to the idea that a symptom has a meaning or a purpose, which many families hold in a theological form. The therapist
+should be alert to the congruence and to its risks: a family may hear "she is doing it on purpose", which is the
+opposite of the model's claim.
+
+**The spiritual frame as a resource.** Where a family's account is spiritual, a directive can be designed within it: a
+prayer to be said at a specific time, a fast undertaken with a stated purpose, a conversation with the pastor to be
+arranged by the father. The model's method is agnostic about content; it asks only whether the intervention interrupts
+the loop.
+
+> **DEBATE** — "Brief therapy is the model most suited to under-resourced services and the model most likely to do harm
+> in them." Argue both sides.
+
+### 5.11a Where the strategic and the Milan schools part company
+
+The two schools are often treated as one "systemic" tradition. They are distinct, and the distinction is examinable.
+
+**On the therapist's knowledge.** The strategic therapist acts as though they know what maintains the problem and
+designs accordingly. The Milan therapist proceeds as though the family's premises are unknown and uses hypothesising to
+discover them, treating the team's certainty as the thing to be disturbed.
+
+**On the direction of intervention.** The strategic school intervenes in behaviour; the Milan school intervenes in
+meaning, using questions and, originally, long intervals between sessions.
+
+**On paradox.** Both use it, and differently. The strategic paradox prescribes the symptom to interrupt a loop. The Milan
+positive connotation attributes a benign motive to the whole family system, and the intervention is the reframe rather
+than a task.
+
+**On the family's role.** The strategic therapist gives the family a task to carry out. The Milan therapist gives the
+family a new description to think about, and expects the thinking to do the work.
+
+**On brevity.** Both are brief by the standards of the era, and the strategic school is more aggressively so; Milan
+sessions were sometimes spaced by a month precisely because the intervention was cognitive.
+
+**Why the distinction matters for the matrix.** A student who fills both rows with "systemic, task-based, brief" has not
+distinguished them and will lose marks. The distinguishing column is the theory of change: behaviour, in one case;
+premise, in the other.
+
+### 5.12 Evidence note: what the trials support
+
+The evidence for this school is better than its reputation among depth-oriented clinicians and worse than its
+practitioners' confidence.
+
+**What is well supported.** Brief strategic and structural-strategic family therapy has trial evidence in adolescent
+behaviour problems and substance misuse — notably brief strategic family therapy for Hispanic adolescents in the United
+States, where trials showed reductions in substance use and behaviour problems. Problem-solving and brief family
+interventions have evidence in depression and in some anxiety presentations. The *components* — clear behavioural goals,
+between-session tasks, reframing, brief contracts — are supported across models and are now standard in most
+evidence-based protocols.
+
+**What is not supported.** Paradoxical interventions have very little trial evidence, and their use rests on case
+literature and clinical argument. The "function of the symptom" is a clinical heuristic, not an established mechanism.
+Ordeals have essentially no evidence base and are best understood as a historical technique with a narrow, low-risk
+application.
+
+**What the matrix cell should say.** "Moderate evidence for brief strategic family approaches in adolescent behaviour
+problems and substance misuse; component evidence strong (goals, tasks, brief contracts); paradoxical techniques
+unevidenced and to be used only under supervision."
+
+**The practitioner's claim.** "I am offering a focused intervention because the maintaining pattern is behavioural and
+the family wants something practical, I will review at session four, and I will be honest that the techniques I use are
+supported mainly by their components rather than by trials of the package." That sentence is the standard for this
+week, and it is defensible in the examination.
+
+### 5.12a The ethics of direction, stated as five rules
+
+This model exercises more direct authority over families than any other in the first semester. Five rules make that
+authority defensible.
+
+**Rule 1 — say what you are doing, and why.** "I am going to suggest something that may seem strange" is not a
+disclosure of technique; it is honesty about the fact that a technique is being used. Families are entitled to know that
+they are in a designed intervention rather than a conversation.
+
+**Rule 2 — never design a task the family cannot refuse.** A refusal is information about the design, and a family that
+cannot refuse is being managed rather than treated. Ask, every time: "can you do this, or would something else fit
+better?"
+
+**Rule 3 — the risk of harm overrides the elegance of the design.** No task that could produce violence, eviction, job
+loss, school exclusion or a medical risk, however neat the loop analysis. Where the consequence is serious, the design
+must be discussed with the family and, where relevant, with the school or employer in advance.
+
+**Rule 4 — paradox requires supervision, a rationale and a limit.** Stated in 5.5 and repeated here as a course rule,
+because this is where trainees most often overreach. A paradoxical directive is documented, time-limited, and reviewed.
+
+**Rule 5 — the family's account of the outcome is the outcome.** A task that produced a change the therapist wanted and
+the family did not want is not a success. Ask, at the review: "what changed, and was it the change you wanted?" The
+answer frequently revises the formulation.
+
+**Why five rules rather than a principle.** Because the model's ethical risk is not a matter of intention but of
+practice, and practices are regulated by specific rules. A therapist who can recite the five rules, and who can say
+which one a given design tests, is safer than a therapist who is merely well-meaning.
+
+**The connection to MFT 701 Week 12.** The confidentiality, competence and record-keeping obligations apply in full.
+The additional obligation of this model is transparency about direction, and it is the one that the model's own history
+makes necessary.
+
+### 5.13 Key terms
+
+| Term | Definition |
+|---|---|
+| Attempted solution | The family's reasonable response that has become part of the problem |
+| First-order change | Change within the system's rules, which leaves the system the same |
+| Second-order change | Change of the system's rules, so that the attempted solution is no longer needed |
+| Function of the symptom | The purpose the symptom serves in the system — a heuristic, not an established mechanism |
+| Reframe | A new frame for the same facts that makes a different response possible |
+| Directive | A between-session task designed to interrupt the maintaining loop |
+| Ordeal | A task performed whenever the symptom occurs, making the symptom costly |
+| Paradoxical directive | An instruction to continue or produce the symptom, for a limited time and with a rationale |
+| Pretend technique | A task asking the family to produce the symptom deliberately for a set period |
+| Resistance (strategic) | A response to the therapist's approach rather than a property of the family |
+| Brief contract | A stated number of sessions with a review and an end by design |
+| Positive connotation | A Milan descendant of reframing: attributing a benign purpose to the family's behaviour |
+
+### 5.14 Self-test
+
+1. What is an attempted solution, and give two examples?
+2. Distinguish first-order from second-order change.
+3. What are the three rules of a good reframe?
+4. When is a paradoxical directive defensible, and when is it not?
+5. What is the difference between a directive and an ordeal, and what makes an ordeal unsafe?
+6. Give the five-session architecture and the purpose of each session.
+7. Trace the Adeyemi loop and state the directive that follows.
+8. What does the evidence support, and what does it not?
+
+**Answers.** 1. A reasonable response that maintains the problem: a mother who wakes a child five times, ensuring he
+never has to get up; a couple who avoid discussing money to prevent arguments, so that money cannot be discussed. 2.
+First-order changes behaviour within the system's rules; second-order changes the rules so that the attempted solution
+is no longer needed. 3. Plausible; in the family's own language and values; pointing to a different action. 4.
+Defensible where the loop is entrenched, the symptom voluntary and low-risk, the join strong, supervision available, and
+a plan exists for escalation; indefensible where there is risk of harm, no consent, no supervision, or the therapist's
+vanity is the motive. 5. A directive instructs a different behaviour; an ordeal requires a task whenever the symptom
+occurs. An ordeal is unsafe where the symptom is a compulsion, an addiction with medical risk, or self-harm. 6.
+Session 1 define, trace, reframe, task; session 2 review and refine; session 3 work the loop in the room; session 4
+consolidate; session 5 review and finish. 7. The mother's responsibility removes the consequence, the refusal becomes
+costless, her anxiety rises, and the loop tightens; the directive is one request at six and one at half past, then go to
+work, and do not telephone the school. 8. Moderate evidence for brief strategic family approaches in adolescent
+behaviour problems and substance misuse, strong component evidence, and essentially no trial evidence for paradoxical
+techniques or ordeals.
+
+### 5.15 Reflective task
+
+Think of a difficulty in your own life that you have tried to solve more than three times, in more than three ways, with
+the same result. Name the theme of your attempted solutions in one sentence, and then design the smallest intervention
+that would break the theme — for yourself, not for anyone else. Most students find this exercise uncomfortable and
+productive in equal measure, because the model's central insight is easier to apply to a family than to oneself.
+
+### 5.16 Readings for this week
+
+* **Watzlawick, Weakland & Fisch (1974)**, *Change: Principles of Problem Formation and Problem Resolution*, the
+  foundational text, and short.
+* **Haley (1976)**, *Problem-Solving Therapy*, for directives and the strategic stance.
+* **Haley (1980)**, *Leaving Home*, for the architecture of brief work with young adults.
+* **Madanes (1981)**, *Strategic Family Therapy*, for the techniques with cases.
+* **Watzlawick, Beavin & Jackson (1967)**, *Pragmatics of Human Communication*, chapters 5–6, for the theory of
+  punctuation that underlies this week.
+* **Any controlled trial of brief strategic family therapy**, read with the six questions from MFT 701 Week 11.
+
+*Next: [Week 6 — Milan systemic therapy](#week-6--milan-systemic-therapy)*
 
 ---
 
