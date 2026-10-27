@@ -7345,6 +7345,713 @@ inaccessible; evidence base is growing but smaller than EFT or CBT.
 > minutes the mother has described three occasions when she "fought the exhaustion and won", including a
 > week when she arranged a rota with her sister. The referral, still true, is no longer the whole story.
 
+### 11.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why stories | The narrative premise, and the politics behind it | Name a label that has been applied to a family they know |
+| 10–25 | Externalising | The exhaustion case, demonstrated with a volunteer | Rewrite three internal descriptions as external |
+| 25–40 | Mapping the influence | Two columns: what it makes possible, what it prevents | Map one problem's influence |
+| 40–55 | Unique outcomes | Finding a moment outside the dominant story | Identify three unique outcomes in a transcript |
+| 55–70 | Re-authoring and naming | The preferred story, given a name by the family | Name and thicken one preferred story |
+| 70–80 | Documents and witnesses | Letters, certificates, outsider witnesses | Draft a four-line letter |
+| 80–90 | Culture and evidence | The model's politics, its uses, its evidence | Fill the matrix row |
+
+**The teaching decision that makes the week work.** Narrative therapy arrives in the classroom trailing a
+reputation for linguistic cleverness, and the fastest way to destroy that reputation is to show a session in
+plain language with a family who are not academics. The lecture should therefore use the week's own case —
+a mother labelled negligent by a school — and demonstrate the externalising conversation in ordinary
+sentences. The class should notice that the therapist never uses the word "narrative", never says
+"externalise", and never mentions Foucault.
+
+**The sentence the lecture must land.** "The person is not the problem; the problem is the problem." A
+student who can say that sentence and then, in a role play, ask a mother when "the exhaustion" first arrived
+and what it whispers to her, has the model. A student who can only explain the theory has nothing.
+
+### 11.2 Core concepts
+
+**Stories organise experience.** The narrative premise: human beings make sense of their lives by telling
+stories, and a story selects — it includes some events, omits others, and gives the whole a plot with a
+character, a cause and an ending. A family's story about itself is not a neutral description of its history;
+it is a selection, and the selection has consequences, because people act according to the story they are
+living in.
+
+**Dominant stories.** The account that has become authoritative — often because it was told by someone with
+power: a school, a clinic, a court, a grandmother, a diagnosis. The dominant story in the week's case is
+"negligent mother", and its authority comes from the school's referral. Dominant stories are not necessarily
+false; they are partial, and their partiality is what makes them oppressive.
+
+**Thin and thick descriptions.** A thin description is a label: "negligent", "depressed", "defiant",
+"enmeshed". A thick description is a story with events, intentions, contexts and meanings. The model's work
+is the thickening of descriptions, and its technique is the question that asks for the particular: "when was
+the last time? what did you do? who saw? what did that mean to you?"
+
+**The person is not the problem.** The model's foundational principle, and the one it shares with solution-
+focused work (Week 10) while deriving it differently. The problem is a separate entity with its own history,
+tactics and effects; the person is the person. The principle is not a kindness; it is a strategic move,
+because a person who is identified with a problem must defend themselves, while a person who is in a
+relationship with a problem can negotiate.
+
+**Externalising.** The conversational practice that separates the problem from the person and gives it a
+name, a shape, a history and an influence. "When did the exhaustion first arrive? What does it make you do?
+What does it whisper? When does it lose its grip?" The grammar of externalising is consistent: the problem
+is a subject that acts, and the person is an agent who has a relationship with it.
+
+**Mapping the influence.** Two enquiries, in order. First, the influence of the problem on the person's
+life: what it makes possible, what it prevents, who it has recruited, what it has cost. Second, the influence
+of the person on the problem's life: when it has been resisted, reduced, escaped, outwitted. The first
+enquiry establishes the problem's reality and seriousness — which is why the model is not naive optimism —
+and the second establishes the person's agency.
+
+**Unique outcomes.** Moments that fall outside the dominant story: the morning the shouting was quieter, the
+week the mother arranged a rota, the day the boy went to school. The term replaced "exception" in the
+narrative literature to mark a difference of purpose (exceptions feed a solution; unique outcomes feed a
+story), and the technique is careful about not claiming too much: a unique outcome is not proof of progress,
+it is a crack in a story, and the therapy's work is to widen it.
+
+**Re-authoring.** The construction of a preferred story from the unique outcomes: what the person did, what
+it says about what they value, who would recognise it, what it would be called. The preferred story must be
+the family's, in the family's language, and it must be thick enough to be lived in — which is why the model
+asks for names, witnesses and documents.
+
+**Re-membering.** Michael White's term for the deliberate inclusion of significant figures — living or dead,
+present or absent — in the construction of identity. "Who would have known you were capable of this? What
+would your grandmother say if she could see you?" The technique is especially powerful in families where an
+important figure has died and the family's story has narrowed.
+
+**Definitional ceremonies and outsider witnesses.** Structured occasions in which an audience — a team, a
+group, a carefully chosen set of relatives — witnesses the preferred story and reflects on what struck them,
+producing a public, shared definition of the person that competes with the dominant one.
+
+**Documents.** Letters, certificates, declarations, written summaries given to the family. The document is
+not a clinical record; it is an artefact of the preferred story, and its function is to survive the session
+and be re-read at home.
+
+**The therapist as decentred but influential.** The model's position on power: the therapist's influence is
+real and cannot be neutralised, so it must be exercised in the service of the family's own authorship. The
+therapist asks the questions and does not supply the story; the therapist's interest shapes what is noticed,
+and the model's ethic is to make that shaping visible and to hand the authorship back.
+
+**The politics.** Narrative therapy emerged partly as a critique of the power exercised by mental health
+systems over the people they describe. Its refusal to diagnose, its interest in the effects of labels, and
+its work with communities and with people who have been defined by a diagnosis all follow from that critique.
+That origin is the source of its cultural adaptability and of its evidentiary difficulty (see 11.10).
+
+### 11.2a An externalising conversation, line by line
+
+The technique taught as a sequence of eight moves, with the sentences that perform each one, and a family that
+is not academic.
+
+**The family.** Mrs Bello, 38, referred by the school after her son missed eleven days. The referral says
+"negligent". She has three children, works shifts at a market stall, and her husband died two years ago.
+
+**Move one — find the name in the family's language.** "The school has written something about you that I
+want to leave outside this room for now. What I want to understand is what it has been like at home. If the
+thing that has been making the mornings impossible had a name, what would you call it?" *She says:
+"tiredness. But it is more than tiredness. It is like a heaviness."* The name is hers, not the therapist's.
+
+**Move two — personify, gently.** "This heaviness. When did it first come into your life?" *She says: "after
+my husband died, but it got worse when I started the early shift."* The question gives the problem a history,
+which is the first step toward its being an entity rather than an identity.
+
+**Move three — map its influence on her.** "What does the heaviness make you do?" *She says: "it makes me
+sleep through the alarm. It makes me lie to the school."* "And what does it make you feel about yourself?"
+*"That I am a bad mother."* The therapist writes the phrase down. This enquiry is not cruel; it is the
+technique's respect, because it takes the problem's power seriously.
+
+**Move four — map its influence on the family.** "Who else does the heaviness affect?" *She says: "my
+daughter, she takes the little ones to school now."* "And what does it make her do that she would not
+otherwise do?" *"She has grown up too fast."* The mapping is now systemic, and the family's own observation
+has become part of the description.
+
+**Move five — turn the enquiry.** "I want to ask you the opposite question now. When has the heaviness been
+less strong? When have you had the upper hand over it?" *She says, after a pause: "the week my sister did the
+school run."* The unique outcome has arrived, and the therapist does not pounce on it.
+
+**Move six — thicken it.** "Tell me about that week. What did you do to arrange it?" *She says: "I asked her.
+I never ask anyone."* "What did asking require of you?" *"Pride. I had to swallow it."* The unique outcome now
+has a name (asking), a cost (pride) and an agent (her).
+
+**Move seven — name what it says about what she values.** "You swallowed your pride so that your children
+would get to school. What does that tell you about what matters to you?" *She says: "that they come first.
+That I am not what they wrote."* The sentence is the preferred story's first line, and it is entirely hers.
+
+**Move eight — plan the thickening.** "What would it take to ask again, this time of a neighbour?" and then
+the document: the therapist writes a short letter, in her words, describing the week she asked her sister and
+what it cost her, and gives it to her to keep. She reads it twice before leaving.
+
+**What the sequence does and does not do.** It does not deny the eleven missed days, the school's concern, or
+the school's duty; the letter is copied to the school with Mrs Bello's consent, and the school's safeguarding
+process continues. It does produce a description in which she is an agent with a history of resistance, which
+is the model's contribution to a case that other models would describe only as a deficit.
+
+### 11.3 The therapy: what a narrative session looks like
+
+**The structure is loose and the sequence is not.** A narrative session does not follow a five-move protocol;
+it follows a conversational logic: the problem is externalised, its influence is mapped, the person's
+influence is mapped, unique outcomes are found and thickened, and the preferred story is named and witnessed.
+The moves can occur in any order, and a session may spend forty minutes on one of them.
+
+**Session one.** The problem is named and externalised; its influence is mapped on the person and on the
+family; the family's influence on it is mapped; one or two unique outcomes are found; and the session ends
+with a question to take away rather than a task: "notice this week when you have the upper hand, and what you
+do."
+
+**Session two.** The unique outcomes reported are thickened; the preferred story begins to be named; and the
+family is asked who else would recognise this version of them. The therapist may propose a witness — a
+relative, a friend, a member of a team — with the family's consent.
+
+**Sessions three to five.** The preferred story is built and documented; the family's relationships are
+re-membered (who knew, who would know, who is missing from the story); the practical problems that were
+present at referral are addressed, now inside a story in which the family is not the problem; and the ending
+is planned.
+
+**The typical course.** Five to ten sessions. Narrative therapy is brief in practice, though its literature
+is not written in terms of session counts, which is itself an expression of the model's non-manualised
+character.
+
+**What the therapist brings to each session.** Curious questions, a notebook, and the discipline of not
+knowing the family's story in advance. The therapist's own theoretical language is kept out of the room; the
+family's words are used and are written down, because the words are the material from which the preferred
+story will be built.
+
+**The risk the therapist manages.** That the conversation becomes an exercise in clever reframing, in which
+the family's pain is translated into a story that flatters the therapist's skill. The safeguard is the
+mapping of influence: the problem's reality and cost are established in full before any unique outcome is
+sought, and a family who have not been allowed to say how bad it is will not have a story worth building.
+
+### 11.3a Mapping the influence, in two columns
+
+The technique that carries the model's seriousness, and the one most often skimmed by trainees anxious to
+reach the unique outcome.
+
+**The exercise.** On a sheet, two columns. Left: *the problem's influence on us.* Right: *our influence on the
+problem.* The family fills the left column first, in as much detail as they can manage, and the therapist
+prompts with five questions: what does it make you do; what does it stop you doing; what does it make you
+think about yourself; what does it do to your relationships; what has it cost?
+
+**A worked example.** The Adeyemi family, working with "the worry" (their name for the anxiety that keeps
+Amara at home).
+
+*Left column.* It makes Amara check the door twice. It stops her going to the market. It makes her mother
+telephone the school every morning. It has cost Funke her job's leave allowance. It makes Segun sleep in his
+mother's room. It whispers to Amara that something will happen to her mother if she leaves.
+
+*Right column.* The night Amara went to the shop. The morning Segun made her laugh and she ate breakfast.
+The week Funke stopped answering the school's calls and wrote a letter instead. The evening the family
+prayed together and Amara slept without checking the door.
+
+**What the columns produce.** A description in which the problem is real, has tactics and costs, and is not
+invincible. The right column is thin at first, which is normal and instructive: the family's attention has
+been organised by the left column for months, and the therapist's questions are building the missing account.
+
+**The discipline.** The left column is not hurried. A therapist who moves to the right column after two
+answers will produce a family who feel managed, and the unique outcomes that follow will be the therapist's
+rather than the family's. Fifteen minutes on the left column is not wasted time; it is the condition of the
+work.
+
+**The written artefact.** The two columns, copied in the family's words, go home on one sheet. It is the
+therapist's most useful document in this model, and it is more persuasive than any explanation of the
+technique.
+
+### 11.3b The notebook, and why it is a technique
+
+Narrative therapists write in the session, and the writing is not administration. Four uses, each with a
+sentence the therapist can say.
+
+**Use one — the family's words, captured.** The therapist writes the family's phrases as they are spoken and
+then reads them back: "you said the heaviness whispers that you are a bad mother. Did I get that right?" The
+reading back is a technique in its own right: it demonstrates that the words were heard exactly, and it
+converts a spoken phrase into a record. Families frequently correct the therapist's version, and the correction
+is more valuable than the original.
+
+**Use two — the two columns, on the page.** The mapping is written where the family can see it, and at the end
+of the enquiry the page is shown to them. A family who have never seen their situation described as two columns
+often respond to the shape of the page before they respond to the content: the left column is long and the right
+column is short, and the disproportion is the session's argument.
+
+**Use three — the document, drafted in front of them.** A letter written in the session, in the family's
+presence, is a different object from a letter typed afterwards. The family watch their own words becoming a
+document, they correct it as it is written, and they leave with something that was made in the room. The
+therapist should read it aloud before handing it over, and should ask whether anything should be changed.
+
+**Use four — the following session's opening.** The notebook's first page for each family holds the phrases
+that were promised a follow-up. The session opens with them: "when we last met you said you would notice the
+mornings when you had the upper hand. What did you notice?" The notebook makes continuity visible, which matters
+in a model whose sessions are conversational and could otherwise drift.
+
+**The caution.** The notebook must not become a file. A family who see the therapist writing a description of
+them have the same experience as a family who read a referral, and the therapist's discipline is to write only
+what the family would recognise, to show the page, and to say what it is for. That discipline is the model's
+ethic applied to its own paperwork.
+
+### 11.4 Techniques, with the grammar of each
+
+**Externalising.** Eight moves: name in the family's language; give it a history; map its influence on the
+person; map its influence on the family; turn the enquiry; thicken a unique outcome; name what it says about
+what the person values; plan the thickening and record it.
+
+**The problem's name.** Insist gently on the family's word. "The heaviness", "the worry", "the shouting",
+"the guilt", "the black dog". The name must be expressible in a sentence with a verb — "the shouting makes me
+leave the room" — which is the test of whether it has become an entity.
+
+**The influence questions.** Five, in order: what does it make you do; what does it prevent; what does it make
+you think about yourself; what does it do to your relationships; what has it cost.
+
+**Unique outcome questions.** "Tell me about a time when it was not in charge." "What were you doing?" "How
+did you manage that?" "Who would have noticed?" "What does that say about what you want?" The last question
+is the bridge to re-authoring.
+
+**Re-authoring questions.** "If this version of you had a name, what would it be?" "Who would recognise it?"
+"What would they say they see in you?" "What would be the next chapter?"
+
+**Re-membering questions.** "Who would have known you could do that?" "What would your mother say if she were
+here?" "Who is missing from this story who should be in it?" Used with care where the missing person's
+absence is itself the wound.
+
+**The letter.** Four lines: what the therapist witnessed; the family's own words about the moment; what it
+says about what they value; and a question for the next meeting. Signed, dated, given, and copied where
+appropriate to a professional who needs to know (with consent).
+
+**The certificate.** A formal document, invented with the family, marking a development the family names — a
+year without a particular argument, a child's first full week at school. The certificate works because it is
+slightly absurd and entirely serious, and because it can be shown to relatives.
+
+**The outsider witness.** Three or four people, chosen with the family, who listen to the preferred story and
+then respond in a fixed sequence: what struck me; what image stayed with me; what does this say about the
+person; and why does it matter to me. The sequence prevents advice and produces a public thickening.
+
+**The absent but implicit.** A technique for finding what matters in what has been lost: "you have spoken
+about the absence of your father. What does the ache tell you about what a father should be?" The question
+reads a value from a gap, and it is one of the model's most delicate instruments.
+
+### 11.5 The first session with a family who have been described
+
+The model's signature presentation: a family who arrive with a professional description already attached.
+
+**The referral.** The Okonkwo family: Ebuka (9), described by two schools as "defiant and possibly
+traumatised"; Ada (34), described in the referral as "overwhelmed, possibly depressed"; Chuka (39), described
+as "disengaged". The family have read none of this, and the social worker has summarised it to them in one
+sentence: "they think we are failing him."
+
+**The opening.** "I have a referral here with several descriptions in it. Before we talk about anything in
+it, I want to know how you would describe what has been happening — in your own words, and I will write them
+down." The sentence does three things: it names the presence of professional descriptions, it declines to
+endorse them, and it hands the authorship over immediately.
+
+**The naming.** The family's word for the problem is "the fighting". Not defiance, not trauma: the fighting.
+"The fighting. When did the fighting come into this house?" The therapist uses the family's word from then on
+and never uses the referral's.
+
+**The mapping.** What does the fighting make you do? Ada: "it makes me shout and then it makes me cry in the
+bathroom." What does it do to your relationship with Ebuka? "It makes me not want to be near him." What does
+it do to you and your husband? "It makes us not speak, because we blame each other." What has it cost? "It
+has cost me my confidence as a mother, and it has cost him his school."
+
+**The turn.** "When has the fighting been weaker? When have you had the upper hand?" Ada: "last weekend,
+when his cousin came. He was different for two days." "What were you doing?" "I was not on my own."
+
+**The thickening.** "So when you are not on your own, the fighting is quieter. Who could you not be on your
+own with?" Ada names her sister. "What would it take to ask her?" and then the objection: "she has her own
+children." The therapist does not solve the objection; she writes it down and asks what Ada has done in the
+past when she has had no help, which produces a second unique outcome: the fortnight when she organised a
+rota.
+
+**The naming of the preferred story.** "There seem to be two descriptions of you in this room. One is in the
+referral. The other is a woman who, when she had nothing, organised a rota. Which one do you want to build
+on?" Ada says: "the second one. But I do not believe it most days." The honesty is important, and the
+therapist does not argue with it: "then let us make it thick enough to believe."
+
+**The document.** A four-line letter, written in the session, in Ada's words, describing the rota and what it
+required of her. She takes it home. At the second session she says she has read it three times and shown it to
+her sister.
+
+**What the session did not do.** Did not assess Ebuka's trauma; did not ask about the paternal grandmother's
+death; did not formulate; did not give advice. It established the family as the authors of their own
+description, which is the model's precondition for everything else.
+
+### 11.6 Case: the mother described as negligent
+
+The week's case, worked in full, with the referral's language tracked through the therapy.
+
+**The referral.** "Mrs Bello, 38, is failing to ensure her son's attendance. She presents as disorganised and
+possibly depressed. A parenting assessment is recommended."
+
+**The first session.** The therapist opens by asking what the family would call the problem if they could name
+it, and the name that emerges is "the heaviness". The referral is not discussed. The mapping takes thirty
+minutes, and it is detailed and grim: the heaviness makes her sleep through alarms, lie to the school, and
+believe she is a bad mother; it has recruited her daughter into the school run; it has cost her the trust of
+her son, who now hides his school shoes.
+
+**The turn.** "When has the heaviness been less strong?" Three answers emerge: the week her sister did the
+school run; the morning her son made her laugh and she got up; the day she went to the market early and sold
+everything before nine.
+
+**The thickening.** Each answer is developed: what she did, what it required, who noticed, what it says about
+what she values. The third answer produces the richest material: she is good at her stall, she is known for it,
+and the early mornings are the one place where the heaviness has never had the upper hand.
+
+**The preferred story.** The therapist asks: "if there were a description of you that was truer than
+'negligent', what would it be?" Mrs Bello says: "a woman who gets up at four". The therapist writes it down
+and the phrase is used for the rest of the therapy.
+
+**The practical work, inside the story.** The attendance problem is not ignored. A plan is built from the
+preferred story: the early mornings are her strength, so the school run is reorganised around them — the
+children go with her to the stall before school, and a neighbour brings them the last stretch. The plan is
+hers, it uses her competence rather than her deficit, and it is the kind of plan that a parenting programme
+would not have thought of.
+
+**The school.** With consent, the therapist writes to the school, not to dispute the referral but to add a
+description: "Mrs Bello gets up at four and has run a stall for eleven years; the attendance plan built on
+that has produced nine consecutive days of attendance." The school's file now contains both descriptions.
+
+**The outcome.** Attendance recovers in six weeks. The heaviness does not disappear, and the therapy does not
+claim that it has; it is named, mapped, and reduced in influence in the mornings, and a referral for
+bereavement work is made for the underlying loss, which the model has been careful not to claim as its own
+territory.
+
+**What this case teaches.** That externalising is not a denial of the referral's content — the child had
+missed eleven days, and the school was right to be concerned — but a refusal to let the referral be the whole
+description. That the preferred story can be practical rather than poetic: "a woman who gets up at four" is a
+story with a plan inside it. And that the model's ethics are enacted in the correspondence: the therapist did
+not argue with the school, and did not let the school's account go unchallenged.
+
+### 11.7 Annotated transcript: re-authoring with a young person
+
+Sixteen turns with Amara Adeyemi (14), seen alone for one session within the family work, because the family's
+story about her had become fixed.
+
+> **T1 Therapist:** Your mother has a name for the thing that keeps you at home. She calls it "the worry". Is
+> that your name for it?
+
+> **T2 Amara:** (shrugs) I do not call it anything.
+
+> **T3 Therapist:** If you had to, what would you call it?
+
+> **T4 Amara:** (long pause) The what-if.
+
+> **T5 Therapist:** The what-if. What does the what-if ask you?
+
+> **T6 Amara:** It asks what if something happens to her while I am at school.
+
+> **T7 Therapist:** And what does it make you do?
+
+> **T8 Amara:** It makes me stay. It makes me check the door. It makes me text her.
+
+> **T9 Therapist:** What does it stop you doing?
+
+> **T10 Amara:** Everything. Netball. My friends. It stopped me going to Tola's birthday.
+
+> **T11 Therapist:** I want to ask you a different question. In the last month, was there a day when the
+> what-if was quieter?
+
+> **T12 Amara:** (pause) The day of the fight at school. When Segun came in.
+
+> **T13 Therapist:** What was different about that morning?
+
+> **T14 Amara:** I wanted to see it. I forgot to ask the what-if.
+
+> **T15 Therapist:** So on that morning, something you wanted was louder than the what-if. What was it?
+
+> **T16 Amara:** (small pause) That I wanted to be there. With everybody.
+
+**Annotations.** *T1–T4* is the naming, and the therapist's question is careful: she offers the mother's name
+and asks whether it is Amara's. Amara's own name — "the what-if" — is better than anything the therapist could
+have supplied, and it is the name that will be used.
+
+*T5* is the personification: the problem becomes a subject that asks questions, which is a more usable
+formulation for a fourteen-year-old than "anxiety".
+
+*T7–T10* is the mapping, in the two forms that matter for a young person: what it makes you do, and what it
+stops you doing. The second is the one that produces the cost, and *T10*'s list — netball, friends, a birthday
+— is the material the therapy needs.
+
+*T11* is the turn, and the trainee should notice the framing: not "have you ever felt better?" but "was there a
+day when it was quieter?", which presumes that such days exist without asserting that they were victories.
+
+*T12–T14* produce a unique outcome that is specific and testable: the morning of the fight, when curiosity was
+louder than fear. *T14*'s phrase — "I forgot to ask the what-if" — is the model's whole theory of change in
+seven words, and the therapist's response at *T15* is to treat it as information rather than as a
+breakthrough: "something you wanted was louder". The formulation keeps Amara as the agent and the what-if as
+the other party.
+
+*T16* is the preferred story's first sentence: "that I wanted to be there, with everybody". It is modest,
+credible, and it belongs to her.
+
+**What the therapist did not do.** Did not reassure her that her mother would be safe (which would have been
+an argument with the what-if); did not praise her (which would have made the therapist the author); did not
+interpret the what-if as separation anxiety; and did not ask about her father, which the family work would
+address separately.
+
+### 11.7a Three externalising conversations that failed
+
+**Failure one — the problem without a cost.** A trainee externalised "the anger" with a father in the first
+five minutes, moved straight to unique outcomes, and produced a session in which the father described three
+occasions of self-control and left without ever having said what the anger had done to his family. The wife
+did not speak. *The cause:* the left column was skimmed. The model's seriousness lives in the mapping, and a
+technique that skips it becomes a technique for managing the therapist's discomfort.
+
+**Failure two — the polite problem.** A trainee named the problem "the communication difficulty", a phrase no
+family uses. The family agreed politely and the conversation went nowhere, because the name had no life in it.
+*The cause:* the therapist supplied the name. The test is the family's own sentence: "the communication
+difficulty makes me leave the room" is not a sentence anyone says.
+
+**Failure three — the story that indicted someone.** A mother and a fifteen-year-old externalised "the lying"
+and the conversation became, within ten minutes, an account of the adolescent's deceit, with the mother as
+witness and the therapist as examiner. *The cause:* the problem was named from one member's perspective, and
+the therapist did not check that the name was shared. *The correction:* the naming question is asked of every
+member — "if this had a name, what would each of you call it?" — and the difference between the names is
+itself the material.
+
+**The general lesson.** Externalising requires a name the family recognises, a mapping that takes the problem
+seriously, and a check that nobody in the room has been cast as the problem by the naming itself.
+
+### 11.8 Laboratory: externalising, mapping and a letter
+
+Sixty minutes, triads, three tasks and a written artefact.
+
+**Task one — the naming (ten minutes).** One student describes a current difficulty in their own life; the
+therapist elicits a name in the client's language and tests it in a sentence with a verb. No further work is
+done. The debrief asks what made the name usable.
+
+**Task two — the two columns (twenty-five minutes).** The mapping, with fifteen minutes on the left column
+before any turn is attempted. The observer times the columns and counts the prompts used.
+
+**Task three — the letter (twenty-five minutes).** A four-line letter, written in the client's words, and read
+aloud. The observer checks: is it in the client's language? does it include a witnessed moment? does it say
+what the moment reveals about what the client values? does it end with a question?
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Naming | 20% | Name in the family's language, usable in a sentence, agreed by all present |
+| Mapping the influence | 30% | Left column completed in depth before any turn; at least five prompts used |
+| Unique outcome and thickening | 30% | Specific, her own action, what it required, what it says about her values |
+| Document | 20% | Four-line letter in the client's words, witnessed, dated, usable at home |
+
+**The debrief question.** "What did it cost you to stay in the left column?" Trainees report discomfort,
+boredom and a wish to help; the discussion of that wish is the week's most important teaching about the
+difference between the model's respect and the therapist's need to be useful.
+
+### 11.9 Six errors in narrative work
+
+1. **The problem that never costs anything.** Rushing to unique outcomes without mapping the problem's
+   influence, producing a session that feels light and leaves the family unheard. Fix: fifteen minutes on the
+   left column, minimum.
+2. **The therapist's vocabulary.** "Externalising", "re-authoring", "unique outcome", "absent but implicit"
+   used in the room. Fix: the family's words only; the technical vocabulary is for supervision.
+3. **The clever reframe.** Turning the family's story into something more interesting to the therapist. Fix:
+   the question rather than the formulation, and a supervisor who asks who the session was for.
+4. **The individual in a family session.** Externalising with one member while the others watch, so that the
+   problem's relational effects are never mapped. Fix: name with everyone, map with everyone, and ask each
+   member for their name for the problem.
+5. **The story without a plan.** A beautiful preferred story with no change in the household's Tuesday. Fix:
+   the final questions are practical — who, when, what, and how will we know?
+6. **Risk mistaken for a story.** A safeguarding concern treated as a dominant narrative. Fix: the same screen
+   as Week 10, performed before the first narrative question, and the referral process honoured.
+
+### 11.9a What the model does with a diagnosis
+
+A specific application, because it is where the model's politics become clinical practice.
+
+**The situation.** A family referred with a child's diagnosis — autism, ADHD, a genetic syndrome, a
+psychiatric label — and a file that has become the family's story. The parents introduce themselves through
+the diagnosis: "we are the parents of a child with…".
+
+**What the model does not do.** It does not dispute the diagnosis, minimise the impairment, or suggest that
+the family's difficulties are a matter of perspective. That would be both clinically wrong and cruel, and it
+is not what the model proposes.
+
+**What the model does.** It separates the diagnosis from the description of the child and the family, and it
+asks about the diagnosis's influence: "what has the diagnosis made possible? What has it made difficult? Who
+in the family has been recruited by it? What does it not describe about your son?" The last question is the
+one that opens the work, and parents answer it readily and with relief: the diagnosis does not describe that
+he is funny, that he is kind to his sister, that he notices when his mother is sad.
+
+**The two-column mapping, for a diagnosis.** Left: what the label has done — appointments, explanations to
+relatives, an identity for the parents, a way of understanding the child's behaviour, sometimes a route to
+services. Right: what the family has done that the label does not account for — the adaptations they invented,
+the teacher they persuaded, the night they managed a crisis, the language they developed for their child's
+states.
+
+**The preferred story.** Not "our child is not autistic", which would be false and would be the therapist's
+imposition, but "we are a family who have learned our son's language, and the label is one of the tools we use,
+not the whole of him". Families produce versions of this sentence readily, and the sentence changes the
+household's relationship to the file.
+
+**The witness.** Where a diagnosis has organised a family's life, an outsider witness who is not a
+professional is powerful: a relative, a family friend, another parent. The witness's four-part response
+(striking, image, what it says about the person, why it matters to me) produces a public description that
+competes with the clinical one, and it is usually the first time the family have heard their competence
+described by someone who is not paid to do it.
+
+**The boundary.** Where the diagnosis requires medical management, the model assists and does not substitute.
+The narrative work runs alongside the paediatric or psychiatric care, with the family's consent and often with
+the consultant's knowledge, and the therapist is explicit that the model addresses meaning and relationship and
+not the condition itself.
+
+### 11.10 Culture, faith and the model's critique
+
+**Where the model travels well — better, arguably, than any other in this book.** Its refusal to diagnose, its
+insistence that the family are the authors of their own description, and its interest in the effects of
+institutional labels are all congenial to communities that have been described by institutions. Narrative
+practice originated partly in work with Aboriginal communities in Australia and has been developed in
+community and collective settings, in work with refugees, and in settings where the dominant story about a
+group is itself the problem. The techniques are also cheap: a conversation, a notebook, a letter.
+
+**Where it strains.** First, the model's linguistic register. The questions are simple, and the theory is
+sophisticated, and the theory has a way of migrating into the questions in the hands of an enthusiastic
+trainee; a family who are asked when "the problem first recruited them into its service" will conclude that
+the therapist is strange. Second, the model's emphasis on the individual's authorship can sit awkwardly with
+collective decision-making; in a family where the elders' story is the family's story, the therapist's
+invitation to the young wife to re-author her own life may be an invitation to a conflict she cannot win.
+Third, the model can under-attend to material reality: a family whose problem is a leaking roof and a
+landlord's indifference does not need a new story, and the therapist who offers one is committing the error
+that the model's critics name most often.
+
+**Faith.** The model is unusually at home with religious language, because religious communities are
+story-bearing communities: scripture, testimony, pilgrimage and ritual are narrative practices. A family's
+story of a difficult season may be framed within a larger story of providence, and the therapist who treats
+that frame with respect will find it a resource; the therapist who treats it as a defence will lose the
+family. The model's caution is also relevant: the therapist must not supply a theological story of their own
+and call it the family's preferred narrative.
+
+> **DEBATE** — "Narrative therapy is the model most likely to be loved by therapists and least likely to be
+> tested by researchers. Is that a coincidence?" Argue both sides.
+
+### 11.10a The two strongest critiques, and the model's answers
+
+**Critique one: it can talk a family out of a material problem.** The classic objection. A family living in
+overcrowded housing, with a child unable to sleep and parents unable to work, can be offered an externalising
+conversation about "the crowding", and the conversation is both true and useless. The model's focus on meaning
+can produce a therapy that adjusts a family to an injustice instead of naming it.
+
+*The model's answer.* Narrative practice has an explicit tradition of working with material conditions and
+with the effects of poverty, and its community work is often advocacy; the model's techniques can be used to
+name an injustice as an external problem with an address ("the landlord", "the housing office") and to organise
+action against it. The model does not require the therapist to treat material problems as stories.
+
+*The fair verdict.* The answer is adequate, and the risk is real and common. The safeguard is procedural: the
+formulation must include the material conditions, and the therapist must ask whether the family's problem can
+be changed by a conversation or requires an action, a referral or an advocate.
+
+**Critique two: the evidence is thin relative to the model's influence.** Narrative therapy is widely taught,
+widely admired and comparatively little tested. The trials that exist are mostly small, often
+practitioner-led, and concentrated in a few presentations (depression in adults, some child and family work,
+community applications). There is no large independent trial of narrative family therapy comparable to the EFT
+literature.
+
+*The model's answer.* The model's evidence base is growing; its components (externalising, unique outcomes,
+the decentred therapist) are congruent with common factors and with the broader evidence on client-directed
+work; and the model's refusal of manualisation is a principled position rather than an evasion, since
+manualisation would fix the very descriptions the model wants to leave open.
+
+*The fair verdict.* The position is principled and it does not discharge the obligation. A model that is
+widely practised with families should be tested, and the honest practitioner will describe narrative work as
+"promising, with a small evidence base" and will contribute to outcome data rather than citing the model's
+reputation.
+
+### 11.11 Evidence note: promising, thin, and honest about it
+
+**What exists.** Randomised trials of narrative therapy exist for adult depression and for some anxiety
+presentations, with small to moderate effects; there is qualitative and small-scale evidence for family and
+child applications; and there is a substantial practice literature from community and collective settings.
+Trials of narrative *family* therapy are few, small, and mostly single-site.
+
+**What the model's components contribute.** Externalising, unique outcome enquiry and the decentred
+therapist's stance are all consistent with the common-factors literature (Week 11's matrix and MFT 728), and
+the model is probably effective partly through mechanisms it shares with every other model in this book:
+alliance, hope, a coherent explanation, and a therapist who is genuinely interested.
+
+**What the evidence does not show.** That narrative therapy outperforms other family approaches; that its
+techniques are separable from the therapist's manner; that it is safe or sufficient where risk, violence or
+acute psychiatric illness is present; and how it performs across cultural settings, where its practice
+literature is far richer than its trial literature.
+
+**The matrix cell.** "Small randomised support for adult depression and some anxiety presentations; family
+evidence is small-scale and largely qualitative; components congruent with common factors; strong practice and
+community literature; not indicated as a sole approach where risk or acute illness is present."
+
+**The practitioner's claim.** "I use narrative work where a family has been described by an institution or by
+a diagnosis, because it restores authorship quickly and respectfully; I map the problem's influence before I
+look for preferred stories; I keep the material conditions in the formulation; and I measure outcome, because
+the model's evidence is thin." That sentence is defensible in a viva and honest in a case discussion.
+
+### 11.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Dominant story | The authoritative account of a family's life, often authored by an institution |
+| Thin description | A label; a description without events, intentions or context |
+| Thick description | A story with particulars: what happened, who did what, what it meant |
+| Externalising | Separating the problem from the person and giving it a name and an influence |
+| Mapping the influence | Two enquiries: the problem's influence on the family, and the family's on the problem |
+| Unique outcome | A moment that falls outside the dominant story |
+| Re-authoring | Building a preferred story from unique outcomes |
+| Re-membering | Deliberately including significant figures, living or dead, in the construction of identity |
+| Definitional ceremony | A structured occasion in which an audience witnesses and reflects on the preferred story |
+| Outsider witness | A chosen audience member who responds in a fixed four-part sequence |
+| Absent but implicit | Reading a value from a gap or loss |
+| Decentred but influential | The therapist influences the conversation and does not author the story |
+
+### 11.13 Self-test
+
+1. State the model's foundational principle and explain why it is strategic rather than merely kind.
+2. Distinguish a thin from a thick description, with an example.
+3. Give the five prompts used to map the problem's influence.
+4. What are the two columns, and why must the left one be completed first?
+5. What is a unique outcome, and what three questions thicken it?
+6. What is the four-part outsider witness response?
+7. State the two strongest critiques and the fairest verdict on each.
+8. What does the model do, and not do, with a child's diagnosis?
+
+**Answers.** 1. "The person is not the problem; the problem is the problem." It is strategic because a person
+identified with a problem must defend themselves, while a person in a relationship with a problem can
+negotiate it. 2. Thin: "negligent mother". Thick: a story of a woman who lost her husband, took an early shift,
+sleeps through alarms, and once swallowed her pride to ask her sister for help. 3. What it makes you do; what
+it prevents; what it makes you think about yourself; what it does to your relationships; what it has cost. 4.
+The problem's influence on the family, and the family's influence on the problem; the left column first
+because the family must be heard in full before any agency is claimed, and because a family who have not said
+how bad it is will not build a story. 5. A moment outside the dominant story; thickened by asking what the
+person did, what it required of them, and what it says about what they value. 6. What struck me; what image
+stayed with me; what this says about the person; why it matters to me. 7. Critique one — it can talk a family
+out of a material problem; fairest verdict, the risk is real and the safeguard is to keep material conditions
+in the formulation and to act where action is required. Critique two — the evidence is thin relative to its
+influence; fairest verdict, principled refusal of manualisation does not discharge the obligation to test and
+to measure. 8. It does not dispute the diagnosis or minimise impairment; it separates the diagnosis from the
+description of the child, maps the diagnosis's influence in both directions, and asks what the label does not
+describe — while medical management continues alongside.
+
+### 11.14 Reflective task
+
+Write the description of yourself that a school, an employer or a clinic would produce if it observed you for
+a month. Then write the description your closest friend would produce. Put them side by side and mark which
+sentences are thin and which are thick, and which description you would want a stranger to read. The exercise
+is the model's politics applied to the practitioner, and it usually produces a sharp sense of why the
+referral's language matters.
+
+### 11.15 Readings for this week
+
+* **White & Epston (1990)**, *Narrative Means to Therapeutic Ends*, the founding text, read the chapters on
+  externalising and unique outcomes with a transcript beside you.
+* **White (2007)**, *Maps of Narrative Practice*, the mature statement, especially the chapters on
+  re-authoring and re-membering.
+* **Morgan (2000)**, *What is Narrative Therapy?*, the clearest short introduction, suitable for clients as
+  well as students.
+* **Freedman & Combs (1996)**, *Narrative Therapy*, the American statement, useful for the conversational
+  structure.
+* **Denborough (2008)**, *Collective Narrative Practice*, for community and collective applications.
+* **Lopes et al. (2014)** and the adult depression trials, for the outcome evidence, read critically for
+  sample size and independence.
+
+Read *Maps of Narrative Practice* slowly, with a notebook, and copy out the questions rather than the theory;
+the questions are the model. For the essay, distinguish the model's politics from its evidence and say what
+each can and cannot support. The reading-log question this week is: "whose description of this family is
+currently the most powerful, and what would change if mine became as powerful?"
+
+*Next: [Week 12 — Integration without incoherence](#week-12--integration-without-incoherence)*
+
 ---
 
 ## Week 12 — Integration without incoherence
