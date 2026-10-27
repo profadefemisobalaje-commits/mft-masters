@@ -9219,10 +9219,21 @@ standards are also somebody's household practice is the week's actual learning.
 
 ---
 
-## Week 14 — When development goes wrong
+## Week 14 — When development goes wrong: the differential habit
 
-Build a differential habit. For any concern, run the four-category check (variation, delay, regression,
-symptom) and then ask the five systemic questions:
+**The four categories.** For any developmental concern, run the check before you form a hypothesis. Every
+presentation in this course is one of four things, and the four have different prognoses and different
+referrals.
+
+| Category | What it means | Example | What it usually requires |
+|---|---|---|---|
+| **Variation** | Within the normal range, differently timed or differently shaped | Late talking with good comprehension at 22 months | Information, review, no referral |
+| **Delay** | Behind the expected sequence, but progressing | Two-word combinations at three years | Assessment and early intervention |
+| **Regression** | Loss of a skill that was present | Words at two, silence at two and a half | Urgent medical assessment |
+| **Symptom** | A behaviour that expresses something else | Night waking after a house move | The thing it expresses |
+
+**The five systemic questions.** Behind every presentation there is a family, and the family has five facts
+that predict what will happen next.
 
 1. **When did it start, and what else changed then?**
 2. **Who noticed first, and who disagrees?**
@@ -9230,12 +9241,696 @@ symptom) and then ask the five systemic questions:
 4. **What would improve if it stopped — and what would get worse?**
 5. **What has already been tried, and what did that teach us?**
 
+**The differential table.** The table below is the instrument, not a reference. It is used in the first
+session, from memory, for any presentation in the course.
+
 | Presentation | Developmental differential | Systemic differential |
 |---|---|---|
 | Aggression at 5 | Language delay; impulsivity; trauma | Parental conflict; inconsistent limits; a new baby |
 | Withdrawal at 12 | Depression; bullying; neurodivergence | Family secrecy; a parent's illness; migration |
 | Decline at 70 | Delirium; dementia; depression; hearing loss | Bereavement; relocation; loss of role |
-| "Not listening" at 3 | Hearing; language; attention | Multiple caregivers, conflicting rules |
+| Non-attendance at 9 | Anxiety; learning difficulty; bullying | A function at home; an unresolved parental conflict |
+| Clinging at 2 | Temperament; separation; illness | A caregiver's own anxiety; a recent change of carer |
+
+**Why a "habit" and not a "skill".** Because the differential is not something a clinician does once; it is
+something they do *automatically, before* the formulation forms. The difficulty is that formulations form in
+about four seconds, from the referral letter, before the family has sat down. This week's purpose is to
+install a pause between the referral and the hypothesis, and a pause is installed by repetition rather than
+by understanding.
+
+> **CASE** — A boy of two and a half who had forty words at twenty months and has none now. His mother is
+> certain. His father says he is lazy. The grandmother says he will talk when he is ready, as his uncle did.
+> The nursery says he is fine. Regression is the one category in which the family's disagreement is not a
+> family problem but a clinical emergency, and the therapist's first task is to establish the facts before
+> anyone's theory is discussed.
+
+### 14.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | Student activity |
+|---|---|---|---|
+| 0–8 | The four-second formulation | How a hypothesis forms from a referral letter, and why that is the problem | Read a referral and write their hypothesis in one sentence |
+| 8–22 | The four categories | Variation, delay, regression, symptom — with examples from earlier weeks | Sort twelve presentations into the four |
+| 22–34 | Regression | Why it is the one urgent category, and what it demands | Identify the three facts that establish it |
+| 34–48 | The five systemic questions | The questions that predict what the family will do | Run the five on a case, in pairs |
+| 48–62 | The differential table | Worked from memory, from four presentations | Reproduce the table for two presentations |
+| 62–74 | The red flags | The specific findings that require a same-week referral | Match eight red flags to their urgency |
+| 74–84 | Referral and its aftermath | How to refer well, and what to do while the family waits | Write a referral letter |
+| 84–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** The lecture opens by having every student write their
+hypothesis from a referral letter in one sentence, before any discussion. The sentences are read aloud, and
+they are almost always characterological ("anxious mother", "difficult child", "attention-seeking"). The
+class then works the same case properly and discovers how little the letter supported. The exercise is
+uncomfortable and it is remembered, which is what a habit requires.
+
+**The sentence the lecture must land.** "The referral letter is a description of somebody's worst day, and
+your first job is to find out which of four things you are looking at."
+
+### 14.2 The four categories worked
+
+**Variation.** The child is developing along a recognisable path at a different rate or in a different
+shape. The wide range of normal at every milestone is the single most under-used fact in clinical practice:
+walking anywhere from nine to eighteen months, first words from nine to eighteen months, two-word
+combinations from eighteen to thirty months, bladder control from two to four years. A child at the far end
+of any of those ranges, with good comprehension, good play, good relating and no regression, is a child
+about whom the correct action is *review*.
+
+The clinical discipline of variation is to say so plainly. Parents are frequently more reassured by a number
+than by a sentence — "the normal range for this is nine to eighteen months and he is fifteen" — and giving
+the range is not false reassurance; it is the finding.
+
+**Delay.** The child is behind the expected sequence and progressing slowly. The distinguishing feature is
+not the gap but the *trajectory*: a child who is six months behind and gaining a month a month is closing; a
+child who is six months behind and gaining a month every three is falling further behind. The trajectory
+requires two measurements, which means the assessment is not complete in one visit, which is why the review
+date is part of the finding rather than a courtesy.
+
+**Regression.** The child has lost a skill. It is the only category that is always urgent, for three
+reasons: some causes are treatable and time-critical (a space-occupying lesion, a metabolic disorder,
+epileptic encephalopathy, a hearing loss from infection, severe iron deficiency); some are progressive; and
+the family's account of a regression is frequently disbelieved by the first professional they see, which
+costs months. The therapist's obligation is narrow and absolute: establish whether it is real, and if it is,
+refer the same week.
+
+**Symptom.** The behaviour is an expression of something else — a change, a loss, a conflict, a fear, an
+illness. This is the category the rest of the course has been teaching, and it is the one most often
+over-applied: a therapist trained in family systems will find a systemic explanation for a regression that
+needs an MRI. The four-category check exists precisely to prevent the reverse error, and the therapist's
+discipline is to run it *first*, even when the systemic explanation is obvious.
+
+**The fifth possibility that is not a category.** *Nothing.* A substantial proportion of referrals to child
+services describe a child who is developing normally in a family that is under strain, and the correct
+formulation is "no developmental concern; a family that needs help". That formulation is not a failure to
+diagnose; it is a diagnosis, and it should be written down as clearly as any other.
+
+### 14.2a The five systemic questions, worked
+
+Each question has a purpose, a common wrong answer, and a follow-up that defeats it.
+
+**Question 1 — When did it start, and what else changed then?** The purpose is to date the onset relative
+to events, which is the entire method of Week 1. The common wrong answer is a duration ("about a year"),
+which is unusable. The follow-up: "what was happening in the house that month — a move, a birth, a death, a
+new job, someone leaving?" Families can usually date an event even when they cannot date a behaviour, and
+the event dates the behaviour.
+
+**Question 2 — Who noticed first, and who disagrees?** The purpose is to find the household's fault line.
+The disagreement is data: it tells you who has the child during the day, whose authority is contested, and
+which of the adults will not support the plan. The follow-up: "what does he say when you tell him?" The
+answer frequently reveals a second, older disagreement.
+
+**Question 3 — What does the family do when it happens, and what happens next?** The purpose is the
+behavioural sequence, and it is the question that produces the intervention. The follow-up matters more than
+the question: keep asking "and then what?" until the sequence closes. A typical sequence: he cries, she
+shouts, he cries harder, she gives him the phone, he stops. The phone is the intervention's target, and
+nobody in the family has described the sequence as a sequence.
+
+**Question 4 — What would improve if it stopped, and what would get worse?** The systemic question, and the
+one students forget. A symptom does something in a household, and its removal changes the household. The
+follow-up: "who would notice first?" This question identifies the person whose position depends on the
+problem, and that person is frequently the one who will not cooperate.
+
+**Question 5 — What has already been tried, and what did that teach us?** The purpose is the family's
+competence and its budget. The follow-up: "what happened when you stopped?" A family that tried a plan and
+abandoned it has usually learned something about what is feasible, and the therapist who does not ask will
+recommend the same plan again.
+
+**Why the five are asked in this order.** Question 1 establishes the timeline, which the other four depend
+on. Question 2 finds the fault line, which tells the therapist whom to address. Question 3 produces the
+behavioural sequence. Question 4 is asked only after the sequence is known, because it is a question about
+function and function cannot be guessed. Question 5 produces the plan's constraints, and asking it earlier
+tends to convert the interview into a negotiation.
+
+### 14.2b Red flags: the findings that require a same-week referral
+
+The list below is not exhaustive and is not a licence to practise medicine. It is the minimum that a family
+therapist must recognise in order to refer rather than to treat.
+
+**Regression of any kind.** Loss of words, loss of walking, loss of bladder control after a year of dryness,
+loss of social smiling, loss of a skill that was established. Urgent.
+
+**Loss of vision or hearing, or a change in either.** A child who stops turning to sound, or who begins to
+hold objects very close. Urgent.
+
+**A change in consciousness or awareness.** Episodes of "switching off", staring that cannot be interrupted,
+a child who does not respond to pain. Urgent.
+
+**Headache that wakes the child, or vomiting on waking, or a new squint, or a change in gait.** Urgent.
+
+**Growth failure.** Weight loss, or a fall across two centile lines, or a child who is not gaining. Urgent.
+
+**Any symptom that is worse in the morning and better later**, which is the pattern of raised intracranial
+pressure, and any symptom that is steadily progressive.
+
+**Seizures, or suspected seizures**, including episodes the family describes as "he goes quiet and his eyes
+roll".
+
+**Self-harm, suicidal ideation, or a plan** in any child old enough to hold one, at any age. Same day.
+
+**Sexual knowledge or behaviour beyond the child's developmental stage**, or any disclosure of abuse. Same
+day, safeguarding framework.
+
+**A parent's account that does not fit the injury.** The safeguarding question, asked every time, without
+exception, and without requiring certainty.
+
+**The discipline.** The therapist does not need to know what the condition is. She needs to recognise the
+category, say so plainly to the family, and make the referral in writing before the family leaves the
+building. "I do not know what is causing this and it needs to be looked at this week" is a complete and
+honest clinical statement, and it is far better than a formulation that keeps the family in the therapy room
+for three months.
+
+### 14.2c The child who is referred twice in a year
+
+A configuration that tests the four-category habit more than any single presentation: the same child,
+returned to the clinic, with the same complaint, by a different professional.
+
+**What the second referral usually means.** One of four things. The first assessment found nothing and
+nobody said so clearly. The first intervention was not implemented, for reasons that were material rather
+than motivational. The complaint has changed in a way nobody recorded. Or the first formulation was wrong.
+
+**The four questions that distinguish them, asked in this order.**
+
+1. "What has changed since the last time he was here?" If nothing has changed in the child and something has
+   changed in the setting — a new school, a new teacher, a new baby — the second referral is about the
+   setting.
+2. "What were you told to do, and what happened when you did it?" If the family did the action and it failed,
+   the formulation is probably wrong. If the family did not do it, the reason is the finding.
+3. "Who sent you this time, and what did they say?" The referral's source is information: a school that
+   refers twice is telling you about the school's capacity, not only the child's difficulty.
+4. "What would have to change for you not to need to be here?" The family's answer is the outcome measure,
+   and it is frequently something the first assessment never addressed.
+
+**The trap.** The second referral invites the therapist to work harder on the same formulation. The
+discipline is to work the four-category check again from the beginning, as though the child were new, because
+one time in five they are.
+
+**The record.** A second referral should produce a note that says explicitly which of the four explanations
+applies and what the evidence is. A file that accumulates four assessments and no conclusion is a file that
+will produce a fifth, and the fifth will be the one in which somebody finally notices that the question itself was the wrong one.
+
+### 14.5a The assessment the family can afford
+
+A short section with a large practical consequence, placed here because this week generates more referrals
+than any other.
+
+**The arithmetic.** A specialist appointment may cost a fare, a day's income, a night's accommodation and the
+care of other children. For a household with three children and a daily wage, the true cost of a referral is
+frequently more than a month's discretionary income, and the therapist who does not compute this will make
+referrals that are not attended and will conclude that the family is not motivated.
+
+**What to ask, every time, before the referral is written.** "What would it take for you to get there?" Then
+listen for the four costs: money, time, distance, and the care of the other children, which is the cost most often omitted from a clinician's arithmetic and the one most often decisive. Then solve the ones
+that can be solved. A referral to a Thursday morning clinic for a mother who works Thursday mornings is not a
+referral; it is a suggestion.
+
+**The three practical moves.** Ask the receiving service whether there is a cheaper or closer site, which
+there frequently is and which nobody has asked about. Write the letter in a way that lets the family be seen
+once rather than three times, by putting the trajectory and the red flags in the first paragraph. And give
+the family a single named contact at the clinic who will take a telephone call, which reduces the number of
+journeys and is the therapist's own job rather than a system's.
+
+**What cannot be solved, and must be said.** Sometimes the appointment is unaffordable and the service is
+distant, and the honest response is to say so, to write to the service, and to be explicit with the family
+about what the clinic will do in the interval. A family told the truth about a difficulty can plan around it;
+a family told that help is coming cannot.
+
+### 14.3 The method: a differential assessment in one session
+
+**Step 1 — Establish the facts of the trajectory, not the level.** Two questions: "what could he do six
+months ago that he cannot do now?" and "what can he do now that he could not do six months ago?" Every
+assessment that opens with these two questions is better than one that opens with a milestone checklist,
+because it produces a direction.
+
+**Step 2 — Place the presentation in one of the four categories, provisionally, and say so.** "On what you
+have told me this looks like a delay rather than a regression, and I will tell you if that changes." Families
+find provisional formulations more usable than certainty, because a provisional formulation leaves room for
+their knowledge.
+
+**Step 3 — Run the red-flag list.** Thirty seconds. If any is positive, stop the assessment and refer.
+
+**Step 4 — Run the five systemic questions.** The timeline, the fault line, the sequence, the function, the
+attempts.
+
+**Step 5 — Complete the four-category check with the evidence you have.** If the evidence is insufficient,
+say which category is most likely and what would settle it — an audiology appointment, a developmental
+assessment, a second measurement in three months.
+
+**Step 6 — Write the differential in the record, in order of probability, with the reasoning.** Not a
+diagnosis. A differential with reasons is what a clinician needs six months later, and it is what protects a
+family from being reassessed from scratch by every professional they meet.
+
+**Step 7 — Decide the referral, and make it in the room.** Typed, signed, copied, with a telephone number
+and an expected waiting time. And say what happens if the waiting list is long: what the family will do in
+the meantime, and who will chase it.
+
+**Step 8 — Book the review before the family leaves.** Even where a referral has been made. The review is
+the therapist's own second measurement, and it is the thing that catches the case in which the first
+formulation was wrong.
+
+### 14.3a Referring well, and what to do while the family waits
+
+**The letter.** Six elements: the reason for referral in one sentence; the trajectory, with dates; what the
+four-category check found; the red flags that are absent and the ones that are present; what has been tried;
+and what the referrer wants. One page. Addressed to a named service, with a named person if possible, and
+copied to the family.
+
+**The chase.** A telephone call at two weeks and at six weeks. In most systems a referral that is not chased
+is a referral that is lost, and the loss is invisible to everyone except the family, who conclude that
+nothing can be done.
+
+**The waiting period.** The family is waiting for a service that may take months. Three things can be done
+in the meantime and each is worth doing: protect sleep; give the child one domain of competence; and give
+the family one explanatory sentence they can use with relatives, which reduces the pressure that usually
+falls on the mother.
+
+**The wrong thing to do while waiting.** Do not begin a treatment for the condition you suspect before it
+has been assessed, because the treatment will muddy the assessment. Do not tell the family that the referral
+is a formality. And do not stop seeing them: the referral is to a service, not away from the therapist.
+
+### 14.3b Reading somebody else's assessment
+
+Most children who arrive at a family therapist have been assessed before, and the previous report is
+frequently the most misleading document in the file.
+
+**What previous reports usually contain, and what each thing means.** A score, without the conditions under
+which it was obtained. A diagnosis, frequently made at the end of a single appointment. A recommendation,
+frequently written for a service that no longer exists. And an absence — the things nobody asked, which are
+invisible because they are not written.
+
+**The four questions to ask of any previous assessment.**
+
+1. **Who did it, in what language, with whom present?** Week 13's conditions of measurement, applied to a
+   document rather than to a session.
+2. **What was the child doing at the time?** Children are assessed during illness, after a move, in the week
+   a sibling is born. A score obtained in a bad month is a score of the month.
+3. **What has changed since?** A report is a photograph. The family's own account of the last year is the
+   film, and it is usually more informative than the report.
+4. **What did they not ask?** The hearing. The sleep. The food. The school. The grandmother. These are the
+   five omissions in most of the reports this book's students will read.
+
+**The rule for using a report.** Quote it with its date and its conditions, and never inherit its conclusion
+without its evidence. "A developmental assessment in June last year found a language delay; I do not have the
+scores or the conditions, and I will ask for them" is a professional sentence. "He has a language delay"
+said on the basis of another clinician's paragraph is not.
+
+**When to ask for the original.** Whenever a decision depends on it. A request for the full report, with the
+scores and the conditions, is a legitimate professional act and takes one telephone call.
+
+**The family's experience of repeated assessment.** A child who has been assessed four times has usually
+been assessed well at least once, and the family has usually been told four different things. The therapist's
+question at the start is not "what did they find?" but "what were you told, and what did you think of it?"
+The second half is the part nobody asks, and it is where the family's real formulation lives, usually in a sentence the first clinician did not hear because the appointment had already run over its time.
+
+### 14.4 Three techniques
+
+**Technique 1 — The four-category card.** A card, carried, with the four categories on one side and the
+red-flag list on the other. Its purpose is not reference; it is to slow the four seconds between the
+referral letter and the hypothesis. Clinicians who carry it report that they use it for the first year and
+then no longer need it, which is the definition of a habit.
+
+**Technique 2 — The onset line.** A single horizontal line from birth to today, with the onset of the
+concern marked, and every event the family can date marked above it. The line does two things: it dates the
+problem, and it makes visible the coincidence that the family has not noticed. It is the Week 1 timeline
+applied to a symptom rather than a life, and it takes four minutes.
+
+**Technique 3 — The two-measurement rule.** Nothing that could be a delay is concluded from one measurement.
+The first assessment produces a level and a hypothesis; the review produces a trajectory. The rule is stated
+to the family as part of the finding — "I am going to measure this again in three months, and what I am
+looking for is not a different number but a different direction" — which converts the review from a courtesy
+into the assessment.
+
+### 14.5 The first session with "something is wrong"
+
+**Phase 1 — Take the account without a hypothesis.** Fifteen minutes in which the therapist asks only
+factual questions and writes down the family's words. The discipline is to say nothing interpretive in this
+phase, which is harder than it sounds when the account is vivid.
+
+**Phase 2 — The two trajectory questions.** What could he do six months ago that he cannot now; what can he
+do now that he could not before.
+
+**Phase 3 — The red-flag list, quickly and out loud.** "I am going to ask you some quick questions about his
+health. Most of them will be no." Families accept a list; they become frightened by a vague enquiry.
+
+**Phase 4 — The four-category placement, stated provisionally.** "This looks like X to me at the moment, and
+here is what would change my mind."
+
+**Phase 5 — The referral, made in the room.** Typed, signed, copied, explained.
+
+**Phase 6 — One thing for the wait, and the review date.** Both written.
+
+**Why the hypothesis is withheld in phase 1.** Because a family that hears a hypothesis in the first five
+minutes organises everything afterwards to support or refute it, and the assessment then measures the
+family's theory rather than the child.
+
+### 14.6 Case: the boy who stopped talking
+
+**Referral.** Mrs Okafor telephones about her son, Chuka, two years and seven months. "He has stopped
+talking. He used to say words. Now he says nothing. My husband says he is lazy. My mother says his uncle was
+the same and he talks now. The nursery says he is fine."
+
+**The household.** Mrs Okafor, 31, a teacher. Mr Okafor, 36, a civil servant, posted to another state and
+home at weekends. Chuka, 2;7. A sister, 8 months. The paternal grandmother, 63, who lives with them and who
+raised Mr Okafor's younger brother, who "did not talk until four".
+
+**The trajectory questions.** What could he do six months ago that he cannot now? "He had words. Maybe forty.
+He said 'mama', 'water', 'go', 'no', 'ball'. He would point at the fridge and say 'juice'." What can he do
+now that he could not before? "Nothing. He does not say anything now. He pulls my hand." Mother's voice, at
+this point: "I have been telling them for four months."
+
+**The onset line.** Marked in the session: at 20 months, forty words and two-word combinations. At 22 months,
+the grandmother's sister died and the household travelled for the burial. At 23 months, the mother returned to
+work and the grandmother took over the days. At 24 months, the sister was born. At 25 months, the words
+began to reduce. At 27 months, silence. At 29 months, the referral.
+
+**The red-flag list.** Regression — positive. Hearing change — uncertain; the mother says he does not turn
+when called, which she had attributed to stubbornness. Consciousness — no episodes reported. Headache and
+vomiting — no. Growth — he has lost weight since the sister was born, which the mother mentions only when
+asked. Seizures — "sometimes he goes still and his eyes go somewhere else", which the mother has mentioned to
+two people who told her it was normal. Safeguarding — nothing disclosed.
+
+**What the therapist does, in order.**
+
+**First, she says the sentence.** "A child who had forty words and now has none has lost something that was
+there, and that is not laziness and it is not the same as his uncle. It needs to be looked at this week, and
+I am going to write the letter now." The sentence is said to the mother, in the grandmother's hearing, and it
+is the sentence the mother has been waiting four months for.
+
+**Second, the referral, in the room.** To a paediatrician with a neurology interest, marked urgent, with the
+trajectory, the onset line, the red flags (regression, possible hearing change, possible absence episodes,
+weight loss), and one request: assessment of a regression of language with possible seizures in a
+two-year-seven-month-old.
+
+**Third, the audiology referral, to run in parallel.** Regression with a possible hearing change requires a
+hearing assessment regardless of what the paediatrician finds.
+
+**Fourth, the family work, which continues and is not the treatment.** The grandmother's belief is not
+stupidity; it is the family's available explanation, and it is protecting everyone from a fear. The therapist
+does not argue with it. She asks the grandmother one question: "when your brother did not talk, did he lose
+words he had already said?" The grandmother is silent, and then says: "no. He never said any." The
+distinction has been made by the family's own authority, in the family's own terms, and it took one
+question.
+
+**Fifth, one thing for the wait, and one for the household.** For the wait: a communication book, in which
+the mother writes what Chuka communicated today and how, which gives the paediatrician four weeks of data and
+gives the mother something to do. For the household: twenty minutes a day with the mother alone with Chuka,
+at a fixed time, doing whatever he chooses, which addresses the thing that is also true — that a boy of two
+who has lost his words has also lost his place, to a sister who is eight months old.
+
+**The formulation, written in the record.** "Regression of expressive language from a 40-word vocabulary with
+two-word combinations at 20 months to no words at 27 months, in a child with possible hearing change,
+possible absence episodes, and weight loss. Not explained by the family's circumstances, which are relevant
+but not causal. Urgent paediatric referral made; audiology referral made in parallel; family work continues
+and is not the treatment of the regression."
+
+**The five systemic findings, which are real and are not the diagnosis.**
+
+1. The mother noticed four months before anyone acted, and was disbelieved three times — by her husband, her
+   mother-in-law, and the nursery. The disbelieving is a clinical event and it has cost four months.
+2. The father's absence at weekends means the household's authority is the grandmother's, and the
+   grandmother's explanation is the family's explanation.
+3. The sister's birth and the mother's return to work are genuinely relevant to the household's capacity,
+   and they are not the cause of a regression. The distinction matters because the family will otherwise
+   spend a year believing that a return to work caused a neurological event.
+4. The weight loss is a second red flag that nobody had investigated, and it is mentioned almost by
+   accident.
+5. The family's disagreement is not a communication problem to be worked on in therapy; it is a race against
+   time, and the therapist's job is to end it by making the referral, not by facilitating an understanding.
+
+### 14.6a Five months later
+
+The paediatric assessment found epileptic activity on an EEG, with clinical absence seizures, and Chuka was
+started on treatment. His language has begun to return — twenty words at the last review, no combinations
+yet. The neurologist's view is that the outcome depends on the underlying cause, which is still being
+investigated, and the therapist records that view in the family's copy rather than translating it into hope.
+
+The weight loss was investigated and attributed to a feeding difficulty that developed after the sister's
+birth, and it has resolved with a dietetic plan.
+
+The grandmother has become the family member who telephones the clinic. This is the case's most instructive
+outcome: the person whose explanation was the obstacle became the person who chases appointments, and she
+changed not because she was argued out of her belief but because one question — "did he lose words he had
+already said?" — gave her a fact that her own experience could not explain.
+
+The father has attended twice, on Saturdays, and the therapist has used both sessions on one question: what
+does he want his son's life to be like at twenty-five? It is a Week 13 question and it is doing more work
+than any explanation of the regression.
+
+**The honest limitation.** Nobody knows yet what Chuka's language will be at six. The therapist's record says
+so, and the family has been told so plainly. What has changed is that the question is in the hands of the
+people who can answer it, and that four months of disbelief have ended.
+
+**What would have changed the plan.** If the mother's account had been of a delay rather than a regression,
+the referral would have been routine rather than urgent, and the family work would have been the treatment
+rather than an adjunct. If the safeguarding question had produced a disclosure, everything would have
+stopped. And if the paediatric service had a twelve-month waiting list, the therapist's obligation would have
+been to say so, to write to the service, and to tell the family that she would chase it monthly — because a
+family told the truth about a waiting list can survive it, and a family told that help is coming cannot.
+
+### 14.7 Transcript: one question to a grandmother
+
+Eight turns from the second session. The grandmother has come because Mrs Okafor asked her to. She has been
+in the room for four minutes and has said that the boy will talk when he is ready.
+
+> **T1 Therapist:** Mama, I want to ask you about your brother.
+>
+> **T2 Grandmother:** He did not talk until he was four. Then he talked. Now he is a lecturer.
+> — *The family's evidence, offered confidently and in good faith.*
+>
+> **T3 Therapist:** A lecturer. *(pause)* And before he talked — did he say any words at all? Even a few?
+>
+> **T4 Grandmother:** *(thinking)* No. He never said anything. He just pointed.
+>
+> **T5 Therapist:** *(gently)* That is the difference, then. Your brother never started. Chuka started, and
+> then stopped. *(pause)* Those are not the same thing, and the second one needs a doctor this week.
+> — *The distinguishing fact, delivered in the family's own material rather than in the therapist's
+> vocabulary. The therapist has not said "regression"; she has used the grandmother's own memory.*
+>
+> **T6 Grandmother:** *(long pause)* I did not know that was different.
+>
+> **T7 Therapist:** Nobody explained it to you. That is not your fault. *(pause)* Will you help me? His
+> mother says he does not turn when he is called. You are with him in the day. What do you see?
+> — *The grandmother is recruited as an observer, which converts her from the family's obstacle into its
+> second witness. This is the turn the case needed, and it is not a technique for managing a difficult
+> relative; it is the recognition that she is the person with the most data.*
+>
+> **T8 Grandmother:** *(after a pause)* He turns if he sees me. If I call from behind, he does not.
+
+### 14.8 Laboratory: the differential under time pressure
+
+**Aim.** To place four presentations in the four categories, identify the red flags, and make the correct
+referral decision, in seven minutes each.
+
+**Procedure.** The class is divided into pairs. Four briefs are distributed, one at a time, with seven
+minutes on the clock for each: read, run the four-category check, run the red-flag list, and write the
+referral decision and its urgency. No discussion is permitted between briefs. The marking is by the trainer,
+against a prepared answer key, and the scores are read out anonymously.
+
+**Marking rubric (20 marks over four briefs).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Category** | Wrong category | Right category, wrong reasoning | Right category, with the distinguishing fact named |
+| **Red flags** | Missed a positive flag | Found the flags, misjudged urgency | Found the flags, judged urgency correctly, and named the referral |
+| **The referral** | None, or vague | Made, without a named destination | Made in writing, to a named service, with a stated urgency and what is wanted |
+| **Language** | Diagnostic label without assessment | Description without conditions | Description with trajectory, conditions, and a provisional formulation |
+
+**The four briefs, and the answer key.**
+
+*Brief 1.* A girl of three with no words, good comprehension, rich play, no regression, hearing tested
+normal. **Answer:** delay in expressive language with preserved comprehension — routine referral for speech
+and language assessment, review in three months, no red flags. The error the brief is designed to catch is
+the urgent referral, which is common among trainees who have just learned about regression.
+
+*Brief 2.* A boy of four who could dress himself, count to ten and use sentences, and who now cannot, over
+six weeks, with new stumbling and a change in handwriting. **Answer:** regression with a motor component —
+urgent. The error is the family-systems formulation, which is elaborate and wrong.
+
+*Brief 3.* A girl of nine, refusing school for three weeks, after her parents' separation, with no red flags,
+normal report card, one named friend. **Answer:** symptom — anxiety in the context of a family transition;
+no medical referral; family work is the treatment.
+
+*Brief 4.* A boy of two who has never walked independently, is not yet pulling to stand, and whose mother says
+he "went backwards" at fourteen months after a fever. **Answer:** regression with motor involvement, plus a
+possible delay — urgent, with the fever named in the letter. The error is to accept the family's explanation
+("he was ill") without asking what he could do before the illness.
+
+### 14.9 Six errors
+
+**Error 1 — Forming the hypothesis from the referral letter.** The letter is a description of somebody's worst
+day, written by someone with a different agenda. The four-second hypothesis is the thing this week exists to
+interrupt.
+
+**Error 2 — Finding a family explanation for a regression.** The most dangerous error in the book. A
+regression has a medical differential until proved otherwise, and a systemic formulation that keeps the child
+in the therapy room delays the assessment.
+
+**Error 3 — Accepting a diagnosis of "dementia" or "delay" as an explanation for a change.** Week 12's lesson
+applies at every age: a change is a new event, not a progression, until investigated.
+
+**Error 4 — Referring without a trajectory.** A referral letter that says "language delay" without dates
+cannot be triaged, and will be placed at the bottom of a list. A letter that says "40 words at 20 months,
+none at 27" will be seen this week.
+
+**Error 5 — Referring and disappearing.** The referral is not the end of the therapist's involvement; it is
+the point at which the chasing starts and the family work continues. A family that is referred and then not
+seen concludes that the referral was a dismissal.
+
+**Error 6 — Treating the family's disagreement as the problem.** The Okafor family disagreed for four months,
+and the disagreement was real, and it was not the clinical problem. A therapist who spends the four months
+working on the disagreement has done harm with good intentions.
+
+### 14.9a Saying "I do not know" well
+
+This week produces more uncertainty than any other in the course, and the way a therapist handles not knowing
+determines whether a family trusts the rest.
+
+**The three bad ways to not know.** *The hedge* — a formulation so vague that it commits to nothing ("there
+are some developmental concerns we should keep an eye on"), which leaves the family without an action.
+*The false certainty* — a diagnosis supplied to end the conversation, which is comfortable for the therapist
+and dangerous for the child. *The deflection* — "that is a question for the paediatrician", which is accurate
+and, said early and often, communicates that the therapist has nothing to offer.
+
+**The good way, in four moves.**
+
+**Move 1 — Say what you do know, concretely.** "I know he had forty words and now has none, and I know that
+is not laziness." Certainty about the facts is available even when certainty about the cause is not.
+
+**Move 2 — Say what you do not know, and why.** "I do not know what is causing it. assessment this week rather than an opinion from me, which would cost him a month and tell you nothing."
+
+**Move 3 — Say what would tell you.** "If the hearing test is normal and the paediatrician finds nothing, the
+next thing I would look at is X." This gives the family a map of the uncertainty, which is more useful than
+its removal.
+
+**Move 4 — Say what you will do while not knowing.** "I will chase the appointment in two weeks, I will see
+you in a month, and we will work on the sleep and on his communication book in the meantime."
+
+**Why the fourth move matters most.** A family can tolerate uncertainty about the future if they are certain
+about the therapist's next action. The families who leave and do not return are not the ones who were told "I
+do not know"; they are the ones who were told it and then given nothing to hold.
+
+### 14.10 Culture, faith and the urgent referral
+
+**The cost of a referral.** For many households an appointment across the city costs a fare, a day's income,
+and the loss of a job. The therapist who says "you must go to the teaching hospital on Tuesday" without
+asking what that costs has made a recommendation that will not be followed. The question that must precede
+every referral is "what would it take for you to get there?"
+
+**The family's explanation and the family's fear.** The grandmother in this week's case is not obscurantist;
+she is holding the family's only available explanation, and it protects everyone from a fear that is worse.
+The therapist's discipline is to join the explanation and add a fact, not to displace it. One question,
+asked in the family's own material, did more than an hour of explanation would have.
+
+**Faith and the timing of medical care.** Where a family believes that healing is a matter for prayer, the
+sequence that works is: pray, and go. The framing of the referral as stewardship — seeing what has been made
+— is not a manipulation; it is a translation, and Week 13 established that translation is part of the job.
+What cannot be conceded is the delay, because the conditions that present as regression are among the few in
+this book where a month changes the outcome.
+
+**The mother who is disbelieved.** Across this week's cases the same figure appears: a mother who noticed
+first and was told she was anxious, over-attending, or projecting. The evidence on parental concern is that
+it is a reasonably sensitive marker and a poorly specific one — which means it should generate assessment,
+not reassurance. A therapist who says "mothers are usually right about something being wrong and rarely right
+about what it is" has given the family a usable position.
+
+> **DEBATE** — "A family therapist should not be assessing development at all; that is a paediatrician's
+> job." Argue for: the scope of practice is real, an amateur assessment produces false reassurance and false
+> alarm, and the therapist's proper role is to refer on the first concern. Argue against: the therapist is
+> frequently the only professional in the room, no referral happens without someone deciding to make it, and
+> the four-category check takes four minutes and prevents months of delay. Then state what you would do if
+> you were the only clinician a family could reach, and where you would draw the line.
+
+### 14.11 Evidence note
+
+**What the research supports.** Parental concern is a useful screening signal: the literature on parental
+suspicion of developmental delay finds reasonable sensitivity and modest specificity, which supports using it
+as a trigger for assessment rather than as a diagnosis. Regression in language or motor function is
+associated with a higher probability of an identifiable neurological condition than delay without regression,
+which is the empirical basis for treating it as urgent. Early intervention for established delay produces
+measurable gains, and the gains are larger the earlier the intervention begins, which is the argument for the
+whole of this week.
+
+**What is weaker.** Screening instruments perform differently in different populations and the norms are
+frequently unrepresentative (Week 13). The evidence on the *harms* of false-positive developmental screening
+is thin, and it is a real question: a family told to worry about a child who is developing normally pays a
+cost that no trial has measured well.
+
+**What is not supported.** That a family explanation and a medical explanation are in competition — they
+answer different questions and both can be true. That watchful waiting is safe for a regression. And that a
+normal assessment at one point in time excludes a problem later; the trajectory, not the level, is the
+finding.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same forty-word vocabulary at twenty months predicts nothing
+at all; the loss of it predicts a great deal. Timing is the variable, and this week is about noticing it.
+
+### 14.12 Key terms
+
+**Variation** — development within the normal range, differently timed or shaped.
+
+**Delay** — development behind the expected sequence but progressing.
+
+**Regression** — loss of an established skill; always urgent.
+
+**Symptom** — a behaviour expressing something else; the category the rest of the course teaches.
+
+**Trajectory** — the direction of development over time, which requires two measurements.
+
+**Red flag** — a finding that requires a same-week referral regardless of the formulation.
+
+**Provisional formulation** — a stated hypothesis with the evidence that would change it.
+
+**Onset line** — a timeline of the symptom against the events the family can date.
+
+**Watchful waiting** — a legitimate strategy for variation and delay, and never for regression, where it is a decision to lose time.
+
+**Triage** — the ranking of a referral by urgency, which is why a letter without dates is placed at the bottom of a list.
+
+**Two-measurement rule** — no conclusion about delay from a single assessment.
+
+### 14.13 Self-test
+
+1. Give the four categories with one example each, and say which is always urgent.
+2. Why is a regression urgent even when the child is functioning well otherwise?
+3. State the five systemic questions and the purpose of each.
+4. Name six red flags and the referral each requires.
+5. Why does the therapist withhold a hypothesis in the first fifteen minutes of the session?
+6. What did the therapist ask the grandmother, and why did it work?
+7. What is the two-measurement rule, and how is it explained to a family?
+8. Name three things a therapist can do for a family while they wait for a specialist appointment.
+
+**Answers.** *(1)* Variation — a child walking at fifteen months; delay — two-word combinations at three
+years; regression — words lost at two and a half; symptom — night waking after a move; regression is always
+urgent. *(2)* Because regression has a medical differential that includes treatable and progressive
+conditions, and because delay in referral is the one error in this work that cannot be recovered.
+*(3)* Onset and co-occurring change (to date the problem); who noticed and who disagrees (to find the fault
+line); the behavioural sequence (to find the intervention); what would improve and what would worsen (to find
+the function); what has been tried (to find the constraints). *(4)* Regression — urgent paediatric;
+change in hearing or vision — urgent audiology or ophthalmology; seizures or episodes of unresponsiveness —
+urgent paediatric; headache on waking or vomiting on waking — urgent; growth failure — urgent; disclosure or
+sexual knowledge beyond stage — same-day safeguarding. *(5)* Because a family that hears a hypothesis early
+organises its account to support or refute it, and the assessment then measures the theory rather than the
+child. *(6)* Whether her brother, who talked late, had ever said words before he stopped: he had not, which
+distinguished delay from regression in the family's own material and made the grandmother a witness rather
+than an obstacle. *(7)* Nothing that could be a delay is concluded from one measurement; it is explained as
+"what I am looking for in three months is not a different number but a different direction". *(8)* Protect
+sleep; give the child one domain of competence; give the family one explanatory sentence for relatives — and
+chase the appointment.
+
+### 14.14 Reflective task
+
+Take a referral you have received or read, and write the hypothesis you formed on first reading it, in one
+sentence. Then write the four categories beside it, and the red flags, and note how much of your hypothesis
+the letter actually supported. Most clinicians find that the sentence they wrote was about a person and the
+letter was about a day.
+
+### 14.15 Further reading
+
+- Lipkin, P. and Macias, M. on developmental screening — the sensitivity and specificity of parental concern.
+- Shevell, M. on developmental regression — the differential, and why it is a different problem from delay.
+- Rutter, M. on developmental trajectories — the conceptual basis of the two-measurement rule.
+- Emde, R. and Emde, on early intervention — the evidence that earlier is better.
+- Nelson, C. et al. on deprivation and recovery — the limits of catch-up, stated honestly.
+
+*Next: Week 15 — Integration: the developmental lens in practice.*
 
 ---
 
