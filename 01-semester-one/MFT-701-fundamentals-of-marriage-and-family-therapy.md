@@ -676,17 +676,28 @@ who present with "we cannot communicate". The therapist is a trainee in her seco
 cover the annotations, and decide what you would have asked next. Then read the annotations.
 
 > **T1 Therapist:** What would you like me to understand first?
+
 > **T2 Folake:** He doesn't talk to me. He comes home, eats, watches television, sleeps. I am alone in this
 > house.
+
 > **T3 Therapist:** (to Dele) What do you think your wife means when she says she is alone?
+
 > **T4 Dele:** I don't know. I work. I am tired. She is not alone, there are three children in the house.
+
 > **T5 Therapist:** Folake, what do you do when he is watching television?
+
 > **T6 Folake:** I stand there. Sometimes I ask him something and he says "mm".
+
 > **T7 Therapist:** And what happens then?
+
 > **T8 Folake:** I get angry. I say something sharp. Then he goes to bed.
+
 > **T9 Therapist:** Dele, when she says something sharp, what goes through your mind?
+
 > **T10 Dele:** That nothing I do is enough. So I stop.
+
 > **T11 Therapist:** And when you stop, Folake, what happens to the anger?
+
 > **T12 Folake:** It grows. And then I cannot sleep and I am tired the next day and the children see me crying.
 
 **Annotations.**
@@ -1258,17 +1269,26 @@ The following excerpt is from the first session, minutes 18–26. The mother has
 refusal. Read the annotation after each turn.
 
 > **T1 Mother:** She just will not go. I have tried everything. Her father says I am too soft with her.
+
 > **T2 Therapist:** So your husband thinks the answer is firmer handling. What do you think he would say if I
 > asked him why?
+
 > **T3 Mother:** (pause) He would say I let her wrap me round her finger. He thinks I need her at home.
+
 > **T4 Therapist:** What makes you say that?
+
 > **T5 Mother:** Because when she is at home she sits with me. And when she is at school I am on my own all
 > day.
+
 > **T6 Therapist:** So her being at home helps you. And it also worries you.
+
 > **T7 Mother:** (crying) Both. I know it is wrong to say that.
+
 > **T8 Therapist:** It is not wrong. It is the most honest thing said in this room today. Amara, when your
 > mother is crying, what do you do?
+
 > **T9 Amara:** I get her water.
+
 > **T10 Therapist:** And what happens to your own day when you are getting her water?
 
 **Annotations.**
@@ -2580,15 +2600,25 @@ possible: "Who is missing from this picture?" and "What would change on this dra
 ### 4.10 Annotated transcript: mapping in the room
 
 > **T1 Therapist:** I am going to draw your family on this paper while we talk. Tell me if I get it wrong.
+
 > **T2 Mother:** (laughs) You will get it wrong.
+
 > **T3 Therapist:** Good. Start me with your husband's family. Who were his parents?
+
 > **T4 Mother:** His father is dead. His mother is alive, she is in Ibadan. He does not talk to her much.
+
 > **T5 Therapist:** (draws) How long has he not talked to her much?
+
 > **T6 Mother:** Since his father died. That was a long time ago. He was still a boy.
+
 > **T7 Therapist:** How old was he?
+
 > **T8 Mother:** (pause) About nineteen. He had to leave school.
+
 > **T9 Therapist:** And Amara is how old?
+
 > **T10 Mother:** Sixteen.
+
 > **T11 Therapist:** (draws, then stops) Is there anything else on this paper that I should know about?
 
 **Annotations.** *T1* announces the task and immediately hands the family the right to correct the therapist.
@@ -2616,12 +2646,19 @@ conclusions from the map in front of the family; the map's job in session one is
 ### 4.10a Second transcript: naming the rule, not the person
 
 > **T1 Father:** In this house we don't discuss feelings. That is not how I was raised.
+
 > **T2 Therapist:** So the rule is that feelings are handled privately. Who taught you that rule?
+
 > **T3 Father:** My father. He never said a word about anything. He just worked.
+
 > **T4 Therapist:** And what did that give you?
+
 > **T5 Father:** (long pause) It gave me a strong house. Nobody went hungry.
+
 > **T6 Therapist:** And what did it cost?
+
 > **T7 Father:** (longer pause) I don't know what my son is thinking. I don't know what my wife is thinking.
+
 > **T8 Therapist:** Amara, in this family, if you were having a bad week, who would know?
 
 **Annotations.** *T2* is the whole technique of this week in one move: the father has stated a rule, and the
@@ -3372,14 +3409,20 @@ is present at the start.
 
 > **T1 Therapist:** Before I ask about the difficulty, I want to be clear about who I am and what happens to what
 > you tell me. May I take five minutes on that?
+
 > **T2 Father:** (to the pastor) She is the one you said would help.
+
 > **T3 Therapist:** I am. And I want to be honest about my part. I am a family therapist; I am not a pastor, and
 > I will not lead prayers. Pastor, you are here at the start because you made the referral, and my suggestion is
 > that after today you are not in the room, unless the family wants you there for a particular session.
+
 > **T4 Pastor:** That is fine. I only want to know that they are being helped.
+
 > **T5 Therapist:** I will tell you whether they are attending and whether the plan is being followed. I will not
 > tell you what they say about each other, and I will not give you a report. Is that acceptable to everyone?
+
 > **T6 Mother:** (quietly) Yes.
+
 > **T7 Therapist:** Two more things. If I believe a child is at risk of harm, I will have to act, and I will tell
 > you what I am doing and why. And my notes are my records; you may ask to see what I have written about you.
 
@@ -4010,13 +4053,20 @@ The father attends the second session. Below are the first eight turns, with the
 
 > **T1 Therapist:** (standing, offering a hand) Mr Adeyemi. Thank you for coming. I know it was not easy to get
 > away.
+
 > **T2 Father:** The office allowed me. I do not know how much I can help.
+
 > **T3 Therapist:** You can help more than anyone else in this room, and I will tell you why in a moment. First,
 > sit where you like. Would you rather sit next to your wife or over here?
+
 > **T4 Father:** (sits beside his wife, slightly apart) Here is fine.
+
 > **T5 Therapist:** Before I ask you anything about Amara, I want to ask about you. What was your week like?
+
 > **T6 Father:** (pause) Long. The work is not regular. I take what comes.
+
 > **T7 Therapist:** And what does that do to you, by the end of a week?
+
 > **T8 Father:** (longer pause) It makes me tired of being asked for things.
 
 **Annotations.** *T1* does two things at once: it greets him by name, which recognises him as a person rather
@@ -4036,8 +4086,11 @@ produces the sentence that will organise the treatment: **tired of being asked f
 **What the therapist does next, and why it matters.** She says nothing for a moment, then:
 
 > **T9 Therapist:** So you come home, and the house asks you for something too.
+
 > **T10 Father:** (nods) Everybody wants something from me. I have nothing left to give.
+
 > **T11 Therapist:** And when you have nothing left, what do you do?
+
 > **T12 Father:** I sit in the car for a while before I come in. Sometimes I do not come in.
 
 *T9* is a reflection that stays with his metaphor — "asked for things" becomes "the house asks you for
@@ -4620,18 +4673,29 @@ is the clinical work. Below is a twelve-turn excerpt from a family in which the 
 incompatible.
 
 > **T1 Mother:** The problem is his temper. He shouts at the children and then they come to me.
+
 > **T2 Father:** The problem is that she undermines me. I say no, she says yes, they learn that I mean nothing.
+
 > **T3 Therapist:** So there are two accounts. Let me hold both for a moment. Mother, when he shouts, what do the
 > children do?
+
 > **T4 Mother:** They cry and come to me. Then I tell him he is frightening them.
+
 > **T5 Therapist:** And then, Father?
+
 > **T6 Father:** Then I leave the room. There is no point.
+
 > **T7 Therapist:** So: he shouts, they go to her, she tells him he is frightening them, he leaves. Is that what
 > happens most weekend evenings?
+
 > **T8 Both:** (nods) Yes.
+
 > **T9 Therapist:** Which part of that would each of you most want to be different? Not the whole thing — one part.
+
 > **T10 Mother:** I would want him not to shout.
+
 > **T11 Father:** I would want her to back me up in front of them, even if she disagrees with me.
+
 > **T12 Therapist:** Those are different requests, and they might be connected. Let me see whether I can put them
 > together in a way that is honest for both of you.
 
@@ -5416,18 +5480,30 @@ father is present but has said little; Amara is at school.
 
 > **T1 Therapist:** I would like to draw your two families — your parents, your brothers and sisters, and the dates.
 > It takes about twenty minutes and I will ask you to correct me. Mother, your side first. Your mother's name?
+
 > **T2 Mother:** Mama. She is 71. She lives in Ibadan.
+
 > **T3 Therapist:** (draws) 71. And your father?
+
 > **T4 Mother:** He died. 1994. I was 19.
+
 > **T5 Therapist:** (draws, then pauses) You were 19. And you are the eldest?
+
 > **T6 Mother:** I am the eldest of five. When he died I stopped school and I looked after them. My mother was not…
 > she was not well after it.
+
 > **T7 Therapist:** You looked after four children at 19, while your mother was unwell. (draws) Where were you all?
+
 > **T8 Mother:** In the same house. Until I married. I married at 24.
+
 > **T9 Therapist:** (to Father) And your side?
+
 > **T10 Father:** My father is 68, he is in Lagos. My mother died in 1998. I am the third of six.
+
 > **T11 Therapist:** (draws) How old were you in 1998?
+
 > **T12 Father:** Sixteen. I left for Lagos that year. For work.
+
 > **T13 Therapist:** And your mother had died that year.
 
 *(The therapist draws a date-line: 1994, 1998, 2001, 2008, 2019, 2025. She places the deaths, the mother's
@@ -5436,13 +5512,19 @@ marriage, the father's departure, the births of the children, and then the onset
 > **T14 Therapist:** Here is your mother's father's death in 1994. Here is your father's mother's death in 1998, and
 > your leaving in the same year. Here is 2008, when Amara was born, and 2019, when your husband lost the job. And
 > here is this year, when the school refusal began.
+
 > **T15 Mother:** (after a pause) 2019 is when everything changed.
+
 > **T16 Therapist:** What happened in 2019?
+
 > **T17 Mother:** He was at home for two years. Then he found this work, but it is in Lagos. He is away Monday to
 > Friday. (pause) I am alone with them, like I was alone with my sisters.
+
 > **T18 Therapist:** You were 19 and you were looking after four children, and now you are looking after three
 > children alone on weekdays. (pause) Nobody has said that out loud in this room.
+
 > **T19 Father:** She has not said it to me either.
+
 > **T20 Therapist:** (draws a line between the parents, marked "distant, weekdays") Is that the right line?
 
 **Annotations.** *T1* announces the task, its duration, and the correction clause. The correction clause is what
@@ -6103,20 +6185,31 @@ turns in, with the therapist's choices annotated.
 
 > **T1 Therapist:** I want to tell you what I think is happening, and then I want you to tell me where I have got it
 > wrong. Is that all right?
+
 > **T2 Mother:** Yes.
+
 > **T3 Therapist:** What I see is this. Ebuka's difficult mornings started in the term after his grandmother died.
 > She had looked after him every day for five years, and nobody has really talked about that in this room.
+
 > **T4 Mother:** (quietly) No.
+
 > **T5 Therapist:** And I think the mornings became the place where the sadness goes. He is difficult, you are tired,
 > the school telephones, and there is no room left for missing her. Does that fit?
+
 > **T6 Mother:** (crying) It fits.
+
 > **T7 Therapist:** There is a second part, and this is about the two of you. When Ebuka is difficult, you handle it
 > alone all week. On Saturday his father comes home and hears about it, and by then it has become a report.
+
 > **T8 Father:** She does not tell me until it is a problem.
+
 > **T9 Therapist:** And when she tells you, what happens?
+
 > **T10 Father:** I say what she should have done. She says I am not there. Then we are arguing.
+
 > **T11 Therapist:** So the boy's difficult mornings have become the way the two of you talk about the week. I am not
 > saying anyone intends that. I am saying that this is how it works at the moment.
+
 > **T12 Mother:** So what do we do?
 
 **Annotations.** *T1* asks permission and sets the correction clause before delivering anything. This is not
@@ -6717,14 +6810,21 @@ An eight-turn excerpt from the Tolu case, session two, with both parents and Tol
 
 > **T1 Father:** In our culture a child does not choose. We chose for her because we know the family. She is bringing
 > shame.
+
 > **T2 Therapist:** When you say our culture, you mean the way it was done for you as well?
+
 > **T3 Father:** Yes. I did not choose my wife. We have been married thirty-one years.
+
 > **T4 Therapist:** Thirty-one years. And it worked.
+
 > **T5 Father:** It worked.
+
 > **T6 Therapist:** I want to understand what "worked" means for you, because I think that is the part your daughter
 > has not heard.
+
 > **T7 Father:** (pause) It means we did not divorce. It means my children grew up in one house with two parents. It
 > means people respect us.
+
 > **T8 Therapist:** (to Tolu) Did you know that was what he meant?
 
 **Annotations.** *T2* is the central move of the segment: it converts "our culture" from a general law into one
@@ -8307,19 +8407,28 @@ the opening of a first session, with annotations.
 
 > **T1 Therapist:** Before we start, I want to tell you how I work with information, because we are three people in
 > this room and there is no single rule. Is that all right?
+
 > **T2 Mother:** Yes.
+
 > **T3 Therapist:** Anything said here, with all of us present, stays with all of us. That is the easy part.
+
 > **T4 Father:** And if she comes alone?
+
 > **T5 Therapist:** If one of you comes alone and tells me something, I will encourage you to tell the others, and I
 > will tell you in advance if I think I have to raise it myself. I will not carry a secret about your family and work
 > as though I did not know it.
+
 > **T6 Father:** What if it is not my business to tell her?
+
 > **T7 Therapist:** Then we talk about what to do with it, and you decide, unless it is about someone's safety. If a
 > child is being hurt, or someone is at risk of serious harm, I am not allowed to keep that, and I will tell you
 > before I do anything.
+
 > **T8 Mother:** And the school?
+
 > **T9 Therapist:** Nothing goes to the school without your agreement, except in the safety situation I have
 > described. If I write a letter, you will see it first.
+
 > **T10 Father:** (nods) That is fair.
 
 **Annotations.** *T1* names the structural fact — three people, no single rule — and asks permission. The permission
@@ -8898,21 +9007,32 @@ fails, and the therapist does not repeat it.
 
 > **T1 Therapist:** I would like the two of you to agree one sentence about Monday, in the same words. — Mrs Adeyemi,
 > what would the sentence be?
+
 > **T2 Mother:** "You are going to school on Monday." That is what I would say.
+
 > **T3 Therapist:** And Mr Adeyemi — the same sentence?
+
 > **T4 Father:** (pause) I would say, "Your mother and I have decided, and we will talk about it on Sunday evening."
+
 > **T5 Therapist:** Those are different sentences. They are both firm. One is a command and one is an invitation to
 > negotiate.
+
 > **T6 Mother:** (to father) You always do this. You come home and you make me the bad one.
+
 > **T7 Therapist:** (pause) Let me stop and say what I am seeing. I asked for one sentence, and within a minute we have
 > the argument that I think happens every weekend. Amara, is this what it is like?
+
 > **T8 Amara:** (nods) Every Saturday.
+
 > **T9 Therapist:** Then I want to change what we are doing. I am going to stop asking you to agree a sentence, because
 > agreeing a sentence is not the problem. The problem is that on Saturday you two have a conversation that is really
 > about the last five days, and Amara is in the room for it. So let us do something different. Mrs Adeyemi, when you
 > heard your husband's sentence, what did you feel?
+
 > **T10 Mother:** (crying) That I am doing it alone and nobody sees it.
+
 > **T11 Therapist:** And Mr Adeyemi, when she said "you make me the bad one"?
+
 > **T12 Father:** (long pause) That I am not in my own house.
 
 **Annotations.** *T5* is a structural observation, made neutrally, and it fails: the parents do not hear the
@@ -9415,21 +9535,31 @@ A five-minute excerpt from a supervision session, in which a trainee's stated co
 The trainee has said, in her position statement, that she will not run joint sessions where one partner is afraid.
 
 > **T1 Supervisor:** Tell me about the Ogundipe case.
+
 > **T2 Trainee:** Couple, married fourteen years. She says he has pushed her twice, both times when he had been
 > drinking. He says she "goes on and on" until he loses his temper. They want to stay together. The referrer has
 > asked for couple work.
+
 > **T3 Supervisor:** And what does your stance say about that?
+
 > **T4 Trainee:** That I do not see them together while she is afraid. But the referrer has asked specifically, and
 > there is no other service, and she says she does not want to leave him.
+
 > **T5 Supervisor:** So which of those sentences is your commitment and which is the pressure?
+
 > **T6 Trainee:** (pause) The commitment is the first one. The rest is the pressure.
+
 > **T7 Supervisor:** Good. Now — what does your commitment actually leave you able to offer? Not what it forbids.
+
 > **T8 Trainee:** I could see her individually, and him individually, and be clear with both about why. I could write
 > to the referrer explaining the reasoning. I could look for a programme for men who use violence. And I could
 > reassess if the fear went away.
+
 > **T9 Supervisor:** What would have to be true for you to reassess?
+
 > **T10 Trainee:** She would have to tell me, alone, that she is not afraid of him. And I would have to believe her,
 > which is not the same thing.
+
 > **T11 Supervisor:** That last sentence is the most professional thing you have said this morning. Write it down and
 > put it in your statement.
 
@@ -9775,23 +9905,33 @@ An ending, as it should be done, in eight turns.
 
 > **T1 Therapist:** We agreed eight sessions, and this is the eighth, so today I want to look at what has changed,
 > what has not, and what happens next. Is that all right with everyone?
+
 > **T2 Mother:** It is. I am nervous.
+
 > **T3 Therapist:** Tell me about the nervousness.
+
 > **T4 Mother:** I am afraid we will go back to how it was.
+
 > **T5 Therapist:** That is a reasonable fear. Let us look at the evidence, because you have some now. Your ratings
 > went from 28 to 17. Amara has been in school for six weeks. The two of you have made three decisions without a
 > shouting match. What would you say made the difference?
+
 > **T6 Father:** We stopped waiting for her to change first.
+
 > **T7 Therapist:** Amara, what would you say?
+
 > **T8 Amara:** (pause) My mum stopped shouting in the morning. So I stopped pretending to be asleep.
 
 *[Twelve minutes later, after the family's review.]*
 
 > **T9 Therapist:** Before we finish, I want to ask what it is like to be finishing, for each of you.
+
 > **T10 Mother:** I do not want to stop.
+
 > **T11 Therapist:** That is worth saying, and worth taking seriously. We agreed a review in three months; if
 > something happens before then, you can telephone me, and here is what to do if it is urgent. What would you want
 > me to know if you came back?
+
 > **T12 Amara:** That it is not only me.
 
 **Annotations.** *T1* names the ending at the start of the session, which gives the family the whole session to
