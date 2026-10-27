@@ -6455,39 +6455,686 @@ rather than by resolving it.
 ---
 ## Week 10 — Culture, class and power
 
-Every family you meet is embedded in a culture, and so are you. Culture is not a variable to be
-"controlled for"; it is the medium in which the problem is defined.
+Every family you meet is embedded in a culture, and so are you. Culture is not a variable to be "controlled for"; it
+is the medium in which the problem is defined. The same is true of class and of power, and the three are entangled:
+a family's account of a difficulty, the institution's account, and your account of both are all shaped by where each
+party stands.
+
+### 10.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Three mistakes | Culturalism, colour-blindness, essentialism — named and illustrated | Identify each in a real referral |
+| 10–25 | The cultural genogram | Draw one live, with the class's own material anonymised | Score their own draft genogram |
+| 25–40 | Class and money in the room | Two cases, same symptom, different class position | Predict what each family will be offered |
+| 40–55 | Power in the session | Who speaks, who is translated, who is interrupted | Count interruptions in a recorded session |
+| 55–70 | Faith as the organising frame | Working with a pastor and an imam | Plan a coordination meeting |
+| 70–85 | The limits of cultural respect | A case where culture is used to defend harm | Write the safety plan and the referral |
+| 85–90 | Set the assignment | The cultural genogram and commentary | Plan the interview |
+
+### 10.2 Three mistakes
+
+Most failures in cross-cultural clinical work are not failures of knowledge. They are failures of method, and they
+cluster into three recognisable errors.
+
+**Mistake 1 — culturalism.** Treating culture as a set of rules that predict individual families: "Nigerian families
+are hierarchical", "Asian families do not discuss emotion", "in this culture the grandmother decides". Culturalism
+is attractive because it promises competence without inquiry, and it is harmful because it turns a hypothesis into
+a fact, relieves the therapist of asking, and makes the family a specimen of a category. It also flattens enormous
+within-group variation: two Ibadan families can differ more from each other than either differs from a family in
+Leeds.
+
+**Mistake 2 — colour-blindness.** The opposite error: treating everybody as the same, refusing to notice that
+culture, ethnicity, class and religion shape both the difficulty and the encounter. The therapist who says "I do not
+see race" has usually failed to notice that the family does, and that the family's experience of institutions —
+schools, hospitals, police, social services — has taught them something about how they will be seen. Pretending not
+to see difference is a way of asking the family to do the work of managing the therapist's discomfort.
+
+**Mistake 3 — essentialism about the family's own account.** Once a family has described their culture, the trap is
+to treat that description as fixed. Families describe their culture strategically, to the person in front of them,
+and for reasons: to claim authority, to protect a member, to explain a decision, to test whether the therapist will
+judge them. "In our culture, a wife does not contradict her husband" may be a description, an aspiration, a
+negotiating position, or a warning — and the therapist who takes it as a law will be unable to work with the wife
+who contradicts her husband in the second session.
+
+**The alternative to all three.** A disciplined curiosity: ask, note, check, and revise. The formulation in Week 9
+is the place where this discipline lives, because a formulation records both the family's account and the
+therapist's hypothesis about it, and distinguishes the two.
+
+### 10.3 The cultural genogram
+
+The genogram of Week 8 maps kinship. A cultural genogram maps the *content* carried through that kinship: language,
+religion, migration, education, occupation, class, and the values each generation transmits and contests.
+
+**The seven dimensions to map.**
+
+1. **Migration history.** Who came from where, when, why, and what was lost. For a family in Nigeria this may be
+   internal migration (rural to city, state to state) as often as international.
+2. **Languages.** Which language is spoken to whom, in which room, about what. The language in which a mother
+   scolds is often not the language in which she consoles.
+3. **Religion and religious change.** Who practises, who converted, and who disapproved. A grandmother's traditional
+   practice alongside a granddaughter's Pentecostalism is a live cultural fact in many households.
+4. **Education.** Who was educated, to what level, and what education means as a family achievement.
+5. **Occupation and class.** Including the family's own class story — "we are not rich, but we are respectable" — and
+   the class position of previous generations.
+6. **Duty and individuation.** What a child owes a parent, and at what age; what a wife owes a husband's family;
+   what is expected at a funeral, a wedding, a naming ceremony.
+7. **Stigma and disclosure.** What may not be spoken about outside the family, and to whom: mental illness, debt,
+   a divorce, a child born outside marriage, a prison sentence.
+
+**How to draw it.** Use the genogram's structure, with annotations: a language written beside each person, a symbol
+for religious practice, a note for migration, arrows for conversion, a dotted line for a cut-off caused by a
+culturally significant event. Then ask three questions: *What did each generation hand on that the next generation
+values? What did it hand on that the next generation rejects? Where is the disagreement now?*
+
+**Why this matters clinically.** Most family presentations that look like "communication problems" are, on closer
+inspection, disagreements between generations about duty, respect and autonomy — and those disagreements are
+cultural in the precise sense that they concern which values a family is going to live by. A genogram that maps the
+values makes the disagreement visible and, often, discussable for the first time.
+
+> **PRACTICAL** — Draw a cultural genogram of your own family across three generations, with the seven dimensions.
+> Then write one sentence for each dimension beginning "In my family, this was never discussed". Those sentences are
+> the material you will find hardest to ask about in a family that is not yours.
+
+### 10.4 Class, money and material conditions
+
+Therapy is a middle-class activity conducted in middle-class language, and families who are not middle-class are
+routinely misread by it. Five mechanisms.
+
+**The presentation is shaped by scarcity.** A family under financial pressure will often present a behaviour problem
+and not a marital problem, because behaviour can be fixed with a rule and a marriage cannot be fixed without time,
+privacy and energy that the family does not have. The therapist who insists on the underlying relational issue may
+be right and may also be privileged.
+
+**Attendance is a class issue.** A missed appointment is read as resistance; it is frequently a bus fare, a shift
+change, a childcare problem, or a job interview. Before interpreting a non-attendance, ask what made it hard to
+come.
+
+**Time is not equally available.** Homework, daily diaries and "a conversation every evening" assume evenings. For a
+family with two jobs, shift work, or a crowded household, the intervention must fit the actual week, and the
+therapist should ask what the week looks like before prescribing anything.
+
+**Language registers communicate class.** The therapist's vocabulary, the form, the waiting room, and the length of
+the sessions all tell the family where they are and who they are dealing with. Families respond accordingly, often
+with politeness that is not agreement.
+
+**Aspiration and shame.** Many families are managing a gap between the life they were promised and the life they
+have, and between their own position and that of relatives who have done better. Questions about work, housing and
+school fees can touch shame very quickly, and a therapist who asks about money as though it were neutral will get
+answers that are shaped by the shame.
+
+**Three practical moves.**
+
+*Ask about money directly and without embarrassment.* "How are things financially at the moment?" is a clinical
+question, and families answer it more often than trainees expect.
+
+*Ask what the week actually looks like.* Hours worked, who is at home when, who sleeps where. The intervention that
+fits the week will be followed; the one that assumes a different week will not.
+
+*Locate the problem in the conditions when the conditions are the problem.* A father who is absent because he works
+six days a week in another state is not "disengaged"; he is absent, and the plan must work with the absence rather
+than interpret it.
+
+### 10.5 Power in the room
+
+The therapy room is not a democracy. The therapist has the authority of the institution, the language of the
+profession, and the power to write the record. The family has the knowledge and the choice of whether to return.
+Making this explicit, at least to yourself, is a precondition of ethical practice.
+
+**Five sites of power, and what to do about each.**
+
+**Who defines the problem.** Already discussed in Week 7, and it is a power question as well as a clinical one. The
+parent who telephones usually defines; the adolescent who is brought usually does not. Ask the person who has not
+spoken.
+
+**Who is interpreted.** The member whose speech is summarised by others in the room — usually the youngest, the
+oldest, the least fluent, or the one whose first language differs from the therapist's. Notice who is spoken about
+rather than to, and address them directly.
+
+**Whose emotions are permitted.** In many families, anger is permitted to the father and tears to the mother, and
+neither is permitted to the child. The therapist who mirrors the family's permissions will reproduce them. Ask the
+silent member what they would say if they were allowed to be angry.
+
+**Whose account is believed.** Where two members give incompatible accounts, the therapist's attention will drift
+towards the more articulate, the more distressed or the more culturally familiar. Record both accounts, and say
+aloud that there are two.
+
+**Who is the expert.** The professional's authority is real and should be used, not denied. The question is whether
+it is used to deliver a verdict or to structure a process in which the family's knowledge can operate. The
+difference is visible in the sentence "I think we should try X" versus "what would make X possible in your house?"
+
+> **AUDIT** — Record fifteen minutes of a role-played session. Count: how many questions were addressed to each
+> member, how many times each member was interrupted, and whose words the therapist repeated. The pattern will not
+> be random, and it will tell you more about your own cultural positioning than any reading.
 
 **Four practical disciplines.**
 
-1. **Ask rather than assume.** "In your family, who usually makes the big decisions? Who is consulted?
-   Is that how you want it to be?"
-2. **Locate yourself.** Complete the same cultural genogram for your own family. Your views on
-   hierarchy, individuation, duty and disclosure are not neutral.
-3. **Notice the power in the room** — including yours. The family may be polite because of your status,
-   not because they agree.
-4. **Interrogate "normal".** Models that prize individuation can pathologise families who prize
-   interdependence. Ask what the family's own picture of a good life is.
+1. **Ask rather than assume.** "In your family, who usually makes the big decisions? Who is consulted? Is that how
+   you want it to be?"
+2. **Locate yourself.** Complete the same cultural genogram for your own family. Your views on hierarchy,
+   individuation, duty and disclosure are not neutral.
+3. **Notice the power in the room** — including yours. The family may be polite because of your status, not because
+   they agree.
+4. **Interrogate "normal".** Models that prize individuation can pathologise families who prize interdependence. Ask
+   what the family's own picture of a good life is.
 
-**Language.** If the family thinks in their first language about emotional matters, the session may need
-that language or an interpreter. Interpreters are not furniture: brief them, seat them beside you, ask
-them to interpret speech not summaries, and never ask them to translate a disclosure you have not
-prepared for.
+The four are the minimum standard for this week, and they are easy to agree with and hard to practise: each requires
+the therapist to be uncertain in public, and professional training rewards the opposite.
 
-**Religion and spirituality.** In much of the world, faith is not an "aspect" of family life; it is the
-organising frame. Ask what the family's faith says about the problem, who in the religious community
-knows, and whether they want that person involved. Do not compete with the pastor or imam; coordinate.
+### 10.5a Structural competency: when the problem is the institution
 
-> **CASE** — A couple is referred after the wife disclosed to her pastor that her husband has been
-> violent twice. She does not want the police involved and does not want her family told. The therapist
-> must hold three things at once: respect for her autonomy and faith, a safety plan that does not depend
-> on him changing, and honesty about the limits of confidentiality. (Full treatment in MFT 712 and 724.)
+"Culturally sensitive" practice has a blind spot: it locates difference in the family and neglects the institutions
+that are shaping the family's problem. Structural competency is the discipline of noticing the second.
 
-> **REFLECT** — Where in your own family would a therapist from a different culture misread the
-> structure? Write 300 words on what they would get wrong and why.
+**What it means.** The capacity to recognise how housing, employment, immigration status, school admissions,
+policing, benefit rules and waiting lists produce the presentations that arrive in the clinic — and to act on that
+recognition rather than translating it into psychology.
+
+**Three questions that reveal structure in an ordinary session.**
+
+> "What would have to change *outside* this family for this to get better?"
+> "Which of the things you have told me are decided by somebody else?"
+> "When you have asked for help before, what happened?"
+
+The answers are frequently decisive. A family whose evenings are unmanageable because four people share two rooms is
+not a family with a boundary problem. A father who is absent because his leave is refused is not disengaged. A
+mother who misses appointments because the clinic bus runs twice a day is not resistant.
+
+**The clinical consequence.** Where the problem is structural, the intervention should include an institutional
+move: a letter, a telephone call, an advocate, a benefits check, a referral to a housing service, a school meeting.
+This is not social work instead of therapy; it is therapy that has formulated accurately. And it is often what the
+family experiences as most respectful, because it treats their account as true.
+
+**The limits.** The therapist cannot fix a housing system, and promising to do so is a way of failing the family
+twice. The professional move is to be precise about what can be changed, honest about what cannot, and explicit in
+the formulation: "We cannot change the accommodation in the next three months. We can change how the evenings are
+organised within it, and I will write to the housing office with your consent."
+
+### 10.6 Worked case: when duty and desire collide
+
+A case that requires culture, class and power to be formulated together.
+
+**The referral.** A 21-year-old woman, Tolu, brought by her parents to a family clinic. The parents' complaint: "she
+has refused the man we chose for her, and she wants to marry a boy from another tribe whom she met at university."
+Tolu's complaint, offered when asked directly: "they are selling me." The parents are Yoruba, from a modest
+household in Ibadan; the father is a retired teacher, the mother a trader. Tolu is the eldest of four and the first
+to attend university; the family has paid her fees with contributions from two uncles. The proposed husband is
+Ibo, a fellow student whose family the parents have never met.
+
+**What a culturalist reading would produce.** "Arranged marriage is normative; the daughter's refusal is an
+acculturation conflict; she should be helped to respect her parents' values." This reading is respectful in tone and
+useless in practice: it takes the parents' description of the custom as the whole truth, ignores the daughter, and
+assumes a homogeneity that the family itself does not have.
+
+**What a power-blind reading would produce.** "Forced marriage is a human rights violation; the daughter must be
+supported to leave." This reading is ethically serious and clinically naive: it treats a contested family process as
+a crime already committed, forecloses the parents' real authority and affection, and hands the family a choice
+between therapy and their standing.
+
+**The formulation that makes work possible.** Tolu's refusal is not a rejection of the family but a disagreement
+about a decision the parents experience as theirs by right. The parents' position is not coercion in their own
+understanding: it is duty, it is protection (they believe a chosen husband from a known family is safer than a
+stranger), and it is standing (a marriage into a family they do not know is a public statement about their
+competence as parents). The uncles' contribution to Tolu's fees is a live obligation that nobody has named. The
+mother has reservations that she has not said in front of the father. Tolu has not explained what she wants,
+because she expects to be told she is ungrateful.
+
+**What the therapist does, in order.**
+
+*First, hears all three accounts separately and without adjudicating.* The parents, the daughter, and — critically —
+the mother alone. In the individual conversation the mother says that she was herself married to a man she had met
+twice, and that she has never said this to her daughters.
+
+*Second, names the difference between duty and coercion, in language that does not accuse.* "Your parents are
+telling me what they owe you and what you owe them. You are telling me what you want. At the moment nobody in this
+room is talking about the same thing. Let us start with what each of you is protecting."
+
+*Third, refuses the false choice.* The therapist says directly that she will not help to force a marriage and will
+not help a daughter to leave her family. Both statements are made to everyone. This is the ethical floor, and it is
+also strategically effective, because it makes the parents' continued attendance a choice rather than a defeat.
+
+*Fourth, finds the negotiable territory.* Three things emerge: the parents' real concern is that the suitor's family
+is unknown, not that he is from another tribe; the uncles' obligation can be addressed by repayment over time;
+Tolu is willing to delay any marriage for a year and to have the suitor's family visit.
+
+*Fifth, sets a task that keeps everyone in the room.* A meeting between the two families, facilitated by the
+therapist, with the father's consent and the mother's support; an agreement that no marriage will be arranged during
+the year; a plan for Tolu's fees.
+
+**What made it work, in system terms.** The therapist took culture seriously without treating it as a law; she
+located the parents' position in duty and standing as well as in custom; she brought in the uncles' obligation, which
+was material and unspoken; she found the mother's private dissent, which changed the family's internal balance; and
+she made the ethical limit explicit in a way that did not require anybody to be humiliated.
+
+**Where it could have failed.** Had the parents been planning a marriage against Tolu's will within weeks, the plan
+would have required safeguarding and possibly legal advice, and the therapeutic timeline would have had to give way.
+Had Tolu's suitor been violent, the same. Culture is a legitimate frame for understanding, and it is never a reason
+to leave someone unsafe.
+
+### 10.7 Annotated transcript: naming a cultural assumption in the room
+
+An eight-turn excerpt from the Tolu case, session two, with both parents and Tolu present.
+
+> **T1 Father:** In our culture a child does not choose. We chose for her because we know the family. She is bringing
+> shame.
+> **T2 Therapist:** When you say our culture, you mean the way it was done for you as well?
+> **T3 Father:** Yes. I did not choose my wife. We have been married thirty-one years.
+> **T4 Therapist:** Thirty-one years. And it worked.
+> **T5 Father:** It worked.
+> **T6 Therapist:** I want to understand what "worked" means for you, because I think that is the part your daughter
+> has not heard.
+> **T7 Father:** (pause) It means we did not divorce. It means my children grew up in one house with two parents. It
+> means people respect us.
+> **T8 Therapist:** (to Tolu) Did you know that was what he meant?
+
+**Annotations.** *T2* is the central move of the segment: it converts "our culture" from a general law into one
+man's biography, without contradicting him. The father's answer at *T3* gives the therapist the material that
+matters — thirty-one years — and it is offered proudly, which means the therapist can work with it.
+
+*T4* is a simple acknowledgement, and it is doing something specific: it treats the father's marriage as a success
+rather than an arrangement to be critiqued. Trainees often cannot bring themselves to say this, because they
+disagree with the practice. Saying it costs nothing and buys the right to ask the next question.
+
+*T6* names a gap in the family's conversation rather than a gap in the father's reasoning. The phrase "the part your
+daughter has not heard" is addressed to the relationship, not to the father's position, and it is true: Tolu had
+never heard her father say what a marriage was for.
+
+*T7* is the father's own account of what he is protecting, in three clauses: continuity, respectability, and the
+avoidance of divorce. Any of these can be worked with. "Because it is our culture" cannot.
+
+*T8* turns to the person who has been spoken about rather than to, and it asks a question whose answer the therapist
+genuinely does not know. When Tolu said "no", the session changed course: she had not known, and the knowledge made
+her father's position human without making it right.
+
+**What the therapist avoided.** She did not ask the father whether he had loved his wife; that question would have
+been intrusive and would have converted a cultural negotiation into a romantic one. She did not point out the
+inconsistency between "we respect our elders" and the uncles' money. And she did not tell Tolu that her father's
+position had merit in front of him, which would have made Tolu feel abandoned by the therapist; she said it to Tolu
+later, alone.
+
+### 10.7a Working with a community or religious co-worker
+
+Many families are best served by a therapist working alongside somebody from their own community: a pastor, an
+imam, a community health worker, a respected elder, a cultural broker. The arrangement is powerful and requires care.
+
+**What the co-worker brings.** Trust, language, moral authority, knowledge of the family's standing, access to
+networks of practical support, and the ability to say things the therapist cannot say and be heard.
+
+**What the therapist brings.** Confidentiality, a formulation, a method, the capacity to hold a boundary with an
+institution, and the professional accountability that the co-worker does not have.
+
+**Five conditions for the partnership to work.**
+
+1. **A written, shared understanding of confidentiality.** Who will know what, and what will not be repeated. This
+   is the condition most often skipped and most often fatal.
+2. **Clarity about roles in the room.** Who leads, who sits where, who speaks to whom. Families read these
+   arrangements instantly, and a muddled arrangement undermines both authorities.
+3. **Agreement on the safety floor.** The co-worker must know, before the first session, what the therapist is
+   obliged to do if a child or a partner is unsafe, and must not contradict it in front of the family.
+4. **A way to disagree privately.** The therapist and the co-worker will disagree — about a marriage, a discipline,
+   a disclosure — and the disagreement must have a place to go that is not the session.
+5. **A review.** Partnerships drift; a fifteen-minute review every four sessions catches the drift before the family
+   does.
+
+**The risk to name.** A co-worker who is a member of the same congregation or community cannot offer the family the
+confidentiality that a clinic can, and a family may prefer the clinic for exactly that reason. The therapist should
+not assume that community embedding is always preferable; ask the family which they want, and record the answer.
+
+### 10.8 Faith as the organising frame
+
+In much of the world, faith is not an "aspect" of family life; it is the frame in which family life is understood.
+Four practices for working with it well.
+
+**Ask what the faith says about the problem.** Not in general, but in this family's version: is the difficulty a
+test, a punishment, a spiritual attack, a consequence of disobedience, or an opportunity? The answer determines what
+treatment the family has already tried and what they will accept from you.
+
+**Ask who in the religious community knows, and who they want involved.** A pastor or imam may be the family's most
+trusted authority, and may be entirely unaware of the difficulty, or may be deeply involved. Both are workable; not
+knowing is not.
+
+**Coordinate rather than compete.** The failure mode is the therapist who implies that prayer is a substitute for
+change, or the religious leader who implies that therapy is a substitute for faith. The working position is
+complementary: "I will work on what happens in your house between Monday and Saturday; your pastor will do what he
+does; we will not contradict each other, and if we do, we will talk."
+
+**Attend to the cost of disclosure.** A family that is prominent in a congregation may experience the difficulty as
+a threat to standing, and may therefore present late, minimise, or refuse a diagnosis. The formulation should record
+this, and the plan should protect the family's standing where doing so is compatible with safety.
+
+> **CASE** — A couple is referred after the wife disclosed to her pastor that her husband has been violent twice.
+> She does not want the police involved and does not want her family told. The therapist must hold three things at
+> once: respect for her autonomy and faith, a safety plan that does not depend on him changing, and honesty about the
+> limits of confidentiality. (Full treatment in MFT 712 and 724.)
+
+**The principles, stated once.** The woman's safety is not negotiable; her choices about disclosure are hers unless
+a child is at risk; the pastor's involvement is a resource if he is willing to be bound by the same safety
+principles; and the therapist's honesty about the limits of confidentiality is required before, not after, the
+disclosure.
+
+### 10.9 Discrimination, tribe and the family's experience of institutions
+
+Families arrive with a history of how institutions have treated people like them, and that history is part of the
+clinical picture.
+
+**Ask about it, briefly and directly.** "Has anything like this happened before, with a school or a clinic? How was
+it for you?" The answers often explain a presentation that looks like hostility or withholding: a father who is
+curt with a professional may be managing a lifetime of being treated as a suspect.
+
+**Name what you notice, without claiming authority over it.** If a family describes being treated badly because of
+their ethnicity, tribe, religion, accent or class, the therapist's job is to believe the account as an account, to
+explore its consequences, and not to adjudicate its accuracy. "That sounds as though it happened more than once" is
+more useful than "are you sure that was the reason?"
+
+**Watch your own reactions.** Discomfort, over-compensation, curiosity about difference, and the wish to be seen as
+an ally are all common and all visible to families. The therapist who works harder with a family because of their
+background is treating them differently, which is the problem in a different form.
+
+**Do not make the family responsible for educating you.** Questions about culture are legitimate; a session spent
+interviewing a family about their traditions is an extraction. Use supervision and reading for general knowledge,
+and the session for this family.
+
+**Tribal and religious difference inside the family.** In Nigeria, as elsewhere, the sharpest cultural conflicts are
+often internal: a marriage across ethnic lines, a conversion, a chieftaincy dispute, a family divided between
+denominations. The formulation should locate the conflict precisely, because "culture" as a single word conceals
+which culture, whose version, and against whom.
+
+### 10.10 Language, naming and address
+
+Language is the most immediate marker of power in a session, and it is where trainees make the most avoidable
+mistakes.
+
+**Names.** Ask how each person wishes to be addressed, and use it. "Mrs Okonkwo" and "Chidi" and "Mummy" carry
+different relationships, and the therapist's choice will be read as a claim about the relationship. Where a family
+uses kin terms — "Aunty", "Baba", "Mummy" — for people who are not kin, follow the family's usage rather than
+correcting it; those terms are the map of obligation.
+
+**Address and formality.** In many families the therapist's use of a first name for a father is a small
+presumption that will be noticed and not mentioned. Offer the choice: "I am happy to be called by my first name; what
+would you prefer?" The offer itself signals that the therapist knows the difference exists.
+
+**Whose language the session is conducted in.** If the family thinks in their first language about emotional
+matters, the session may need that language or an interpreter. Interpreters are not furniture: brief them, seat them
+beside you rather than between you and the family, ask them to interpret speech rather than summaries, and never ask
+them to translate a disclosure you have not prepared for. (The discipline is set out in Week 9; the cultural point
+here is that language choice is itself an intervention — a family asked to speak about grief in a second language
+may be protected from the feeling, or prevented from reaching it.)
+
+**Proverbs, idioms and images.** Many families speak in proverbs, and a proverb is a compressed theory of the
+problem. "A house that is not swept inside will be swept by the wind" is a statement about privacy, shame and
+outside interference. Ask what the proverb means, and use it later in the work; a formulation that can be expressed
+in the family's proverb is a formulation the family will remember.
+
+**Silence and indirectness.** Some families regard direct questions about feelings, marriage or money as rude, and
+some regard indirectness as evasion. The therapist's task is to match the family's register while still obtaining
+the information, which usually means asking the question in a form that protects face: "Many families find this
+difficult to talk about; is it like that for you?" is a direct question with a face-saving first clause.
+
+### 10.11 Gender, hierarchy and the limits of cultural respect
+
+This is the hardest section of the week, and the one on which students most often look for a rule that does not
+exist.
+
+**The principle.** Culture is a legitimate frame for understanding a family, and it is never a justification for
+harm. The professional's obligations are set by law and by the code of conduct, not by the family's account of
+custom. Where the two conflict, the obligation wins, and the task becomes how to act on the obligation while
+preserving as much of the family's dignity and engagement as possible.
+
+**Where the tension appears.** Physical chastisement of children; child marriage; female genital cutting; a wife's
+economic dependence and her lack of authority over her own movement; the discipline of a daughter by senior
+relatives; the treatment of a child believed to be a witch; the refusal of medical treatment in favour of prayer;
+the concealment of a relative's mental illness to protect the family's standing.
+
+**What to do, in order.**
+
+*First, know the law and the guidance in your jurisdiction, precisely.* Not approximately. The therapist who
+believes wrongly that a practice is "cultural and therefore permitted" is a liability, and the therapist who reports
+without knowing the threshold is also a liability. This is examinable knowledge, and it belongs in supervision.
+
+*Second, distinguish the practice from the family's meaning.* Most parents who hit their children are not cruel; they
+are frightened, unsupported, and following a model that was used on them. Naming the meaning does not excuse the
+practice; it makes the practice changeable.
+
+*Third, be transparent before acting.* Where a report or a referral is required, say so, in advance, in plain
+language, and say what you are going to do and what will happen next. Families forgive a professional who told them
+the truth and acted on it; they do not forgive being reported in secret.
+
+*Fourth, do not abandon the family after the referral.* The referral is one move in the work, not the end of it.
+Where it is legally possible, continue to see the family, and make the continuation conditional on the practice
+changing.
+
+*Fifth, get support.* These cases are the ones that produce moral injury in clinicians. Take them to supervision,
+and do not carry them alone.
+
+> **CAUTION** — Do not use "we must respect the culture" as a way of managing your own discomfort about acting. A
+> therapist who leaves a child in a harmful situation because intervention felt culturally intrusive has not been
+> culturally sensitive; they have been silent.
+
+**And the mirror image.** Do not use safeguarding as a way of avoiding cultural understanding: the family that is
+reported within twenty minutes of the first appointment, without the therapist having asked what the practice means,
+how the family understands it, or what alternatives exist, has been failed twice.
+
+### 10.11a Worked decision: a discipline case at the threshold
+
+The abstract principle becomes concrete in the case that trainees most often get wrong.
+
+**The presentation.** A couple attends about their 11-year-old son's behaviour at school. In the second session the
+mother mentions, without emphasis, that the father "flogs him when he is rude, the way we were flogged", and that
+the school has noticed marks on his legs. The father is calm, affectionate towards the boy, and puzzled by the
+referral: "In this house we correct our children. That is not abuse."
+
+**What the therapist knows.** Corporal punishment is lawful in some jurisdictions and unlawful in others, and the
+school has a safeguarding duty that will be exercised whether or not the therapist acts. The therapist's own code of
+conduct requires that a child's welfare is paramount, and that concerns are reported where the threshold in local
+guidance is met. The father's account is congruent with his own upbringing and with the practice of most families in
+his community. The mother is worried but loyal, and has said more than she intended to.
+
+**The wrong moves.** *The cultural deferral:* "This is how the family does things; I will explore the meaning." This
+ignores the marks, the school's duty, and the law. *The immediate report without conversation:* defensible in some
+jurisdictions where the threshold is met by marks, but undertaken without telling the family, which ends the
+therapy and teaches the family to conceal. *The psychological translation:* treating the flogging as an expression of
+the father's own childhood and offering insight, while the child remains at risk this week.
+
+**The sequence that is both lawful and clinically sound.**
+
+*One: screen and document, factually.* What happens, with what, how often, what marks, when last. In the child's
+presence where appropriate, and separately where not. Record what was said, not what it means.
+
+*Two: state the position plainly, to both parents, in the first conversation.* "I have to tell you two things. The
+marks on your son's legs mean I have to act under the safeguarding rules; I am going to speak to the school and to
+the safeguarding lead today, and I will tell you exactly what I say. And I want to keep working with you, because
+what happens in your house on a Tuesday evening is something we can change together."
+
+*Three: act, and tell the family what was said.* Transparency before action, and a report that is factual and
+non-prosecutorial in tone, is both lawful and more likely to preserve the engagement.
+
+*Four: offer the alternative now, not later.* Most parents who use corporal punishment do so because they have no
+second method that they believe in. Give one: a specific, culturally acceptable alternative to the specific incident
+— the removal of a privilege, a written rule agreed with the child, a cooling-off routine, the involvement of a
+respected relative — and rehearse it in the session.
+
+*Five: remain the family's therapist where it is possible.* The family that is reported and then abandoned learns
+that services punish and disappear. The family that is reported, told the truth, and then helped to change learns
+something more useful, and so does the child.
+
+**The professional's own support.** Cases at the threshold generate anxiety, and anxiety generates either
+over-reporting or avoidance, and both are failures of the same kind: the therapist's discomfort has replaced the
+child's welfare as the organising concern. Take the decision to supervision before acting where there is time, and record the
+advice received. The decision is the therapist's, and so is the accountability; being able to show the reasoning, the advice
+taken and the family's own account of what was said is the difference between a defensible decision and an
+unexplained one.
+
+**The generalisation.** Almost every cultural conflict in clinical work has this shape: a practice the family
+understands as care, a professional obligation, a child or partner who is not in a position to consent, and a
+therapist who must act without humiliating the people they are trying to help. There is no formula, but there is a
+sequence, and the sequence is: know the threshold, document the facts, tell the family the truth, act, stay.
+
+### 10.12 Migration and the acculturation gap
+
+Migration produces a predictable family dynamic, and it is worth teaching explicitly because it appears in the
+referral as "conflict between parents and adolescent".
+
+**The gap.** Parents and children acculturate at different rates. Children acquire the new culture quickly, through
+school and peers, and often become the family's interpreter, negotiator and public face. Parents acquire it slowly,
+and often deliberately preserve the values of home as an act of continuity and self-respect. The result is a family
+in which the adolescent knows the new rules better than the parents and is still expected to obey the old ones.
+
+**The pattern in the clinic.** The young person is referred (or brought) for defiance, low mood, self-harm or
+school refusal. The parents describe a child who has "become different". The young person describes parents who "do
+not understand anything". The therapist who takes either side loses the other, and the family's actual difficulty —
+that the rules are being negotiated in a household where the two generations have different maps — remains
+unformulated.
+
+**What helps.**
+
+*Make the gap the client.* "In this house there are two sets of rules, and nobody has decided which applies to what.
+That is not a failure in any of you; it is what happens when a family moves." Externalising the conflict this way
+converts a contest about loyalty into a shared problem, which is the only version that a family can solve.
+
+*Separate the domain from the value.* Parents are usually willing to negotiate domains — bedtime, dress, money,
+going out — while defending values — respect, chastity, family duty, education. The therapist's task is to find the
+domain trade: what the young person may decide, and what remains a family matter. Negotiating values directly
+usually fails, because it looks like asking the parents to stop being who they are.
+
+*Address the parent's own loss.* Migration involves losses that are rarely named: status, language competence,
+friendship networks, the extended family that would have shared the parenting. Parents who are grieving a lost
+world are less flexible than parents who are not, and the grief is workable when it is named.
+
+*Attend to the children left behind and the children who came later.* Sibling groups that were separated by
+migration have their own history: the child who was raised by a grandmother and rejoined the family at eleven has a
+different relationship to the parents than the sibling born after migration. This is often the buried structure of
+the presenting problem, and the genogram of Week 8 shows it in ninety seconds.
+
+### 10.12a Two migration cases, worked briefly
+
+**Case 1 — the reunited family.** Parents migrated when their son was two; he was raised by his grandmother and
+joined them at fifteen. The referral is "defiance and stealing". The formulation is not delinquency: it is a family
+in which the person who raised the child is absent, the parents are strangers with authority, and the child has lost
+his language, his school standing and the grandmother in a single move. The intervention begins with the boy's
+account of the grandmother, a telephone arrangement that keeps her in his life, an explicit negotiation of what
+these two adults are entitled to ask of him and how quickly, and a plan with the school for the first term. The
+stealing, it emerges, began when he had no money and did not know how to ask.
+
+**Case 2 — the second generation.** A 17-year-old girl, born in the city to parents who migrated before her birth,
+referred for self-harm after her parents discovered a relationship. The parents' account is of a daughter who has
+betrayed the family; the daughter's is of a family that watches her. The formulation holds both: the parents are
+protecting a daughter's honour in a community where the family's standing is their children's reputation, and the
+daughter is managing two sets of rules with no adult who can help her hold both. The intervention includes separate
+sessions, a negotiated agreement about what the parents need to know and what they do not, a risk plan, and — where
+it can be found — a trusted adult from the family's own community who can hold the parents' anxiety without
+endorsing surveillance.
+
+**What the two cases have in common.** In both, the "culture" is only half the story; the other half is the
+practical conditions of migration — housing, school, work, money, status — and the family's grief for a world it has
+lost. A formulation that names only values will miss the conditions, and a plan that addresses only conditions will
+miss the values.
+
+### 10.13 Evidence note: does cultural adaptation improve outcomes?
+
+A short and useful evidence note, because "culturally adapted" is a phrase used loosely.
+
+**What the research shows.** Meta-analyses of culturally adapted interventions — mostly in individual therapy for
+adults — find modest but consistent benefits of adaptation over unadapted interventions, with larger effects where
+the adaptation is deep (engaging the client's cultural values and world view) rather than superficial (translating
+materials and matching the therapist's ethnicity). The strongest evidence is for language matching and for
+adaptations that address engagement and retention rather than for adaptations of specific techniques.
+
+**What is not established.** That matching therapist and family ethnicity improves outcomes by itself; the evidence
+is mixed, and the mechanism appears to be the family's expectation of being understood rather than the match itself.
+Nor is it established that an unadapted, evidence-based model fails with families from other cultures; the more
+common finding is that it works less well, for reasons largely to do with engagement.
+
+**What this means for practice.** Adapt the *engagement* deliberately — language, explanation, who is in the room,
+where the sessions happen, how the family's authority structure is respected — and adapt the *content* cautiously,
+because a technique that has been changed beyond recognition is no longer the intervention that was tested. Where you
+adapt substantially, say so in the record and in supervision, and monitor the outcome.
+
+**The professional's obligation.** Families from minority or marginalised groups are more likely to receive poorer
+care, to be diagnosed later, to be offered less evidence-based treatment, and to disengage early. This is a
+documented pattern across health systems, and the therapist's response to it is not guilt but method: measure
+outcomes, attend to engagement, and use supervision to examine the ways in which the service is failing this family.
+
+### 10.14 Six errors
+
+1. **The cultural shortcut.** Explaining the family's behaviour by their background before hearing their account.
+   Fix: ask first, and use culture to generate questions rather than to close them.
+2. **The neutral therapist.** Refusing to notice difference, and thereby obliging the family to accommodate the
+   therapist's comfort. Fix: name difference when it is relevant, briefly and without ceremony.
+3. **The extraction session.** A session spent asking the family to educate the therapist about their traditions.
+   Fix: general knowledge from reading and supervision; the session for this family's particulars.
+4. **The cultural defence of harm.** Deferring to custom where a child or a partner is unsafe. Fix: know the law,
+   name the concern, act transparently, and stay involved.
+5. **The over-adaptation.** Rewriting an evidence-based model until it no longer resembles the intervention that was
+   tested, and calling the result culturally sensitive. Fix: adapt engagement deliberately; keep the mechanism; record
+   and monitor what you changed.
+6. **The forgotten class.** Formulating the family's difficulty in relational terms when the difficulty is money,
+   housing, immigration status or work. Fix: ask about the material conditions first, and let the family tell you
+   which domain the problem belongs to.
+
+### 10.15 Key terms
+
+| Term | Definition |
+|---|---|
+| Culturalism | Treating culture as a set of rules that predict individual families |
+| Colour-blindness | Refusing to notice cultural, ethnic or class difference and its effects |
+| Cultural genogram | A genogram annotated with language, religion, migration, education, class, duty and stigma |
+| Acculturation gap | The difference in rate of cultural adaptation between parents and children |
+| Interpreter (professional) | A trained interpreter bound by confidentiality, distinct from a family member or broker |
+| Cultural broker | A person who mediates between a family and an institution, often informally |
+| Face-saving question | A question phrased so that the answer does not require the respondent to lose standing |
+| Microaggression | A brief, commonplace exchange that communicates a demeaning message to a marginalised person |
+| Structural competency | The capacity to recognise how institutions and material conditions shape clinical presentations |
+| Cultural adaptation | The systematic modification of an intervention's engagement or content for a cultural group |
+
+### 10.16 Self-test
+
+1. Name the three mistakes described in this week and give an example of each.
+2. What are the seven dimensions of a cultural genogram?
+3. Give three mechanisms by which class shapes what a family presents.
+4. Name three sites of power in a therapy session.
+5. What is the professional's position when a family's custom conflicts with the law?
+6. What does the evidence say about therapist–client ethnic matching?
+7. What is the acculturation gap, and why does it matter clinically?
+8. What are two ways a therapist can adapt engagement without distorting the model?
+
+**Answers.** 1. Culturalism ("Nigerian families are hierarchical"), colour-blindness ("I do not see race"), and
+essentialism about the family's own account ("in our culture a wife does not contradict her husband"). 2. Migration
+history; languages; religion and religious change; education; occupation and class; duty and individuation; stigma
+and disclosure. 3. Scarcity shapes the presenting complaint; attendance is affected by cost and shifts; time is not
+equally available, so homework and evening conversations may be impossible. 4. Who defines the problem; who is
+interpreted or spoken about; whose emotions are permitted; whose account is believed; who is treated as the expert.
+5. The legal and professional obligation prevails; act transparently, tell the family in advance what you are doing,
+and remain involved where possible. 6. The evidence for matching alone is mixed; the apparent mechanism is the
+expectation of being understood, and language matching has stronger support. 7. Parents and children adapt to a new
+culture at different rates, producing a family in which the young person knows the new rules better than the parents
+while still being expected to obey the old ones; it is a common source of presentations labelled defiance. 8.
+Matching language and explanation; changing who is in the room and where sessions happen; adjusting the framing to the
+family's values — while keeping the mechanism of the intervention intact.
+
+### 10.17 Reflective task
+
+Where in your own family would a therapist from a different culture misread the structure? Write 300 words on what
+they would get wrong and why. Then write 100 words on what you would want them to ask you, and in what form. Bring
+both to the seminar; the second paragraph is usually the more useful one, because it is the question you will need
+to ask a family that is not yours, and in the form in which you would want to be asked it yourself, by somebody who had time to listen to the answer.
+
+### 10.18 Readings for this week
+
+* **McGoldrick, Giordano & Garcia-Preto (2005)**, *Ethnicity and Family Therapy*, 3rd edition — read one chapter on a
+  group you work with, and one on a group you do not, to see the difference between description and stereotype.
+* **Hays (2016)**, *Addressing Cultural Complexities in Practice*, for the ADDRESSING framework and its clinical use.
+* **Falicov (2014)**, *Latino Families in Therapy* — the best single account of a culturally grounded family therapy
+  method, useful well beyond its stated population.
+* **Boyd-Franklin (2003)**, *Black Families in Therapy*, for the integration of race, class and clinical method.
+* **Griner & Smith (2006)** and later meta-analyses of cultural adaptation, read for the size and character of the
+  effect.
+* **Your national code of conduct and safeguarding guidance**, read this week rather than next, because this is the
+  week in which the conflicts become concrete. Mark the three paragraphs you would have to quote aloud to a family,
+  and practise saying them.
+
+*Next: [Week 11 — What the evidence says](#week-11--what-the-evidence-says)*
 
 ---
-
 ## Week 11 — What the evidence says
 
 Students often arrive believing either that therapy "just works" or that only manualised treatments do.
