@@ -7784,24 +7784,727 @@ to keep the room.
 
 ---
 
-## Week 12 — Later life
+## Week 12 — Later life: integrity, loss and caregiving
 
-**Tasks.** Integrity versus despair; adaptation to retirement; bereavement; caregiving; grandparenthood;
-legacy and meaning.
+**Developmental tasks.** Integrity versus despair (Erikson, from about sixty): the consolidation of a life
+into something that can be told as a whole, or the conviction that it did not add up. Adaptation to
+retirement, which is a role loss before it is a financial one. Bereavement, which at this stage arrives
+repeatedly and in sequence. Caregiving, which reverses the generational direction. Grandparenthood, which is
+the longest single role in most people's lives and the least theorised. And legacy — what is handed on, and
+to whom.
 
-**Clinical realities.** Cognitive change must be distinguished from delirium, depression and dementia;
-hearing loss is a major and under-treated contributor to isolation and apparent confusion. Caregiving
-burden falls disproportionately on women and on the "responsible" child, and it frequently reopens old
-sibling hierarchies.
+**Clinical realities.** Cognitive change must be distinguished from delirium, depression and dementia, and
+from hearing loss — which is a major and under-treated contributor to isolation and apparent confusion. In
+this age band more mistaken diagnoses are made by omission of a hearing test than by any other single
+error. Caregiving burden falls disproportionately on women and on the "responsible" child, and it
+frequently reopens sibling hierarchies that were settled forty years ago.
 
 **Grief.** Use the dual-process model (Figure 22, MFT 712): healthy grieving oscillates between
-loss-oriented and restoration-oriented activity. In many cultures, mourning is collective and prescribed;
-the clinician's task is to support the rites rather than to impose a private model of "working through".
+loss-oriented and restoration-oriented activity, and the oscillation is the mechanism, not a sign of
+avoidance. In many cultures, mourning is collective and prescribed; the clinician's task is to support the
+rites rather than to impose a private model of "working through". A widow who is surrounded by prescribed
+mourning for forty days and then alone is not in a pathological grief; she is in a transition that the rites
+mark and the culture does not follow through.
+
+**Why this week is difficult to teach.** Because it concerns the end of the story, and because students
+carry their own grandparents into the room. The week is also the most practically useful in the second half
+of the course: families with an ageing parent make up a large share of the referrals a family therapist
+receives, and the work is concrete — a rota, a hearing test, a family meeting — rather than interpretive.
 
 > **CASE** — Three siblings disagree about their mother's care. The eldest, a daughter, has done
-> everything; the youngest, a son abroad, sends money and criticises. The clinical task is not to decide
-> who is right but to make the *loyalty ledger* explicit: who owes what, to whom, and by what accounting?
-> (This is contextual therapy's territory; see MFT 702 and 715.)
+> everything — the medical appointments, the money, the telephone calls — from another city. The son with
+> whom the mother lives has a wife who does the daily work and who has not been consulted. The youngest
+> son lives twenty minutes away and visits twice a year. The referral comes from the daughter-in-law, and
+> she is the only person in the family who is not related to the patient.
+
+### 12.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The last stage | Why integrity is a task and not a mood | Name one older person whose life they would call "integrated", and say why |
+| 8–20 | Retirement | The role loss, the two sexes' different experiences, and the somatic presentation | Predict the presentation for three retirees |
+| 20–34 | The cognitive differential | Delirium, depression, dementia, hearing — the four-way table, worked | Sort eight observations into the four categories |
+| 34–46 | Caregiving | Burden, the "responsible child", and the reopening of sibling hierarchies | Map a caregiving network and its unstated contract |
+| 46–58 | Grief | The dual-process model, and why oscillation is health | Classify six bereavement behaviours |
+| 58–70 | The family meeting | Structure, roles, and the one thing that must be decided | Run a five-minute family meeting in role |
+| 70–82 | Grandparenthood and legacy | What is handed on, and to whom, in households with distributed care | Interview a peer about what they received |
+| 82–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Students arrive with a sentimental model of old age —
+wisdom, grandchildren, a rocking chair — or a medical model — decline, burden, placement. Both are ways of
+not asking. The lecture's job is to install a *practical* attitude: what does this person need, who is
+providing it, who is not being consulted, and what would have to change this week? The demonstration is the
+caregiving network map, drawn in five minutes on the board, because it makes visible in one diagram the
+eleven people who are involved and the one who is doing the work.
+
+**The sentence the lecture must land.** "The question in later life is almost never 'what does this person
+need?' — everybody knows that. It is 'who is going to do it, and who has been deciding without them?'"
+
+### 12.2 Five concepts that organise the week
+
+**1. Integrity versus despair.** Integrity is the capacity to hold one's life as a whole — including its
+failures — and to accept it as having been worth living. It is not contentment and it is not wisdom. It is
+an *achievement of narrative*, and it is made possible or impossible by the audience available. A
+seventy-eight-year-old with grandchildren who ask questions has a different task from one whose
+contemporaries have all died and whose children telephone on Sundays.
+
+The clinical translation: the therapist's task is not to supply meaning but to *elicit* the account. The
+life review (below) is the technique, and the evidence for it is modest but consistent: structured
+reminiscence reduces depressive symptoms in older adults, and its mechanism appears to be the construction
+of coherence rather than the discharge of emotion.
+
+**2. Retirement is a role loss before it is a financial one.** The research finding that matters is that
+the *loss of the work role* predicts distress more strongly than the loss of income, and that the effect is
+largest for men whose identity was occupational and for people whose retirement was involuntary. The
+presentation in a family clinic is usually somatic — fatigue, pain, a "heart" that has been investigated —
+and the question that opens it is "what were you supposed to be doing now?"
+
+**3. Bereavement in later life arrives in sequence.** The distinguishing feature of grief at this stage is
+not intensity but *accumulation*: the death of a spouse is frequently preceded by siblings, friends, and
+sometimes a child. The dual-process model is useful here because it normalises the oscillation — a widow
+who laughs at a funeral and weeps while sorting a wardrobe is not confused; she is moving between
+loss-oriented and restoration-oriented coping, and both are work.
+
+**4. Caregiving is a role with no induction.** The caregiver is usually appointed by proximity, gender, or
+birth order, rarely by negotiation, and the appointment is rarely spoken. The clinical consequences are
+three: the caregiver's exhaustion is invisible because it is expected; the caregiver's resentment is
+unmentionable because it feels like a betrayal; and the person being cared for is frequently not consulted
+at all, which is the dignity injury that the family never notices.
+
+**5. Grandparenthood and legacy.** In households with distributed caregiving, the grandparent is often a
+primary caregiver rather than a visitor, and the role runs in both directions: the grandmother raising
+children while the parents work, and later the adult children caring for the grandmother. The legacy
+question — what is handed on, and to whom — is answered by what the older person is actually asked. A
+grandmother whose only conversations are about medication has no route to give anything, and the giving is
+the developmental task.
+
+### 12.2a The four-way cognitive differential
+
+This table is the most practically important page in the week. In an older person with confusion, four
+conditions account for the great majority of presentations, and three of them are reversible or treatable.
+
+| Feature | Delirium | Depression | Dementia | Hearing loss |
+|---|---|---|---|---|
+| Onset | Hours to days | Weeks to months | Months to years | Gradual, often years |
+| Course | Fluctuates through the day | Persistent, worse in the morning | Progressive, steady | Consistent; worse in noise |
+| Attention | Impaired, wanders | Intact but poorly sustained | Intact early, impaired late | Intact |
+| Mood | Fearful, agitated | Low, hopeless, anhedonic | Variable; may be apathetic | Often withdrawn, embarrassed |
+| Memory | Impaired, patchy | Complains of memory, performs better than complaint | Impaired, especially recent | Appears impaired because of mishearing |
+| Reversibility | Usually, if the cause is treated | Usually | Not currently | Correctable with aids |
+| The question that reveals it | "Was he like this yesterday?" | "When did you last enjoy something?" | "When did you last manage the money on your own?" | "Does he answer better when he can see your face?" |
+
+**The three rules that follow.**
+
+**Rule 1 — Any sudden change in an older person is delirium until proved otherwise, and it is a medical
+emergency.** A urinary tract infection, constipation, dehydration, a new medication, and pain are the
+common causes, and all are treatable. A family that has been told "it is dementia" after a two-day change
+has been told something that may be false and that will organise the next five years.
+
+**Rule 2 — Depression in later life looks like dementia and is more treatable.** The label "pseudodementia"
+is unhelpful; the phenomenon is real. The depressed older person answers "I do not know" to cognitive
+questions, while the person with dementia attempts an answer and gets it wrong. That single observation
+distinguishes them better than any test the therapist can administer.
+
+**Rule 3 — Test the hearing before interpreting the confusion.** The commonest scene in this week's work is
+an older woman described as "difficult" and "not following what is said", who is simply not hearing. The
+therapist's test is free: sit facing her, at her level, in a quiet room, and repeat the same question with
+and without your face visible. A difference between the two conditions is the diagnosis.
+
+### 12.2b Caregiving: the network and the unstated contract
+
+The caregiving network map is drawn in six steps and takes about eight minutes on a whiteboard. It is the
+week's assessment instrument and, in most cases, the intervention as well.
+
+**Step 1 — Put the older person in the centre.** Name, age, and the one sentence that describes what she
+can and cannot do. Not a diagnosis; a function. "She can wash and dress herself. She cannot manage her
+medication, leave the house, or remember what she was told an hour ago."
+
+**Step 2 — Draw everyone who does something, in a ring.** Include the daughter-in-law. Include the
+neighbour who looks in. Include the paid carer, if there is one. The map routinely reveals that the
+"family" doing the care is five people, of whom two are not related.
+
+**Step 3 — Write, next to each name, what they actually do, in hours per week.** The numbers are estimates
+and the estimates are the finding: the person who does forty hours is usually the one who was never asked,
+and the person who does two is usually the one whose opinion carries the most weight.
+
+**Step 4 — Mark who decides.** A different marker, on the same names. The gap between who does the work and
+who makes the decisions is the network's fault line, and it is the source of most of the conflict that
+arrives in the clinic.
+
+**Step 5 — Mark who is not consulted.** The person in the centre is almost always on this list, and so is
+the daughter-in-law. Writing "not consulted" next to the patient's own name is the single most useful
+intervention in the exercise, because it makes visible an omission that no one in the family has noticed.
+
+**Step 6 — Ask the network question.** "If the person doing the most stopped tomorrow, what would happen?"
+The answer is the network's fragility, and it is usually discovered in the same session in which the
+family arrived complaining about something else.
+
+**The unstated contract.** Every caregiving network has one, and it has four clauses: who is responsible;
+what counts as good care; what the carer is entitled to; and what happens if the carer refuses. None of the
+four is ever spoken, and each is a source of conflict when it is breached.
+
+The clinical move is to make the contract speakable without making it an accusation. The four questions:
+"who decided that you would be the one? what would count as doing this well? what are you allowed to have
+for yourself? and what would happen if you said no?" The fourth question is the one that produces tears,
+because most carers have never considered that refusal is an option and have been living as though it is
+not.
+
+**The burden measures, used carefully.** Standardised burden instruments (Zarit, and similar) are useful
+for research and for demonstrating severity to a family that has normalised it. In the room, the two
+questions that do most of the work are: "when did you last sleep through the night?" and "who asks how you
+are?" The second question identifies the carer's isolation more reliably than any scale.
+
+### 12.2c Retirement: the presentation, and what to ask
+
+Retirement is the developmental event most often missed in a family clinic, because it presents as something
+else.
+
+**The four presentations.** A somatic complaint that has been investigated and explained as "nothing
+serious"; a sudden increase in drinking; a man who is under the family's feet and who has begun to manage
+the household in a way that produces marital conflict; and a withdrawal into a chair that the family
+describes as depression. All four are the same role loss in different costumes.
+
+**What has actually been lost.** Not the money, usually. The structure of the day; the colleagues, who were
+the social network; the competence, which was visible and daily; and the audience, which is what an
+occupational identity needs. A man who was the branch manager for eleven years does not miss the money as
+much as he misses being the person whose judgement was sought.
+
+**The four questions.**
+
+1. "What time did you get up before you retired, and what time do you get up now?" The answer is the
+   structure, quantified.
+2. "Who did you talk to every day at work, and who do you talk to every day now?" The answer is the network,
+   quantified.
+3. "What are you good at that nobody asks you about any more?" The answer is the competence, and the
+   question is the first hinge of the intervention.
+4. "What would you have done with the time if you had been allowed to choose, at fifty?" The answer is
+   frequently a lost project, and the lost project is often still available.
+
+**The intervention, in two moves.** Restore a *structure* — a fixed weekly commitment with other people in
+it, which is what the workplace was providing — and restore a *use of competence* — tutoring, a committee, a
+trade association, a church role, coaching, a small business. The evidence on volunteering and structured
+activity in retirement supports the first more strongly than the second; the clinical experience is that
+both are necessary and that neither is achieved by advice.
+
+**The wife's experience.** The retirement literature under-reports the marital consequence: a woman who has
+run a household for thirty years and whose husband is now present in it for all of it. The clinical
+presentation is a couple in their sixties who have "started arguing", which is usually a pair of people
+negotiating territory for the first time since 1994. The intervention is not conflict resolution; it is a
+division of the day, written, in the way that Week 10's division-of-labour audit is written.
+
+### 12.3 The method: the family meeting about an older parent
+
+One session, three to six participants, ninety minutes if possible. The structure below is adapted from
+family meetings in medical settings and is used unchanged in this book.
+
+**Step 1 — Establish who is in the room and who is not, and why.** Name every absent person and the reason.
+Then ask whether anyone wants them present. A meeting that excludes the person who pays, or the person who
+does the daily work, will produce a decision that is reversed within a fortnight.
+
+**Step 2 — Ask each person, in turn, one question: "what is your greatest worry?"** In turn, without
+interruption, and written down verbatim. This single round does more than any other part of the meeting,
+because it converts a group of people who have been arguing about arrangements into a group of people who
+have each stated a fear.
+
+**Step 3 — Put the facts on one page.** What the older person can do; what the medical picture is; what the
+options are; what each costs, in money and in hours. Facts first, feelings second, is the order that
+prevents the meeting from becoming a re-run of a forty-year-old argument.
+
+**Step 4 — Name the unstated contract, out loud.** "It seems that the arrangement has been that Bola
+manages the medical care, Funke does the daily work, and nobody has asked Mama what she wants. Is that
+right?" The family corrects, and the correction is the working formulation.
+
+**Step 5 — Generate four options, not two.** The binary — she stays where she is, or she goes into a home —
+is what has made the argument unwinnable. Four options, written on the page, each with costs. The purpose is
+not to choose in the meeting; it is to demonstrate that there is more than one way for this to go.
+
+**Step 6 — Decide one thing, and only one.** A review date, a rota for one week, a hearing test, a
+conversation with the older person. One decision, made in the room, with a named person and a date.
+
+**Step 7 — Say what happens if it fails.** The fallback, named in advance. Families that have a fallback
+implement the plan; families without one abandon it at the first difficulty and conclude that the meeting
+was pointless.
+
+**The older person's presence.** If she can participate, she participates. The most common and most
+damaging omission in these meetings is the exclusion of the person whose life is being arranged, on the
+grounds that she will be upset or confused. A hearing-impaired woman who is spoken over for ninety minutes
+will be described afterwards as "difficult", and the description will be accurate.
+
+### 12.3a When the siblings disagree
+
+Sibling conflict about an older parent is not usually about the parent. It is usually about a ledger that
+was opened in childhood, and the clinician's task is to keep the present decision from being decided by the
+old ledger — while acknowledging that the ledger is real.
+
+**The four patterns, and the move for each.**
+
+**The responsible child and the absent ones.** One sibling has done everything and is exhausted and
+resentful; the others have done nothing and feel judged. The absent siblings' position is usually defended
+with a practical argument ("I am in Lagos", "I have small children"), which is true and is not the whole
+truth. The move: give the absent siblings a *specific, bounded, non-negotiable* task, and give the
+responsible child a *specific relief*. General appeals to help more produce nothing; "Kunle will take Mama
+to the clinic on the second Saturday of every month" produces a decision.
+
+**The child who is not a child.** A daughter-in-law, a nephew, a foster kin who has done the work and has
+no standing in the family's hierarchy. The move: give them standing explicitly, in the meeting, by having
+the family agree to their participation. A therapist who fails to do this will watch the most competent
+person in the room be overruled by the least involved.
+
+**The sibling who wants placement and the sibling who refuses it.** Usually the difference is about money,
+guilt, or a promise made to the parent. The move: separate the promise from the plan. "What did she ask you
+to do?" is asked of each sibling, and the answers are frequently different, which is the finding.
+
+**The sibling who is not speaking to another.** A silence of years, brought into the room by the parent's
+decline. The move: do not attempt reconciliation. Ask only whether the two of them can agree on one
+practical matter for six weeks, on the understanding that nothing else is being resolved. Concrete
+cooperation across an unresolved conflict is achievable and reconciliation is not, and a therapist who aims
+at the second will lose the first.
+
+**The rule that governs all four.** The parent's needs are the organising question and are not the whole
+conversation. A therapist who insists that "this is about Mama" will be met with agreement and no change,
+because the siblings know it is not only about Mama, and so does the therapist.
+
+### 12.4 Three techniques
+
+**Technique 1 — The life review, in six questions.** Not a memoir. Six questions, asked across two or three
+sessions, recorded if the older person agrees, and given to the family as a transcript.
+
+1. "What is the first thing you remember?"
+2. "What did you think your life would be, and what happened instead?"
+3. "Who did you love, and who loved you?"
+4. "What are you proudest of that nobody knows about?"
+5. "What do you want the ones coming after you to know?"
+6. "What would you do differently?"
+
+The technique works because the older person is being asked as an *author* rather than as a patient, and
+because each question has a developmental function: memory for continuity, the timetable question for
+integrity, the love question for relationship, the pride question for self-authorship, the legacy question
+for generativity, and the counterfactual for the acceptance of a life that was not perfect.
+
+**Technique 2 — The legacy recording.** A telephone recording of the six answers, given to a grandchild. The
+instruction to the family is what makes it work: "do not listen to it while she is alive". Its function is
+not comfort in the present; it is the presence of a voice after the death, which is the thing that
+grandchildren ask for and that families almost never make.
+
+**Technique 3 — The rota, written and limited.** A weekly schedule with names beside tasks: who takes her to
+the clinic, who calls on Tuesday, who sleeps in the house on Friday. Bounded in time — six weeks — and
+specific in task. The rota does three things that conversation cannot: it distributes the mental load, it
+makes absence visible, and it converts an obligation into a schedule that can be renegotiated.
+
+**The caregiving session, in practice.** The therapist who does all three in one session will fail. The
+sequence that works: the map first (assessment), then one technique (intervention), then the rota (a
+concrete output). Sessions two and three can add the review.
+
+### 12.5 The first session with three siblings and a daughter-in-law
+
+**Phase 1 — The round of worries (20 minutes).** Each person, in turn, one question: "what is your greatest
+worry?" Written down verbatim. No interruption, no response, and the therapist explains why: "everybody
+will get a chance to answer the others, and I want the worries on the table first."
+
+**Phase 2 — The facts (15 minutes).** What Mama can do; what the medical picture is; what the money is;
+what has been tried. The therapist supplies what she has and asks for the rest, and writes it on one page.
+
+**Phase 3 — The map (10 minutes).** Drawn on the whiteboard, with hours and decisions marked, and "not
+consulted" written next to the names that belong there — including, usually, Mama's.
+
+**Phase 4 — The contract named (15 minutes).** Who decided; what counts as good care; what the carer is
+entitled to; what happens if she refuses. The four questions, asked slowly, to the group rather than to an
+individual.
+
+**Phase 5 — Four options (15 minutes).** On the page, with costs. The therapist's discipline is not to
+recommend; the family's job is to eliminate.
+
+**Phase 6 — One decision and one fallback (10 minutes).** Named, dated, written, photographed.
+
+**Phase 7 — The absent person (5 minutes).** "Who is not here, and who will tell them?" The question is
+asked at the end, because the answer determines whether the decision survives the week.
+
+**Why Mama is asked first, if she is present.** Because a meeting about an older person that begins with her
+children describing her decline has already decided what she is. The therapist's first question to her is
+not about her health but about her preference: "what would you like the next year to look like?" The answer
+is frequently surprising, frequently practical, and it reorganises the meeting.
+
+### 12.6 Case: the Baloguns and the woman in the back room
+
+**The family.** This household first appeared in MFT 702, where Mr Femi Balogun (now 55) was a long-distance
+lorry driver away three weeks in four, his wife Funke (49) ran a food business from the house, and his
+mother (then 78, now 81) was living with them with a diagnosis of dementia. The family has changed since
+then: the eldest son has left school and is working; the second child, with sickle cell disease, is now 17
+and stable; there are two younger children.
+
+**The referral.** From Funke, the daughter-in-law, by telephone, in tears. "I cannot do this any more. His
+sister in Lagos decides everything and she is not here. His brother lives twenty minutes away and comes at
+Christmas. I am the one who bathes her."
+
+**The household, as mapped.** Mama, 81. Femi, 55, away three weeks in four. Funke, 49, the daily carer.
+Bola, 58, Femi's elder sister, in Lagos, a retired nurse, who pays for medication and manages appointments
+by telephone. Kunle, 49, the youngest, in Ibadan, twenty minutes away, visits at Christmas and Easter. Four
+children in the house, aged 22, 17, 12 and 9. A neighbour, Mama Seri, who looks in on weekdays. A
+physician at a private hospital who has seen Mama twice in two years.
+
+**The hours, estimated in the session.** Funke 38 hours a week; Bola 4 (telephone and payments); Kunle 2
+(a year); Mama Seri 3; Femi 6 in the week he is home.
+
+**The decisions, marked.** Bola makes the medical decisions. Femi makes the financial decisions when he is
+home. Funke makes every decision in between and is not consulted about any of the ones the others make. Mama
+makes none.
+
+**The facts.** The dementia diagnosis was made two years ago after a gradual decline. Three months ago
+there was a sudden worsening over two days — agitation, not recognising Funke, wandering at night — and a
+locum doctor at the hospital said "the dementia is progressing" and gave a sedative. The worsening resolved
+in five days. The therapist writes this on the page and circles it, because it is the case's most important
+fact.
+
+**The five findings.**
+
+**1. The three-month-old "progression" was probably a delirium, and it has never been assessed.** A change
+over two days with agitation and nocturnal worsening, resolving in five days, is the signature of a
+delirium — most likely a urinary tract infection, constipation, dehydration, or the sedative itself. A
+diagnosis of progression was made on the basis of a five-day event, and the family has organised three
+months of decisions around it. The first action of the case is a medical review, not a family decision.
+
+**2. The hearing has never been tested and is the likely source of "difficulty".** In the session Mama is
+spoken to from across the room and does not respond; spoken to from a metre away, facing her, she answers
+appropriately three times out of four. Funke reports that Mama "is better in the morning" — which is when
+the house is quiet. The therapist asks for a hearing assessment and, in the meantime, demonstrates the
+difference in the room, in front of the family. Bola, who is a retired nurse, is visibly affected.
+
+**3. Funke is doing the work, has no standing, and is not related to the patient.** She is the network's
+most competent member and its least consulted. Every decision about Mama is made by people who are not
+there, and Funke's experience of the last three months is that she is a servant with clinical
+responsibilities. Her tears on the telephone are not a symptom of the family's difficulty; they are the
+most accurate description of it.
+
+**4. Bola's control is functional, not merely controlling.** She is a retired nurse, she pays, and she has
+been managing a mother at a distance for two years with the telephone as her only instrument. Her
+insistence on deciding is what a frightened eldest daughter does when she cannot be present. The therapist
+who treats her as the villain will lose the person who pays for the medication.
+
+**5. Mama has not been asked anything in two years.** Not what she wants, not how she feels, not whether
+she is frightened. The life review questions have never been put to her, and the family has no account of
+her life that is longer than the last two years.
+
+**The formulation.** An eighty-one-year-old woman with a dementia diagnosis and an untested hearing loss,
+whose recent "progression" may have been a treatable delirium, cared for by a daughter-in-law with no
+standing in the family's hierarchy, managed medically by a daughter at a distance, and financially by a son
+who is away three weeks in four. The presenting complaint is Funke's exhaustion, and the family's problem is
+a caregiving network whose workload and authority are inversely distributed.
+
+**The intervention, in six parts, in order.**
+
+**Part 1 — The medical review, first.** A written request to the physician for a review of the
+three-month-old episode, with the specific question: was this a delirium, and was the sedative appropriate?
+The therapist does not diagnose; she puts the question on paper and asks the family to take it.
+
+**Part 2 — The hearing test, and the demonstration in the room.** The demonstration has already changed
+Bola's position, and the test is booked for the following week.
+
+**Part 3 — Funke gets standing, explicitly, in the meeting.** The therapist asks Bola and Kunle, in front of
+Funke, to agree that Funke is the person who knows Mama's daily condition and that decisions about the daily
+arrangements will be made with her. This is a single sentence and it is the intervention on which the rest
+depends.
+
+**Part 4 — Bola gets a defined role and a bounded one.** Medical decisions and payment, with a monthly
+telephone call to Funke at a stated time. The therapist names the reason plainly: "she has been managing
+from Lagos with a telephone, which is the hardest way to do it, and the answer is not to remove her
+authority but to give her one that has a schedule."
+
+**Part 5 — Kunle gets one task.** The second Saturday of every month, the clinic visit, with a written
+report to the family group. A specific, bounded, non-negotiable task, which he accepts in the room after
+some resistance and which he performs for eight consecutive months.
+
+**Part 6 — The rota, for six weeks.** Written, photographed, with a review date. Bathing, nights, medication,
+clinic, the neighbour's days.
+
+**Part 7 — Mama is asked.** In a separate session, with Funke present and Bola on speakerphone, the six life
+review questions are begun. Mama answers three, is tired, and stops. The therapist asks whether she would
+like to continue next week, and she says yes. The transcript of that session is, six months later, the thing
+the family values most.
+
+### 12.6a Six months later
+
+The medical review found a urinary tract infection at the time of the episode and no evidence of progression
+beyond the expected; the sedative was stopped. Mama's functioning is close to what it was before the
+episode, which means that three months of family decisions were made on a false premise.
+
+Hearing aids were prescribed and are worn, inconsistently. When they are worn, Funke reports that Mama is "a
+different person", which is the phrase families always use and which is a description of the difference
+between a woman who cannot hear and a woman who is confused.
+
+Kunle has done eight clinic visits out of six months, which is not the plan and is more than the previous
+decade. Bola telephones Funke on the first Sunday of the month. The two women have begun to speak to each
+other as colleagues rather than as a manager and an employee, which Funke describes as "she asks me now".
+
+The rota held for five weeks and then dissolved. The therapist notes this without alarm: a rota's function
+in most families is to make the distribution visible once, not to run indefinitely, and the visibility
+persisted after the document was lost.
+
+**The honest limitation.** Mama is not going to recover, Funke is still doing thirty hours a week, and the
+family is still one woman's illness away from crisis. What changed is that the work is now visible, the
+worker has standing, and the person in the centre has been asked what she wants. Those are the achievable
+outcomes of this week's work, and a therapist who promises more will be lying to a family that has enough
+disappointment already.
+
+**What would have changed the plan.** If the medical review had confirmed progression, the meeting would
+have become a placement discussion and the four options would have been about care settings. If Bola had
+refused Funke's standing, the work would have proceeded with Funke alone on the question of what she is
+entitled to, which is a legitimate treatment in its own right. And if Mama had been unable to participate at
+all, the life review would have become a review with the family about her, which is a poor substitute and
+better than nothing.
+
+### 12.7 Transcript: asking an eighty-one-year-old what she wants
+
+Ten turns from the session in Part 7, with Funke present and Bola on speakerphone. Mama wears a hearing aid
+for the first time in the therapist's presence.
+
+> **T1 Therapist:** *(facing her, at her level, unhurried)* Mama, I want to ask you something that nobody
+> has asked you. *(pause)* What would you like the next year to look like? — *The question is put to her
+> first, in the first person, seated at her level and facing her. Everything about the physical arrangement
+> is the intervention.*
+>
+> **T2 Mama:** *(long pause)* Nobody has asked me that.
+>
+> **T3 Therapist:** I know. That is why I am asking.
+>
+> **T4 Mama:** *(pause)* I would like to sit outside in the morning. *(pause)* In the compound. With the
+> sun. — *The answer is concrete, small, and entirely outside the family's frame of reference, which is
+> what these answers are almost always like.*
+>
+> **T5 Funke:** *(quietly)* She cannot go outside. There are steps.
+> — *The daughter-in-law's objection is practical and true, and it is the beginning of the intervention
+> rather than a contradiction of it.*
+>
+> **T6 Therapist:** *(to Funke)* Then that is the thing we are going to solve. *(to Mama)* Mama, if someone
+> carried the chair out for you, would you want to sit there?
+>
+> **T7 Mama:** *(nodding)* In the morning. Before it is hot.
+>
+> **T8 Therapist:** *(to Bola, on the speakerphone)* Bola, did you hear that?
+> — *The question is asked of the absent authority, deliberately, because the decision will not survive
+> unless she has heard it in Mama's voice.*
+>
+> **T9 Bola:** *(after a pause)* I heard.
+>
+> **T10 Therapist:** *(to the room)* Then the first item on the rota is not the clinic and it is not the
+> medication. It is the chair, in the morning, before it is hot. — *The therapist writes it first on the
+> page, above the medical items, which is a statement about what this meeting is for.*
+
+### 12.8 Laboratory: the caregiving network map
+
+**Aim.** To map a caregiving network in fifteen minutes, identify the inverse distribution of work and
+authority, and produce one decision that the family can make in the room.
+
+**Procedure.** Groups of five: therapist, older person, primary carer, distant decision-maker, and one
+absent sibling represented by an empty chair (which students find unexpectedly powerful). The trainer
+supplies a one-page brief with hours, decisions and one unassessed medical event. Twenty-five minutes, then
+feedback.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The map** | Verbal description only | Drawn, but without hours or decisions | Drawn with hours, decision markers, and "not consulted" named |
+| **The medical check** | Accepted the diagnosis on the file | Asked about the diagnosis | Identified the unassessed event and wrote the question for the physician |
+| **The hearing** | Not considered | Asked about it | Tested it in the room and demonstrated the difference |
+| **Standing** | Left the carer without authority | Acknowledged the carer | Gave the carer standing explicitly, in front of the others |
+| **The decision** | None | One decision, no date | One decision, dated, named, with a fallback |
+
+**The distinction that carries most of the marks.** The top band requires the student to *ask the older
+person a question and write the answer down*. Groups reliably spend twenty minutes on the network and never
+speak to the patient, which reproduces in the laboratory the exact error the week is about.
+
+### 12.9 Six errors
+
+**Error 1 — Accepting "dementia" as an explanation for a change.** Any sudden change is delirium until
+proved otherwise, and it is a medical emergency. The error is common because the diagnosis is already on the
+file and because families present the change as deterioration.
+
+**Error 2 — Interpreting confusion without testing hearing.** The cheapest test in this book and the most
+often skipped. A hearing loss produces social withdrawal, apparent paranoia, non-compliance and "difficulty",
+and every one of those is then treated as a symptom of dementia.
+
+**Error 3 — Meeting the family without the patient.** The most common structural error in later-life work.
+A woman who is spoken over for ninety minutes will be described as difficult afterwards, and the description
+will be accurate.
+
+**Error 4 — Treating the daughter-in-law as a helper.** She is frequently the most competent and least
+consulted member of the network, and a therapist who addresses the adult children and uses the carer as a
+source of information has reproduced the family's hierarchy rather than intervening in it.
+
+**Error 5 — Aiming at sibling reconciliation.** The conflict is usually forty years old and is not the
+therapist's business. The aim is six weeks of concrete cooperation, which is achievable, and a therapist who
+aims at the former will lose the latter.
+
+**Error 6 — A plan with no fallback.** Families implement plans that have a stated fallback and abandon
+plans that do not. The fallback is not pessimism; it is the condition under which the first plan survives
+its first bad week.
+
+### 12.9a The phone call that is really a referral
+
+A pattern worth naming separately, because it is how most later-life work actually begins.
+
+The call comes from an adult daughter, usually in the evening, and it is framed as a request for
+information: "I just want to know whether we should be worried." Within three minutes the real request
+appears, and it is one of four.
+
+**"Tell me I am doing enough."** The caller is asking for a verdict on her caregiving. The answer that works
+is behavioural rather than reassuring: "you are the one who telephoned. What are the three things you
+actually do each week?" Listing them is the intervention, because the caller has never counted.
+
+**"Tell me my brother should help."** The caller wants an ally. The answer that avoids the trap: "I will not
+tell him that. I will ask him, in a meeting, what he can do — and I will ask you the same question." A
+therapist who supplies the ally is then blamed when the brother does not change.
+
+**"Tell me it is time for a home."** The caller wants permission. Permission is not the therapist's to
+give, and the honest answer is the structure of the decision: "that is a decision for your family, and I can
+help you make it in a way you can all live with. What would have to be true for you to consider it?"
+
+**"Tell me she is not dying."** The caller wants a prediction. Give the medical picture as far as it is
+known, name what is not known, and offer the one thing that can be offered: a plan for the next month rather
+than a prognosis for the next year.
+
+**The practical point.** The first telephone call is the assessment and the engagement, and it is usually
+taken by the least experienced person in the service. The four framings above should be taught to whoever
+answers the telephone, because a call that is handled as a request for information and ends with "make an
+appointment" has lost the family's most motivated member.
+
+### 12.10 Culture, faith and later life
+
+**Who cares for the elderly, and who is expected to.** In most of the households this book is written for,
+care is a family obligation rather than a purchased service, and the obligation falls on a daughter-in-law
+or a daughter rather than on a son. The clinical consequence is that the person doing the work frequently
+has no authority, and the person with authority frequently does none of the work. This is the week's central
+finding, and it is a structural fact rather than a family pathology.
+
+**Respect and the impossibility of asking.** In many households it is improper for a younger person to ask
+an older one what she wants, and the impropriety is felt by the family as a failure of respect rather than
+as an omission. The therapist can use the frame rather than fight it: "it is because we respect her that we
+are asking her" is a sentence that permits the question. Where the older person cannot be asked, the
+therapist asks the family to describe what she would say, which is a second-best procedure and is better
+than nothing.
+
+**Placement and its meanings.** A care home carries, in many settings, the meaning of abandonment, and a
+family that is offered placement as an option may hear an accusation. The therapist's discipline is to keep
+four options on the page without recommending any, because the family's choice must be one the family can
+live with in front of its relatives, not one the therapist would make.
+
+**Faith, illness and the meaning of decline.** Households may understand dementia as a spiritual trial, a
+punishment, or a season, and the understanding organises how much medical investigation is pursued. The
+clinical position: ask what the framework means for the family, and hold one non-negotiable — that a
+treatable infection should be treated. Framing the medical review as stewardship rather than as doubt is
+translation, not manipulation.
+
+**Mourning as a collective practice.** Where grief is prescribed — forty days of visits, a year of black,
+a particular liturgy — the therapist's task is to support the rites and to watch for the period after them,
+when the company leaves and the bereavement becomes private. The dual-process model describes an individual
+oscillation; the culture supplies a collective one, and the clinical question is what happens when the
+collective one ends.
+
+> **DEBATE** — "The person who does the caring should make the decisions." Argue for: authority should
+> follow knowledge and work, the distant decision-maker is making choices about a life they do not see, and
+> the current arrangement is exploitative. Argue against: decisions about money require the person who has
+> the money, medical decisions require medical knowledge, and a daughter-in-law with authority and no
+> kinship has no standing to defend it against the family. Then state what you would actually have done in
+> the Balogun meeting, and what you would have done if Bola had refused.
+
+### 12.11 Evidence note
+
+**What the research supports.** Structured life review and reminiscence reduce depressive symptoms in older
+adults, with modest but consistent effects. Caregiver burden interventions that combine *psychoeducation
+with practical respite* produce better outcomes than either alone, and the effect is larger when the carer
+is given specific tasks rather than general support. Hearing loss is independently associated with
+cognitive decline, social isolation and depression, and correction improves social participation. Delirium
+is common, frequently missed, and associated with poor outcomes, particularly when it is misattributed to
+dementia.
+
+**What is weaker.** The evidence on family meetings is largely from medical and palliative settings and
+transfers imperfectly to a therapy clinic. The dual-process model is well supported descriptively and less
+well supported as a treatment target. Effects of grandparent involvement on child outcomes are confounded
+by selection and are difficult to interpret.
+
+**What is not supported.** That "working through" grief requires the discharge of emotion — the evidence
+favours oscillation and continued bonds over severance. That cognitive decline is inevitable and untreatable
+in every case, which is the assumption behind the most damaging errors in this week's work. And that carers
+who are not relatives are less appropriate; the evidence on non-kin caregiving is thin and the clinical
+experience is that they are frequently the most reliable member of the network.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same dementia diagnosis produces, in one family, a
+coordinated network and, in another, a daughter-in-law doing forty hours a week in silence, and the
+difference is not in the diagnosis.
+
+### 12.12 Key terms
+
+**Integrity versus despair** — Erikson's final stage; the consolidation of a life into an account that can be
+held.
+
+**Delirium** — an acute, fluctuating disturbance of attention and awareness, usually caused by a treatable
+physical problem; a medical emergency.
+
+**Pseudodementia** — the presentation of depression as apparent cognitive decline; treatable.
+
+**Dual-process model** — the account of grief as oscillation between loss-oriented and restoration-oriented
+coping.
+
+**Caregiver burden** — the objective and subjective cost of caregiving; measured, and frequently
+normalised by the family.
+
+**Unstated contract** — the four unspoken clauses of a caregiving arrangement: responsibility, standard,
+entitlement, and the consequence of refusal.
+
+**Responsible child** — the sibling appointed by proximity, gender or birth order, rarely by negotiation.
+
+**Life review** — a structured reminiscence intervention aimed at coherence rather than discharge.
+
+**Legacy** — what is handed on, and to whom; the developmental task that requires an audience.
+
+**Fallback** — the pre-agreed response if the plan fails; the condition under which plans survive.
+
+### 12.13 Self-test
+
+1. Give the four-way cognitive differential and the one question that best distinguishes each pair.
+2. Why is a change over two days a medical emergency, and what has usually happened when a family is told
+   that "the dementia is progressing"?
+3. What is the inverse distribution, and why does it produce the referral?
+4. Name the four clauses of the unstated caregiving contract.
+5. Why does the therapist write the chair above the medical items on the rota?
+6. What are the four sibling patterns, and what is the move for the daughter-in-law?
+7. Why is sibling reconciliation the wrong aim, and what is the right one?
+8. In the Balogun case, what was the single most important fact, and how was it found?
+
+**Answers.** *(1)* Delirium — "was he like this yesterday?"; depression — "when did you last enjoy
+something?"; dementia — "when did you last manage the money alone?"; hearing loss — "does he answer better
+when he can see your face?" *(2)* Because an acute change with fluctuation is the signature of delirium,
+usually from infection, constipation, dehydration, medication or pain, all treatable; the family has usually
+been given a diagnosis on the basis of a five-day event and has organised months of decisions around it.
+*(3)* The workload sits with the person who has least authority and the authority with those who do least
+work; the referral arrives when the worker's capacity fails. *(4)* Who is responsible; what counts as good
+care; what the carer is entitled to; what happens if the carer refuses. *(5)* Because the meeting is about
+Mama's life rather than her medication, and the order on the page is a statement about what the work is for.
+*(6)* The responsible child and the absent ones; the child who is not a child; placement versus refusal; the
+siblings not speaking — the move for the non-kin carer is to give them standing explicitly, in the meeting,
+by the family's agreement. *(7)* Because the conflict is decades old and is not the therapist's business;
+the right aim is six weeks of concrete cooperation on one practical matter. *(8)* That the three-month-old
+"progression" was probably a delirium — found by dating the change and asking what had been done about it.
+
+### 12.14 Reflective task
+
+Ask one person over seventy the six life review questions, and record the answers if they agree. Then answer
+three questions of your own: which question produced the most, which produced the least, and what did you
+have to stop yourself from doing while they spoke? Most students report that they wanted to reassure, to
+interpret, or to fill a silence, and that the silence was where the material was.
+
+### 12.15 Further reading
+
+- Erikson, E., Erikson, J. and Kivnick, H. *Vital Involvement in Old Age* — the empirical follow-up to the
+  final stage.
+- Stroebe, M. and Schut, H. "The dual-process model of coping with bereavement" — the source, and the
+  evidence.
+- Zarit, S. et al. on caregiver burden — the instrument, and its limits in the room.
+- Butler, R. "The life review" — the original paper, still the best description of the task.
+- Livingston, G. et al. on dementia care and carer interventions — the best current summary of what works.
+
+*Next: Week 13 — Culture, poverty and development: the critique of the norms.*
 
 ---
 
