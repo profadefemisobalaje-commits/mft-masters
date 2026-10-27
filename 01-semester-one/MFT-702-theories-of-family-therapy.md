@@ -791,33 +791,700 @@ actually have for it, and state one thing the model cannot see. Bring the paragr
 
 ## Week 2 — Psychoanalytic and object-relations family therapy
 
-**The question it asks.** *What unconscious processes, carried from earlier relationships, are being
-re-enacted in this family now?*
+**The question it asks.** *What unconscious processes, carried from earlier relationships, are being re-enacted in
+this family now?*
 
-**Core concepts.** Object relations (internal working models of self and other formed in early
-relationships); projection and projective identification (disowned parts of the self are located in
-another person); splitting (people experienced as all-good or all-bad); repetition compulsion; the
-family as a shared unconscious system.
+### 2.1 The lecture in ninety minutes
 
-**Therapy.** Longer-term; the therapist attends to transference and countertransference, interprets
-patterns, and helps the family "hold" difficult feelings rather than evacuate them into one member.
-Frameworks include group-analytic family therapy and the Tavistock tradition.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why start here | The first family therapists were psychoanalysts, and their problem is still live | Name one thing in a family that only this model explains well |
+| 10–25 | Object relations in plain language | Internal working models, with two examples from the case bank | Map one family's internal objects |
+| 25–40 | Projection and projective identification | The mechanism, demonstrated on a transcript | Locate the projection in a recorded session |
+| 40–55 | Transference and countertransference in family work | Why the therapist's feeling is data | Identify their own response to a role-play |
+| 55–70 | Interpretation, used sparingly | Four rules for an interpretation that will land | Draft and test one interpretation |
+| 70–85 | The Tavistock and group-analytic traditions | Work with the family as an unconscious system | Compare with the individual model |
+| 85–90 | Critique and the matrix row | What the model cannot see | Fill the row |
 
-**Signature technique — interpretation, used sparingly.** "I notice that whenever your mother speaks
-about her own mother, you begin to speak for her. I wonder whether that is how the family has always
-managed her sadness."
+### 2.2 Core concepts
 
-**Contribution.** It gave the field its respect for depth, for what is not said, and for the therapist's
-own emotional response as data.
+The model's vocabulary is old and its mechanisms are still in use across the field, including by therapists who
+believe they do not use them. Learn the five concepts precisely.
 
-**Blind spots.** Long, expensive, thin evidence base in its classical form; risks pathologising parents;
-the language can feel blaming ("the intrusive mother") and can ignore material context.
+**Object relations.** The idea that a person's early relationships are internalised as working models of self and
+other — a "mother who cannot be relied on", a "self who must not need anyone" — and that these internal models shape
+how later relationships are perceived and conducted. Family work extends the idea: each member brings a set of
+internal objects into the household, and the family's relationships are a negotiation between them.
 
-> **CASE** — A young man cannot keep a job; his mother calls his employers before he does. Object-
-> relations reading: the mother's own abandonment anxiety is projected into her son's incompetence, and
-> his failure keeps her needed. Interpretation may be less useful than an experiment: agree that she
-> will not call, and predict that both will feel anxious for two weeks. The prediction turns insight into
-> something testable.
+**Projection.** Disowning a feeling in oneself and locating it in another person. A father who cannot tolerate his own
+fearfulness experiences his daughter as fragile and protects her excessively. The mechanism is not deception; it is
+usually unconscious, and it is why a family's description of one member often tells you more about the describer than
+the described.
+
+**Projective identification.** Projection plus pressure: not only is a disowned part located in the other, but the
+other is recruited, often subtly, to behave in accordance with it. The mother who cannot bear her own helplessness
+treats her son as helpless, organises his day, speaks for him, and in time he presents as helpless — and both are
+sincere. This is the model's central explanatory mechanism for the identified patient, and it is the mechanism most
+often misapplied, because it is used to explain away the family's account.
+
+**Splitting.** Experiencing people as all-good or all-bad, with the two views held separately rather than integrated.
+In families it appears as the alignment in which one parent is idealised and the other denigrated, or in which one
+child is the good one and another the bad one. The splitting is maintained by the family's anxiety: a whole object is
+harder to hold than two halves.
+
+**Repetition compulsion.** The re-enactment of earlier relational patterns in new relationships, including with the
+therapist and the therapy. A family that has dismissed three therapists will dismiss a fourth, and the repetition is
+information.
+
+**The family as a shared unconscious system.** The synthesising idea of the school: the family is not a collection of
+individual psyches but a system with its own unconscious assumptions, shared myths, and defended-against feelings, and
+one member often carries the feeling the system cannot hold. This is the clearest statement of the model's theory of
+problem, and it is what distinguishes the school from a set of individual psychodynamic sessions conducted in the same
+room.
+
+### 2.2a Four concepts, one family
+
+The concepts become learnable when they are applied to a household the student can picture. The Adeyemis, read
+object-relations.
+
+**The internal objects each partner brought.** The mother's father died when she was 19 and she raised four siblings
+while her own mother was unwell. Her internal model of a reliable other is a person who nonetheless cannot be leaned
+on, and her model of herself is a person who copes. The father's mother died when he was 16 and he left for Lagos that
+year. His internal model of loss is that the way to survive it is to leave, and his model of himself is a provider who
+is not needed at home. Neither model is a pathology; both are adaptations that made sense in an earlier
+circumstance.
+
+**The projection.** The mother experiences her own unmanageable grief and helplessness — about her father, about her
+own mother, about the years of coping alone — and locates it in Amara, who is described as fragile, unable to cope,
+and needing to be at home. The language the mother uses about her daughter ("she cannot face it", "she is not strong
+enough") is language a person might use about themselves.
+
+**The projective identification.** The mother's care does not merely describe fragility; it organises the morning so
+that Amara is never required to manage anything. Amara is spoken for, protected from the school's letters, and relieved
+of the consequences. In time, Amara behaves as described — staying in her room, unable to leave — and both mother and
+daughter are entirely sincere.
+
+**The splitting.** The family's account divides the adults cleanly. The mother holds the practical and the emotional
+labour and is seen as strong; the father is seen as absent and uncomprehending. Each holds one half of a whole
+picture, and neither can see that the mother's strength is a defence and the father's absence is a grief.
+
+**The repetition.** The mother is 19 again, in effect, managing a household's feeling for other people. The father is
+16 again, leaving a house in which someone has been lost. The repetition is not a curse; it is the human tendency to
+return to the pattern that once worked, especially under stress.
+
+**What the formulation gives and what it costs.** It gives a compassionate account of both parents and a mechanism for
+the daughter's presentation that explains why behavioural plans have failed. It costs attention to the school's
+timetable, the family's money, the father's employment, and the possibility that Amara's refusal is a reasonable
+response to something nobody has asked about. Both halves of that sentence belong in the formulation.
+
+### 2.3 Therapy: the shape and the mechanism
+
+**The shape.** Longer-term than most of the models in this course, less structured, and less task-oriented. Sessions
+are typically weekly and open-ended; the therapist's attention is on what is happening between the members and between
+the family and the therapist; the work moves slowly and is expected to.
+
+**The mechanism.** Two elements, both contested and both useful.
+
+*First, containment.* The therapist holds difficult feelings without evacuating them — that is, without immediately
+turning them into advice, reassurance or a task. The family that has never had a feeling held will discover, in the
+holding, that the feeling can be survived. The mechanism is experiential rather than interpretive, and it is the part
+of the model that transfers most readily to other approaches.
+
+*Second, interpretation.* The therapist offers an account of the pattern, including its unconscious dimensions, in a
+form the family can hear. Interpretation is not insight delivered; it is a hypothesis offered tentatively, and it
+works when the family's response is recognition rather than explanation.
+
+**Transference and countertransference.** The family's feelings towards the therapist and the therapist's towards the
+family are treated as data about the family's relational world. A therapist who feels useless with a family should ask
+what the family does with people who try to help — a question that is far more informative than the therapist's
+self-criticism. A therapist who feels protective of one member should ask who else in the system feels that way, and
+who does not.
+
+**Why this matters even to students who will not practise this way.** Every model in this course uses the therapist's
+response as information. This school articulated the principle first, and it is the reason supervision in family
+therapy attends so closely to the therapist's feelings.
+
+### 2.3a How long is this therapy, and who can have it?
+
+The model's length is not incidental; it is part of its theory of change, and a student who cannot discuss it cannot
+defend the matrix row.
+
+**The classical claim.** Change of the kind this model seeks — a shift in internal models, in what the family can bear
+to feel, in the therapist's and family's capacity to stay with difficulty — is slow. The school's own logic implies
+months rather than weeks, and its founders generally wrote about treatment lasting a year or more.
+
+**What the modern practitioner does with that claim.** Three options, each defensible.
+
+*Option 1 — practise it as designed, in a service that can fund it.* Specialist psychotherapy services exist and are
+justifiable. The professional obligation is to be honest about the cost and the access, and to measure outcomes rather
+than assume them.
+
+*Option 2 — use the model's mechanisms in a shorter therapy.* Containment, the therapist's response as data, the
+observation of what is not said, and one well-timed interpretation can all be used within a twelve-session contract.
+This is what most graduates will actually do, and it is not a betrayal of the model; it is the model's components
+deployed without its frame.
+
+*Option 3 — use it as a second phase.* Some families need a structural or behavioural first phase (see MFT 701 Week
+13) and can use a psychodynamic phase afterwards, when the presenting crisis is settled and the family has the
+resources for slower work. This is the commonest integration in practice, and it is worth being able to describe.
+
+**What none of the three options permits.** Practising a slow, open-ended therapy with a family who cannot afford it,
+cannot reach the clinic, or needs a crisis resolved this week, and calling the mismatch "resistance". The model's
+silence about access is a limitation, not a licence.
+
+**The question for the viva.** "You have twelve sessions with this family. What would you keep from this model and
+what would you drop?" A strong answer keeps the mechanisms and drops the length, names the risk (that the family
+experiences a short therapy as another person who did not stay), and says how it would be measured.
+
+### 2.4 Signature technique: interpretation, used sparingly
+
+An interpretation is a statement that links present behaviour to an unconscious process, offered tentatively, in the
+family's language, at a moment when it can be heard. Four rules separate an interpretation from an accusation.
+
+**Rule 1 — link, do not label.** "When your mother talks about her own mother, you answer for her" is a link between
+an event and a behaviour. "You are enmeshed" is a label. Links can be tested; labels have to be accepted or refused.
+
+**Rule 2 — offer, do not pronounce.** "I wonder whether..." and "I notice... could it be that..." are the grammar of
+interpretation. A statement delivered as fact invites compliance or defiance, and the model's own theory says the
+family's response to a pronouncement is also the family's work.
+
+**Rule 3 — interpret the pattern, not the person.** "Something seems to happen in this room when your father begins
+to speak about his own father" is a statement about the system. "You are protective of your father" is a statement
+about a person, and it recruits the person's defence.
+
+**Rule 4 — interpret one step beyond what the family already knows.** An interpretation the family has already made is
+tedious; one that is two steps away is a lecture. The therapist's judgement is about the size of the step, and the
+family's response is the evidence.
+
+**The worked example from the course material.** "I notice that whenever your mother speaks about her own mother, you
+begin to speak for her. I wonder whether that is how the family has always managed her sadness." The interpretation
+has four parts: an observation (the sequence), a link (speaking for her), a hypothesis (the family's way of managing a
+feeling), and a tentative frame ("I wonder"). The son's answer — whether "yes, someone has to" or "no, she loses her
+words" — will be more informative than the interpretation itself.
+
+**What to do when the interpretation is rejected.** Say "that may be wrong", and stay curious. A rejected
+interpretation is not a failure; it is data about the family's defences and about the therapist's timing. The model's
+own logic requires the therapist to survive the rejection without withdrawing, because the survival is itself the
+therapeutic act.
+
+### 2.5 Contribution, and what the field kept
+
+The school's contribution is larger than its current evidence base, and students should be able to say what has been
+absorbed into the wider field.
+
+**Kept: the respect for what is not said.** Every model now attends to what a family cannot speak about. The
+psychoanalytic school made this a principle rather than an accident.
+
+**Kept: the therapist's emotional response as data.** Now standard across models, and traceable to this one.
+
+**Kept: the idea that a symptom can carry a feeling the family cannot hold.** This is the ancestor of the Milan
+positive connotation, the structural identification of the identified patient, and the systemic idea of function.
+
+**Kept: the family as a shared unconscious system.** The notion of a family myth, a family secret and a shared
+assumption is now ordinary across the field, and it began here.
+
+**Kept: containment as a mechanism.** Whatever the model, the therapist who can stay with a family's distress without
+converting it into a task is doing something this school described first.
+
+**What the field discarded, and why.** Long open-ended treatment as a default; the assumption that insight is
+necessary for change; the pathologising vocabulary ("the intrusive mother", "the schizophrenogenic mother"); the
+indifference to material context; and the absence of outcome measurement. Each discard is a lesson in what happens to
+a model that does not examine its own assumptions.
+
+### 2.5a The Tavistock tradition and group-analytic family therapy
+
+Two institutional traditions shaped this school, and a student who cannot place them cannot read the literature.
+
+**The Tavistock.** The Tavistock Clinic and the Tavistock Institute in London produced both the group-relations
+tradition and a substantial body of family therapy. The distinctive features are the attention to unconscious group
+process, the use of a work-group and basic-assumption frame, and — clinically — an interest in the family's shared
+assumptions and in the therapist's use of their own reaction. Tavistock-trained family therapists typically work in
+long-term, once-weekly formats, often with co-therapists, and often with an observing team.
+
+**Group-analytic family therapy.** Derived from Foulkes's group analysis, this approach treats the family as a small
+group with a group matrix — a shared field of communication and meaning — and works with the group's dynamics as much
+as with individual members. The therapist's task is to facilitate the group's own capacity to think, rather than to
+interpret individual behaviour. The vocabulary is different from the classical school and the practice is often
+shorter and more active.
+
+**What the two traditions contribute to the matrix cell.** Both extend the unit of focus: not the individual internal
+world alone, but the family's shared unconscious field. Both make the therapist's membership of the system explicit.
+Both raise the question of the observing team, which Milan later developed into a technique.
+
+**What they share with the classical school.** The assumption that what is not said is the most important material; the
+attention to the therapist's emotional response; and a long time frame.
+
+**What a student should take from this section.** Two or three named traditions, one distinguishing feature of each,
+and one sentence on how they differ from the classical model. That is sufficient for level 1, and it is more than most
+candidates can offer.
+
+### 2.6 Blind spots, stated precisely
+
+**Blind spot 1 — the vocabulary blames parents.** The classical language locates pathology in maternal behaviour, and
+the history of the school includes theories that caused real harm to mothers of children with psychosis. The modern
+practitioner can retain the mechanisms and must discard the blaming grammar; the test is whether the family
+experiences the interpretation as an accusation.
+
+**Blind spot 2 — thin evidence in its classical form.** There is little randomised evidence for long-term
+psychoanalytic family therapy as a package. There is better evidence for psychodynamic psychotherapy in individual
+form for some presentations, and there is evidence for components — mentalisation, reflective functioning,
+containment — that the school anticipated. The matrix cell should record this distinction.
+
+**Blind spot 3 — cost, time and access.** An open-ended weekly therapy is unavailable to most families in most
+services. A model that requires conditions most families cannot have is not wrong; it is limited, and the limit
+belongs in the matrix.
+
+**Blind spot 4 — the material and the institutional.** A formulation that locates the difficulty in the family's
+internal world can miss a landlord, an employer, an immigration status or a school. The model's unit of focus is the
+internal and the relational; the external is under-described.
+
+**Blind spot 5 — the therapist's authority is under-examined.** The interpretive position is a powerful one, and the
+model has historically been less attentive than the Milan or narrative schools to the power the interpreter holds.
+
+> **CASE** — A young man cannot keep a job; his mother calls his employers before he does. Object-relations reading:
+> the mother's own abandonment anxiety is projected into her son's incompetence, and his failure keeps her needed.
+> Interpretation may be less useful than an experiment: agree that she will not call, and predict that both will feel
+> anxious for two weeks. The prediction turns insight into something testable.
+
+### 2.6a What the school got wrong, in its own history
+
+A professional course owes students the history of a model's errors, because the errors are the clearest guide to
+where a mechanism can be misapplied.
+
+**The schizophrenogenic mother.** From the 1940s to the 1970s, a body of theory held that schizophrenia in a young
+person was caused by a particular kind of mother — cold, domineering, covertly rejecting. The idea was influential,
+was taught in good faith, and caused enormous harm: mothers were blamed for a condition now understood as
+neurodevelopmental, families were divided by the accusation, and a generation of clinicians was trained to see maternal
+care as the cause of serious mental illness.
+
+**Why the idea was plausible.** It fitted the model's mechanism (the family as an unconscious system; the symptom as
+the container of an unheld feeling), it was supported by clinical observation of distressed families, and it explained
+the observations that others could not — that these families often did look unusual. What it lacked was any
+consideration of direction of causation: families in which a young person is psychotic look unusual because they are
+living with psychosis.
+
+**What the field learned, and what it cost to learn it.** Three lessons, all now standard.
+
+*First, observation of a distressed family cannot establish causation.* The family's state may be a response to the
+difficulty rather than its source. This is the single most important methodological caution in family therapy, and it
+applies to every model in this course, not only this one.
+
+*Second, a mechanism that explains everything explains nothing.* The concept of the family as a shared unconscious
+system is powerful precisely because it can be applied to any family, which means it cannot discriminate between them
+without additional constraints.
+
+*Third, the vocabulary of a model has consequences for families.* "The intrusive mother" was not a neutral description;
+it was a diagnosis delivered to a person who was already struggling, and it shaped what services offered and what
+families believed about themselves.
+
+**How a modern practitioner uses the school despite its history.** By keeping the mechanisms — projection, projective
+identification, containment, the therapist's response as data — while refusing the vocabulary of blame, and by asking,
+of every interpretation, whether the family would experience it as an accusation. That test is the professional
+inheritance of this history, and it should be applied to the models in Weeks 3 to 11 as rigorously as to this one.
+
+### 2.7 Annotated transcript: an interpretation that lands, and one that does not
+
+The same family, the Okonkwos, is seen by the same therapist in two sequences. The first interpretation is heard; the
+second is not, and the difference is instructive.
+
+**Sequence A — session three.**
+
+> **T1 Therapist:** Can I say something I have noticed, and you will tell me whether it is right? When your wife talks
+> about Ebuka's mornings, you look at the window. When she stops, you look back.
+> **T2 Father:** (pause) I did not know I did that.
+> **T3 Therapist:** I wonder whether the window is where you go when the conversation is about something you cannot
+> fix from Lagos.
+> **T4 Father:** (long pause) It is. She tells me and I cannot do anything, so I stop hearing it.
+> **T5 Therapist:** And then she has told you and you have not heard it, and she is alone with it. That might be the
+> thing that is hardest in this house.
+> **T6 Mother:** (quietly) Yes.
+
+**Annotations.** *T1* is an observation, offered with an explicit invitation to correct it. The observation is
+specific and behavioural — looking at the window — which is what allows the father to recognise it rather than dispute
+it. Note that the therapist does not begin with the concept.
+
+*T3* is the interpretation, and it is one step beyond what the father has said. It links the behaviour to a feeling
+(helplessness) and to a circumstance (Lagos), which keeps the interpretation attached to reality rather than to the
+father's character. The grammar is tentative.
+
+*T4* is the moment the interpretation lands, and the marker of landing is not agreement but *new information*: the
+father describes a process the therapist had only hypothesised.
+
+*T5* does the systemic work. The interpretation has been about one man's behaviour; T5 places it back in the loop,
+naming the consequence for the mother without blaming the father. This is the discipline that distinguishes
+object-relations family work from individual interpretation conducted in company.
+
+**Sequence B — the same therapist, one week later, with the same family.**
+
+> **T7 Therapist:** I have been thinking about last week, and I think I understand what is happening. Ebuka is carrying
+> your sadness about his grandmother, because neither of you has been able to grieve, and children always carry what
+> the parents cannot.
+> **T8 Mother:** (silence)
+> **T9 Father:** He is nine. He does not know anything about grieving.
+> **T10 Therapist:** I did not mean that he understands it. I meant that he feels it.
+> **T11 Father:** (to his wife) This is why I did not want to come.
+
+**Annotations, and what went wrong.** *T7* breaks three of the four rules. It is a pronouncement ("I think I
+understand what is happening"), not an offer; it is two steps beyond what the family knows, not one; and it interprets
+a person — Ebuka — rather than a pattern, in Ebuka's absence. The sentence "children always carry what the parents
+cannot" is a general law delivered to a family, and general laws invite families to defend themselves against the
+therapist's theory.
+
+*T9* is not resistance; it is a reasonable objection to an interpretation that has not been earned. The father's
+defence is accurate: the therapist has claimed knowledge of his son that the therapist does not have.
+
+*T10* repeats the interpretation in other words, which is the commonest response to a failed interpretation and the
+least useful. *T11* is the cost: the father, whose engagement cost the therapist three sessions of careful work,
+withdraws.
+
+**The repair, done properly at the start of the next session.**
+
+> **T12 Therapist:** Last week I said something about Ebuka carrying your sadness, and it did not fit. I have been
+> thinking about why. I think I was talking about my idea rather than about what either of you had told me. I would
+> like to go back to what your husband said — that Ebuka is nine and does not know about grieving — because I think he
+> was right, and I want to understand what he meant.
+
+**Why the repair works.** It names the error without self-abasement, credits the person who objected, returns the
+authority to the family, and asks a genuine question. In this model, the therapist's survival of an error — and the
+family's experience of a therapist who can be corrected — is itself the therapeutic mechanism.
+
+### 2.7a What the therapist brings: the use of self in a slow model
+
+In this model more than most, the therapist's own history is an instrument, and an unexamined instrument is a hazard.
+
+**The claim.** The therapist's emotional response is data (2.2), and it is also contamination if it is not examined.
+A therapist who was parentified as a child will feel a strong pull to protect a parentified adolescent, and the pull
+will arrive before the thought. The model's answer is not to eliminate the pull but to know it, which requires the
+therapist to have done some of the work the model asks of families.
+
+**Three disciplines, in order of importance.**
+
+*First, know your own object-relations pattern.* The genogram of MFT 701 and the cultural genogram are the beginning;
+personal therapy, where it is available and appropriate, is the standard the tradition itself assumes. A therapist who
+cannot name their own central relational pattern will enact it with families, reliably and invisibly.
+
+*Second, use supervision as the place where the countertransference is read.* The countertransference log of 2.8a is
+the instrument; supervision is where the fourth column is interrogated. A supervisor's most useful question is often
+"and whose feeling do you think that was?"
+
+*Third, notice the families you dread.* The family you avoid booking, the one you feel relief about when they cancel,
+the one you describe in the team meeting with a sigh — each is information about your own pattern, and each is a
+training opportunity rather than a personal failing.
+
+**The boundary of the discipline.** Using the self is not the same as disclosing the self. A therapist's decision to
+share something personal should be a clinical decision with a rationale, not an expression of the countertransference.
+The model's own tradition is cautious here, and rightly: the family came for its own work.
+
+**The protection.** Where a therapist's own history is activated repeatedly and strongly by a family, the professional
+response is supervision, a reduction in the caseload if possible, and personal therapy taken seriously as part of the
+cost of doing this work rather than as a personal indulgence. This model, of all the models
+in this course, requires the therapist to be a person who has been attended to, and the requirement is not a luxury;
+it is a competence.
+
+### 2.8 Laboratory: finding the projection
+
+A ninety-minute practical in three parts.
+
+**Part 1 (20 minutes) — the transcript.** Students receive a four-page transcript of a first session with a family in
+which a 14-year-old is described by both parents as "the angry one". The transcript contains eleven instances of one
+mechanism: the parents describe their daughter's anger in language that describes their own unexpressed anger
+("she is always simmering", "she cannot let anything go", "she explodes over nothing"). Students mark every instance
+and write the sentence the therapist could say.
+
+**Part 2 (40 minutes) — the role-play.** Triads: two parents and a therapist. The parents are given a brief: each is
+carrying a disowned feeling (one shame, one anger), and neither knows the other's brief. The therapist's task is to
+find the projection without naming it as a projection, using observation, tentative linking and the family's own
+language. The observers score against the rubric.
+
+**Part 3 (30 minutes) — the debrief.** Each therapist reports what they felt towards each parent, and the group maps
+those feelings onto the briefs. The exercise usually demonstrates the model's central claim: the therapist's
+countertransference arrived before the therapist's understanding.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Observation before interpretation | 25% | At least three specific behavioural observations quoted before any interpretation |
+| Tentative form | 20% | Interpretations offered as hypotheses, with the family's correction invited |
+| Pattern, not person | 20% | Statements about sequences and the system rather than about a member's character |
+| One-step calibration | 20% | The interpretation is one step beyond the family's own account, not two |
+| Survival of rejection | 15% | The therapist stays curious after a rejection, and does not repeat the interpretation in other words |
+
+**The commonest failure.** Students interpret in the first ten minutes, before they have observed anything. The
+marker's note is always the same: an interpretation without an observation is a theory about the family, and families
+can tell the difference.
+
+### 2.8a The countertransference log
+
+The model's most transferable instrument is a single page, kept after every session. Four columns and a line.
+
+| Column | What to record |
+|---|---|
+| What I felt | The dominant feeling in the session, with the moment it began |
+| What I wanted to do | The impulse — to reassure, to rescue, to withdraw, to argue, to finish early |
+| What I did | What actually happened, which is often different |
+| Whose feeling it might be | A hypothesis: mine; one member's; the family's shared feeling; or a response to what I represent |
+
+**The line at the bottom.** "What I will ask about next time."
+
+**Why the log works.** It converts an unmanageable inner experience into a hypothesis that can be tested in the next
+session, which is exactly the move the model requires. It takes four minutes, it is the most useful supervision
+material a trainee can bring, and it protects against the two commonest countertransference errors: acting on the
+feeling without noticing it, and dismissing the feeling as irrelevant.
+
+**An example, from the Okonkwo material.** *Felt:* irritation, then guilt, whenever the father spoke. *Wanted to do:*
+interrupt him, and then over-include him. *Did:* asked the mother a question instead. *Whose feeling:* possibly the
+mother's — the irritation at a man who arrives on Friday and comments on the week; possibly mine, from a family in
+which the father was absent; possibly the family's shared feeling about a father who is not there. *Next time:* ask the
+father what it is like to arrive on Friday into a week he has not seen.
+
+**The discipline.** The fourth column must offer more than one hypothesis. A log in which every feeling is the
+family's is not a log; it is a way of avoiding one's own history, and supervision will find it out.
+
+### 2.9 Six errors in object-relations family work
+
+1. **The interpretation without an observation.** A theory about the family delivered before anything has been
+   noticed. Fix: three specific observations, quoted, before any interpretation.
+2. **The labelling vocabulary.** "Enmeshed", "intrusive", "over-identified" used as descriptions of a person. Fix:
+   describe the sequence, and let the family supply the adjective.
+3. **The interpretation two steps ahead.** Naming a mechanism the family has given no evidence of needing to hear.
+   Fix: one step, and check the response before taking the next.
+4. **Interpreting an absent member.** Explaining a child to their parents in the child's absence. Fix: if the person
+   is not in the room, speak about what the parents notice, and invite the person into the next session.
+5. **The failed interpretation repeated in other words.** The commonest response to rejection and the least useful.
+   Fix: say "that may be wrong", stay curious, and return to the observation.
+6. **The endless therapy.** Continuation because ending has not been planned, justified by the depth of the work.
+   Fix: a stated review point, a theory of what would count as enough, and the discipline to say so to the family
+   before they have to ask.
+
+### 2.9a Two sessions with the same family, one object-relations and one not
+
+A comparison that shows what the model adds, using the Ogundipe couple from MFT 701's case bank.
+
+**The family.** Married fourteen years, two children. The wife says the husband is "never really there"; the husband
+says the wife is "never satisfied". Twice in fourteen years there has been a pushing incident, both when he had been
+drinking. She has not told her family. He is affectionate with the children and dismissive of his wife's account.
+
+**A structural reading.** The couple subsystem is weak, the wife is in a coalition with the children, the husband is
+peripheral, and the wife's escalating demands are an attempt to bring him into the marriage. The first move is to
+strengthen the couple boundary with a protected weekly conversation and a task that requires coordination.
+
+**An object-relations reading.** The wife's internal model is of a person who must manage alone, learned in a family
+in which her mother was depressed and her father absent; she experiences her husband's withdrawal as confirmation that
+she is unlovable when she needs something, and she escalates in order to extract evidence to the contrary. The husband's
+internal model is of a person whose needs are dangerous, learned in a family where his own mother's neediness was
+punished; he experiences his wife's demands as an attack and withdraws. Each is confirmed in the other's least
+available state. The pushing incidents are not explained by this formulation and must be handled separately and first.
+
+**What the object-relations reading adds.** Three things. It explains *why* the escalation is so intense relative to
+the presenting complaint — the wife is not arguing about the school run, she is arguing about whether she is lovable.
+It identifies the mechanism by which each partner's behaviour confirms the other's model, which is more explanatory
+than "the couple subsystem is weak". And it gives the therapist a specific countertransference prediction: the
+therapist will feel, towards this couple, an impulse to side with whoever seems more abandoned, and will need to notice
+it.
+
+**What it risks.** Both formulations are about the couple's internal worlds, and neither mentions the alcohol, the
+pushing, or the wife's concealment from her family — which are facts about safety and about power, not about internal
+objects. The safety work comes first in either case, and the object-relations reading must not be allowed to soften it.
+
+**The exercise.** Write the first three sentences of a session in each of the two models, then write the sentence that
+would open the session if the therapist had read both. Most students' third sentence is better than either of the
+first two, which is the case for comparison in one paragraph.
+
+### 2.10 Culture, faith and the unconscious
+
+The model's cultural assumptions are specific and consequential.
+
+**It assumes that the individual internal world is the primary unit.** Many families understand a difficulty as
+arising between people, or between the family and the spiritual world, rather than inside a person. An interpretation
+offered in the vocabulary of internal objects may be heard as an accusation of individual pathology, and a family whose
+account is relational or spiritual will find the model's grammar foreign.
+
+**It assumes that the therapist's authority to interpret is welcome.** In families where the therapist is young, of a
+different gender or ethnicity, or in a context where professional authority is contested, the interpretive position
+must be earned rather than assumed. The model's silence on this is a limitation, not permission.
+
+**It assumes a particular kind of family boundary.** The concepts of enmeshment and intrusion carry a picture of the
+healthy family as separate individuals in a clear boundary. Families in which three generations share a household, or
+in which a grandmother holds executive authority, may be described in the classical vocabulary as pathological when
+they are simply structured differently.
+
+**Care with the spiritual register.** A family may experience a difficulty as an attack, a punishment or a test, and
+may understand the "unconscious" as the spiritual realm. The mechanism of projection can be offered in the family's own
+register: "it is as though the worry has been placed in him, and now he carries it for the house." That sentence is
+the model's insight without the model's vocabulary, and it is more likely to be heard.
+
+**What the model offers families whose faith is central.** A respect for what cannot be said, and for the reality of
+the unseen. A therapist who can sit with a family's spiritual account without reducing it to psychology is doing
+something the model requires, even if the school's founders would have described it differently.
+
+> **DEBATE** — "A theory that locates the problem in the parents' unconscious is a theory that blames parents." Argue
+> for and against, using one case in which the interpretation helped and one in which it harmed.
+
+### 2.10a Working with a family whose culture does not use the model's vocabulary
+
+An exercise in translation, which is what cross-cultural practice with this model actually requires.
+
+**The family's account.** A mother describes her son as "carrying something from his father's house", and says the boy
+"has been like this since the burial". She does not use the word grief, and she does not describe an internal world. She
+describes a transmissible substance — something carried, something from a house, something that arrived at a date.
+
+**The model's account.** A disowned feeling has been located in the child and he has been recruited to carry it; the
+family's shared unconscious has organised around an unmourned loss.
+
+**The translation.** "It sounds as though something came into this house at the burial and it has been in him since. I
+want to understand what it is, and who else in the family is carrying it — because I think more than one person is."
+The sentence preserves the family's own account, uses their vocabulary, and adds the model's central move (that a
+feeling is distributed in the system and carried by one member) without importing the model's words.
+
+**What the therapist must not do.** Do not correct the family's account ("what you are describing is grief"), do not
+adopt it literally and abandon the clinical task ("the burial must have been done improperly"), and do not use the
+translation as a technique, which families detect. The translation is a way of taking the family's account seriously
+enough to work inside it.
+
+**The follow-up questions, in the family's register.** "When he carries it, what happens in the house?" "Who else has
+carried something like this?" "What would have to happen for it to be put down?" Each question is the model's
+mechanism asked in the family's language, and each will produce material that a question about "feelings" would not
+have produced.
+
+**The general principle for this week.** This model's power is in its attention to what cannot be said. Its danger is
+in its vocabulary. The therapist who can use the mechanism and speak the family's language has the best of it; the
+therapist who requires the family to adopt the model's language has mistaken a tool for a creed.
+
+### 2.11 Evidence note: what is actually known
+
+The matrix cell for this model must be honest, and honesty here means separating three different claims.
+
+**Claim 1 — long-term psychoanalytic family therapy as a package.** There is very little randomised evidence, and no
+body of trials comparable to the couple-therapy literature. The evidence that exists is largely case-based, qualitative
+and drawn from specialist clinics with selected families. The honest cell says: "no adequate trial evidence for the
+package as delivered classically".
+
+**Claim 2 — psychodynamic psychotherapy in individual form.** Here the evidence is better: trials and meta-analyses
+support psychodynamic psychotherapy for depression, some anxiety presentations and personality difficulties, with
+effects that appear durable after treatment ends. This is evidence for a relative of the model, not for the model.
+
+**Claim 3 — the components.** Mentalisation-based treatment has trial evidence in borderline personality disorder;
+reflective functioning is a measured construct with predictive validity; the concept of containment has informed
+therapeutic work in psychosis. Attachment theory, which grew in adjacent soil, is among the best-evidenced frameworks
+in the field. A student who can distinguish these three claims can defend the row; a student who says "psychoanalytic
+family therapy is not evidenced" has said something true and uninformative.
+
+**How to use the model responsibly.** As a source of mechanisms — containment, the therapist's response as data, the
+idea that a symptom can carry an unspoken feeling — rather than as a whole treatment to be delivered. Used this way,
+it is compatible with the evidence-based models in this course, and it is why the school is taught in Week 2 rather
+than abandoned.
+
+### 2.12a A reading exercise: three paragraphs of Bion
+
+The model's most difficult concept is containment, and the difficulty is worth meeting directly, because a student who
+can explain it plainly can explain anything in this course.
+
+**The passage.** Take two pages of Bion — the account of the infant's fear projected into the mother, who receives it,
+modifies it, and returns it in bearable form. Read it three times: once for the sense, once for the words you do not
+know, once for what it would mean in a session.
+
+**The plain translation, written in five sentences.**
+
+> A person who cannot bear a feeling does not simply hide it; they put it into somebody else. If the other person can
+> take it without being destroyed by it — can feel it, think about it, and give it back in a smaller form — the first
+> person gradually learns that feelings can be survived. If the other person cannot, the feeling comes back
+> unmodified, or the other person becomes ill with it. The therapist's job, in this model, is to be the second kind of
+> person. That is why the therapist's own support matters: you cannot hold a feeling you have no room for.
+
+**What the five sentences leave out, and must.** The developmental theory, the metapsychology, and the claim that this
+process is the origin of thought. Those are Bion's; the five sentences are what a family session needs.
+
+**The exercise.** Read the passage, write your own five sentences, and then test them against a session: find one
+moment in your recorded work where a family member put a feeling into you, and describe what you did with it. Most
+students discover that they evacuated it — into advice, into reassurance, into a change of subject — within ninety
+seconds. That discovery is the most useful thing this week can produce, because it is the beginning of a skill that no
+model owns and every model needs.
+
+### 2.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Object relations | Internalised working models of self and other formed in early relationships |
+| Projection | Disowning a feeling and locating it in another person |
+| Projective identification | Projection plus pressure, recruiting the other to behave in accordance with it |
+| Splitting | Experiencing people as wholly good or wholly bad, the views held separately |
+| Repetition compulsion | The re-enactment of earlier relational patterns in new relationships |
+| Containment | Holding a feeling without evacuating it into advice, reassurance or action |
+| Transference | The family's feelings towards the therapist, read as data about their relational world |
+| Countertransference | The therapist's feelings towards the family, read as data |
+| Interpretation | A tentative statement linking present behaviour to an unconscious process |
+| Working through | The repeated return to a pattern until it can be held differently |
+| Reflective function | The capacity to understand behaviour in terms of mental states |
+| Family myth | A shared, unquestioned belief that organises a family's account of itself |
+
+### 2.13a The model in three sentences, and what each sentence costs
+
+The matrix row has to be written in the student's own words. Three sentences are enough for a good row, and each
+carries a cost that the blind-spot column must record.
+
+**Sentence 1 — the theory of problem.** "Difficulties are maintained by internalised relationship patterns from
+earlier in the family's history, which are re-enacted in the present, with one member often carrying a feeling the
+family cannot hold." *The cost:* the account locates the problem in the family's internal world, which can obscure
+material conditions, institutions and power.
+
+**Sentence 2 — the theory of change.** "Change comes through containment and through carefully timed interpretation:
+the family discovers that a feeling can be held rather than evacuated, and the pattern becomes thinkable rather than
+compulsive." *The cost:* the mechanism is slow, and there is little trial evidence for the package as delivered; the
+clinician must claim component evidence, not outcome evidence.
+
+**Sentence 3 — the therapist position.** "The therapist is a participant-observer whose own emotional response is data,
+and whose authority to interpret must be earned in the room." *The cost:* the position assumes a family able to tolerate
+and interested in interpretation, and it has historically under-examined its own power.
+
+**How to use the three sentences.** In the matrix, in the viva, and in the first supervision session of a placement,
+because they are short enough to be remembered under pressure and complete enough to be challenged. A student who can
+say them from memory, and who can name the cost of each, has level 1 and is ready for level 2.
+
+### 2.13 Self-test
+
+1. What are the five core concepts of the school?
+2. What is the difference between projection and projective identification?
+3. Give the four rules for an interpretation that will land.
+4. Why is the therapist's countertransference treated as data?
+5. What does "containment" mean, and why is it a mechanism rather than a technique?
+6. State the model's theory of problem in one sentence.
+7. What are the three separate evidence claims that a good matrix cell distinguishes?
+8. Name three cultural assumptions the model carries, and say what each would make hard to see in a
+   three-generational household.
+
+**Answers.** 1. Object relations; projection; projective identification; splitting; repetition compulsion (with the
+family as a shared unconscious system). 2. Projection locates a disowned feeling in another; projective
+identification also pressures the other to behave in accordance with it. 3. Link rather than label; offer rather than
+pronounce; interpret the pattern rather than the person; go one step beyond what the family knows. 4. Because it is
+information about the family's relational world, and because it is otherwise a source of enactment. 5. Holding a
+difficulty without converting it into advice or action; it is a mechanism because the family's experience of having a
+feeling survived is itself the change. 6. Difficulties are maintained by unconscious processes and internalised
+relationship patterns that are re-enacted in the family now, with one member often carrying a feeling the system
+cannot hold. 7. The package; the closely related individual modality; and the components. 8. That the individual
+internal world is the primary unit; that the therapist's authority to interpret is welcome; that the healthy family
+is one of separate individuals with clear boundaries.
+
+### 2.14 Reflective task
+
+Think of a family you know well — your own, or one from placement — in which one member is described by the others in
+a way that seems to say more about the describers than the described. Write 300 words on what the description does for
+the family, and then write the sentence you would say as a therapist, following the four rules. Bring both to the
+seminar. Most students find that the sentence is much harder to write than the analysis, which is the point of the
+week.
+
+### 2.15 Readings for this week
+
+* **Scharff & Scharff**, *Object Relations Family Therapy*, chapters 1–4, for the model's own account of its method.
+* **Scharff & Savege Scharff (eds.)**, *The Primer of Object Relations Therapy*, for a shorter introduction.
+* **Bion (1962)**, *Learning from Experience*, for containment — difficult, and worth two hours.
+* **Winnicott**, any of the collected papers on the holding environment, read for the language rather than the theory.
+* **Fonagy & Target**, on reflective functioning and mentalisation, for the component that has the best evidence.
+* **Shedler (2010)**, "The efficacy of psychodynamic psychotherapy", *American Psychologist*, with the critiques that
+  followed it, for how to read an evidence claim about this tradition — and read the critiques first, because the
+  strongest form of the objection is the one the essay will require you to state.
+
+*Next: [Week 3 — Bowen's multigenerational theory](#week-3--bowens-multigenerational-theory)*
 
 ---
 
