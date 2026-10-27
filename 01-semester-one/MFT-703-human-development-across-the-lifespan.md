@@ -4297,42 +4297,1398 @@ Most students find the second question harder than the first, which is the point
 
 ## Week 7 — Adolescence I: puberty, identity, autonomy
 
-**Tasks.** Identity versus role confusion; pubertal change; separation-individuation *without* severance;
-peer belonging; emerging sexuality; moral and ideological commitment.
+**Developmental tasks.** Identity versus role confusion (Erikson, from about twelve); pubertal change and
+its timing; separation-individuation *without* severance; peer belonging as a biological need rather than a
+preference; emerging sexuality; and the first genuinely ideological commitments — the adolescent's own
+answers to questions about religion, politics, loyalty and justice.
 
-**The neuroscience, briefly.** The adolescent brain is not "broken": it is specialised. The reward system
-matures before the regulatory system, which produces sensation-seeking and heightened sensitivity to peer
-approval alongside gradually improving impulse control. This is an argument for scaffolding, not for
-lecturing.
+**The neuroscience, briefly and correctly.** The adolescent brain is not "broken": it is specialised. The
+reward system matures ahead of the regulatory system, which produces sensation-seeking and heightened
+sensitivity to peer approval alongside gradually improving impulse control that continues into the
+mid-twenties. Three things follow, and three things do not. What follows: adolescents are more responsive
+to peer presence than children or adults; they discount delayed outcomes more steeply; and they learn
+fast in conditions of high arousal and interest. What does not follow: that they cannot reason, that they
+are irrational, or that the findings license a lecture. On tasks with no peers present and no time
+pressure, adolescents reason as well as adults. The difference is in the conditions, and conditions can be
+designed.
 
 **The family task.** To *renegotiate* the relationship: less control, more influence; more privacy, more
-accountability. Families that cannot renegotiate produce two common patterns: escalation (control
-increases as autonomy increases) and abdication (parents withdraw entirely).
+accountability. Families that cannot renegotiate produce two common patterns: escalation, in which control
+increases as autonomy increases, and abdication, in which parents withdraw entirely and call it respect.
 
-> **CASE** — Amara, 16. The parents describe her as "secretive"; she describes them as "spies". The
-> developmental reframe: privacy is a developmental need, and secrecy is what privacy becomes when there
-> is no negotiated trust. The intervention is a *negotiation*: what will she share, what will they ask,
-> and what happens when the agreement is broken?
+**Why the two adolescence weeks are separate.** This week is about the *person* — body, identity,
+autonomy, the developmental machinery. Next week is about *risk* — the specific dangers that this
+machinery produces in this environment, and what a therapist does about them. The split is artificial and
+is made for teaching: in the clinic they arrive together, and the practitioner must hold both.
+
+> **CASE** — Amara, fifteen, in Senior Secondary 2. Her parents describe her as "secretive"; she describes
+> them as "spies". The developmental reframe: privacy is a developmental need, and secrecy is what privacy
+> becomes when there is no negotiated trust. The intervention is not more supervision and not more freedom;
+> it is a *negotiation* — what will she share, what will they ask, and what happens when the agreement is
+> broken?
+
+### 7.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The problem with the question | Why "why is my teenager like this?" is the wrong question, and what replaces it | Write the question they actually want answered |
+| 8–22 | Puberty | The sequence, the timing, and the two sexes' different relationships to it | Place four pubertal events on a timeline and mark the range |
+| 22–34 | Timing effects | Early maturation in girls, late in boys, and the mechanisms | Predict the clinical presentation for each of four cases |
+| 34–48 | The neuroscience | Four findings, three misuses, and the conditions under which adolescents reason well | Rewrite three "teenage brain" claims as testable statements |
+| 48–62 | Identity | Marcia's four statuses, and how a therapist recognises each in a session | Classify four adolescent presentations |
+| 62–74 | Autonomy without severance | The renegotiation, and the two failure patterns | Script a negotiation opening for a real family |
+| 74–84 | Privacy and accountability | The three-column contract, worked on the whiteboard | Draft one contract for their own case |
+| 84–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Students come to adolescence with either of two
+inherited attitudes: that teenagers are a problem to be managed, or that they are a mystery to be
+respected. Both are ways of not working with them. The lecture's job is to install a third attitude —
+that the adolescent is a *colleague in a renegotiation*, with legitimate interests and real obligations —
+and the way to install it is to have the class run the negotiation themselves, in role, against a parent
+played by the lecturer who does not concede easily.
+
+**The sentence the lecture must land.** "The adolescent's job is not to leave you; it is to become someone
+you have not met yet, in front of you, while you are still paying for the food."
+
+### 7.2 Five concepts that organise the week
+
+**1. Identity versus role confusion.** Erikson's fifth stage, and the one that gives the age its name.
+Identity is not a feeling; it is a set of *commitments* — to a vocation, a set of beliefs, a kind of
+relationship, a place. James Marcia's operationalisation is the most useful tool in the week, because it
+turns identity into something observable in a session. He crossed two dimensions: *exploration* (has the
+young person actively tried options?) and *commitment* (has she settled on one?).
+
+| | Commitment made | No commitment |
+|---|---|---|
+| **Exploration** | **Achieved** — "I want to do physiotherapy because I worked in a clinic for a year and I liked the problem-solving" | **Moratorium** — "I am trying law, medicine and music; I will know by next year" |
+| **No exploration** | **Foreclosed** — "I am going to be a doctor; my father is a doctor" (no examination of alternatives) | **Diffuse** — "I do not know, I have not thought about it" |
+
+The clinical value is that the four statuses have different prognoses and different treatments. Foreclosure
+is not a problem while it fits, and becomes one at twenty-six when it does not. Moratorium is healthy and
+anxiety-provoking. Diffusion in a fifteen-year-old is common, and diffusion at twenty-two with no
+exploration is a clinical concern. And the therapist's question is never "what do you want to be?" but
+"what have you tried, and what did you find out?"
+
+**2. Puberty as a social event as much as a biological one.** The biological sequence is predictable:
+in girls, breast development, growth spurt, menarche; in boys, testicular growth, voice change, growth
+spurt. The *social* meaning is not predictable at all, and it does most of the clinical work. A girl who
+menstruates at nine in a school where the others are eleven will be treated as older than she is, by
+adults, for years. A boy who matures at sixteen in a culture that equates physical size with status will be
+treated as younger than he is, and may comply.
+
+**3. Separation-individuation without severance.** The psychoanalytic language is clumsy and the
+phenomenon is real: the adolescent must become a separate person *while remaining attached*. The metaphor
+of leaving home is wrong for most of the world, where adolescents do not leave and are not expected to.
+What they must separate from is not the household but the household's *definition of them* — and they must
+do it in front of an audience that keeps feeding them.
+
+**4. Peer belonging as a need, not a preference.** Peer presence changes adolescent risk-taking in
+experiments; being excluded activates the same systems as physical pain. This is not weakness; it is the
+developmental mechanism by which the young person moves their attachment from the family to the wider
+world. The clinical consequence: an intervention that requires the adolescent to be socially expendable
+will fail, and an intervention that uses the peer group will succeed more often than one that fights it.
+
+**5. Ideological commitment arrives.** Adolescents begin to hold positions on justice, religion, politics
+and loyalty that are genuinely their own, and they test those positions against the adults in the house.
+The household experiences this as argumentativeness. Developmentally it is the emergence of a moral
+agent, and it is the raw material of identity. A family that can survive being disagreed with produces an
+adolescent with convictions; a family that cannot produces either a secretive adolescent or a
+foreclosed one.
+
+### 7.2a Pubertal timing: the effects that matter clinically
+
+Timing, not just change, is a developmental variable with measurable consequences, and it is one of the
+few things in this book that a therapist can assess in a single question.
+
+**Early maturation in girls.** Associated with higher rates of depressive symptoms, body dissatisfaction,
+and involvement with older peers — the last of which mediates much of the rest. The mechanism is not the
+hormones; it is the *social response* to a body that looks older than the person is. The clinical
+implication: a twelve-year-old who looks sixteen is being treated as sixteen by strangers, relatives, and
+sometimes by her own family, and she has the cognitive and emotional equipment of twelve.
+
+**Late maturation in boys.** Associated with lower self-esteem and, in some cohorts, more risk behaviour
+in the late teens once maturation arrives — the "catch-up" pattern. The mechanism is again social: size
+is a currency in this age band, and a boy who does not have it is at the bottom of a visible hierarchy.
+
+**The reverse patterns are milder but real.** Early-maturing boys gain social advantage; late-maturing
+girls generally do better on the outcomes that matter. Neither is a reason to be complacent: the
+advantage is contingent on the peer group's values, and it is the *mismatch* between the body's apparent
+age and the person's actual age that carries the risk.
+
+**What the therapist asks.** One question, to the parent, in the child's presence or not: "when did you
+notice her body changing, compared with her friends?" And one to the adolescent, alone: "do people treat
+you as older or younger than you are?" The second answer is usually more informative than the first, and
+it frequently produces the material for the whole session.
+
+**The clinical presentations to expect.** Early-maturing girls are over-represented in referrals for
+anxiety, mood, and "behaviour" that turns out to be an older peer group. Late-maturing boys are
+over-represented in referrals for withdrawal, "lack of confidence", and school refusal in the first years
+of secondary school. Both are frequently formulated as family problems before anyone asks about timing,
+and the reframe alone is often relieving for the adolescent, who has usually concluded that the problem
+is her character.
+
+### 7.2b The teenage brain: four findings and three misuses
+
+The neuroscience is useful to a family therapist only if it changes what she does in the room. It changes
+three things: how she explains risk to parents, how she designs tasks for adolescents, and how she thinks
+about the timing of consequences.
+
+**Finding 1 — The reward system is responsive, and more so in company.** Mid-adolescents show heightened
+striatal response to reward, and this is amplified by the presence of peers. *Use:* a plan that gives an
+adolescent something to gain, in front of people whose opinion matters, will outperform a plan built on
+avoiding loss.
+
+**Finding 2 — Regulatory control is still developing.** Performance on inhibition and planning tasks
+improves steadily into the twenties. *Use:* do not build a plan that requires the adolescent to inhibit a
+strong impulse in a high-arousal moment; build one that removes the moment, or that puts an adult between
+the impulse and the act.
+
+**Finding 3 — Adolescents reason well under cool conditions.** On tasks with no audience and no time
+pressure, adolescent reasoning is comparable to adult reasoning. *Use:* the therapy room is a cool
+condition, and an adolescent who is articulate and thoughtful in the session and reckless on Friday night
+is not being a hypocrite. She is reporting accurately from two different states, and the treatment target
+is the state, not the report.
+
+**Finding 4 — Sleep timing shifts.** Melatonin release shifts later, so the adolescent is biologically
+not sleepy at ten and biologically not awake at seven. *Use:* this is the single most useful fact in the
+week for parents, because it converts "laziness" into a physiological fact — and because the practical
+recommendation (a consistent wake time, light in the morning, no bright screens in the last hour) is one
+that a family can actually follow.
+
+**Misuse 1 — "Their brains are not finished, so they cannot decide."** The finding is about the rate of
+development of one system, not about competence. Adolescents can and must decide; the finding argues for
+scaffolding decisions, not for removing them.
+
+**Misuse 2 — "Peer pressure explains everything."** Peers matter most for *risk* decisions in arousing
+conditions. They matter much less for the ordinary choices of a Tuesday afternoon, and an explanation that
+uses peer pressure for everything explains nothing.
+
+**Misuse 3 — "They will grow out of it."** Some things resolve; some, like a depressive episode or a
+developing substance pattern, worsen. The neuroscience says nothing about which is which, and using it as
+reassurance in the wrong case is a serious error.
+
+### 7.3 The method: renegotiating the frame
+
+The adolescent session fails, when it fails, for one of two reasons: the therapist has been recruited as
+the parents' agent, or the therapist has tried to be the adolescent's friend. Both are avoided by
+negotiating the frame *in front of both parties*, in the first fifteen minutes, and writing it down.
+
+**Step 1 — Say what you have been told, and say it in the room.** "Your parents have told me that you are
+secretive and that they are worried. They have told me some specific things, which I will not repeat in
+front of you without asking. I want to hear your version, and I will tell you afterwards what I think."
+The move is radical for families in which information flows upward only, and it buys the therapist the
+right to ask the next question.
+
+**Step 2 — Establish the confidentiality rule explicitly.** The three-part rule: what the adolescent says
+stays in the room; exceptions are stated in advance (danger to self, danger to others, and — in most
+clinics — any disclosure of abuse); and *anything about the household that the parents need in order to
+change* is discussed with the adolescent first, including how it will be said. The last part is the one
+that distinguishes a working adolescent practice from a performative one.
+
+**Step 3 — Ask what the adolescent wants out of this.** The question is unfamiliar and usually productive.
+The answers cluster: "I want them to stop asking me the same question"; "I want to be allowed out"; "I
+want them to stop fighting"; "I want to be left alone". Each is a negotiable interest, and the
+therapist's next move is to convert it into a proposal.
+
+**Step 4 — Run the negotiation, not the therapy.** With both parties present, three columns are filled:
+*what she will share*, *what they will ask*, and *what happens if the agreement breaks*. This is the
+substance of the session and it takes about twenty minutes. It works because it addresses the actual
+complaint — a broken information system — rather than the presenting emotion.
+
+**Step 5 — Forecast the test.** The agreement will be tested within a fortnight. Say so: "someone will
+break this in the next two weeks. When it happens, we will look at it here rather than at home." This
+single sentence reduces the probability that the first breach becomes a family rupture, because it
+pre-frames the breach as data.
+
+**Step 6 — Give the parents a job they can do.** Not "be less controlling" — unactionable. A specific
+behaviour: one question a day instead of six; a fixed time for the conversation; a weekly hour with no
+agenda. Parents who are given a specific behaviour change it; parents who are given an attitude do not.
+
+### 7.3a The three-column contract, worked
+
+The contract is a table on a sheet of paper with three columns, and it is the week's central practical.
+
+**Column 1 — What she will share, unasked.** Typically: where she is, who with, when she will be back, and
+a message if she is late. These are safety data, not intimacy data, and separating them is the key move.
+An adolescent will usually agree to share safety data because it costs her nothing she values.
+
+**Column 2 — What they will ask, and how often.** Typically: one question at a time, at a stated hour,
+and not at the moment she comes in the door. The specificity matters more than the content: "not in the
+first ten minutes after I get home" is a rule that can be kept, and it usually solves the complaint on
+both sides, because the parents' need is information and the adolescent's need is decompression.
+
+**Column 3 — What happens when it breaks.** Written in advance, by both parties, and mild. A missed
+message means a phone call, not a grounding. A phone call means a conversation, not a punishment. The
+column exists because families without it escalate to the maximum sanction on the first breach, and the
+maximum sanction cannot be repeated, so it fails immediately.
+
+**The four things that are never in the contract.** No blanket access to the phone's contents; no
+permission to read a diary; no requirement to report the content of friendships; and no agreement that
+the adolescent will "tell them everything". Each of these is a demand for intimacy that the stage does
+not support, and each will be signed and then evaded, which is worse than not having an agreement at all.
+
+**What to do when the parents refuse the contract.** This is common, and it is information rather than an
+obstacle. The refusal usually means the parents' own fear is unmanageable, and the therapist's next move
+is to take the fear seriously: "what are you most afraid will happen if she has a door you cannot open?"
+The answer is frequently specific and addressable — a pregnancy, a cult, a boy, a bus — and once it is
+named, a narrower agreement becomes possible.
+
+### 7.4 Three techniques
+
+**Technique 1 — The five-domain identity interview.** Ask, in order, about five domains: *work* (what are
+you good at, what do you want to be doing at twenty-five, what have you tried); *beliefs* (what do you
+believe that your parents do not); *relationships* (who matters to you and why); *leisure* (what do you do
+when nobody is watching); and *body* (how do you feel about how you look). Then classify against Marcia:
+exploration, commitment, both, neither. Twenty minutes, and it produces a formulation of the person rather
+than of the symptom.
+
+**Technique 2 — The question they cannot answer at home.** "If your parents understood one thing about
+your life that they do not understand, what would it be?" Ask it in the joint session and then ask the
+adolescent to say it *to them*, not to the therapist. The technique fails about a third of the time and
+when it works it does more than four sessions of individual work, because the adolescent discovers that
+saying it is survivable.
+
+**Technique 3 — The future letter.** Ask the adolescent to write, in ten minutes, a letter from herself at
+twenty-five to herself now. Read it in the session only if she offers it. The technique surfaces the
+*content* of identity — what she actually wants — which is otherwise unavailable to a fifteen-year-old who
+is asked directly, and it gives the therapist a vocabulary to use for the rest of the work.
+
+### 7.5 The first session with a fifteen-year-old and two parents
+
+**Phase 1 — Both, briefly (10 minutes).** Everyone in the room. The parents state the complaint in two
+minutes each; the adolescent is told she will get the same time and does. The therapist's only job here is
+to keep the time fair, visibly, because fairness is the currency of this age.
+
+**Phase 2 — The parents out (35 minutes).** The adolescent alone. The confidentiality rule stated first,
+then the frame questions: what do you want out of this; what do they get wrong about you; who knows you
+best. Then the identity interview, or as much of it as she will give.
+
+**Phase 3 — The parents back (15 minutes).** The therapist states, *with the adolescent present*, what she
+has permission to say. This is the hinge of the session: it demonstrates that the frame is real, and it
+usually produces a visible change in the adolescent's posture, because she has never seen an adult keep
+that promise.
+
+**Phase 4 — The contract (20 minutes).** Three columns, written, signed by nobody (signing infantilises),
+photographed by everyone. The parents leave with a behaviour, the adolescent leaves with a rule, and the
+therapist leaves with a baseline.
+
+**Phase 5 — The follow-up question (5 minutes).** "What would have to happen in the next two weeks for you
+to think this was worth coming to?" Ask both parties. Write the answers down. They are the outcome
+measures.
+
+**Why the adolescent goes second and gets more time.** Because the parents have had fifteen years of
+being listened to and the adolescent has had none, and because the therapeutic alliance in this age band is
+the entire treatment. A therapist who spends the session with the parents and fifteen minutes with the
+adolescent has built a relationship with the wrong client.
+
+### 7.5a When the adolescent will not speak
+
+The silent adolescent is the commonest difficulty in this age band, and the standard response — waiting
+patiently, then asking about school — produces forty-five minutes of nothing. Five moves, in order of
+escalation.
+
+**Move 1 — Name the situation honestly.** "You have been brought here by two people who are worried about
+you, and you did not choose to come. I would not want to talk either." This is not a technique for
+building rapport; it is an accurate description, and adolescents are unusually responsive to accuracy.
+
+**Move 2 — Ask about the thing she is allowed to have opinions about.** Not her feelings. Her *views*:
+what is wrong with the school, which teacher is useless, what her parents do not understand about her
+generation. The identity stage runs on judgement, and an adolescent who will not describe herself will
+happily describe the world.
+
+**Move 3 — Use a third object.** A phone (theirs, not yours), a diagram, a list of statements to sort.
+"The things people say about teenagers are on these cards. Sort them into true and rubbish." Every card
+sorted is a self-description the adolescent has given without being asked for one.
+
+**Move 4 — Offer a deal with a real cost to you.** "Give me ten minutes of real answers and I will spend
+the last twenty minutes of this session arguing your case to your parents, in front of you." This works
+because it is a trade between parties with interests, which is the register of the age, and because it is
+kept.
+
+**Move 5 — Accept the silence and change the client.** If none of that works, end the individual session
+early and say why: "I am not going to sit here and pretend. I will work with your parents for now, and the
+door stays open." This protects the alliance for the session in which she does talk, which is often the
+fourth.
+
+**What never works.** Asking "how are you feeling?" three times; interpreting the silence ("you seem
+angry"); producing a worksheet; or telling the adolescent that she is "resistant". The last is the most
+common and the most damaging, because it converts the therapist's failure into the client's defect — and
+the adolescent, who has been described in deficit terms by adults her whole life, will accept the
+description and stop coming.
+
+### 7.6 Case: Amara, secretive and spied upon
+
+**Referral.** The Adeyemis, whom the course first met in Week 3, return. Amara is fifteen and in Senior
+Secondary 2. Her mother, Funke, 42, telephones: "She has a boyfriend and she is lying to us. We found the
+phone. Her father is coming home on Friday and he wants this finished."
+
+**The household.** Tunde, 47, an engineer on a contract in Lagos, home two weekends in four. Funke, a
+school administrator. Segun, twelve. A paternal aunt, 55, who lives with them and who, Funke says, "knows
+everything before I do".
+
+**The parents' account.** Six weeks ago Funke looked through Amara's phone while she was in the bathroom.
+She found a message thread with a boy in SS3, and a second thread in which Amara described her mother to a
+friend as "the police". Since then: the phone is confiscated at nine; Amara's movements are checked by the
+aunt; the gate is locked at seven; and Amara has stopped speaking at dinner. Funke's summary: "she is
+secretive, and she is becoming somebody I do not know."
+
+**Amara's account, alone, in the second session.** "They are spies. She reads my phone. Auntie reports
+where I go. My father comes home and shouts for two days and then leaves and it is worse." Asked what the
+messages were about: "He is in SS3. We talk. That is all." Asked what she wants out of this: "I want a
+door."
+
+**What the therapist establishes, in three questions.** First: what have you tried that they did not
+notice? Answer: she has started walking home the long way, and she has begun attending a church youth
+group on Wednesdays that she did not tell them about, "because if I tell them they will come". Second:
+what do you want to do after school? A long pause, then: "Physiotherapy." Who decided that? "Me. I read
+about it." Does your father know? "He says I am doing medicine." Third: when did you last tell your mother
+something true? "When I was thirteen."
+
+**The three findings, in order of clinical weight.**
+
+**1. The parents' surveillance is functioning as designed and producing the opposite of its aim.** Phone
+search, aunt as informant, locked gate, no negotiated agreement. Each measure was a response to a real
+fear, and together they have produced an adolescent with a private life she now has a *reason* to hide.
+This is the mechanism of the week's reframe: secrecy is what privacy becomes when privacy is not
+available.
+
+**2. The identity work is real and is being read as defiance.** She has made an occupational commitment
+(physiotherapy, based on exploration — she read about it, she talked to a physiotherapist at the church
+clinic) and a belief commitment (the youth group). Her father has foreclosed the first on her behalf:
+medicine, because he is a man who did not have the choice himself. The conflict at the dinner table is not
+about a phone. It is about whether she is allowed to be the author of her own life, and the father
+experiences the question as ingratitude.
+
+**3. There is nothing in the referral that constitutes a safeguarding concern.** The boy is seventeen, the
+relationship is described as talking, there is no coercion, no age gap that triggers the clinic's
+protocol, and no indication of harm. The therapist records this explicitly, because the family's
+escalation invites a professional to escalate with it, and a clinician who over-reacts here will be used
+as an instrument of the surveillance.
+
+**The formulation.** A fifteen-year-old at the moratorium stage, with one commitment made and one
+foreclosed by her father, in a household where the information system has broken and been replaced by
+surveillance. The presenting problem is the broken system. The underlying problem is that the father's
+absences have left the mother managing alone, with an aunt as a second authority and no agreed
+hierarchy — which is the Week 3 problem in this family, returned at a different age.
+
+**The intervention, in four parts.**
+
+**Part 1 — Restore an information system, on the three-column contract.** Safety data unasked (where,
+who, when, a message if late). Questions at one stated hour, not at the door. A breach met with a phone
+call, not a lockdown. The phone returned, with the agreement that the parents do not read it — and with
+the therapist saying plainly, in front of the adolescent, that she has advised this and why: because a
+fifteen-year-old with no private space will create one, and the created one is the one you cannot see.
+
+**Part 2 — Give the aunt a defined role, aloud.** The aunt is not the problem; the undefined authority is.
+Funke and the aunt agree, in the session, on what the aunt decides (whether Amara goes out at all while
+Funke is at work, and safety) and what she reports (arrival times only, and anything unsafe — not
+friendships, not clothes, not moods). The sentence is said to Amara: "Auntie is in charge of whether you
+go and when you come back. She is not in charge of who your friends are."
+
+**Part 3 — The Wednesday.** Amara tells her parents about the youth group, in the session, and the parents
+agree that she attends without being accompanied. This is the cheapest and most powerful intervention in
+the case: a piece of her life is voluntarily disclosed, in exchange for nothing, and its effect on the
+parents' fear is larger than any explanation the therapist could give.
+
+**Part 4 — The father's two days.** Tunde's fortnightly returns are the family's structural problem. In
+the session with him present, the therapist asks one question: "what do you want her to remember about
+these two days, in ten years?" He is silent for a while and then says: "that I asked her things." The
+agreement that follows is specific and small: on the Saturday of each return, one hour, no agenda, no
+school results, no phone — and the topic is hers. The therapist does not ask him to accept physiotherapy.
+She asks him to ask her about it, in front of her, once, and then to say what he thinks without deciding.
+
+### 7.6a Six weeks later
+
+The contract has been broken twice. The first time, Amara came home at nine-forty without a message; the
+phone call was made; the conversation lasted four minutes; nothing was confiscated. The second time,
+Funke asked a question at the door; Amara said "not now, at eight", and the question was asked at eight.
+
+Amara has told her father about physiotherapy. He has not agreed. He has stopped saying "you are doing
+medicine", which the therapist logs as the realistic outcome of a single hour, and which is more than the
+referral predicted.
+
+The aunt has been given her defined role and has, according to Funke, "started telling me less", which
+Funke reports with ambivalence and which is the correct direction.
+
+The most informative change is one nobody planned. Amara has started asking her mother about her own
+school days. Funke reports this as a curiosity; the therapist hears it as the beginning of the adolescent's
+interest in the parent as a person, which is the developmental signature of the move from identity to
+intimacy that occupies the late teens.
+
+**What would have changed the plan.** If the messages had contained sexual content with an adult, the
+safeguarding protocol would have taken precedence over everything in this section. If Amara had described
+coercion, threats, or a pregnancy, the plan would have been safety first and negotiation second. If the
+father had refused to attend, the work would have proceeded with mother and daughter, with a specific
+question kept open for him. And if Amara had refused the contract entirely — a real possibility — the
+therapist would have worked with the parents alone on the surveillance, on the grounds that the system
+that is producing the secrecy does not require the adolescent's consent to be changed.
+
+### 7.7 Transcript: the negotiation, with the contract on the table
+
+Twelve turns from the third session. Tunde is present for this session, having flown in the night before.
+The adolescent is fifteen. The therapist has a blank three-column sheet in front of her and a pen she is
+not holding.
+
+> **T1 Therapist:** I want to do something different today. I want us to write three lists, together, and
+> I want the lists to be the only thing we argue about. The first list is what Amara tells you without
+> being asked. *(to Amara)* You start. What would you be willing to tell them without being asked?
+> — *The therapist hands the first move to the adolescent, which is the whole architecture of the
+> intervention. Note what she does not do: she does not begin with the parents' complaint.*
+>
+> **T2 Amara:** Where I am. When I am coming back. If I am late.
+>
+> **T3 Tunde:** That is not the problem. The problem is —
+>
+> **T4 Therapist:** *(gently)* Hold it for four minutes. I promise it gets a column. — *The single most
+> useful sentence in adolescent family work: a promise of a specific place for the objection, with a
+> time limit. It works because it is true.*
+>
+> **T5 Tunde:** *(nods, sits back)*
+>
+> **T6 Therapist:** *(writing)* Where you are, when you are coming back, a message if you are late. That is
+> column one. Second list: what they get to ask, and when. *(to the parents)* What do you need to know?
+>
+> **T7 Funke:** Who she is with. And where.
+>
+> **T8 Therapist:** "Who she is with" is in column one, if she will put it there. *(to Amara)* Will you?
+> — *Note the move: the therapist does not grant or refuse the request; she routes it to the person who
+> owns it. This is what "negotiation" means operationally, and it takes about eight seconds.*
+>
+> **T9 Amara:** *(pause)* Yes. But not the names. Just "a friend from school".
+>
+> **T10 Funke:** How is that supposed to —
+>
+> **T11 Therapist:** *(to Funke)* That is a counter-offer, and it is the first one she has made. Take it or
+> make one, but do not lose it. — *The therapist names the offer as an offer, which changes its status
+> from a half-victory to a move in a negotiation. Parents in these sessions consistently miss the
+> conciliatory move because it arrives in the same tone as the defiant one.*
+>
+> **T12 Tunde:** *(to Amara, not to the therapist)* If you tell us "a friend from school" and you are late,
+> what happens? — *The father has moved from complaint to terms. This is the turn the session was for, and
+> the correct response is to let him run it.*
+
+### 7.8 Laboratory: the negotiation, marked
+
+**Aim.** To conduct a three-column negotiation with an adolescent and two parents in twenty-five minutes,
+and to keep the frame intact when it is tested.
+
+**Procedure.** Quadruples: therapist, adolescent, two parents, one observer. The trainer supplies a
+one-page brief to each role privately, including one instruction designed to break the frame — the
+adolescent is told to refuse column one entirely; one parent is told to demand the phone's contents; the
+other is told to leave the room if the therapist takes the adolescent's side. The therapist must run the
+negotiation without knowing which brief is which. Twenty-five minutes, then the observer reports which
+pressure arrived and how it was handled.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The frame** | Confidentiality not stated, or stated and then broken | Stated clearly, with exceptions, but not held under pressure | Stated, held, and used — the therapist refuses to report content and says why |
+| **The three columns** | Two or fewer filled, or filled by the therapist | Three filled, but with unactionable items | Three filled, specific, with breach consequences written by the parties |
+| **Voice** | Therapist speaks more than the family | Therapist speaks about as much | Therapist speaks least; both parties address each other |
+| **Handling refusal** | Concedes the frame or abandons the session | Holds the frame, but argues | Holds the frame, names the refusal as information, and offers a narrower agreement |
+| **The close** | Ends with understanding | Ends with a plan | Ends with a plan, a forecast of the breach, and each party's own outcome question |
+
+**The distinction that carries most of the marks.** The top band requires the student to *not* fill in a
+column themselves. A therapist who says "so you will tell them where you are" has written the agreement on
+the family's behalf, and the family will not keep a therapist's agreement.
+
+### 7.9 Six errors
+
+**Error 1 — Becoming the parents' agent.** The referral was written by the parents; the therapist reads it;
+the first session is with the parents. By the time the adolescent arrives she is meeting an employee. The
+correction is procedural: the adolescent is seen first, or at least given equal time and equal billing, in
+the first session.
+
+**Error 2 — Trying to be the adolescent's friend.** The opposite error, and it produces a therapist the
+adolescent does not respect and the parents do not trust. The position is not friendship; it is *advocacy
+with limits* — the therapist is on the adolescent's side in the sense that she will not lie to her, which
+is a different and more durable thing.
+
+**Error 3 — Treating the phone as the problem.** The phone is the site. Remove it and the site moves.
+The formulation is about an information system and a developmental need, and a therapist who negotiates
+about a device has accepted the family's definition of the problem.
+
+**Error 4 — Calling normal development a disorder.** Moratorium looks like confusion; experimentation
+looks like risk; argument looks like opposition; a late bedtime looks like defiance. Each has a
+developmental reading, and the diagnostic threshold in this age band should be high — which is not the
+same as absent.
+
+**Error 5 — Colluding with cultural foreclosure.** "In our culture children do what their parents decide"
+may be true as a description of a household and false as a description of a fifteen-year-old's
+development. The therapist's job is not to overturn the household's values but to make room for the
+question of what the young person actually wants, because a foreclosed identity chosen for someone else is
+a stable arrangement that fails at twenty-six.
+
+**Error 6 — Ignoring the parent who is absent.** Tunde's two days in four are the structure of this family
+and no one in the referral mentioned them. The absent parent's absence is a clinical fact even when — and
+especially when — it is presented as a virtue.
+
+### 7.9 Six errors, continued: the one that ends treatment
+
+There is a seventh error in this age band, and it is not a technique error; it is a relationship error with
+a predictable end.
+
+**Error 7 — Becoming the only adult who understands her.** The therapist who says, or implies, "I am the
+one person who gets you" has made a promise that requires the family to remain incomprehensible. It is
+flattering to the therapist, it is common in trainees working with adolescents, and it converts the work
+into a competition in which the adolescent must choose between the therapist and her parents — a choice
+that will be made against the therapist the moment the therapy ends.
+
+The correction is a discipline, and it has three parts. Never criticise the parents in the adolescent's
+presence, even when she invites it and even when the criticism is accurate. Always attribute the
+adolescent's insights to her rather than to your own cleverness ("you worked that out", not "as I said
+last week"). And always be explicit that the aim is a better relationship at home, not a better
+relationship with you: "if in six weeks you and your mother can have this conversation without me, we have
+done the job."
+
+The marker of the error in supervision is a therapist who reports that the parents are "the problem" and
+that the adolescent is "the only sensible one in the family". The marker of the correction is a therapist
+who can say what she likes about each member and can name, without contempt and without exception, the interest that each of them is pursuing in the room.
+
+### 7.10 Culture, faith and the adolescent
+
+**Dating, courtship and the family's stake.** In many households the adolescent's relationships are not
+private matters but family matters, because marriage is a family project and a daughter's reputation is a
+family asset. A therapist who frames the issue as "her right to privacy" will lose the parents in one
+sentence, and will have done nothing for the adolescent. The workable frame is the one this week uses:
+safety data belongs to the household, intimacy data belongs to the young person, and the boundary between
+them is written down. That frame is defensible inside the household's own values, which is why it is
+usable.
+
+**Faith as an identity resource.** For many adolescents the first genuinely owned commitment is religious,
+and the youth group, the choir, or the mosque's youth programme is the setting in which identity work
+happens. Amara's Wednesday is the ordinary case. A therapist who hears "church group" as a symptom of
+parental control will misread the most developmentally healthy thing in the referral.
+
+**Gender and the double standard.** Households frequently hold different rules for sons and daughters, and
+the adolescent will name this before the parents do. The therapist should neither endorse nor dismiss the
+double standard; she should make it *speakable*, because a rule that cannot be discussed becomes a rule
+that is broken. The question that tends to work: "what is this rule protecting, and is there a version of
+it that everyone can live with?"
+
+**The aunt, the uncle and the second authority.** Extended-household caregiving is a resource and a
+coordination problem. The clinical rule from Week 3 applies unchanged: authority must be defined aloud, in
+domains, in front of the child. A household with three adults and no defined hierarchy produces an
+adolescent who plays the adults off against each other, and the adults will describe that as manipulation.
+
+> **DEBATE** — "A parent has the right to read a fifteen-year-old's messages." Argue for: the parent is
+> legally and morally responsible for a minor's safety, the child has no expectation of privacy in a phone
+> the parent paid for, and the risk of not knowing is severe and irreversible. Argue against: reading
+> messages purchases information at the cost of the relationship that would have produced it, the
+> adolescent will simply move to a second account, and the intervention makes the parent the adversary at
+> exactly the age when the adolescent most needs an adult ally. Then state your actual rule, and say what
+> you would do if a parent told you they had already read the messages and found something alarming.
+
+### 7.11 Evidence note
+
+**What the research supports.** The dual-systems account of adolescent risk — a relatively mature reward
+system and a still-developing control system — is well supported, and the peer-amplification finding has
+been replicated in both laboratory and naturalistic designs. The identity-status literature is
+observational but consistent: exploration with subsequent commitment (achieved) is associated with better
+adjustment than foreclosure or diffusion, across a wide range of cultures, though the *content* of
+identity differs by setting.
+
+**What is weaker.** The claim that parenting style causes adolescent outcomes is confounded by the
+obvious possibility that adolescents influence parenting. The longitudinal work that separates the
+directions finds bidirectional effects, with parental warmth and monitoring predicting somewhat better
+outcomes and adolescent behaviour predicting parental monitoring strongly. The practical implication: a
+parent who monitors more because the adolescent is in difficulty is doing something reasonable, and the
+question is whether the monitoring is warm and negotiated or surveillance.
+
+**What is not supported.** That adolescent-parent conflict is inherently pathological, or that its absence
+is health. Cross-cultural work finds that moderate conflict over autonomy is normative in settings where
+adolescents have individualised futures, and that the families with no conflict at all are as likely to be
+foreclosed as harmonious.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same parental monitoring that protects a thirteen-year-old
+can damage a seventeen-year-old, and the therapist's judgement is about calibration rather than quantity.
+
+### 7.12 Key terms
+
+**Identity versus role confusion** — Erikson's fifth stage; the construction of commitments to work,
+belief, relationship and place.
+
+**Moratorium** — active exploration without settled commitment; developmentally healthy and
+anxiety-provoking.
+
+**Foreclosure** — commitment without exploration, usually inherited from the family.
+
+**Diffusion** — neither exploration nor commitment.
+
+**Separation-individuation** — becoming a separate person while remaining attached; in most of the world
+this happens inside the household rather than by leaving it.
+
+**Pubertal timing** — the developmental effect of *when* maturation occurs relative to the peer group,
+independent of maturation itself.
+
+**Dual-systems model** — the account of adolescent risk as the product of an early-maturing reward system
+and a later-maturing control system.
+
+**Monitoring** — parental knowledge of the adolescent's world; effective when warm and negotiated.
+
+**Surveillance** — information obtained without the adolescent's participation; reliably produces
+concealment.
+
+**Negotiated trust** — an explicit, written agreement about what is shared, what is asked, and what
+happens when it breaks.
+
+### 7.13 Self-test
+
+1. Give Marcia's four identity statuses and one presentation of each that a therapist would meet in a
+   first session.
+2. A twelve-year-old girl who looks sixteen is referred for "defiance". What is your first hypothesis, and
+   what one question tests it?
+3. State the dual-systems model in two sentences, and name one thing it does *not* license.
+4. Why does the therapist in the transcript promise the father four minutes, and what would have happened
+   without the promise?
+5. Distinguish monitoring from surveillance, and give one behavioural example of each.
+6. An adolescent says nothing for the first twenty minutes. Name three moves, in order.
+7. What are the three columns of the contract, and what are the four things that must never appear in it?
+8. In the Adeyemi case, what was the single cheapest intervention, and why did it work?
+
+**Answers.** *(1)* Achieved — "I want to do physiotherapy because I worked in a clinic and liked it";
+moratorium — "I am trying law, medicine and music"; foreclosed — "I am doing medicine, my father is a
+doctor"; diffuse — "I do not know, I have not thought about it". *(2)* That the social response to an
+early-maturing body is doing the clinical work — she is being treated as older than she is; the question
+is "do people treat you as older or younger than you are?" *(3)* The reward system matures ahead of the
+control system, so sensation-seeking and peer sensitivity are high while inhibition is still developing;
+it does not license the claim that adolescents cannot reason or decide. *(4)* To give the objection a
+specific place, so that the father could tolerate being interrupted without concluding he had been
+silenced; without it he would have escalated, and the negotiation would have become a contest the
+therapist had to win. *(5)* Monitoring is knowledge acquired with the adolescent's participation and is
+warm; surveillance is knowledge acquired without it. Example of monitoring: a stated evening hour in which
+the day is discussed; of surveillance: reading the messages. *(6)* Name the situation honestly; ask for
+views rather than feelings; use a third object or a trade with a real cost to the therapist. *(7)* What she
+will share unasked; what they will ask and how often; what happens when it breaks. Never: blanket access
+to the phone, reading a diary, reporting the content of friendships, or a promise to tell them everything.
+*(8)* The Wednesday youth group disclosed in the session — it cost the adolescent little, gave the parents
+a piece of her life voluntarily offered, and reduced their fear more than any explanation could.
+
+### 7.14 Reflective task
+
+Think of one thing you decided about yourself between thirteen and sixteen that your family did not
+know at the time. Write it down, without naming anyone. Then answer three questions: what would have
+happened if they had found out? What did keeping it cost you? And what would an adult have had to do to be
+told? Most students find that the third answer is very specific and very small — a particular aunt, a
+particular drive, a particular hour of the evening — which is the point: adolescents do not withhold from
+adults in general, they withhold from adults who have not earned a particular door.
+
+### 7.15 Further reading
+
+- Erikson, E. *Identity: Youth and Crisis* — the source text, still the clearest.
+- Marcia, J. "Identity in adolescence" — the four statuses and the interview that produces them.
+- Steinberg, L. *Adolescence* — the dual-systems account, with the evidence.
+- Smetana, J. "Adolescents and parents: negotiating autonomy" — the conflict literature, and why moderate
+  conflict is normative.
+- Keddie, A. and Dinham, J. on extended-family authority — useful on the second-authority problem in
+  households with resident relatives.
+
+*Next: Week 8 — Adolescence II: risk, peers, digital life and mental health.*
 
 ---
 
 ## Week 8 — Adolescence II: risk, peers, digital life and mental health
 
 **Risk behaviour** is normative in moderation and dangerous in combination: substance use, risky driving,
-unsafe sex, self-harm, disordered eating. Risk is not a moral category; it is a developmental
-phenomenon shaped by peers, family, school and access.
+unsafe sex, self-harm, disordered eating. Risk is not a moral category; it is a developmental phenomenon
+shaped by peers, family, school and access. The purpose of this week is to replace the question "why is he
+doing this?" with the four questions that actually predict harm: *what*, *how often*, *with whom*, and
+*what does it do for him*?
 
-**Digital life.** Assess function, not just quantity: what is the phone *doing* in this adolescent's
-life — connection, escape, status, self-soothing, harm? Ask about sleep, cyberbullying, sexual content,
-and the family's rules about devices. Banning without substituting an alternative rarely works.
+**Digital life.** Assess function, not just quantity: what is the phone *doing* in this adolescent's life —
+connection, escape, status, self-soothing, harm? Ask about sleep, cyberbullying, sexual content, and the
+family's rules about devices. Banning without substituting an alternative rarely works, and the substitute
+is always a relationship rather than an activity.
 
 **Mental health.** Half of all lifetime mental disorders begin by mid-adolescence. Screen, do not guess.
-Distinguish transient distress from disorder by **duration, impairment and severity** — and use the
-same developmental question: is this a normal task being struggled with, or a disorder?
+Distinguish transient distress from disorder by **duration, impairment and severity** — and use the same
+developmental question as every other week: is this a normal task being struggled with, or a disorder?
 
-> **PRACTICAL** — Conduct a 12-minute adolescent interview with a peer who has been briefed to be
-> reticent. You may not ask more than two questions in a row without reflecting something back.
-> Observer records: ratio of questions to reflections; did the adolescent elaborate?
+**What makes this week different from the last.** Last week was the person. This week is the *environment
+the person is in* — the peer group, the phone, the substances that are available at the junction, and the
+adults who are or are not watching. The clinical skill is to hold both: an adolescent who is self-harming
+is a person in developmental transition *and* a person in an environment, and a formulation that has only
+one of those halves will produce an intervention that fails.
+
+> **PRACTICAL** — Conduct a twelve-minute adolescent interview with a peer who has been briefed to be
+> reticent. You may not ask more than two questions in a row without reflecting something back. The
+> observer records the ratio of questions to reflections, and whether the adolescent elaborated. The
+> target ratio is one reflection to every two questions.
+
+> **CAUTION** — This week contains material on self-harm and suicide. The clinical content is included
+> because a family therapist who cannot ask the questions directly will miss the presentations that matter
+> most. The teaching position is that asking does not plant the idea; the evidence on that point is
+> consistent and should be stated explicitly to every class and to every parent who raises it.
+
+### 8.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | Three questions that replace one | Why "why is he doing this?" produces nothing usable | Rewrite the question for two cases |
+| 8–22 | Risk as development | The four risk domains, their functions, and the combinations that matter | Plot four vignettes on a function-versus-harm grid |
+| 22–34 | Peers and access | Peer amplification, and the local availability map | Draw an availability map for their own catchment |
+| 34–48 | Digital life | Assessing function rather than hours; sleep, bullying, sexual content, and the substitute | Take a digital history from a volunteer |
+| 48–62 | Mental health | Onset, the duration-impairment-severity rule, and the seven presentations not to miss | Screen two vignettes and justify the referral |
+| 62–74 | Self-harm and suicide | What to ask, in what words, and what to do with the answer | Rehearse the four questions aloud, in pairs |
+| 74–84 | The family's response | Escalation, abdication, and the third option | Script a family safety plan |
+| 84–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** The lecture must rehearse the suicide questions aloud,
+in the room, by every student, because the barrier to asking is entirely in the throat. A therapist who has
+never said "have you thought about killing yourself?" out loud will substitute a euphemism at the moment it
+matters, and the euphemism does not get answered. The rehearsal is uncomfortable and it is the most
+important ten minutes in the module.
+
+**The sentence the lecture must land.** "Risk behaviour is a solution somebody is using. Your first job is
+to find out what problem it solves, and your second is to find out whether it is working."
+
+### 8.2 Five concepts that organise the week
+
+**1. Risk is a developmental phenomenon, not a moral one.** Sensation-seeking, peer sensitivity, and a
+steep discounting of delayed outcomes are features of the period, not defects of the person. The clinical
+consequence is that *prevention* works better than *prohibition*: an adolescent who is given a domain in
+which risk is supervised — sport, performance, competition, a demanding apprenticeship — takes less
+unsupervised risk, because the developmental appetite has somewhere to go.
+
+**2. Function beats frequency.** The question is not how much but what for. Cannabis every weekend with a
+group of friends who play football is a different clinical object from cannabis alone at eleven at night.
+The five functions that account for most adolescent risk behaviour are: *belonging* (the group does it);
+*escape* (it makes the evening bearable); *status* (it changes how others see me); *self-soothing* (it
+quiets something); and *self-punishment* (it expresses what I cannot say). Each function points to a
+different intervention, and the therapist who has not identified the function is guessing.
+
+**3. Combination is the danger, not any single behaviour.** One risk behaviour in an adolescent with a
+stable household and an available adult is usually a phase. The same behaviour combined with school
+withdrawal, sleep loss, a bereavement, and an absent parent is a different prognosis. The assessment should
+therefore always ask: what else is happening at the same time? The answer is the risk multiplier.
+
+**4. Digital life is a setting, not an activity.** The phone is where the peer group lives, where status is
+measured, where sleep is lost, and where a substantial proportion of bullying and sexual content arrives.
+Assessing "screen time" tells you almost nothing. Assessing *what the phone is doing* — connection, escape,
+status, self-soothing, harm — tells you what to do. The single most useful structural question is where the
+phone sleeps.
+
+**5. Most adult mental disorders begin here.** The epidemiological finding is robust: half of lifetime
+disorders have onset by the mid-twenties, with anxiety, mood, substance and impulse-control disorders
+beginning earliest. This makes adolescence the period of maximum preventive leverage and the period in
+which the family therapist is most likely to be the first clinician in the room. The obligation that
+follows is a screening obligation: a therapist who is working with an adolescent for anything must be able
+to ask about mood, anxiety, sleep, eating, self-harm and substances, and must know where to refer.
+
+### 8.2a Seven presentations that must not be missed
+
+The differential in this age band is wide and the presentations are quiet. The seven below are the ones
+that a family therapist must be able to recognise, name, and refer — not diagnose.
+
+**1. Depression.** Not "sadness". The adolescent pattern is more often *irritability* than sadness,
+combined with withdrawal from things that used to matter, sleep change, appetite change, a fall in
+school performance, and a flatness that the family describes as "laziness". Duration of two weeks or more,
+with impairment, is the threshold that warrants a referral. One question screens surprisingly well: "when
+did you last enjoy something?"
+
+**2. Anxiety, including panic and social anxiety.** Physical symptoms — racing heart, breathlessness,
+nausea — presenting as school refusal or as repeated visits to a clinic for a physical complaint. The
+distinguishing feature is anticipatory fear that leads to avoidance, and the avoidance is what maintains
+it.
+
+**3. Psychosis prodrome.** Social withdrawal, a drop in functioning, odd ideas that are treated as
+eccentricity, suspiciousness, a decline in self-care, and sometimes a preoccupation with a new interest
+that has become the whole of the person's life. This is rare and it is the presentation where delay costs
+most. Any adolescent with a marked, unexplained decline in functioning plus unusual beliefs should be
+referred for assessment, promptly, and the referral should not be softened into "stress".
+
+**4. Substance use.** Ask about what, how often, with whom, and what happens when it stops. The
+developmental danger signs are: use alone, use before midday, use to manage sleep or mood, and withdrawal
+from other activities. Do not accept "only at parties" without asking what happens at parties.
+
+**5. Disordered eating.** Weight change is the least reliable sign. More useful: eating in secret, food
+rituals, a sudden interest in "healthy" eating that narrows to a list, exercising alone and compulsively,
+and a change in the family's mealtimes. The family's report of "she has become fussy" is worth three
+questions.
+
+**6. Self-harm.** Cutting, burning, hitting, and — increasingly — the deliberate consumption of harmful
+content. Self-harm is not a failed suicide attempt and it is not attention-seeking; it is most often a
+regulation strategy, and its presence is one of the strongest single predictors of later suicide risk. It
+requires direct, unshocked questioning and a proper assessment.
+
+**7. The ordinary distress of a normal task.** Most referrals are this. A fifteen-year-old who is
+miserable for three weeks after a breakup, who sleeps badly before exams, who is angry about a move, is
+doing developmental work. The distinction is duration, impairment, and severity — and the error is not to
+dismiss ordinary distress, which is real, but to treat it as a disorder, which pathologises a competent
+person at the moment she is learning to cope.
+
+**The rule that governs all seven.** A family therapist screens and refers; she does not diagnose in the
+therapy room, and she does not manage a psychosis or a developing eating disorder in a family session. The
+screening obligation is real and the scope limit is real, and holding both is the professional position
+this week is teaching.
+
+### 8.2b Self-harm and suicide: what to ask and what to do with it
+
+This section is written to be used. It is deliberately concrete, because the failure mode in this age band
+is not a wrong intervention; it is a question that was never asked.
+
+**The four questions, in this order.**
+
+1. "Some young people, when things are hard, hurt themselves on purpose. Have you ever done that?"
+2. "Have you ever thought that you would be better off dead, or wished you could go to sleep and not wake
+   up?"
+3. "Have you thought about how you would do it?" — *the presence of a method, and its availability, is the
+   single strongest predictor of risk.*
+4. "What has kept you going so far?" — *the protective factors, and the beginning of the safety plan.*
+
+**Why the wording matters.** "Are you having any thoughts of self-harm?" is a professional's sentence and
+gets a professional's answer, which is "no". "Have you ever hurt yourself on purpose?" is a person's
+sentence and gets an answer. The questions must be asked plainly, without a preamble that signals alarm,
+and without the therapist's face changing, because the adolescent is watching the face for the verdict on
+whether she has just made a terrible mistake.
+
+**The myth, stated plainly.** Asking about suicide does not increase risk. The evidence on this is
+consistent across settings and the belief that it does is the main reason clinicians do not ask. Say this
+to parents, in these words, because they will be frightened by the questions and will otherwise interpret
+them as an intervention that caused the problem.
+
+**What to do with a positive answer.** In order: do not leave the adolescent alone if risk is current;
+involve the parents in the same session, with the adolescent's knowledge and, where possible, her
+agreement about how it is said; remove or restrict means — medication, blades, pesticides, firearms, and
+anything else available in the household; arrange a same-week or same-day referral according to local
+protocol; document exactly what was asked, what was answered, and what was done. Then arrange the next
+contact before the family leaves the building.
+
+**The safety plan, which is not a contract.** A "no-harm contract" has no evidence behind it and can shift
+responsibility onto the adolescent. A safety plan is different: it is a written list of (a) the warning
+signs, (b) the things the adolescent will do first, (c) the people she will contact, in order, and (d) the
+means that have been removed from her reach. It is written *with* her, in her words, and the parents have
+a copy that says what they will do, not what she has promised.
+
+**The family's part.** Two things a family can do that matter more than any conversation: reduce access to
+means, and increase supervision without surveillance. The distinction is the same as Week 7's: a parent who
+sits in the room is supervision; a parent who reads the diary is surveillance. The second produces
+concealment, which is the one outcome a safety plan cannot survive.
+
+### 8.3 The method: a risk assessment a family therapist can actually do
+
+Ten steps, thirty to forty minutes, doable in a family session with the adolescent seen alone for the
+middle portion. The purpose is not diagnosis. It is to answer three questions: how serious, what else,
+and what happens next.
+
+**Step 1 — Establish the frame first.** "I am going to ask you some direct questions. Some of them will
+feel strange. I ask everybody. If I think you are in danger I will have to act on it, and I will tell you
+before I do." The last clause is what makes the questions answerable.
+
+**Step 2 — Ask about the presenting behaviour in behavioural terms.** Not "why did you cut yourself?" but
+"where, when, how many times, what were you feeling just before, and what happened afterwards?" The
+afterwards question identifies the function with surprising reliability: relief points to regulation;
+numbness points to dissociation; punishment points to self-directed anger.
+
+**Step 3 — Ask the four questions from 8.2b.** In order, plainly, without a preamble.
+
+**Step 4 — Map the combination.** Sleep, appetite, school attendance, withdrawal, substances, eating,
+mood, anxiety. The question "what else is going on?" is asked *after* the disclosure, never before, because
+before it signals that the therapist has already decided what the problem is.
+
+**Step 5 — Ask about the environment, not just the individual.** Who knows? Who would she tell? Who in the
+household is available at eleven at night? What is in the house that could be used? Where does the phone
+sleep? Is there anyone at school?
+
+**Step 6 — Establish the protective factors.** What has kept her going; what she is looking forward to,
+however small; who she would not want to hurt; what she is good at. These are not consolation prizes.
+They are the material of the safety plan and the best available predictors of who comes back.
+
+**Step 7 — Bring the parents in, with the adolescent's knowledge.** How it is said is negotiated first:
+"your mother needs to know about the cutting. Do you want to tell her, or shall I?" The choice matters
+more than the content, because it preserves the adolescent's standing in her own disclosure.
+
+**Step 8 — Restrict means, concretely.** Ask what is in the house: medications, blades, rat poison,
+pesticides, a car, a rope in the yard. Then assign the task of removal to a named adult, with a date. A
+safety plan that does not change the household's physical environment is a conversation.
+
+**Step 9 — Decide the level of care and say it out loud.** Outpatient with weekly contact; urgent
+referral; emergency. Say which, and say why, in front of the family, so that the decision is not a
+mystery. Families who are told the reasoning cooperate with the plan; families who are handed a plan
+comply with it until the first difficulty.
+
+**Step 10 — Write it down and book the next contact.** A one-page safety plan in the adolescent's words, a
+copy to the parents, a date in the diary before anyone leaves the room. Then document all of it.
+
+### 8.3a Digital life: the history that is worth taking
+
+Five questions, ten minutes, and they replace the argument about hours.
+
+**Question 1 — Where does it sleep?** The answer predicts sleep loss more reliably than any measure of
+use. An adolescent whose phone is in the bed has a device that interrupts sleep, and sleep loss is
+causally implicated in mood deterioration, which makes this the highest-yield structural question in the
+week.
+
+**Question 2 — What is it for?** Connection (the group), escape (the scroll), status (the post), soothing
+(the same video forty times), or harm (the group that excludes, the person who threatens). Ask for a
+description of the last hour before sleep, which is when the function is most visible.
+
+**Question 3 — Who is in the group, and who is not?** Exclusion in this age band is frequently technical:
+not added, muted, removed. Ask whether she is in the class group and whether she wants to be. The answer
+is often the whole of the presenting problem.
+
+**Question 4 — What has arrived that you did not want?** This is the question that produces disclosures of
+bullying, sexual content, and strangers, and it is asked *without* the parents in the room. Then: "did you
+tell anyone? what did they do?" The second question audits the adult system, not the adolescent.
+
+**Question 5 — What would you do if you lost it for a week?** The answer describes the phone's function
+better than any inventory. An adolescent who is horrified is describing a social lifeline. An adolescent
+who is indifferent is describing an escape that has stopped working.
+
+**What to do, in order of evidence.** Protect sleep (device out of the bedroom, for everyone); protect the
+one relationship that matters (a named adult who is available and who does not confiscate); build one
+non-screen domain of competence (this is the "substitute" the stub refers to, and it is always an activity
+with other people in it); and then, only then, negotiate limits. Limits imposed before the substitute
+exists produce concealment.
+
+### 8.4 Three techniques
+
+**Technique 1 — The function grid.** With the adolescent, place each risk behaviour on a two-axis grid:
+*what it does for me* (the five functions) and *what it costs me* (health, money, school, relationships,
+freedom). Fill it in her language. The grid does more than a lecture because it is her data, and because it
+makes visible the behaviours that are cheap and the ones that are expensive — which is not always where
+the family's anxiety is concentrated.
+
+**Technique 2 — The availability map.** Draw the household and the route to school, and mark where each
+substance or means is available: the junction, the flat upstairs, the older cousin, the chemist that sells
+without a prescription, the drawer in the kitchen. The map converts a moral question into a logistical one,
+and logistics can be changed. It also routinely reveals that the family has more control over access than
+it believed.
+
+**Technique 3 — The one adult at eleven at night.** Ask the adolescent to name the person she would
+contact at eleven at night if something had happened. If the answer is "nobody", that is the intervention:
+find, in the household or the extended family, one adult who will agree to be reachable at that hour
+without asking questions first. This is the cheapest suicide-prevention intervention available to a family
+therapist and it is almost never written down.
+
+### 8.5 The first session with a self-harming adolescent and two parents
+
+**Phase 1 — The parents' two minutes each (5 minutes).** What they found, when, and what they did. The
+therapist listens for the *sequence*: discovery, reaction, and what has happened since. The reaction is
+usually a confiscation, a shouting, or a silence, and each of the three has a predictable consequence.
+
+**Phase 2 — The adolescent alone (25 minutes).** The frame, then the ten-step assessment, compressed. The
+four questions are asked in this phase and never in front of the parents, because the parents' faces make
+the answers impossible.
+
+**Phase 3 — Negotiate the disclosure (5 minutes).** What will be told, in what words, and by whom. The
+adolescent is given the first option to tell it herself.
+
+**Phase 4 — The joint session (20 minutes).** The disclosure; the parents' reaction, which the therapist
+manages by slowing it down rather than by correcting it; then the means restriction, assigned by name; then
+the safety plan, written.
+
+**Phase 5 — The plan and the next appointment (5 minutes).** Level of care, next contact, who telephones
+whom, and what the parents do tonight. Nothing is left as "we will see".
+
+**Why the parents are not in the room for phase 2.** Not to protect the adolescent from them, but to
+protect the *information*. A sixteen-year-old will not describe the function of her cutting in front of a
+mother who is crying, and the function is the treatment target. The parents are brought in as soon as the
+information exists, and they are brought in by design rather than by accident.
+
+### 8.5a The crisis hour: when the risk is immediate
+
+Most of this week concerns assessment. This section concerns the one hour in which assessment is not the
+task, because the adolescent in front of you is at immediate risk and the decision cannot wait for a
+referral.
+
+**The four indicators of immediacy.** A stated intent, rather than an idea. A plan with a time. Access to
+the means, in the room or in the house, tonight. And the absence of any named reason to stay alive in the
+next twenty-four hours. Two of the four is urgent. Three is an emergency, and the therapist's job changes
+from treating to transporting.
+
+**The first move is physical, not conversational.** Do not leave the adolescent alone. If she is in the
+clinic, stay in the room and ask a colleague to attend. If she is at home on the telephone, ask her to go
+and sit with a named person in the house, now, while you stay on the line. The single most useful thing in
+the first five minutes is another human being in the same room as her.
+
+**The second move is to remove the means, by name.** "Where is it? Is it in the house? Who can take it
+now?" Ask the adolescent first, then the parent. A blade, a bottle of pesticide, a stock of tablets, a car
+key. The instruction is specific: not "keep her safe" but "take the bottle to the neighbour's house
+tonight and tell me when it is done". Then record what was said and who confirmed it.
+
+**The third move is to tell the parents, with the adolescent's knowledge, in her hearing.** "I am going to
+tell your mother that you have a plan and a time, because she is the person who can be with you tonight. I
+am not telling her because you did something wrong." This is the one situation in which the therapist
+does not offer a choice about disclosure, and saying so plainly is more respectful than pretending the
+choice exists.
+
+**The fourth move is the handover, and it has a name in it.** Not "go to the hospital". A named facility, a
+named person if possible, a written note, and confirmation that the family has arrived. A therapist who
+sends a family to "casualty" has sent them to a building, and a family that arrives at a building at midnight without a name and without a person to ask for will go home again, and will wait until Monday, and the hour will have been lost in the interval.
+
+**The fifth move is the follow-up call.** Within twenty-four hours, to the family and, with permission, to
+the adolescent. The call is not clinical; it is the demonstration that the crisis did not end the
+relationship. Adolescents who are admitted after an attempt and who receive no contact from the referring
+clinician are markedly less likely to return afterwards.
+
+**What not to do.** Do not extract a promise. Do not ask the family to "watch her closely" without saying
+what that means in hours and in people. Do not schedule the next appointment for a fortnight. Do not tell
+the adolescent that she is being dramatic, and do not tell her that everything will be fine — both are
+statements she has heard before from adults who then did nothing.
+
+**Afterwards, the therapist's own state.** A crisis hour is frightening, and the two common reactions are
+over-reaction (escalating every subsequent disclosure to the emergency pathway, which teaches the
+adolescent to stop disclosing) and under-reaction (recording the risk as lower than it was, in order to
+feel that the hour was manageable). Both are corrected in supervision, and the requirement to take a risk
+assessment to supervision within the week is not bureaucratic. It is the one reliable protection available to a lone clinician against
+the second error, which is the more dangerous of the two and the harder one to see from inside a hard week.
+
+### 8.6 Case: the boy whose teacher saw his arm
+
+**Referral.** Sadiq, sixteen, in Senior Secondary 2, was sent to the school counsellor after a teacher
+noticed scars on his left forearm during a practical. The counsellor telephoned his mother the same day and
+referred him to the clinic. The mother, Rukayat, 39, a textile trader, arrives with him. She has not told
+his father.
+
+**The household.** Rukayat; Sadiq, the eldest of five children (16, 14, 11, 7, 3); Rukayat's mother, 66;
+and a younger brother of Rukayat's who helps in the shop. Sadiq's father, 52, lives in Kano with a second
+wife and telephones on Fridays. He pays school fees and has not visited in fourteen months. Rukayat's
+income is the household's income.
+
+**The discovery.** Eight scars on the left forearm, five of them recent, all consistent with a blade. Two
+on the upper thigh, which the mother did not know about and which the therapist found by asking.
+
+**The parents' account, in the first five minutes.** "He is quiet at home. He does not tell me anything. He
+used to be first in his class and now he is eleventh. I thought it was the phone." Then, after a pause:
+"His father will say I have failed."
+
+**The adolescent alone.** The four questions are asked in order and answered in order.
+
+1. *Have you ever hurt yourself on purpose?* "Yes." When did it start? "Last year. After my father stopped
+   coming."
+2. *Have you ever thought you would be better off dead?* A long pause. "Sometimes. Not like a plan. I think
+   about not being here."
+3. *Have you thought about how you would do it?* "I have thought about the gutter on the third floor of the
+   school. But I would not. My mother would die." — *A method has been considered; a protective factor is
+   named in the same breath. Both are recorded, and both change the plan.*
+4. *What has kept you going?* "My sisters. And my mother. And football."
+
+**The function.** Asked what happens just before: "it is after the phone call on Friday. He talks to my
+mother and then she is crying and she says nothing to us and I am the man of the house. I go to the
+bathroom." Asked what happens after: "it is quiet. For maybe ten minutes it is quiet."
+
+**The assessment.** The function is *regulation*, with a secondary *self-punishment* component: the cutting
+follows a weekly event, it produces a brief quiet, and it is accompanied by a conviction that he should be
+managing better. The combination map shows: sleep onset after one in the morning, appetite reduced, school
+performance fallen from first to eleventh, withdrawal from football in the last two months, no substance
+use, no disordered eating. Duration: fourteen months, with the first scars dating to the month the father's
+visits stopped.
+
+**The risk formulation, written as it would be in a record.** Current risk: moderate. Ideation present,
+intermittent, without intent or plan, with a named protective factor and a named method that has been
+considered and rejected. Self-harm: current, increasing in frequency over three months. Means: a razor
+blade kept in the bathroom, and medication in the kitchen. Protective: mother's availability, four younger
+siblings, football, a teacher who noticed. Aggravating: paternal absence, financial pressure, the role of
+"man of the house" assigned to a sixteen-year-old, sleep loss.
+
+**The formulation.** A sixteen-year-old carrying an adult role he was given and not prepared for, in a
+household where the father's Friday telephone call is the week's emotional weather, and where nobody has
+asked him how he is because he is the one who is supposed to be all right. The cutting is a private
+regulation strategy for a public situation. It is not attention-seeking: nobody was meant to see it, and
+the teacher seeing it is the crisis of the case rather than its solution.
+
+**The intervention, in five parts.**
+
+**Part 1 — Means restriction, tonight.** The blade is removed by the mother in Sadiq's presence, with the
+therapist having said why. The kitchen medication moves to the mother's room. The head teacher is contacted
+with Sadiq's knowledge and asked to make the third-floor landing supervised at break. This is unglamorous
+and it is the part of the plan with the best evidence behind it.
+
+**Part 2 — The safety plan, in his words.** Warning signs: "Friday night. When she is quiet after the
+phone." First three things: "call Tunde" (a teammate), "go and kick the ball outside even if it is dark",
+"play the guitar for ten minutes". People in order: mother, Tunde, the counsellor, the clinic number.
+Removed means: blade, kitchen medication. Written on one page, photographed by him and by his mother, and
+put by the clinic in the record.
+
+**Part 3 — Move the Friday.** The single structural change of the case. The therapist asks Rukayat, with
+Sadiq present, what happens after the Friday call. She describes it: she cries in the bedroom, then cooks,
+then says nothing. The agreement: after the call she will sit with Sadiq and the two eldest for ten
+minutes and tell them what was said, in one sentence, without asking them to look after her. The content
+does not change. The secrecy does. A sixteen-year-old who knows what was said no longer has to infer it
+from his mother's face, and the inferring is what was producing the bathroom.
+
+**Part 4 — Give the role back.** "Man of the house" is a role without a job description, and Sadiq has been
+doing it badly because it cannot be done. The therapist asks Rukayat to name, in front of him, three things
+that are his (school, football, his sisters' homework) and two that are not (money, her marriage, whether
+his father visits). The list is written. The purpose is to make the boundary visible, because an
+adolescent cannot refuse a role that nobody has named.
+
+**Part 5 — One hour a week with an adult who asks nothing.** The counsellor at school, or the football
+coach, or an uncle. The instruction to the adult is the same as the week's technique: no questions about
+home, no advice, one hour, once a week, doing something. Sadiq chooses football with the coach on
+Wednesdays.
+
+**The referral.** Sadiq is referred for a diagnostic assessment, which returns a picture of moderate
+depressive symptoms without a formal disorder at that point, and for six sessions of individual work
+alongside the family sessions. The therapist does not do the individual work herself; she keeps the family
+work, because a sixteen-year-old who is self-harming needs two clinicians less than he needs two distinct
+relationships that are not the same relationship.
+
+### 8.6a Eight weeks later
+
+The cutting has stopped for six weeks, which is a fact and not a cure. It has been replaced, in Sadiq's own
+description, by "the guitar and calling Tunde", and he says this with the flatness of someone reporting a
+task rather than a change.
+
+The Friday conversation happens. Rukayat reports that it is "short and not nice", which is the realistic
+outcome: the content of the marriage has not changed and is not going to change in this therapy. What has
+changed is that Sadiq no longer receives it as atmosphere.
+
+The grades have not recovered. The therapist records this as the case's honest limitation: a sixteen-year-old
+who has lost fourteen months of study does not recover them in eight weeks, and the school has agreed to a
+reduced subject load for one term.
+
+The most significant change is not in the record. Rukayat has begun telling her brother, who helps in the
+shop, one true thing a week about the household. The therapist did not plan this. It is the ordinary
+consequence of a family in which information has started to move, and it is the best available sign that
+the change will survive the therapy.
+
+**What would have changed the plan.** If the ideation had included intent, a plan, or a recent preparation,
+the case would have gone to emergency assessment the same day and the therapy room would have become a
+holding place rather than a treatment. If the mother had refused to remove the blade, the therapist would
+have documented the refusal and escalated within the safeguarding framework, because means restriction is
+not negotiable. If the father had been reachable and willing, one session with him on the telephone would
+have been attempted, with Sadiq's agreement — and if Sadiq had refused, the refusal would have been
+respected and recorded.
+
+### 8.7 Transcript: asking the four questions
+
+Twelve turns, compressed from twenty-five minutes. The transcript's purpose is to show the *tone*: flat,
+direct, unhurried, and without a single reassuring phrase in the wrong place.
+
+> **T1 Therapist:** I am going to ask you some direct questions. Some of them will feel strange. I ask
+> everybody I see, and I am not going to be shocked by the answers. If I think you are in danger I will have
+> to do something about it, and I will tell you before I do. All right? — *The frame, in four sentences,
+> before anything else.*
+>
+> **T2 Sadiq:** Okay.
+>
+> **T3 Therapist:** Some young people, when things are hard, hurt themselves on purpose. Have you ever done
+> that? — *Question 1, with no preamble and no euphemism.*
+>
+> **T4 Sadiq:** *(pause)* Yes.
+>
+> **T5 Therapist:** Where?
+>
+> **T6 Sadiq:** My arm. The inside.
+>
+> **T7 Therapist:** How many times?
+>
+> **T8 Sadiq:** I don't know. Many.
+>
+> **T9 Therapist:** *(no change of expression, pen down)* Have you ever thought that you would be better off
+> dead, or wished you could go to sleep and not wake up? — *Question 2, asked in the established tone. The
+> pen going down is deliberate: writing while a person answers this question makes them a specimen.*
+>
+> **T10 Sadiq:** *(long pause)* Sometimes.
+>
+> **T11 Therapist:** Have you thought about how you would do it?
+>
+> **T12 Sadiq:** *(longer pause)* The gutter. At school. The third floor. — *The answer that changes the
+> plan: a method, a place, and a school. Everything after this turn is logistics, and the therapist's next
+> sentence is not a question about feelings.*
+
+### 8.8 Laboratory: the risk assessment, marked
+
+**Aim.** To complete the ten-step assessment with a reticent adolescent in thirty-five minutes, obtain the
+disclosure, and leave with a signed safety plan and a documented level of care.
+
+**Procedure.** Trios: therapist, adolescent (briefed with a disclosure that includes a method, a protective
+factor, and one detail she will withhold unless asked twice), observer. Thirty-five minutes, then ten
+minutes of feedback against the rubric. The withholding is the exercise's centre: the briefed adolescent
+will not volunteer the second location of the scars, and a therapist who does not ask about the body
+directly will miss it.
+
+**Marking rubric (25 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The frame** | Not stated; or stated as a warning | Stated, but after the first question | Stated first, including the limits, and the adolescent's assent obtained |
+| **The four questions** | Not asked, or asked with a euphemism | Asked, but in a preamble-laden way | Asked plainly, in order, without a change of tone or expression |
+| **Function** | Not established | Asked what happened before | Asked before and after, and the function named in the adolescent's words |
+| **Combination** | Only the presenting behaviour | Two or three domains covered | All seven domains screened, including sleep and eating |
+| **Means** | Not discussed | Discussed generally | Specific inventory, named adult, date, and confirmation in the room |
+| **The plan** | Advice | Written plan without protective factors | Written in the adolescent's words, with warning signs, sequence, means removed, and a booked next contact |
+
+**The distinction that carries most of the marks.** The top band requires the student to ask question 3
+(the method) *after* a positive answer to question 2, without softening. Most trainees stop at "sometimes I
+think about not being here", because the disclosure is distressing and because stopping feels kind. It is
+the moment at which the assessment is either completed or abandoned.
+
+### 8.9 Six errors
+
+**Error 1 — Not asking.** The largest error by volume, and the one with the clearest cause: the fear of
+causing harm. The evidence is unambiguous that asking does not increase risk. A therapist who works with
+adolescents and does not ask is not protecting them; she is protecting herself.
+
+**Error 2 — Asking in a way that can only be answered "no".** "You are not thinking of doing anything
+silly, are you?" is a question with the answer built into its grammar. Every one of the four questions is
+closed, direct, and free of the answer.
+
+**Error 3 — Promising confidentiality you cannot keep.** An adolescent who discloses self-harm after being
+told "everything stays in this room" has been misled at the moment of maximum vulnerability, and the
+breach of that promise is often the end of treatment. State the limits first, every time.
+
+**Error 4 — Making the family the enemy.** Parents who react with confiscation, shouting, or silence are
+frightened, not cruel. A therapist who treats them as the problem loses the household, and the household is
+the safety plan.
+
+**Error 5 — The no-harm contract.** A signed promise not to self-harm has no evidence behind it and shifts
+responsibility onto the adolescent at the moment she has least capacity to carry it. Replace it with a
+safety plan that describes what she will do, who she will call, and what has been removed from her reach.
+
+**Error 6 — Treating the disclosure as the endpoint.** The disclosure is the beginning of the assessment.
+The commonest failure in supervision is a therapist who reports, with relief, "he told me everything", and
+who cannot say what the level of care was, what was removed from the house, or when the next contact is.
+
+### 8.10 Culture, faith and adolescent risk
+
+**The household's reputation.** In many settings an adolescent's self-harm or substance use is experienced
+by the family as a judgement on the household, and the first clinical obstacle is not the behaviour but the
+family's need for it not to be known. A therapist who telephones the school, calls a meeting, or writes to
+a relative without an explicit agreement will lose the family. The sequence is always: agree who knows,
+then act.
+
+**Faith, deliverance and the clinic.** Families may hold that the behaviour is spiritual, and may pursue
+prayer, fasting or deliverance alongside or instead of clinical care. The workable position is neither
+collusion nor confrontation: accept the household's framework as the language of concern, ask what the
+prayer or the fasting is *for*, and negotiate one non-negotiable — that the safety plan is in place while
+the spiritual work continues. A family that is told to choose between its faith and the clinic will choose
+its faith, and the adolescent will be the one who loses.
+
+**Gender and the boy who must not be weak.** Sadiq's case is a gender case before it is anything else. A
+sixteen-year-old boy in a household where he is "the man of the house" has been given an emotional
+prohibition along with the role. The clinical move is not to tell him to express his feelings; it is to
+give him a *permitted* domain — football, an uncle, a coach — in which being looked after is not a
+humiliation.
+
+**The second wife, the absent father, and the therapist's judgement.** Polygynous arrangements, labour
+migration, and long paternal absences are ordinary structures in many of the households this book is
+written for. A therapist whose formulation requires the family to become a different kind of family will
+produce a plan that nobody follows. The question is always what can be changed inside the arrangement that
+exists — the Friday conversation, the role list, the uncle's hour — rather than what would have to change
+for the problem to disappear.
+
+> **DEBATE** — "A sixteen-year-old's self-harm should be disclosed to the parents whether or not she
+> agrees." Argue for: the parents are the safety plan, the risk of concealment is death, and the
+> adolescent's judgement is the thing that is compromised. Argue against: disclosure against her will ends
+> the therapeutic relationship at the moment it is most needed, the adolescent will conceal more
+> effectively next time, and a competent sixteen-year-old has a legitimate interest in how her own body is
+> discussed. Then write the rule you would follow, including the case in which she refuses and the risk is
+> moderate rather than imminent.
+
+### 8.11 Evidence note
+
+**What the research supports.** Means restriction is the intervention with the strongest evidence in
+suicide prevention at population level: reducing access to a common method reduces deaths, including in
+adolescents, and the effect is not merely substitution of method. Safety planning, as a structured and
+collaborative written intervention, has better support than no-harm contracts, which have essentially none.
+Sleep disturbance is a prospective predictor of adolescent mood deterioration, which is why the question
+about where the phone sleeps is a clinical question and not a parenting preference.
+
+**What is weaker.** The evidence for digital-detox interventions is thin and the field is moving faster
+than the trials. The most defensible claims are structural (sleep protection, one non-screen domain of
+competence, one available adult) rather than quantitative (a number of hours). The evidence on
+family-based treatment for adolescent self-harm is promising but based on small trials with heterogeneous
+comparators.
+
+**What is not supported.** That asking about suicide increases risk — the evidence is consistent that it
+does not, in clinical and school settings. That self-harm is attention-seeking — the clinical literature
+describes a predominantly private behaviour whose discovery is usually experienced as a crisis. And that
+confiscation of devices reduces harm — the observable effect is migration to unmonitored devices, which
+reduces the parents' knowledge without reducing the exposure.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same paternal absence produces, in one sixteen-year-old, a
+determination to succeed and, in another, fourteen months of silent cutting. What differs is not the input
+but the presence of one adult who asks, and that is what the therapist is trying to install.
+
+### 8.12 Key terms
+
+**Function** — what a risk behaviour does for the person; the first question of the assessment.
+
+**Combination risk** — the multiplicative effect of several concurrent adversities, as against the effect
+of any one.
+
+**Means restriction** — reducing access to the method; the best-evidenced single intervention in suicide
+prevention.
+
+**Safety plan** — a written, collaborative list of warning signs, coping steps, contacts and removed means.
+
+**No-harm contract** — a signed promise not to self-harm; not evidence-based and not a substitute for a
+safety plan.
+
+**Prodrome** — the period of subtle change preceding the frank onset of a disorder, particularly psychosis.
+
+**Duration, impairment, severity** — the three dimensions that distinguish disorder from distress.
+
+**Digital function** — what a device is doing in a person's life: connection, escape, status, soothing, or
+harm.
+
+**Protective factor** — a circumstance that reduces risk; in this age band usually a named adult and a
+domain of competence.
+
+**Level of care** — the decided setting and intensity of treatment: outpatient, urgent, or emergency.
+
+### 8.13 Self-test
+
+1. State the four questions of the risk assessment, in order, and say why question 3 follows question 2.
+2. A parent asks whether asking about suicide will put the idea in her daughter's head. What do you say,
+   and what is the evidence?
+3. Name the five functions of adolescent risk behaviour and give one intervention matched to each.
+4. Why is means restriction the best-evidenced intervention in this field, and what does it require in
+   practice?
+5. Distinguish a safety plan from a no-harm contract, and say why the difference matters clinically.
+6. Name the three dimensions that separate disorder from distress, and apply them to a fifteen-year-old
+   who has been miserable for three weeks after a breakup.
+7. In the case of Sadiq, what was the single structural change, and what did it change?
+8. What is the "one adult at eleven at night", and why is it described as the cheapest intervention
+   available?
+
+**Answers.** *(1)* Self-harm; suicidal ideation; method and intent; protective factors. Question 3 follows
+because a positive answer to question 2 identifies ideation while question 3 identifies risk, and the
+method is the strongest single predictor. *(2)* That it does not — the evidence across clinical and school
+settings is consistent, and the belief that it does is the main reason clinicians fail to ask; say it
+plainly, because the parent's fear will otherwise be interpreted as a reason for silence. *(3)* Belonging
+— change the group or build an alternative group; escape — address what is being escaped, usually the
+household's evening; status — build a domain of real competence; self-soothing — teach a regulation skill
+and protect sleep; self-punishment — address the self-directed anger, usually with individual work. *(4)*
+Because it does not require the person in crisis to make a decision at the moment of crisis; in practice it
+requires a specific inventory of the household, a named adult, and a date. *(5)* A safety plan is
+collaborative and describes what the adolescent will do and what has been removed; a no-harm contract is a
+promise that shifts responsibility onto her. The first builds capacity, the second borrows it. *(6)*
+Duration, impairment, severity — three weeks after a breakup with no impairment in school or friendships
+and moderate severity is ordinary distress and should be respected as such rather than treated. *(7)* The
+Friday conversation: naming what was said, to the two eldest, in one sentence, without asking them to
+manage her feelings — it converted an atmosphere that had to be inferred into information that could be
+held. *(8)* A named adult reachable at that hour without interrogation first; cheapest because it requires
+no clinical resource, and effective because the hours after ten at night are when risk is highest and when
+the adolescent is least able to reach a professional.
+
+### 8.14 Reflective task
+
+Write down the last time you asked someone a direct question about their safety, or the last time you
+avoided one. If you avoided it, reconstruct the sentence you used instead, word for word. Then answer:
+what were you protecting? Most trainees find that the substitute sentence protected the therapist's
+comfort, and that the discomfort was located in a single word which, once said aloud in a rehearsal, is
+never as difficult again.
+
+### 8.15 Further reading
+
+- Hawton, K., Saunders, K. and O'Connor, R. "Self-harm and suicide in adolescents" — the epidemiology and
+  the evidence on means restriction.
+- Stanley, B. and Brown, G. "Safety planning intervention" — the structured alternative to no-harm
+  contracts.
+- Steinberg, L. "Risk taking in adolescence" — the peer-amplification evidence behind this week's first
+  concept.
+- Nock, M. "Why do adolescents hurt themselves?" — the functional account used in the case.
+- Odgers, C. and Jensen, M. "Annual research review: adolescent mental health in the digital age" — the
+  most careful summary of a thin evidence base.
+
+*Next: Week 9 — Adult development: work, intimacy and the middle years.*
 
 ---
 
