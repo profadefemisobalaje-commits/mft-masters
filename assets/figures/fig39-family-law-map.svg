@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="640" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:25.25px;font-weight:700;">Marriage, Dissolution and the Law: A Nigerian Orientation Map</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Different marriage systems create different legal routes and different dilemmas for the therapist</text>
+  <rect x="60.0" y="96.0" width="860.0" height="118.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="86.0" y="122.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.8px;">FOUR WAYS A MARRIAGE CAN EXIST</text>
+  <rect x="86.0" y="138.0" width="196.0" height="62.0" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="184.0" y="160.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Statutory</text>
+  <text x="184.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">Marriage Act; one wife; court</text>
+  <text x="184.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">dissolution</text>
+  <rect x="296.0" y="138.0" width="196.0" height="62.0" rx="8" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <text x="394.0" y="160.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Customary</text>
+  <text x="394.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">bride price, kin consent;</text>
+  <text x="394.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">customary court</text>
+  <rect x="506.0" y="138.0" width="196.0" height="62.0" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <text x="604.0" y="160.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Islamic</text>
+  <text x="604.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">four wives permitted; Sharia</text>
+  <text x="604.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">court in some states</text>
+  <rect x="716.0" y="138.0" width="196.0" height="62.0" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="814.0" y="160.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Cohabitation</text>
+  <text x="814.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">no legal marriage; limited</text>
+  <text x="814.0" y="190.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.8px;font-weight:400;">statutory protection</text>
+  <text x="490.0" y="250.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">when the marriage ends, four questions must be answered</text>
+  <rect x="60.0" y="272.0" width="210.0" height="100.0" rx="10" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <text x="165.0" y="300.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Children</text>
+  <text x="165.0" y="322.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">custody, access,</text>
+  <text x="165.0" y="334.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">maintenance, schooling,</text>
+  <text x="165.0" y="346.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">relocation</text>
+  <rect x="285.0" y="272.0" width="210.0" height="100.0" rx="10" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <text x="390.0" y="300.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Property</text>
+  <text x="390.0" y="322.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">title, contribution,</text>
+  <text x="390.0" y="334.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">customary vs statutory</text>
+  <text x="390.0" y="346.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">rights</text>
+  <rect x="510.0" y="272.0" width="210.0" height="100.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="615.0" y="300.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Maintenance</text>
+  <text x="615.0" y="322.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">spousal and child support;</text>
+  <text x="615.0" y="334.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">enforcement</text>
+  <rect x="735.0" y="272.0" width="210.0" height="100.0" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="840.0" y="300.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Status</text>
+  <text x="840.0" y="322.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">divorce, nullity, separation;</text>
+  <text x="840.0" y="334.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">religious and civil effects</text>
+  <rect x="60.0" y="402.0" width="860.0" height="138.0" rx="12" fill="#ffffff" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="86.0" y="430.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.8px;">THE THERAPIST'S POSITION</text>
+  <text x="86.0" y="452.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">Do</text>
+  <text x="146.0" y="452.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">explain the difference between therapy, mediation and legal advice; refer early; document risk;</text>
+  <text x="146.0" y="466.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">discuss what will be shared in court.</text>
+  <text x="86.0" y="484.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">Do not</text>
+  <text x="146.0" y="484.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">give legal advice, draft agreements, or promise confidentiality you cannot keep when a child is</text>
+  <text x="146.0" y="498.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">at risk or a subpoena arrives.</text>
+  <text x="86.0" y="516.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">Watch</text>
+  <text x="146.0" y="516.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">power asymmetry, immigration status, economic dependence, threats, and any pressure to</text>
+  <text x="146.0" y="530.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">reconcile 'for the family'.</text>
+  <rect x="40.0" y="558.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="577.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="598.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">This map is orientation, not legal authority: statutes, state practice and case law vary and change. Verify any specific question with a qualified lawyer in the</text>
+  <text x="54.0" y="612.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">relevant jurisdiction, and keep a referral list you have actually called.</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="670" viewBox="0 0 980 670" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="670" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Choosing a Research Design</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Start with the question, not with the method you happen to like</text>
+  <rect x="300.0" y="92.0" width="380.0" height="62.0" rx="12" fill="#334155" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="120.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;letter-spacing:0.7px;">WHAT KIND OF QUESTION IS IT?</text>
+  <text x="490.0" y="140.0" fill="#cbd5e1" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">and what can you feasibly access?</text>
+  <line x1="490.0" y1="156.0" x2="245.0" y2="196.0" stroke="#0f766e" stroke-width="2"/>
+  <path d="M 255.7 199.3 L 245.0 196.0 L 254.1 189.5 z" fill="#0f766e"/>
+  <rect x="135.0" y="200.0" width="220.0" height="80.0" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="226.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">HOW MUCH, HOW OFTEN,</text>
+  <text x="245.0" y="244.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">DOES X CAUSE Y?</text>
+  <line x1="245.0" y1="278.0" x2="245.0" y2="292.0" stroke="#0f766e" stroke-width="1.2"/>
+  <rect x="135.0" y="300.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Survey / cross-sectional</text>
+  <line x1="245.0" y1="326.0" x2="245.0" y2="340.0" stroke="#0f766e" stroke-width="1.2"/>
+  <rect x="135.0" y="348.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="371.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Longitudinal cohort</text>
+  <line x1="245.0" y1="374.0" x2="245.0" y2="388.0" stroke="#0f766e" stroke-width="1.2"/>
+  <rect x="135.0" y="396.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="419.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Quasi-experiment</text>
+  <line x1="245.0" y1="422.0" x2="245.0" y2="436.0" stroke="#0f766e" stroke-width="1.2"/>
+  <rect x="135.0" y="444.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="467.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Randomised trial</text>
+  <line x1="245.0" y1="470.0" x2="245.0" y2="484.0" stroke="#0f766e" stroke-width="1.2"/>
+  <rect x="135.0" y="492.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="245.0" y="515.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Single-case (N=1) design</text>
+  <line x1="490.0" y1="156.0" x2="500.0" y2="196.0" stroke="#6d28d9" stroke-width="2"/>
+  <path d="M 502.4 185.1 L 500.0 196.0 L 492.7 187.5 z" fill="#6d28d9"/>
+  <rect x="390.0" y="200.0" width="220.0" height="80.0" rx="10" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="226.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">WHAT DOES IT MEAN,</text>
+  <text x="500.0" y="244.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">HOW IS IT LIVED?</text>
+  <line x1="500.0" y1="278.0" x2="500.0" y2="292.0" stroke="#6d28d9" stroke-width="1.2"/>
+  <rect x="390.0" y="300.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Phenomenology</text>
+  <line x1="500.0" y1="326.0" x2="500.0" y2="340.0" stroke="#6d28d9" stroke-width="1.2"/>
+  <rect x="390.0" y="348.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="371.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Grounded theory</text>
+  <line x1="500.0" y1="374.0" x2="500.0" y2="388.0" stroke="#6d28d9" stroke-width="1.2"/>
+  <rect x="390.0" y="396.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="419.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Ethnography</text>
+  <line x1="500.0" y1="422.0" x2="500.0" y2="436.0" stroke="#6d28d9" stroke-width="1.2"/>
+  <rect x="390.0" y="444.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="467.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Case study</text>
+  <line x1="500.0" y1="470.0" x2="500.0" y2="484.0" stroke="#6d28d9" stroke-width="1.2"/>
+  <rect x="390.0" y="492.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="500.0" y="515.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Narrative inquiry</text>
+  <line x1="490.0" y1="156.0" x2="755.0" y2="196.0" stroke="#b45309" stroke-width="2"/>
+  <path d="M 745.9 189.6 L 755.0 196.0 L 744.4 199.5 z" fill="#b45309"/>
+  <rect x="645.0" y="200.0" width="220.0" height="80.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="226.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">BOTH, AND THE MIX</text>
+  <text x="755.0" y="244.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">MATTERS?</text>
+  <line x1="755.0" y1="278.0" x2="755.0" y2="292.0" stroke="#b45309" stroke-width="1.2"/>
+  <rect x="645.0" y="300.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Explanatory sequential</text>
+  <line x1="755.0" y1="326.0" x2="755.0" y2="340.0" stroke="#b45309" stroke-width="1.2"/>
+  <rect x="645.0" y="348.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="371.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Exploratory sequential</text>
+  <line x1="755.0" y1="374.0" x2="755.0" y2="388.0" stroke="#b45309" stroke-width="1.2"/>
+  <rect x="645.0" y="396.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="419.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Convergent parallel</text>
+  <line x1="755.0" y1="422.0" x2="755.0" y2="436.0" stroke="#b45309" stroke-width="1.2"/>
+  <rect x="645.0" y="444.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="467.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Embedded design</text>
+  <line x1="755.0" y1="470.0" x2="755.0" y2="484.0" stroke="#b45309" stroke-width="1.2"/>
+  <rect x="645.0" y="492.0" width="220.0" height="38.0" rx="8" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="755.0" y="515.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Participatory action research</text>
+  <rect x="895.0" y="200.0" width="62.0" height="360.0" rx="8" fill="#eef2f7" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="926.0" y="300.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">ETHICS</text>
+  <text x="926.0" y="320.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">approval</text>
+  <text x="926.0" y="360.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">consent</text>
+  <text x="926.0" y="400.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">risk plan</text>
+  <text x="926.0" y="440.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">data plan</text>
+  <text x="926.0" y="480.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">feedback</text>
+  <rect x="40.0" y="596.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="615.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="636.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">In MFT the unit of analysis is the relationship, not only the individual — which creates real statistical problems: partners are non-independent. Plan for it</text>
+  <text x="54.0" y="650.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">(dyadic data analysis, actor–partner models, or a design that samples one person per household).</text>
+</svg>

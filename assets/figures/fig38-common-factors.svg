@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="640" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:25px;font-weight:700;">What Actually Accounts for Change? The Common-Factors View</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Wampold's approximate estimates — contested in detail, robust in direction</text>
+  <path d="M 290 320 L 290.0 155.0 A 165 165 0 0 1 387.0 453.5 Z" fill="#94a3b8" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 290 320 L 387.0 453.5 A 165 165 0 0 1 133.1 371.0 Z" fill="#0f766e" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 290 320 L 133.1 371.0 A 165 165 0 0 1 156.5 223.0 Z" fill="#b45309" stroke="#ffffff" stroke-width="2"/>
+  <path d="M 290 320 L 156.5 223.0 A 165 165 0 0 1 290.0 155.0 Z" fill="#6d28d9" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="290.0" cy="320.0" r="62" fill="#ffffff" stroke="#c7d0da" stroke-width="1.5"/>
+  <text x="290.0" y="314.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">change</text>
+  <text x="290.0" y="334.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">in therapy</text>
+  <rect x="560.0" y="156.0" width="16.0" height="16.0" rx="4" fill="#94a3b8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="586.0" y="170.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Extratherapeutic factors (client, context,</text>
+  <text x="586.0" y="186.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">events) — ~40%</text>
+  <rect x="560.0" y="214.0" width="16.0" height="16.0" rx="4" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="586.0" y="228.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Alliance, empathy, goals and agreement —</text>
+  <text x="586.0" y="244.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">~30%</text>
+  <rect x="560.0" y="272.0" width="16.0" height="16.0" rx="4" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="586.0" y="286.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Expectancy, hope, placebo response —</text>
+  <text x="586.0" y="302.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">~15%</text>
+  <rect x="560.0" y="330.0" width="16.0" height="16.0" rx="4" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="586.0" y="344.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Specific model or technique — ~15%</text>
+  <rect x="560.0" y="400.0" width="380.0" height="150.0" rx="12" fill="#e6f4f1" stroke="#c8e3dd" stroke-width="1.5" opacity="1.0"/>
+  <text x="586.0" y="428.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;letter-spacing:0.6px;">IMPLICATION FOR A MASTER'S CLINICIAN</text>
+  <text x="586.0" y="452.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Learn two or three models deeply rather than</text>
+  <text x="586.0" y="466.2" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">nine shallowly; invest in alliance monitoring and</text>
+  <text x="586.0" y="480.4" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">rupture repair; expect the client's life to do a lot</text>
+  <text x="586.0" y="494.5" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">of the work.</text>
+  <rect x="40.0" y="566.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="585.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="606.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Critique to hold in mind: the percentages are illustrative, not measured constants, and the 'dodo bird' verdict (all bona fide therapies perform similarly) does</text>
+  <text x="54.0" y="620.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">not mean technique is irrelevant — it means technique without alliance is inert.</text>
+</svg>

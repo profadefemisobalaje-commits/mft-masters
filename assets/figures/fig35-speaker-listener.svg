@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="626" viewBox="0 0 980 626" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="626" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Speaker–Listener Technique</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A structured conversation that slows down a fight enough for both people to be heard</text>
+  <rect x="60.0" y="100.0" width="400.0" height="210.0" rx="12" fill="#e6f4f1" stroke="#c8e3dd" stroke-width="1.5" opacity="1.0"/>
+  <text x="260.0" y="130.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">SPEAKER</text>
+  <text x="84.0" y="162.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Use 'I' statements about your own experience</text>
+  <text x="84.0" y="196.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Keep it to one issue and one paragraph</text>
+  <text x="84.0" y="230.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Pause; ask the listener to paraphrase</text>
+  <text x="84.0" y="264.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• No blame, no mind-reading, no 'always'</text>
+  <rect x="520.0" y="100.0" width="400.0" height="210.0" rx="12" fill="#e8eefc" stroke="#c7d6f4" stroke-width="1.5" opacity="1.0"/>
+  <text x="720.0" y="130.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">LISTENER</text>
+  <text x="544.0" y="162.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Paraphrase what you heard, without editing</text>
+  <text x="544.0" y="196.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Check: 'Did I get that right?'</text>
+  <text x="544.0" y="230.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• No rebuttal, no advice, no face-pulling</text>
+  <text x="544.0" y="264.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">• Ask one curious question, then swap</text>
+  <rect x="400.0" y="330.0" width="180.0" height="60.0" rx="10" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="356.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">THE FLOOR CARD</text>
+  <text x="490.0" y="374.0" fill="#fdf3e3" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">whoever holds it speaks</text>
+  <line x1="430.0" y1="316.0" x2="300.0" y2="314.0" stroke="#b45309" stroke-width="1.6"/>
+  <path d="M 309.9 319.2 L 300.0 314.0 L 310.1 309.2 z" fill="#b45309"/>
+  <line x1="550.0" y1="316.0" x2="680.0" y2="314.0" stroke="#b45309" stroke-width="1.6"/>
+  <path d="M 669.9 309.2 L 680.0 314.0 L 670.1 319.2 z" fill="#b45309"/>
+  <rect x="60.0" y="416.0" width="860.0" height="120.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="86.0" y="444.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">WHY IT WORKS</text>
+  <text x="86.0" y="474.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Slows arousal</text>
+  <text x="86.0" y="494.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">paraphrasing forces a pause in the</text>
+  <text x="86.0" y="507.2" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">escalation cycle</text>
+  <text x="371.0" y="474.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Interrupts punctuation</text>
+  <text x="371.0" y="494.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">each partner hears their own words</text>
+  <text x="371.0" y="507.2" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">returned</text>
+  <text x="656.0" y="474.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Builds accuracy</text>
+  <text x="656.0" y="494.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">misattribution is corrected in real time</text>
+  <rect x="40.0" y="552.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="571.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="592.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Assign it as homework with a 15-minute timer and one agreed topic. Expect it to feel artificial — that is the point; the structure is doing the regulating that</text>
+  <text x="54.0" y="606.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">the couple cannot yet do alone.</text>
+</svg>

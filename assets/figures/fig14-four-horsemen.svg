@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="627" viewBox="0 0 980 627" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="627" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Four Horsemen and Their Antidotes</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Noticing the horseman is the skill; the antidote is the intervention</text>
+  <rect x="40.0" y="106.0" width="445.0" height="104.0" rx="10" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="495.0" y="106.0" width="445.0" height="104.0" rx="10" fill="#e8f5ec" stroke="#bcdcc6" stroke-width="1.5" opacity="1.0"/>
+  <text x="60.0" y="132.0" fill="#9f1239" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">CRITICISM</text>
+  <text x="60.0" y="154.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Attacking the person, not the behaviour</text>
+  <text x="60.0" y="176.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">"You always leave the place a mess."</text>
+  <text x="60.0" y="196.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">secondary emotion on display</text>
+  <text x="515.0" y="132.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.6px;">ANTIDOTE: GENTLE START-UP</text>
+  <text x="515.0" y="158.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">"I feel overwhelmed at 8 p.m. when the kitchen is full. Could we reset</text>
+  <text x="515.0" y="172.8" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">after dinner?"</text>
+  <text x="515.0" y="196.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">name the primary need, then make one request</text>
+  <rect x="40.0" y="220.0" width="445.0" height="104.0" rx="10" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <rect x="495.0" y="220.0" width="445.0" height="104.0" rx="10" fill="#e8f5ec" stroke="#bcdcc6" stroke-width="1.5" opacity="1.0"/>
+  <text x="60.0" y="246.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">CONTEMPT</text>
+  <text x="60.0" y="268.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Mockery, eye-rolls, name-calling, superiority</text>
+  <text x="60.0" y="290.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">"You're hopeless, just like your father."</text>
+  <text x="60.0" y="310.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">secondary emotion on display</text>
+  <text x="515.0" y="246.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.6px;">ANTIDOTE: BUILD A CULTURE OF APPRECIATION</text>
+  <text x="515.0" y="272.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">Name one specific thing done well this week — out loud, daily.</text>
+  <text x="515.0" y="310.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">name the primary need, then make one request</text>
+  <rect x="40.0" y="334.0" width="445.0" height="104.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="495.0" y="334.0" width="445.0" height="104.0" rx="10" fill="#e8f5ec" stroke="#bcdcc6" stroke-width="1.5" opacity="1.0"/>
+  <text x="60.0" y="360.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">DEFENSIVENESS</text>
+  <text x="60.0" y="382.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Counter-attack or innocent victim stance</text>
+  <text x="60.0" y="404.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">"Me? You're the one who never listens."</text>
+  <text x="60.0" y="424.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">secondary emotion on display</text>
+  <text x="515.0" y="360.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.6px;">ANTIDOTE: ACCEPT SOME RESPONSIBILITY</text>
+  <text x="515.0" y="386.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">"I did forget. That's on me. Let me fix it now."</text>
+  <text x="515.0" y="424.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">name the primary need, then make one request</text>
+  <rect x="40.0" y="448.0" width="445.0" height="104.0" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <rect x="495.0" y="448.0" width="445.0" height="104.0" rx="10" fill="#e8f5ec" stroke="#bcdcc6" stroke-width="1.5" opacity="1.0"/>
+  <text x="60.0" y="474.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;letter-spacing:1px;">STONEWALLING</text>
+  <text x="60.0" y="496.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Shutting down, going blank, leaving</text>
+  <text x="60.0" y="518.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">Silence, phone scrolling, walking out.</text>
+  <text x="60.0" y="538.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">secondary emotion on display</text>
+  <text x="515.0" y="474.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.6px;">ANTIDOTE: SELF-SOOTHE AND RETURN</text>
+  <text x="515.0" y="500.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">"I'm flooded. I need 30 minutes, then I'll come back to this."</text>
+  <text x="515.0" y="538.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">name the primary need, then make one request</text>
+  <rect x="40.0" y="552.0" width="900.0" height="69.0" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="571.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="592.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Frequency matters more than intensity: contempt is the single strongest predictor of relationship dissolution in Gottman's longitudinal work, and it is</text>
+  <text x="54.0" y="607.5" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">also the horseman most treatable — because it lives in tone, not in facts.</text>
+</svg>

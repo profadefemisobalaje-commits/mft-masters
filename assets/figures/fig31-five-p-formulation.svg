@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="620" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The 5-P Formulation Grid</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A transdiagnostic scaffold you can use with any presenting problem</text>
+  <rect x="45.0" y="110.0" width="172.0" height="340.0" rx="12" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="45.0" y="110.0" width="172.0" height="6.0" rx="3" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="131.0" y="142.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PRESENTING</text>
+  <text x="131.0" y="164.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">What is happening now?</text>
+  <text x="131.0" y="190.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Amara, 16: school</text>
+  <text x="131.0" y="203.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">refusal for 6 weeks</text>
+  <text x="131.0" y="250.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Parents in escalating</text>
+  <text x="131.0" y="263.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">conflict about</text>
+  <text x="131.0" y="276.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">discipline</text>
+  <text x="131.0" y="310.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Weekly panic</text>
+  <text x="131.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">symptoms before</text>
+  <text x="131.0" y="336.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">school</text>
+  <rect x="226.0" y="110.0" width="172.0" height="340.0" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <rect x="226.0" y="110.0" width="172.0" height="6.0" rx="3" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="312.0" y="142.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PREDISPOSING</text>
+  <text x="312.0" y="164.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">What made this more likely?</text>
+  <text x="312.0" y="190.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Maternal history of</text>
+  <text x="312.0" y="203.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">depression</text>
+  <text x="312.0" y="250.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Early separation</text>
+  <text x="312.0" y="263.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">during migration</text>
+  <text x="312.0" y="310.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Family pattern of 'no</text>
+  <text x="312.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">feelings talk'</text>
+  <rect x="407.0" y="110.0" width="172.0" height="340.0" rx="12" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="407.0" y="110.0" width="172.0" height="6.0" rx="3" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="493.0" y="142.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PRECIPITATING</text>
+  <text x="493.0" y="164.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">What tipped it over?</text>
+  <text x="493.0" y="190.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Father's job loss and</text>
+  <text x="493.0" y="203.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">increased drinking</text>
+  <text x="493.0" y="250.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Best friend moved</text>
+  <text x="493.0" y="263.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">away</text>
+  <text x="493.0" y="310.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Transition to senior</text>
+  <text x="493.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">secondary</text>
+  <rect x="588.0" y="110.0" width="172.0" height="340.0" rx="12" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <rect x="588.0" y="110.0" width="172.0" height="6.0" rx="3" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="674.0" y="142.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PERPETUATING</text>
+  <text x="674.0" y="164.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">What keeps it going?</text>
+  <text x="674.0" y="190.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Parents' conflict</text>
+  <text x="674.0" y="203.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">cycle;</text>
+  <text x="674.0" y="216.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">mother–daughter</text>
+  <text x="674.0" y="250.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">School avoidance</text>
+  <text x="674.0" y="263.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">rewarded by reduced</text>
+  <text x="674.0" y="276.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">anxiety</text>
+  <text x="674.0" y="310.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Sleep disruption and</text>
+  <text x="674.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">phone use at night</text>
+  <rect x="769.0" y="110.0" width="172.0" height="340.0" rx="12" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="769.0" y="110.0" width="172.0" height="6.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="855.0" y="142.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">PROTECTIVE</text>
+  <text x="855.0" y="164.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">What is already working?</text>
+  <text x="855.0" y="190.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Strong church</text>
+  <text x="855.0" y="203.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">community; aunt as</text>
+  <text x="855.0" y="216.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">ally</text>
+  <text x="855.0" y="250.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Amara's engagement</text>
+  <text x="855.0" y="263.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">in art</text>
+  <text x="855.0" y="310.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">Parents both attend</text>
+  <text x="855.0" y="323.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">and want change</text>
+  <rect x="45.0" y="470.0" width="890.0" height="48.0" rx="10" fill="#334155" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="500.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Then write one sentence: 'Given ___, ___ and ___, the most useful focus now is ___ because it is the most changeable.'</text>
+  <rect x="40.0" y="532.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="551.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="572.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">The grid is a hypothesis, not a verdict. Share it, invite edits, and revisit it after four sessions. A formulation that never changes is usually a formulation</text>
+  <text x="54.0" y="586.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">nobody shared.</text>
+</svg>
