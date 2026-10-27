@@ -1,6 +1,6 @@
 # Progress — 8,000 words per teaching week
 
-Target: every teaching week in every course book at **8,000+ words**. Current standing: **30 of 395 weeks** at or above the floor.
+Target: every teaching week in every course book at **8,000+ words**. Current standing: **31 of 395 weeks** at or above the floor.
 
 Run `python3 scripts/check_week_lengths.py -v` for the week-by-week audit; `python3 scripts/week_progress.py` rewrites this file.
 
@@ -8,7 +8,7 @@ Run `python3 scripts/check_week_lengths.py -v` for the week-by-week audit; `pyth
 |---|---|---|---|---|
 | MFT-701 | 14 | 14 | 112,582 | complete |
 | MFT-702 | 14 | 14 | 114,096 | complete |
-| MFT-703 | 15 | 2 | 18,005 | 13% |
+| MFT-703 | 15 | 3 | 25,910 | 20% |
 | MFT-704 | 14 | 0 | 2,402 | not started |
 | MFT-705 | 14 | 0 | 2,276 | not started |
 | MFT-706 | 16 | 0 | 2,677 | not started |

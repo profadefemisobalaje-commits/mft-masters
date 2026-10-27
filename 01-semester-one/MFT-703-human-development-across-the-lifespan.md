@@ -1511,7 +1511,703 @@ beliefs is a technique imposed on a relationship.
 > gaze, vocalisation, touch, pace. Then describe one moment of rupture and one of repair in behavioural
 > language. Avoid interpretation for the first five minutes.
 
+### 3.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | What attachment is not | Three misuses of the word, from practice and from the popular press | Correct three sentences |
+| 10–25 | The behavioural system | The Strange Situation, described as an experiment | Predict four classifications from four descriptions |
+| 25–40 | The four patterns | Each pattern's strategy, in the infant's terms | Write the strategy for one pattern |
+| 40–55 | Synchrony and the still face | The experiment, watched, then explained | Note two ruptures and two repairs |
+| 55–70 | Co-regulation | How calming is borrowed before it is owned | Design a co-regulation sequence for one family |
+| 70–82 | Disorganisation | Frightening caregiving, and why it is a red flag rather than a category | Identify the clinical action |
+| 82–90 | The clinical translation | What a family therapist does with this in session one | Write the sentence you would use |
+
+**The teaching decision that makes the week work.** Attachment is the most popularised concept in this course
+and the most frequently misused. The lecture should therefore begin by dismantling the popular version — that
+attachment is love, that it is fixed in the first year, that a child is "securely attached" as a compliment or
+"insecurely attached" as a diagnosis — and then rebuild it as a behavioural system with a strategy. The class
+should leave able to say what an attachment classification is a classification *of*, which is a strategy under
+stress, not a relationship's worth.
+
+**The sentence the lecture must land.** "Attachment is a strategy, not a verdict." Everything else follows: the
+patterns are adaptations to what a caregiver can offer; they are changeable; and the clinical task is to
+understand the strategy rather than to grade the relationship.
+
+### 3.2 Core concepts
+
+**The behavioural system.** Bowlby's term for the set of behaviours — crying, following, clinging, checking —
+that a child organises in order to maintain proximity to a caregiver under threat. The system is activated by
+danger, fatigue, illness and unfamiliarity, and it is deactivated by the caregiver's availability. It is not a
+feeling and not a personality trait; it is an organised set of moves that a child makes when frightened, and the
+organisation is what the classification describes.
+
+**The internal working model.** Bowlby's second concept: from repeated experiences, the child builds a working
+model of what happens when I am frightened, who comes, whether I am worth coming for, and what I must do to
+maximise the chance of being helped. The model is not conscious and not verbal; it is a set of expectations that
+shapes behaviour, and it is what transfers into adult relationships.
+
+**The Strange Situation.** Ainsworth's twenty-minute laboratory procedure: the infant and caregiver are in a room
+with toys; a stranger enters; the caregiver leaves; the caregiver returns; the caregiver leaves again; the infant
+is alone; the stranger returns; the caregiver returns. The classification is made on the infant's behaviour at
+the two reunions, not on the separation distress — which is the detail most often missed. What matters is how the
+child uses the caregiver on return.
+
+**Secure (B).** The infant is distressed by separation, greets the caregiver on return, is comforted, and returns
+to play. The strategy: my signals work, so I use them, and I can go back to exploring. The caregiver's
+contribution: responsive, available, and effective when the child signals.
+
+**Insecure-avoidant (A).** The infant shows little distress at separation and avoids or ignores the caregiver on
+return, while physiological measures often show arousal. The strategy: my signals do not bring comfort, often
+bring rejection, so I will not signal and will manage alone. The caregiver's contribution: frequently rejecting of
+the child's attachment behaviour, particularly when the child is distressed.
+
+**Insecure-resistant or ambivalent (C).** The infant is highly distressed, and on return is not easily comforted;
+may seek contact and then push away. The strategy: my signals bring inconsistent responses, so I must amplify them
+and cannot settle, because settling would end the attempt. The caregiver's contribution: inconsistent
+availability — sometimes responsive, sometimes not, in a way the infant cannot predict.
+
+**Disorganised (D).** Main and Solomon's addition: the infant shows contradictory, incomplete or undirected
+behaviours at reunion — freezing, stilling, approaching and then turning away, a hand to the mouth. The strategy:
+there is no strategy, because the source of comfort is also the source of fear. The caregiver's contribution:
+frightening or frightened caregiving — the parent's own fear, trauma or violence enters the interaction. This is a
+red flag rather than a category, and it demands assessment.
+
+**The distribution, and what it means.** In low-risk community samples, roughly sixty per cent secure, with the
+remainder divided among the insecure categories and a small proportion disorganised. In clinical and high-risk
+samples the proportions shift substantially. The distribution matters because it protects against two errors: the
+error of treating a secure classification as an achievement, and the error of treating an insecure one as a
+pathology.
+
+**Continuity and change.** Attachment classifications are moderately stable within the first years and less
+stable across longer periods; they change with the caregiving environment. A child in an unpredictable household
+can move from secure to insecure; a child moved to a stable placement can move the other way. The clinical
+implication is the opposite of the popular one: attachment is not destiny, and the practitioner's task is to
+change the environment, not to accept the classification.
+
+**Synchrony.** The matching of interaction between caregiver and infant — gaze, vocalisation, touch, pace,
+timing. Synchrony is not perfect imitation; it is contingent responsiveness, a caregiver responding to what the
+infant actually did, at a pace the infant can follow. Its absence is the earliest observable sign of relational
+difficulty.
+
+**The still-face experiment.** Tronick's procedure: the mother interacts normally, then holds a still face for two
+minutes, then resumes. The infant's response is a sequence: attempts to engage, then distress, then withdrawal,
+then — on the mother's return — recovery. The experiment is the strongest available demonstration of two things:
+that infants are active participants in interaction, and that repair after rupture is what matters, because the
+infant recovers rather than concluding that the relationship is broken.
+
+**Rupture and repair.** Healthy development does not require constant attunement — no caregiver achieves it — but
+frequent enough attunement and effective repair. The concept is the single most useful in this week for family
+therapy, because it applies at every age: the goal is not the absence of rupture but the capacity to repair, and
+every family the therapist sees is organised around an unrepaired rupture somewhere.
+
+**Co-regulation.** The borrowed regulation of early infancy: the caregiver's voice, body, rhythm and face down-
+regulate the infant's arousal, repeatedly, and the infant gradually internalises the pattern. Self-regulation is
+therefore a relational achievement before it is an individual capacity, which is why the advice to "let him cry
+it out" is a technique imposed on a relationship rather than a developmental fact.
+
+**What family therapists do with this.** Three uses. First, an assessment frame: what strategy has this child
+developed, in this household, and what does it protect them from? Second, a formulation of the parents' own
+strategies: their working models are in the room, and their responses to the child's distress are shaped by what
+happened to them. Third, a target: the repair, not the classification — one reliably repaired rupture is worth
+more than a theory of the child's pattern.
+
+### 3.2a Four infants, described and classified
+
+The classification skill, practised on four descriptions, with the reasoning made explicit. Students should
+classify each before reading the analysis.
+
+**Infant one.** Eleven months. On separation, cries briefly and looks at the door. On reunion, reaches up,
+is picked up, settles within thirty seconds, and then struggles to be put down so that she can return to the
+toys. She shows the stranger a toy from the safety of her mother's lap.
+
+*Classification:* secure. *Reasoning:* distress at separation, active greeting, effective use of the
+caregiver for comfort, and a return to exploration. The critical feature is not the distress but the use of
+the caregiver.
+
+**Infant two.** Eleven months. On separation, continues to play and does not look at the door. On reunion,
+does not approach, turns away, and continues with the toys; when the caregiver picks him up, he arches and
+looks over her shoulder. The observer notes that his heart rate rose during the separation.
+
+*Classification:* insecure-avoidant. *Reasoning:* the absence of signalling, the avoidance at reunion, and
+the physiological arousal that the behaviour conceals. The strategy is the point: not signalling is a
+strategy, learned from a caregiver for whom signalling has not worked.
+
+**Infant three.** Eleven months. On separation, is inconsolable and cannot be distracted by the stranger. On
+reunion, clings, cries, is picked up, and then pushes against the caregiver while continuing to cry; is not
+settled within the twenty minutes.
+
+*Classification:* insecure-resistant (ambivalent). *Reasoning:* the amplified signalling, the failure to be
+comforted, and the mixture of contact-seeking and contact-refusing. The strategy is to keep the attempt
+alive, because settling would mean that the availability is settled, and the infant's experience is that it
+is not.
+
+**Infant four.** Eleven months. On separation, stands still and does not cry. On reunion, approaches the
+caregiver with his head turned away, raises a hand to his mouth, and then freezes for several seconds before
+walking in a circle. Twice he begins to approach and stops.
+
+*Classification:* disorganised. *Reasoning:* contradictory, incomplete and undirected behaviour; freezing;
+no coherent strategy. The clinical action is not a classification but an assessment: what is happening in
+the household, and is this infant safe?
+
+**What the four descriptions teach.** That the classification depends on the reunion, not the separation;
+that behaviour and physiology can disagree, which is why observation alone can mislead; that every
+classification is a description of a strategy; and that the fourth requires an action rather than a label.
+
+**The common error.** Trainees classify infant two as secure because he is not distressed. The error comes
+from watching the separation. The correction is simple: watch the reunion, and ask what the child does with
+the caregiver when the caregiver comes back.
+
+### 3.3 Synchrony, assessed in the room
+
+A family therapist does not run a Strange Situation, and can assess the same processes in an ordinary session.
+Six observable markers, with the behaviour that indicates each.
+
+**Marker one — the greeting.** When the caregiver returns from a brief absence (leaving the room to take a
+call), does the infant look up, vocalise, move toward? Does the caregiver acknowledge the infant on return?
+A pair who do neither, repeatedly, are telling the therapist something.
+
+**Marker two — the pace.** Does the caregiver wait for the infant's response before speaking again, or fill
+every silence? Rapid, uninterrupted caregiver speech is the most common synchrony problem in anxious
+parents, and it is also the easiest to change.
+
+**Marker three — the repair.** When the infant becomes distressed in the session — a bump, a fright, a
+stranger's approach — what does the caregiver do, and how quickly does the infant settle? The repair is the
+assessment, and it takes ninety seconds to observe.
+
+**Marker four — the use of the caregiver as a base.** Does the infant explore the room, return to the
+caregiver, and go out again? The pattern of excursions and returns is the secure base in miniature.
+
+**Marker five — the caregiver's reading.** Does the caregiver interpret the infant's signals accurately?
+"He is tired" when the infant is hungry is a small error; a caregiver who cannot read any signal is a
+different finding. Ask the caregiver to narrate: "what is he telling you now?" The narration is the
+assessment.
+
+**Marker six — the caregiver's own state.** A depressed, frightened, exhausted or intoxicated caregiver cannot
+provide synchrony, and the observation should be recorded as a statement about the caregiver's state rather
+than about their character. This is the marker that most often produces the referral.
+
+**How the six are used.** Observed in the first fifteen minutes of a session, recorded in behavioural
+language, and used as the basis for the formulation. The therapist does not score the pair; the therapist
+describes, and the description is the intervention, because it teaches the caregiver to look at what they are
+already doing.
+
+**The caution.** Fifteen minutes in an unfamiliar room, with a stranger present, is not a representative
+sample. The observation is a hypothesis generator, not a finding, and the therapist should say so and ask
+the caregiver what the infant is like at home.
+
+### 3.3a Co-regulation, designed for one family
+
+The concept is easy to state and hard to apply. A worked sequence for a family in which the caregiver's own
+regulation is the problem.
+
+**The family.** A mother, 24, with a nine-month-old, referred by the health visitor for "he cries all the
+time and I cannot cope". She is sleeping four hours a night, has no help, and describes herself as "shouting
+at a baby". Her own history includes a violent father and a mother who "never held us".
+
+**The formulation.** The infant's crying activates the mother's own attachment system: she experiences the
+crying as an accusation, her arousal rises, and she responds with the only strategy she has — withdrawal,
+followed by shouting. The infant's crying escalates, the mother's arousal escalates, and the loop is complete
+within ninety seconds. Neither is doing anything pathological; both are doing what their systems have learned.
+
+**The co-regulation sequence, taught in the session.**
+
+*Step one — the mother's own regulation, first.* "Before you can calm him, you have to lower your own
+arousal, because he reads you. What is the fastest way for you to bring yourself down?" Her answer: cold
+water on her wrists, and counting to ten out loud. Both are taught and rehearsed in the room, with the baby
+present, so that she experiences the sequence rather than being told about it.
+
+*Step two — a holding position that works for her.* Not the textbook position: a position she can sustain
+without feeling trapped. She chooses to sit on the floor with him against her chest, which is a position she
+can leave if she needs to, and which she can hold for two minutes.
+
+*Step three — a sound she can make.* A low, repeated sound, not a song, because a song requires performance.
+She chooses "shhh" on the out-breath, which is also the physiological sigh that lowers her own arousal, so the
+technique regulates both of them at once.
+
+*Step four — the two-minute rule.* She commits to two minutes of steps one to three before doing anything
+else. Two minutes is chosen because it is achievable when she is exhausted, and because most infant crying
+cycles change within two minutes.
+
+*Step five — the permission to put him down.* "If after two minutes you still cannot, put him in the cot,
+leave the room, and stand at the door for three minutes. That is not abandonment; that is you preventing
+something worse." The permission is the intervention's ethical core: a mother who is frightened of her own
+anger needs a legitimate exit.
+
+**The follow-up.** Two weeks later: the two-minute sequence is used "most times", the shouting has reduced,
+and the mother reports one occasion on which she put him down and stood at the door. She describes it as "the
+first time I did not feel like a bad mother". The infant's crying has not disappeared; the loop has been
+interrupted.
+
+**What the sequence demonstrates.** Co-regulation is not a technique for the infant. It is a technique for
+the relationship, and it begins with the caregiver's own state — which is why this week's material belongs in a
+family therapy course and not only in a developmental psychology text.
+
+### 3.3b The caregiving network, mapped
+
+The single most useful correction to the dyadic literature, and the instrument that puts it into practice.
+
+**The instrument.** A circle in the middle for the infant, and around it every person who does caregiving work,
+with three pieces of information: how often, for how long, and what they do. The answers are usually wider than
+the referral: a grandmother who takes the nights, an aunt who takes the child at weekends, an older sibling who
+walks him to nursery, a neighbour who minds him while the mother sells.
+
+**Why it matters clinically.** Three reasons. First, the assessment of "the mother–infant relationship" is
+incomplete and often unfair when four people are raising the child; the mother is graded on a job she is doing
+with help, or failing to do because the help is contested. Second, the infant's attachment strategies are
+distributed across the network: a child may be secure with the aunt and avoidant with the father, and the
+classification literature's single-figure procedure cannot describe this. Third, the network is where the
+intervention usually belongs: the contested rule, the inconsistent method, the caregiver who undermines another,
+the person who is exhausted.
+
+**The three questions that map it.** "Who has held him this week, and for how long?" "Who decides what happens
+when he cries?" "Who disagrees with whom about how he should be raised?" The third question is the clinical one,
+and it is almost never asked in a developmental assessment, although it explains more of the household's
+difficulty than any milestone.
+
+**A worked map.** The Balogun infant of Week 2: mother (all nights, most days), father (rest days, evenings),
+paternal grandmother (four nights a week, all cooking, some feeds), an aunt (Saturdays), and a neighbour (two
+afternoons a week while the mother works). Decisions: the grandmother decides feeding and bathing; the mother
+decides sleep; nobody decides anything about the crying, which is where the disputes are. Disagreement: the
+grandmother believes the infant should be left to cry; the mother cannot bear it; the father follows whoever is
+in the room.
+
+**The intervention the map produces.** Not a parenting programme. One conversation with the three adults about
+crying — what they each do, what they each believe, and one agreement they can all keep — plus the assignment of
+one decision to the mother, explicitly, so that she has an area of authority. The map made the problem visible:
+the household was not failing to respond; it was responding four different ways.
+
+**The caution.** Mapping the network can expose a conflict that the family have managed by not discussing it, and
+the therapist should not conduct the exposure in a first session with the infant present. Map it, note it, and
+bring the adults together separately when the map is complete.
+
+### 3.4 The first session with an infant and two parents
+
+An assessment structure for the youngest client, in five phases, with the observation built into the session
+rather than bolted on.
+
+**Phase one — the frame (five minutes).** "I am going to ask about the pregnancy, the birth and the first months,
+and then I will spend some time just watching the three of you together, because that tells me more than any
+question. You do not need to perform anything; do what you would normally do." The permission not to perform is
+necessary, because parents of infants believe they are being graded.
+
+**Phase two — the chronology (fifteen minutes).** The pregnancy, the birth, the first weeks, feeding, sleep, who
+has helped, and what has changed in the household. The timeline is drawn as in Week 1, with one addition: the
+parents' own events — a job loss, a bereavement, a move — are marked on the same line as the infant's, because
+the two are one story.
+
+**Phase three — the observation (fifteen minutes).** The therapist stops asking questions and watches. The six
+markers of 3.3 are noted silently: greeting, pace, repair, use of the caregiver as a base, the caregiver's reading,
+the caregiver's own state. The therapist says nothing for the first five minutes, which is uncomfortable for
+everyone and is the most informative part of the session.
+
+**Phase four — the narration (ten minutes).** "Can I tell you what I noticed? You waited for him to look at you
+before you picked him up, and when the door banged he looked at you before he cried. That is a child who checks
+with you." The narration is in behavioural language, it names what is going well first, and it is specific. The
+parents' response to the narration — relief, tears, argument — is itself data.
+
+**Phase five — the formulation (five minutes).** One of the five statements from Week 1, plus one thing to try
+before the next session. The thing to try is almost always relational and small: a two-minute co-regulation
+sequence, a pause before responding, a handover of one caregiving task between the parents.
+
+**What the therapist does not do.** Does not test the infant; does not classify the attachment; does not
+interpret the parents' childhoods in session one; does not give feeding or sleep advice unless asked, and then
+with the evidence stated plainly in both directions.
+
+### 3.4a The still face, in the consulting room
+
+The experiment cannot be replicated with a family, and its lesson can be demonstrated, and the demonstration is
+the week's most powerful teaching device.
+
+**The demonstration.** With a volunteer parent and infant (or a peer and a doll), the therapist asks the parent to
+play normally for one minute, then to hold a still face for thirty seconds, then to resume. Most parents find the
+thirty seconds distressing, and most infants mount a visible sequence of attempts, protest, and withdrawal within
+twenty seconds. The debrief is the teaching.
+
+**What the demonstration shows.** That the infant is not a passive recipient but an active partner with
+strategies; that the infant's distress is proportionate and immediate; that the resumption produces recovery in
+most pairs; and that the parent's own discomfort during the still face is a reliable index of how much the
+interaction matters to them.
+
+**The clinical use.** The demonstration is used with parents who believe their infant does not notice them —
+fathers who feel irrelevant, mothers who believe the baby prefers the grandmother, parents who have been told
+that "at this age they do not know anything". Showing a parent that their infant is tracking them is more
+persuasive than any amount of explanation, and it changes the parent's behaviour within the session.
+
+**The caution.** Never with a distressed or ill infant, never without consent, never for longer than thirty
+seconds, and never as a test of the parent. The demonstration's purpose is the parent's discovery, not the
+therapist's evidence.
+
+### 3.5 Case: the Adeyemi family, in the infant's terms
+
+The course's recurring family, now read for the infancy that shaped it — because the infancy is where the
+patterns the family present were built.
+
+**What we know.** Amara is fourteen; Segun is eleven. Their father, Tunde, has worked away for most of their
+childhood. Their mother, Funke, has managed the household alone. The paternal grandmother lived with them until
+her death in 2023.
+
+**The reconstruction, offered as a hypothesis and not as a finding.** Funke's account: Tunde was present for the
+first three months of Amara's life, then took the contract in Lagos. She describes those three months as "the
+best time" and the following year as "the worst". She returned to work at six months and left Amara with her
+mother-in-law, with whom she "did not agree about anything but could not say so".
+
+**The attachment reading.** Amara's first year contained two discontinuities: her father's departure at three
+months, and her mother's return to work at six with a substitute caregiver whose methods her mother could not
+endorse. Neither is a trauma; both are the ordinary material from which a working model is built. The hypothesis
+— and it is a hypothesis — is that Amara learned that the person who is most available is also the person whose
+authority is contested, and that need is best managed by being self-sufficient and by keeping the adults'
+attention through achievement and, later, through refusal.
+
+**Segun's first year, by contrast.** Funke did not return to work until Segun was two, and the grandmother was
+already ill, so Funke was at home. Segun's strategy is different: he stays close, he manages the household's
+information, and he is the family's listener. The difference between the siblings is a natural experiment in
+caregiving conditions, and the family's own account confirms it.
+
+**What the therapist does with the reconstruction.** Not much, and carefully. The reconstruction is used for two
+purposes: to understand why the mother's pursuit and the daughter's withdrawal are so well rehearsed, and to ask
+one question that opens the history without demanding it — "when Amara was small, who held her?" The question is
+asked once, in the presence of both parents, and whatever comes back is received.
+
+**The caution.** Retrospective reconstruction of infancy is a hypothesis, not a record; memory is unreliable and
+the family's account is shaped by the present. The therapist who presents a reconstruction as a finding has
+replaced the family's story with a theory, which is the error Week 11 of MFT 702 warns against. The reconstruction
+earns its place only if it produces a question the family can use.
+
+### 3.6 Annotated transcript: rupture and repair in a session
+
+Ten turns from a first session with a mother (26) and her eleven-month-old, referred for "he will not settle
+with anyone but me". The transcript shows a repair happening live.
+
+> **T1 Therapist:** He is looking at the box of toys. What does he usually do in a new room?
+
+> **T2 Mother:** He clings. He will not go.
+
+> **T3 Therapist:** (waits) He has let go of your sleeve.
+
+> **T4 Mother:** (looking) He has.
+
+> **T5 Therapist:** What would happen if you sat on the floor and did not reach for him?
+
+> **T6 Mother:** He will cry.
+
+> **T7 Therapist:** Let us find out. I will be quiet.
+
+> **T8 Mother:** (sits on the floor; the infant moves two steps, looks back, and she reaches for him) — see?
+
+> **T9 Therapist:** He looked back first. That is what he does before he decides. If you wait for the second
+> look, he might go further. Would you try it once more?
+
+> **T10 Mother:** (sits still; the infant moves four steps, looks back twice, she stays; he brings a block back
+> to her) — he brought it to me.
+
+**Annotations.** *T1* begins with the child rather than the complaint, and asks the mother for her prediction,
+which is the assessment of her reading.
+
+*T2* is the maternal expectation — "he clings" — which is both accurate about the past and a prediction that will
+organise the future. The therapist does not challenge it; she waits.
+
+*T3* is the noticing, in behavioural language, of something the mother has not seen because she is answering a
+question. The therapist's silence at the start of the turn is doing work: it gives the infant time to act.
+
+*T5* is the invitation, framed as an experiment rather than an instruction, which is what makes it acceptable.
+*T7* explicitly removes the therapist from the interaction, which lowers the pressure and makes the mother the
+agent.
+
+*T8* is the rupture: the mother reaches for the infant at the first look, which is precisely the pattern that
+prevents exploration. Her "see?" is not defiance; it is the proof of her own prediction.
+
+*T9* is the repair, and it is the transcript's most skilful move. The therapist does not say "you are
+over-responsive"; she names the mechanism ("he looked back first; that is what he does before he decides") and
+offers a small modification ("wait for the second look"). The mother's prediction is not contradicted; it is
+given a condition.
+
+*T10* is the outcome, and it is the mother's sentence — "he brought it to me" — not the therapist's. The
+intervention was ninety seconds long, and it changed a working model in the room.
+
+**What the trainee should notice.** The therapist made no interpretation about the mother's own childhood, gave no
+advice about independence, and did not celebrate the outcome. The technique is a wait, a noticing, and an
+invitation, and it requires the therapist to tolerate the mother's distress at *T8* without rescuing either of
+them.
+
+### 3.7 Laboratory: observing synchrony
+
+Sixty minutes, in threes, with a video clip and then a live observation.
+
+**Task one — the clip (twenty minutes).** A consented three-minute clip of a caregiver and infant. First five
+minutes: description only, in behavioural language, no interpretation. Then the six markers, noted. Then one
+rupture and one repair, described.
+
+**Task two — the live observation (twenty-five minutes).** One student brings a recording (or plays a parent with a
+doll); the therapist observes for five minutes in silence and then narrates what they saw, beginning with what is
+going well. The observer checks whether the narration was behavioural and whether it named a strength first.
+
+**Task three — the co-regulation design (fifteen minutes).** For the family in 3.3a, design the five-step sequence
+and rehearse step one out loud.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Behavioural description | 25% | No interpretation for the first five minutes; behaviour, timing and sequence named |
+| Marker identification | 20% | All six addressed, including the caregiver's own state |
+| Rupture and repair | 20% | One of each identified and described in behavioural language |
+| Narration | 20% | Strength named first; specific; the parent could repeat it |
+| Co-regulation design | 15% | Begins with the caregiver's regulation; achievable; an exit included |
+
+**The debrief question.** "What did you want to interpret, and what stopped you?" The answers are usually about
+the parents' own histories, and the discussion of why a first session is not the place for that interpretation is the week's most useful ten minutes. The rule to take away: describe before you explain, and explain only what the family have already begun to say.
+
+### 3.8 Six errors in infant mental health work
+
+1. **The label as a finding.** "He is insecurely attached" said to a parent who came for help with sleep. Fix:
+   describe the strategy, not the classification, and only where it serves the work.
+2. **The mother as the patient.** The observation focused entirely on the mother, with the father, the
+   grandmother and the household invisible. Fix: the caregiving network as the unit, and every caregiver
+   observed.
+3. **The interpretive leap.** "He clings because you are anxious" offered in the first session, before trust.
+   Fix: describe, narrate, then hypothesise — in that order, over sessions.
+4. **The technique imposed.** Sleep training, independent play, or "let him cry" prescribed without attention to
+   the family's capacity, beliefs and circumstances. Fix: the evidence stated plainly in both directions, and the
+   family's decision respected.
+5. **The missed caregiver state.** A depressed, frightened or exhausted caregiver observed and not addressed,
+   because the referral was about the baby. Fix: the caregiver's own state is the sixth marker, asked about and
+   responded to.
+6. **The ignored history.** A disorganised pattern observed and not followed up, because following it up would
+   require asking about violence. Fix: ask, record, and act — the same screen as Week 2, applied to infancy.
+
+### 3.9 Culture, faith and the first relationship
+
+**Where the week's material travels well.** The behavioural-system account is one of developmental psychology's
+more portable ideas: every human infant signals, every caregiver responds or does not, and the resulting strategies
+are recognisable across cultures. The concepts of synchrony, rupture and repair are observable in any household,
+and the co-regulation sequence is a description of what most caregivers already do.
+
+**Where it strains, four ways.**
+
+*The Strange Situation's assumption of the dyad.* The procedure assumes a single primary caregiver, and it
+assumes that the infant's reaction to a stranger and to a brief separation is meaningful in the same way
+everywhere. In households where multiple caregivers are routine — grandmothers, aunts, older siblings, paid
+helpers — the infant's reaction to the departure of one figure is a different measurement. The literature on
+multiple attachments is clear that infants form several, and the clinical assessment should therefore map the
+network rather than grade the mother.
+
+*The value placed on exploration.* The secure pattern's marker is a return to play, which encodes a cultural
+valuation of exploration and independence. A household that values compliance and closeness will produce an
+infant who stays near the caregiver, and the observer who scores exploration as the healthy outcome has imported
+a value into the assessment. The clinical question is not "does he explore?" but "does he use his caregiver when
+he is frightened?"
+
+*The practice of separation.* Some households do not leave an infant with a stranger, ever, and some leave the
+infant for months with a relative in another town. Both produce patterns the laboratory did not anticipate. The
+therapist's task is to understand what the separation meant in this family, and to ask about it rather than to
+infer from a classification.
+
+*The independence curriculum.* Sleep training, feeding schedules and early independence are cultural practices
+presented in some of the literature as developmental norms. A family who sleep with their infant, feed on demand
+and carry the child are not failing a developmental task; they are following a different curriculum, and the
+therapist who treats the curriculum as the problem has mistaken a practice for a milestone.
+
+**Faith and the first relationship.** Naming ceremonies, blessings, dedication, prayer over a newborn and the
+forty-day lying-in period are all attachment-relevant events: they mark the child's entry into a community that
+will share the caregiving. The therapist should ask who was present, what was done, and who has a claim on the
+child's care as a result. The answers frequently reveal a caregiving network that the referral had rendered
+invisible, and in some families they reveal a dispute about the child that is the real presenting problem.
+
+**The examinable sentence.** "Attachment is a strategy learned in a particular caregiving network, and the
+clinical task is to describe the strategy and the network, not to grade the pair."
+
+> **DEBATE** — "The Strange Situation measures a relationship, and using it to classify a child is a category
+> error." Argue both sides, and say what the classification is useful for.
+
+### 3.10 Evidence note: strong theory, moderate evidence, popular misuse
+
+**What is well established.** That infants organise attachment behaviour and that individual differences can be
+reliably classified; that maternal sensitivity predicts security, with a moderate association; that
+classification is moderately stable in the early years; that disorganised classification is associated with
+frightening or frightened caregiving and with later difficulties; and that early security predicts later social
+functioning, weakly to moderately, with the effect mediated by later experience.
+
+**What is contested or weaker than commonly claimed.** The strength and specificity of the link between infant
+attachment and adult attachment style — the transmission literature is real and the effect sizes are modest; the
+predictive power of attachment classification for later psychopathology, which is small in low-risk samples; the
+claim that the first two years determine later relationships, which the evidence does not support; and the
+clinical usefulness of attachment classifications in ordinary family work, as against the description of
+strategies.
+
+**What the popular literature gets wrong.** Three things, all of which families bring into the consulting room.
+That attachment is love, so that a "securely attached" child is a loved child and an "insecurely attached" one is
+not. That attachment is fixed, so that a difficult first year is a life sentence. And that attachment is a
+parenting technique — baby-wearing, co-sleeping, feeding — rather than a property of the relationship's
+reliability. Each of the three is a distortion, and each is common enough that the practitioner should be able to
+correct it in one sentence.
+
+**What the practitioner may claim.** "Infants develop strategies for getting help from the people who care for
+them; those strategies are describable; they are shaped by the caregiving they receive; they change when the
+caregiving changes; and the repair of ruptures matters more than the avoidance of them." Each claim is
+defensible, and together they are enough for clinical work.
+
+### 3.11 Key terms
+
+| Term | Definition |
+|---|---|
+| Attachment behavioural system | The organised behaviours a child uses to maintain proximity to a caregiver under threat |
+| Internal working model | The child's expectations about self, others and help, built from repeated experience |
+| Strange Situation | Ainsworth's laboratory procedure, classified on reunion behaviour |
+| Secure (B) | Signals used, caregiver effective, exploration resumed |
+| Avoidant (A) | Signalling suppressed, caregiver avoided at reunion, arousal often elevated |
+| Resistant/ambivalent (C) | Signalling amplified, contact sought and refused, difficulty settling |
+| Disorganised (D) | Contradictory, incomplete or undirected behaviour; no coherent strategy |
+| Synchrony | Contingent, paced responsiveness between caregiver and infant |
+| Still face | Tronick's procedure demonstrating infant participation and the importance of repair |
+| Rupture and repair | The ordinary cycle of mismatch and restoration that builds resilience |
+| Co-regulation | The borrowed regulation of arousal that precedes self-regulation |
+| Caregiving network | All those who care for the infant, not only the parents |
+
+### 3.12 Self-test
+
+1. What is an attachment classification a classification of?
+2. Why does the reunion, rather than the separation, determine the classification?
+3. Describe the strategy of the avoidant infant and the caregiving that produces it.
+4. What makes disorganised attachment a red flag rather than a category?
+5. State the relationship between synchrony, rupture and repair.
+6. What does the still-face experiment demonstrate, and how is it used clinically?
+7. Why is co-regulation a relational achievement?
+8. Name three ways the popular literature misuses attachment, and correct each in one sentence.
+
+**Answers.** 1. Of the strategy a child has developed for obtaining help from a caregiver under stress. 2.
+Because the strategy is revealed in what the child does with the caregiver when the caregiver returns — the
+separation shows distress, the reunion shows the organisation. 3. The avoidant infant suppresses signalling and
+avoids the caregiver, while physiology often shows arousal; the caregiving is typically rejecting of attachment
+behaviour, particularly distress. 4. Because it indicates contradictory or absent strategy, is associated with
+frightening or frightened caregiving, and requires an assessment of safety rather than a label. 5. Synchrony is
+frequent enough attunement; ruptures are inevitable; repair after rupture is what builds the child's confidence
+that the relationship survives. 6. That infants are active participants who respond to unresponsiveness and
+recover when responsiveness resumes; clinically it shows parents that their infant is tracking them. 7. Because
+the capacity to calm is first borrowed from a caregiver's voice, body and rhythm, and only later internalised.
+8. That it is love (it is a strategy); that it is fixed (it changes with caregiving); that it is a technique
+(it is a property of the relationship's reliability).
+
+### 3.12a What to tell a parent in one page
+
+The clinical material of this week, converted into something a parent can take home. Six sentences, in ordinary
+language, each with the developmental idea behind it.
+
+1. **"He is not manipulating you; he is asking you for something, and he only has one way of asking."** The
+   behavioural system is a communication system, and the infant's signals are the whole of the vocabulary.
+2. **"You do not have to get it right every time. You have to get it right often enough, and come back after the
+   times you miss."** Rupture and repair: the repair is what the infant is learning about, not the perfect
+   attunement.
+3. **"When you calm him, you are lending him your calm. Later he will do it himself, because he has borrowed it
+   from you a thousand times."** Co-regulation as the precursor of self-regulation.
+4. **"He checks your face before he decides how to feel about things, so your face is part of how he learns to
+   feel."** Social referencing, and the reason a parent's own state is part of the child's environment.
+5. **"If you are frightened, he will be frightened, and that is not your fault; it is the reason we are working on
+   your situation as well as his."** The sixth marker, and the reason the assessment is of the household.
+6. **"There is no single right way to raise a child in this family; there is the way you and the people who help
+   you can agree on, and the agreement is what he needs."** The caregiving network, and the reason the therapist
+   maps it.
+
+**How the page is used.** Read aloud in the session, in the family's language, with the parent's own examples
+substituted for the general statements. Handed over at the end, with the therapist's name and the next
+appointment — not as a leaflet, but as a record of the conversation the family has just had.
+
+### 3.13 Reflective task
+
+Watch a caregiver and an infant for fifteen minutes in a public place — a bus, a clinic waiting room, a market.
+Describe, in writing, three things: one moment of attunement, one rupture, and one repair if there was one. Do
+not interpret, and do not judge. Then write two sentences on what it felt like to watch without interpreting.
+Most students find the third instruction the hardest, and the discomfort is the week's lesson.
+
+### 3.14 Readings for this week
+
+* **Bowlby (1969)**, *Attachment and Loss, Vol. 1*, the founding statement, read the chapters on the behavioural
+  system.
+* **Ainsworth et al. (1978)**, *Patterns of Attachment*, for the Strange Situation and the caregiving correlates.
+* **Tronick (2007)**, *The Neurobehavioral and Social-Emotional Development of Infants*, for the still face and
+  the repair literature.
+* **Sroufe (1996)**, *Emotional Development*, for the longitudinal account of continuity and change.
+* **Main & Solomon (1990)**, on disorganised attachment, read with the caution the concept requires.
+* **Keller (2007)**, *Cultures of Infancy*, the essential corrective on the dyad and the caregiving network.
+
+Read Keller before Ainsworth; the corrective first, so that the classification is read as a description of one
+kind of caregiving arrangement. For the case analysis, use at least one source that disputes the predictive power
+of attachment classification, and say what it means for your formulation. The reading-log question this week is:
+"what does attachment language let me see, and what does it stop me seeing?"
+
+*Next: [Week 4 — Toddlerhood: autonomy, language and limits](#week-4--toddlerhood-autonomy-language-and-limits)*
+
 ---
+
+### 3.2b The four patterns in adult life: what the family therapist sees
+
+The infant patterns are the course's foundation for later work, and the bridge to the adult literature is worth
+building explicitly, because it is what the families' own patterns look like in a session.
+
+| Pattern | In the infant | In the adult, under stress | What the therapist sees in a couple |
+|---|---|---|---|
+| Secure | Signals, is comforted, returns to play | Seeks support, tolerates the answer, negotiates | Asks for what they need, hears the answer, can repair |
+| Avoidant | Suppresses signalling, avoids at reunion | Manages alone, dismisses the need, works | Withdraws, gives facts, resists affect, seems calm |
+| Resistant | Amplifies signalling, hard to settle | Escalates, monitors, cannot be reassured | Pursues, protests, cannot register the reassurance offered |
+| Disorganised | No coherent strategy; freezes | Approach and withdrawal in the same minute | Contradictory moves, sudden coldness, intense pursuit then flight |
+
+**Why the bridge is useful and dangerous.** Useful because it gives the trainee a vocabulary for the couple's
+pattern that connects to a child's experience rather than to a personality type. Dangerous because the adult
+categories are not the infant classifications, and the popular habit of describing a partner as "avoidant" or
+"anxious" collapses a strategy under stress into an identity. The therapist's language should keep the condition:
+"under stress, you manage alone; under stress, you escalate" — not "you are avoidant".
+
+**The clinical use in three sentences.** "When your wife raises her voice, you go quiet and give facts, and she
+escalates because the quiet looks like indifference. Both of you are doing what you learned to do when you were
+frightened, and by the time you are in this room both of you are frightened. The work is to change what happens in
+the ninety seconds after the fear, not to change who you are." That paragraph is the bridge, and it is
+recognisably Week 7 of MFT 702 in developmental clothing.
+
+**The three cautions.** First, do not diagnose attachment styles from a session; the pattern you observe is a
+pattern under the specific stress of being observed. Second, do not use the vocabulary as a verdict — "he is an
+avoidant type" — because it does what the classification was designed not to do. Third, do not explain the
+parents' childhoods to them in the first months of therapy; the reconstruction is a hypothesis, and it is asked
+about, not delivered.
+
+### 3.7a The disorganised flag, and what followed
+
+A case in which the fourth pattern appeared in a session and required an action rather than a formulation.
+
+**The referral.** A mother (29) and her fourteen-month-old, referred by a community nurse for "he is frightened of
+her". The mother describes the child as "always crying" and says she has "lost her patience". She is reluctant to
+come and says the nurse "made her".
+
+**The observation.** In the first twenty minutes the infant plays on the floor, and twice, when his mother stands
+up to reach for a bag, he freezes with his hand at his mouth. When she sits again, he approaches to within a metre
+and stops. When she speaks sharply to the therapist, he stops playing entirely and watches his mother's face.
+
+**The therapist's internal response.** A wish to reassure the mother, and a competing wish to protect the child.
+Both are data. The therapist notes them and does not act on either in the session.
+
+**The action, in the session.** The therapist does not interpret, does not classify, and does not ask about
+violence in front of the infant. She ends the session ten minutes early, with a practical frame ("I would like to
+see you again this week, on your own, before we meet with him again"), and she records the observation in
+behavioural language: "infant froze twice on maternal movement; hand-to-mouth; stopped play on maternal sharp
+speech".
+
+**The individual session.** Asked directly and privately: "is there anyone in the house who frightens you?" The
+mother cries and describes a partner who shouts and who has pushed her twice, "but not near the baby". The
+therapist does not accept the qualification as reassurance and does not argue with it. She names the risk to the
+infant plainly, once: "a baby who freezes when you stand up is a baby who has learned that movement can be
+dangerous. That is not your fault and it is not nothing."
+
+**The plan.** A safety plan for mother and infant; referral to a domestic abuse service with the mother's
+agreement; a discussion about whether the partner should be seen, and a decision that he should not, for now; and
+a report to the safeguarding lead, explained to the mother in advance, in plain language, with the reason.
+
+**What happened.** The partner left the household after a further incident. The mother and infant were seen for
+four months. The freezing at maternal movement disappeared within six weeks; the mother's own account of her
+history — a violent father, a mother who "never held us" — was the subject of the middle phase of the work.
+
+**What the case teaches.** That the fourth pattern is a signal that requires an action, not a category to be
+recorded; that the observation must be written in behavioural language if it is to be used; that the screen is
+asked privately and the answer acted on; and that the therapist's own wish to reassure is a warning sign, because
+it is usually the wish to avoid what the observation has already shown.
 
 ## Week 4 — Toddlerhood: autonomy, language and limits
 
