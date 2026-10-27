@@ -397,15 +397,18 @@ three times, in the voice of three models, and the differences are marked.
 >
 > **Mother:** I do. He is not here.
 >
+
 > **Therapist:** And when he is here, at the weekend?
 >
 > **Mother:** Then he decides, and then he tells me I have done it wrong.
 >
+
 > **Therapist:** So in this house there are two governments, and Amara lives in both of them. (to Amara) Which one do
 > you go to first?
 >
 > **Amara:** My mum. She says yes.
 >
+
 > **Therapist:** (to the parents) I want the two of you to sit together for the next ten minutes and decide one thing
 > about Monday, while Amara and I listen. Not negotiate — decide.
 
@@ -420,18 +423,22 @@ uses space and action. Note what is absent: no history, no feelings, no explorat
 >
 > **Mother:** I panic. My chest. Then I am angry.
 >
+
 > **Therapist:** And when you panic, what do you do?
 >
 > **Mother:** I telephone the school. I fix it. I have always fixed things.
 >
+
 > **Therapist:** You have always fixed things. Who taught you that?
 >
 > **Mother:** (pause) Nobody taught me. I had to.
 >
+
 > **Therapist:** And Mr Adeyemi, when you come home on Friday and hear about the week, what happens inside you?
 >
 > **Father:** I am tired. I say what she should have done.
 >
+
 > **Therapist:** And what happens then?
 >
 > **Father:** She says I am never here. Then we do not talk.
@@ -448,18 +455,22 @@ than as an absent authority. It gives no task in ten minutes and does not intend
 >
 > **Mother:** (pause) I would wake up and not feel sick.
 >
+
 > **Therapist:** You would wake up and not feel sick. What would you do then, that you do not do now?
 >
 > **Mother:** I would make breakfast. I would call her once, normally, and then I would sit down.
 >
+
 > **Therapist:** Amara, what would your mother see you doing?
 >
 > **Amara:** I would get up.
 >
+
 > **Therapist:** You would get up. When was the last morning that happened, even a bit?
 >
 > **Amara:** September. When my aunty's wedding was on.
 >
+
 > **Therapist:** What was different about that morning?
 
 **What this version does.** It begins with a preferred future rather than a problem, produces a behavioural
@@ -1091,12 +1102,17 @@ second is not, and the difference is instructive.
 
 > **T1 Therapist:** Can I say something I have noticed, and you will tell me whether it is right? When your wife talks
 > about Ebuka's mornings, you look at the window. When she stops, you look back.
+
 > **T2 Father:** (pause) I did not know I did that.
+
 > **T3 Therapist:** I wonder whether the window is where you go when the conversation is about something you cannot
 > fix from Lagos.
+
 > **T4 Father:** (long pause) It is. She tells me and I cannot do anything, so I stop hearing it.
+
 > **T5 Therapist:** And then she has told you and you have not heard it, and she is alone with it. That might be the
 > thing that is hardest in this house.
+
 > **T6 Mother:** (quietly) Yes.
 
 **Annotations.** *T1* is an observation, offered with an explicit invitation to correct it. The observation is
@@ -1119,9 +1135,13 @@ object-relations family work from individual interpretation conducted in company
 > **T7 Therapist:** I have been thinking about last week, and I think I understand what is happening. Ebuka is carrying
 > your sadness about his grandmother, because neither of you has been able to grieve, and children always carry what
 > the parents cannot.
+
 > **T8 Mother:** (silence)
+
 > **T9 Father:** He is nine. He does not know anything about grieving.
+
 > **T10 Therapist:** I did not mean that he understands it. I meant that he feels it.
+
 > **T11 Father:** (to his wife) This is why I did not want to come.
 
 **Annotations, and what went wrong.** *T7* breaks three of the four rules. It is a pronouncement ("I think I
@@ -1866,17 +1886,25 @@ mother's phone call with her own mother, aged 71, who lives nearby.
 
 > **T1 Mother:** My mother called last night about my brother. He has not sent money for the rent and she is upset,
 > and she tells me, and then I cannot sleep.
+
 > **T2 Therapist:** So your mother is upset about your brother, she telephones you, and you are awake at two.
+
 > **T3 Mother:** I am always the one. She cannot say it to him.
+
 > **T4 Therapist:** Let me check the shape of it. Your mother is worried about your brother, she tells you, you carry
 > it — and does she tell your sister as well, or only you?
+
 > **T5 Mother:** Only me. I am the eldest.
+
 > **T6 Therapist:** Only you. And when she says these things, what happens inside you? Not what you say — what happens.
+
 > **T7 Mother:** (pause) I feel I have failed. She looked after four of us alone and never complained, and I cannot
 > even manage one phone call.
+
 > **T8 Therapist:** (gently) That is a strong standard you are holding yourself to. Your mother managed four children
 > after your father died — and she is now seventy-one, phoning you at night about a grown man's rent. What would it
 > look like to be interested in her worry without being responsible for it?
+
 > **T9 Mother:** (long pause) I could ask her what she wants me to do. Instead of doing it.
 
 **Annotations.** *T2* reflects the sequence back, and the repetition of the three points — mother, brother, client — is
@@ -2512,17 +2540,28 @@ the husband's "distance". The therapist has joined for twenty minutes and is now
 
 > **T1 Therapist:** I want to try something different. Mrs Ogundipe, you have told me three times what happens when you
 > ask him about the money. I would like you to tell him, not me, and I will sit back.
+
 > **T2 Wife:** (to therapist) He will not answer.
+
 > **T3 Therapist:** Maybe. Tell him anyway. (waits)
+
 > **T4 Wife:** (to husband, after a pause) When I ask you about the money you go quiet, and then I am shouting at
 > nothing.
+
 > **T5 Husband:** I am not going quiet. I am thinking.
+
 > **T6 Wife:** You are thinking for three days?
+
 > **T7 Therapist:** (to husband) Answer her. Not me.
+
 > **T8 Husband:** (long pause) I do not know what to say, so I say nothing.
+
 > **T9 Wife:** And I am supposed to guess that?
+
 > **T10 Therapist:** (to wife) Ask him what he needs from you in that moment.
+
 > **T11 Wife:** (pause) What do you need from me when you go quiet?
+
 > **T12 Husband:** (quietly) Ten minutes. Not a solution. Ten minutes.
 
 **Annotations.** *T1* announces the move, names the pattern the therapist has observed ("three times"), and instructs
@@ -3275,18 +3314,28 @@ A ten-turn sequence from a second session with the Okonkwos. The task is not del
 skill this transcript exists to teach.
 
 > **T1 Therapist:** Last week I asked you both to notice the mornings. What did you notice?
+
 > **T2 Mother:** I noticed I do it all. Five times. And on Saturday he did it once and Ebuka got up.
+
 > **T3 Therapist:** Once. And it worked.
+
 > **T4 Mother:** It worked for him.
+
 > **T5 Therapist:** Mr Okonkwo, what did you do that was different?
+
 > **T6 Father:** I do not know. I said, "Ebuka, I am going to work" and I went downstairs.
+
 > **T7 Therapist:** And he got up.
+
 > **T8 Father:** He got up. (pause) Because he knows I will leave.
+
 > **T9 Therapist:** That is the whole task, and you did it by accident. I want to ask you both to do it on purpose, and
 > I want to ask you something difficult: for two weeks, the morning belongs to your husband. Mrs Okonkwo, you will stay
 > in bed until seven. Not because you are lazy — because the two of you have arranged it so that you carry a
 > responsibility that is not only yours.
+
 > **T10 Mother:** (long pause) If I stay in bed, and she is late —
+
 > **T11 Therapist:** Then she is late, and the school telephones your husband.
 
 **Annotations.** *T1* makes the task the first agenda item, which is the model's discipline: the family learns that the
@@ -3581,36 +3630,707 @@ productive in equal measure, because the model's central insight is easier to ap
 
 ## Week 6 — Milan systemic therapy
 
-**The question.** *How do the family's beliefs and premises organise their behaviour — and how can
-curiosity disturb them?*
-
-**Core concepts.** The family as a meaning-making system; the **hypothesising, circularity and
-neutrality** stance; positive connotation (all behaviour is understood as serving the system); rituals;
-**circular questioning** (questions about differences and relationships rather than facts); the
-reflecting team and the "irreverent" later Milan style.
+**The question.** *How do the family's beliefs and premises organise their behaviour — and how can curiosity disturb
+them?*
 
 ![Figure 6.1 — Circular causality in practice](../assets/figures/fig02-circular-causality.svg)
 
-**Therapy.** The team observes behind a screen; the therapist asks circular questions; a consultation
-break produces an intervention that positively connotes the family's behaviour, often prescribing a
-ritual. The modern version is non-directive: the team's reflections are offered as multiple perspectives,
-not as verdicts.
+### 6.1 The lecture in ninety minutes
 
-**Signature technique — circular questioning.**
-- "Who in the family is most worried about your mother's sadness?"
-- "If your brother were here, what would he say your father does when you cry?"
-- "On a scale from 1 to 10, how close are your parents? And how close would they say they are?"
-- "What is the difference between the way your mother treats you and the way she treats your sister?"
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | From Palo Alto to Milan | What the Milan team changed, and why it mattered | Name the difference from Week 5 |
+| 10–25 | Premises and the family belief system | Two families, one premise each | State the premise in a transcript |
+| 25–40 | Hypothesising, circularity, neutrality | The three-part stance, defined precisely | Write three hypotheses for one family |
+| 40–60 | Circular questioning | Six types, demonstrated | Ask only circular questions for ten minutes |
+| 60–72 | Positive connotation | The logic and the hazard | Reframe three behaviours as system-serving |
+| 72–85 | The reflecting team | The modern, non-directive version | Reflect in a fishbowl |
+| 85–90 | Critique and matrix row | Neutrality in violence; cost | Fill the row |
 
-**Contribution.** Gave the field its most transferable skill — the circular question — and its most
-useful epistemic stance, curiosity.
+### 6.2 Core concepts
 
-**Blind spots.** Can be experienced as evasive in crisis; neutrality is ethically dangerous in violence;
-team-based format is expensive.
+The Milan school — Selvini Palazzoli, Boscolo, Cecchin and Prata, working in Milan from the 1960s — took the Palo Alto
+insight about loops and added an account of *meaning*. The result is the most epistemically sophisticated model in this
+course, and the one whose central skill has spread furthest beyond its own practitioners.
 
-> **PRACTICAL** — Ten-minute interview with a volunteer "family" (two peers). You may ask only circular
-> questions. An observer counts how many were genuinely circular (about difference/relationship) and how
-> many were disguised facts. Aim for 80%.
+**The family as a meaning-making system.** A family is organised not only by behaviour but by the premises it holds:
+unexamined assumptions about what a family is, what a man or a woman owes, what love looks like, what must never be
+said. The behaviour follows the premise. A family whose premise is "conflict destroys love" will produce a household in
+which nothing can be discussed; the silence is not a failure of communication, it is the premise being obeyed.
+
+**Premises are shared, and they are held by the helpers too.** The Milan team's most radical claim: the referring
+agency, the school and the clinic hold premises that participate in the problem. A school that defines a child as
+"disruptive" and a family that defines him as "spirited" are in a conflict of premises, and the conflict is part of the
+system that maintains the difficulty.
+
+**Hypothesising.** The therapist and team form provisional explanations — several at once — and hold them lightly. A
+hypothesis is not a diagnosis; it is a guide to questions, to be abandoned when the answers do not fit. The discipline
+is to have at least two hypotheses at all times, so that no single one becomes a conviction.
+
+**Circularity.** The therapist's capacity to think in loops and relationships rather than in causes and essences: to ask
+about differences, about who does what with whom, and about how each person sees the relationships between the others.
+Circularity is the model's method *and* its epistemology: the therapist is part of the system being described, not
+outside it.
+
+**Neutrality.** Not indifference, and not the absence of values: a curiosity directed at all the descriptions in the
+system, including the therapist's own. The Milan sense is "neutral toward the *effects* of the intervention, and
+committed to exploring all the premises in the room". The distinction matters ethically (6.7).
+
+**Positive connotation.** Attributing a benign, system-serving purpose to the family's behaviour — including the
+symptom — so that the family's resistance is not engaged. "Your daughter's crises may be the way this family stays
+together" is a positive connotation. Its logic is that a family cannot be blamed for doing something that holds the
+family together; its hazard is that it can be heard as a licence.
+
+**Rituals.** Prescribed actions, often involving the whole family, performed between sessions and framed as marking a
+transition or honouring a rule. Rituals were the early Milan intervention of choice, and they are the ancestor of the
+modern therapeutic ritual in narrative and systemic practice.
+
+**The reflecting team.** Tom Andersen's development, adopted by later Milan practitioners: the team talks about the
+family in the family's presence, offering reflections as possibilities rather than verdicts, while the family listens.
+The family then chooses what was useful. The format is the most direct institutionalisation of the model's
+epistemology — multiple descriptions, no final authority — and it has spread into training, supervision and everyday
+practice.
+
+**The "irreverent" later style.** Cecchin's later insistence that the therapist should be irreverent toward all
+hypotheses, including their own, and that the aim is to keep the conversation going rather than to arrive at a truth.
+This is the point at which the model becomes closer to social constructionism than to systems theory.
+
+### 6.2a The family premise, found in three questions
+
+The concept of the premise is the model's most distinctive idea and the hardest to teach. Three questions that surface
+one in a first session.
+
+**Question 1 — the rule question.** "What is the one thing in this family that nobody is allowed to say?" The question
+is disarming, and families usually answer it with a laugh and then with something true. The answer is a premise in the
+family's own words: "you cannot criticise my mother"; "we do not talk about money"; "nobody in this family is allowed to
+be weak".
+
+**Question 2 — the inheritance question.** "What did each of you learn in the house you grew up in about what a family
+must never do?" The answers are the premises the parents brought, and the differences between them are often the
+marriage's central difficulty.
+
+**Question 3 — the cost question.** "What has it cost this family to keep that rule?" The question is the one that makes
+the premise workable, because a premise that costs nothing can be left alone. The mother who says "it has cost me my
+daughter" has named the premise's price, and the session has a subject.
+
+**A worked example, from the Adeyemis.** The rule question produces "nobody is allowed to say that my mother cannot
+manage". The inheritance question produces, from the mother, "in my house, you did not complain, because my mother had
+lost her husband and we had no right to add to it"; and from the father, "in my house, you did not stay if there was
+trouble". The cost question produces, from the mother, "it has cost me my daughter's confidence in me".
+
+**What the three questions produce.** A premise stated in the family's own words ("nobody is allowed to say that my
+mother cannot manage"), its transmission ("we had no right to add to it"), and its price ("my daughter's confidence").
+That is the material for a positive connotation, a circular inquiry, and a plan.
+
+**What the therapist does with it.** Does not argue with the premise, does not interpret it, and does not ask the family
+to abandon it. Instead: "so the rule has been that nobody adds to what she is carrying. And the cost has been that your
+daughter could not tell you what she was carrying. What would it take to change the rule without dishonouring your
+mother?" The premise is respected; the rule is opened; the family does the rest.
+
+### 6.3 The three-part stance
+
+Hypothesising, circularity and neutrality are taught as a single stance with three facets, and each facet has a
+practice.
+
+**Hypothesising, in practice.** Arrive with three hypotheses, share some of them with the family as questions, and
+revise constantly. The discipline is to notice when you have stopped hypothesising and started believing.
+
+*Three hypotheses for the Adeyemis, held at once.* (1) The school refusal protects the mother from a conversation about
+her own grief. (2) The refusal is Amara's protest at being the family's emotional manager, and her absence forces the
+parents to talk to each other. (3) The refusal is an ordinary adolescent difficulty that the school's escalation has
+inflated into a crisis, and the family's response to the institution is the problem. Each is plausible; each generates
+different questions; the answers discriminate between them.
+
+**Circularity, in practice.** Ask about differences, relationships and comparisons rather than about facts. The
+questions in 6.5 are the technique.
+
+**Neutrality, in practice.** Be equally curious about every description, including the one you find least sympathetic.
+When you notice that you have stopped being curious about a particular member, that is the moment to ask them a
+question.
+
+**Why the three belong together.** A hypothesis held without circularity becomes a conviction; circularity pursued
+without neutrality becomes an interrogation of one member; neutrality without a hypothesis becomes a pleasant,
+aimless conversation. The stance is the combination, and it is what the model's observers look for when they assess a
+trainee.
+
+### 6.4 Positive connotation, and its logic
+
+Positive connotation is the model's most distinctive intervention and the one most often performed as a compliment. It
+is a technical move with a specific structure.
+
+**The structure.** It attributes a *purpose* to a *behaviour* in the service of the *system*, and it addresses the
+whole family rather than one member. "The two of you have kept the argument about the school between you, and it has
+meant that neither of you has had to face the thing you are both most afraid of" — the behaviour (the argument), the
+purpose (avoiding a topic), and the system (the couple) are all named.
+
+**The logic.** A family that is blamed for a symptom must defend itself, and the defence consumes the therapy. A family
+that is told its behaviour serves the family's cohesion cannot defend itself in the same way, because the statement is
+respectful. The resistance that the strategic school tried to interrupt is here dissolved by a description the family
+can accept.
+
+**The hazard, stated plainly.** Positive connotation can be heard as permission: "the therapist says our daughter's
+crises keep the family together, so we will keep having them." The safeguard is the second half of the intervention —
+having connoted the behaviour positively, the therapist prescribes something that changes it, or asks what would allow
+the family to have the cohesion without the symptom. A positive connotation without a second move is an aesthetic
+gesture.
+
+**The ethical limit.** Positive connotation is unacceptable where the behaviour is harmful: violence, abuse, an eating
+disorder in acute phase, self-harm. A therapist who says "your husband's violence has been the way this family avoids
+its conflicts" has produced a sentence that is theoretically elegant and professionally indefensible. The model's own
+literature is thin on this, and MFT 701 Week 12 supplies the rule: the professional obligation overrides the technique.
+
+### 6.4a A positive connotation, built line by line
+
+The technique is easy to describe and hard to perform. This section builds one slowly, with the sentences a trainee can
+actually say, and then shows the same sequence performed badly.
+
+**The family.** The Okonkwo household: Ebuka (9), his mother Ada (34), his father Chuka (39), and a baby of eleven
+months. Ebuka's defiance has worsened since the baby arrived. He refuses to do homework, answers his mother sharply, and
+has twice walked out of the house at night. The parents argue about discipline in front of him, and the paternal
+grandmother, who died in 2023, was the person who used to settle these disputes.
+
+**Step one — describe the behaviour precisely.** Not "Ebuka is defiant", which is a verdict, but "when his mother asks
+him to do homework he says no, and when she raises her voice he leaves the room; twice he has gone into the street". The
+description is behavioural, dated and observable, and it contains no motive.
+
+**Step two — state the system, including the problem.** "This is a family in which the father works nights, the mother
+is alone with two children all evening, and the person who used to settle disagreements has died." The statement is
+factual, and it puts the behaviour in a context without excusing it.
+
+**Step three — attribute a purpose that serves the system.** "I want to say something that may sound strange. It seems
+to me that Ebuka's behaviour is doing something for this family. When he refuses, his parents come together — they
+argue, but they argue with each other about him rather than about the fact that they are both exhausted and that the
+grandmother is not here to help. In a way that nobody intended, his defiance is the thing that keeps the family talking
+about the same subject."
+
+**Step four — attach the second move.** "If that is even partly right, then the question is what the family would need
+in order to come together without Ebuka having to provide the occasion. And that is a bigger question than homework."
+The second move converts a compliment into a connotation: it names the price, and it introduces the idea that the
+behaviour can be retired.
+
+**Step five — deliver it tentatively and then be quiet.** "I may be wrong about this. I would be interested in what each
+of you thinks." Then wait. The family's response is the material for the next twenty minutes, and a therapist who fills
+the silence has wasted the intervention.
+
+**The same sequence, performed badly.**
+
+*Bad step one.* "Ebuka is a very difficult child who is testing his mother." This is a verdict with a motive attached,
+and the family will spend the session defending or attacking it.
+
+*Bad step two.* "This is a family where the mother is overwhelmed." A description of one member, delivered as a fact,
+which will be heard as criticism by the mother and as an alliance by the father.
+
+*Bad step three.* "Ebuka is being naughty because he wants attention." A psychological explanation of an individual, not
+a systemic connotation: it locates the purpose in the child's wish rather than in the family's organisation.
+
+*Bad step four.* No second move. The family hears "your son is being difficult for good reasons", which is a
+justification, and the session ends with the parents feeling that the therapist has taken the child's side.
+
+*Bad step five.* The therapist explains the connotation at length, defends it against the father's objection, and wins
+the argument. The family leaves with a formulation they did not ask for.
+
+**The four sentences that distinguish the good version.** "It seems to me that…" (tentative); "in a way that nobody
+intended…" (non-blaming); "the question then is…" (second move); "I may be wrong" (revisable). A trainee who memorises
+these four phrases and uses them in order will perform the technique recognisably, and the nuance can be added later.
+
+### 6.5 Circular questioning
+
+The model's most transferable skill. Six types, each with a purpose and an example.
+
+**Type 1 — the difference question.** Asking about differences between people, times or behaviours. *"What is the
+difference between the way your mother treats you and the way she treats your sister?"* Purpose: it makes a
+relationship visible without asking anyone to describe a feeling.
+
+**Type 2 — the relationship question, asked of a third party.** *"If your brother were here, what would he say your
+father does when you cry?"* Purpose: it obtains a description of a relationship the speaker is not in, which is often
+freer and more informative than a self-report.
+
+**Type 3 — the ranking or scaling question.** *"On a scale of one to ten, how close are your parents? And how close
+would they say they are?"* Purpose: it produces a comparison, and the difference between the two answers is the data.
+
+**Type 4 — the before-and-after question.** *"What was different in the house before your father lost his job?"*
+Purpose: it locates a change in time and invites a description of the pattern rather than of the event.
+
+**Type 5 — the hypothetical or future question.** *"Suppose the school problem were solved, what would be the next
+thing the family would have to deal with?"* Purpose: it tests the function hypothesis, and the family's answer is often
+the most useful sentence of the session.
+
+**Type 6 — the observer question.** *"Who in the family is most worried about your mother's sadness?"* and *"Who would
+notice first if things improved?"* Purpose: it maps the family's emotional distribution and its alliances in a single
+move.
+
+**How to tell a circular question from a factual one.** A factual question asks what happened; a circular question asks
+about a difference, a relationship or a comparison. "Does your mother cry?" is factual. "Who notices first when your
+mother is about to cry?" is circular. "Why does your mother cry?" is neither; it is an invitation to a theory.
+
+**The practice standard.** The laboratory requires ten minutes of circular questions with 80% genuinely circular. Most
+trainees achieve 50% on the first attempt, because under pressure they revert to facts — and the observer's count is
+the most useful feedback in the week.
+
+### 6.5a Twenty circular questions, grouped
+
+A resource for the laboratory, and a revision list for the examination.
+
+**About worry and noticing.** Who is most worried about X? Who would notice first if X improved? Who does X confide in,
+and who does X protect from it? Who in the family would say this problem is not serious?
+
+**About differences.** What is the difference between how your mother treats you and how she treats your brother? What
+is different about the days when it is better? What is the difference between what your father says and what he does?
+
+**About relationships seen from outside.** If your sister were here, what would she say is the trouble? What would your
+grandmother say about how this family handles money? If I asked your teacher, what would she say has changed in you?
+
+**About time.** What was different in the house before the move? When did you first notice that your wife had stopped
+asking? What will be different in a year if nothing changes?
+
+**About the future and the hypothetical.** Suppose the problem were solved tonight, who would notice first tomorrow?
+Suppose your son were suddenly fine, what would the family have to deal with next? If you had to choose one person in
+this room to solve this, who would it be, and why?
+
+**About the system's own view.** Who in this family carries the worry, and who carries the practical things? Who would
+be most upset if the problem disappeared? Which of you would find the change hardest?
+
+**How to use the list.** Not as a script: as a repertoire. Choose the family's least powerful member and ask them two
+questions from "about relationships seen from outside". Then choose the family's most certain member and ask them
+"who would be most upset if the problem disappeared?" The two answers will tell you more about the system than an hour
+of history.
+
+**The one question to remember.** "Who would be most upset if the problem disappeared?" It is the model's most powerful
+single question, it tests the function of the symptom without asserting it, and the family's answer is often a silence
+followed by a name.
+
+### 6.6 Annotated transcript: circular questions in a first session
+
+A twelve-turn sequence with the Ogundipe family: mother (44), father (47), daughter (16) — the identified patient, who
+has been "withdrawn" for six months — and son (12). The therapist asks only circular questions for the first ten
+minutes.
+
+> **T1 Therapist:** I want to start somewhere unusual. Before I ask anyone what the problem is, I want to ask what each
+> of you would say the others are most worried about. Mrs Ogundipe, what is your husband most worried about?
+
+> **T2 Mother:** (pause) He is worried about her. He thinks she is depressed.
+
+> **T3 Therapist:** And what would he say you are most worried about?
+
+> **T4 Mother:** That she will not talk to me any more.
+
+> **T5 Therapist:** Mr Ogundipe, your wife says you think your daughter is depressed. Who in the family is most worried
+> about her?
+
+> **T6 Father:** Her mother. Definitely.
+
+> **T7 Therapist:** And who would your daughter say is most worried?
+
+> **T8 Father:** (pause) Her mother.
+
+> **T9 Therapist:** (to daughter) Your father has just said something about you as though you were not here. Let me ask
+> you. When your mother is worried about you, what does she do that your father does not do?
+
+> **T10 Daughter:** She comes into my room.
+
+> **T11 Therapist:** And when she comes into your room, who notices first — your father, or your brother?
+
+> **T12 Daughter:** (small smile) My brother. He listens at the door.
+
+**Annotations.** *T1* is the observer question, used as an opening. It does two things at once: it refuses the
+conventional "tell me about the problem", and it establishes that the therapist is interested in relationships rather
+than in reports. The mother's answer at *T2* is already a description of a relationship.
+
+*T3* is a reciprocal question, and it produces an asymmetry that is clinically interesting: the husband is worried about
+the daughter, the wife is worried about the relationship with the daughter. The difference between the two worries is
+the material for the session.
+
+*T5–T8* is a nested comparison: the father's view of who worries, and his prediction of his daughter's view. The fact
+that the two are identical is not surprising; the fact that he answers both without hesitation suggests a settled
+picture of the family that nobody has tested.
+
+*T9* is the most important move in the transcript, and it is a correction delivered as an invitation. The father has
+spoken about his daughter in her presence; the therapist names it lightly ("as though you were not here") and hands the
+question to the daughter. This is circularity in the service of inclusion: the model's questions are designed to
+distribute speech, not only to gather information.
+
+*T11* is a relational question asked of the least powerful member about two others, and *T12* produces a moment of
+humour and a piece of structural information — the brother is the household's listener, and he is the family's
+information channel. Nobody had mentioned him.
+
+**What the therapist did not do.** Did not ask what the daughter felt; did not ask the parents to explain their worries
+in more detail; did not offer a formulation. The questions were the intervention, and the family's own account of
+itself has already changed by the end of ten minutes.
+
+### 6.7 Neutrality, and its ethical limit
+
+The model's most contested concept, and the one on which the essay will focus.
+
+**What neutrality is in Milan.** Cecchin's definition: curiosity toward all the descriptions in the system, including
+the therapist's own, and neutrality toward the *effects* of one's interventions. It is an epistemic discipline, not a
+moral position, and it has two purposes: it keeps the therapist's hypotheses provisional, and it prevents the family
+from organising itself around the therapist's preferences.
+
+**What neutrality is not.** It is not the absence of values, not the suspension of judgement, and not a refusal to
+intervene. A therapist who is neutral about whether a child is safe has misunderstood the concept.
+
+**Where the model's literature is insufficient.** In cases of violence, abuse and coercion, the model's own texts are
+thin. The theoretical claim — that all descriptions in the system are equally available for curiosity — has been read as
+a claim that all descriptions are equally valid, which is a different and dangerous proposition. The distinction that
+resolves it: *curiosity is owed to every person; validity is not.* A therapist can be curious about a violent man's
+account of his marriage, and must not treat his account and his wife's account as equally credible descriptions of
+whether she is safe.
+
+**The three-part rule for practice.**
+
+*Rule 1 — neutrality toward meaning, not toward harm.* Be equally curious about all descriptions of the relationships;
+be unequivocal about the safety of the people in the room.
+
+*Rule 2 — say the safety position aloud.* Where violence is present, state the position in plain language, once, and
+then continue the systemic work. Silence about harm in the name of neutrality is the failure mode.
+
+*Rule 3 — the therapist's own premise is also subject to curiosity.* "I notice I have assumed that a wife should be
+able to speak freely in her own home. What does this family assume?" The question is not rhetorical; asking it has
+changed the therapy in more than one published case.
+
+> **CAUTION** — Circular questions about a violent incident ("what does your wife do that makes you lose your temper?")
+> invite the victim to be described as the cause. Ask them to the person who used violence, about their own behaviour,
+> and never in a form that distributes responsibility to the person who was hurt.
+
+### 6.7a Neutrality in a crisis: a three-minute script
+
+The moment the model's critics point to, and the one trainees most often get wrong. A workable sequence, rehearsed in
+the laboratory.
+
+**The situation.** A couple's argument has escalated; one partner has pushed the other against a wall. Both are in the
+room. The therapist is working systemically, and the couple wants to talk about the argument's causes.
+
+**Minute one — stop the systemic work.** "I am going to pause the questions for a moment, because something you have
+described matters more than the argument." The sentence does not abandon the model; it names a limit the model has, and
+it says plainly that the therapy has a hierarchy of concerns.
+
+**Minute one, continued — state the position once.** "What you have described is physical force. In this room I am not
+neutral about that. Nobody is expected to be safe by being careful, and it is not your job to make sure it does not
+happen again." The second sentence is addressed to both partners, and it is the sentence that prevents the victim from
+being recruited into the work of prevention.
+
+**Minute two — name the process, not the person.** "What I am curious about, and will want to ask about, is what happens
+in this relationship in the hour before the argument. That is not the same as saying the argument is anyone's fault."
+Curiosity is reinstated with its limit visibly marked.
+
+**Minute three — make the safety plan concrete.** Where does each partner go when the argument begins to escalate; who
+can be telephoned; what happens to the children; and what will the couple do tonight. Then return to the couple's own
+account, with the plan in place.
+
+**What not to do.** Do not ask "what did you do that made him angry?"; do not offer a systemic formulation that
+distributes responsibility before the safety position is stated; do not offer the position as a preference ("I would
+prefer that we…") — it is a limit, and it is stated without apology.
+
+**The follow-up.** Record the position in the notes, with the date and words used, and revisit it at the next session.
+A stated position that is never mentioned again is a rhetorical gesture; a stated position that is revisited is a
+structure.
+
+### 6.8 The reflecting team, and the modern non-directive version
+
+The Milan format's most important descendant, and the version most trainees will actually use.
+
+**The original format.** A team observes behind a one-way screen; the therapist interviews; the team telephones or the
+session breaks; the team's intervention (a positive connotation and a prescription) is delivered by the therapist. The
+family receives one authoritative description.
+
+**The reflecting team.** Tom Andersen's revision: the team talks *in front of* the family, offering several
+descriptions as possibilities, and the family listens and then chooses what was useful. The authority moves from the
+team to the family, which is a direct expression of the model's epistemology.
+
+**How to run one in a training clinic, in six steps.**
+
+1. *Prepare the family.* Explain the format, obtain consent, and say what will happen and what will not be recorded.
+2. *Interview for twenty to thirty minutes,* while the team listens without speaking.
+3. *Swap.* The therapist joins the team; the family listens to the team's reflections.
+4. *Reflect in hypotheses, not verdicts.* Each team member offers a description, in the first person, briefly, and
+   without arguing with one another.
+5. *Swap back.* The therapist asks the family which reflections fitted, which did not, and what they would add.
+6. *Close with the family's choice.* What will they take from the reflections, and what will they do differently?
+
+**The rules of good reflection.** Speak about the family with respect, in the family's own language where possible;
+offer several descriptions rather than one; avoid advice; keep each contribution short; and do not use the format to
+deliver a verdict that the interviewer did not want to give.
+
+**Why the format is valuable beyond the model.** It makes the therapist's thinking visible and revisable; it
+distributes authority; it models uncertainty; and it gives the family an experience of being thought about carefully by
+several people, which many families describe as the most useful part of the therapy.
+
+**The cost.** It requires two or three clinicians, which most services cannot spare. The practical adaptation for a
+single therapist is a *reflecting conversation* with a colleague by telephone or in a later session, or a written
+reflection read to the family — both are legitimate descendants of the format and both are used in training clinics.
+
+### 6.8a A reflecting team, run with three trainees
+
+A fishbowl adaptation for a course without a one-way screen, and the debrief that makes it teachable.
+
+**The setup.** Four trainees and a tutor. One trainee interviews a volunteer family (recruited from the course, briefed
+with a scenario); the other three observe from the corner of the room, in the family's sight. After twenty-five minutes
+the interviewer joins the observers, and the four talk for seven minutes while the family listens. The interviewer then
+returns to the family for five minutes to ask what fitted.
+
+**The observers' brief.** Each offers one description, in the first person, of no more than forty seconds, using the
+family's own words where possible. No advice, no diagnosis, no agreement with one another, and no argument. The tutor
+keeps time and stops any contribution that becomes a verdict.
+
+**What actually happens, in the first attempt.** The observers almost always begin with interpretations of the family
+("I thought the mother was depressed"), then, corrected, move to descriptions of relationships ("I noticed the father
+answered for his wife three times"), and finally, in the last two minutes, produce the kind of reflection the format is
+for ("I wondered whether the father answers for his wife because he is protecting her from something, and I noticed
+that the wife did not correct him"). The progression is the pedagogy: the trainees learn that the useful reflections
+are relational and tentative, and they learn it by hearing themselves.
+
+**The family's part.** The volunteer family is asked three questions afterwards: which reflection fitted, which did
+not, and what they would add. In the course's first run, the family chose the reflection the observers thought was
+weakest, and could say exactly why — which is the lesson about authority that the format is designed to teach.
+
+**The debrief, in the order that works.** First the family speaks, then the observers, then the interviewer. The
+interviewer's question is always the same: what did you hear that you could not have said yourself? The answer is
+usually a description that the interviewer had formed and suppressed, and the discovery that the team can say it is the
+beginning of an understanding of what the format is for.
+
+**The written variant, for a single therapist.** Write three reflections after the session, in the first person, and
+read them aloud at the start of the next: "I have been thinking about our conversation, and three things occurred to
+me…" The family chooses. It is a thin version of the format and it works; several published single-therapist
+adaptations describe exactly this.
+
+### 6.9 Laboratory: ten minutes of circular questions
+
+The week's practical, sixty minutes, in triads, with a strict rule that makes the skill visible.
+
+**Setup.** Two peers play a family (a parent and an adolescent), briefed with a simple scenario and one premise each —
+for example, the parent believes that a good child does not answer back; the adolescent believes that the parent's
+silence means disapproval. The therapist may ask only circular questions for ten minutes. The observer counts.
+
+**The count.** The observer classifies every question as *circular* (about difference, relationship or comparison),
+*factual* (about what happened or what someone is like), or *leading* (containing the answer). The target is 80%
+circular. The count is read out at the end without comment, and the therapist's reaction to the count is often the most
+instructive part of the exercise.
+
+**The debrief questions.** Where did you revert to facts, and what was happening in the room at that moment? Which
+circular question produced the most information? Which one did the family find uncomfortable, and why?
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Circularity | 35% | At least 80% of questions genuinely circular; all six types used at least once |
+| Use of difference | 20% | Questions about differences between people, times and relationships, not about essences |
+| Distribution | 20% | Speech distributed; the least powerful member asked as often as the most |
+| Neutrality | 15% | Curiosity visible toward every member's description, including the least sympathetic |
+| No interpretation | 10% | The therapist offers no formulation, no advice and no reassurance |
+
+**Why the last criterion matters.** Trainees who are anxious to be helpful begin to interpret in minute four, and the
+interpretation converts a circular interview into a conventional one. The prohibition is the pedagogy: it forces the
+therapist to stay in the question, which is where the model's work is done.
+
+### 6.10 Six errors in Milan work
+
+1. **The circular question used as an interrogation.** A sequence of clever questions with no warmth, which the family
+   experiences as an examination. Fix: questions in the service of curiosity, with the family's answers acknowledged.
+2. **The abandoned hypothesis.** Arriving with one hypothesis and asking only the questions that confirm it. Fix: three
+   hypotheses at all times, and a deliberate question for each.
+3. **The compliment mistaken for a connotation.** "You are a very caring family" is not a positive connotation. Fix: the
+   structure of behaviour, purpose and system, with a second move attached.
+4. **Neutrality as silence about harm.** Refusing to name a safety concern because naming it would be non-neutral. Fix:
+   the three-part rule in 6.7.
+5. **The reflecting team as a verdict.** A team that agrees on one description and delivers it. Fix: several
+   descriptions, in the first person, offered as possibilities.
+6. **The expensive format.** Refusing to work without a team, and therefore not working. Fix: the single-therapist
+   adaptations, used deliberately and recorded.
+
+### 6.10a Three circular interviews that failed
+
+A failure typology, drawn from recordings in a training clinic, because the model's failures are more instructive than
+its successes.
+
+**Failure one — the beautiful interview.** A trainee produced forty flawless circular questions in thirty-five minutes.
+The family answered every one. Nothing changed, and the family did not return. The debrief found the cause: every
+question was asked of the parents, and the fourteen-year-old, who had said nothing at all, had been described
+throughout. The interview was elegant and the system had not been entered, because the person with the least power had
+not been given a voice. *The rule broken:* distribution. Circularity without distribution is a questionnaire.
+
+**Failure two — the hypothesis with a destination.** A trainee arrived with a hypothesis about a family's enmeshment and
+asked fifteen questions that each confirmed it. The family, obliging, produced evidence. At minute twenty the trainee
+delivered a positive connotation of the mother's over-involvement which the mother heard as a diagnosis of her
+parenting. The father's single remark — "she has been like this since her own mother died" — was the material for a
+second hypothesis that was never formed, because the trainee had one. *The rule broken:* hypothesising. One hypothesis
+is not a hypothesis; it is a conclusion with questions attached.
+
+**Failure three — the neutrality that was silence.** A family presented with a father who had broken a door in an
+argument. The trainee, determined to be neutral, asked circular questions about everyone's view of the door, and did not
+say that a broken door in a household with two children is a safety matter. The mother answered carefully and did not
+come back; the father later attended alone and said the therapist "seemed to think it was normal". *The rule broken:*
+the ethical limit. Curiosity about all descriptions, offered without a stated position on harm, is heard as collusion.
+
+**The pattern across the three.** Each failure is a virtue taken too far: circularity without distribution; hypothesising
+without plurality; neutrality without a position. That sentence is the week's summary, and it is worth writing at the
+top of the page in the examination.
+
+**How to catch each one in the room.** For distribution: count who has been asked, and ask the person who has been
+asked least — usually the child, or the father who has said nothing. For plurality: ask a question whose answer would
+falsify the hypothesis, aloud, as a genuine enquiry. For neutrality: state the safety position once, in plain language,
+at the point where the material requires it, and then continue.
+
+### 6.11 Culture, faith and the Milan stance
+
+The model's cultural profile is subtle: its epistemology travels well, and its historical practice less so.
+
+**Where it travels well.** Curiosity toward all descriptions is a resource in cross-cultural work, because it prevents
+the therapist from treating their own cultural account as the standard. The circular question is also unusually
+effective across difference: it asks about relationships, which every family has, rather than about feelings, which are
+described differently in different cultures. A question such as "who would notice first if things improved?" works in
+any family, in any language, with any premise.
+
+**Where it strains.** Three features.
+
+*The team format assumes a particular kind of clinic.* A one-way screen, a team of three and a family willing to be
+observed are the conditions of a European training institute. In a community clinic, a rural hospital or a family's
+home, the format is unavailable, and a therapist who insists on it will not work.
+
+*The premise that all descriptions are equally available for curiosity* can look like a refusal to take a position in
+families where a religious authority has already pronounced. The therapist's curiosity is not a challenge to that
+authority, and it must not be presented as one.
+
+*The abstention from advice* can be experienced as unhelpfulness in families who expect direction, particularly where
+the therapist is younger than the parents. The model's answer is that the questions are the help; the honest answer is
+that some families need something else first, and a therapist who cannot give it will lose them.
+
+**Faith and the reflecting team.** The format is unusually hospitable to a family's spiritual account, because it
+allows several descriptions to coexist. A team that includes a family's spiritual explanation among its reflections —
+"one thing I wondered about was what the family's faith says about this" — is doing the model properly, and is more
+likely to be heard than a therapist who either adopts or contests the account.
+
+> **DEBATE** — "Milan neutrality is a luxury of well-resourced clinics and an evasion in under-resourced ones." Argue
+> both sides with reference to a case.
+
+### 6.11a Hypothesising about a family's faith, without appropriating it
+
+The Milan stance is often taught as though religion were one more premise to be circulated. This section offers a
+discipline for doing it well.
+
+**The distinction.** A family's faith can be *a premise* ("we do not let the sun go down on our anger"), *a resource*
+(the church's marriage group, the imam's counsel), *an authority* (a teaching that settles a question the family cannot
+settle), or *a site of conflict* (one spouse's practice has changed). The therapist's questions, and their ethics,
+differ for each.
+
+**Hypothesising about a premise.** "In this family, what does your faith say must never happen between a husband and a
+wife?" The answer names the premise in the family's own vocabulary, and it can then be circulated: "who in the family
+holds that most firmly? who would say it is the thing that has held the marriage together?" No interpretation is
+offered, and the premise is not relativised.
+
+**Hypothesising about a resource.** "Who in your congregation knows what is happening at home, and what have they
+said?" The question often reveals an untapped resource and occasionally a second problem: a family that has told nobody,
+because the appearance of the marriage is part of its religious obligation.
+
+**Hypothesising about an authority.** "If your pastor were sitting here, what would he say about this?" The question is
+circular, hypothetical and respectful, and it produces the family's own account of the authority's position — which is
+often more nuanced than the therapist assumed, and sometimes more severe.
+
+**Hypothesising about a conflict.** "When your practice changed, what did your husband do that told you he had
+noticed?" The question locates the change in the relationship rather than in doctrine, and it keeps the therapist out of
+the theological argument.
+
+**The three prohibitions.** Do not adjudicate a theological question; do not use the family's faith as evidence for a
+psychological formulation ("her guilt is really religious scrupulosity"); and do not offer a spiritual interpretation of
+your own unless the family has invited it.
+
+**The one invitation that is usually welcome.** "If it would be useful, I can ask whether your church's counselling
+team has worked with families in this situation." The offer is practical, it respects the family's own structures, and
+it makes the therapist's position clear: an ally of the family's resources, not a rival to its faith.
+
+### 6.12 Evidence note: a stance rather than a treatment
+
+The matrix cell for this model requires care, because the model's influence is greater than its trial evidence and its
+components are more evidenced than its package.
+
+**What the evidence is.** There are very few randomised trials of Milan systemic therapy as a package. The early Milan
+work is reported as case series, often with dramatic outcomes and no comparison group. The model's later developments
+are documented in theoretical and clinical literature rather than in trials.
+
+**What the components have.** Circular questioning and systemic hypothesising are widely used and studied qualitatively;
+reflecting teams have a modest research literature, mostly qualitative and process-focused, with some evidence that
+families value the format; systemic practice more broadly has trial evidence in several presentations (MFT 701 Week
+11). The concept of the family premise is a clinical heuristic rather than an established mechanism.
+
+**What the matrix cell should say.** "No adequate trial evidence for the package; strong influence on the field through
+the circular question and the reflecting team, both of which have qualitative support; the stance is a component of
+practice across models rather than a treatment in its own right."
+
+**The practitioner's claim.** "I use the stance — hypothesising, circularity, neutrality — because it improves the
+quality of my questions and reduces my certainty, and I use the reflecting team where a team exists, because families
+report it as useful. I do not claim that Milan systemic therapy is an evidence-based treatment for a specific
+presentation, and I measure my own outcomes." That sentence is honest, defensible and — in the viva — distinctive,
+because most candidates overstate.
+
+### 6.13 Key terms
+
+| Term | Definition |
+|---|---|
+| Premise | An unexamined family assumption that organises behaviour |
+| Hypothesising | Holding several provisional explanations at once and revising them |
+| Circularity | Thinking and asking in loops, differences and relationships rather than causes and essences |
+| Neutrality (Milan) | Curiosity toward all descriptions in the system, including the therapist's |
+| Positive connotation | Attributing a benign, system-serving purpose to a behaviour, with a second move attached |
+| Circular question | A question about difference, relationship or comparison |
+| Observer question | A question asking who notices, who worries, who would see a change first |
+| Ritual | A prescribed action performed between sessions, marking a rule or a transition |
+| Reflecting team | A team that reflects in the family's presence, offering possibilities rather than verdicts |
+| Irreverence | Cecchin's later stance: holding no hypothesis, including one's own, as final |
+| Second-order cybernetics | The observer is part of the observed system (MFT 701 Week 1) |
+| Team break | The interval in which the team forms its intervention |
+
+### 6.14 Self-test
+
+1. What are the three parts of the Milan stance, and what does each protect against?
+2. What is a premise, and give one example from a family you know?
+3. Distinguish a circular question from a factual one, with an example of each.
+4. Name the six types of circular question.
+5. What is the structure of a positive connotation, and what must accompany it?
+6. What is the ethical limit of neutrality, and how is it stated in practice?
+7. How does a reflecting team differ from the original Milan format?
+8. What are the three parts of an honest evidence claim for this model?
+
+**Answers.** 1. Hypothesising (protects against conviction), circularity (protects against linear and essentialist
+thinking), neutrality (protects against the therapist's preferences organising the family). 2. An unexamined assumption
+that organises behaviour, e.g. "conflict destroys love", which produces a household where nothing can be discussed. 3.
+"Does your mother cry?" is factual; "who notices first when your mother is about to cry?" is circular. 4. Difference;
+relationship asked of a third party; ranking or scaling; before-and-after; hypothetical or future; observer. 5. It
+attributes a purpose to a behaviour in the service of the system; it must be accompanied by a second move that changes
+something, or it is a compliment. 6. Curiosity is owed to every person but validity is not equally owed to every
+account; where harm is present the safety position is stated aloud once, plainly, and the systemic work continues. 7.
+The original delivered one authoritative team intervention; the reflecting team offers several descriptions in the
+family's presence and lets the family choose. 8. No adequate trial evidence for the package; qualitative and
+process support for the circular question and the reflecting team; the stance is a component of practice across models.
+
+### 6.15 Reflective task
+
+Take a disagreement in your own family and write down every member's description of it, in their own words, without
+evaluating any of them. Then write one paragraph on which description you found hardest to be curious about, and why.
+Bring both to the seminar. The exercise is the model's stance applied to the therapist, and most students discover that
+their curiosity has a boundary which coincides with their own history.
+
+### 6.16 Readings for this week
+
+* **Palazzoli, Boscolo, Cecchin & Prata (1978)**, *Paradox and Counterparadox*, the original statement, read for the
+  team format and the rituals.
+* **Palazzoli, Cirillo, Selvini & Sorrentino (1989)**, *Family Games*, for the later elaboration.
+* **Cecchin (1987)**, "Hypothesizing, circularity, neutrality revisited", *Family Process* — the single most important
+  paper for this week.
+* **Tomm (1987a, 1987b)**, "Interventive interviewing", parts I and II, *Family Process*, for the classification of
+  circular questions.
+* **Andersen (1987)**, "The reflecting team: dialogue and meta-dialogue in clinical work", *Family Process*.
+* **A recorded reflecting team session**, watched for how the team speaks about a family in the family's presence.
+
+Read the Cecchin paper first and twice: the second reading is the one in which the three concepts stop being a
+checklist and become a stance. Read Tomm with a transcript beside you and mark every question by type — the exercise
+takes an hour and changes how you listen. Read Andersen for the format's ethics rather than its mechanics. The Palazzoli
+texts are best read as history: they show a brilliant clinical team inventing a method, including its mistakes, and the
+later chapters show the team revising itself. For the essay, cite Cecchin and Tomm for the stance and Andersen for the
+format, and be candid that the package has no trial evidence and that its components are supported qualitatively. A
+reading log with three sentences per source — what it argues, what it assumes, what it cannot show — is the most useful
+artefact you can bring to the seminar, and it will serve you again in the viva, where examiners ask less about what Milan therapy is than about what you do when its stance meets a family in danger, a family of another faith, or a clinic with no team and no screen.
+
+*Next: [Week 7 — Experiential and human validation models](#week-7--experiential-and-human-validation-models)*
 
 ---
 
