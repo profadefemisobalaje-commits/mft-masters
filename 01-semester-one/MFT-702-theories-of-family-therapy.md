@@ -6583,6 +6583,737 @@ when a family needs to tell the story of what happened.
 > concrete task. Observer records: did the therapist ask for *concrete behavioural detail*, and did the
 > client's posture change?
 
+### 10.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The wager | Why a therapy with no theory of pathology might still work | Name what solution-focused work refuses to know |
+| 10–20 | Problem talk and solution talk | Two transcripts of the same family, ten minutes apart | Mark every problem-focused sentence |
+| 20–35 | The miracle question | The full sequence, demonstrated live with a volunteer | Write the six follow-up questions |
+| 35–50 | Scaling and exceptions | One number, one exception, one small step | Run a scale with a partner and find an exception |
+| 50–60 | The session structure | The five-move spine, used in a real first session | Map a session they have observed |
+| 60–72 | The end-of-session task | Compliments and the "notice what works" task | Compose a task for a case |
+| 72–82 | Risk and grief | When the model must stop asking about solutions | Design a safety override |
+| 82–90 | Evidence and critique | The trials, the transfer problem, the ethical objection | Fill the matrix row |
+
+**The teaching decision that makes the week work.** Solution-focused work is the easiest model in the book
+to caricature and the hardest to perform without sentimentality. The lecture should therefore begin with a
+critique rather than an endorsement: two transcripts of the same first session, one conducted by a therapist
+who asks about problems and one by a solution-focused therapist, and the class is asked which family is more
+likely to return — and then which family's *safety* has been assessed. The answer is uncomfortable in both
+directions, and that discomfort is the week's engine.
+
+**The sentence the lecture must land.** "The model is not a refusal to hear pain; it is a decision about
+where to put the therapist's attention." A student who can say that sentence and then demonstrate the
+miracle question without irony has understood the week.
+
+### 10.2 Core concepts
+
+**Solution talk versus problem talk.** The model's founding distinction. Problem talk describes what is
+wrong, why, since when, and who is responsible; solution talk describes what would be different, what is
+already working, and what the next small step is. Both are forms of conversation, and they have different
+effects: problem talk organises attention around injury and blame, solution talk organises it around
+competence and possibility. The therapist's craft is to move the conversation from the first to the second
+without denying the first.
+
+**Why the distinction is not merely optimistic.** The model's claim is not that problems are unreal; it is
+that the description of a problem does not contain the description of its solution, and that time spent
+elaborating the former does not automatically produce the latter. A family that has told its story of
+failure for two years has an extremely detailed account of what does not work and almost no account of what
+does. The therapist's questions build the missing account.
+
+**The client as expert.** The model's epistemological position, taken further than any other in this course.
+The family knows its life; the therapist knows only how to ask questions that make the family's knowledge
+usable. This has a practical consequence: the therapist does not supply goals, does not decide what counts as
+improvement, and does not interpret the family's account. It also has an ethical consequence: the model is
+unusually respectful of a family's own values, including values the therapist does not share.
+
+**Exceptions.** The model's central observational claim: the problem is never present 100% of the time, and
+the times when it is absent or smaller contain the ingredients of the solution. An exception is not a
+compliment; it is data. "Tell me about a morning when the argument did not happen. What were you doing
+differently? Who noticed?" The answers are usually small, specific and unfamiliar to the family, which is
+precisely their value.
+
+**The miracle question.** The model's signature technique, and the most misunderstood. Its purpose is not to
+elicit fantasy but to construct a detailed description of a life without the problem, in behavioural and
+relational terms: who would notice, what they would see, what would happen first, what would happen next,
+what the family would do differently at breakfast. The description is then used to identify what is already
+happening in miniature, and to set a first step.
+
+**Scaling.** A numerical device that converts vague progress into a comparison. "On a scale of nought to
+ten, where nought is the worst it has been and ten is the miracle, where are you today?" The number matters
+less than the question that follows: what would one point higher look like, and what have you already done
+that got you to this number rather than lower? The second question is the one trainees forget, and it is the
+one that produces agency.
+
+**Coping questions.** Used where the family's situation is objectively severe — bereavement, chronic
+illness, poverty, displacement — and where asking about miracles would be an insult. "With everything you
+have carried this year, how have you managed to keep the children in school?" The question presumes
+competence and produces evidence of it, and it is the model's instrument for the families that its critics
+say it ignores.
+
+**Small, observable change.** The model's theory of change, in one sentence: a small difference, noticed and
+repeated, becomes a larger difference, because the family's description of itself changes. The therapist
+therefore works in units of one point on a scale and one behaviour at a time, and resists the family's
+invitation to plan a transformation.
+
+**"If it works, do more of it; if it does not, do something else."** The model's pragmatism, stated as a
+rule. It frees the therapist from theory-driven fidelity and it imposes a discipline: the therapy must
+notice what works and stop what does not, which requires measurement rather than conviction.
+
+**Non-normativity.** The model does not hold a theory of healthy family functioning. It does not say what a
+family should look like; it asks what this family wants and what is already moving in that direction. That
+position is the reason the model is used in child protection, schools and coerced settings, and it is also
+the reason its critics distrust it.
+
+**The brief format.** Typically three to six sessions, with the first session doing most of the work. The
+model's brevity is not rationing; it is a claim that the useful conversation can be short if it is organised
+around solutions. The claim is supported by trials showing brief formats performing comparably to longer
+treatments for some presentations, and it is not supported for all (see 10.11).
+
+### 10.2a Two transcripts of the same first ten minutes
+
+The comparison that teaches the model faster than any description. Both are responses to a mother who says:
+"my son will not go to school and my husband says it is my fault."
+
+**Transcript A — problem-organised.**
+
+*Therapist:* When did this start? *Mother:* September, when he moved up. *Therapist:* And what do you think
+caused it? *Mother:* He was bullied, I think. *Therapist:* Did you tell the school? *Mother:* They did
+nothing. *Therapist:* And your husband blames you? *Mother:* He says I am too soft. *Therapist:* Are you?
+*Mother:* (pause) I do not know any more. *Therapist:* Tell me about your own childhood.
+
+*What was produced:* a history, a hypothesis, a defensive mother, and a list of failures by the school, the
+husband and herself. The therapist is well-informed and the mother is worse off than when she arrived.
+
+**Transcript B — solution-organised.**
+
+*Therapist:* What would you like to be different by the end of our work together? *Mother:* He would go to
+school without a fight. *Therapist:* And what would that morning look like — the first ten minutes? *Mother:*
+I would wake him once, he would get up, and we would not shout. *Therapist:* Has there ever been a morning
+like that, even one? *Mother:* (pause) Last Tuesday, actually. *Therapist:* What was different about
+Tuesday? *Mother:* I had laid his uniform out the night before, and I did not go in three times. *Therapist:*
+So on Tuesday you prepared the night before and you went in once. What did that do? *Mother:* He was up
+before I shouted. *Therapist:* Whose idea was the uniform? *Mother:* Mine. *Therapist:* So you have already
+found something that works. What would it take to do that on three mornings this week?
+
+*What was produced:* a goal in behavioural terms, an exception, the mother's own agency, and a task she
+designed. The therapist knows almost nothing about the history and the mother leaves with a plan.
+
+**The fair comparison.** Transcript A is doing something B is not: assessing. It obtained the bullying
+information, which matters. Transcript B is doing something A is not: constructing. Its weakness is that the
+bullying is not mentioned, and if the mother had not volunteered it the therapist would not have known. The
+competent practitioner runs B's structure and inserts A's assessment where risk requires it — which is
+exactly what 10.7 specifies.
+
+**The exercise.** Read both transcripts and mark, in transcript B, the four points where a less experienced
+therapist would have asked a problem question. Then write the sentence you would have used, and decide
+whether it was necessary.
+
+### 10.2b The questions this model is actually made of
+
+A repertoire list, because the model is learned as questions rather than as theory. Fifteen questions,
+grouped by function, each with the situation in which it earns its place.
+
+**Goal questions.** "What would you like to be different by the time we finish?" — the opening. "And what
+would that look like on a Tuesday?" — the translation into behaviour. "Who would notice first, and what would
+they see?" — the relational frame.
+
+**Miracle questions.** The eleven-question sequence (10.3a). The one to remember when time is short: "suppose
+this were solved while you slept — what would you notice first tomorrow?"
+
+**Exception questions.** "Tell me about a time when it was better, even slightly." "What was different about
+that day?" "How did you make that happen?" "Who else noticed, and what did they say?" The third of these is
+the one that converts luck into agency.
+
+**Scaling questions.** "Where are you today?" "What has kept it from being lower?" "What would one point
+higher look like this week?" "What would your husband say your number is?" — the fourth produces the
+disagreement that is often the session's most useful information.
+
+**Coping questions.** "How have you kept going?" "How have you managed to get the children to school through
+all this?" "What have you held on to?" "Who has helped, and how?" These are the questions for severe,
+unchanging adversity, and they are the model's most humane instrument.
+
+**Difference questions.** "What would your daughter say is different about you this week?" "What is different
+about the days when it is better?" "What is the difference between how you handled it on Tuesday and how you
+would have handled it a year ago?"
+
+**Ending questions.** "What would tell you that you did not need to come back?" "How will we know the work is
+finished?" "What would be a good enough outcome, not a perfect one?"
+
+**The training rule.** A trainee should be able to ask any of these fifteen questions without consulting a
+book, in the family's own language, and should know which three to abandon when the situation is severe. That
+is the whole of the model's technical content, and it is small enough to be mastered in a term — which is one
+reason the model is often taught badly, since it looks as though there is nothing to learn.
+
+### 10.3 The session, in five moves
+
+**Move one — the goal (five minutes).** "What would you like to be different by the end of our work?" The
+answer is converted into behavioural and relational terms: who would notice, what would they see, what
+would happen first. Vague goals ("I want him to respect me") are not rejected; they are translated ("what
+would he do that would show respect?").
+
+**Move two — the miracle question, or its equivalent (ten minutes).** The full sequence: the miracle
+overnight; the first thing noticed tomorrow; who else notices; what they would see; what the family would do
+differently; what would be different at breakfast, at school, at bedtime. The sequence ends when the
+description is concrete enough for a stranger to film it.
+
+**Move three — scaling and exceptions (fifteen minutes).** Where are you now, on nought to ten? What got you
+to this number rather than lower? What would one point higher look like? Has there been a time recently when
+the number was higher, and what was happening?
+
+**Move four — the compliment and the task (five minutes).** The therapist offers a genuine compliment,
+grounded in what the family has said, and a task derived from the family's own material. The task is almost
+always observational — "notice the mornings that go better, and what you did" — or a repetition of an
+exception — "do on three mornings what you did on Tuesday".
+
+**Move five — the next appointment (two minutes).** Often optional, left to the family, which is itself an
+intervention: the model's brevity is communicated by not assuming the family needs to return.
+
+**The structure's discipline.** Each move has a time budget, and the therapist's failure mode is to spend
+the session in move one and two and never reach the task. A trainee should be able to complete the five
+moves in forty minutes, with ten minutes to spare for whatever the family needs.
+
+### 10.3a The miracle question, built question by question
+
+The technique fails when it is asked as a single question and the family's answer is left undeveloped.
+Eleven questions, in order, with what each one produces.
+
+1. **The permission.** "I am going to ask you a strange question. Is that all right?" — *produces consent and
+   signals that the unusual is permitted.*
+2. **The miracle.** "Suppose tonight, while you are asleep, a miracle happens and the problem that brought you
+   here is solved. You do not know it has happened because you are asleep. What is the first thing you notice
+   tomorrow morning that tells you something is different?" — *produces a concrete entry point.*
+3. **The first detail.** "What would you see in the room?" — *produces sensory specificity.*
+4. **The first act.** "What would be the first thing you did differently?" — *produces behaviour.*
+5. **The relationship effect.** "Who would be the first person to notice, and what would they see?" —
+   *produces the relational frame.*
+6. **The other partner's view.** "What would your husband notice about you that he has not seen for a while?"
+   — *produces the partner's perspective without asking the partner.*
+7. **The child's view.** "If your son were asked, what would he say was different about the house?" —
+   *distributes the description across the family.*
+8. **The hardest moment.** "What would be different at the part of the day that is hardest?" — *prevents the
+   description from being a pleasant morning only.*
+9. **The small piece already happening.** "Is any part of that happening already, even a little?" — *the
+   pivot to exceptions.*
+10. **The scale.** "On a scale of nought to ten, where nought is the worst and ten is the miracle, where are
+    you today?" — *produces a baseline.*
+11. **The first step.** "What would one point higher look like this week — something you could do, not
+    something someone else would have to do?" — *produces the task.*
+
+**The discipline that separates the technique from a parlour trick.** Every question after the second is
+asked of the *family's* answer, not of the therapist's imagination, and the therapist does not supply a detail
+the family has not produced. "Would you perhaps get up earlier?" is a failure: the family's miracle must be
+theirs.
+
+**The two questions that make it work in families.** Questions 6 and 7. The miracle question is often taught
+as an individual technique; in a family session, asking each member what the others would notice turns it into
+a relational instrument and produces the session's most useful information about the family's shared
+hypothesis.
+
+**The counter-indications.** Where a family is in acute crisis, where a member is dying, where the presenting
+problem is a recent bereavement, or where the family's situation is severe and unchangeable, the miracle
+question can be heard as an insult. Use the coping question instead, and leave the miracle for later or never.
+
+### 10.4 Techniques, with the grammar of each
+
+**The miracle question.** Eleven questions in sequence (10.3a). *Grammar:* permission, miracle, first
+sensory detail, first act, who notices, the partner's view, the child's view, the hardest moment, the piece
+already happening, the scale, the first step.
+
+**Scaling.** Three questions, in order: where are you; what got you to this number rather than lower; what
+would one point higher look like. *Grammar:* the number, the credit, the step. The second question is the
+one that changes the session, because it obliges the family to describe what they have already done.
+
+**Exception questions.** Four forms: "tell me about a time when the problem did not happen"; "what was
+different about that day?"; "who was there, and what did they do?"; "how did you make that happen?" The last
+form is the crucial one — it moves the exception from luck to agency.
+
+**Coping questions.** "With everything you have faced, how have you managed to keep going?" and "how have
+you kept the children in school / kept the family together / got up in the mornings?" Used where the
+situation cannot be changed quickly, and used with respect rather than as a consolation prize.
+
+**The relationship question.** "What would your wife say is the best thing you do as a father?" The question
+produces a competence description from a third position, and families find it easier to accept than a direct
+compliment.
+
+**The compliment, grounded.** Not "you are doing a great job" but "you laid his uniform out the night before
+and you went in once instead of three times; that is a change you made and it worked." The compliment is
+evidence-based, attributed to the family, and specific enough to be repeated.
+
+**The observational task.** "Between now and next time, notice the mornings that go better and what you did
+that made them better. Do not change anything; just notice." The task is deliberately modest, and its
+function is to train attention, which the next session can then use.
+
+**The repetition task.** "Do on three mornings this week what you did on Tuesday." The task is derived from
+the family's own exception and is therefore both plausible and owned.
+
+**The "do something different" task.** For a family stuck in a repetitive pattern: "next time the argument
+starts, do something different — anything, as long as it is not what you usually do — and notice what
+happens." The task's logic is that a change in one element of a loop changes the loop, and its risks are that
+it can look flippant if it is not framed carefully.
+
+**The letter or the note.** A short written summary, given at the end of the session, containing the
+compliment, the family's own words about the miracle, and the task. The written form matters in families with
+low literacy only if it is read aloud and left with them; where literacy is limited, an audio message or a
+photograph of a whiteboard serves the same function.
+
+**The ending question.** "What would tell you that you do not need to come back?" Asked at the first session,
+it communicates the model's brevity and gives the family a criterion for ending, which is itself an
+intervention.
+
+### 10.4a A scaling exercise, worked in full
+
+The technique's most portable instrument and the one most often performed perfunctorily. A full sequence with
+a family, so that the follow-up questions can be seen.
+
+**The family.** The Okonkwos: mother Ada (34), father Chuka (39), Ebuka (9) defiant since the baby arrived.
+The presenting complaint is the evening.
+
+**The scale is defined first.** "Nought is the worst evening you can remember — everyone shouting, Ebuka in
+the street. Ten is the evening you would like. Where is a normal evening now?" *Mother:* "Three." *Father:*
+"Four, maybe." *Therapist:* "So you are not at nought, and you do not agree. That is useful."
+
+**The credit question.** "What has kept it at three and not lower?" *Mother:* "I stopped shouting at bedtime,
+because it made him worse." *Therapist:* "That was your decision?" *Mother:* "Yes." *Therapist:* "And it
+worked?" *Mother:* "A bit." The exchange looks unremarkable and it has produced a self-attributed change,
+which is the technique's whole purpose.
+
+**The difference question.** "When it is a four rather than a three, what is happening?" *Father:* "When I am
+home before seven." *Therapist:* "And what do you do when you are home before seven?" *Father:* "I take the
+baby so she can cook." *Therapist:* "So two things: you are home, and you take the baby."
+
+**The one-point question.** "What would a four look like on a Tuesday when you are not home before seven?"
+*Mother:* "I would not be on my own with both of them." *Therapist:* "Who else could be there?" *Mother:*
+"My sister is two streets away." *Therapist:* "Has she ever been there on a Tuesday?" *Mother:* "Once, in
+June." *Therapist:* "What happened that evening?" *Mother:* (pause) "It was a four."
+
+**The task.** "So the one point is not a new programme. It is your sister, on a Tuesday, once a fortnight, and
+your husband taking the baby when he is home. Which of those can you arrange this week?" The task is the
+family's, and the therapist has added nothing that the family did not say.
+
+**The review at the next session.** "Where is the number now?" and, before the answer: "and what have you
+done since we last met?" The order matters: the credit question comes before the number, so that the family
+describes its own activity before it evaluates it.
+
+**The three errors to avoid.** *Error one:* using the scale without defining the anchors, so that the number
+means nothing. *Error two:* asking "why not higher?", which is a criticism dressed as a question. *Error
+three:* accepting "a bit better" as the end of the work; the technique requires the specific behaviour, and
+the specific behaviour is where the task comes from.
+
+### 10.5 The first session with the Adeyemis
+
+The recurring family, in this model's hands, in forty-five minutes.
+
+**The opening (five minutes).** "I have read the referral, and I would rather hear it from you. What would
+you like to be different?" *Funke:* "I want her back at school." *Therapist:* "And what would that look like
+on a Monday morning?" *Funke:* "She gets up when I call her, she eats something, and she goes." *Therapist:*
+"Who else would notice?" *Funke:* "My husband, on the phone. And Segun."
+
+**The miracle question (ten minutes).** The overnight miracle, and the first thing Funke notices is that
+Amara is in the kitchen before her. Amara, asked directly, says she notices her mother not standing outside
+her door. Segun, asked what he would notice, says "nobody shouting before seven". The therapist writes all
+three answers on the sheet, in the family's words. Tunde, on speaker, is asked what he would notice from
+Lagos, and says "the phone calls would stop being about trouble" — a sentence the therapist marks, because
+it is the first time the father has described what he wants rather than what is wrong.
+
+**The exceptions (ten minutes).** "Has there been a morning lately that was closer to that?" *Funke:*
+"Thursday last week. She got up because Segun went in and told her there was a fight at school she wanted to
+see." *Therapist:* "So Segun went in, and she got up. Segun, what did you say?" *Segun:* "I said there was a
+fight and she would miss it." *Therapist:* "And it worked. Did you know it worked?" *Segun:* (smiles) "Yes."
+The exception is a sibling-mediated entry, which nobody in the family had identified as a resource.
+
+**The scaling (five minutes).** "Nought is the worst week — three weeks ago, when she did not leave the room
+at all. Ten is the Monday you described. Where is this week?" *Funke:* "Two." *Amara:* "Four." *Therapist:*
+"Amara, what makes it a four?" *Amara:* "I went to the shop twice." *Therapist:* "Who knew that?" *Amara:*
+"Nobody." The therapist turns to Funke: "did you know she had been out twice?" Funke did not. The number
+disagreement is the session's most useful finding.
+
+**The compliment and the task (ten minutes).** "What I have heard is this: you [Funke] have stopped standing
+outside her door in the morning, which is a change you made; Segun has found a way of getting her up that
+works, and he did not know it was a method; and Amara has been out of the house twice without telling anyone.
+My suggestion is that this week you notice — all three of you — the mornings that go better, and what
+happened the night before. And Amara, would you tell your mother when you go out, not to ask permission, just
+so she knows? That is the one thing I am asking."
+
+**The ending question.** "What would tell you that you did not need to come back?" *Funke:* "When she has
+done a full week." *Therapist:* "So we will meet twice more and then decide."
+
+**The clinical note.** The session contains no history of the school refusal, no exploration of the father's
+absence, and no formulation. It has a goal, three exceptions, a sibling resource, a task and an ending
+criterion. Whether that is enough depends entirely on what is not being asked — and the next section says
+what must be.
+
+### 10.6 Case: what the model did not ask, and the session after
+
+The model's critics are right that a solution-focused first session can leave a serious problem untouched.
+This section stages the consequence.
+
+**What was missed.** At the second session, Amara says, in passing, that she is not going back to school
+"because of Mr Bello". The therapist asks one question — "what does Mr Bello do?" — and the family's
+account changes: a teacher who has twice humiliated her in front of the class, and a school that has done
+nothing. The school refusal is not a symptom of family organisation; it is a rational response to an unsafe
+classroom.
+
+**What the model would have done had it asked.** A solution-focused therapist does not need a history to ask
+about safety; the questions are: "is there anything about school that is frightening, not just boring?";
+"who at school knows about this?"; "what would have to change at school for you to feel able to go?" The
+answers produce a second set of goals, addressed to the school rather than to the family, and the model's
+techniques — scaling, exceptions, small steps — work perfectly well on that target.
+
+**The general principle, stated as a rule.** Before the first solution-focused question, the therapist asks
+the risk questions: violence at home, violence at school, self-harm, abuse, hunger, a child not in school and
+not safe. The model does not require a full psychosocial history, and it does require a screen. Trainees are
+taught the miracle question and not the screen, which is the training's failure rather than the model's.
+
+**The compromised first session, rewritten.** The opening becomes: "before we talk about what you would like
+to be different, I want to ask two questions that I ask everybody. Is anyone at home being hurt? And is
+anyone at school or anywhere else being hurt or frightened?" Then the goal, the miracle, the exceptions. The
+screen costs ninety seconds and it changes the session's status from a conversation to a clinical contact.
+
+**What the second session did.** The therapist went back to the school, with the mother's consent, and used
+the model at the boundary: the school's exceptions (which lessons Amara attended), the school's scale (how
+safe the classroom felt), and one small step (a change of seating and a named adult). Amara returned to
+school in week four. The family work continued for two more sessions. The model was not abandoned; it was
+extended.
+
+### 10.7 Annotated transcript: the miracle question with a couple
+
+Fourteen turns, from a first session with the Ogundipes, with the technique's grammar marked.
+
+> **T1 Therapist:** I want to ask you both something unusual, and it will sound strange. Is that all right?
+
+> **T2 Husband:** (laughs) Go ahead.
+
+> **T3 Therapist:** Suppose tonight, while you are asleep, a miracle happens, and the thing that brought you
+> here is solved. You do not know, because you are asleep. When you wake tomorrow, what is the first thing you
+> notice that tells you something is different?
+
+> **T4 Wife:** (long pause) He would be awake before me.
+
+> **T5 Therapist:** And what would you see?
+
+> **T6 Wife:** The kettle would be on. He never does that.
+
+> **T7 Therapist:** So the kettle, and him awake first. What would you do then?
+
+> **T8 Wife:** I would probably say something stupid like thank you.
+
+> **T9 Therapist:** (to husband) And you — in this miracle, you are up first and the kettle is on. What are
+> you doing?
+
+> **T10 Husband:** I do not know. Reading the paper. Waiting for her to come out.
+
+> **T11 Therapist:** Waiting for her. What does waiting look like?
+
+> **T12 Husband:** (pause) I would be sitting at the table, not in the bedroom.
+
+> **T13 Therapist:** So the difference is the table. (pause) On a scale of nought to ten, where nought is the
+> worst it has been and ten is this morning with the kettle on, where are you today?
+
+> **T14 Wife:** Two. (pause) But he made tea on Sunday.
+
+**Annotations.** *T1* is the permission, which is not a formality: the technique's strangeness is a real
+obstacle, and naming it makes it usable.
+
+*T3* is the miracle question itself, complete: the overnight frame, the explicit statement that they will not
+know, and the "first thing you notice" rather than "what would be different", which is the difference between
+a description and an abstraction.
+
+*T4* is a good answer and the therapist's discipline is visible at *T5*: she does not move to the next stage
+of the sequence. She asks for the sensory detail, and the detail — the kettle — is the material the whole
+session will use.
+
+*T7* asks for behaviour, which is the technique's third requirement. *T8*'s self-deprecating answer is left
+uncontested; the therapist does not reassure her that it would not be stupid, because the answer is not the
+subject.
+
+*T9* turns to the husband, which is the move most trainees miss: the miracle must be described by both
+partners, and the husband's fantasy — the table rather than the bedroom — is a much more precise description
+of what he wants than anything he has said about the problem.
+
+*T11–T12* is a deepening question, used inside the miracle question, which is a legitimate combination: the
+technique produces a description, and the description can be deepened like any other material.
+
+*T13* is the pivot to scaling, asked too early by the textbook's standards and at the right moment here,
+because the description was concrete enough to anchor the ten.
+
+*T14* is the gift that the technique is designed to produce: "but he made tea on Sunday" is an exception,
+volunteered, and it makes the next fifteen minutes easy.
+
+**What the trainee should notice.** The therapist asks eleven questions and offers no interpretation, no
+compliment and no advice until the end. The technique is almost entirely curiosity, organised in a
+particular direction — a direction the therapist chose, which is the model's hidden normativity and the
+subject of 10.10.
+
+### 10.8 Laboratory: the miracle question and the scale
+
+Sixty minutes, triads, two techniques and a critique.
+
+**Round one — the miracle question (twenty-five minutes).** Eight minutes as therapist, following the eleven
+questions. The observer records: how many of the eleven were asked; whether the therapist supplied any detail
+the client had not produced; whether the sequence ended with a concrete first step.
+
+**Round two — the scale (fifteen minutes).** Five minutes on the scale with the three questions — number,
+credit, one point higher — followed by writing the task in one sentence. The observer checks that the credit
+question came before the number at review.
+
+**Round three — the critique (twenty minutes).** The triad takes the transcript from round one and answers
+three questions: what did the therapist fail to ask that a careful clinician would ask? what did the client
+say that was not followed up? and what would have happened if the client had disclosed harm?
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Fidelity to the sequence | 25% | All eleven questions present and in order; no supplied details |
+| Concreteness | 25% | Every answer converted into a filmable behaviour; sensory detail obtained |
+| Credit and agency | 20% | The family's own activity named before the number; task derived from their exception |
+| Screen | 20% | Risk questions asked before the first solution question, and recorded |
+| Restraint | 10% | No interpretation, no advice, no reassurance beyond the grounded compliment |
+
+**The debrief question.** "What did you want to say to the client and did not?" The answers are usually
+reassurances, and the discussion of why the therapist wanted to give them is the week's most useful hour.
+
+### 10.8a A task designed for a family that has heard everything
+
+The hardest audience for the model: a family referred at least twice before, who have been given advice,
+charts, contracts and a parenting programme, and who arrive expecting to be told what to do and to fail at it.
+
+**The first move with this family.** Not the miracle question: the credit question. "You have been through
+three services and you are still here, on a Tuesday evening, for your son. What has kept you going?" The
+question is not flattery; it is accurate, and it produces the family's first experience of being described as
+competent rather than as non-compliant.
+
+**The second move.** An audit of what has already been tried, conducted as a search for exceptions rather
+than as a critique of services. "Of everything you have tried, what worked for a while?" Families almost
+always name something — a chart that worked for a fortnight, a reward that worked for a month, a grandmother's
+intervention that worked twice. The therapist writes each item down and asks what the family did that made it
+work at all.
+
+**The third move, which is the task.** "Of the things that worked a little, which one could you do again this
+week, for four days only?" The restriction to four days is deliberate: it is small, it is bounded, and it
+cannot be described as a regime. A family that has failed three programmes will do four days of something they
+chose.
+
+**The fourth move, the review.** "You did four days. What did you notice?" The answer may be that nothing
+changed; the follow-up is "and what did you notice about yourselves doing it?", which is a different question
+and often produces a different answer.
+
+**What this sequence demonstrates.** The model is not a set of techniques for naive families. It is a
+discipline for finding agency in families whose agency has been systematically described as deficient, by
+services as well as by themselves. Its instrument is the question that presumes competence, asked sincerely,
+once.
+
+### 10.9 Six errors in solution-focused work
+
+1. **The miracle question as a party trick.** Asked once, at speed, with no follow-up questions, and the
+   family's answer left undeveloped. Fix: the eleven-question sequence, and a concrete first step at the end.
+2. **No screen.** The session begins with goals and never asks about violence, self-harm or a child out of
+   school. Fix: the ninety-second screen (10.6), asked of every family, every time.
+3. **Solution talk imposed on grief.** A bereaved family asked what would be different if the problem were
+   solved. Fix: the coping question, and permission to tell the story — the model's own literature allows
+   both, and trainees forget the second.
+4. **The compliment that flatters.** "You are wonderful parents" — unsupported, generic, and heard as
+   management technique. Fix: the grounded compliment, built from something the family said.
+5. **The task nobody designed.** "Notice what works" issued as the family leaves, with no specificity about
+   what to notice. Fix: name the moments, the days, and who will report what.
+6. **The therapy that cannot stop.** A model built for three to six sessions delivered for thirty, because the
+   therapist enjoys the conversation. Fix: the ending criterion, asked in session one.
+
+### 10.9a Three sessions where the model was the wrong choice
+
+**The bereaved family.** A father, a mother and two children, three months after the death of a
+nine-year-old. The family's task is to grieve together, to tell the story of the death in a way that can be
+shared, and to reorganise a household that has lost a child. A solution-focused session would ask what they
+want to be different, and the only honest answer is "we want him back". The model is not wrong about
+families; it is wrong about this one, in this month. The correct response is a grief-informed family
+therapy, with the model's techniques available later, if at all.
+
+**The family in a child protection investigation.** A family referred after a substantiated injury, in which
+the parents' account minimises the injury and a toddler is subject to a plan. A solution-focused session that
+begins with "what would you like to be different?" invites the parents to set the agenda, and the agenda they
+want is the removal of the social worker. The model's non-normativity, which is its virtue in voluntary work,
+is a liability where the state has a protective mandate. The correct response is a forensic and protective
+process first, with the model's techniques used only after the safety questions are settled.
+
+**The family with a psychotic member.** A young man in an acute episode, his parents frightened and
+exhausted. The miracle question presumes a shared reality within which a preferred future can be described;
+where reality is contested, the question can be confusing or distressing. The correct response is
+psychoeducation, medication liaison, and family work with a different evidence base (MFT 719), with
+solution-focused conversations reserved for the parents' own coping.
+
+**The general rule these three share.** The model presumes a family that can name a preferred future, an
+agenda that is the family's to set, and a shared reality in which that future can be described. Where any of
+the three is absent, another model leads, and this one assists.
+
+### 10.10 Culture, faith and the model's critique
+
+**Where the model travels well.** Its respect for the family's own goals and its refusal to impose a theory of
+healthy family life make it unusually adaptable. In settings where families are wary of being judged — child
+protection, schools, immigrant families, families referred by a court — the model's non-normativity is a
+genuine asset. Its brevity suits families who cannot afford repeated appointments, and its conversational
+form suits families whose relationship to formal therapy is sceptical.
+
+**Where it strains.** First, the language of individual goals can misdescribe a family whose decisions are
+made collectively. "What would you like to be different?" addressed to a young wife in a household where her
+mother-in-law governs the arrangements may produce an answer that is not hers to give. The model's
+individualism is implicit and real, and the correction is to ask the question of the family as a unit and to
+include the decision-makers.
+
+Second, the miracle question is culturally specific in its optimism. Families living with chronic scarcity,
+political violence or displacement may find a question about overnight miracles naive, and the model's own
+literature acknowledges this: the coping question exists for exactly these families, and a trainee who knows
+only the miracle question has learned half the model.
+
+Third, the model's refusal of a normative theory is not the same as neutrality about harm. A family's
+preferred future may include arrangements that are unjust — a daughter withdrawn from school, a wife's
+employment forbidden — and the model's non-normativity can leave the therapist without grounds to raise it.
+The grounds are professional, not theoretical: the legal and ethical obligations of the practitioner
+override the model's preference for the family's agenda.
+
+**Faith.** The model is compatible with religious families and is often used well with them, because the
+family's own values carry the goals. A family whose preferred future is "we pray together again" gives the
+therapist a goal that is entirely theirs. The two errors are symmetrical: treating the family's faith as a
+resource to be exploited for compliance, and treating it as irrelevant to the goals the family names.
+
+> **DEBATE** — "Solution-focused therapy is either the most respectful model in this book or the one that
+> most easily abandons the vulnerable. It cannot be both." Resolve the claim.
+
+### 10.10a The two strongest critiques, and the model's answers
+
+**Critique one: it ignores power and risk.** The model asks the family what they want and treats them as the
+expert. Where the family contains a coercive member, the person whose goals are being set is the person with
+the power, and the model's respect for the family's agenda becomes respect for the abuser's agenda. The same
+applies to a family whose "solution" is the withdrawal of a child from school, a marriage arranged against a
+daughter's wishes, or the concealment of an injury.
+
+*The model's answer.* The practitioner's legal and professional duties are not suspended by the model;
+solution-focused therapists working in child protection use the model within a statutory frame, and the
+literature on "mandated clients" addresses exactly this. The model's techniques can be used to engage a
+family in a process whose goals are not entirely theirs.
+
+*The fair verdict.* The answer is adequate in principle and depends entirely on the practitioner's
+competence. The critique identifies a real hazard for the model's enthusiasts and a real strength for its
+cautious users.
+
+**Critique two: the evidence is narrower than its reputation.** Solution-focused brief therapy is widely
+described as evidence-based, and the evidence is real but uneven: reasonable support for depression and for
+some child and adolescent presentations, weaker and sometimes null findings for others, small samples in many
+trials, and a literature that includes enthusiastic small studies with weak designs. The reputation has
+outrun the trials in some settings.
+
+*The model's answer.* The approach is brief and cheap, which makes it attractive to services, and its
+evidence is comparable to other brief approaches for the same presentations. Where it performs less well —
+complex trauma, severe mental illness, some family presentations — other models lead.
+
+*The fair verdict.* The critique is correct and is the reason this week's evidence note is cautious. The
+model should be described as "supported for specific presentations in brief formats" rather than as a
+general-purpose first-line family therapy.
+
+### 10.11 Evidence note: real, uneven, and often oversold
+
+**What exists.** Randomised trials of solution-focused brief therapy exist for depression, for some anxiety
+presentations, for child and adolescent behaviour problems, and for outcomes in school and social care
+settings. Several meta-analyses report small to moderate effects, with wide confidence intervals and
+substantial heterogeneity. Trials in family formats are fewer than trials in individual formats, and the
+family evidence is thinner than the model's reputation suggests.
+
+**What the evidence shows about mechanism.** The model's proposed mechanisms — the construction of a
+preferred future, the identification of exceptions, the amplification of agency — have some process support,
+and the common factors literature (Week 11) offers an alternative explanation: the model may work largely
+through alliance, expectancy and the therapist's optimistic attention. The model's own theorists would not
+object to that explanation.
+
+**What the evidence does not show.** That it outperforms other brief approaches for the same presentations;
+that it is safe or effective where coercion, violence or acute risk is present; that brief formats are as good
+as longer ones for complex family difficulties; and that the model's techniques are separable from the
+therapist's manner, which is the practical question for training.
+
+**The matrix cell.** "Small to moderate randomised support for depression and some child and adolescent
+presentations in brief formats; family-format evidence thinner; mechanisms plausibly shared with common
+factors; not indicated where coercion, acute risk or unresolved grief dominates."
+
+**The practitioner's claim.** "I use solution-focused work where the family has a goal they can name and no
+acute risk, because it is brief, respectful and supported for some presentations; I screen first; I use the
+coping question rather than the miracle question where the situation cannot change; and I measure outcome
+because the evidence is uneven." That sentence is defensible and it is honest about the model's limits.
+
+### 10.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Solution talk | Conversation about preferred futures, exceptions and small steps |
+| Problem talk | Conversation about causes, history and blame |
+| Miracle question | A constructed description of life without the problem, in behavioural detail |
+| Scaling | A nought-to-ten comparison producing credit, baseline and a next step |
+| Exception | A time when the problem was absent or smaller |
+| Coping question | An enquiry into how a family has managed despite severe adversity |
+| Client as expert | The family holds the knowledge; the therapist holds the questions |
+| Grounded compliment | A compliment built from specific evidence the family supplied |
+| Observational task | "Notice what works" — training attention before changing behaviour |
+| Repetition task | Doing more of what already worked |
+| Ending criterion | The family's own answer to "how will we know we are finished?" |
+| Non-normativity | The model's refusal to hold a theory of healthy family functioning |
+
+### 10.13 Self-test
+
+1. Distinguish solution talk from problem talk, and state what the distinction does not claim.
+2. Give the eleven questions of the miracle sequence, in order.
+3. What are the three scaling questions, and which one produces agency?
+4. When is the coping question used instead of the miracle question, and why?
+5. What is the ninety-second screen, and why must it come first?
+6. Name the three families for whom this model is the wrong choice.
+7. State the two strongest critiques and the fairest verdict on each.
+8. What does the evidence support, and what does it not?
+
+**Answers.** 1. Solution talk concerns preferred futures, exceptions and next steps; problem talk concerns
+causes, history and responsibility. The distinction does not claim that problems are unreal or that the
+family's pain should be ignored; it claims that describing a problem does not describe its solution. 2.
+Permission; the miracle overnight; the first thing noticed; what you would see; the first thing you would do
+differently; who notices first and what they see; the partner's view; the child's view; the hardest moment;
+the piece already happening; the scale. (The first step is the twelfth question in practice.) 3. Where are
+you; what got you to this number rather than lower; what would one point higher look like. The credit
+question produces agency. 4. Where the situation is severe and unchangeable — bereavement, chronic illness,
+poverty, displacement — because a miracle question would be heard as an insult and the coping question
+produces evidence of competence and survival. 5. A short set of risk questions — violence at home, violence
+elsewhere, self-harm, abuse, a child not in school and not safe — asked before the first solution question,
+because the model's structure will not otherwise produce them and the practitioner's duty is prior to the
+model. 6. A recently bereaved family; a family in a child protection investigation where the account
+minimises harm; a family with a member in an acute psychotic episode. 7. Critique one — it ignores power and
+risk and can adopt the coercive member's agenda; fairest verdict, adequate in principle and dependent on the
+practitioner's competence. Critique two — the evidence is narrower than the reputation; fairest verdict,
+correct, and the reason to describe the model narrowly. 8. Small to moderate randomised support for depression
+and some child and adolescent presentations in brief formats; not established as superior to other brief
+approaches, not established for acute risk or complex trauma, and not separable from common factors.
+
+### 10.14 Reflective task
+
+Take a difficulty in your own life that has lasted more than a year. Answer the eleven miracle questions
+about it in writing, taking a full twenty minutes. Then answer the credit question: what has kept this from
+being worse? Most students find the exercise uncomfortable and then useful, and the discomfort is the point:
+it shows you what the model asks a family to do in the first ten minutes of a session, with a stranger, about
+something worse.
+
+### 10.15 Readings for this week
+
+* **de Shazer (1985)**, *Keys to Solution in Brief Therapy*, the founding text, read for the questions rather
+  than the theory.
+* **Berg & Miller (1992)**, *Working with the Problem Drinker*, the model applied to a hard presentation.
+* **Berg (1994)**, *Family-Based Services*, the model in child protection and mandated settings, the most
+  useful text in this list for public-sector practice.
+* **De Jong & Berg (2013)**, *Interviewing for Solutions*, the training manual, with transcripts.
+* **Gingerich & Peterson (2013)**, the meta-analysis, for the outcome claims.
+* **Franklin et al. (2012)**, the review of school-based applications, for the evidence outside clinics.
+
+Read *Interviewing for Solutions* with a highlighter, marking every question the therapist asks; the model is
+best learned as a repertoire of questions rather than as a theory. For the essay, describe the evidence as
+"small to moderate, heterogeneous and mostly individual-format" and then say what that means for your
+practice. The reading-log question this week is: "what does this model refuse to know, and what happens to a
+family because of that refusal?"
+
+*Next: [Week 11 — Narrative therapy](#week-11--narrative-therapy)*
+
 ---
 
 ## Week 11 — Narrative therapy
