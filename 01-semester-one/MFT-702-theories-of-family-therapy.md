@@ -8082,8 +8082,711 @@ Three legitimate forms of integration:
 an externalising conversation in one session does not make you integrative; it makes you unpredictable,
 and the family cannot tell what is expected of them.
 
+![Figure 12.1 — Choosing a model: the decision tree a clinician actually uses in the first two sessions](../assets/figures/fig28-research-design-tree.svg)
+
 > **ASSIGNMENT (30%)** — One disguised case; two models; one formulation each; a reasoned choice of
 > sequence; a predicted risk of the combination; a plan for how you would know it is not working.
+
+### 12.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The problem | Why every practitioner integrates and why most do it badly | Name their own home model, honestly |
+| 10–25 | Three forms | Assimilative, sequential, theoretically integrated, with an example each | Classify four published treatments |
+| 25–40 | Coherence | The five rules, applied to a live case | Apply the rules to a case they are holding |
+| 40–55 | Choosing | The decision tree: risk, target, phase, evidence, fit | Place their case on the tree |
+| 55–70 | The handover | What changes when you change model mid-therapy, and how to say it | Write the handover sentence |
+| 70–80 | Technique salad | A recording of a session that mixes four models badly | Diagnose it in five minutes |
+| 80–90 | Assessment briefing | The 30% case study, its rubric, and what distinction looks like | Sketch the structure of their answer |
+
+**The teaching decision that makes the week work.** This is the week in which the course turns from
+description to judgement, and the lecture should therefore be built around a single case that the class
+has already met — the Adeyemis — and a single question: which model, in which order, for this family, and
+why? The lecturer should write the answer on the board as a sequence and then attack it: where is the
+evidence, what is the risk of the second step, what would make you change the plan? The class should leave
+with the experience of having built an integration and having had it examined, which is exactly what the
+assessment requires.
+
+**The sentence the lecture must land.** "Integration is a sequence of justified decisions, not a
+collection of techniques." A student who can state their home model, name the conditions under which they
+would leave it, and describe how they would know the decision was wrong has understood the week.
+
+### 12.2 Why every practitioner integrates, and what goes wrong
+
+**The fact.** No practitioner delivers a pure model after the first year of practice. The clinic's
+population does not match the model's trials; the family presents three problems when the model addresses
+one; the therapist's training was in two traditions; and the model's manual does not cover the case in
+front of them. Integration is therefore not a sophisticated option but an inevitability, and the choice is
+between doing it deliberately and doing it by drift.
+
+**Drift, described.** A therapist begins with a structural formulation, uses an EFT enactment in session
+four because the couple's affect is high, introduces a behavioural contract in session six because the
+enactment did not produce change, externalises "the silence" in session eight because the couple are stuck,
+and ends with a solution-focused scaling in session ten. Each decision was locally reasonable; the therapy
+as a whole has no formulation, no target, and no way for the family or the supervisor to know what is being
+attempted. The family experience this as a therapist who is trying things.
+
+**Coherence, described.** The same therapist, with the same repertoire, works from one formulation with
+one primary target, and uses a technique from another model at a point where the formulation predicts it
+will help — and can say, in supervision, why. "The formulation is a pursue–withdraw cycle with a structural
+component: the father's absence leaves the mother enmeshed with the daughter. My primary target is the
+couple's cycle. I used a structural move in session three because the boundary between mother and daughter
+was blocking the couple work, and I returned to the cycle in session four." That paragraph is integration.
+
+**The four failure modes.**
+
+*Technique salad.* Many techniques, no formulation; the family cannot predict the therapist and the
+supervisor cannot audit the reasoning.
+
+*Theory soup.* A formulation that borrows concepts from four models without reconciling them: a family
+described as having a disorganised attachment, a triangulated child, an insufficiently differentiated
+father and a problem-saturated story, with no statement of which of these is doing the explanatory work.
+
+*The serial monogamist.* A therapist who changes home model every two years, each time convinced that the
+new one is the answer, and who has therefore never learned any of them deeply enough to be flexible within
+it.
+
+*The purist.* A therapist who delivers one model faithfully to families for whom it is not indicated,
+because fidelity has become an identity. This is the rarest failure and the most damaging, because it is
+usually accompanied by a formulation that blames the family for not fitting.
+
+**The common thread.** All four fail in the same place: the therapist cannot state, in one paragraph, what
+is wrong, what is being targeted, what is being done about it, and how they will know whether it worked.
+The remedy is procedural rather than theoretical, which is why this week is practical.
+
+### 12.2a A formulation that travels, and one that does not
+
+Two formulations of the same family, written for a case file, to show what coherence looks like on paper.
+
+**The formulation that does not travel.**
+
+"The Okonkwo family presents with a nine-year-old's defiance, a mother who is overwhelmed and possibly
+depressed, a father who is emotionally disengaged, and a family whose boundaries are enmeshed in the
+mother–son dyad and disengaged in the marital subsystem. There is unresolved grief following the paternal
+grandmother's death, which the family have not processed. The child's behaviour serves a triangulating
+function in the marital conflict, and the family's communication is characterised by double binds. The
+treatment plan is to work on boundaries, process the grief, improve communication and address the mother's
+depression."
+
+*What is wrong with it.* Four models' vocabularies in five sentences (structural boundaries, Bowenian
+differentiation, psychodynamic grief, MRI double binds, behavioural communication), no statement of which
+concept is doing the explanatory work, four targets and no primary one, and a treatment plan that is a list.
+A supervisor reading it cannot tell what the therapist will do in session three, and the therapist cannot
+either.
+
+**The formulation that travels.**
+
+"Formulation (structural, primary): this is a family with a weak executive subsystem. Chuka works nights, so
+the parents do not act together; Ada manages alone, and her management has become a coalition with Ebuka
+that excludes his father. The grandmother who regulated the household died in 2023, and no arrangement has
+replaced her. The defiance is the visible edge of the coalition: Ebuka tests Ada and she cannot hold a line
+without support, and Chuka's interventions are either absent or too late.
+
+Primary target: the parental subsystem, so that the two of them can act together on one rule, this month.
+
+Secondary observations, not targets: Ada's low mood (screen for depression, refer if indicated); the
+family's grief (a bereavement service is available and Ada has been offered it); Ebuka's school (a
+behaviour plan is in place and is working).
+
+Evidence of progress at six sessions: the parents give the same answer to the same request on three
+consecutive occasions; Ada reports fewer evenings alone with Ebuka; Chuka reports one joint decision per
+week.
+
+Risk to the plan: Chuka's nights may make the joint work impossible in person; if so, the plan becomes a
+telephone-based executive meeting at a fixed time, and the formulation is unchanged."
+
+*What makes it travel.* One vocabulary, one primary target, secondary observations explicitly not targeted,
+a measurable criterion, and an anticipated obstacle with a designed response. A supervisor can read it and
+know what will happen in session three; the therapist can read it in a difficult session and remember what
+they are doing.
+
+**The lesson for the assessment.** The 30% case study is marked on this distinction. A student who produces
+the first paragraph, however impressive its vocabulary, has not integrated anything; a student who produces
+the second has done the week's work, in about three hundred words.
+
+### 12.3 The three forms, described properly
+
+**Assimilative integration.** The therapist has a home model — the one in which they are trained, which
+organises their formulation and their sense of what a session is for — and incorporates techniques,
+concepts or stances from other models into it. The home model absorbs the imports, and the formulation
+stays coherent because the home model's logic governs when and why an import is used.
+
+*An example.* A structural therapist working with the Okonkwos. The formulation is structural: a weak
+parental subsystem, an enmeshed mother–son dyad, and a grandmother whose death removed the family's
+regulator. The therapist borrows a behavioural exchange from Week 8 — not as a behavioural treatment but as
+a structural intervention, to give the parents a joint task that enacts their executive function. The
+borrowed technique is subordinate to the structural aim, and the therapist can say so.
+
+*What makes it legitimate.* The import has a specified function in the home model's terms; it is used at a
+point the formulation predicts; and it is abandoned if it does not serve the aim.
+
+*What makes it dishonest.* The import becomes the therapist's real model while the formulation continues to
+use the home model's vocabulary. A therapist who formulates structurally and works behaviourally is
+practising behavioural therapy under a structural description, and the description will eventually mislead
+them and their supervisor.
+
+**Sequential integration.** Different models are used at different phases of the work, with an explicit
+rationale for the sequence. The phases are usually determined by risk and by the family's capacity: safety,
+then structure, then affect, then consolidation.
+
+*A worked sequence for a family with violence and a child's symptom.* Phase one, safety and stabilisation
+(individual work, safety planning, a group for the person who has used violence — MFT 719). Phase two,
+structural family work to re-establish an executive subsystem and a boundary around the children's role in
+the parents' conflict. Phase three, EFT for the couple's bond, once coercion is absent and the couple can
+tolerate affect. Phase four, solution-focused consolidation, with the ending criterion the family names.
+
+*What makes it legitimate.* Each phase has an entry criterion (what must be true before it begins), an exit
+criterion (what indicates it is done), and a stated reason why the next model rather than the same one.
+The sequence is written down and reviewed.
+
+*What makes it dishonest.* The sequence is retrospective: the therapist changed models because the last one
+was failing, and describes the change afterwards as a plan.
+
+**Theoretically integrated models.** Purpose-built blends, designed as one treatment rather than assembled
+by a practitioner. IBCT (Week 8) is one: acceptance and change were designed together, with a shared
+formulation and a shared theory of the mechanism. Attachment-based family therapy is another; so is
+emotionally focused family therapy; so is multidimensional family therapy for adolescent substance misuse.
+These models are coherent by construction, they have manuals, and several have trial evidence.
+
+*The practitioner's relationship to them.* They are preferable to home-made integration where the
+presentation matches: a therapist who works with adolescent substance misuse should use a purpose-built
+model with evidence rather than assembling one. The limitation is coverage: the built models exist for a
+handful of presentations, and most families in a general clinic do not match.
+
+**The fourth form, which the textbook omits.** *Integration by setting.* A therapist working in a public
+clinic integrates not only models but constraints: six sessions, no team, a family who travel two hours,
+no interpreter. The model that survives these constraints is not the model in the manual, and the
+practitioner's honesty about the adaptation is part of the integration. This form is the one most students
+will actually practise, and the course should name it.
+
+### 12.3a The five rules, applied
+
+**Rule one — one formulation, one primary target.** The formulation may be complex; the primary target is
+singular. "The primary target is the couple's pursue–withdraw cycle. The child's school refusal is being
+addressed by the school and by a graded return plan, and I am not targeting it in the family sessions."
+
+*Why it matters.* A therapy with three primary targets has no way to evaluate itself, and the family
+experience it as an absence of direction.
+
+*How it fails.* The therapist writes a formulation with four targets and calls them "interrelated", which
+is true and unhelpful.
+
+**Rule two — name the model out loud in supervision.** "In sessions one to four I worked structurally; in
+session five I switched to EFT because the escalation when we touched the father's absence was beyond what
+a structural move could hold." The naming makes the reasoning auditable, and audit is the only defence
+against drift.
+
+*How it fails.* The therapist describes what they did without naming the model, so the supervisor cannot see
+that two incompatible theories of change are operating in the same session.
+
+**Rule three — change model for a reason you can state.** The reason must be about the case, not about the
+therapist. "Because the conflict escalates when we go near feelings" is a case reason. "Because I am better
+at EFT" is a therapist reason, and it may still be a legitimate factor, but it must be named as such.
+
+**Rule four — do not mix incompatible theories of change in one move.** This is the rule students find
+hardest, because it forbids the most tempting improvisations. A reframe ("your son's defiance is holding
+the family together") and a behavioural contract ("three items each, reviewed weekly") in the same session
+give the family two incompatible instructions: one says the problem has a function and should be
+understood; the other says the problem is a behaviour to be changed. The family will comply with the easier
+one and the therapy will lose the harder.
+
+*The repair.* Sequence them, with a stated rationale: "we have understood what the defiance is doing; now
+we will change one small piece of it and watch what happens to the family." The two moves are now in a
+sequence with a rationale, which is integration rather than salad.
+
+**Rule five — review at fixed intervals.** Every sixth session, a review that asks four questions: is the
+primary target still the right one; is the model still the right one; what has changed and what has not;
+and what would make me change the plan? The review is written, and it is the audit trail.
+
+*How it fails.* The review happens only when the therapy is failing, which means the therapy has no
+monitoring and the review is a post-mortem.
+
+### 12.4 Choosing: the decision tree
+
+The lecturer's tree, in the order a clinician actually uses it in the first two sessions.
+
+**Step one — is there a risk that decides the treatment?** Violence, abuse, self-harm, a child not safe, an
+acute psychiatric episode, an addiction that makes talking useless. If yes, the treatment plan begins with
+the risk, and the model is chosen accordingly: safety work, statutory process, psychiatric liaison,
+detoxification. No model in this book is indicated as a first response to these.
+
+**Step two — what is the family's primary target, in their language?** Not the referral's target: the
+family's. A family referred for a child's behaviour who want their marriage back are telling the therapist
+something about the target.
+
+**Step three — what is the best-evidenced model for that target?** EFT for relational distress without
+coercion; behavioural couple therapy for a structured, time-limited couple piece; structural family therapy
+for child and adolescent behaviour in a family with an executive problem; solution-focused work where the
+goal is nameable and brief; narrative where a family has been described by an institution. The evidence
+narrows the field to two or three plausible models.
+
+**Step four — which of those can this family actually do?** Attendance, language, work patterns, childcare,
+literacy, the number of sessions available, whether the family will accept a team. A model the family cannot
+attend is not indicated, whatever its evidence.
+
+**Step five — which can I deliver with fidelity?** Training, supervision, the setting's constraints, the
+therapist's own capacities. A therapist who has not been trained in EFT should not begin an EFT case with a
+complex couple; the honest answer is a referral, a different model, or supervised practice.
+
+**Step six — what will tell me it is working?** A measure, a review date, and a criterion the family helped
+set. Without this, step five's answer cannot be tested, and the therapy becomes a matter of conviction.
+
+**The tree's use in the assessment.** The 30% case study asks for exactly this sequence: two models
+formulated, one chosen, the choice reasoned, the risk predicted, the failure criterion named. A student who
+follows the tree will produce a defensible answer; a student who begins with the model they like best will
+produce a list of techniques.
+
+### 12.4a A worked integration: the Adeyemis, five phases
+
+The course's recurring family, integrated deliberately, with the reasoning written out.
+
+**The case in one paragraph.** Amara (14) has refused school for five weeks; her mother Funke (41) has taken
+leave; her father Tunde (46) works in Lagos and attends by telephone; her brother Segun (11) is silent and
+manages the household's information. There is no violence. There is a bullying incident at school that the
+parents do not know about, a paternal grandmother who died in 2023, and a family economy that depends on
+Tunde's contract.
+
+**Phase one — assessment and risk (sessions 1–2).** Structural and systemic assessment together with the
+risk screen. The formulation: a family in transition, with a developmental stage missed (MFT 703), a weak
+executive subsystem because of the father's absence, an enmeshed mother–daughter dyad, and a school problem
+that the family's organisation cannot address. Primary target: the school refusal, in its family and school
+context.
+
+**Phase two — the school (sessions 2–4).** The model choice here is not a family therapy model at all: a
+behavioural graded-return plan, negotiated with the school, with a named adult and a seating change. The
+reason for the sequence: no family work will hold while a child is being bullied, and the family's anxiety
+is being organised by a real external danger. A purist family therapist would begin with the family system;
+the integrated practitioner begins with the school, because the formulation says the school is part of the
+system and the risk is there.
+
+**Phase three — structure (sessions 4–8).** Structural family therapy, chosen because the family's
+organisation is the second component of the formulation: enactment of a parental subsystem that can act
+together, a boundary around the mother–daughter dyad, and the father's authority re-established by
+telephone and by a monthly visit. The technique of choice is enactment, and the therapist works in the
+session rather than through advice.
+
+**Phase four — the couple's bond (sessions 9–14).** EFT, chosen when the structural work has produced enough
+organisation for the couple to tolerate affect, and when Funke and Tunde's cycle — she pursues, he
+withdraws — has become the family's main obstacle. The phase's entry criterion is explicit: a fortnight with
+no escalation, the father present in person for two sessions, no violence. The work follows Week 9's stages,
+abbreviated, with one softening event in session twelve.
+
+**Phase five — consolidation (sessions 15–18).** Solution-focused, chosen because the remaining task is to
+consolidate the family's own solutions rather than to produce change: the ending criterion, the exceptions
+that now exist, the plan for the next crisis, and a review at three months.
+
+**The risks of this integration, stated.** First, the sequence is long: eighteen sessions is more than the
+clinic's budget, and the therapist must be prepared to compress phases three to five if the funded episode
+ends. Second, the transition from structural to EFT is the fragile point: a couple who have been organised
+by a parental task may experience the emotional work as a regression, and the therapist must frame it as the
+next stage rather than as a new therapy. Third, the school phase depends on the school's cooperation, which
+may fail, and the formulation must then include the school's refusal as part of the system. Fourth, the
+father's absence is a structural fact that no amount of EFT can change: the couple work must be adapted to
+the medium, and the therapist must say so rather than pretending a telephone is a room.
+
+**How the therapist would know it is not working.** At the review in session eight: no change in attendance;
+no change in the parents' joint action; the couple's cycle unchanged and the escalation worse. At that
+point the plan changes — a different primary target, a different model, or a referral — and the change is
+recorded with its reason, which is the difference between integration and drift.
+
+### 12.5 The handover: how to change model without losing the family
+
+The practical skill the week exists to teach. A change of model is a change of what the therapist asks,
+how the session is structured, and what the family is expected to do; unexplained, it is experienced as
+inconsistency or as a verdict that the first approach failed.
+
+**The handover sentence, in four parts.** Name what has been done; name what it has achieved; name what it
+has not achieved; name what will be different from now on.
+
+*Worked.* "For the last six sessions we have been working on how the four of you handle the evenings — who
+decides, who backs whom up, and what happens when Ebuka tests it. That has changed: the two of you are now
+giving the same answer, and the shouting has dropped. What has not changed is the tension between the two
+of you, and I think that is now the thing that will pull the old pattern back. So for the next few
+sessions I will work with the two of you alone, on that, and the children will come back at the end."
+
+**What makes a handover work.** It is given before the change, not after; it credits the family for what has
+been achieved; it is honest about the limitation; and it specifies who will be present and for how long,
+which families need in order to tolerate a change.
+
+**What makes it fail.** Announcing a new technique without framing it ("today we are going to try something
+different"); changing the session's composition without explanation (asking the children to leave); and
+implying that the first phase failed ("we need to start again"), which invites the family to conclude that
+the therapy is not working.
+
+**The recorded variant.** For a family who cannot attend a transition session, a written handover of four
+paragraphs follows the same structure, and it is read aloud at the start of the next session.
+
+**The supervision note.** The handover double-functions as the audit record: a supervisor reading it can
+see the model change, its reason, and its expected effect, which is exactly what Rule two requires.
+
+### 12.5a The first two sessions of an integrated therapy
+
+The plan is written before the work; the first two sessions decide whether it survives. A structure that
+serves every form of integration.
+
+**Session one — assessment and the family's own account.** The therapist takes the family's account without
+a model's vocabulary, notes the referral's language and the family's language side by side, screens for risk,
+and asks the two questions that determine the target: what would you want different, and what have you
+already tried? The session ends with a frame — how many sessions, who attends, what will happen next — and
+no technique.
+
+**Between sessions one and two — the written formulation.** One page, in the structure of 12.2a: the
+formulation in one model's terms; the primary target; the secondary observations that are not targets; the
+criterion of progress; the risk to the plan. Written before session two, not after session four.
+
+**Session two — the formulation, offered and tested.** "Here is what I think is happening, and here is what I
+propose we work on first. I may be wrong; tell me what fits and what does not." The family's corrections are
+recorded, and the formulation is revised in front of them. This is the moment at which the therapy becomes
+collaborative, and it is also the moment at which the family learn that the therapist has a plan — which is
+what makes the later handovers tolerable.
+
+**Why this order rather than the reverse.** A therapist who begins with technique and formulates later has
+already taught the family what the therapy is, and the formulation then arrives as a reinterpretation of
+work already done. A therapist who formulates after one session and offers it in the second has a plan the
+family can join, correct, and hold the therapist to.
+
+**The exception.** Where risk is present, session one ends with a safety plan and session two begins with
+it; the formulation waits until the safety work is in place. The order of the two sessions is a clinical
+judgement, and the judgement must be recorded.
+
+### 12.6 Case: the same family, integrated badly
+
+The Adeyemis again, with the integration done by drift, so that the errors can be named.
+
+**Sessions one to three, no formulation.** The therapist takes a history, asks about the school refusal, and
+gives advice about routines. The family comply politely and nothing changes.
+
+**Session four, a behavioural contract.** A morning routine is designed — alarms, charts, rewards — and it
+collapses within a week because Amara is being bullied at school and the morning is the moment of terror,
+not of laziness. The therapist concludes that the family is not motivated.
+
+**Session five, a structural enactment.** The therapist asks the parents to act together in the room. The
+father is on speaker. The enactment produces an argument about the telephone, and the therapist, anxious,
+moves on.
+
+**Session six, an EFT-style question.** "When you hear your wife say that, what happens in you?" The father
+answers in monosyllables; the mother cries; the therapist deepens; the father ends the call. The therapist
+concludes that the model needs both partners present.
+
+**Session seven, externalising.** The therapist asks the family to name "the worry". They do, and the
+conversation is the best of the seven, and the therapist does not follow it up because the next week brings a
+school meeting that consumes the session.
+
+**Session eight, a scaling question.** "Where are you, nought to ten?" The family answer. The therapist
+offers a task. The therapy ends at session ten by the family's non-attendance.
+
+**The diagnosis, in the model's own terms.** Six techniques from five models; no formulation; no primary
+target; no review; no handover; and no hypothesis about the bullying, which was mentioned in session two and
+never followed. The family's experience was of a therapist who tried things, and their conclusion — that
+therapy is a series of conversations that do not add up — is entirely reasonable.
+
+**What a supervisor would have caught.** At week two: "what is your formulation, and what are you targeting
+first?" At week four: "the contract failed; what does the failure tell you?" At week five: "you changed
+model; why, and what did you tell the family?" At week seven: "that was good work; why did you not continue
+it?" None of these questions requires expertise; all of them require the therapist to have written the plan
+down.
+
+**The counterfactual.** The integrated plan of 12.4a, delivered in the same number of sessions, would have
+begun with the school, used the structural work to organise the parents, and used the couple's cycle as the
+primary target in the second half. The difference is not talent; it is the presence of a formulation and a
+sequence.
+
+### 12.6a When to stop integrating and refer
+
+The professional decision that integration makes easy to postpone: some families need something the
+integrative therapist cannot provide, and the honest response is a referral rather than another model.
+
+**The four signals.**
+
+*Signal one — a risk that needs a specialist service.* Violence requiring a perpetrator programme; a child
+requiring a safeguarding process; an addiction requiring detoxification; a psychiatric crisis. The therapist
+remains involved where appropriate and is not the lead.
+
+*Signal two — a presentation outside the therapist's training.* A couple presenting with a sexual
+difficulty, a family with a member with an eating disorder in acute phase, a family requiring a court
+report. Integration is not a licence to practise beyond competence, and the assessment rubric rewards
+knowing this.
+
+*Signal three — no change after a well-formulated, well-delivered plan.* Two phases, two formulations, a
+review at each, and no change. The next step is consultation, not a third model. The most common
+professional failure in an integrative practitioner's career is the third, fourth and fifth model applied to
+a family who needed a different therapist or a different kind of help.
+
+*Signal four — the therapist's own reaction.* Boredom, dread, resentment, or an unusual wish to be admired
+by a particular family. These are data (MFT 735, supervision), and they are frequently the earliest signal
+that the work has gone wrong.
+
+**How to make a referral that keeps the family.** Name the reason precisely and without self-blame; name what
+has been achieved, so the family do not experience the referral as a verdict; make the referral warm, with a
+telephone call and a joint session where possible; and follow up once. The family's experience of being
+passed on is determined almost entirely by how the referral is done, not by the fact of it.
+
+**The sentence.** "I am not the right person for this piece of work, and I want to say why, and what I think
+you need." It is the most useful sentence in this week, and the hardest to say.
+
+### 12.7 Annotated transcript: the review session
+
+Ten turns from a sixth-session review with the Okonkwos, where the therapist has to decide whether to
+continue the structural work or change target — the moment when integration is either done or drifted into.
+
+> **T1 Therapist:** This is our sixth meeting, and I always stop at six and ask four questions. The first is
+> whether we are working on the right thing. When you started, you said the thing you wanted different was
+> the evenings. Is that still it?
+
+> **T2 Ada:** The evenings are better. It is the weekends that are bad now.
+
+> **T3 Therapist:** So the target may have moved. Tell me about a weekend.
+
+> **T4 Ada:** Saturday he is home all day. And he does nothing with Ebuka, and then by six they are shouting.
+
+> **T5 Therapist:** (to Chuka) What is your view of the weekend?
+
+> **T6 Chuka:** I work all week. Saturday is the only day I have.
+
+> **T7 Therapist:** So the evenings improved because you had a clear arrangement, and the weekends have no
+> arrangement at all. Is that fair? (both nod) Then I want to change one thing about the plan. The target is
+> no longer the evenings; it is the weekend, and the two of you are the ones who have to decide what it looks
+> like. That is the same work we have been doing, on a different day.
+
+> **T8 Ada:** So we are not starting again.
+
+> **T9 Therapist:** No. Same work, new day. And I want to add something: I think the two of you disagree about
+> what a father should do on a Saturday, and we have never asked that question. Next week I will ask it.
+
+> **T10 Chuka:** (pause) Nobody has ever asked me that.
+
+**Annotations.** *T1* is the review's first question, and the framing matters: the therapist announces the
+review, states its purpose, and asks the family's view before offering their own. The review is a
+procedure, not a conversation about how things are going.
+
+*T2–T4* is the information the review is for: the target has moved. The therapist does not defend the
+original target or treat the change as a failure; she asks for the detail, which produces the weekend.
+
+*T5–T6* brings in the quiet partner with a question about his view rather than his behaviour, which is the
+structural move that keeps him in the therapy.
+
+*T7* is the integration decision, made aloud: the target changes, the model does not, and the reason is given
+in the family's language ("the same work, on a different day"). This is Rule three demonstrated: the change
+is stated with a reason the family can hear.
+
+*T8* is the family's question, and it is the one every handover must answer: are we starting again? *T9*'s
+answer — "same work, new day" — is the sentence that keeps the therapy's continuity intact.
+
+*T9* also adds a second model's concept, carefully subordinated: the disagreement about what a father should
+do is a relationship standard (Week 8), imported into a structural therapy as a question to be asked, not as
+a behavioural programme. The import is announced in advance, which is what makes it legitimate.
+
+*T10* is why the import was worth making: the father has never been asked what a father should do, and the
+question has mobilised him. A therapist who had followed the manual would have missed it; a therapist who
+improvised would have missed the framing that made it safe.
+
+**What the trainee should notice.** The whole exchange is eight minutes, it changes the plan, it keeps the
+family, and it produces the therapy's best material. Integration of this kind is not a theoretical
+achievement; it is a discipline of reviews and handovers, performed in ordinary language.
+
+### 12.7a Two integrations that should not have been attempted
+
+**The incompatible pair.** A therapist working with a couple in which one partner had disclosed a recent
+affair combined a behavioural contract (weekly transparency, phone access, a written schedule) with an EFT
+deepening of the betrayed partner's attachment fear in the same session. The two moves pull in opposite
+directions: the contract addresses the betrayal as a trust-building task, and the EFT work asks the betrayed
+partner to express vulnerability to the person who has just wounded them. The session ended with the
+betrayed partner in tears and the unfaithful partner describing the contract as surveillance. *The error:*
+two theories of change in one move (Rule four). *What would have worked:* a sequence, with the affair work
+first (a structured disclosure and a plan, informed by the affair literature), and the attachment work
+later, when the disclosure had been absorbed.
+
+**The integration that concealed a risk.** A therapist working with a family referred for a child's
+behaviour combined solution-focused work with a narrative externalising of "the tension", and the sessions
+were warm and productive. In session nine the mother disclosed that the father had been physically violent.
+The externalising had made "the tension" an entity that neither parent owned, and the therapy had spent
+eight sessions building a description in which nobody was responsible for anything. *The error:* the model's
+non-normativity, used twice over, had produced a description with no agent. *What would have worked:* the
+screen in session one, and a formulation in which the violence was named as a person's behaviour rather than
+as the family's atmosphere.
+
+**The general lesson.** Integration fails most damagingly not when it is incoherent but when it is
+coherent around the wrong formulation. A therapy can be internally consistent, well sequenced and warm, and
+still be organised around a description that protects the person causing harm — which is why the review
+must include a question that no model asks: what is not in this formulation, and who benefits from its
+absence?
+
+### 12.8 Laboratory: the integration audit
+
+Sixty minutes, in threes, using a case each student is currently holding or has observed.
+
+**Task one — the paragraph (fifteen minutes).** Each student writes one paragraph, in five sentences: the
+formulation; the primary target; the model being used and why; the model that was considered and rejected and
+why; and the evidence that will show whether it is working. The paragraph is read aloud and the other two
+students mark it against the five sentences, naming any that are missing or vague.
+
+**Task two — the drift map (twenty minutes).** Using a case of more than four sessions, the student writes
+the sequence of models actually used, session by session, and marks each transition with a reason or with a
+blank. The blanks are the drift, and the exercise's point is that most students find two or three.
+
+**Task three — the handover (twenty-five minutes).** The student drafts the four-part handover sentence for the
+next transition they anticipate, reads it aloud, and the group rewrites it until it names what has been
+achieved, what has not, and what will change. The criterion: could the family repeat it back accurately?
+
+**Marking rubric for the 30% case study.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Two formulations | 20% | Each model's formulation complete, faithful to its own logic, and distinguishable |
+| Choice and reasoning | 25% | The choice follows from risk, target, evidence, feasibility and the therapist's competence |
+| Sequence | 20% | Phases with entry and exit criteria; reasons for each model change |
+| Predicted risk | 15% | A specific risk of the combination, with a mitigation |
+| Failure criterion | 10% | A measure, a review point, and what would prompt a change of plan |
+| Coherence | 10% | One primary target throughout; no incompatible theories of change in one move |
+
+**The distinction-level answer.** It names a risk that decides the plan before it discusses models; it
+formulates the same family twice without caricaturing either model; it chooses one and says what it is giving
+up; it predicts a specific failure and describes what it would do; and it states a criterion that could
+actually be met or missed. A merit-level answer formulates both models well and sequences them plausibly. A
+pass-level answer describes two models accurately and does not choose between them.
+
+### 12.9 Six errors in integration
+
+1. **Technique salad.** Many moves, no formulation. Fix: the five-sentence paragraph, written before the
+   session.
+2. **Theory soup.** A formulation with four incompatible vocabularies. Fix: choose the vocabulary that does
+   the explanatory work and subordinate the rest to it.
+3. **Silent handover.** Changing model without telling the family. Fix: the four-part handover, before the
+   change.
+4. **The retrospective plan.** Presenting a change made in panic as a designed sequence. Fix: the review at
+   fixed intervals, with the plan written at the time.
+5. **Incompatible moves in one session.** A reframe and a contract, an enactment and a behavioural chart. Fix:
+   sequence them with a stated rationale.
+6. **Coherence around the wrong formulation.** A well-integrated therapy that protects the person causing
+   harm. Fix: the review question — what is not in this formulation, and who benefits from its absence?
+
+### 12.10 Culture, faith and the ethics of integration
+
+**The cultural case for integration, and against it.** Each model in this course was built with a particular
+family in mind, and the practitioner working across cultures is necessarily integrating: a structural
+formulation of hierarchy with a narrative technique for a family described by an institution; an EFT cycle with
+a translation of "needs" into the family's moral vocabulary. Integration is therefore the normal condition of
+cross-cultural practice, and the clinician who claims to deliver a pure model across cultures is either
+adapting silently or not noticing.
+
+*The case against.* Integration can also be a way of avoiding a hard cultural question. A therapist who adds a
+narrative component whenever a family resists a structural move may be using the second model to avoid examining
+whether the first model's account of hierarchy fits this family at all. The safeguard is the same as everywhere
+in this week: the reason for the change must be statable and about the case.
+
+**Faith and integration.** Religious families often present with a framework that is itself a theory of the
+family: a theology of marriage, a discipline of child-rearing, a community's expectations. The practitioner has
+three options, and only two are defensible. *Option one:* treat the framework as the family's premise and work
+inside it (compatible with Weeks 4, 6, 11). *Option two:* treat it as a resource to be mobilised (compatible
+with Weeks 8, 10). *Option three, indefensible:* treat it as an obstacle to be dismantled by a psychological
+model. The integration question is not whether to include the family's faith but whether the therapist's model
+can describe the family without implicitly contradicting it.
+
+**The ethics of integration, stated as three obligations.** *Competence:* do not use a model you have not been
+trained in on a complex case; use it under supervision, or refer. *Transparency:* tell the family what you are
+doing and why, in their language, including when you change. *Accountability:* keep a record that a supervisor
+and the family could read, and measure the outcome.
+
+**The obligation the models do not impose.** Every model in this book assumes a practitioner whose formulation
+serves the family. Integration adds a risk that no single model has: the therapist's repertoire can be used to
+avoid the one thing that is needed — the naming of harm, the referral, the ending, the admission of not
+knowing. The review question in 12.9's sixth error is the defence.
+
+> **DEBATE** — "A therapist should be trained deeply in one model before being allowed to integrate at all."
+> Argue both sides, and say what "deeply" should mean.
+
+### 12.10a What the evidence says about integration
+
+**The uncomfortable finding.** The common-factors literature (MFT 728, and this book's Week 13 matrix) suggests
+that specific models account for a modest proportion of outcome variance, while the alliance, the therapist, the
+client's resources and expectancy account for more. If that is right, then integration's main benefit may not be
+theoretical at all: it may be the flexibility to maintain an alliance with families whom a single model would
+lose.
+
+**What is known about the three forms.** Theoretically integrated models with manuals and trials (IBCT, ABFT,
+MDFT) have the strongest evidence, because they can be tested as packages. Sequential integration has modest
+support in the form of stepped-care and phase-based designs. Assimilative integration — what most practitioners
+do — has almost no direct evidence, and it is difficult to study because the treatment varies by therapist.
+
+**What the evidence cannot settle.** Whether an integrative therapist is better than a faithful one. The
+comparisons that exist are confounded by training, caseload and therapist effects, and the honest position is
+that integration is a professional necessity with an evidence base that lags behind its prevalence.
+
+**What the practitioner can do.** Three things. Use a purpose-built integrated model where one exists and fits.
+Measure outcomes in your own practice, so that your integration is evaluated at the level of your caseload.
+And write down the plan, so that a supervisor can see whether the integration is serving the family or the
+therapist's curiosity.
+
+### 12.11 Key terms
+
+| Term | Definition |
+|---|---|
+| Assimilative integration | A home model enriched by imports; the home model governs the formulation |
+| Sequential integration | Different models at different phases, with entry and exit criteria |
+| Theoretically integrated model | A purpose-built blend with a single formulation and manual |
+| Integration by setting | Adaptation to the constraints of the service, the family's geography and the available sessions |
+| Primary target | The one thing the therapy is trying to change |
+| Handover | The four-part explanation given to a family when the model or target changes |
+| Drift | Integration by accumulated local decisions, without a formulation |
+| Technique salad | Many techniques, no formulation |
+| Theory soup | A formulation borrowing incompatible vocabularies |
+| Review | The fixed-interval audit of target, model, change and plan |
+| Failure criterion | The pre-specified evidence that the plan is not working |
+| Competence obligation | Do not practise a model you are not trained in on a complex case |
+
+### 12.12 Self-test
+
+1. Name the three legitimate forms of integration and one example of each.
+2. Give the five rules and the failure each prevents.
+3. What are the six steps of the decision tree, in order?
+4. Write the four parts of a handover sentence, and say why each part is necessary.
+5. What are the two incompatible moves in a single session, and how is the incompatibility repaired?
+6. What is the review question that no model asks, and why does it matter?
+7. What does the common-factors literature imply about integration?
+8. State the three ethical obligations of an integrative practitioner.
+
+**Answers.** 1. Assimilative (a structural therapist using a behavioural task to enact the parental
+subsystem); sequential (safety work, then structural, then EFT, then consolidation); theoretically integrated
+(IBCT, attachment-based family therapy, multidimensional family therapy). 2. One formulation and one primary
+target (prevents scattergun); name the model in supervision (prevents undetected incoherence); change for a
+statable reason (prevents therapist-driven drift); no incompatible theories of change in one move (prevents
+confused instructions); review at fixed intervals (prevents failure by drift). 3. Risk; the family's primary
+target; the best-evidenced model for that target; what the family can actually do; what the therapist can
+deliver with fidelity; what will show it is working. 4. What has been done; what it achieved; what it did not
+achieve; what will be different — the first credits the family, the second and third make the change honest,
+the fourth makes it tolerable. 5. A reframe and a behavioural contract; repaired by sequencing them with a
+stated rationale — understand the function first, then change one small piece and observe. 6. "What is not in
+this formulation, and who benefits from its absence?" It matters because a coherent therapy can be organised
+around a description that protects the person causing harm. 7. That specific models account for a modest
+proportion of variance, so integration's benefit may be the flexibility to keep an alliance with families a
+single model would lose. 8. Competence, transparency and accountability.
+
+### 12.13 Reflective task
+
+Write the five-sentence paragraph for a case you are holding. Then write a second version in which you chose
+the other model you considered, and mark what the family would gain and lose in each. Bring both to the
+seminar. The exercise is designed to make the assessment easy and to make the choice visible to you, because
+the hardest part of integration is not knowing many models but knowing what you gave up.
+
+### 12.14 Readings for this week
+
+* **Norcross & Goldfried (2019)**, *Handbook of Psychotherapy Integration*, the standard reference, read the
+  chapters on assimilative and sequential integration.
+* **Stricker & Gold (2006)**, *A Casebook of Psychotherapy Integration*, for worked cases rather than theory.
+* **Christensen & Jacobson (2000)**, *Reconcilable Differences*, as an example of a purpose-built integration
+  (Week 8).
+* **Lebow (2014)**, *Couple and Family Therapy: An Integrative Map of the Field*, the best single guide to
+  what is available and how the models relate.
+* **Laska, Gurman & Wampold (2014)**, on the common factors, for what the evidence does and does not say about
+  models.
+* **Diamond & Diamond (2018)**, *Attachment-Based Family Therapy*, for a built model with trials.
+
+Read Lebow first and Norcross second; the map before the theory. For the assessment, use at least one source
+that is not a manual, so that the essay's reasoning is about the family rather than about the models. The
+reading-log question this week is: "what would I have to give up, personally, to work in a model I do not
+like?"
+
+*Next: [Week 13 — Evidence, culture and critique](#week-13--evidence-culture-and-critique)*
 
 ---
 
