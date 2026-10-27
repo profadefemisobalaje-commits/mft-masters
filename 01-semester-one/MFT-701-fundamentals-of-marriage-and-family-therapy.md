@@ -3670,44 +3670,676 @@ families are still coming back. Competence is built in the second and third year
 
 ## Week 6 — The first session I: joining
 
-**The idea.** Joining is the process of becoming part of the system sufficiently to influence it, without
-becoming so much a part of it that you lose the capacity to observe. Minuchin called it the therapist's
-"accommodation" to the family's style. It is not friendliness; it is deliberate.
+### 6.1 The lecture in ninety minutes
 
-Four joining moves:
+This week is the assessed skills gate of the course, and it is also the week that separates students who
+understand family therapy from students who can do it. Joining is not a warm-up before the real work; it is the
+work, in its most compressed form. Everything that follows depends on whether this family will come back, and
+whether they will let you see what is actually happening.
 
-1. **Track the family's language.** Use their words, not your diagnostic ones. If they say "he is
-   stubborn", ask about "stubborn" before you ask about "oppositionality".
-2. **Validate what is true in each person's account.** Not "you are right", but "that makes sense given
-   what you have been carrying".
-3. **Match pace and formality.** Some families want a structured interview; others need ten minutes of
-   narrative before any structure is tolerable. Ask: "How would you like to use this hour?"
-4. **Make the structure explicit.** Who is here, why, for how long, who knows, what is confidential.
-   Anxiety drops when the frame is clear.
+The lecture has a simple structure: what joining is, why the first session is an outcome event, then four live
+demonstrations with the class in role.
 
-**What to cover in a first session** (the "minimum viable first session"):
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The evidence | Dropout figures; what predicts return | Predict which of four openings loses the family |
+| 10–25 | What joining is | Minuchin's three operations: maintenance, tracking, mimesis | Mark them in a transcript |
+| 25–40 | The architecture | Pre-session, opening, contract, agenda, closing | Draft their own six-step opening |
+| 40–60 | Four hard families | Reluctant father, silent adolescent, furious mother, polite family | Role-play one, in triads |
+| 60–75 | Multi-alliance | Pinsof's dimensions; the balance problem | Diagnose an alliance failure on video |
+| 75–90 | The gate | Rubric, what is assessed, what fails | Self-assess against the rubric |
 
-| Element | Sample wording |
+### 6.2 What joining is
+
+Salvador Minuchin described joining as the therapist's effort to become part of the family system in a position
+from which change is possible. It has three technical operations, and students should be able to name them while
+doing them.
+
+**Maintenance.** You affirm and support the family's existing structure and rules while you work. You do not
+challenge the father's authority in the first ten minutes; you do not correct the mother's description of her
+son; you do not require the family to reorganise itself in order to accommodate you. Maintenance sounds passive
+and is not: it is a deliberate choice to earn the right to disturb.
+
+**Tracking.** You follow the family's own content, language and imagery rather than steering towards your
+agenda. If the mother talks about the kitchen, you ask about the kitchen. Tracking communicates that the family
+is being listened to by someone who can follow, which is rarer than students imagine and more persuasive than
+any technique.
+
+**Mimesis.** You adopt the family's style — pace, formality, volume, vocabulary, dress, seating — enough to be
+experienced as familiar, not enough to be experienced as mockery. A loud family with a quiet therapist will
+either shout louder or conclude the therapist is judging them; a quiet family with a loud therapist will
+conclude the therapist is unsafe.
+
+**What joining is not.** It is not agreement. It is not collusion with the family's account. It is not
+friendliness, though friendliness helps. It is not a phase you complete and leave behind: you re-join every
+session, and after every intervention that disturbs the system you re-join again. The rhythm of a well-conducted
+session is *join — disturb — rejoin*, repeated.
+
+**The test of successful joining.** The family tells you something they did not plan to tell you, and they book
+another appointment. Those are the only two reliable indicators, and they typically occur within the first
+session or not at all.
+
+### 6.3 Why the first session is an outcome event
+
+Students often treat the first session as data collection and assume the real work starts later. The research
+does not support that model.
+
+**Dropout happens early.** Across outpatient services, a substantial minority of families attend one session and
+never return; a larger group attends fewer than four. The single strongest predictors of return are the
+early alliance and the fit between the therapist's explanation and the family's own understanding of the
+problem. Practical factors — distance, cost, timing, childcare, whether the father can get leave — matter
+enormously and are frequently ignored by trainees who interpret non-attendance as resistance.
+
+**The alliance is multi-dimensional.** Pinsof's system for couple and family therapy distinguishes the
+*individual* alliance of each participant with the therapist, the *subsystem* alliance (for example, with the
+couple as a unit), and the *whole-system* alliance, across three domains: the content of the work, the goals and
+the tasks. A family can be high on one dimension and low on another: the mother feels understood (individual
+alliance high), the couple feels ganged up on (subsystem alliance low), and the family as a whole is uncertain
+that therapy can help (whole-system alliance low).
+
+**The practical consequence.** You must monitor at least three alliances, and you cannot do it by intuition. Two
+habits make it possible. First, at the end of a first session, ask each person directly: "Was there anything
+about today that did not fit, or that you would want me to do differently?" Second, note, after the session,
+which member you spoke to most, which member you interrupted, and whose explanation you adopted — because the
+recording usually contradicts your memory.
+
+> **CAUTION** — The most common alliance failure in the first session is not hostility; it is *over-agreement
+> with the person who speaks first*. The talkative member's formulation becomes the therapist's, and the quiet
+> member concludes that the room belongs to someone else. Count your questions by addressee after every first
+> session for a month; the numbers will surprise you.
+
+### 6.4 Preparing the session
+
+The first session begins before the family arrives. Six decisions, each of which changes what happens.
+
+**1. What you know, and what you refuse to conclude.** Read the referral; note the referring person's
+formulation; write down two competing hypotheses *before* the session, and one question that would test each.
+This is the discipline that prevents the referral letter from becoming your assessment.
+
+**2. Who you invite.** The people in the household, plus anyone with real authority over the problem — a
+grandmother who co-parents, an aunt who pays the fees, sometimes a pastor. The invitation should explain why:
+"I want to hear how it looks from everyone, because one person's view is never the whole picture." Where someone
+refuses to attend, ask the family how they would like that refusal handled, and consider whether the refusal is
+itself the central clinical fact.
+
+**3. The room.** Chairs that can be moved; no desk between you and the family; tissues within reach; a clock you
+can see; something to write on that does not look like an assessment form. Seating matters more than students
+expect: a couple separated by a child is already saying something, and where you sit either accepts that
+arrangement or quietly reconfigures it.
+
+**4. The interpreter.** If a family needs one, use a trained interpreter, not a child, and brief them
+beforehand: first person, everything said, no side conversations, and the right to tell you when a phrase does
+not translate. See MFT 708 for the fuller protocol.
+
+**5. Your own state.** Check your own distraction before the door opens. A therapist who is running late,
+hungry, or preoccupied with the previous session will join badly and will blame the family for it.
+
+**6. The paperwork.** Consent, the practice agreement, the limits of confidentiality, and the recording
+consent — before the clinical work, not after. Twelve minutes of housekeeping at the start is twelve minutes
+that protects everyone in the room.
+
+### 6.5 The opening ten minutes: an architecture
+
+There is no single correct opening, but there is a shape that reliably works, and trainees are well served by
+practising it until it is automatic and can then be varied deliberately.
+
+**Step 1 — orient (1 minute).** "I know a little from the referral, and I want to hear it from you. Before we
+start, is there anything you want to ask me?"
+
+**Step 2 — contract (3 minutes).** Who you are; what you do; how long sessions last; how many sessions you
+expect to need before reviewing; what happens between sessions; confidentiality and its limits, stated
+concretely; and what you will do in an emergency.
+
+**Step 3 — agenda (2 minutes).** "I would like to hear from each of you what you think is going on, and what you
+would want to be different. Then I will say something about how I understand it and what I would suggest. Is
+that all right?" The agenda is proposed, not imposed; the family may change it, and often does.
+
+**Step 4 — the account (25–35 minutes).** Each person in turn, with the quieter members invited explicitly and
+early: mothers usually speak first and children usually last, and the reverse order is often more informative.
+Use episode questions, not opinion questions. Notice who answers for whom.
+
+**Step 5 — the sequence (10–15 minutes).** Take one specific episode and slow it down until the loop is visible
+and the family recognises it. Do not interpret; ask until they describe it themselves.
+
+**Step 6 — the feedback (10 minutes).** Offer your formulation as a hypothesis, in plain language, with an
+explicit invitation to correct it: "Here is what I think I am seeing; tell me what I have got wrong." Then ask
+for one small thing to be different this week, and book the next session.
+
+**Step 7 — the closing question (2 minutes).** "Was there anything today that did not fit?" This is not
+politeness; it is alliance monitoring, and it produces information no questionnaire will.
+
+### 6.5a Reading a family's style in seven minutes
+
+Experienced therapists appear to join effortlessly because they are reading the family's style from the moment
+the door opens, and adjusting before they speak. The skill is teachable if you know what to look for. Seven
+dimensions, each with the adjustment that follows.
+
+**1. Pace.** Fast, overlapping, interruptive — or slow, formal, with long silences. *Adjustment:* match it for
+five minutes, then slow the fast family by about a third and hold the slow family's pace without filling their
+silences. A fast family experiences a slow therapist as a barrier; a slow family experiences a fast therapist as
+an intruder.
+
+**2. Volume and affect.** Loud and expressive, or quiet and restrained. *Adjustment:* join at their level and
+come down gradually. Do not begin quieter than the family, and do not begin louder: both read as judgement.
+
+**3. Formality.** Titles, dress, posture, whether humour is permitted. *Adjustment:* err on the formal side for
+the first ten minutes, then follow the family's lead. It is easy to become less formal; it is almost impossible
+to recover from being too familiar too early.
+
+**4. Who speaks for whom.** The mother who answers for the father; the father who answers for the child; the
+child who translates. *Adjustment:* interrupt the pattern once, politely, in the first fifteen minutes, by
+addressing the person directly: "I would like to hear it in your words." One interruption establishes that
+individual voices exist; repeated interruptions establish that the therapist is at war with the family's
+structure.
+
+**5. The family's theory of the problem.** Medical ("it is a chemical imbalance"), moral ("he is stubborn"),
+spiritual ("there is a curse"), systemic ("we all wind each other up"), or fatalistic ("this is just how our
+family is"). *Adjustment:* adopt the family's language for the first session while keeping your own hypothesis
+private. A family whose theory is spiritual will not hear a neurochemical explanation in the first hour, and a
+family whose theory is medical will hear a relational explanation as blame.
+
+**6. The emotional temperature of the room.** Who is crying, who is frozen, who is watching everyone else, who
+is trying to make the therapist laugh. *Adjustment:* address the most distressed person first and the most
+watchful person second; the watchful one is usually the family's emotional barometer and will tell you, in the
+car park, what everyone really thinks.
+
+**7. The relationship to help.** Has the family been in therapy before? Was it useful? Were they blamed? Were
+they reported? *Adjustment:* if the family has been harmed by services, name it early and explicitly: "It sounds
+as though professionals have not been much use to you. I would like to know what went wrong, so that I do not
+repeat it." Nothing joins a previously harmed family faster than an accurate account of their previous
+experience.
+
+**A caution about reading style.** Every one of these dimensions is culturally patterned, and the therapist's own
+style is not neutral. If you find yourself concluding that a family is "cold", check whether you are reading
+restraint as absence; if you conclude a family is "chaotic", check whether you are reading a different cultural
+norm of overlap as disorder. The dimensions are useful for adjustment, dangerous as diagnoses.
+
+### 6.6 Joining each member
+
+Each position in the family has its own way of being joined, and the same move that joins one member can
+alienate another.
+
+**The mother who carries the worry.** Usually the referrer, usually the most motivated, usually the person whose
+account has already been adopted by everyone including the school. Joining her means taking her seriously *and*
+not adopting her formulation wholesale. The sentence that works: "You have been carrying this on your own for a
+long time, and I want to understand how you have managed. I also want to hear how it looks from the others,
+because I suspect there is more going on than any one person can see."
+
+**The father who is absent or reluctant.** He arrives expecting to be blamed, because he usually has been. Joining
+him requires *making him necessary* rather than merely welcome: "I cannot do this without you, because you are
+the only person who can tell me what happens in this house when your wife is not in the room." Ask him about his
+work, his own father, his view of what has gone wrong — before you ask him to change anything. A father who is
+interviewed as an expert on his own family will often stay; a father who is interviewed as a defendant will not.
+
+**The adolescent.** She has been brought, often against her will, and she has been discussed by professionals
+before. Joining her means giving her status and privacy: ask her permission before asking about her; offer the
+option of a session alone; ask what she thinks the adults have got wrong. The single most effective sentence
+with a reluctant adolescent is: "I am not here to make you talk about things you do not want to talk about. I
+would like to know what you think is going on, even if it is that this is a waste of time."
+
+**The child.** Speak to the child directly, early, at their level, and about their own experience — not about
+the parents' problem. Ask what they notice, what they would change if they had a magic wand, and what they do
+when the house is tense. Children are reliable reporters of *sequences* and unreliable reporters of *feelings*
+under interrogation; ask for the sequence.
+
+**The grandparent or kin who holds authority.** Join them as an elder, not as a complication. Ask for their view
+of the family's history, because they usually have information that nobody else has; ask what they think the
+younger generation has got wrong; and negotiate their role explicitly, since a grandmother who is present but
+not consulted will reassert her authority at the worst possible moment.
+
+**The person who is not there.** The absent member is joined through questions: "What would your husband say if
+he were here?" "Who would disagree with that?" The answers keep the absent member in the system and stop the
+present members from speaking as though the family were complete.
+
+> **PRACTICAL** — In triads, practise joining a reluctant father. The father's opening line is: "I don't know why
+> I'm here. She's the one with the problem." You have six minutes and three moves. Then swap. Observers record
+> how many of your questions addressed him, and whether any of them positioned him as an expert.
+
+### 6.7 Handling four hard families
+
+**The furious family.** They arrive angry — with the referrer, with each other, with you for being the fourth
+professional to see them. The joining move is to *name the anger and legitimise it* before doing anything else:
+"Something has gone badly wrong for you before you got here, and I would like to know what it was." Do not
+defend the profession, the referrer or yourself. Give the anger somewhere to go — a structured account of what
+happened — and it usually converts into engagement within ten minutes.
+
+**The polite family.** They present no problem, agree with everything, and give you nothing. Politeness is often
+a rule ("we do not argue in this family") rather than a personality. The joining move is to name the rule
+respectfully and test it: "You are all being very careful with each other. Is that how it is at home?" Then ask
+what would happen if someone disagreed in the room. The first disagreement is the clinical event.
+
+**The family that fights in the session.** They continue the argument they were having in the car. Joining means
+structuring, not stopping: "I want to hear this argument, but slowly. Start again, and one of you speak at a
+time; I will tell you when to pause." Slowing the exchange is itself an intervention, and it converts a
+destructive argument into observable data.
+
+**The family in crisis.** Something has just happened — a death, an arrest, a disclosure, an eviction. The
+structure of the session changes: safety and practicalities first, formulation later. The joining move is to
+acknowledge the acute situation and to ask what they need in the next forty-eight hours before asking about
+patterns. MFT 712 covers crisis work properly; here the point is that joining in a crisis means being useful
+before being insightful.
+
+### 6.8 The Adeyemi first session, in full
+
+The case has appeared in previous weeks; here it is as a first session, minute by minute, with the reasoning
+that a trainee would not see.
+
+**Before the session.** Referral from the school counsellor. Two hypotheses written down: (a) the school refusal
+is maintaining a caregiving role for the mother; (b) the refusal is a protest against a parental conflict that
+the family will not discuss. One question to test each: (a) "What does Amara do when her mother is having a bad
+day?" (b) "What happens between the two of you when Amara is at school?"
+
+**Minutes 0–5.** Mother and Amara arrive; the father has not come. Contract stated; both agree to proceed.
+The therapist notes the absence and asks a single question about it — "Is your husband aware you are here
+today?" — and does not pursue it. The answer ("he knows, he had work") is recorded as data, not challenged.
+
+**Minutes 5–20.** The mother's account. The therapist tracks: asks about the school, the mornings, the mother's
+own health, and what she has tried. She uses maintenance: "You have been doing all of this on your own." She
+asks Amara twice, early: "Is that how it looks to you?" Amara says "mm" and looks at her mother. The therapist
+notes it and does not press.
+
+**Minutes 20–35.** The pivot questions from Week 2: "Before Amara stopped going to school, what was happening in
+the house?" and then "Who else in the family knows how bad things have been?" The mother cries. The therapist
+acknowledges, offers tissues, waits. Then, to Amara: "When your mother is having a bad day, what do you do?"
+Answer: "I stay with her."
+
+**Minutes 35–50.** The sequence is slowed: what happens in the morning, who says what, what Amara does, what her
+mother does, what her father does when he is there. The therapist draws nothing yet; she keeps the sequence in
+words so that the family can hear themselves describing it.
+
+**Minutes 50–60.** Feedback as hypothesis. Three sentences: what she has seen; what she thinks it might mean;
+what she is less sure about. Then the invitation to correct: "Have I got that wrong?" The mother corrects one
+detail (the father is more involved than the therapist has assumed) and the therapist thanks her and writes it
+down — visibly, because visible correction teaches the family that the formulation is theirs to revise.
+
+**Minutes 60–70.** The plan. A session with both parents, framed as a request for the father's expertise. A
+specific morning task, small and observable. A conversation with the school, with consent. A review in two
+weeks.
+
+**After the session.** Notes written immediately: who attended, what was observed (two answers-for-another, one
+look-to-mother-before-answering), risk screening (asked about self-harm and violence; nothing disclosed), the
+formulation in one sentence, the plan. The therapist also writes one line for supervision: "I did not ask about
+the father's drinking today, and I need to decide when and how."
+
+### 6.8a The Okonkwo first session, contrasted
+
+The Adeyemi session above shows joining a family that arrives motivated and sad. The Okonkwo session shows
+joining a family that arrives defended, and the two together cover most first sessions a trainee will meet.
+
+**Referral.** Ebuka, 9, "stubbornness". Mother attends; father does not. The mother opens with a complaint about
+the school, then about her son, then, in the fourth minute, about her husband, then apologises for complaining.
+
+**What is different.** The mother arrives with a *verdict* rather than a question: the school says the child is
+the problem, she half-believes it, and she is braced to be told she is a bad mother. The therapist's first task is
+not to gather information but to lower the threat level.
+
+**Minutes 0–8.** The therapist does three things before asking about Ebuka at all. She thanks the mother for
+coming, and mentions that coming to a clinic about a child is a decision most parents put off. She asks what the
+mother was told by the school *in the school's words* — "stubborn, refuses to write" — and asks what she thought
+when she heard it. The answer ("I thought they were saying I cannot control my own son") is the true opening of
+the session, and it took six minutes to reach.
+
+**Minutes 8–20.** The therapist asks Ebuka, directly and first, what a good day at school looks like. He says "no
+writing". She asks what happens when the teacher gives him the book; he demonstrates, physically, pushing it away.
+She asks what his teacher does then. He says she calls his mother. The sequence is now: worksheet → push away →
+teacher calls mother → mother is angry → evening reparation. The therapist has not mentioned stubbornness once.
+
+**Minutes 20–35.** She asks the mother about the mornings, then about her week, then, gently, about her own
+support: who helps her? The answer names a sister, a neighbour, a church group, and, with a pause, "not my
+husband, he is working". The therapist does not pursue the husband yet. She asks: "When Ebuka is at school and
+writing is not happening, what is your day like?" The mother, unexpectedly, cries.
+
+**Minutes 35–50.** The therapist works with the sequence rather than the diagnosis: what happens in the ten
+minutes before the worksheet comes out; what happens in the ten minutes after; what Ebuka does when his mother is
+upset. She draws nothing and interprets nothing. Twice she says, "I may be wrong about this — tell me", and twice
+the mother corrects her, which is exactly the outcome she wants.
+
+**Minutes 50–60.** Feedback. Three sentences of hypothesis, one of which is about the marriage, offered carefully
+and framed as a question the family can decline. Then a plan with three parts: an assessment of whether there is
+a writing-specific difficulty (a legitimate referral, not a dismissal of the systemic view); a morning routine
+the mother can run without escalation; and an invitation to the father framed as expertise.
+
+**The contrast, summarised.** With the Adeyemis, joining meant *widening* — bringing in the father, the school,
+the grandmother, and the marital conversation. With the Okonkwos, joining meant *lowering the threat* — taking the
+verdict off the child and the mother before any widening was possible. Same skill, opposite first move. Students
+who learn one template and apply it to both families will fail with one of them.
+
+### 6.9 Annotated transcript: joining the father who did not come
+
+The father attends the second session. Below are the first eight turns, with the reasoning.
+
+> **T1 Therapist:** (standing, offering a hand) Mr Adeyemi. Thank you for coming. I know it was not easy to get
+> away.
+> **T2 Father:** The office allowed me. I do not know how much I can help.
+> **T3 Therapist:** You can help more than anyone else in this room, and I will tell you why in a moment. First,
+> sit where you like. Would you rather sit next to your wife or over here?
+> **T4 Father:** (sits beside his wife, slightly apart) Here is fine.
+> **T5 Therapist:** Before I ask you anything about Amara, I want to ask about you. What was your week like?
+> **T6 Father:** (pause) Long. The work is not regular. I take what comes.
+> **T7 Therapist:** And what does that do to you, by the end of a week?
+> **T8 Father:** (longer pause) It makes me tired of being asked for things.
+
+**Annotations.** *T1* does two things at once: it greets him by name, which recognises him as a person rather
+than a category ("the father"), and it acknowledges the cost of attending — the first currency of joining with a
+reluctant man. *T2* is a test: "I do not know how much I can help" is an invitation to be told he is unnecessary.
+Many trainees respond with reassurance ("of course you can help!"), which is heard as hollow.
+
+*T3* does the opposite of reassurance: it asserts his necessity and defers the explanation, which creates a
+reason to stay. The seating question is not small talk; it is a structural intervention offered as a courtesy —
+he chooses whether to sit with his wife, and whatever he chooses is information, given without coercion.
+
+*T5* is the crux. Asking about the child first would have confirmed the referral's frame (he is here about
+Amara's problem). Asking about *his* week establishes that he is a subject in the room, not an exhibit. *T6*
+gives the answer that matters clinically: precarious work. *T7* follows the emotion, not the fact — and *T8*
+produces the sentence that will organise the treatment: **tired of being asked for things.**
+
+**What the therapist does next, and why it matters.** She says nothing for a moment, then:
+
+> **T9 Therapist:** So you come home, and the house asks you for something too.
+> **T10 Father:** (nods) Everybody wants something from me. I have nothing left to give.
+> **T11 Therapist:** And when you have nothing left, what do you do?
+> **T12 Father:** I sit in the car for a while before I come in. Sometimes I do not come in.
+
+*T9* is a reflection that stays with his metaphor — "asked for things" becomes "the house asks you for
+something" — which is tracking at the level of language. *T11* is an episode question that produces the
+sequence, and *T12* gives the therapist the behaviour that the family experiences as absence. No interpretation
+has been offered. No one has been blamed. And the father has, in four minutes, described his own side of the
+loop that the family has been living inside for fourteen months.
+
+**How the therapist then uses it.** She does not say "so your absence is your way of coping". She turns to the
+mother and asks a genuine question: "Did you know about the car?" The mother did not. That single exchange —
+conducted without accusation, in the father's presence — does more for the couple's understanding than an hour
+of interpretation, and it is the reason the father returned for the remaining sessions.
+
+### 6.10 Laboratory: the joining gate
+
+This is the assessed skills gate for the course. Twenty minutes per student, in a triad with a trained
+role-player or a peer playing a scripted family, observed live and scored against the rubric below.
+
+**Task.** Conduct the first twelve minutes of a first session with a family of three (two parents and a
+reluctant adolescent), in which the father is hostile, the mother is exhausted, and the adolescent says
+nothing. You must: state the contract; take an account from each person; join the hostile father; and offer one
+next step.
+
+**What is assessed.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Contract and consent | 10% | Confidentiality limits and practicalities stated concretely, in plain language, checked for understanding |
+| Agenda-setting | 5% | Agenda proposed, not imposed; family's amendment accepted |
+| Balance of speaking time | 20% | Each member asked at least four substantive questions; the quietest member is not left until last |
+| Joining the hostile member | 25% | Positions him as necessary and expert; no reassurance, no defensiveness, no alliance against him |
+| Episode questions | 20% | At least three questions about a specific recent episode rather than opinions or traits |
+| Session management | 10% | Time held; interruptions managed; no attempt to cover everything |
+| Closing and next step | 10% | Hypothesis offered with an invitation to correct; one concrete next step agreed |
+
+**What fails the gate, regardless of charm.** Talking more than the family; adopting one member's formulation as
+fact; failing to state the limits of confidentiality; asking no episode questions in twelve minutes; and
+ignoring the silent member entirely.
+
+**Resit arrangements.** A resit is available after two weeks of supervised practice, with a written reflection
+on what went wrong. The gate is not a punishment; it is a check that you can be trusted with a family's first
+hour, which is the hour that determines whether there is a second.
+
+### 6.10a The feedback sequence, scripted
+
+The last ten minutes of a first session are the most technically demanding, and the least rehearsed. Here is a
+script that works, with the reasoning attached.
+
+> **1. Permission.** "I would like to tell you what I think I am seeing. Some of it may be wrong. Will you tell me
+> where I am wrong?" *Why:* it frames the formulation as a hypothesis, and it recruits the family as
+> collaborators rather than recipients.
+
+> **2. What you saw.** "I noticed three things. In the first half hour, Ebuka's mother answered two questions that
+> I had asked him. When I asked about the mornings, she described shouting, and then she described him making her
+> tea. And when I asked what happened after the teacher called, she said she felt judged by the school." *Why:*
+> observations first, in plain language, each of them checkable. No adjectives.
+
+> **3. What you make of it.** "The way I understand it is this: the writing has become the place where several
+> worries meet — Ebuka's, yours, the school's. When the school telephones, you carry the judgement alone, and by
+> the evening the two of you have found a way to repair it. I think the repair is a strength, and I also think it
+> is a lot of work for a nine-year-old." *Why:* one paragraph, no jargon, one reframe (the repair is a strength),
+> and one gentle observation about cost.
+
+> **4. What you are unsure about.** "What I do not yet know is whether writing itself is hard for him, and whether
+> your husband sees the same things you do. Those are the two things I would want to find out." *Why:* naming
+> uncertainty is what makes the confident parts credible, and it sets up the next two sessions.
+
+> **5. Invitation to correct.** "What have I got wrong?" *Why:* the single most valuable question in the
+> sequence. Families correct the therapist far more often than trainees expect, and the corrections are data.
+
+> **6. The next step, specific.** "I would like to see the three of you next time, and I would like to ask the
+> school for their written record of what they have observed. Before then, I would like one thing to be different:
+> when the school telephones, you and your husband talk first, before either of you speaks to Ebuka." *Why:* one
+> task, observable, structural (it creates a parental subsystem), and achievable in a week.
+
+> **7. The safety net.** "If anything happens before we meet — if anyone is hurt, or you feel you cannot cope —
+> here is how to reach me, and here is what to do if you cannot." *Why:* families in distress need to know the
+> route out of the room; the therapist who omits it is assuming a stability the family may not have.
+
+**What to avoid in the feedback.** Four sentences that destroy the sequence: "It is very common" (which erases
+the family's particularity); "You must not blame yourself" (which introduces blame); "The real problem is your
+marriage" (which is a verdict, not a hypothesis, and is rarely true in the simple form it is said); and "I think
+he may be on the spectrum" (a diagnostic opinion offered without assessment, in a first session, with no
+follow-up plan — an error that can take months to undo).
+
+### 6.10b Two opening scripts you can memorise
+
+Trainees freeze in the first two minutes, and rehearsed language dissolves the freeze. Two scripts, to be learned
+and then abandoned once they are no longer needed.
+
+**Script A — first session, voluntary family.**
+
+> "Thank you for coming — all of you. My name is …, and I am a family therapist. I work with couples and families
+> rather than with one person at a time, because most difficulties that bring people here involve relationships
+> rather than one person's mind. Before I ask you anything, I want to tell you four things. First, what you say
+> here is confidential, with three exceptions: if someone is at risk of serious harm, if a child is being hurt, or
+> if a court orders me to disclose. Second, sessions last fifty minutes. Third, I will not be able to solve this in
+> one hour, and I do not think you expect that. Fourth, if I ask something you do not want to answer, say so and I
+> will move on. Does that make sense? Anything you want to ask me before we start?"
+
+**Script B — first session, family referred by an institution and suspicious.**
+
+> "I know that you did not choose to be here, and I know that schools — or courts, or doctors — can make a family
+> feel accused. I want to be clear about my position: I am not here to judge whether you are good parents, and I
+> have no authority over what the school decides. What I can do is help this family work out what is happening and
+> what you want to do about it. If at the end of this hour you decide this is not useful, I will tell you honestly
+> whether I think that is a mistake. Shall we start with what you were told, and what you think of it?"
+
+**Why these work.** Both state the frame before the content; both pre-empt the family's most likely fear; both
+offer control ("say so and I will move on"; "if you decide this is not useful"); and neither asks a clinical
+question in the first minute. Script A is 170 words and takes about fifty seconds to say. Script B is 130 words.
+That brevity matters: a first-session monologue longer than ninety seconds makes a family anxious.
+
+**What to do when the script goes wrong.** It will. A father will interrupt; a mother will cry before the contract
+is finished; an adolescent will ask why they are there. The rule is: *the contract can be delivered in pieces, but
+it cannot be skipped*. If you are interrupted, return to it before the clinical work: "Before we go on, I need to
+finish one thing, because it protects all of us."
+
+### 6.11 Six errors in the first session
+
+1. **The interrogation.** Twenty questions in a row with no reflection, no acknowledgement and no silence. Fix:
+   one question, one answer, one brief acknowledgement; slow to two-thirds of your natural pace.
+2. **The premature formulation.** A confident account of the family's dynamics in minute fifteen. Fix: no
+   formulation before you can describe one full sequence in the family's own words.
+3. **The missing safety screen.** No questions about harm to self, harm to others, violence or abuse. Fix: build
+   the screen into the first session as a standard section, with a scripted opening that makes disclosure
+   possible.
+4. **The informal contract.** Confidentiality mentioned vaguely or not at all. Fix: a concrete script, checked
+   for understanding, in every first session.
+5. **The over-identification.** You like one member, and your questions begin building their case. Fix: count
+   your questions by addressee; ask the quietest member first next time.
+6. **The unbooked next step.** The session ends warmly and nobody agrees what happens next. Fix: end with a
+   specific appointment, a specific task, and one sentence about what to do if things get worse before then.
+
+### 6.12 Culture, faith and the first ten minutes
+
+The joining techniques above are culturally saturated, and students should adjust them deliberately rather than
+applying them uniformly.
+
+**Greeting and seniority.** In many contexts, the first minutes are governed by protocol: who is greeted first,
+whether an elder is acknowledged before the presenting problem, whether shoes are removed, whether a visitor is
+offered water. A therapist who does not observe these courtesies will be experienced as a stranger who does not
+know how to be in a home, and the clinical work will not recover from it. Ask, or observe, or ask a colleague
+from the community — and do not treat protocol as an obstacle to the "real" work. The protocol *is* the work of
+the first ten minutes.
+
+**Language and code-switching.** Families often discuss emotion in one language and practicalities in another,
+or switch when they are uncomfortable. Do not force a language; follow the family. If you do not speak the
+language they use for the most intimate material, you need an interpreter and a plan for how their words will
+reach you.
+
+**Naming the problem.** In some families, naming a difficulty too directly in the first session is experienced
+as bad manners or as a curse invited. Indirect openings — asking about a typical day, about what has been tried,
+about what the elders think — will produce the information more reliably than a direct question. The rule is to
+take the family's route to the problem rather than yours, while making sure you arrive.
+
+**Hospitality and fees.** Offer of food or drink; who pays for the session; whether a gift is appropriate. These
+are not trivia: they define the relationship. The professional answers are to accept hospitality graciously and
+briefly, to be transparent about fees before the work begins, and to have a stated policy about gifts that
+respects the gesture without creating obligation.
+
+> **CAUTION** — Do not use cultural respect as a reason to skip the safety screen. A question about violence
+> asked with courtesy, in private, in the family's own idiom, is not a cultural insult; failing to ask it is a
+> professional failure. Where a family's norms make a private conversation difficult, create the privacy
+> structurally: a separate appointment, a home visit, a walk to the car.
+
+### 6.12a The joined room: what good looks like from outside
+
+Trainees rarely see a good first session from the outside, because they are always inside one. Here is a
+description of a session that went well, written by an observer, with the specific behaviours that made it work.
+
+**The room at minute five.** The therapist has moved her chair to the corner of the family's seating rather than
+opposite them. The father, who arrived last and sat furthest away, has been asked where he would like to sit and
+has moved closer without being asked twice. The nine-year-old is drawing on paper the therapist provided, and
+nobody has told him to stop.
+
+**The talk.** The therapist has spoken for perhaps 40% of the first ten minutes, and about 25% after that. She uses
+the family's words — "the shouting", "the tea", "the letter" — rather than clinical abstractions. Twice she has
+said "tell me more about that", which produced the two most informative passages of the session. In the first
+twenty minutes she has asked the mother six questions, the father five and the child four, each of them at least
+twice, and the father was asked about his work before he was asked about his son.
+
+**The moment of difficulty.** At minute twenty-two the mother says, sharply, that the father does not care. The
+observer expects the therapist to smooth it over. Instead she slows it: "Say that to him rather than to me. Then I
+would like to hear what happens in you when she says it." The mother repeats it; the father is silent; the
+therapist waits eleven seconds, visibly, without filling the silence, and the father then says something he had not
+planned to say. That silence is the most skilled thing in the session.
+
+**The correction.** At minute forty the therapist offers a hypothesis. The father disagrees with part of it. She
+writes his correction down, reads it back to him and says "that changes what I think". The observer notes the
+family's posture change at this point: they are working with the therapist rather than being assessed by her.
+
+**The ending.** The therapist summarises in five sentences, names one task, books the next appointment while
+everyone is still in the room, and asks the closing question. The child's drawing is left on the table between
+them and the therapist asks whether she may keep it; he says yes. Nobody leaves in silence.
+
+**What the observer would teach from this session.** Three things. The seating and the drawing were not
+decoration; they were the physical form of the message "you are welcome here and you are not on trial". The
+eleven-second silence is a technique of a high order, teachable only by practice. And the visible acceptance of
+correction turned an assessment into a collaboration, which is what the family will remember when deciding
+whether to come back.
+
+> **DRILL** — Watch any recorded first session — a training video, a demonstration, or your own role-play — with a
+> stopwatch. Time the therapist's longest silence and count the times they said "tell me more". Then do the same
+> with your own recording. The comparison is humbling and always useful.
+
+> **TASK** — Write the observer's account of your own last role-play in the same form: room at minute five, talk,
+> moment of difficulty, correction, ending. Write it in the third person, as though about a stranger. Then mark
+> the three things an observer would teach from it, and the one thing they would want changed.
+
+### 6.13 Evidence note: what predicts a second session
+
+The literature on engagement and dropout in family therapy is unusually practical, and four findings are worth
+knowing precisely.
+
+**The first session is the strongest single predictor.** Attendance at a second session is predicted by what
+happened in the first — alliance, clarity of the plan, and the family's sense that the therapist understood the
+problem. Families who leave the first session without a clear next step are much less likely to return.
+
+**Practical barriers are underestimated.** Distance, transport cost, work schedules, childcare, and the timing of
+appointments predict attendance at least as strongly as motivation. Interventions that address logistics —
+evening clinics, reminder calls, transport support, co-locating with schools — have larger effects on attendance
+than most clinical techniques, and they are the least fashionable thing a service can do.
+
+**Alliance matters, and it is measurable.** Session-rating measures completed by each family member after each
+session identify alliance ruptures early enough to repair them. The evidence supports routine use, and the
+practical obstacle is not the measure but the habit.
+
+**Motivation is not a fixed trait.** Families described as "unmotivated" in referral letters frequently engage
+well when the therapist's explanation fits their own understanding of the problem. The construct that predicts
+engagement is not motivation in general but *fit*: does this explanation, in this room, make sense of what this
+family is living with?
+
+**The implication for the gate.** The skills assessed this week are not the most sophisticated in the course; they
+are the ones with the best evidence for keeping families in treatment long enough for anything else to matter.
+
+### 6.14 Key terms
+
+| Term | Definition |
 |---|---|
-| Contract and limits | "I will keep what is said here private, except where someone is at risk of harm." |
-| Each person's view | "I would like to hear from each of you — what worries you most?" |
-| The attempted solutions | "What have you already tried? What happened?" |
-| The pattern | "So when X happens, what does Y do? And then?" |
-| Risk screen | "Is anyone being hurt at home? Any thoughts of ending your life?" |
-| Feedback | "Here is what I think I heard. What have I got wrong?" |
-| Next step | "I would like to see all of you again next week, including your father." |
+| Joining | The therapist's deliberate accommodation to the family in order to work from inside the system |
+| Maintenance | Supporting the family's existing structure and rules while working |
+| Tracking | Following the family's content, language and imagery rather than steering to your agenda |
+| Mimesis | Adopting the family's style, pace and vocabulary enough to be experienced as familiar |
+| Accommodation | The therapist's adjustment to the family's system (Minuchin) |
+| Alliance (individual) | Each member's relationship with the therapist |
+| Alliance (subsystem) | The alliance with a dyad or subsystem as a unit |
+| Alliance (whole system) | The family's shared alliance with the therapy |
+| Episode question | A question about a specific, recent instance of the problem |
+| Opinion question | A question about general patterns, traits or feelings — less reliable |
+| Rupture and repair | A break in the alliance and the process of mending it |
+| Dropout | Premature termination without agreement |
 
-![Figure 6.1 — The assessment sequence: assessment is a relationship, not an interrogation](../assets/figures/fig30-assessment-sequence.svg)
+### 6.15 Self-test
 
-> **CASE** — A family arrives furious with each other and with the referrer. The therapist's first
-> sentence is not a question but an acknowledgment: "You have been sent here by three different people
-> and none of them asked you what you wanted. Let's start there." Joining succeeded before any
-> information was gathered.
+1. Name Minuchin's three joining operations and give one example of each.
+2. What are the only two reliable signs that joining succeeded?
+3. What are the three alliance dimensions in Pinsof's model?
+4. A father says "I don't know why I'm here — she's the one with the problem." What are your first two moves?
+5. Why is a *polite* family often harder than a furious one?
+6. Give the six steps of the opening architecture in order.
+7. What is an episode question, and why does it outperform an opinion question?
+8. What should you record after a first session that students usually omit?
 
-> **PRACTICAL (SKILLS GATE)** — Fifteen minutes, observed. You must (1) state confidentiality and its
-> limits, (2) obtain a description of the problem from at least two people, (3) ask one circular
-> question, (4) complete a risk screen, (5) offer a summary and invite correction. You may use one
-> index card of prompts. Feedback uses the four-point structured sheet in the programme handbook.
+**Answers.** 1. Maintenance (affirming the family's structure), tracking (following their content), mimesis
+(matching their style). 2. The family discloses something unplanned, and they book again. 3. Individual,
+subsystem and whole-system alliances, across content, goals and tasks. 4. Acknowledge the cost of attending and
+assert his necessity, then ask about his own week before asking about the child. 5. Because politeness is often
+a rule that forbids disagreement, so the conflict the family needs to address never appears. 6. Orient; contract;
+agenda; account from each person; slow the sequence; feedback and next step; closing question. 7. A question
+about a specific recent instance; it produces behaviour rather than characterisations and is harder to answer
+with a defence. 8. Risk screening, who answered for whom, and whose formulation you adopted — plus what you did
+not ask and need to ask next time.
+
+### 6.16 Reflective task
+
+Record a twelve-minute role-play of a first session. Watch it twice: once with the sound off, noting seating,
+gesture, who leans forward and who looks at whom; once with sound, counting questions by addressee. Then write
+300 words answering three questions. Which member did you join most easily, and why? Which member did you avoid,
+and what did you avoid? And what does the answer to the second question remind you of in your own family?
+
+This is the exercise students most often skip and most need. The pattern of avoidance you find here will follow
+you into practice, and the only reliable remedy is to have named it early.
+
+### 6.17 Readings for this week
+
+* **Minuchin (1974)**, *Families and Family Therapy*, chapter 6 on joining and accommodation. Read it twice: once
+  for the technique, once for the tone.
+* **Pinsof (1995)**, *Integrative Problem-Centered Therapy*, on the alliance in couple and family work. The
+  measurement framework.
+* **Friedlander, Escudero & Heatherington (2008)**, *Therapeutic Alliances in Couple and Family Therapy*. The best
+  single treatment of ruptures and repairs.
+* **Alexander, Holtzworth-Munroe & Jameson (1994)**, on engaging resistant families. Practical and evidence-based.
+* **Boyd-Franklin (2003)**, *Black Families in Therapy*, chapters on engagement. On the first session in families
+  whose previous experience of services has been hostile.
+* **A recorded first session with a transcript.** Any good training archive will do; read the transcript rather
+  than watching, because reading reveals exactly what the eye edits out: the question you asked twice, the
+  member you never addressed, the moment you filled a silence that was doing useful work.
+
+*Next: [Week 7 — The first session II: defining the problem](#week-7--the-first-session-ii-defining-the-problem)*
+
+---
 
 ---
 
