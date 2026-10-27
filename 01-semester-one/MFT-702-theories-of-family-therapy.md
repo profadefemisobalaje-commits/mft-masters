@@ -5048,8 +5048,7 @@ The reading log question for this week is different from last week's: not "what 
 
 ## Week 8 — Cognitive-behavioural and behavioural couple therapy
 
-**The question.** *What behaviours and beliefs maintain the distress, and how can they be changed
-directly?*
+**The question.** *What behaviours and beliefs maintain the distress, and how can they be changed directly?*
 
 **Core concepts.** Behavioural exchange and communication training (TBCT); cognitive restructuring of
 relationship standards and attributions; the role of selective attention (noticing negatives and missing
@@ -5074,6 +5073,732 @@ motivation and literacy; "skills" can be performed in session and abandoned at h
 > **PRACTICAL** — With a peer, design a behavioural exchange contract: three behaviours each, defined
 > observably, cheap, daily, and mutually agreeable. Then critique it: what could make this fail in a
 > real family within two weeks?
+
+![Figure 8.1 — Speaker–listener structure: the turn-taking frame that behavioural couple therapy borrows and formalises](../assets/figures/fig35-speaker-listener.svg)
+
+### 8.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | From insight to behaviour | Why the behavioural turn happened, and what it gave up | Name one thing every previous model left to chance |
+| 10–25 | The behavioural exchange | Two lists, one week, and the arithmetic of small positives | Draft a three-item exchange contract |
+| 25–40 | Communication training | Model speaker–listener with a volunteer; break it deliberately | Run four turns with a talking object |
+| 40–55 | Attribution and standards | Where the distress actually lives: in the interpretation | Re-attribute three real complaints |
+| 55–70 | Problem-solving | The six steps, demonstrated on a live problem | Solve one problem in six minutes |
+| 70–82 | IBCT: acceptance beside change | When change strategies fail and what replaces them | Rewrite one demand as a soft disclosure |
+| 82–90 | Evidence and limits | The strongest evidence base in the course, and its blind spots | Fill the matrix row |
+
+**The teaching decision that makes the week work.** Behavioural couple therapy is the easiest model in
+this book to demonstrate and the hardest to demonstrate *well*. A lecturer who shows speaker–listener
+badly makes the model look absurd; a lecturer who shows it well makes it look easy and then has to explain
+why trainees find it hard. The solution is to demonstrate it twice: once as a caricature (rigid, mechanical,
+with the therapist policing the rules), and once as it is meant to be (warm, brief, with the therapist
+tracking the couple's emotional response to the structure). The class then has two reference points, and
+the difference between them is the week's content.
+
+**What the lecture should establish early.** That the model is not a denial of feeling. Behavioural couple
+therapy works because behaviour and attribution carry feeling; a couple who exchange three small acts of
+care daily are not being trained like dogs, they are being given evidence against a belief that nothing
+will ever change. The model's logic is that the evidence comes first and the feeling follows, which is the
+inverse of Week 7's logic — and the two models are best taught against each other.
+
+### 8.2 Core concepts
+
+**The behavioural premise.** Distress is maintained by observable behaviour and by the interpretations that
+accompany it, and both can be changed directly. The model does not deny history, attachment or meaning; it
+declines to work on them first. The claim is strategic: change the daily exchanges and the attributions,
+and the emotional climate moves with them.
+
+**Behavioural exchange (the "give-get" or reciprocity model).** Each partner identifies small, frequent,
+low-cost behaviours that the other would find pleasing, and performs them at a higher rate. The mechanism
+is reciprocal reinforcement: positive behaviour increases the other's positive behaviour, and the couple
+begins to experience the relationship as rewarding rather than only as effortful.
+
+**The arithmetic that makes it work.** The behaviours must be *small* (a phone call at lunchtime, not a
+holiday), *frequent* (daily, not monthly), *cheap* (no cost to the giver's scarce resources), *observable*
+(a described act, not an attitude), and *agreeable to both*. A list of three such behaviours per partner,
+performed for two weeks, changes the ratio of positive to negative exchanges more than a single grand
+gesture, because the ratio is what the couple's attention is monitoring.
+
+**Selective attention and the negative ratio.** Distressed couples notice negatives and miss positives;
+the model's term is *selective attention*, and its consequence is that the couple's account of the
+relationship becomes an account of injuries. The therapy's first task is often perceptual rather than
+behavioural: teach each partner to see what is actually being done, before asking for anything new.
+
+**Communication training (TBCT).** Traditional behavioural couple therapy pairs behavioural exchange with
+training in communication and problem-solving. The couple learns a structure: one speaks, one listens and
+reflects, then they swap; problems are defined, options generated, one chosen, a trial agreed, and a review
+scheduled. The structure is deliberately artificial, and the artificiality is the point — it interrupts
+the couple's established escalation long enough for a different pattern to be possible.
+
+**Attribution retraining.** The cognitive half of the model. Distress is carried less by events than by
+the explanations attached to them: "he is late because he does not care" versus "he is late because the
+traffic on that road is impossible and he hates being late". The therapy does not ask the couple to be
+positive; it asks them to generate alternative explanations and then to test them, which is an evidential
+procedure rather than an exercise in optimism.
+
+**Relationship standards.** The cognitive model's deeper layer: each partner holds standards about what a
+marriage should be — about intimacy, fairness, autonomy, loyalty, communication — and most of the couple's
+conflict is a collision of standards rather than a failure of skill. The therapeutic move is to make the
+standards explicit ("what should a husband do when his wife is upset?") and then to negotiate the difference
+rather than to adjudicate who is right.
+
+**Skills deficit versus skills performance.** A distinction that determines the treatment. A couple who
+cannot listen because they have never been taught a structure has a *deficit*; a couple who can listen
+perfectly in the session and never at home has a *performance* problem. Deficits are treated with training;
+performance problems are treated by examining what happens at home that makes the skill unavailable —
+usually an emotional or contextual variable the behavioural model must then import.
+
+**Homework as the engine.** The model's central delivery mechanism. Change happens between sessions, and
+the session's task is to design, rehearse and review the homework. Consequently the session has an agenda,
+the homework is written down, the obstacles are predicted, and the review comes first at the next meeting.
+A behavioural therapist without homework is not doing the model.
+
+**Integrative behavioural couple therapy (IBCT).** Christensen and Jacobson's revision, which added
+acceptance to change. Its premise: some differences are not problems to be solved but incompatibilities to
+be tolerated, and the attempt to change them produces the distress. IBCT uses empathic joining around the
+difference (each partner's behaviour is described as understandable given its history and its function),
+unified detachment (the couple examines the pattern together rather than each other), and tolerance building
+(through rehearsal and the deliberate, controlled expression of the difference).
+
+**The DEEP analysis.** IBCT's formulation tool: *Differences* (what actually differs), *Emotional
+sensitivity* (what each partner feels when the difference is activated), *External stress* (contexts that
+make it worse), and *Pattern* (the dance that has formed around it). A formulation in four columns, and a
+useful one to teach because it can be completed in a single session.
+
+### 8.2a Two behavioural ideas, misread and corrected
+
+**Misreading one: "the model is about being nice."** Trainees often reduce behavioural exchange to
+pleasantness, and produce contracts that read like greeting-card instructions: "be more affectionate",
+"show appreciation", "make time for us". Such items fail because they are unobservable and unverifiable, and
+because they ask for a mood rather than an act. The correction is the specificity test — would a camera
+record it? — applied to every item on the list.
+
+*The corrected version.* Not "be more affectionate" but "put your hand on my shoulder when you pass me in
+the kitchen"; not "show appreciation" but "say thank you when I cook, even if you do not like it"; not "make
+time for us" but "twenty minutes on the balcony after the children are asleep, on Thursdays, no phones".
+Each item is filmable, cheap, daily and chosen by the person who receives it.
+
+**Misreading two: "attribution retraining is positive thinking."** The technique is not an instruction to
+see the best in one's partner, which would be a demand for self-deception. It is a demand for *evidence*: an
+event has several possible explanations, a distressed couple habitually selects the most hostile, and the
+therapist's task is to restore the full set and then to test which one fits.
+
+*The corrected version, in four steps.* Name the event ("he came home at ten and did not call"). Name the
+automatic explanation ("he does not think about me"). Generate three alternatives that are not hostile and
+not implausible ("the meeting overran"; "his phone died"; "he was avoiding a conversation he dreads").
+Then test: what would each explanation predict, and what actually happened? The couple usually discovers
+that they have been running a hostile hypothesis without ever checking it, and the discovery is more
+persuasive than any reassurance the therapist could offer.
+
+**The pair of corrections, stated as a rule.** Specificity for behaviour, evidence for cognition. Both are
+disciplines rather than attitudes, and both are teachable in a session — which is why this model has the
+strongest training literature in the field.
+
+### 8.3 The therapy: a structured course, session by session
+
+The model's shape is unlike anything in Weeks 2–7: it is a course with a syllabus.
+
+**Session one — assessment and formulation.** Both partners are seen together for most of the session, with
+a short individual segment each (and a stated policy on secrets, taken from MFT 701 Week 6). The therapist
+takes a behavioural history of the presenting complaint: what happens, when, who does what first, what
+follows. The DEEP analysis is completed. Two or three questionnaires are administered — a satisfaction
+measure and, where depression is present, a mood measure — and the scores are shown to the couple, which is
+itself an intervention.
+
+**Session two — the rationale and the first exchange.** The formulation is presented in plain language, the
+treatment is described, and the first behavioural exchange is negotiated. The couple leaves with a written
+list of three behaviours each and a chart.
+
+**Sessions three to six — skills.** Speaker–listener, then problem-solving, then attribution work. Each
+session begins with the homework review, which occupies a third of the time; each ends with a rehearsal of
+the next week's task in the room. The therapist teaches by demonstration, then by coaching, then by
+observing the couple perform it without help.
+
+**Sessions seven to ten — integration and consolidation.** The couple brings a real problem and runs the
+whole procedure while the therapist stays quiet. Attribution work moves to the couple's core standards.
+Relapse is planned: what the couple will do when the old pattern returns, and how they will know.
+
+**The typical course.** Twelve to twenty sessions for relationship distress; eight to twelve for a focused
+problem; and a planned ending with a review at three and six months. The model's brevity is a design
+feature, and the therapist's discipline is to end on time.
+
+**The therapeutic relationship in a structured model.** The alliance matters here as much as anywhere, and
+the structure can damage it if the therapist becomes a referee. Three disciplines protect the alliance: the
+agenda is agreed with the couple rather than imposed; the therapist names feeling when the structure
+produces it ("that was hard to hear; stay with it for a moment"); and the therapist does not adjudicate
+whose account of an event is true, only whether the process between them is working.
+
+**What the therapist does when the couple will not do homework.** First, assume the task was badly designed
+rather than that the couple is resistant. Second, review the obstacle concretely: what happened at the moment
+the task was to be done? Third, shrink the task until it is almost trivial, and rebuild. Fourth, if the
+pattern persists across three tasks, the formulation is wrong: something is being protected, and the model
+must import the emotional or systemic question it usually defers.
+
+### 8.3a The first three sessions in detail, with the words
+
+**Session one, minute by minute.**
+
+*Minutes 0–5. The frame.* "We will meet for fifty minutes. I will ask each of you about the problem and
+about what you have already tried, I will ask you to fill in two short questionnaires, and at the end I will
+tell you what I think and what I would suggest. I will also see each of you alone for ten minutes, and I will
+tell you both what the rule about secrets is before we start: if either of you tells me something that
+affects the other, I will ask you to say it in the room, and I will not carry it for you."
+
+*Minutes 5–20. The behavioural history.* Not "how long have you been unhappy?" but "take last Tuesday. What
+happened from the moment you both got home?" The therapist writes a timeline, and marks the points at which
+each partner's behaviour changed. Two or three such days give more information than a year of narrative.
+
+*Minutes 20–30. Individual segments.* Each partner is asked two questions: what they would want the other to
+know, and what they would not want said in the room. The second question is the one that produces the
+material for the formulation, and the therapist's use of it is the ethical test of the model.
+
+*Minutes 30–40. Questionnaires.* Satisfaction and mood. The therapist scores them in the room and says the
+numbers aloud. Couples are frequently startled by the gap between their two scores, and the gap is a
+finding the therapy will work with.
+
+*Minutes 40–50. The formulation, offered and tested.* "Here is what I think is happening. You are both
+working hard and both feeling unappreciated, and the reason is that the things each of you does to show care
+are not the things the other notices. When that happens for long enough, each of you begins to explain the
+other's behaviour as indifference. I may be wrong; tell me what fits and what does not."
+
+**Session two, the first exchange.** The therapist asks each partner for three behaviours — small, daily,
+cheap, observable — that the *other* would find pleasing. The negotiation is explicit: each item is read
+aloud, the receiving partner says whether it would help, and items that are too big or too vague are reduced
+on the spot. The list is written by hand, in duplicate, and both copies go home.
+
+*The mistake to avoid.* Accepting a list of items that the giver will find easy rather than items the
+receiver will find meaningful. The technique's logic requires the receiver's preference to govern, and the
+therapist must enforce it or the exchange becomes another occasion for disappointment.
+
+**Session three, the first skills session.** Speaker–listener is introduced with a talking object, in three
+steps: the therapist demonstrates with one partner while the other observes; the couple performs four turns
+with the therapist coaching; the couple performs four turns without coaching while the therapist stays
+silent and takes notes. The debrief asks what the listener found hard, which is where the emotional material
+enters and where the model must decide whether it can stay behavioural.
+
+### 8.4 Techniques, specified
+
+**Behavioural exchange contract.** Three items each; written; daily; reviewed weekly; revised when an item
+fails. The contract is not a scoreboard and must not become one — the moment a couple begins to audit each
+other's compliance, the technique has inverted, and the therapist must step in.
+
+**Speaker–listener.** Rules: the speaker speaks for themselves, in short turns, about one topic; the
+listener does not rebut, defend or advise, but reflects back what they heard and checks it; then they swap.
+The talking object makes the rule physical, which matters more than it sounds — the object carries the turn,
+so neither partner has to concede authority.
+
+**The empathic reflection step.** After reflecting content, the listener is asked to guess the feeling:
+"and I think you felt dismissed when I said that". Guessing is permitted and is often wrong; the speaker
+corrects. This step is where behavioural communication training and emotion-focused work meet, and it is the
+step most often dropped by trainees who are anxious about time.
+
+**Attribution retraining in four moves.** Event, automatic explanation, three alternatives, test. Conducted
+in the room, with both partners contributing alternatives for each other's behaviour, which produces the
+unusual experience of hearing one's partner generate a charitable explanation aloud.
+
+**Standards clarification.** "What should a wife do when her husband is silent?" "What does a good marriage
+look like in your family, and in the family you grew up in?" The two answers are compared, and the
+difference between the partners' standards — not between either standard and the therapist's — becomes the
+subject.
+
+**Problem-solving, six steps.** Define one problem in behavioural terms; brainstorm options without
+evaluation; evaluate; choose one; agree a trial period and a review date; review. The discipline is the
+separation of generation from evaluation, which couples in distress cannot do without a structure.
+
+**Positive exchange of the week.** A lighter variant for couples who find the contract aversive: each
+partner names one thing the other did that they appreciated, at the start of each session, for four weeks.
+It is the temperature reading's first box (Week 7) imported into a behavioural frame, and it is the single
+cheapest intervention in this book.
+
+**The relapse plan.** Written in the penultimate session: the early warning signs the couple now recognises,
+the two behaviours they will reinstate first, and the point at which they will ask for help again.
+
+### 8.5 The first session with a couple who have stopped speaking
+
+The model's most common presentation in practice is not a couple who fight but a couple who have gone quiet,
+and the structured approach has to be adapted.
+
+**The adaptation.** The behavioural history is taken as a history of *absences*: what used to happen that no
+longer does; when the last ordinary conversation took place; what each partner does in the evening. The
+question "what did you do together in the first year?" is asked in session one, because it establishes that
+the behaviour exists and has simply stopped, which is a more hopeful formulation than a deficiency.
+
+**The first exchange, for a silent couple.** Items are chosen for their minimal emotional cost: leaving a
+note, making a second cup of tea, sending a message from work about something trivial. The point is not
+romance but the re-establishment of a channel with a low threshold. A couple who cannot yet speak can
+usually exchange small acts, and the acts make speech easier.
+
+**The first skills session, for a silent couple.** The talking object is introduced without reference to the
+problem, using a neutral topic ("plan the weekend"), so that the structure can be learned before it is asked
+to carry pain. Trainees find this counter-intuitive and it is the technique's most useful application.
+
+**The question that must be asked in session one.** "Is there anyone in this relationship who is afraid?"
+Asked of each partner separately, in the individual segment, and recorded. The behavioural model's evidence
+base assumes non-violent couples, and a therapist who begins a communication exercise with a couple in which
+one partner is afraid has created a structured opportunity for coercion.
+
+### 8.5a A behavioural exchange contract, designed and then criticised
+
+The week's practical, worked fully so that the seminar can critique a real artefact.
+
+**The couple.** The Ogundipes: mother 44, father 47, married nineteen years, two children, presenting with
+"we have nothing to say to each other and everything I do is wrong".
+
+**The draft contract.**
+
+| Giver | Behaviour | Frequency |
+|---|---|---|
+| Husband | Sends a message from work at lunchtime, no content required | Weekdays |
+| Husband | Makes the morning tea and leaves it by her side of the bed | Daily |
+| Husband | Watches one episode of her programme with her without his phone | Twice a week |
+| Wife | Says thank you when he does something around the house | Daily |
+| Wife | Asks him one question about his work at dinner | Weekdays |
+| Wife | Leaves his work clothes out on Sunday evening | Weekly |
+
+**The critique, in the way the seminar should conduct it.**
+
+*Item one* is well specified and low cost, and it establishes a channel. Risk: it becomes a compliance test
+— if he misses a day, she has evidence of indifference. The therapist's counter: agree in advance that
+missed days are expected and are mentioned without commentary.
+
+*Item two* is filmable and cheap, and it is chosen by the receiver. Risk: it is intimate in a way the couple
+may not currently tolerate; the husband may feel foolish. Counter: rehearse it in the session — literally,
+with a cup — so the awkwardness is spent in the room.
+
+*Item three* asks for a change in his attention, not his behaviour, and it contains a hidden criticism ("and
+without his phone"). It will be experienced as a reproach each time it is performed. Better: "we watch one
+episode together on Tuesday and Friday, and the phone stays in the kitchen." The reformulation moves the
+instruction from him to the situation.
+
+*Item four* is a courtesy that she already performs — she chose it because it is easy, which is exactly the
+error identified in 8.3a. It will not change his experience. Better: "asks him, once a week, what he would
+like for dinner and cooks it."
+
+*Item five* is good: it is small, daily and it opens a channel that has closed. Risk: it is an interview, and
+he may answer in monosyllables; the contract should specify that her question is the whole behaviour, not his
+answer.
+
+*Item six* is a service behaviour with a history of resentment — "I do everything for him" is part of the
+couple's complaint. Chosen by her, acceptable to him, and it risks confirming the pattern. A better item
+would be chosen by *him* from a list she generates: what would he actually notice?
+
+**The three general lessons.** Items must be chosen by the receiver; items must be about situations as well
+as persons; and any item that carries a criticism will be heard as one every time it is performed. A
+contract that survives these three tests will usually produce measurable change within three weeks, and the
+measurement is the couple's own count, not the therapist's impression.
+
+### 8.6 Case: the Adeyemis, in behavioural form
+
+The recurring family, seen through this model, to make the translation from systemic to behavioural
+explicit.
+
+**The presentation.** Amara Adeyemi (14) has refused school for five weeks. In a behavioural formulation the
+presenting complaint is decomposed: what Amara does at 7 a.m. (stays in bed, says she feels sick); what her
+mother does (asks three times, then telephones the school, then stays home); what her father does by
+telephone (instructs, threatens, disengages); what the school does (marks the absence, telephones at 10 a.m.).
+The pattern is a loop of four elements, and each element is observable.
+
+**The behavioural formulation.** Amara's avoidance is negatively reinforced: staying in bed removes the
+aversive stimulus (school). Her mother's repeated asking is reinforced by the occasional success and
+extinguished by the usual failure, which produces escalation. The father's telephone instructions are
+reinforced by the relief of ending the call. Nobody's behaviour is irrational; every element is maintained by
+its consequence.
+
+**The plan, in behavioural terms.** A graded return: three half-days in week one, four in week two, full
+attendance by week three, with a specified morning routine and a written script for the mother (one
+instruction, one consequence, no repetition), and a scheduled daily telephone call from the father at a fixed
+time rather than on demand. The parents' behaviour is the target, not Amara's, and the therapist says so.
+
+**What this model adds that the structural and Milanese weeks did not.** Specificity of the morning, a
+measurable outcome (half-days attended), a written script, and a review date. What it loses: the meaning of
+the refusal, which Week 6's hypothesising had opened — the therapist never asks what school has come to
+represent, and in this family the answer (a bullying incident the parents do not know about) only emerges
+because the mother mentions it in the third session.
+
+**The integration the student should note.** The behavioural plan was necessary and insufficient: it
+produced attendance in three weeks, and the attendance collapsed in week six when the bullying re-emerged.
+The model's own literature acknowledges this — behavioural change without the emotional and contextual
+formulation is a repair without a diagnosis.
+
+### 8.6a The same couple in a behavioural formulation, and in a systemic one
+
+A side-by-side comparison, because the examination will ask for it and because the contrast teaches both
+models.
+
+**The couple.** The Ogundipes: nineteen years married, two children, presenting with "nothing to say and
+everything I do is wrong".
+
+**In behavioural language.** Two low rates of reinforcing behaviour; a high rate of aversive exchange;
+selective attention to negatives; a hostile attribution style ("he does it because he can"); the wife's
+standard is that a husband should initiate conversation, the husband's is that a wife should be content with
+provision; a deficit in the couple's ability to raise a complaint without escalation; and a performance
+problem in the skills they can demonstrate in the clinic. The treatment plan writes itself: exchange,
+speaker–listener, attribution retraining, standards clarification, review at four weeks with a satisfaction
+measure.
+
+**In systemic language (Weeks 4–6).** The couple's pattern is complementary and escalating: she pursues, he
+withdraws, she pursues harder, he withdraws further, and each punctuates the sequence at the other's move.
+The symptom (the silence) is stabilising: it protects the husband from a conversation about his business
+debts and protects the wife from a decision about her mother's care, and neither of these subjects has been
+mentioned in nineteen years. The wife's care for her own mother is described by the husband as "her real
+marriage". A Milanese hypothesis would be that the silence keeps two unspoken arrangements intact, and a
+structural intervention would work on the boundary between the couple and the wife's family of origin.
+
+**What each formulation makes possible.** The behavioural formulation gives specific, measurable,
+time-limited actions and a review date. The systemic formulation gives the meaning of the silence and the
+reason it has survived, and it predicts that a skills-based intervention will improve the evenings and leave
+the marriage's central subject untouched.
+
+**What each formulation cannot see.** The behavioural formulation, as written, contains no account of the
+wife's mother, the debts, or the nineteen years; it treats the presenting complaint as the problem. The
+systemic formulation contains no measurable action, no review date and no outcome measure; it can describe
+the system beautifully for six months without anything changing on a Tuesday evening.
+
+**The integration a competent therapist performs.** Use the systemic formulation to choose the target, and
+the behavioural method to change it. Specifically: hypothesise that the silence protects a subject; ask one
+circular question about who would be most affected if the couple talked; and then build a behavioural
+sequence that makes the first conversation survivable — a topic, a time limit, a structure, and a review.
+That sequence is neither a pure contract nor a pure enactment; it is what integration looks like when it is
+done rather than declared.
+
+**The examination answer, in three sentences.** "The behavioural model treats the exchange and the
+attribution; the systemic model treats the meaning and the function. For this couple, the meaning is a
+protected subject and the exchange is a rate of reinforcement; the therapy needs the second to reach the
+first. I would formulate systemically, intervene behaviourally, and measure both."
+
+### 8.7 Annotated transcript: attribution retraining with a couple
+
+Twelve turns, from session four with the Ogundipes. The therapist is working on one incident.
+
+> **T1 Therapist:** Let us take one small thing from last week. You said he was late on Wednesday.
+
+> **T2 Wife:** Forty minutes. He did not call.
+
+> **T3 Therapist:** When the forty minutes had passed and the phone had not rung, what went through your
+> mind?
+
+> **T4 Wife:** That he was with his friends. That he does it because he can.
+
+> **T5 Therapist:** And that thought — what did it do to you?
+
+> **T6 Wife:** It made me cold. I did not speak to him when he came in.
+
+> **T7 Therapist:** (to husband) What actually happened on Wednesday?
+
+> **T8 Husband:** The generator at the office failed and I could not leave the till.
+
+> **T9 Therapist:** (to wife) So the explanation you had was one of several. Let us see if we can find the
+> others. What else could forty minutes and no call mean, in your husband's life as you know it?
+
+> **T10 Wife:** (pause) The traffic on that road. Or his phone. Or — he might have been afraid to call and
+> say he was late.
+
+> **T11 Therapist:** (to husband) Which of those is closest?
+
+> **T12 Husband:** The last one. I knew she would be angry, so I thought it was better to arrive than to
+> call.
+
+**Annotations.** *T1–T2* establishes a small, recent, dated incident. Small incidents are used deliberately:
+the technique needs an event whose explanation can be examined without the whole marriage at stake.
+
+*T3* is the key question. It asks for the *automatic thought*, not for the feeling, and it asks it at the
+moment of the event ("when the forty minutes had passed"), which is where attributions live.
+
+*T4* is the hostile attribution, stated plainly and without correction. The therapist's discipline is to
+receive it without arguing — an argued attribution becomes a defended one.
+
+*T5–T6* links attribution to behaviour within four turns, which is the technique's logic: the thought
+produced a behaviour (coldness) that produced an outcome (a silent evening) that confirmed the thought.
+
+*T7–T8* brings the actual explanation into the room, and the order matters: the therapist hears the wife's
+attribution first, in full, before the husband's account is admitted. Hearing the husband first would have
+produced a correction; hearing the wife first produces a comparison.
+
+*T9* is the technique proper: "what else could it mean?" — addressed to the wife, who generated three
+alternatives including one she had not previously considered, and one of which turned out to be true.
+
+*T11–T12* closes the loop with evidence, and the husband's answer is the session's most useful sentence: he
+did not call *because* of her anticipated anger, which means the wife's attribution (indifference) and the
+husband's motive (fear) were both present and only one was in her model of him. The therapist writes the
+sentence down.
+
+**What the trainee should notice.** The therapist never says "you are being unfair" or "he was stuck at
+work". The technique works because the couple produce the alternatives and test them themselves; the
+therapist's only intervention of substance is the question at *T9*.
+
+### 8.7a Speaker–listener, three ways it goes wrong
+
+A taxonomy from recorded training sessions, with the correction for each.
+
+**Failure one — the reflecting machine.** The listener repeats the speaker's words accurately and flatly,
+with no guess at feeling and no contact. The speaker reports feeling unheard despite the accuracy. *The
+cause:* the trainee has learned the form and not the function; reflection is a procedure for demonstrating
+attention, and attention is not established by word-matching. *The correction:* add the feeling guess, and
+make one deliberate error so the speaker has something to correct — being corrected is evidence of being
+listened to.
+
+**Failure two — the therapist's rule-policing.** The therapist interrupts every thirty seconds: "you did not
+reflect"; "that was a rebuttal"; "swap now". The couple become pupils, the emotional content disappears, and
+the session becomes a lesson in which both partners are failing. *The cause:* the trainee's anxiety about
+fidelity, displaced onto the couple. *The correction:* coach silently for two minutes with notes, then
+debrief in one paragraph; the structure is a container, not a test.
+
+**Failure three — the disclosure that becomes an accusation.** The speaker uses the structure to deliver a
+grievance with perfect form: "when you ignore me at your family's house I feel humiliated, and I need you to
+stop". The rules have been followed and the partner has been indicted. *The cause:* the model has no
+specification for the *content* of a turn, only its form. *The correction:* a prior step, in which the
+speaker is asked to describe one specific incident and one feeling rather than a pattern and a demand, and in
+which the therapist checks the sentence with the speaker before the turn begins.
+
+**The general lesson.** Structure protects a couple from their own escalation, and it does not teach them
+what to say. That is why the behavioural model works best in combination with a formulation that knows what
+the conversation is for.
+
+### 8.8 Laboratory: design, rehearse, review
+
+Sixty minutes, pairs, three tasks in sequence.
+
+**Task one, the exchange contract (twenty minutes).** Each student writes a three-item contract for a couple
+they are currently seeing (anonymised) or for a role-played couple played by their partner. The partner plays
+the receiver and applies the three tests: could a camera record it; is it daily; does it carry a criticism?
+Any item that fails is rewritten twice.
+
+**Task two, speaker–listener under coaching (twenty minutes).** Four turns on a specified topic, with the
+observer using a checklist: speaker used "I"; listener reflected content; listener guessed feeling; no
+rebuttal; swap occurred at the object. The observer interrupts only when a rule is broken, and counts the
+interruptions.
+
+**Task three, the formulation in four columns (twenty minutes).** Complete a DEEP analysis for the same
+couple: differences, emotional sensitivities, external stresses, pattern. Then write one sentence that
+presents it to the couple without blame.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Specificity of behaviours | 30% | Every item filmable, daily, cheap, chosen by the receiver, free of criticism |
+| Fidelity to speaker–listener | 25% | Structure maintained under pressure; feeling reflection present; no therapist refereeing |
+| Formulation quality | 25% | Four columns complete; emotional sensitivities named without pathologising either partner |
+| Review discipline | 20% | Written homework, predicted obstacle, review date, outcome measure named |
+
+**The debrief question that matters.** Which task felt most like a technique and least like a relationship?
+The answer is usually the contract, and the discussion that follows is the week's real content: the model
+requires the therapist to hold a procedure and a relationship at the same time, and the procedure is easier
+to learn than the holding.
+
+### 8.9 Six errors in behavioural couple work
+
+1. **The contract as a scoreboard.** Compliance auditing replaces goodwill, and the couple begin to
+   prosecute each other with the list. Fix: agree in advance that missed items are mentioned without
+   commentary, and revise rather than enforce.
+2. **Teaching skills to a couple who need safety.** Communication training in a relationship containing
+   coercion gives the coercive partner a structured instrument. Fix: screen in session one (8.5), and do not
+   run the exercise where fear is present.
+3. **The therapist as referee.** Adjudicating whose account of an incident is true. Fix: work only on the
+   process between them, and say so.
+4. **Homework set but not designed.** A task assigned in the last five minutes, without rehearsal and
+   without a predicted obstacle. Fix: rehearse in the room and write the obstacle down.
+5. **Dropping the feeling.** A technically correct session in which nobody's experience was named. Fix: the
+   empathic reflection step, used every time.
+6. **Ignoring the standard.** Treating a collision of relationship standards as a skills deficit. Fix: the
+   standards clarification, and IBCT's acceptance work where the difference is not solvable.
+
+### 8.10 Culture, faith and the model's critique
+
+**Where the model travels well.** Its structure, explicitness and time-limited frame are congenial to
+families who want to know what will happen and how long it will take; its behavioural items can be built
+from the family's own practices rather than from a therapist's idea of romance; and its problem-solving
+structure is teachable across literacy levels if it is done aloud rather than on paper.
+
+**Where it strains.** First, the model's behavioural items are culturally loaded: "a phone call at
+lunchtime" presupposes a job with a lunch break, and "watching a programme together" presupposes a
+television and an evening. Contracts built from a Western middle-class repertoire will fail in a household
+where the husband works nights and shares a phone. The correction is simple and non-negotiable: the couple
+generates the items, and the therapist's role is to test them, not to supply them.
+
+Second, the model's assumption of a dyad can be a poor fit for households with resident grandparents,
+polygamous arrangements, or extended family whose opinion governs the couple's decisions. A contract that
+ignores the mother-in-law's daily presence will be defeated by it, and the behavioural formulation must
+include every person whose behaviour maintains the pattern.
+
+Third, the emphasis on direct communication can conflict with a family's preference for indirectness as a
+form of respect. A couple who communicate through an elder are not deficient; they are using a structure
+that works, and the therapist's task is to strengthen it rather than to replace it with a Western dyadic
+ideal.
+
+**Faith.** Behavioural work is often assumed to be secular, and it need not be. Religious couples frequently
+have a repertoire of practices — prayer together, fasting, almsgiving, attendance — that function exactly as
+behavioural exchange items: small, daily, shared, meaningful. A therapist who builds the contract from the
+couple's devotional practice is using the model properly. The caution is that a therapist must not prescribe
+devotional practice as a technique; the couple chooses it, and the therapist's interest is in its
+relational effect.
+
+> **DEBATE** — "A model that requires homework, literacy and a motivated dyad is a model for the educated
+> middle class." Argue both sides with reference to a household you know.
+
+### 8.10a The two strongest critiques, and the model's answers
+
+**Critique one: it treats symptoms and calls it treatment.** The model changes the ratio of positive
+exchanges and the couple's attributions, and it does not address the attachment injuries, the developmental
+history or the power arrangement that produced the distress. Gains may therefore be real and shallow, and
+the model's own follow-up literature shows relapse in a proportion of couples.
+
+*The model's answer.* The evidence shows that behavioural change is not superficial: couples who change
+their exchanges and attributions report durable improvements in satisfaction at follow-up, and the
+mechanism is plausible — the couple's daily experience *is* the relationship. IBCT's addition of acceptance
+addresses the deeper incompatibilities, and the model has been revised in response to this critique rather
+than defending its original form.
+
+*The fair verdict.* The critique is strongest where the presentation is a legacy of trauma, violence or
+developmental injury; it is weakest where the presentation is a stable pattern of mutual disappointment. The
+model should be selected, not universalised.
+
+**Critique two: it is a technology of adjustment that can leave injustice untouched.** A couple in which the
+husband does nothing in the house and the wife is exhausted can be given a contract in which she thanks him
+for the two things he does, and the arrangement of labour that produced her exhaustion is never examined.
+The model's focus on exchange can therefore make an unequal arrangement more tolerable without making it
+fairer.
+
+*The model's answer.* The standards clarification and the fairness literature within the behavioural
+tradition address exactly this, and IBCT's "unified detachment" invites the couple to examine the pattern
+together. The model does not require the therapist to accept the couple's arrangement as given; it requires
+the therapist to work on behaviour that both can change.
+
+*The fair verdict.* The answer is adequate in principle and frequently neglected in practice. The safeguard
+is procedural: the formulation must name the distribution of labour, time and money explicitly, and the
+therapist must ask whether the presenting complaint is a symptom of an arrangement that one partner has no
+power to renegotiate.
+
+### 8.10b Faith, and the limits of a technique
+
+A short section, because the model's secular reputation is misleading.
+
+**What the couple's faith might supply to the model.** A repertoire of shared, repeating, meaningful
+behaviours (prayer, fasting, attendance, hospitality); a standard for marriage that is explicit and shared
+rather than private and negotiable; a community that reinforces the couple's commitments; and a vocabulary
+for repair (forgiveness, repentance, patience) that is richer than the model's own.
+
+**What the model might supply to the couple.** Specificity about what happens on a Tuesday; a structure for
+raising a complaint without escalation; an acceptance of difference that is not resignation; and a plan that
+can be reviewed. Many religious couples have the vocabulary and not the procedure, and the procedure is what
+the model is good at.
+
+**The two errors.** The first is to treat the couple's faith as a resource to be instrumentalised: "pray
+together for ten minutes each evening, it will improve your scores". The second is to treat the couple's
+faith as an obstacle to be worked around: "let us leave religion out of this". The first instrumentalises
+something the couple holds sacred; the second excludes the most important structure in their relationship.
+
+**The rule.** The couple names the practices; the therapist asks what those practices do in the relationship;
+and where the couple wants to build on them, the model's technology — specificity, daily frequency,
+observability, review — is applied to something the couple already values. A contract in which one item is
+"we pray together after the children are asleep, on weeknights" is a behavioural item, a devotional practice
+and a relationship standard in one line, and it is usually the item that survives.
+
+### 8.11 Evidence note: the strongest base in the course
+
+**What exists.** Behavioural couple therapy and its cognitive and integrative descendants have the largest
+randomised evidence base of any model in this book. Trials and meta-analyses support their effectiveness for
+relationship distress, with effect sizes that are substantial and durable for a majority of couples; the
+model is recommended in clinical guidelines in several countries. There is also good evidence for couple
+therapy as a treatment for depression where relationship distress is present, and for improving
+relationship satisfaction alongside individual symptom change.
+
+**What the evidence shows about mechanisms.** Behavioural exchange, communication and problem-solving each
+contribute; the cognitive additions improve outcomes for couples whose distress is carried by attributions
+and standards; and IBCT performs comparably to traditional behavioural couple therapy with a different
+mechanism, which suggests that the common ingredient may be the structured, hopeful, collaborative frame
+rather than any single technique.
+
+**What the evidence does not show.** How to select couples who will not benefit; how to prevent the
+deterioration seen in a minority; whether the model works as well across cultures and literacy levels as it
+does in the trial populations, which were largely Western and educated; and whether the model's gains
+survive the removal of the therapist's structure, which is the clinical question every practitioner has.
+
+**The matrix cell.** "Strong randomised evidence for relationship distress and for depression treated in a
+couple format; mechanisms partly established; the model's limits are selection, culture and the
+generalisation of in-session skills to the home."
+
+**The practitioner's claim.** "I use this model when the couple want a structured, time-limited piece of
+work and the presentation is a pattern of exchange and attribution; I measure satisfaction at intake, mid
+and end; and I look for the presentations the model handles badly — coercion, trauma, and a distribution of
+power one partner cannot renegotiate — and refer or integrate accordingly." That sentence is the model's
+honest advertisement.
+
+### 8.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Behavioural exchange | Reciprocal small positive behaviours, chosen by the receiver, performed daily |
+| TBCT | Traditional behavioural couple therapy: exchange plus communication and problem-solving training |
+| Selective attention | Noticing negatives and missing positives; a perceptual maintenance mechanism |
+| Attribution | The explanation attached to a partner's behaviour |
+| Relationship standard | A belief about what a marriage should be, about intimacy, fairness or loyalty |
+| Skills deficit | The skill has never been learned |
+| Skills performance | The skill exists but is not used at home |
+| Speaker–listener | Structured turn-taking with reflection, using a talking object |
+| DEEP analysis | Differences, emotional sensitivities, external stress, pattern |
+| IBCT | Integrative behavioural couple therapy: acceptance alongside change |
+| Unified detachment | The couple examines the pattern together rather than each other |
+| Empathic joining | Each partner's behaviour described as understandable given its history and function |
+| Graded task | A small step toward a feared or avoided behaviour, reviewed and extended |
+
+### 8.13 Self-test
+
+1. Give the five criteria for a behavioural exchange item, and test one item against them.
+2. Distinguish a skills deficit from a skills performance problem, with a treatment consequence for each.
+3. What are the four moves of attribution retraining?
+4. Name the four columns of a DEEP analysis.
+5. Why is the negative ratio important, and what does the therapist do about it?
+6. What is IBCT's addition to the model, and what problem in the original did it address?
+7. State the two strongest critiques and the fairest verdict on each.
+8. What must a therapist ask in session one before running a communication exercise?
+
+**Answers.** 1. Small, frequent/daily, cheap, observable, chosen by the receiver. Test: "be more
+affectionate" fails observability and receiver choice; "put your hand on my shoulder when you pass me in the
+kitchen" passes all five. 2. A deficit means the skill was never learned and is treated by training; a
+performance problem means the skill exists but is unavailable at home and is treated by examining what
+happens at home — usually an emotional or contextual variable — rather than by more training. 3. Name the
+event; name the automatic explanation; generate three alternatives; test them against what happened. 4.
+Differences, emotional sensitivities, external stress, pattern. 5. Because distressed couples monitor
+injuries, so the relationship is experienced as mostly negative even when the acts are similar in number;
+the therapist first teaches perception — what the partner actually did — and then adds behaviours. 6.
+Acceptance of unsolvable differences, through empathic joining, unified detachment and tolerance building;
+it addressed the finding that change strategies fail and sometimes worsen distress where the difference is
+an incompatibility rather than a deficit. 7. Critique one — symptom-level change, risk of relapse; fairest
+verdict, strongest where the presentation involves trauma, violence or developmental injury. Critique two —
+a technology of adjustment that leaves injustice untouched; fairest verdict, adequate in principle,
+neglected in practice, and the safeguard is to name the distribution of labour, time and money in the
+formulation. 8. Whether either partner is afraid.
+
+### 8.14 Reflective task
+
+Write your own behavioural exchange contract, as though your household were the client: three items you
+would give and three you would want, each filmable, daily, cheap and free of criticism. Then ask the person
+you live with whether the items you chose for them are the ones they would have chosen. The gap between the
+two lists is the technique's central lesson, and it is usually larger than students expect.
+
+### 8.15 Readings for this week
+
+* **Jacobson & Margolin (1979)**, *Marital Therapy*, the original behavioural manual, read for the
+  technology.
+* **Christensen & Jacobson (2000)**, *Reconcilable Differences*, the IBCT statement and the most useful book
+  on this shelf for practice.
+* **Epstein & Baucom (2002)**, *Enhanced Cognitive-Behavioral Therapy for Couples*, for standards and
+  attributions in depth.
+* **Baucom, Shoham, Mueser, Daiuto & Stickle (1998)**, the review of empirical status, for the evidence
+  claims in 8.11.
+* **Christensen, Atkins, Baucom & Yi (2010)**, the IBCT trial, for how the model is tested.
+* **Gottman (1999)**, *The Marriage Clinic*, read critically: the observational claims are important and
+  some of the statistics have been contested.
+
+Read *Reconcilable Differences* with a couple in mind, and mark every place where the model would have to
+import something from Week 7. For the essay, cite the trials rather than the manuals when making outcome
+claims, and separate what the model has shown from what its practitioners believe. The reading-log question
+this week is: "what would this model have to ignore about this couple in order to work with them?" Your
+answer to that question is the beginning of an integrative practice.
+
+*Next: [Week 9 — Emotionally focused therapy](#week-9--emotionally-focused-therapy)*
 
 ---
 
