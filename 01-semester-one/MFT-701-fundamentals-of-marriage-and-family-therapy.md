@@ -7137,36 +7137,726 @@ to ask a family that is not yours, and in the form in which you would want to be
 ---
 ## Week 11 — What the evidence says
 
-Students often arrive believing either that therapy "just works" or that only manualised treatments do.
-The evidence is more interesting than either position.
+Students often arrive believing either that therapy "just works" or that only manualised treatments do. The
+evidence is more interesting than either position, and a clinician who cannot read it is dependent on whoever is
+willing to summarise it for them.
 
-![Figure 11.1 — Common factors and model effects, with a critique](../assets/figures/fig38-common-factors.svg)
+### 11.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Two bad positions | "It just works" and "only manuals work", stated and dismantled | Identify which they hold |
+| 10–25 | Designs and what they can answer | RCT, cohort, case series, qualitative, synthesis | Match six questions to six designs |
+| 25–40 | Effect sizes in plain language | d, NNT, percentages, translated into families | Convert four results into "out of ten families" |
+| 40–60 | The trial map | Eating disorders, conduct, substance use, psychosis, couple distress | Place each finding on a strength-of-evidence grid |
+| 60–75 | Reading a paper in twenty minutes | Live walkthrough of a real abstract and results table | Apply the six questions in pairs |
+| 75–85 | Feedback and outcome monitoring | The evidence for measuring | Design a session-by-session measure |
+| 85–90 | Set the assignment | The critical appraisal | Choose a paper |
+
+### 11.2 Why a clinician needs research literacy
+
+Four reasons, each of which will appear in an examination.
+
+**Because the family will ask.** "Does this work?" is the commonest question a family asks in the first session, and
+an answer of "yes, therapy helps" is not an answer. The clinician needs to know what works for what, with what
+effect, and for whom, in order to give an honest answer that includes uncertainty.
+
+**Because services are commissioned on evidence.** Funding, waiting lists and staffing follow evidence of
+effectiveness. A profession that cannot read the evidence cannot argue for its own resources, and family therapy
+has spent decades arguing from conviction rather than from data at exactly the wrong moments.
+
+**Because the alternative is fashion.** Without research literacy, practice follows the last conference, the most
+charismatic trainer, or the model a service happened to invest in. The result is a profession in which whole
+counties practise one way and whole counties another, with no one able to say which is better.
+
+**Because clients are harmed by ineffective treatment.** The most important finding in psychotherapy research over
+the last thirty years is not that therapy works; it is that some clients deteriorate in treatment, that therapists
+often fail to notice, and that routine feedback reduces the harm. A clinician who does not measure cannot know
+whether they are helping the family in front of them.
+
+### 11.2a How evidence gets into a service
+
+A student who understands the evidence but not how services change will spend a career frustrated. Four mechanisms,
+and the clinician's place in each.
+
+**Commissioning.** Services are funded against specifications that cite guidelines, waiting times and outcome
+targets. A clinician who can read a specification and contribute outcome data is in a position to influence what is
+commissioned; a clinician who cannot is dependent on others' descriptions of what works. This is why routine
+measurement matters beyond the individual case: it is the profession's evidence in negotiations.
+
+**Fidelity and adaptation.** Evidence-based models are usually tested with training, supervision and monitoring of
+fidelity — the degree to which the model is delivered as designed. Services often adopt the name of a model without
+the training and supervision, and then report that the model does not work. The clinician's question about any new
+service should be: what training, what supervision, and how will fidelity be monitored?
+
+**Scale-up.** Programmes that work in a research trial frequently produce smaller effects when delivered at scale:
+the therapists are less selected, the supervision is thinner, the population is broader, and the organisational
+support is weaker. Multisystemic therapy's large-scale rollouts are the standard cautionary example. This is not an
+argument against evidence-based practice; it is an argument for measuring outcomes continuously, in the service as
+delivered.
+
+**The professional's position.** The clinician is not a passive recipient of policy. Three things are within reach
+of almost everyone: measure your own outcomes; bring them to team meetings and supervision; and learn to write a
+one-page summary that a manager can use. The alternative — waiting for the research to be translated by somebody
+else — is what has produced the gap between what is known and what is done.
+
+### 11.3 Designs, and the questions they can answer
+
+A design is not "better" or "worse" in the abstract; it is better or worse for a question. Six questions and the
+designs that answer them.
+
+**Question 1: does it work, compared with what would otherwise happen?** Answer: a randomised controlled trial
+(RCT). Families are allocated at random to the treatment or to a comparison (waiting list, treatment as usual,
+another treatment). Randomisation is what allows causal claims, because it distributes unknown confounders across
+groups. The trial answers the question for the population and the conditions studied, and no further.
+
+**Question 2: does it work in ordinary services, with ordinary families?** Answer: a pragmatic trial, or a large
+practice-based cohort. Efficacy (can it work under ideal conditions?) and effectiveness (does it work in the clinic
+on a Tuesday?) are different questions, and the gap between them is one of the recurring disappointments of the
+field.
+
+**Question 3: what happens over years?** Answer: a cohort or a long-term follow-up of a trial sample. Attrition is
+the enemy; a five-year follow-up that retains 40% of the sample tells you about the 40%.
+
+**Question 4: how does it work?** Answer: a mediation analysis, a process study, or a qualitative study. Mechanisms
+are examined by measuring the hypothesised mediator and testing whether change in it precedes change in outcome.
+Most family therapy models have weak mechanism evidence relative to their outcome evidence.
+
+**Question 5: what is it like to receive it?** Answer: qualitative methods — interviews, focus groups, thematic or
+narrative analysis. These cannot tell you whether a treatment works, and they are the only way to find out why
+families disengage, what the experience of being assessed feels like, or how a model is actually delivered.
+
+**Question 6: what does the whole body of evidence say?** Answer: a systematic review with meta-analysis, or a
+guideline. The quality of the answer depends on the quality of the included studies, on publication bias, and on
+whether the reviewers looked for the studies that did not work.
+
+**The hierarchy, stated honestly.** Systematic reviews of well-conducted RCTs sit at the top for questions of
+effect; qualitative studies sit at the top for questions of experience; a single case series is the best available
+evidence for a rare presentation in your clinic. Any hierarchy that ranks designs without reference to the question
+is a hierarchy of prestige, not of knowledge.
+
+### 11.4 Effect sizes in plain language
+
+The most useful skill in this week is converting a statistic into a sentence a family could understand.
+
+**What d means.** Cohen's d expresses the difference between two groups in standard deviation units. Roughly: d =
+0.2 is small, d = 0.5 moderate, d = 0.8 large. In practice, for psychotherapy, meta-analytic effects for depression
+and anxiety cluster around 0.5 to 0.8; couple therapy for relationship distress shows effects in the moderate-to-large
+range; family-based treatment for adolescent anorexia is associated with remission rates substantially higher than
+comparison treatments at end of treatment and follow-up.
+
+**Converting d to something a family can picture.** A d of 0.5 means that the average treated family is better off
+than about 69% of untreated families. In a group of ten comparable families, roughly seven would do better with
+treatment than the average family without it. That is a meaningful benefit and it is not a cure, and saying both is
+the professional's obligation.
+
+**What NNT means.** The number needed to treat is the number of families who must receive the treatment for one
+additional good outcome. An NNT of 5 means that for every five families treated, one does better than they would
+have done otherwise; the other four either would have improved anyway or do not benefit. Families find this framing
+honest and clinicians find it uncomfortable, which is a sign it is worth using.
+
+**What p-values do not tell you.** A p-value is the probability of the data, or more extreme data, if the null
+hypothesis were true. It says nothing about the size of the effect, nothing about whether the effect matters, and
+nothing about the individual family. A trial with 4,000 families will produce p < 0.001 for an effect too small to
+notice, and a trial with 30 families will produce p = 0.4 for an effect that transforms lives. Read the effect size
+and the confidence interval first.
+
+**Confidence intervals, in one sentence.** The 95% confidence interval is the range of effects compatible with the
+data; a wide interval means the study cannot tell you much, and an interval that crosses zero means the study cannot
+exclude no effect.
+
+> **EXERCISE** — Take any four results from this week's reading, and write for each: one sentence a family could
+> understand, one sentence a commissioner could understand, and one sentence of honest limitation. The third is the
+> one that marks you as a professional.
+
+### 11.4a Reading a forest plot
+
+The forest plot is the signature graphic of a meta-analysis and the quickest way to see a body of evidence at once.
+
+**What is on the plot.** Each study is a horizontal line: the point estimate of its effect is a square (sized by the
+study's weight), and the line through it is the confidence interval. The vertical line at the centre is "no effect".
+A pooled diamond at the bottom summarises the overall estimate.
+
+**How to read it in four looks.**
+
+*Look 1 — where do the squares sit?* If most squares are on one side of the no-effect line, the body of evidence
+points one way. If they are scattered across it, the evidence is inconsistent, and the pooled estimate conceals the
+inconsistency.
+
+*Look 2 — how long are the lines?* Long lines mean small studies with imprecise estimates. A plot dominated by long
+lines cannot support a confident conclusion, however impressive the diamond.
+
+*Look 3 — how wide is the diamond?* The diamond is the pooled confidence interval. Narrow means precise; wide means
+the meta-analysis cannot tell you much, usually because there are few studies or they disagree.
+
+*Look 4 — is there an asymmetry?* If small studies cluster on the positive side and large studies sit nearer the
+no-effect line, suspect publication bias. Funnel-plot asymmetry is the formal version of the same observation.
+
+**What the plot cannot show.** Whether the included studies measured what you care about; whether the interventions
+were delivered as designed; whether the participants resemble your clinic; and whether the authors selected which
+studies to include. All four are in the text, and all four matter more than the diamond.
+
+### 11.5 The map of the evidence
+
+A brief, honest map of what family and couple therapy has, organised by presentation. Students should learn the
+shape of this map and the two or three key references for each entry, not memorise numbers.
+
+**Relationship distress in couples.** The strongest evidence base in the field. Behavioural couple therapy,
+cognitive-behavioural couple therapy and emotionally focused therapy all show moderate-to-large effects on
+relationship satisfaction in randomised trials, with a substantial minority of couples deteriorating or not
+responding, and with relapse a real phenomenon over one to two years. The comparative evidence between bona fide
+couple therapies is weak; the alliance and the couple's readiness matter a great deal.
+
+**Adolescent behaviour problems, including conduct disorder.** Family-based approaches — parent management training,
+functional family therapy, multidimensional family therapy, multisystemic therapy — have good evidence for reducing
+behaviour problems, with effect sizes in the moderate range, and with the strongest evidence where the intervention
+is intensive and delivered with fidelity. The evidence is weaker for adolescents with callous-unemotional traits and
+for those whose difficulties are embedded in severe neighbourhood disadvantage, where effects have been disappointing
+in large-scale rollouts.
+
+**Adolescent substance misuse.** Multidimensional family therapy, functional family therapy and brief strategic
+family therapy have trial evidence for reducing use, with effects that are typically modest and often not maintained
+without continued support. The comparison with individual treatment is favourable; the comparison with doing nothing
+is more favourable still.
+
+**Eating disorders.** Family-based treatment (the Maudsley approach) for adolescent anorexia nervosa is a first-line,
+guideline-endorsed intervention, with evidence comparable or superior to individual treatment at end of treatment
+and at follow-up. For bulimia, family involvement is a component of several evidence-based approaches. This is the
+clearest example in the field of a specific family intervention for a specific presentation, and it earns its place
+in the curriculum.
+
+**Psychosis.** Family interventions combining psychoeducation, communication training and problem-solving reduce
+relapse rates in schizophrenia when added to medication, with a number needed to treat in the range of five to
+seven families for one relapse prevented over nine to twelve months. The evidence is old, replicated, and
+under-implemented, which is itself a lesson about services.
+
+**Depression.** Couple therapy is an effective treatment for depression where the relationship is distressed, with
+effects comparable to individual therapy in several trials, and with the additional benefit of improving the
+relationship. Behavioural activation delivered to a couple is a legitimate and well-evidenced option.
+
+**Child and adolescent anxiety and depression.** Family involvement in cognitive-behavioural treatment improves
+outcomes modestly; systemic family therapy has a smaller but real evidence base; the strongest evidence in this
+area concerns parental accommodation of anxiety, which is a family-level mechanism that can be addressed directly.
+
+**Physical health and long-term conditions.** Family interventions improve adherence and outcomes in diabetes,
+asthma and some chronic pain conditions, with small-to-moderate effects. This is an area of growing importance in
+services with integrated care.
+
+**What the map teaches.** Family therapy is not one treatment with one evidence base; it is a family of methods with
+strong evidence in some presentations, moderate in others, and thin in the areas where the profession most wants
+recognition (for example, complex trauma in adults, where individual and phase-based approaches dominate). Honesty
+about the thin areas is part of competence.
 
 **Four findings worth carrying into practice.**
 
-1. **Family and couple therapies work.** Meta-analyses consistently find moderate-to-large effects for
-   couple therapy in relationship distress, and for family-based treatments in adolescent behaviour
-   problems, eating disorders (family-based treatment for anorexia is a first-line intervention),
-   substance misuse and psychosis relapse.
-2. **Alliance matters, and it is relational.** In couple and family work, the alliance is not one
-   relationship but several, and *shared* sense of purpose predicts outcome better than any single
-   dyad's alliance with the therapist.
-3. **Model differences are smaller than model loyalties suggest.** Common-factors research attributes
-   much of the variance to client factors, alliance and expectancy. Technique is not irrelevant: it
-   organises what the therapist notices and does, and it matters more for specific problems.
-4. **Drop-out is the silent failure.** In couple and family work, 20–40% of families end therapy
-   unilaterally. Attendance, engagement and early change are the best predictors of retention. Track
-   them.
+1. **Family and couple therapies work.** Meta-analyses consistently find moderate-to-large effects for couple therapy
+   in relationship distress, and for family-based treatments in adolescent behaviour problems, eating disorders
+   (family-based treatment for anorexia is a first-line intervention), substance misuse and psychosis relapse.
+2. **Alliance matters, and it is relational.** In couple and family work, the alliance is not one relationship but
+   several, and *shared* sense of purpose predicts outcome better than any single dyad's alliance with the therapist.
+3. **Model differences are smaller than model loyalties suggest.** Common-factors research attributes much of the
+   variance to client factors, alliance and expectancy. Technique is not irrelevant: it organises what the therapist
+   notices and does, and it matters more for specific problems.
+4. **Drop-out is the silent failure.** In couple and family work, 20–40% of families end therapy unilaterally.
+   Attendance, engagement and early change are the best predictors of retention. Track them.
 
-**How to read a paper in ten minutes.** Read the abstract; then the design (who, how many, compared to
-what); then the outcome measure (does it measure what you care about?); then the effect size, not the
-p-value; then the limitations; then ask whether the sample resembles your clinic.
+### 11.5a Two studies that changed practice, described properly
 
-> **CRITICAL READING** — Choose one randomised trial of a family therapy model and one qualitative study
-> of family therapy experience. Write 500 words comparing what each can and cannot tell you.
+Learning the detail of two landmark studies does more for research literacy than learning the names of twenty.
+
+**Study 1 — family therapy for adolescent anorexia nervosa (Russell and colleagues, 1987).** Eighty patients with
+anorexia nervosa were randomised to family therapy or to individual supportive therapy after admission and
+refeeding. Both treatments were delivered over about a year, with family therapy beginning as a single family
+session and developing into conjoint family work focused on the parents taking charge of the patient's eating. The
+central finding was an interaction: in patients whose illness had begun before the age of 19 and whose duration was
+under three years, family therapy produced substantially better outcomes at one year; in patients with a longer
+illness, individual therapy did at least as well. The study was small, conducted in one centre by a committed team,
+and used a comparison treatment that critics argue was not designed as an active competitor. It also changed the
+treatment of adolescent anorexia nervosa permanently, and later trials and replications supported its central
+finding. It is a model of a study that is simultaneously underpowered by modern standards and enormously influential,
+because its finding was specific, plausible and clinically decisive.
+
+**Study 2 — family intervention for schizophrenia relapse (Leff and colleagues, 1982, and the subsequent
+replications).** Patients with schizophrenia living in households characterised by high expressed emotion —
+criticism, hostility and emotional over-involvement — have substantially higher relapse rates than patients in
+low-EE households. Leff's trial randomised patients discharged to high-EE homes to a family intervention (education,
+a relatives' group, and sessions at home) or to routine care. Relapse over nine months was markedly lower in the
+intervention group, and the finding was replicated across several countries with a consistent effect on relapse. The
+number needed to treat is in the range of five to seven families for one relapse prevented. What makes this study
+instructive is the mechanism: the intervention did not change the illness, it changed the emotional environment in
+which the illness was managed. It is also instructive in another way: the intervention was never widely implemented,
+for reasons that have nothing to do with evidence and everything to do with service design, professional boundaries
+and the difficulty of working with families in acute psychiatric settings.
+
+**What the two studies teach.**
+
+*First, the interaction matters.* The anorexia trial's finding is conditional on age and duration of illness; a
+clinician who applies the result to a 35-year-old with a twelve-year history is misreading the evidence.
+
+*Second, mechanism is not optional.* The expressed-emotion work identified a modifiable family process and changed
+it; that is a stronger scientific story than a model-level claim that family therapy works.
+
+*Third, implementation is a separate problem.* A treatment can be well evidenced and unused. The gap between
+evidence and practice is the subject of the rest of a professional training, and it is not closed by more evidence.
+
+### 11.6 Reading a paper in twenty minutes
+
+The method, taught as a sequence, so that it can be done under time pressure in a clinic.
+
+**Minutes 1–3: the abstract, backwards.** Read the conclusion first, then the results, then the method. Abstracts
+are written to persuade; reading backwards makes the persuasion easier to see. Ask: what did they find, and what
+did they do to find it?
+
+**Minutes 3–5: the design paragraph.** Who was recruited, from where, with what inclusion and exclusion criteria,
+and how many dropped out. The exclusion criteria tell you who was *not* studied, which is how you decide whether the
+sample resembles your clinic. A trial that excluded families with active substance misuse, no fixed address, or a
+child under six cannot tell you about the families you most often see.
+
+**Minutes 5–8: the comparison.** What was the treatment compared with? Waiting list comparisons inflate effects;
+treatment-as-usual comparisons vary enormously depending on what usual treatment is; head-to-head comparisons between
+active treatments are the most informative and the rarest.
+
+**Minutes 8–12: the outcome measure.** Does the measure capture what the family cares about? Who completed it — the
+parent, the child, the therapist, or an independent assessor? Blinded assessors matter, and in family therapy they
+are hard to maintain, because families mention their treatment.
+
+**Minutes 12–15: the numbers.** Effect size, confidence interval, the proportion who improved, the proportion who
+deteriorated, and the number who dropped out. The last two are routinely omitted from abstracts and are often the
+most clinically important.
+
+**Minutes 15–18: the limitations.** Read the authors' own limitations section, then add the two they did not
+mention: publication bias (are we reading this because it worked?) and allegiance (do the authors have a stake in
+the model they tested?).
+
+**Minutes 18–20: the verdict.** Write three sentences: *this study shows X, with these limits; I would use it when
+Y; it would not apply to Z.* If you cannot write the third sentence, you have not read the paper — you have read its
+abstract.
+
+**The six questions, condensed.** Who? Compared with what? Measured how? How big? How sure? Does it fit my clinic?
+
+### 11.6a Where to find the evidence quickly
+
+A clinician does not need to read the primary literature every week; they need to know where the good summaries are
+and how to check them.
+
+| Source | What it is good for | Watch for |
+|---|---|---|
+| National guidelines (NICE, SIGN, APA, and local equivalents) | The current standard of care for a defined presentation | Lag; local applicability; the guideline's scope |
+| Cochrane and Campbell reviews | Questions of effect, with explicit methods | Reviews can be out of date; check the date |
+| Professional association guidance (for example, family therapy associations) | Competence frameworks and model-specific summaries | Allegiance |
+| Systematic review databases and evidence maps | Finding what exists before reading anything | Coverage of non-English and non-Western literature |
+| A good textbook, current edition | The shape of a field in a week | Lag of three to five years |
+| A trusted colleague with a special interest | Orientation and a shortlist | The same biases as yours |
+| The family in front of you | Whether any of it applies | Small n, and no comparison group |
+
+**The habit.** For each presentation you meet regularly, keep a one-page summary: the recommended first-line
+approach, the key trial or review, the main alternative, the main uncertainty, and the reference. Update it once a
+year. Five of these pages will cover most of a general family therapy caseload, and they are worth more than a shelf
+of unread journals.
+
+### 11.7 Annotated abstract: reading between the lines
+
+The following is a composite abstract constructed for teaching, containing the features students most often miss.
+
+> "In a randomised controlled trial, 120 families with a child aged 11–15 referred for behavioural difficulties were
+> allocated to family therapy (n = 60) or a waiting list (n = 60). The primary outcome was the child's behaviour
+> score at 12 weeks, rated by parents. Family therapy was superior (mean difference 4.2 points, 95% CI 1.1 to 7.3, d
+> = 0.42). Secondary outcomes included attendance at school. Twenty-two per cent of the family therapy group did not
+> complete the intervention."
+
+**What the abstract tells you.** There was a trial; it was randomised; the comparison was a waiting list; the
+outcome was parent-rated; the effect was modest; a fifth of the treated families did not complete the treatment.
+
+**What it does not tell you.** Who rated the child (the parents, who are not blind to treatment). What happened to
+the waiting-list group afterwards (did they get the treatment, and when?). What "family therapy" consisted of
+(model, dose, fidelity). What happened to the school attendance outcome (it appears in the secondary list and then
+disappears from the abstract, which usually means it did not reach significance). Whether the improvement was
+maintained beyond twelve weeks.
+
+**What the numbers mean, in plain terms.** A d of 0.42 means the average treated child was better off than about
+66% of untreated children on the parent-rated measure. The confidence interval excludes zero, so the effect is
+unlikely to be chance, and it is small enough that six or seven families in ten would not have shown the benefit.
+The 22% dropout means that one family in five did not get the full dose, which is entirely typical and is the
+finding a service should act on.
+
+**The question to ask the authors.** "What happened to the families who dropped out, and how does the effect look if
+you analyse them as treatment failures?" The answer is often in the paper's supplementary tables, and it is the
+answer that matters for a clinic.
+
+### 11.7a Appraising a qualitative study
+
+Qualitative research answers questions that trials cannot, and it has its own quality criteria. Five questions.
+
+**1. Is the question appropriate to the method?** "How do families experience a first session in which a therapist
+asks about the father's drinking?" is a qualitative question. "Does asking about drinking improve outcomes?" is not.
+
+**2. Is the sampling described and justified?** Who was interviewed, how were they recruited, and who declined?
+Families who agree to be interviewed about therapy are not a random sample of families in therapy, and the paper
+should acknowledge it.
+
+**3. Is the analysis transparent?** Were transcripts coded systematically, by more than one person, with the codes
+and themes shown? Is there a "audit trail" from data to interpretation? Are negative cases discussed?
+
+**4. Does the paper stay close to the data?** Good qualitative papers quote extensively and distinguish what
+participants said from what the authors concluded. Look for the place where the authors' interpretation outruns the
+quotes.
+
+**5. Is reflexivity present?** Did the authors consider their own position — as clinicians, as researchers, as
+members of the same or a different culture as the participants — and its effect on what they saw?
+
+**What a good qualitative study gives a clinician.** The vocabulary of the family's experience, which is otherwise
+invisible; the reasons for dropout, which outcome data record as a number; the details of what helps, which families
+describe in ways that no questionnaire anticipates. It will not tell you what to do, and it will change how you do
+it.
+
+### 11.8 Routine outcome monitoring and feedback
+
+The most robustly supported innovation in everyday practice is not a model; it is measurement with feedback.
+
+**What it is.** Families complete a short measure every session or every few sessions — the ORS and SRS, the SCORE-15
+or its session-by-session short form, symptom measures where relevant. The scores are plotted, compared with an
+expected trajectory, and shown to the clinician and the family. Where progress is off-track, the clinician changes
+something.
+
+**What the evidence shows.** Feedback to clinicians improves outcomes overall, with the largest benefits for clients
+who are not progressing or are deteriorating — that is, exactly the clients a clinician's judgement is most likely to
+miss. Several trials find that feedback alone reduces deterioration rates; the effects on the average client are
+smaller.
+
+**What it looks like in a family session.** Two minutes at the start: each member completes the measure; the therapist
+notes the scores; at the end, one question. "Your ratings went from 26 to 21 this fortnight — what has been different?
+And yours went from 18 to 20, which suggests something has got harder; is that right?" The measure becomes a third
+participant, and families often say things to the measure that they would not say to the therapist.
+
+**The discipline required.** Plot the scores; do not merely file them. Use the scores in supervision. Have an agreed
+response to deterioration, which should include a review of the formulation rather than a repetition of the same
+intervention. And never use the measure as a test the family can fail.
+
+**The limits.** Measures are culturally loaded, they privilege the presenting symptom, and they cannot capture what
+matters most to many families. They are an instrument, not a verdict — and an instrument in the hands of a
+clinician who also listens.
+
+### 11.8a Choosing measures for a family clinic
+
+A small, workable measurement set, with the trade-offs stated.
+
+**The session-by-session pair.** The Outcome Rating Scale and Session Rating Scale take under two minutes each, are
+free for individual use in many jurisdictions, and produce a plot the family can see. Their weakness is that they are
+very short and give no detail about what changed.
+
+**The family-functioning measure.** The SCORE-15 gives fifteen items and several perspectives, including the
+family's own account of strengths and difficulties, and it has been used widely in UK family therapy services. It is
+completed at assessment, mid-point and end, rather than every session.
+
+**The symptom measure.** Where the presentation is a defined condition — depression, anxiety, eating disorder,
+conduct problems — use the standard measure for that condition, so that your outcomes are comparable with the
+literature and with other services.
+
+**The family's own measure.** Two or three statements written by the family, scored weekly. This is the measure that
+families find most meaningful, and the one that most often captures the change the standard measures miss.
+
+**The rule.** Two minutes per session, one fuller measure at assessment and review, one family-defined target, and a
+plot that is shown to the family. Anything more elaborate will be abandoned within a month; anything less will leave
+you guessing.
+
+### 11.9 Common factors, specific factors, and the therapist
+
+Three findings about *how* therapy works, each contested and each useful.
+
+**The common-factors position.** Client factors, the alliance, the therapist's empathy and the family's expectancy
+account for a large share of outcome variance; model differences account for a smaller share. The position is
+supported by comparative trials that find few differences between bona fide treatments, and by meta-analytic work on
+alliance.
+
+**The specific-factors position.** Technique matters, particularly for specific presentations: exposure for phobias,
+family-based treatment for adolescent anorexia, behavioural methods for conduct problems, communication and
+problem-solving training for expressed emotion in psychosis. The evidence for specificity is strongest where the
+disorder is well defined and the mechanism is well understood.
+
+**The therapist-effects position.** The most uncomfortable finding in the field: therapists differ substantially in
+their outcomes, and the differences are not explained by training, experience or theoretical orientation. Some
+therapists reliably produce better outcomes with the same clients and the same model; some reliably produce worse,
+and appear unaware of it. Deliberate practice with feedback is the current best candidate for improving this.
+
+**What a trainee should take from all three.** Work on the alliance, because it is the factor you can influence
+session by session; learn the specific methods that have evidence for the presentations you meet, because they
+organise your attention and your actions; and measure your own outcomes, because you cannot otherwise know which
+therapist you are.
+
+> **DEBATE** — If therapist effects are larger than model effects, what is the point of learning a model? Defend your
+> answer with reference to the evidence.
+
+### 11.9a The replication problem, and what it means for a trainee
+
+Several of the most celebrated findings in psychology and psychotherapy have proved harder to replicate than their
+original reports suggested, and the field has responded with pre-registration, larger samples and a harder look at
+statistical practice.
+
+**Why it matters clinically.** A trainee who learns a technique from a single impressive study may be learning an
+artefact. The defences are simple: prefer systematic reviews to single studies; prefer large samples to small; read
+the effect size and the confidence interval rather than the p-value; and be suspicious of any result that arrives
+with a marketing campaign attached.
+
+**Why it does not license nihilism.** Replication problems are concentrated in social psychology and in some
+individual-difference research. The core findings of psychotherapy outcome research — that therapy works, that the
+alliance matters, that family interventions help in the presentations described in 11.5 — are supported by multiple
+independent trials, by different research groups, and by practice-based data. The evidence is uneven, not empty.
+
+**The professional's habit.** Ask of any striking claim: has it been found by someone other than the people who
+invented the method? That single question will protect you from most of the field's enthusiasms, and it is the reason
+this week's readings include critics of the models we teach.
+
+### 11.9b Two measures of the alliance, and how to use them
+
+The Session Rating Scale and the Revised Helping Alliance Questionnaire both measure the therapeutic relationship;
+the first is four visual-analogue items, the second is longer and includes goal and task agreement. In family work the
+therapist should consider three perspectives rather than one.
+
+**Who to ask.** The adult who organised the referral, the adult who did not, the child over about nine, and — where
+relevant — the adolescent who has been brought rather than consulted. A family in which the mother rates the alliance
+at 34/40 and the father at 16/40 is a family in which one member is likely to drop out, and the rating tells you
+which.
+
+**When to ask.** Every session for the first three, then every third. Two minutes at the end of the session, with the
+family completing it in the room.
+
+**What to do with a low score.** Not to reassure. The useful sequence is: thank the member; ask what would have made
+the session more useful; ask what the therapist did that made it less useful; and change one thing next time,
+visibly. Families notice when a therapist acts on a low rating, and the act of doing so frequently raises the rating
+more than any technique.
+
+**What to record.** The score and the action. "Father 16/40 at session two; said he felt 'talked over'; agreed that I
+would ask him first at the start of each session. 29/40 at session three." That sentence, in a supervision file, is
+worth more than a page of impressions.
+
+**The caution.** A high alliance score is not evidence of good therapy; families can be warmly engaged in work that
+is not helping. Measure outcome alongside alliance, and when the two disagree, trust the outcome and interrogate the
+alliance.
+
+### 11.10 The family's own evidence
+
+Research evidence is population evidence; it is not evidence about this family. Three ways to build the family's own
+data into practice.
+
+**Single-case designs.** A baseline, an intervention, a return or a comparison, and repeated measurement across all
+three. In a family setting, a two-week baseline of the target behaviour, followed by a specific intervention, with
+the family rating the target weekly, is a legitimate and under-used method. It answers the question the family is
+actually asking: "is this working for us?"
+
+**Idiographic measures.** Ask the family at the outset to write the two or three statements that would tell them
+things had improved — "we would eat together twice a week", "I would ask once and she would answer". Score them
+weekly. The measure is specific to the family, which is its point.
+
+**Practice-based evidence.** A service that routinely collects outcome data can compare its own results with
+published benchmarks, identify which presentations it serves well and which it does not, and adjust. This is how a
+clinic becomes a learning organisation rather than a place where fashions arrive from outside.
+
+**The professional's stance.** "The research tells me that about seven families in ten with this presentation benefit
+from this kind of work. I do not know yet whether you are one of them; I would like us to measure it together, and
+review in six weeks." That sentence contains population evidence, uncertainty, and a commitment to the family's own
+data, and it is the shape of an evidence-informed practice.
+
+### 11.10a The one-page evidence sheet
+
+The practical output of this week is a personal evidence sheet for one presentation you meet regularly. The format is
+deliberately short.
+
+**Heading:** the presentation, and the age group.
+
+**What is recommended first-line, and by whom.** One or two sentences, with the guideline and its date.
+
+**The key trial or review, in three sentences.** What was done, what was found, and how strong the finding is.
+
+**The main alternative, and when to choose it.** For example: individual therapy where the family cannot be engaged;
+a supported-carer model where the parents cannot take the required role.
+
+**The main uncertainty.** What the evidence does not settle.
+
+**What I will measure, and when I will review.** The measure, the interval, and the criterion for changing course.
+
+**One reference, and one person I can ask.**
+
+**Why the sheet rather than a reading list.** Because a clinician under pressure will consult a page, not a
+literature. Because writing the sheet forces the four judgements that matter — what is first-line, what is the
+alternative, what is uncertain, and what will I measure — and because it is revisable when the guideline changes or
+when your own data disagree with it.
+
+> **TASK** — Complete one evidence sheet for a presentation you have seen in placement. Bring it to the seminar and
+> exchange with a peer working with a different presentation. Then answer: which of the two sheets would you trust if
+> you were the family?
+
+### 11.11 Six errors in using evidence
+
+1. **Overclaiming.** "Family therapy is proven for depression" when the evidence concerns couple therapy for
+   depression in distressed relationships, in adults, in trials of twelve to twenty sessions. Fix: say what the
+   evidence covers, and name the boundary.
+2. **Cherry-picking.** Citing the trial that supports the model and omitting the two that did not. Fix: when you
+   cite evidence for a method, name the best study against it and say why you still use the method.
+3. **Dismissing evidence because it is inconvenient.** "That trial used a manual, and real families are not like
+   that." Sometimes a legitimate objection, usually a defence. Fix: write down the specific reason the evidence does
+   not apply, and check whether the same reason would excuse a method you dislike.
+4. **Confusing the model with the evidence.** Assuming that because family-based treatment works for adolescent
+   anorexia, family therapy works for everything, or that because one trial failed, the approach is worthless. Fix:
+   keep the map of the evidence by presentation, and consult it before making claims.
+5. **Ignoring dropout.** Reporting outcomes only for completers, or planning a service on the assumption that
+   families attend. Fix: treat attendance as an outcome, and measure it.
+6. **Evidence without measurement.** Reading the literature diligently and never measuring your own results. Fix:
+   the family's own data, session by session, is the minimum standard of an evidence-informed clinician.
+
+### 11.11a The journal club that works
+
+Most journal clubs fail: one person presents, everybody nods, nobody changes anything. A workable format, used in
+several training programmes, takes forty-five minutes and changes practice.
+
+**Before (10 minutes).** Everyone reads the abstract and the results table only. Everyone writes down, in one
+sentence, what the study found and one question they would ask the authors.
+
+**Presentation (10 minutes).** One person presents using the six questions of 11.6 and is not allowed to speak for
+more than ten minutes. The discipline is the point: a paper cannot be presented properly in ten minutes unless it has
+been understood.
+
+**The clinic test (10 minutes).** Each participant names one family on their caseload to whom the study would or would
+not apply, and says why. This step is what converts reading into clinical reasoning, and it is the step most clubs
+omit.
+
+**The disagreement (10 minutes).** The presenter must argue the strongest case *against* the study's conclusion, and
+somebody else must defend the study. The roles are assigned, not chosen.
+
+**The action (5 minutes).** One change to practice, however small, with a date: a measure to be added, a referral
+criterion to be reviewed, a family to be discussed in supervision. The change is recorded, and at the next journal
+club the first item is whether it happened.
+
+**Why this works.** Because it is short, because it requires reading, because it forces the clinic test, and because
+it ends in a change rather than in agreement. A team that runs this monthly will accumulate twelve practice changes a
+year, which is more than most services achieve in a decade of training days.
+
+### 11.12 Culture, faith and the evidence
+
+The evidence base is not culturally neutral, and the critique is now well developed.
+
+**Who was in the trials.** Most psychotherapy trials are conducted in high-income countries, with samples that are
+disproportionately white, educated, urban and partnered. The extent to which findings generalise to families in
+Ibadan, to families with strong religious commitments, or to families in multigenerational households is an empirical
+question that has not been adequately studied. The clinician's obligation is to apply the evidence thoughtfully and
+to monitor the outcome, not to assume either that it applies or that it does not.
+
+**What counts as an outcome.** Trials privilege symptom scores and relationship satisfaction, both measured with
+instruments developed in the same settings. A family may care about whether the household is peaceful, whether the
+children are respectful, whether the family's standing is intact, or whether a debt has been paid. The movement for
+culturally grounded and locally defined outcomes is a corrective, and it has not yet changed the main evidence base.
+
+**The cultural validity of measures.** A questionnaire translated into another language is not necessarily measuring
+the same construct; a scale developed to assess "family functioning" in one setting may describe a different
+construct in another. Where measures are used across cultures, they should be validated locally, and the clinician
+should ask what the item means to this family rather than assuming.
+
+**Faith and the evidence.** Where families hold spiritual explanations, the evidence base for collaborative
+approaches — working with religious coping rather than against it, and integrating spiritual and psychological
+frameworks with consent — is small but encouraging, particularly in depression and substance use. The relevant
+professional skill is not to adjudicate between frameworks but to work with the family's own resources while
+remaining honest about what the evidence supports.
+
+> **AUDIT** — Take any guideline you use. Count the studies cited from outside North America and Europe. Then ask
+> what that count implies for a clinic in Ibadan, and write 150 words to a colleague explaining how you will use the
+> guideline anyway.
+
+### 11.13 Evidence note: where the field is genuinely contested
+
+An honest account of four live disagreements, because students should know that the field is not settled and that
+competent clinicians disagree.
+
+**Contest 1: family-based treatment versus individual treatment for adolescent anorexia.** Family-based treatment
+has strong trial support and is recommended first-line in several guidelines. Critics argue that the trials are
+small, that the comparison treatments were not always optimally delivered, that the model's emphasis on parental
+control of eating is difficult in some family configurations, and that newer approaches (for example, supported
+carer models and adolescent-focused therapy) perform comparably in some trials. The practical position is that
+family-based treatment is a strong first-line option and not the only defensible one.
+
+**Contest 2: do model differences matter?** Comparative trials frequently find small or no differences between bona
+fide therapies, and common-factors researchers argue that this reflects the dominance of shared mechanisms. Others
+point to specific effects in specific conditions, to the poor quality of many comparative trials, and to the fact
+that "no difference" in a small trial is not evidence of equivalence. The practical position: model matters most for
+specific presentations; alliance and feedback matter everywhere.
+
+**Contest 3: early intervention and prevention.** Programmes for couple relationship education and for preventing
+child behaviour problems show small effects in universal populations and larger effects in targeted, higher-risk
+groups. Whether the small universal effects justify the cost is a policy question, not a clinical one, and clinicians
+should be careful not to overstate prevention claims.
+
+**Contest 4: the feedback effect.** The routine outcome monitoring literature is generally positive, with some
+large trials finding smaller effects than the early studies and some finding none once clinician training and
+attention are controlled. The most defensible claim is that feedback helps most for clients who are not
+progressing, and that the mechanism is the clinician's attention rather than the numbers.
+
+**What to do with the contested areas.** State the uncertainty when you teach or when a family asks; use the
+intervention that has the best evidence and fits the family; measure the result; and do not let loyalty to a model
+substitute for attention to the evidence.
+
+### 11.14 Key terms
+
+| Term | Definition |
+|---|---|
+| Efficacy | Whether an intervention works under ideal, controlled conditions |
+| Effectiveness | Whether an intervention works in ordinary services with ordinary clients |
+| Randomisation | Allocation by chance, which distributes confounders across groups |
+| Effect size (d) | The difference between groups in standard deviation units |
+| Number needed to treat | How many clients must be treated for one additional good outcome |
+| Confidence interval | The range of effects compatible with the data at a given probability |
+| Mediator | A variable through which an effect is transmitted |
+| Moderator | A variable that changes the size of an effect for different groups |
+| Publication bias | The tendency for positive findings to be published and negative ones not |
+| Allegiance effect | The tendency for researchers' commitment to a model to inflate its results |
+| Fidelity | The degree to which an intervention is delivered as designed |
+| Routine outcome monitoring | Session-by-session measurement of progress with feedback to the clinician |
+| Practice-based evidence | Evidence generated from routine services rather than controlled trials |
+| Idiographic measure | A measure constructed for, and about, one family |
+
+### 11.15 Self-test
+
+1. What question does an RCT answer, and what question does it not answer?
+2. What does d = 0.5 mean in terms of families?
+3. Why is the number needed to treat a useful statistic for a clinician?
+4. What six questions should you ask of any paper?
+5. What does the evidence for routine outcome monitoring show, and for whom is the effect largest?
+6. Name the presentation with the strongest evidence for a specific family-based treatment, and name the treatment.
+7. What is the therapist-effects finding, and why is it uncomfortable?
+8. Name two ways in which the evidence base is culturally limited.
+
+**Answers.** 1. It answers whether the intervention causes better outcomes than the comparison in the population
+studied; it does not answer whether it will work in your clinic, with your families, or by what mechanism. 2. The
+average treated family is better off than about 69% of untreated families — roughly seven in ten. 3. It translates
+the effect into the number of families who must be treated for one additional benefit, which is what a service and a
+family need to know. 4. Who was studied? Compared with what? Measured how? How big is the effect? How confident can
+we be? Does it fit my clinic? 5. Feedback improves outcomes, with the largest benefit for clients who are not
+progressing or are deteriorating. 6. Adolescent anorexia nervosa; family-based treatment (the Maudsley approach). 7.
+Therapists differ substantially in outcomes, and the differences are not explained by training, experience or
+orientation; it is uncomfortable because it implies that some of us are less effective and do not know it. 8.
+Samples are drawn mainly from high-income countries and from particular social groups; outcomes and measures reflect
+the priorities of those settings rather than those of the families many clinicians serve.
+
+### 11.16 Reflective task
+
+Choose one belief about your own practice that you hold strongly — perhaps that a particular model is superior, or
+that diagnosis is harmful, or that manualised treatment cannot work with complex families. Find the strongest
+evidence against your belief, and write 400 words summarising it fairly. Then write 150 words on what would have to
+be true for you to change your practice. Bring both to the seminar; the second paragraph is the one that matters,
+and most students find it easier to write than they expected.
+
+### 11.17 Readings for this week
+
+* **Carr (2019 or latest edition)**, *Family Therapy: Concepts, Process and Practice*, the chapters on research and
+  on evidence-based practice, for the map.
+* **Stratton (2020)**, *Formulation in Family Therapy*, and his writing on routine outcome measurement, for the
+  practice-based evidence argument.
+* **Wampold & Imel (2015)**, *The Great Psychotherapy Debate*, for the common-factors case, read critically.
+* **Norcross & Lambert** on psychotherapy relationships and on feedback, for the alliance and monitoring evidence.
+* **The relevant NICE guideline** (or your national equivalent) for at least one presentation you meet, read as a
+  document with a method rather than as a list of recommendations.
+* **One Cochrane review** on a family intervention, read with the six questions from 11.6 in front of you.
+
+*Next: [Week 12 — Ethics, risk and the limits of the systemic frame](#week-12--ethics-risk-and-the-limits-of-the-systemic-frame)*
 
 ---
-
 ## Week 12 — Ethics, risk and the limits of the systemic frame
 
 Ethics is not a chapter at the end of the course; it is the frame that makes the work possible. Here we
