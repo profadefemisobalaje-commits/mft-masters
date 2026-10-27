@@ -5813,9 +5813,9 @@ so the bond can be repaired?*
 attack–defend, both-withdraw); primary versus secondary emotion; the "attachment cry"; softening
 events; the therapist as a process consultant and secure base.
 
-**Therapy in three stages.** 1) **De-escalation** — identify the cycle, access primary emotion, reframe
-the problem as the cycle. 2) **Restructuring** — withdrawer re-engagement, pursuer softening, enactment of
-new responses. 3) **Consolidation** — integrate, problem-solve, prepare for recurrence.
+**Therapy in three stages.** 1) **De-escalation** — identify the cycle, access primary emotion,
+reframe the problem as the cycle. 2) **Restructuring** — withdrawer re-engagement, pursuer softening,
+enactment of new responses. 3) **Consolidation** — integrate, problem-solve, prepare for recurrence.
 
 **Signature techniques.**
 - **Tracking the cycle:** "What happens inside you when she says that?"
@@ -5834,6 +5834,722 @@ families).
 > anger is reframed as protest; Sam's silence as fear of failing. The first enactment — Aisha, quietly:
 > "I get loud because I think you are leaving" — is the turning point. The next eight sessions are the
 > work of making that statement safe to repeat at home.
+
+### 9.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why attachment won | The evidence, and the failure of skills training alone | Name the model EFT replaced |
+| 10–25 | The map | Attachment needs, fears and strategies, drawn on one page | Map one couple from memory |
+| 25–40 | Primary and secondary emotion | The anger/fear distinction, demonstrated with a volunteer | Label six feeling statements |
+| 40–60 | The cycle at slow speed | A recorded session, stopped at three points | Identify each move in the EFT Tango |
+| 60–75 | Enactment | The four-line grammar, rehearsed in pairs | Perform one enactment |
+| 75–85 | Softening | What it is, why it is the turning point, how it fails | Write one softening sentence |
+| 85–90 | Evidence and limits | Thirty trials, and the control exception | Fill the matrix row |
+
+**The teaching decision that makes the week work.** EFT cannot be taught by describing the cycle; it has to
+be heard. The lecture should play one recorded couple session of eight to ten minutes, stopped three times,
+and each stop should ask the class to name what the therapist did in the previous ninety seconds. The
+answers, collected on the board, look like a list of ordinary empathic remarks — until the third stop, when
+the class realises that the sequence has changed the couple's emotional state and that no interpretation,
+instruction or homework was involved.
+
+**The sentence the lecture must land.** "The cycle is the client." Everything else in the model follows:
+the problem is not Aisha's anger or Sam's silence but the loop the two of them co-construct; the therapist's
+task is not to adjudicate, teach or advise but to slow the loop down until both partners can see it; and the
+change that matters is a new emotional response, offered and received, in the room.
+
+### 9.2 Core concepts
+
+**Attachment theory as the map.** EFT is built on Bowlby and on the adult attachment literature (MFT 703).
+The premises: the need for secure connection is a primary need, not a derivative of other drives; threats to
+the bond — real, anticipated or perceived — activate attachment behaviours that are pre-programmed and
+largely involuntary; and the strategies people use when the bond is threatened are the same strategies that
+shape their adult relationships. The map gives the therapist a way to hear a couple's hostility as
+attachment behaviour rather than as evidence of incompatibility.
+
+**The negative cycle.** Every couple in distress is organised by a repeating sequence that has become the
+relationship's real subject. Three common forms: *pursue–withdraw* (one partner moves toward, demanding
+contact; the other moves away, seeking safety); *attack–defend* (both move toward, with criticism meeting
+counter-criticism); and *both withdraw* (both move away, and the relationship becomes a benign emptiness).
+The cycle is not a symptom of the couple's problems; it is their problem, and the model's reframe makes
+that explicit.
+
+**Primary and secondary emotion.** EFT's central distinction. *Secondary* emotion is the feeling that
+appears first and is expressed: anger, irritation, coldness, contempt. *Primary* emotion is the softer,
+more vulnerable feeling underneath: fear of abandonment, shame of not being enough, grief, helplessness.
+The secondary emotion is a protective response to the primary, and the therapy's work is to reach the
+primary and to make it speakable in the partner's presence. The distinction is not moral — secondary emotion
+is not false — but strategic: only the primary emotion evokes care, and only care interrupts the cycle.
+
+**The attachment cry.** The moment in which a partner's protest becomes an explicit statement of need and
+fear: "I get loud because I think you are leaving." It is the model's target event, and the therapy is
+designed to create the conditions for it. When it happens, the other partner's response is the therapy's
+second target: the withdrawer who stays, listens and answers.
+
+**The pursue–withdraw pattern, described from both sides.** The pursuer's experience: "I am alone in this
+relationship, I have to fight to be seen, and his silence proves he does not care." The withdrawer's
+experience: "nothing I do is right, the criticism is relentless, and withdrawing is the only way to keep the
+peace." Both are describing the same loop from opposite ends, and both are accurate.
+
+**The therapist as process consultant.** Not a teacher, not a referee, not a coach: a consultant on the
+process between the partners. The therapist tracks the cycle, names it, slows it, keeps the session safe,
+and offers the couple an experience of a relationship in which one person's vulnerability is met rather than
+punished. The therapist is also, deliberately, a *secure base*: steady, responsive, present, and neither
+shocked nor punitive.
+
+**The EFT Tango.** The model's five-move micro-structure, which is what the therapist is actually doing
+while appearing to converse: (1) mirror the present process; (2) affect assembly and deepening; (3) choreograph
+an enactment; (4) process the enactment; (5) integrate and validate. Most trainees learn the five stages and
+then conduct sessions that are all mirroring; the Tango is the antidote, because it makes the enactment
+mandatory in almost every cycle.
+
+**Softening.** The turning point of stage two, and the model's signature event. The more blaming partner
+moves from protest to an attachment statement, delivered to the other partner, and the other partner
+responds from a place of care. When it happens, the couple's cycle is not merely understood but interrupted,
+and the change is felt in the room. Softening is not a technique to be performed; it is an event to be
+prepared for and then got out of the way of.
+
+**Consolidation.** Stage three: the new pattern is named, practised, made robust, and connected to the
+couple's ordinary life; old problems are problem-solved with the new resources; and the couple is prepared
+for the cycle's return, which is expected rather than treated as failure.
+
+### 9.2a A map of the cycle, drawn in four boxes
+
+The single most useful artefact a trainee can produce in an EFT session, and the one that makes the model
+visible to the couple.
+
+**The four boxes.** Top left: Aisha's *secondary* behaviour ("I raise my voice, I follow him"). Top right:
+Sam's *secondary* behaviour ("I go quiet, I leave the room"). Bottom right: Sam's *primary* experience
+("I am failing her, I will never be enough, so I disappear"). Bottom left: Aisha's *primary* experience
+("I am alone, he is leaving me, so I shout to bring him back"). Arrows run clockwise from behaviour to the
+other's primary experience, and back.
+
+**How the map is built in session.** Not at a desk: on a whiteboard or a sheet, with the couple watching, in
+the therapist's own words first and then in theirs. The therapist writes the couple's language rather than
+clinical language — "you go blank" rather than "dissociation", "you get loud to bring him back" rather than
+"protest behaviour".
+
+**How the map is used.** It is shown to the couple as an external object: "this is the thing we are fighting,
+not each other." That externalisation is the model's reframe made concrete. The couple is then asked to
+correct the map — a correction is the first collaborative act of the therapy — and the corrected version is
+photographed or copied for them.
+
+**The two questions that fill the bottom boxes.** "When you get loud, what is happening *under* the loud?"
+and "when you go quiet, what is happening under the quiet?" Trainees should notice how hard these questions
+are to ask without sounding like an accusation, and how quickly the couple answer when the tone is right.
+
+**What the map does not contain.** No history, no diagnosis, no third parties, no solution. The map's
+purpose is to make the cycle the client, and any addition dilutes that purpose. History comes later, or not
+at all; solutions come in stage two and three, when the map is already shared.
+
+**A diagnostic use of the map.** If the couple cannot agree on the map after several attempts, or if one
+partner's behaviour cannot be described as protective of anything, the therapist should consider whether the
+presentation is not a cycle at all: coercive control, active addiction, or a psychiatric condition will each
+produce a pattern that looks like a cycle and is not one (see 9.7). That possibility is the model's most
+important screening question, and it belongs in the first two sessions.
+
+### 9.2b Attachment strategies, and how they present in a couple session
+
+The model's assessment depends on recognising each partner's strategy in the first twenty minutes, before
+any history is taken. Five presentations, each with what the therapist sees and what is underneath.
+
+**Hyperactivating (anxious) strategy.** *What you see:* fast speech, monitoring, repeated questions, protest
+when the partner is late, escalating until contact is achieved, difficulty ending a conversation. *What is
+underneath:* a working model in which the other person's availability is uncertain and must be continuously
+tested. *The therapist's move:* slow the pace, name the protest as protest, and reach the fear underneath
+without dismissing the strategy as excessive.
+
+**Deactivating (avoidant) strategy.** *What you see:* brevity, gaze away, a focus on tasks and facts, early
+withdrawal from conflict, discomfort with the partner's tears, a tendency to be helpful rather than present.
+*What is underneath:* a working model in which need is dangerous and self-sufficiency is safety. *The
+therapist's move:* narrow the question, accept small answers, and treat a single vulnerable sentence as a
+major achievement.
+
+**Disorganised strategy.** *What you see:* approach and withdrawal in the same minute; intense pursuit
+followed by abrupt coldness; contradictory accounts of the same event. *What is underneath:* a history in
+which the source of comfort was also the source of fear. *The therapist's move:* predictability above all —
+the same time, the same frame, the same tone — and a slower pace, with an eye on trauma work (MFT 719).
+
+**The controlling-caregiving strategy.** *What you see:* one partner managing the other's life, organising,
+advising, and experiencing the other's independence as rejection. *What is underneath:* safety achieved by
+being needed. *The therapist's move:* reframe the care as the strategy it is, and ask what would happen if
+the other partner managed something alone.
+
+**The controlling-punitive strategy.** *What you see:* monitoring, rules, consequences, humiliation, and a
+partner who has become cautious. *What is underneath:* often fear of abandonment combined with a need for
+control. *The therapist's move:* **this is not a cycle position.** It is a safety matter, and the model's
+attachment language must not be used to soften it into a mutual pattern (see 9.7's screening question and
+MFT 719).
+
+**Why this table earns its place.** Trainees who can name a strategy in the first ten minutes can predict the
+cycle, choose the order of work, and avoid the common error of asking a deactivating partner to do the
+emotional labour of an activating one's preferred conversation. The table is also the model's ethical
+instrument: it makes the punitive strategy visible as something other than a variant of avoidance.
+
+### 9.3 The therapy: three stages, and what happens in each
+
+**Stage one — de-escalation (sessions 1–8, approximately).** The cycle is identified, made explicit, and
+named as the couple's common enemy. Both partners' primary emotion is accessed and articulated, at first in
+individual conversation with the therapist and later in each other's presence. The reframe is delivered: the
+problem is not that she is angry and he is cold, but that both are afraid of losing the other and neither can
+say so. The stage ends when the couple can describe the cycle together, without blaming, and when both can
+name their own primary experience.
+
+*What the therapist does in stage one.* Takes an attachment history that is also an assessment (how did each
+partner learn to get comfort? who was available? what happened when they were frightened?); tracks the cycle
+in the session rather than taking a report of it; slows the interaction to a fraction of its normal speed;
+marks each partner's secondary behaviour as it occurs; asks the deepening question and waits; and reframes
+the couple's problem as the cycle, repeatedly, in slightly different words.
+
+**Stage two — restructuring (sessions 9–16, approximately).** The withdrawer is helped to re-engage: to
+state their own fear and their own withdrawal, to risk staying in the conversation, and to answer the
+partner's attachment cry. The pursuer is helped to soften: to move from protest to an explicit attachment
+statement, and to hear the withdrawer's answer without reverting to accusation. New cycles are enacted in the
+room and then tried at home. The stage ends with a softening event — the one the model considers the
+predictor of durable change.
+
+*What the therapist does in stage two.* Choreographs enactments (always with the same grammar: notice,
+invite, hold, process); blocks the old pattern in the moment ("wait — that is the old move, can you say what
+was underneath it?"); keeps the emotion at a workable intensity; and refuses to let the couple resolve the
+moment with an argument.
+
+**Stage three — consolidation (sessions 17–20, approximately).** The new cycle is named and made
+describable; the couple's old problems are revisited with the new pattern available; the return of the cycle
+is anticipated and planned for; and the therapy ends with an explicit account of what the couple now knows
+about themselves. EFT's typical course is eight to twenty sessions for a couple without significant trauma,
+and longer where trauma is present.
+
+*What the therapist does in stage three.* Becomes less active; hands the process to the couple; tests the new
+pattern under stress (a real, current disagreement); and closes with a review session at three and six
+months.
+
+**The four P's of the EFT assessment.** *Pattern* (the cycle), *Primary emotion* (each partner's
+vulnerability), *Pursuer/withdrawer positions* (who does which, and whether it is stable or switches), and
+*Predisposing attachment history* (what each partner learned). The formulation is written in one page, in the
+couple's language, and shared with them in session two or three.
+
+### 9.3a Stage two in slow motion: the withdrawer's re-engagement
+
+Stage one gets the attention in teaching; stage two is where the model's skill lives. A worked sequence with
+the Ogundipes (mother 44, father 47), ten minutes of a session, with the therapist's moves named.
+
+**The starting point.** The couple have named the cycle. She pursues with complaints about his evenings; he
+withdraws into work and his phone. Both can describe the loop. Neither has yet said anything vulnerable.
+
+**Move one — the invitation to the withdrawer.** "I want to try something different, and it may feel strange.
+I am going to ask you to say something to her that you have been keeping in your silence. If it is too much,
+we stop." The sentence gives the withdrawer control, which is essential: a withdrawer who is pushed will
+withdraw further.
+
+**Move two — the concrete question.** Not "how do you feel?" but "when she says 'you are never here', what
+happens in you in the first three seconds?" The narrow time frame and the request for a sequence make the
+question answerable by a man who has spent twenty years not answering feeling questions.
+
+**His answer.** "I go tight. And then I think: here we go, I cannot win, so I say nothing." The answer is a
+sequence, not a feeling, and it is enough.
+
+**Move three — the deepening.** "And when you think 'I cannot win', what is that like for you about her?"
+The question moves from his internal state to his experience of the relationship, which is where attachment
+material lives. His answer: "that I am a disappointment to her." The therapist says the word back: "a
+disappointment." Silence.
+
+**Move four — the enactment.** "Can you say that to her? Not about her. To her: 'I go quiet because I think
+I am a disappointment to you.'" He does, badly, looking at the floor. The therapist does not correct the
+delivery; the content is the achievement.
+
+**Move five — processing the enactment with the pursuer.** "What happened in you when he said that?" Her
+answer: "I did not know that. I thought he did not care." The therapist reflects the new information and
+does not add an interpretation.
+
+**Move six — blocking the old move.** She then says: "but he still does not help with the children." The
+therapist blocks, gently: "that is true, and it is a different conversation. Right now, can you stay with
+what he just said?" The block is the model's most important discipline: the old pattern will attempt to
+reclaim the session within thirty seconds of any vulnerable moment, and the therapist must hold the space.
+
+**Move seven — the pursuer's first softening step.** "Can you tell him what it was like to hear it?" She
+says: "it is a relief, and it makes me frightened, because I have been fighting someone who was already
+beaten." That sentence is not yet a softening event, and it is its necessary precursor: the pursuer's protest
+has begun to be replaced by an accurate picture of the other.
+
+**The sequence's logic.** Re-engagement before softening, and both before any problem-solving. A therapist
+who reverses the order produces a couple who understand each other and continue to fight.
+
+### 9.4 Techniques, with the grammar of each
+
+**Tracking and reflecting the cycle.** The therapist narrates the process as it happens, in the couple's
+language, without blame: "so you reach for him, and he goes still, and the stiller he goes the louder you
+get." The narration is the intervention; it converts a fight into an object that both can see.
+
+**The deepening question.** Four forms: "what happens in you when she says that?" (sequence); "under the
+anger, what is there?" (primary emotion); "what is it like to be the one who is always the one who is
+blamed?" (position); "what do you do with that feeling?" (strategy). The question is asked slowly, once, and
+followed by silence.
+
+**The evocative response.** The therapist does not paraphrase the feeling; the therapist responds to it, in
+the first person, briefly: "that sounds unbearably lonely." The response is what deepens the affect, and it
+is also what makes the therapist a secure base. It is not a technique for producing tears, and a therapist
+who uses it to that end is doing something else.
+
+**Enactment.** The four-line grammar: notice ("I see your jaw, and I think something just happened"); invite
+("can you tell her, rather than me?"); hold ("stay there a moment, look at her"); process ("what was it like
+to say that, and what was it like to hear it?").
+
+**Catching the bullet.** A specific EFT move for the moment a partner attacks: the therapist intercepts the
+criticism, translates it into the need underneath, and offers it back as an attachment statement. "So when
+you say he never listens, what I hear underneath is 'I am frightened that I am not important to him'. Is
+that close?" The move protects the other partner from the attack and gives the attacker a truer sentence.
+
+**Reframing the cycle as the enemy.** The reframe is repeated in every session in slightly different words,
+and the couple is invited to name the cycle themselves: "what would you call this thing that happens between
+you?" Couples produce names — "the spiral", "the cold war", "the dance" — and the name is used from then on.
+
+**Softening.** Not a technique but an event, prepared by stage one and choreographed in stage two: the
+pursuer's protest converts into an attachment statement delivered with eye contact, the withdrawer stays
+present, and the therapist holds the moment and then gets out of it. The failure modes are instructive (see
+9.7a).
+
+**The attachment history interview.** Five questions, asked of each partner: who did you go to when you were
+frightened as a child? What did they do? What happened when you were upset and nobody came? What did you
+learn to do with your own need? What do you still do? The answers produce the couple's predispositions, and
+they are the most reliable predictor of which partner will pursue and which will withdraw.
+
+### 9.4a A deepening sequence, scripted in eight turns
+
+The technique most often taught badly, because it looks like ordinary conversation. Eight therapist turns on
+one content, with the deepening marked.
+
+*Content: a husband has said that his wife "is never satisfied".*
+
+1. **Sequence.** "What happens in you when she says 'you never do enough'?" — *not* "how do you feel?"
+2. **Specificity.** "Where do you notice it — in your chest, your jaw, your hands?"
+3. **Word.** "What would you call that feeling, in your own words?"
+4. **Deepening.** "And under that — is there anything else?"
+5. **Evocative response.** "That sounds exhausting. To be working that hard and to hear that you are not
+   enough."
+6. **Position.** "What is it like to be the one in this marriage who is always slightly failing?"
+7. **Attachment frame.** "When you hear that you are failing, what do you expect will happen next?"
+8. **Enactment invitation.** "Can you say that to her — the part about expecting her to leave?"
+
+**What makes it a sequence and not a list.** Each turn follows from the previous answer, and the therapist
+never moves on until the answer has been received, repeated in the client's own word, and allowed to sit.
+The four commonest errors are: jumping from turn one to turn seven (interpretation); supplying the word at
+turn three (the client says "I suppose it is shame?" and the therapist answers it for him); skipping the
+evocative response, which is what makes the deepening tolerable; and asking turn eight before turn six has
+been answered, which produces a performance rather than a disclosure.
+
+**The exercise.** In pairs, run the eight turns on a mild content, and mark each turn as *the therapist's
+question* or *the therapist's response*. A therapist who produces eight questions and no responses is
+conducting an interview, not a deepening.
+
+### 9.5 The first session with Aisha and Sam
+
+The week's case, in the model's own sequence.
+
+**The presentation.** Aisha (33) and Sam (36), married six years, two children. Presenting complaint: "we
+argue every night about nothing and then he disappears into his phone." Aisha is loud, fast, tearful. Sam is
+quiet, polite, and answers in single sentences.
+
+**Minutes 0–10.** The therapist greets both, states the frame, and asks one question that is not about the
+problem: "what did you two do together before the children?" Aisha laughs; Sam answers with a specific
+memory. The question is not small talk: it establishes the bond as the subject, and it produces a moment of
+shared history in a session that will otherwise be about conflict.
+
+**Minutes 10–25.** Each partner describes the problem. The therapist does not intervene in the content, and
+watches the process: Aisha's speed, Sam's stillness, the point at which Sam's eyes drop (when Aisha says "he
+does not care"), the point at which Aisha's voice rises (when Sam says nothing).
+
+**Minutes 25–35.** The first tracking move. "Can I stop you both for a moment and say what I am seeing? You
+[Aisha] get faster as he gets quieter, and the faster you get the quieter he goes. It looks like a loop that
+neither of you designed. Is that what it feels like from inside?" Both say yes. Sam adds: "I just want it to
+stop." The therapist marks the word: "stop."
+
+**Minutes 35–45.** The deepening, addressed first to Sam, because the withdrawer is the harder case and the
+session's structure should not always follow the louder partner. "When she gets faster, what happens in you
+in the first few seconds?" Sam: "I go blank." Therapist: "and the blankness — what is it protecting?" Sam,
+after a pause: "I think — that I am not enough for her." Aisha's face changes.
+
+**Minutes 45–50.** The therapist does not pursue the enactment yet. Instead, she names what happened: "in
+this room, in the last five minutes, something different has been said." She asks Aisha what it was like to
+hear it, and Aisha says, "I did not know he thought that", and then, to Sam, "I am not angry because you are
+not enough. I am angry because I am alone." The first attachment statement has arrived in session one, and
+the therapist's task is to hold it, not to build on it.
+
+**Minutes 50–55.** The frame: eight to twenty sessions, weekly, both partners present; a task that is not
+behavioural but observational ("this week, notice the moment the loop starts, and write down what happened
+just before"); and the formulation offered in one sentence: "the problem is not that you fight; it is that
+when you fight, both of you end up more alone, and the loop is what we are going to work on."
+
+**What the therapist did not do.** Did not take a full history; did not ask about the children's needs; did
+not adjudicate a single dispute; did not give advice; and did not attempt an enactment in session one beyond
+the moment that arose naturally.
+
+### 9.6 Case: the Adeyemis, read through attachment
+
+The recurring family, this time through the model that best explains the father's absence.
+
+**The presentation.** Amara (14) has refused school for five weeks; her father Tunde is in Lagos; her mother
+Funke has taken leave; her brother Segun (11) is silent.
+
+**The attachment reading.** Funke's attachment strategy is *hyperactivation*: she monitors, pursues, and
+escalates until contact is achieved, because in her history distance preceded loss. Tunde's strategy is
+*deactivation*: he minimises need, works, provides, and stays away, because in his history need was punished.
+Amara is living inside the collision: her mother's intensity is experienced as surveillance, her father's
+absence as confirmation that she is not worth staying for, and her symptom is a third strategy — she refuses
+the world.
+
+**The cycle in this family.** Funke pursues Amara; Amara withdraws; Funke pursues harder and telephones
+Tunde; Tunde instructs and disengages; Funke's pursuit intensifies. The parents' marital cycle is enacted
+through the child, which is the model's account of how a child's symptom can carry an adult's attachment
+dilemma.
+
+**What EFT would do, and in what order.** First, name the cycle with the parents, without the children
+present: "when you [Funke] feel alone, you move toward; when you [Tunde] feel criticised, you move away; and
+the more each of you does what comes naturally, the more alone you both are." Second, access each parent's
+primary emotion: Funke's terror of being left to manage alone, Tunde's shame at failing as a provider and a
+father. Third, an enactment between them, with the children absent, in which each says the primary thing to
+the other. Fourth, bring the children back into a session where the parents speak from the new position —
+which is the model's mechanism for the child's symptom, since a child who sees her parents reach each other
+no longer has to hold the family's anxiety in her refusal.
+
+**What the model cannot do here without adaptation.** The father is physically absent, and enactment down a
+telephone line is a poor instrument: the couple need face-to-face sessions. EFT's structure assumes both
+partners in the room, and a family whose work pattern separates them needs either a block of sessions when
+the father is home, video sessions with attention to the medium, or a decision about whether the couple work
+can begin at all. This is a practical problem the model's literature rarely addresses and which half the
+world's families present.
+
+**The formulation in one sentence.** "This is a family in which both parents are frightened of the same
+thing — being left to carry it alone — and they have each developed a strategy that makes the other's fear
+worse, while their daughter has found a way of holding the family's attention that costs her her
+adolescence." That sentence is EFT's contribution to the case, and it is compatible with every formulation
+in Weeks 2 to 8.
+
+### 9.7 Annotated transcript: the softening event
+
+Fourteen turns from the eleventh session with Aisha and Sam — the model's turning point, in the room.
+
+> **T1 Therapist:** We have come a long way. Do you want to try the thing we have been preparing for?
+
+> **T2 Aisha:** (nods) I am frightened I will cry.
+
+> **T3 Therapist:** If you cry, I will stay here, and so will he. Sam, are you able to stay if she cries?
+
+> **T4 Sam:** (quietly) Yes.
+
+> **T5 Therapist:** Aisha, what do you want him to know about the nights when you are loud?
+
+> **T6 Aisha:** (long pause) That I am not angry. That I am terrified. I am terrified that one day you will
+> decide that this is too much and you will go, and I will have been right all along.
+
+> **T7 Therapist:** Say the last part to him.
+
+> **T8 Aisha:** (to Sam) I will have been right all along. About not being the kind of person people stay for.
+
+> **T9 Therapist:** (pause) Sam. What is happening in you?
+
+> **T10 Sam:** (long silence) I want to go to her. I always wanted to go to her.
+
+> **T11 Therapist:** Tell her that.
+
+> **T12 Sam:** (to Aisha) I am not going anywhere. I never was. I go quiet because I think I am already
+> failing you, and I do not know how to fail in front of you.
+
+> **T13 Therapist:** (pause) Stay with each other for a moment. Nobody needs to say anything.
+
+> **T14 Therapist:** (after a minute) What just happened between you?
+
+**Annotations.** *T1* names the task, which is the model's transparency: the couple know what they are
+attempting, and the therapist does not spring it on them.
+
+*T2–T4* is the safety architecture. Her fear of crying is named, the therapist commits to staying, and the
+other partner is asked explicitly whether he can stay. That question is doing three things: it prepares the
+withdrawer for his role, it makes his staying an act rather than an accident, and it protects the session if
+he cannot.
+
+*T5* is the invitation, framed as information for the other partner rather than as an exercise in
+expression. "What do you want him to know" is a more workable question than "how do you feel", because it
+gives the emotion a destination.
+
+*T6* is the attachment cry in its classic form: the protest ("I am not angry") giving way to fear ("I am
+terrified"), and then to the deepest layer ("I will have been right all along"), which is the sentence the
+therapy has been working toward for eleven sessions.
+
+*T7* is the smallest and most important instruction in the transcript. The therapist does not comment on
+what a good thing has just been said; she asks for it to be said to the person it is about. That single move
+converts a disclosure to the therapist into contact between the partners.
+
+*T9–T12* is the withdrawer's response, and the order of the therapist's moves matters: she asks what is
+happening *before* asking him to act, so that his action comes from his own experience rather than from
+compliance. His sentence ("I do not know how to fail in front of you") is the male withdrawer's primary
+emotion in its most usable form: shame.
+
+*T13* is the hold. A therapist who speaks here — to summarise, to praise, to interpret — destroys the event.
+One minute of silence in the presence of two people meeting each other is the whole of the technique.
+
+*T14* is the process question, asked afterwards, and it is what makes the event available to the couple as
+knowledge rather than as a moment that happened to them.
+
+**What the trainee should notice.** The therapist's total contribution is about forty words. The model's
+difficulty is not in knowing what to say; it is in knowing when to say almost nothing, and in having built
+the structure that makes the nothing safe.
+
+### 9.7a Three softenings that failed, and why
+
+**Failure one — the manufactured softening.** A trainee, anxious to reach the turning point, asked a
+pursuer in session four: "can you tell him you are afraid he will leave?" The client said the sentence, the
+withdrawer looked at the floor, and nothing happened. *The cause:* stage one was incomplete. The couple had
+not yet experienced the cycle as their common enemy, and the words were the therapist's, not the client's.
+
+**Failure two — the softening that became an indictment.** A pursuer's attachment statement was delivered
+with an edge: "I am afraid you will leave, like everybody else in my life." The withdrawer heard an
+accusation and defended. *The cause:* the statement contained a second sentence aimed at him. The therapist's
+job at that moment is to separate the two sentences and to work with the first alone.
+
+**Failure three — the softening with no response.** The pursuer softened beautifully, the withdrawer said
+nothing at all, and the therapist filled the silence with an interpretation. *The cause:* the withdrawer had
+not been prepared for stage two — no re-engagement work, no rehearsal of his own fear — and the therapist's
+interpretation relieved her own anxiety at the cost of the couple's moment. *The correction:* a rehearsal
+session with the withdrawer alone, in which his fear is put into words with the therapist before it is asked
+for in the room.
+
+**The general lesson.** Softening cannot be produced; it can be prepared. Every failed softening in the
+recordings is a stage-two move attempted before stage one was complete, or a therapist's need met at the
+couple's expense.
+
+### 9.8 Laboratory: deepening and enactment
+
+Sixty minutes, triads, two skills only.
+
+**Skill one — the deepening question (twenty-five minutes).** One student speaks about a mild current
+frustration with a person they know; the therapist practises the four deepening forms in sequence, with at
+least ten seconds of silence after each; the observer counts the seconds and notes whether the therapist
+paraphrased, interpreted or responded. The target: three consecutive deepening questions with no
+interpretation and no advice.
+
+**Skill two — enactment with processing (thirty-five minutes).** The same triad, with a different content.
+The therapist notices a moment, invites the speaker to address the other person (played by the observer),
+holds for ten seconds, and then processes both sides. The observer checks the four-line grammar and records
+the processing questions verbatim.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Deepening | 30% | Four forms used; sequence questions before feeling questions; silence held |
+| Evocative response | 15% | Brief, first-person, responsive rather than interpretive |
+| Enactment grammar | 30% | Notice, invite, hold, process — all four present and in order |
+| Blocking the old move | 15% | At least one attempt to reclaim the session is blocked kindly and firmly |
+| No rescue | 10% | No filling of silence, no advice, no premature summarising |
+
+**The debrief question.** Which was harder: asking the deepening question, or saying nothing afterwards? The
+answer is always the second, and the seminar's task is to make the second tolerable.
+
+### 9.9 Six errors in EFT practice
+
+1. **Staying in stage one.** Months of beautiful cycle-tracking with no enactment and no softening. Fix: a
+   written stage plan, and a review at session eight asking whether both partners can name their own primary
+   emotion.
+2. **Chasing affect.** Pushing for tears to demonstrate that the model is working. Fix: the evocative
+   response rather than the demand, and a supervision question — whose need is being met?
+3. **The interpretation in place of the question.** "You are afraid of abandonment" delivered as a
+   formulation. Fix: the deepening question, and the client's word rather than the therapist's.
+4. **Ignoring the body.** Long verbal sessions with no attention to breath, posture and gaze. Fix: the
+   noticing move, and slowing down physically as well as verbally.
+5. **Missing coercion.** Running the model with a couple in which one partner is afraid, and treating the
+   fear as a cycle position. Fix: the screen, asked of each partner alone, and a different treatment pathway
+   (9.7's screening question, and MFT 719).
+6. **Softening as a performance.** A therapist who needs the turning point produces it. Fix: stage discipline,
+   and a supervisor who asks what the therapist wanted from the session.
+
+### 9.9a The couple who arrive at stage two too early
+
+A common clinical situation and its handling. A couple arrives for session three having had an intense
+conversation at home after session two: he cried, she held him, and both now believe the therapy is nearly
+finished. The therapist's temptation is to accept the story and move to consolidation.
+
+**Why not.** The event happened without the cycle having been named, without either partner's position having
+been understood, and without the therapist present to slow it down. It is a genuine moment and it is fragile:
+the first return of the old pattern will be experienced as a betrayal of a promise, and the couple will
+conclude that the change was illusory.
+
+**What to do instead.** Honour the event fully — ask for the details, name what each partner did, and let the
+couple describe it. Then place it in the map: "so the two of you found a way to do at home what we have been
+practising here. What I want to know is what will happen when the loop comes back, because it will." The
+answer prepares the couple for recurrence, which is the difference between a good week and a change.
+
+**The general rule.** In EFT the sequence protects the change. A softening that happens off-sequence is not
+to be dismissed, and it is not to be mistaken for the work: it is evidence that the couple can do it, and the
+therapy's task is to make it repeatable.
+
+### 9.10 Culture, faith and the model's critique
+
+**Where the model travels well.** Attachment is not a Western invention; the need to know that one's
+belonging is secure is recognisable in every family system this book has described. The model's focus on
+process, its refusal to adjudicate content, and its respect for the couple's own language make it adaptable.
+Its central insight — that anger is often protest and silence is often fear — is useful in any culture,
+including those in which anger is more available than fear in men and silence more available than protest in
+women.
+
+**Where it strains.** Three places, all documented in the model's own literature.
+
+*The language of needs can sound self-indulgent.* Where a couple's moral vocabulary is duty, sacrifice and
+endurance, a therapist who asks about "your needs" may be heard as inviting selfishness. The adjustment is to
+translate: "what do you owe each other, and what happens to you when you cannot give it?" — the same
+structure in the family's own moral language.
+
+*The expression of vulnerability is gendered and cultural.* Many men in many cultures have no permissible
+vocabulary for fear and shame in front of a partner, and a model that requires it may produce a session in
+which the man is silently failing. The adjustment is the one the model's own theorists recommend: find the
+partner's own word for the experience, which may be "respect", "being a man", "failing my father" or
+"shame", and use it.
+
+*The couple is assumed to be the decision-making unit.* Where extended family, religious authority or
+economic dependence determines the couple's options, the model's work with the dyad can produce a new
+emotional understanding that the household cannot accommodate. The adjustment is to include the relevant
+third parties in the formulation and, where possible, in a session.
+
+**Faith.** EFT's attachment vocabulary maps onto religious vocabulary with unusual ease: being known, being
+held, being faithful, being forgiven. A couple whose faith frames the marriage as a covenant will often find
+the model's language of "safe haven" and "secure base" congenial, and the therapist can use their vocabulary
+without appropriating it. The caution is the model's own: the therapist is not a pastor, the session is not a
+confession, and the spiritual frame belongs to the couple.
+
+> **DEBATE** — "EFT is the best-evidenced couple therapy and therefore should be the default. Discuss what
+> that claim leaves out."
+
+### 9.10a The two strongest critiques, and the model's answers
+
+**Critique one: the model's gender politics are unexamined.** In the classic pursue–withdraw formulation, the
+woman pursues and the man withdraws, and the therapy's task is to soften her protest and to re-engage him.
+Feminist critics have observed that this can pathologise the partner who is protesting an unequal arrangement
+and reward the partner who benefits from it: her anger becomes a "secondary emotion", his silence becomes
+"fear", and the solution is her vulnerability plus his presence, not a redistribution of labour or power.
+
+*The model's answer.* The formulation is descriptive, not prescriptive; the positions are not gendered in
+principle and switch frequently; and the model's later writing addresses power and context explicitly. The
+withdrawer's re-engagement is not a reward but a demand — he is asked to become available, which is a change
+in the arrangement, not a defence of it.
+
+*The fair verdict.* The critique has force where the presenting problem is an unequal division of labour and
+the therapy never names it. The safeguard is procedural: the EFT formulation must include the material
+arrangement — who does what, who earns, who decides, who can leave — and the therapist must ask whether the
+cycle is a dance between equals or the symptom of an arrangement one partner cannot renegotiate.
+
+**Critique two: the model requires an intensity many settings cannot provide.** Weekly fifty-minute sessions
+with both partners, a therapist trained to a high standard, and a couple able to attend together for four to
+five months. In a public clinic with a waiting list, or a family in which one partner works away, the model's
+conditions are unavailable, and what gets delivered is a diluted version whose evidence does not transfer.
+
+*The model's answer.* EFT has been adapted for shorter formats, for groups, for individuals, and for
+telehealth; the trials include brief versions; and the model's stage structure can be used diagnostically even
+where full treatment is not possible.
+
+*The fair verdict.* The answer is partly satisfactory. The evidence supports the full model, and the
+adaptations are promising rather than established. A therapist delivering a six-session version in a busy
+clinic should describe it as an adaptation and measure it, rather than claiming EFT's trial results.
+
+### 9.11 Evidence note: the strongest couple evidence in the course
+
+**What exists.** EFT has a substantial randomised evidence base — over thirty trials at the time of writing,
+including several from independent teams — with large effect sizes for relationship distress, high rates of
+recovery, and durability at two-year follow-up. It performs well against behavioural couple therapy in
+head-to-head trials and is recommended as a first-line couple therapy in several clinical guidelines. There is
+also evidence for EFT with couples where one partner has depression, with trauma survivors, and in
+family-format adaptations.
+
+**What the evidence shows about mechanism.** Process research supports the model's central claims: the depth
+of in-session emotional processing predicts outcome; softening events predict durable change; and the
+therapeutic alliance and the therapist's ability to regulate the session's intensity are associated with
+outcome. This is unusual in the field — the model has both outcome and process evidence for the same
+mechanism.
+
+**What the evidence does not show.** How the model performs where violence or coercive control is present
+(it is generally excluded from trials, and should be); how it performs across cultures, since most trials are
+Western; how much training is required for the effect (a serious implementation question); and whether the
+model's benefits persist beyond two years, which is the limit of most follow-up.
+
+**The matrix cell.** "Strong randomised evidence with large effect sizes and durability; process evidence for
+the softening event as the mechanism; first-line status in guidelines; exclusion criteria include ongoing
+violence, which is also the model's principal clinical limit."
+
+**The practitioner's claim.** "EFT is the couple model I would choose first for relational distress where
+there is no coercion, because it has the best outcome and mechanism evidence in the field; I screen for
+violence before starting; I use the stage structure as a map and a discipline; and I measure satisfaction and
+alliance at every fourth session." That sentence can be defended in a viva without overstatement.
+
+### 9.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Negative cycle | The repeating sequence of pursue–withdraw, attack–defend or both-withdraw that organises the couple's distress |
+| Secondary emotion | The expressed, protective feeling: anger, contempt, coldness |
+| Primary emotion | The vulnerable feeling underneath: fear of abandonment, shame, grief, helplessness |
+| Attachment cry | Protest converted into an explicit statement of need and fear |
+| Pursuer | The partner who moves toward, demanding contact |
+| Withdrawer | The partner who moves away, seeking safety |
+| EFT Tango | Five-move micro-structure: mirror, deepen, choreograph, process, integrate |
+| Enactment | Turning a disclosure to the therapist into contact between the partners |
+| Softening | The pursuer's protest becoming an attachment statement, met by the withdrawer's response |
+| Catching the bullet | Intercepting a criticism and translating it into the need beneath |
+| De-escalation | Stage one: the cycle identified, primary emotion accessed, the problem reframed |
+| Restructuring | Stage two: re-engagement, softening, new cycles enacted |
+| Consolidation | Stage three: integration, problem-solving, preparation for recurrence |
+
+### 9.13 Self-test
+
+1. Distinguish primary and secondary emotion, and explain why the distinction is strategic rather than moral.
+2. Give the three common forms of the negative cycle.
+3. What is the EFT Tango, and why does it matter in training?
+4. What is a softening event, and what predicts it?
+5. Why is the withdrawer usually worked with first in stage two?
+6. State the model's central evidence claim and its principal exclusion.
+7. What are the two strongest critiques and the fairest verdict on each?
+8. What is the screening question every EFT therapist must ask, and of whom?
+
+**Answers.** 1. Secondary emotion is expressed and protective (anger, contempt); primary is the vulnerable
+feeling beneath (fear, shame, grief). The distinction is strategic because only primary emotion evokes care
+and interrupts the cycle; the secondary feeling is no less real. 2. Pursue–withdraw, attack–defend,
+both-withdraw. 3. A five-move micro-structure — mirror the process, deepen the affect, choreograph an
+enactment, process it, integrate and validate — which matters because trainees otherwise mirror for the whole
+session and never enact. 4. The pursuer's protest becomes an explicit attachment statement delivered to the
+partner, who responds from care; it is predicted by completed de-escalation and by the withdrawer's prior
+re-engagement. 5. Because the withdrawer is the harder and more defended position, and because the pursuer's
+softening requires a partner who can stay; re-engagement before softening. 6. Over thirty trials, large
+effect sizes, durability, first-line status; the principal exclusion is ongoing violence or coercive control.
+7. Critique one — unexamined gender politics and the risk of pathologising protest against an unequal
+arrangement; fairest verdict, it has force where the material arrangement is never named. Critique two — the
+model requires intensity and resources many settings lack; fairest verdict, adaptations are promising not
+established, and should be described as adaptations. 8. Whether either partner is afraid — asked of each
+partner individually, in the first or second session, and recorded.
+
+### 9.14 Reflective task
+
+Write down the last time you were angry with someone you love. Then write, in three sentences, what was
+underneath the anger: what you were afraid of, what you wanted, and what you did instead of saying it. Then
+decide whether you could have said the three sentences to that person at the time, and what would have
+happened. Bring it to the seminar; the exercise is the model applied to the therapist's own attachment
+strategy, and it is the most reliable way to understand why softening is difficult.
+
+### 9.15 Readings for this week
+
+* **Johnson (2004)**, *The Practice of Emotionally Focused Couple Therapy*, the manual, read chapter by
+  chapter alongside the stage plan.
+* **Johnson & Greenberg (1985)**, the original trial, for how the model was first tested.
+* **Greenberg & Johnson (1988)**, *Emotionally Focused Therapy for Couples*, the earlier statement, useful for
+  the emotion theory.
+* **Johnson (2008)**, *Hold Me Tight*, the popular version, read to see how the model explains itself to
+  couples — and to see what it simplifies.
+* **Burgess Moser et al. (2015)**, on the mechanism of change, for the process evidence.
+* **Wiebe & Johnson (2016)**, the meta-analysis, for the outcome claims.
+
+Read the manual with a transcript in hand and mark every therapist turn as mirroring, deepening,
+choreographing, processing or integrating. Twenty minutes of that exercise will do more for your fidelity than
+the whole of the manual's theory chapters. For the essay, separate the model's outcome evidence from its
+process evidence and say what each establishes. The reading-log question is: "what does this model require the
+therapist to feel, and what happens if the therapist cannot?"
+
+*Next: [Week 10 — Solution-focused brief therapy](#week-10--solution-focused-brief-therapy)*
 
 ---
 
