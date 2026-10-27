@@ -8190,7 +8190,7 @@ standing in the family's hierarchy, managed medically by a daughter at a distanc
 who is away three weeks in four. The presenting complaint is Funke's exhaustion, and the family's problem is
 a caregiving network whose workload and authority are inversely distributed.
 
-**The intervention, in six parts, in order.**
+**The intervention, in seven parts, in order.**
 
 **Part 1 — The medical review, first.** A written request to the physician for a review of the
 three-month-old episode, with the specific question: was this a delirium, and was the sedative appropriate?
