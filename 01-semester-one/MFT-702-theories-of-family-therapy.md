@@ -2180,38 +2180,705 @@ run the therapy.
 
 ## Week 4 — Structural family therapy
 
-**The question.** *What is the organisation of this family, and how does its structure maintain the
-problem?*
+**The question.** *What is the organisation of this family, and how does its structure maintain the problem?*
 
 ![Figure 4.1 — Structural mapping: boundaries, subsystems, coalitions](../assets/figures/fig05-structural-map.svg)
 
-**Core concepts.** Structure (the repetitive patterns of interaction that organise the family);
-subsystems; boundaries (clear, diffuse, rigid); hierarchy; alignment and coalition; enmeshment and
-disengagement; complementarity; the identified patient as the symptom-bearer of a structural problem.
+### 4.1 The lecture in ninety minutes
 
-**Therapy.** The therapist **joins** and then **challenges** the structure in the room. Change happens
-through doing, not talking: enactments, boundary-making, unbalancing, raising intensity, and marking
-hierarchy. Sessions are active and often directive.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The idea in one sentence | Structure is what repeats, and it is visible | Name the repeated sequence in a case |
+| 10–25 | Structure, subsystem, boundary, hierarchy | Draw a family map with all four | Draw their own family's map |
+| 25–40 | Enactment, demonstrated | Bring a disagreement into the room | Practise one enactment in triads |
+| 40–55 | Unbalancing and intensity | Two interventions, with the ethics of each | Decide when unbalancing is legitimate |
+| 55–70 | Joining before challenging | Why the challenge fails without the join | Script the first two minutes of a challenge |
+| 70–85 | The structural first session | Minute-by-minute architecture | Sequence the moves for the Adeyemis |
+| 85–90 | Critique and matrix row | What the model cannot see | Fill the row |
 
-**Signature techniques.**
-- **Enactment:** "Say that to her, not to me. I'll listen."
-- **Unbalancing:** deliberately supporting one member to shift the system's equilibrium.
-- **Boundary-making:** "This is a conversation for the two of you; the children will wait outside."
-- **Intensity:** "This is the fourth time you have laughed when your wife described the miscarriage.
-  What is that laugh?"
+### 4.2 Core concepts
 
-**Contribution.** Fast, observable, highly teachable; strong evidence for structural family therapy in
-child and adolescent problems and in family-based treatment for substance misuse.
+Structural family therapy, associated with Salvador Minuchin and the Philadelphia Child Guidance Clinic, is the most
+teachable of the classical models and the most easily misused. Its concepts are simple; its practice requires timing.
 
-**Blind spots.** Risks imposing a middle-class norm of two-parent hierarchy; can be experienced as
-controlling; under-attends to inner life and to history.
+**Structure.** The repetitive patterns of interaction that organise a family: who speaks to whom, who decides, who is
+consulted, who is protected, who is left out. Structure is not a diagram imposed on a family; it is what an observer
+would see if they watched the household for a fortnight. Two consequences follow.
 
-> **CASE** — The Adeyemi family. The structural reading: the parental subsystem is weak and the
-> mother–daughter coalition crosses the generational line; the father is structurally peripheral and
-> reacts with criticism when he is pulled in. First move: a session with the parents alone to plan one
-> consistent rule and one shared evening, before any work with Amara. Second move: a joint session in
-> which the parents tell Amara the plan *together* while the therapist blocks her attempts to negotiate
-> with her mother alone.
+*Structure is visible in the room.* Every family enacts its structure in the first ten minutes of a session, which is
+why the model works in the present tense and in the session itself.
+
+*Structure is maintained by everyone.* The mother who manages alone, the father who is peripheral, the child who
+intervenes and the grandmother who overrides are all participating in a pattern that none of them designed, and each
+would describe their own part as reasonable.
+
+**Subsystems.** Units within the family organised by boundaries: the couple, the parental subsystem, the sibling group,
+and each individual. The crucial distinction is between the *couple* subsystem and the *parental* subsystem — a family
+can have a strong parental subsystem and a weak couple subsystem, and the two require different work.
+
+**Boundaries.** The rules governing participation and closeness: who is included, who is excluded, what may be said in
+front of whom. Boundaries are described as clear, diffuse or rigid. *Clear* boundaries allow both contact and
+separateness; *diffuse* boundaries allow too much of one and too little of the other; *rigid* boundaries are the
+opposite. The words "enmeshed" and "disengaged" describe the two extremes, and they are descriptions of a relationship,
+not of a person.
+
+**Hierarchy.** The distribution of authority and responsibility, especially between generations. Structural therapy
+assumes that a family in which children hold executive authority, or in which a grandparent and a parent compete for it,
+will produce symptoms. The assumption is normative, and the norm is culturally specified — a point developed in 4.10.
+
+**Alignment and coalition.** An alignment is a joining of members for a purpose ("the two of you agree about the
+school"); a coalition is a joining against a third ("the two of you against your father"). Coalitions across
+generational lines are the model's classic pathology, and the child in a cross-generational coalition is the classic
+identified patient.
+
+**Complementarity.** The idea that behaviours are reciprocal: the more one member over-functions, the more another
+under-functions. The concept is useful because it converts a complaint about a person ("he is useless") into a
+description of a pair ("the two of you have arranged it so that one carries the responsibility and one carries the
+blame").
+
+**The identified patient.** The member who carries the symptom, understood not as the site of the pathology but as the
+place where a structural problem becomes visible. The model's most important claim at the level of practice: **treat
+the structure, and the symptom will follow** — or, more accurately, treat the structure and you will find out whether
+the symptom was serving the structure.
+
+### 4.2a Reading a family's structure in ten minutes
+
+The model's core skill is observation, and observation can be taught as a list of what to watch. Six things, in the
+order they become visible.
+
+**Seating.** Who chose where to sit, who sat beside whom, who left a gap, who took the chair nearest the door. Families
+arrange themselves without deciding to, and the arrangement is data. Ask, later, what would happen if they swapped
+places — the answer is often an explicit statement of the structure.
+
+**Turn-taking.** Who speaks first, who speaks most, who is interrupted, who is never interrupted, who translates for
+whom. The therapist's own interruptions are part of the data: a therapist who interrupts the mother to hear the father
+is already restructuring.
+
+**Speaking for.** Who answers a question addressed to someone else. A mother who answers for her son is not necessarily
+intrusive; she may be the household's designated spokesperson, and the pattern tells you who holds the responsibility
+for the family's presentation to the outside world.
+
+**The referral.** Who telephoned, and who decided that the family would come. The person who made the referral often
+holds the executive position, whatever the family says about its hierarchy.
+
+**The silence.** Who does not speak, and what happens when the therapist addresses them. A silence that is comfortable
+is a boundary; a silence that produces tension in others is a coalition; a silence that produces a change of subject is
+a secret.
+
+**The identified patient's position.** Where is the symptomatic member in relation to the others, and what happens in
+the room when they speak? A child who is discussed throughout the session without being addressed is in a specific
+structural position, and the position is the diagnosis.
+
+**The exercise.** Watch ten minutes of any recorded family session, and write the six observations before writing any
+interpretation. Students who do this find that the structure is legible within five minutes, and that their
+interpretations change when the observation comes first.
+
+### 4.3 Therapy: join, then challenge
+
+The model's method has two phases, and the order is not negotiable.
+
+**Joining** is the therapist's deliberate accommodation to the family's style, rules and language, in order to be
+accepted as a participant in the system. It is not warmth, though warmth helps; it is a technical operation. The
+therapist joins by:
+
+*adopting the family's language* ("you call it stubbornness; I will use that word for now");
+*respecting its hierarchy* (addressing the person who holds authority first, and asking permission where it is
+expected);
+*accepting its account without endorsing its conclusions* ("that sounds exhausting, and I can see why you are angry");
+*and tracking its style* (pace, volume, directness, humour).
+
+Joining without a plan is friendliness. Joining is done so that the challenge can be survived.
+
+**Challenging** is the therapist's deliberate disruption of the structure: moving the conversation, blocking a
+coalition, marking a hierarchy, raising intensity until the pattern becomes undeniable, and requiring the family to do
+something different in the room.
+
+**The rule that students must internalise.** A challenge delivered without a join is experienced as an accusation, and
+the family will either comply and hide, or leave. A join without a challenge is a pleasant conversation with no
+therapy in it. The skill is the sequence and the timing, and it is learned by watching recordings, not by reading.
+
+**Three moves of a challenge, in order.**
+
+*Mark the structure.* "I notice that when your wife begins to describe the morning, you look at your phone." The
+observation is neutral, specific and behavioural.
+
+*Change the spatial or conversational arrangement.* "I would like you to tell her that, not me." The move is enacted,
+not discussed.
+
+*Hold the intensity.* The family will attempt to return to the familiar pattern within seconds. The therapist's task is
+to keep the new arrangement in place long enough for something to happen — usually no more than a minute or two, and
+often uncomfortable.
+
+### 4.3a Joining, technique by technique
+
+Joining is the least glamorous and most decisive skill in the model. Five operations, each observable.
+
+**Operation 1 — adopt the family's vocabulary.** Use their words for the problem for at least the first session, even
+when their words are inaccurate. "Stubborn" is the family's word; the therapist who substitutes "oppositional" in the
+first ten minutes has told the family that their account is not the one that counts. The therapist's own vocabulary can
+be introduced later, once the join exists.
+
+**Operation 2 — respect the hierarchy you find.** Speak first to the person the family treats as the head, ask
+permission where permission would be expected, and do not assume that the most talkative member holds the authority.
+In many families the person who telephones is not the person who decides, and a therapist who addresses only the
+telephoner has joined the wrong subsystem.
+
+**Operation 3 — accept the account without endorsing the conclusion.** "That sounds exhausting" accepts the experience
+and does not agree that the child is bad, the husband is useless, or the diagnosis is correct. The distinction is
+subtle, it is the whole of neutrality in this model, and families test it: a therapist who agrees too quickly is
+recruited, and a therapist who disagrees too quickly is expelled.
+
+**Operation 4 — track the family's style.** Pace, volume, directness, humour, formality and the use of silence are all
+style, and a therapist whose style is markedly different will be experienced as foreign whatever the content. A
+therapist who speaks quickly with a slow family, or warmly with a formal one, is not joined however accurate the
+formulation.
+
+**Operation 5 — be useful early, in the family's terms.** A practical question, a piece of information, an offer to
+write to the school: something that shows the therapist can be helpful, before the therapist asks the family to change.
+The model's practitioners are often directive early for exactly this reason.
+
+**What joining is not.** It is not agreement, not flattery, not adopting the family's view of the identified patient,
+and not pretending to be a member. It is the construction of a working relationship in which the therapist will be
+allowed to challenge, and the test of a successful join is that the first challenge is survived.
+
+**The diagnostic question.** After twenty minutes, ask yourself: *if I said something difficult now, would this family
+stay?* If the answer is no, the join is not complete, whatever the warmth in the room.
+
+### 4.4 Signature techniques
+
+Four techniques carry most of the model's practice. Each is a move in the session, and each has a hazard.
+
+**Enactment.** The therapist asks two members to deal with each other directly while the therapist watches and coaches
+from the side. *The script:* "Say that to her, not to me. I will listen." *Why it works:* it converts a report about
+the relationship into the relationship, in the room, where it can be changed. *The hazard:* an enactment begun before
+the therapist has joined will produce a fight, and the therapist will be blamed for it. The judgement is about timing,
+and the marker of good timing is that the family can survive the enactment without the therapist rescuing it.
+
+**Unbalancing.** The therapist deliberately supports one member — usually the one with less power, or the one who is
+being scapegoated — in order to shift the system's equilibrium. *The script:* "I want to hear from her for a few
+minutes, and I would like the rest of you to listen without correcting her." *Why it works:* a system that is stuck in
+one distribution needs a temporary imbalance to move. *The hazard:* unbalancing looks like taking sides, and a therapist
+who unbalances without explaining it, or who unbalances and stays unbalanced, loses the other members. The ethical
+requirement is that the unbalancing serves the family's flexibility rather than the therapist's sympathy.
+
+**Boundary-making.** The therapist marks and enforces a boundary in the room. *The script:* "This is a conversation for
+the two of you; the children will wait outside for ten minutes, and then I will bring them back and tell them what we
+decided." *Why it works:* it enacts the structure that is being proposed, rather than describing it. *The hazard:*
+boundary-making that excludes a member without explanation is experienced as exclusion; the explanation is part of the
+technique.
+
+**Intensity.** The therapist raises the emotional temperature until the pattern cannot be avoided. *The script from the
+course material:* "This is the fourth time you have laughed when your wife described the miscarriage. What is that
+laugh?" *Why it works:* some patterns are maintained by the family's ability to keep the conversation at a safe
+distance, and intensity removes the distance. *The hazard:* intensity is the technique most likely to harm. It requires
+a strong join, a clear clinical purpose, and the therapist's confidence that the family can survive it. Used to express
+the therapist's frustration, it is abuse with a theoretical justification.
+
+### 4.5 The structural first session
+
+A minute-by-minute architecture, which students can rehearse and which transfers to almost any model.
+
+**Minutes 1–5: join and set the frame.** Greet each person by name, establish the practical frame (time, confidentiality
+— see MFT 701 Week 12), and ask the opening question. The opening question is diagnostic: "What brings you here?" is
+asked to the whole family, not to the person who telephoned.
+
+**Minutes 5–15: watch the structure.** Do not intervene. Ask each member what they think the problem is, and observe
+who interrupts, who defers, who speaks for whom, who is silent, and where each person is sitting. The structure shows
+itself in the first ten minutes to a therapist who is not busy asking a list of questions.
+
+**Minutes 15–25: map and mark.** Draw the family map — in your notes, and if useful on paper for the family — with
+subsystems, boundaries, and alignments. Then mark one structural feature aloud, neutrally: "I notice that when your
+mother begins to describe the morning, you look at your phone."
+
+**Minutes 25–40: the first enactment.** Move two members into direct conversation about something concrete, and coach
+from the side. This is where the model's work happens, and it is where the session is most likely to go wrong.
+
+**Minutes 40–50: one structural change.** Agree something that changes the arrangement: a decision the parents make
+together, a boundary about who speaks to the school, a rule that holds for a week. It must be specific, behavioural and
+owned by the family.
+
+**Minutes 50–60: close, with the change named.** Summarise the structure you saw, the change you are proposing, and the
+task. Ask each member whether they can do it, and record what they said.
+
+**What the architecture is for.** It front-loads observation and back-loads intervention, which is the opposite of what
+anxious trainees do. The structure cannot be challenged before it has been seen, and it cannot be seen while the
+therapist is talking.
+
+### 4.5a The structural map, drawn and used
+
+The map is a working instrument, not an illustration. Four symbols, one page, and three questions.
+
+**The symbols.** A rectangle for each person, with the identified patient marked. A line between members for a
+relationship, with a double line for a close one, a broken line for a distant one, and a zigzag for a conflicted one. A
+heavier line around a subsystem that holds authority. An arrow for a coalition.
+
+**The three questions the map answers.** *Where is the authority?* (the heavier line). *Where does the tension go?*
+(the zigzag and the arrow). *Who is outside?* (the person with broken lines and no subsystem).
+
+**A worked map, for the Okonkwos.** The mother and Ebuka are enclosed in a subsystem marked with the heavier line,
+which shows that the executive authority in the week is the mother–son pair rather than the parental pair. The father
+is connected to the mother by a broken line labelled "weekends", and to Ebuka by a dotted line labelled "Friday
+evening". The new baby is attached to the mother with a double line and no connection to the father, which is a
+prediction about the next presenting problem. The maternal aunt is drawn outside the household with a double line to
+the mother, labelled "support", and no connection to anyone else.
+
+**What the map predicts.** That the father's attempts to intervene will be experienced as an intrusion, because he is
+structurally outside the executive subsystem. That the baby will become the next focus of the mother–child pair. And
+that the aunt is the family's only external resource, which makes her both an asset and a risk if the relationship
+fails.
+
+**How to use the map with the family.** Draw it on paper in front of them, roughly, and ask them to correct it. The
+corrections are the assessment, and the moment when a member says "no, put him closer" is a moment of structural
+information that no questionnaire would produce.
+
+**What the map is not.** It is not a diagnosis and not a plan. It is a description of the arrangement that the therapist
+believes is maintaining the problem, drawn so that it can be checked, challenged and changed.
+
+### 4.6 The Adeyemi first move, worked in full
+
+The course material gives the structural reading and two moves. Here is the sequence, with the reasoning and the
+likely obstacles.
+
+**The reading.** The parental subsystem is weak — functionally single in the week, doubled and uncoordinated at the
+weekend. The mother–daughter coalition crosses the generational line: Amara negotiates with her mother, and her mother's
+authority is contested by the father's weekend interventions. The father is structurally peripheral and reacts with
+criticism when pulled in, which confirms his marginality. The younger brother is peripheral, observant, and describes
+the household's emotional temperature accurately.
+
+**Move 1 — the parents alone.** A session with the two parents, by telephone if the father cannot travel, to plan one
+consistent rule and one shared evening. The purpose is structural: to create a parental subsystem that exists before
+the session with Amara, so that there is something for her to encounter.
+
+*The obstacle.* The father may experience this as being summoned to be told off. *The structural answer:* join first —
+acknowledge the cost of working away, and ask him what he would want his daughter to know about his work. Then the
+task: "I want the two of you to decide one thing together, and I want the two of you to tell her, in the same words."
+
+**Move 2 — the joint session.** The parents tell Amara the plan together, while the therapist blocks her attempts to
+negotiate with her mother alone.
+
+*The script.* "Amara, your parents have decided something and they are going to tell you together. I want you to listen
+first and then say what you think." Then, when Amara turns to her mother: "Turn back to both of them. This is their
+decision."
+
+*The obstacle.* Amara will test the coalition — she will appeal to her mother, and her mother will respond. The
+therapist's task is to block the appeal without humiliating either of them: "I know it is easier to ask your mum. Ask
+them both."
+
+**Move 3 — the follow-up.** A task that requires the parents to act together during the week, and a review at which the
+therapist asks the parents first, and asks the brother what he noticed. The brother's answer is the model's outcome
+measure: if the structure has changed, the household's emotional temperature changes, and the peripheral member is
+usually the first to report it.
+
+**What would falsify the reading.** If the parents agree a rule and hold it for two weeks and the mornings do not
+change at all, the coalition is not the maintaining mechanism (compare MFT 701 Week 13's testability requirement). The
+next hypothesis would be the mother's grief and the daughter's role as her companion — a Bowen or object-relations
+reading — and the plan would change accordingly.
+
+### 4.6a Two structural first sessions, one that works and one that does not
+
+**The session that works.** A family of four: parents, a 15-year-old son referred for "aggression", and a 12-year-old
+daughter. The therapist joins for twenty minutes, noting that the mother answers every question, the father looks at the
+mother before speaking, and the son has not been addressed. In minute nineteen the therapist says: "I would like to hear
+from your son for a few minutes, and I would like the two of you to listen without correcting him." The parents agree.
+The son speaks for four minutes and describes a household in which his father is "always at work and then always angry".
+The therapist says, to the father: "He has just told you something. What do you want to say to him?" The father, after a
+long silence, says: "I did not know he thought that." The session ends with a task: father and son, one hour, on
+Saturday, without the mother. The mother objects; the therapist acknowledges the objection and holds the task.
+
+**Why it works.** The join was long enough. The first move was a boundary: it moved the conversation from the
+mother–therapist dyad to the father–son dyad, which is where the structural problem was. The task enacted the boundary
+in the week. And the therapist held the arrangement through the mother's objection, which is the unbalancing that the
+system needed, delivered without criticising her.
+
+**The session that does not work.** The same family, a different therapist. Ten minutes of joining. At minute eleven the
+therapist says: "I think the problem is that the two of you are not united as parents, and your son is running the
+house." The mother defends herself, the father agrees with the therapist, the son becomes silent, and the therapist
+spends the remaining forty minutes managing the conflict she has produced. The session ends with an apology from the
+mother and no task.
+
+**Why it fails.** The challenge came before the join could survive it. The formulation was delivered as a verdict ("I
+think the problem is") rather than enacted. The father's agreement positioned the therapist in a coalition against the
+mother, which confirmed the structure rather than changing it. And the identified patient was discussed rather than
+addressed, which is the pattern the family came with.
+
+**The difference, in one sentence.** The first therapist changed the arrangement and let the family discover the
+problem; the second described the problem and let the family defend itself. That sentence is the model, and it is the
+reason the laboratory is structured around three attempts rather than around a discussion of technique.
+
+### 4.7 Annotated transcript: an enactment that works
+
+A twelve-turn sequence from a first session with the Ogundipes, whose presenting complaint is the wife's "anger" and
+the husband's "distance". The therapist has joined for twenty minutes and is now making the first structural move.
+
+> **T1 Therapist:** I want to try something different. Mrs Ogundipe, you have told me three times what happens when you
+> ask him about the money. I would like you to tell him, not me, and I will sit back.
+> **T2 Wife:** (to therapist) He will not answer.
+> **T3 Therapist:** Maybe. Tell him anyway. (waits)
+> **T4 Wife:** (to husband, after a pause) When I ask you about the money you go quiet, and then I am shouting at
+> nothing.
+> **T5 Husband:** I am not going quiet. I am thinking.
+> **T6 Wife:** You are thinking for three days?
+> **T7 Therapist:** (to husband) Answer her. Not me.
+> **T8 Husband:** (long pause) I do not know what to say, so I say nothing.
+> **T9 Wife:** And I am supposed to guess that?
+> **T10 Therapist:** (to wife) Ask him what he needs from you in that moment.
+> **T11 Wife:** (pause) What do you need from me when you go quiet?
+> **T12 Husband:** (quietly) Ten minutes. Not a solution. Ten minutes.
+
+**Annotations.** *T1* announces the move, names the pattern the therapist has observed ("three times"), and instructs
+the two members to address each other. The therapist's withdrawal — "I will sit back" — is the structural operation:
+the therapist leaves the executive position so that the couple can occupy it.
+
+*T2* is the first test. The wife addresses the therapist, which is the pattern the enactment is designed to interrupt.
+*T3* does not argue, does not reassure, and does not repeat the instruction at length; it holds the arrangement with
+two words and a wait. Holding is the technique, and the wait is the intervention.
+
+*T6* is the moment the escalation begins, and *T7* redirects the husband without criticising the wife — a small act of
+unbalancing toward the more passive member, in the service of the enactment rather than of either person.
+
+*T11* is the payoff, and it is the therapist's prompt that produces it: a question that requires the wife to be curious
+rather than accusatory, addressed to her husband rather than to the therapist. *T12* is the sentence the couple came
+for, and neither could have said it in a session conducted as a series of reports to the therapist.
+
+**What the therapist did not do.** Did not interpret the husband's silence (an object-relations move), did not teach a
+communication skill (a behavioural move), and did not ask about the couple's families of origin (a Bowen move). Each of
+those is a legitimate intervention in its own model; each would have interrupted the enactment.
+
+**What the therapist watched for.** Whether the couple could survive sixty seconds of direct conversation without the
+therapist rescuing them. They could, just, and the enactment was extended. If they had not been able to, the
+therapist's task would have been to shorten the next enactment, not to abandon the technique.
+
+### 4.7a When the enactment fails, in three ways
+
+Enactments fail more often than they succeed in training, and the failures are instructive.
+
+**Failure 1 — the couple addresses the therapist.** Both members continue to speak to the therapist while ostensibly
+speaking to each other, and the therapist becomes the relay. *The correction:* do not paraphrase and do not answer. Say
+"tell her" and wait, however long the silence. The wait is the intervention, and trainees find it almost unbearable:
+the average trainee breaks a silence at four seconds, and the family needs twelve.
+
+**Failure 2 — the enactment escalates into a fight.** The volume rises, one member threatens, and the therapist
+intervenes to protect. *The correction, in the moment:* stop the enactment, name what happened without blame ("this is
+getting hot; let us pause"), and return to it later in shorter form. *The correction, in the design:* shorter
+enactments, a narrower topic, and an explicit agreement before beginning — "say one sentence, then let him answer, and I
+will keep the time."
+
+**Failure 3 — the enactment is polite and nothing happens.** The couple performs a calm exchange, agrees, and the
+session ends pleasantly. *The diagnosis:* the topic was too safe, or the therapist's join was so comfortable that
+nothing was at stake. *The correction:* choose a subject on which the couple genuinely disagree, and state the stakes —
+"you have told me two different things about Saturday; I want to hear you disagree about it."
+
+**The principle behind all three corrections.** An enactment is a controlled exposure to the relationship itself. It
+needs enough reality to produce the pattern, and enough structure to survive it. The therapist's judgement is entirely
+about that balance, which is why the technique cannot be learned from a book and why the laboratory uses three attempts
+rather than one.
+
+### 4.8 Laboratory: one enactment, three attempts
+
+The practical runs in triads with a strict structure, because enactment is the technique trainees most often perform
+badly and most often mistake for a conversation.
+
+**Setup.** A role-played couple with a live disagreement (money, a mother-in-law, a child's school). The therapist has
+five minutes to join, and then must attempt one enactment.
+
+**Attempt 1 — no join.** The therapist moves to the enactment within ninety seconds. The couple deflects, the
+therapist insists, and the exercise is stopped at four minutes. The observers note what happened in the couple's
+bodies and voices.
+
+**Attempt 2 — join, then enactment, then rescue.** The therapist joins for five minutes, begins the enactment, and then
+intervenes after twenty seconds to smooth the conflict. The exercise is stopped. The debrief question: "what did the
+rescue do to the arrangement?"
+
+**Attempt 3 — join, enact, hold.** The therapist joins, moves to the enactment, and holds the arrangement for two
+minutes without rescuing, coaching only when a member addresses the therapist instead of the partner.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Joining | 20% | The family's language, hierarchy and style accommodated before any challenge |
+| The move itself | 25% | A clear, announced instruction to address each other, with the therapist visibly withdrawing |
+| Holding | 25% | The arrangement maintained for at least ninety seconds; redirects rather than rescues |
+| Coaching from the side | 15% | Prompts that require curiosity or specificity, not prompts that supply the content |
+| Debrief | 15% | Can describe what the enactment revealed and what would have made it unsafe |
+
+**The commonest failure, and why it matters.** Rescuing. Trainees intervene at the first sign of discomfort, and the
+intervention converts the enactment back into a report. The correction is not to become comfortable with distress; it
+is to distinguish *distress that the family can survive* from *distress that requires stopping*, and to hold the first
+while stopping the second. That distinction is the whole of the technique, and it is learned by watching recordings of
+oneself.
+
+### 4.8a The matrix row, written
+
+| Dimension | Structural family therapy |
+|---|---|
+| Theory of problem | Difficulties are maintained by the family's organisation: unclear or inverted hierarchy, diffuse or rigid boundaries, and cross-generational coalitions that recruit a member into adult conflict |
+| Unit of focus | The whole family as a structure with subsystems and boundaries, observed in the session |
+| Theory of change | Restructure in the room; action precedes insight, and a different arrangement produces a different experience |
+| Therapist position | Active director and stage-manager who joins and then challenges; uses self as a lever, explicitly |
+| Signature techniques | Enactment, unbalancing, boundary-making, intensity, spatial arrangement |
+| Evidence base | Moderate to strong for child and adolescent behaviour problems, adolescent substance misuse and eating disorders, usually as a component of a family-based programme; thin as a stand-alone treatment for adult and couple presentations |
+| Cultural assumptions | That a two-parent hierarchy with clear generational boundaries is the healthy form; that the household is the relevant unit; that the therapist has the mandate to restructure |
+| Blind spot | Can impose a norm the family does not hold; can be experienced as controlling; under-attends to inner life, history, gender and material conditions |
+
+**The viva sentence.** "I use structural work when the maintenance pattern is organisational and can be acted on in the
+room, with the caveat that the hierarchy I strengthen must be the family's own and must not be maintained by fear — and
+I measure whether the restructuring holds in the week."
+
+### 4.9 Six errors in structural work
+
+1. **The challenge without the join.** Moving to restructuring in the first ten minutes. Fix: twenty minutes of
+   observation and accommodation before the first challenge, and no exceptions for experienced therapists.
+2. **The rescue.** Intervening at the first sign of conflict, converting the enactment back into a report. Fix: hold
+   for ninety seconds; redirect only when a member addresses the therapist instead of the partner.
+3. **The imposed norm.** Restructuring a family toward a two-parent, hierarchical, Western nuclear arrangement that the
+   family does not hold and cannot enact. Fix: ask what the family's own hierarchy is, and work with it.
+4. **Unbalancing that becomes siding.** Supporting one member for so long that the others experience the therapist as
+   their opponent. Fix: state the purpose of the unbalancing, keep it temporary, and rebalance before the session ends.
+5. **The missing symptom check.** Restructuring for six sessions and never asking whether the presenting problem has
+   changed. Fix: the review question at every third session, with the family's own measure.
+6. **Intensity as irritation.** Raising the emotional temperature because the therapist is frustrated. Fix: intensity
+   requires a stated clinical purpose and a strong join; without both, it is abuse with a rationale.
+
+### 4.10 Culture, faith and the structural norm
+
+This model carries the clearest normative picture of a family in the whole course, and the picture is culturally
+specific. A student who cannot critique it should not use it.
+
+**The norm.** Minuchin's model assumes a family with a parental subsystem that holds executive authority, clear
+boundaries between the generations, and children who are not involved in adult conflicts. The picture is of a nuclear
+household with two parents, in a society where the state, the school and the clinic are external.
+
+**Where the norm does not fit.** Four common configurations.
+
+*The three-generational household.* When a grandmother holds executive authority over the children and the mother
+implements it, the structural therapist's "strengthen the parental subsystem" may mean removing the grandmother's
+authority — which is a cultural intervention disguised as a structural one. The correct move is to ask what the
+family's hierarchy is, and to work with its own distribution of authority: "In this house, who decides about school?
+And who does your mother consult?" The structural problem is not that the grandmother has authority; it is that the
+authority is unclear, or contested, or exercised without coordination.
+
+*The household divided by migration.* A father working in another city is structurally peripheral by circumstance, not
+by disengagement. The model's language ("peripheral father") can imply a choice. The correct formulation names the
+arrangement and its cost, and works with the arrangement rather than against it — for example, by building a parental
+subsystem that operates by telephone at an agreed time, and by making the weekend a structural event rather than an
+afterthought.
+
+*The extended family as the executive.* In many families the decisions about a child are made by a lineage group — the
+father's brothers, the mother's eldest sister, a family head. A structural therapist who works only with the household
+will restructure a subsystem that does not hold the authority. The correct move is to map the decision-making network
+and to invite its relevant members, or to work with the household's account of them.
+
+*Gender and authority.* The model's "hierarchy" can be read as an endorsement of the father's authority, which is
+harmful where the father's authority is coercive. The ethical floor of MFT 701 Week 12 applies: the model must not be
+used to strengthen a hierarchy that is maintained by fear.
+
+**How to use the model well across cultures.** Three practices.
+
+*Ask for the family's own map.* "If I drew this family the way you see it, who would be at the top, who would be at the
+sides, and who would be in the middle?" Families produce a structure, and the structure is the one to work with.
+
+*Distinguish clarity from content.* The model's real claim is not that a particular hierarchy is correct but that
+unclear hierarchy produces symptoms. That claim survives translation: a family in which nobody knows who decides, or in
+which two people both believe they decide, will produce difficulty, whatever the cultural form.
+
+*Let the family judge the change.* A restructuring that the family experiences as a loss of its own values will not
+hold. The test is not whether the therapist's map is elegant but whether the family can enact the new arrangement
+without feeling that it has betrayed itself.
+
+> **DEBATE** — "Structural family therapy is the most culturally risky model in this course." Argue for and against,
+> using the three-generational household as your case.
+
+### 4.10a Two critiques, stated in their strongest form
+
+**Critique 1 — the model is manipulative.** The therapist forms a diagnosis that is not shared with the family,
+deliberately unbalances the system, raises intensity without consent, and arranges the family's seating and
+conversation to produce a predetermined change. In its strongest form: *the model treats the family as an object to be
+reorganised, and its techniques are effective precisely because the family does not know what is being done.*
+
+*The strongest answer.* The model's practitioners argue that the family is told what is happening in the room ("I want
+you to say that to her, not to me"), that the restructuring is offered rather than imposed (families refuse tasks, and
+the refusal is information), and that the alternative — a therapist who explains a formulation and asks the family to
+agree with it — presumes a verbal, middle-class competence that many families do not have. The response is respectable
+and incomplete: the charge of manipulation has force wherever the therapist's purpose is concealed, and the corrective
+is transparency about the move, not concealment of it.
+
+**Critique 2 — the model imposes a cultural norm.** The theory assumes a hierarchy in which parents hold executive
+authority, a household with two parents present, and clear generational boundaries. In its strongest form: *the model
+treats the Western nuclear family as healthy and everything else as an approximation of it, and its interventions
+therefore pathologise extended, transnational and matrifocal families.*
+
+*The strongest answer.* The theory's actual claim is narrower than its reputation: it claims that *unclear* hierarchy
+produces symptoms, not that a particular hierarchy is correct. That claim survives translation, and the model can be
+used with a three-generational household by working with the hierarchy the family actually holds. The response is
+again respectable and again incomplete: the model's case examples and its normative vocabulary carry the stronger
+claim, and a clinician who uses the model without auditing that vocabulary will reproduce it.
+
+**What the two critiques have in common.** Both concern power: the therapist's power to define and reorganise, and the
+model's power to define what a family should look like. The mature use of the model requires the therapist to be
+explicit about both, which is the same requirement MFT 701 Week 12 set for every model in the field.
+
+### 4.11 Evidence note: the strongest evidence among the classical models
+
+Structural family therapy has better trial evidence than most of the classical models, and the evidence is specific.
+
+**Where the evidence is strong.** Structural and structural-adjacent family approaches are supported for child and
+adolescent behaviour problems, for substance misuse in adolescence (including multidimensional family therapy, which
+descends from the structural tradition), and for eating disorders in adapted forms. Minuchin's own work on anorexia
+and on psychosomatic families is historically important, though the early studies do not meet current methodological
+standards.
+
+**Where the evidence is moderate.** Family-based interventions for delinquency and for school refusal, where structural
+elements are combined with behavioural and multisystemic components. The evidence rarely supports structural therapy
+alone; it supports structural work as a component of a multi-component approach.
+
+**Where the evidence is thin.** Structural family therapy as a stand-alone treatment for adult individual
+presentations, for couple distress (where behavioural and emotion-focused models have better evidence), and for
+complex trauma.
+
+**What the matrix cell should say.** "Moderate to strong for child and adolescent behaviour problems, substance misuse
+and eating disorders, usually as a component of a broader family-based programme; thin as a stand-alone treatment for
+adult and couple presentations." That cell is specific, it is honest, and it would survive a viva.
+
+**The practitioner's claim.** "I am using structural work with this family because the maintenance pattern is
+organisational and I can act on it in the room, and because there is evidence for family-based structural approaches
+with this kind of presentation — and I will measure the outcome in six weeks." The claim is modest, accurate and
+defensible, which is what the course is trying to teach.
+
+### 4.11a Structural work with a family in which the father is absent by circumstance
+
+The commonest structural mistake in a Nigerian clinic, and the correction.
+
+**The case.** A family of five: mother (39, trader), three children (14, 11, 6), and a father who works in Abuja and
+returns every six to eight weeks. The referral is the 14-year-old's withdrawal and falling grades. The mother
+describes herself as "the only parent". The father, reached by telephone, is courteous, worried, and entirely absent
+from the household's daily operation.
+
+**The bad structural reading.** "Peripheral father; weak parental subsystem; mother–adolescent enmeshment." The reading
+is accurate as a description and wrong as a formulation, because it treats a circumstance as a choice and implies that
+the father should be present, which he cannot be.
+
+**The better formulation.** The household's executive subsystem is the mother, alone, for seven weeks in eight. The
+father holds authority without information: his decisions are made from a distance, on the basis of a summary, and
+they arrive as interruptions. The adolescent's withdrawal coincides with the father's last visit, at which a school
+decision was made without the mother's agreement. The structural problem is not the father's absence; it is the
+**uncoordinated decision-making across the two locations.**
+
+**The structural intervention, adapted.**
+
+*First, make the two-location system explicit.* Draw the map with the father in a separate box labelled "Abuja,
+six weeks", connected to the mother by a line labelled "telephone, Sundays" and to the children by a dotted line
+labelled "visits". The family corrects the map, and the corrections are the assessment.
+
+*Second, create a decision-making channel that works at a distance.* A weekly fifteen-minute call between the parents,
+at a fixed time, whose purpose is decisions rather than reports, and at which the children are not present. The
+structural claim is that a parental subsystem can exist across two locations if it has a routine.
+
+*Third, use the visit as a structural event.* The father's returns should be planned with the mother before he arrives:
+what will be decided, who will be told, and what the children will experience. A visit that is unplanned is a
+disruption; a visit that is planned is an executive meeting with affection in it.
+
+*Fourth, give the adolescent a legitimate position.* The 14-year-old is currently the household's third adult — informed
+of the finances, consulted about the younger children, and therefore unable to be a child. The structural move is to
+return that responsibility to the mother and the aunt, explicitly, and to say why: "you have been carrying something
+that is not yours to carry."
+
+**What the model contributes here.** Not a demand that the father be present, which would be an imposition of the
+model's norm, but a precise description of a two-location structure and a set of moves that make it work. The
+correction of the commonest error — reading a circumstance as a deficit — is the whole of culturally competent
+structural work.
+
+### 4.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Structure | The repetitive patterns of interaction that organise a family |
+| Subsystem | A unit within the family defined by a boundary (couple, parental, sibling, individual) |
+| Boundary | The rules governing participation, closeness and inclusion |
+| Diffuse boundary / enmeshment | Too little separateness; participation and feeling shared without limit |
+| Rigid boundary / disengagement | Too little contact; members isolated from one another's experience |
+| Hierarchy | The distribution of authority and responsibility, especially between generations |
+| Alignment | A joining of members for a purpose |
+| Coalition | A joining of two or more members against a third |
+| Cross-generational coalition | A coalition across the generational line, typically a parent and child against the other parent |
+| Complementarity | The reciprocal relation between behaviours, so that over-functioning in one produces under-functioning in another |
+| Identified patient | The member who carries the symptom, understood as the place where a structural problem becomes visible |
+| Joining | The therapist's deliberate accommodation to a family's style and rules in order to be accepted |
+| Enactment | Bringing a relationship into the room by instructing members to deal with each other directly |
+| Unbalancing | Deliberately supporting one member to shift the system's equilibrium |
+| Intensity | Raising the emotional temperature until the pattern cannot be avoided |
+
+### 4.13 Self-test
+
+1. What is structure, and why is it visible in the session?
+2. Distinguish a coalition from an alignment, and give a cross-generational example.
+3. What is the difference between the couple subsystem and the parental subsystem?
+4. Why must joining precede challenging?
+5. Describe enactment, unbalancing, boundary-making and intensity, with one hazard for each.
+6. What is the structural reading of the Adeyemi family, and what would falsify it?
+7. What are the two elements of an honest evidence claim for this model?
+8. Name three configurations in which the model's norm of hierarchy does not fit a family you might see.
+
+**Answers.** 1. The repetitive interaction patterns that organise a family; because families enact them in the room —
+who speaks, who is interrupted, who sits where, who answers for whom. 2. An alignment is a joining for a purpose; a
+coalition is a joining against a third. Cross-generational example: a mother and daughter allied against the father's
+authority. 3. The couple subsystem concerns the partners' relationship; the parental subsystem concerns their joint
+executive authority over the children. A family can have a strong parental subsystem and a weak couple. 4. Because a
+challenge delivered without a join is experienced as an accusation, and the family will comply and hide or leave. 5.
+Enactment (hazard: begun too early, it produces a fight); unbalancing (hazard: it becomes siding); boundary-making
+(hazard: exclusion without explanation); intensity (hazard: it becomes the therapist's frustration expressed through
+technique). 6. Weak parental subsystem, mother–daughter cross-generational coalition, peripheral father who criticises
+when pulled in; falsified if a jointly agreed rule held for two weeks changes nothing in the mornings. 7. That the
+evidence is moderate to strong for child and adolescent behaviour problems, substance misuse and eating disorders, and
+thin as a stand-alone treatment for adult and couple presentations. 8. The three-generational household; the household
+divided by migration; the extended family as the executive; and any family where the father's authority is coercive.
+
+### 4.13a The task, and the four tests of a good one
+
+Structural work almost always ends with a task, and the task is where most structural therapy fails outside the room.
+
+**The four tests.**
+
+*Test 1 — does it enact the structure rather than describe it?* "Agree one sentence and both say it" enacts a parental
+subsystem. "Try to communicate better" describes an aspiration and enacts nothing.
+
+*Test 2 — is it specific enough to fail?* A task that cannot fail cannot succeed either. "Have a conversation this
+week" cannot be evaluated; "on Wednesday, after the children are in bed, spend fifteen minutes on the school decision,
+and nobody leaves the room" can.
+
+*Test 3 — does it require the subsystem you are trying to strengthen?* If the goal is a parental subsystem, the task
+must require the parents to act together, not each of them to act on the child.
+
+*Test 4 — can this family do it in this week?* The task must fit the household's actual week — shifts, travel,
+school runs, the grandmother's presence. A task designed for a family with an empty evening will fail, and the failure
+will be read as resistance.
+
+**The commonest task failures.** The task that is really advice ("try to be firmer"); the task that requires a person
+to feel something ("tell her how you feel"); the task that is too big to start ("spend every evening together"); and the
+task that the therapist has not checked with the family ("I would like you to..." followed by silence and no question).
+
+**How to close a session with a task.** State it; ask each member whether they can do it; ask what might get in the way;
+ask what they will do if it does; write it down; and give the family the note. Then, at the next session, ask about the
+task first, before anything else, because the family will read the therapist's attention as the measure of what matters.
+
+### 4.14 Reflective task
+
+Draw the structural map of your own family of origin: subsystems, boundaries, the hierarchy, and one coalition. Then
+write 250 words on which feature of the map you found hardest to draw, and why. Students usually find that the hardest
+feature is a boundary they have never described — a silence, an exclusion, an alliance nobody names — and that the
+difficulty of drawing it is the difficulty of working with it in someone else's family.
+
+### 4.15 Readings for this week
+
+* **Minuchin (1974)**, *Families and Family Therapy*, the whole of it, and twice for the transcripts.
+* **Minuchin & Fishman (1981)**, *Family Therapy Techniques*, for enactment, unbalancing and intensity, demonstrated in
+  dialogue.
+* **Minuchin, Rosman & Baker (1978)**, *Psychosomatic Families*, for the historical application to anorexia.
+* **Colapinto**, any review chapter on structural family therapy, for the systematic summary.
+* **A recorded session by Minuchin**, watched twice: once for what he says, once for what he does with his body, his
+  seating and his timing.
+
+*Next: [Week 5 — Strategic and MRI brief therapy](#week-5--strategic-and-mri-brief-therapy)*
 
 ---
 
