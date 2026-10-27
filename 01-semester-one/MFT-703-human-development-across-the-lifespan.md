@@ -8508,9 +8508,14 @@ interpret, or to fill a silence, and that the silence was where the material was
 
 ---
 
-## Week 13 — Culture, poverty and development
+## Week 13 — Culture, poverty and development: the critique of the norms
 
-Development is not culture-free. Three critiques you must be able to state:
+Development is not culture-free. Every norm in the preceding twelve weeks was measured somewhere, on
+somebody, and the somewhere and the somebody matter. This week supplies the critique, and the critique is not
+an optional add-on for students with an interest in culture; it is a correction to the instrument they have
+been learning to use.
+
+**The four critiques you must be able to state.**
 
 1. **The norms are Western.** Attachment classifications, individuation timetables and "school readiness"
    were normed on particular populations. A child who sleeps in the parental bed until five is not
@@ -8518,14 +8523,699 @@ Development is not culture-free. Three critiques you must be able to state:
 2. **Poverty changes development.** Chronic stress, food insecurity, crowding and insecure housing affect
    attention, sleep, and the capacity for consistent parenting. Diagnosing "inconsistent parenting" without
    naming material conditions is a category error.
-3. **Extended and distributed caregiving is normal.** In much of the world, children are raised by
-   networks — grandparents, aunts, older siblings, co-wives, foster kin. Attachment theory travels
-   better when it is asked *"who does this child seek when frightened?"* rather than "is the mother
-   attuned?"
+3. **Extended and distributed caregiving is normal.** In much of the world, children are raised by networks
+   — grandparents, aunts, older siblings, co-wives, foster kin. Attachment theory travels better when it is
+   asked *"who does this child go to when she is frightened?"* rather than "is she securely attached to her
+   mother?"
+4. **The measurement is part of the finding.** A test administered in a second language, by a stranger, in a
+   clinic, to a child who has been told to be quiet, measures the test situation as well as the child. This
+   is not a reason to abandon measurement; it is a reason to interpret it with the conditions attached.
 
-> **CRITICAL READING** — Read one cross-cultural critique of attachment theory and one study of
-> caregiving in a non-Western setting. Write 500 words on what you would change in your own assessment
-> template as a result.
+**Why this week is placed here and not earlier.** Because a critique of the norms is only usable by someone
+who knows the norms. A student who has not spent twelve weeks learning what typical development looks like
+cannot evaluate the claim that the norms are parochial; they can only repeat it. By this point in the course
+the student has the instrument, and this week teaches them what it does not measure.
+
+**What the week is not.** It is not a claim that development is entirely relative, that milestones are
+meaningless, or that any practice is defensible because it is cultural. Children die from practices that are
+cultural, and the therapist who cannot say so has abandoned the child. The position is narrower and harder:
+the norms describe *one* pathway in detail, other pathways exist and are not deficient, and the clinical
+question is always what this child, in this household, with these resources, needs in order to develop.
+
+> **CASE** — A four-year-old sleeps in her parents' bed in a two-room flat shared with her father's brother.
+> The nursery nurse who referred her has written "over-attached, does not self-soothe". The family is
+> offended and has come only because the school insisted. Assessment finds: the child plays richly, separates
+> without distress, has three adults who respond to her, and has no bedroom. The referral's central
+> "finding" is a description of the housing.
+
+### 13.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The problem | Why a norm is a measurement plus a population, and what happens when the population is missing | Write the population behind one milestone they know |
+| 8–22 | The Western norms | Attachment, individuation, readiness — what was measured, on whom, and by whom | Interrogate one classification system |
+| 22–36 | Poverty as a developmental variable | The five mechanisms, and the evidence for each | Trace one mechanism through a case they have seen |
+| 36–48 | Distributed caregiving | The network as the unit; the "who does she go to?" question | Map a child's caregiving network from a description |
+| 48–60 | The measurement problem | Language, stranger, setting, instruction — four contaminants | Design a fair assessment for a named child |
+| 60–72 | The interpreter | Working with a third person in the room, and the four rules | Practise a three-way conversation |
+| 72–82 | When to hold the line | The practices a therapist must not relativise, and how to say so | Argue one case both ways and then decide |
+| 82–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** The risk in a week on culture is that it becomes either
+a sermon on sensitivity or a defence of the discipline. The lecture avoids both by making the class do
+*measurement*: give them a milestone chart and ask them to write down the population it was normed on. They
+cannot, and the inability is the lesson. The instrument they have been using all term is precise and its
+precision has a location.
+
+**The sentence the lecture must land.** "Every norm is somebody's average. Your job is to know whose, and
+then to decide what this child needs."
+
+### 13.2 The four critiques worked
+
+**1. The norms are Western, and more specifically they are from a handful of studies.** The Strange Situation
+was developed in Baltimore in the 1970s on a sample of about a hundred infants; its classifications have been
+replicated in dozens of cultures, which is a genuine strength, and the *distribution* of classifications
+varies in ways that are informative. In several Northern German samples, avoidant classification was more
+common; in several Japanese samples, resistant. Neither distribution indicated a population of insecure
+children; it indicated a population of caregiving practices. The classification is a description of a
+relationship under a particular stressor, not a score of maternal quality.
+
+The same applies to individuation. The timetable in which a child sleeps alone, weans early, and separates
+for nursery at eighteen months is a description of a particular household economy. A child who sleeps with
+her mother until five and is carried until three is not delayed; she is participating in a practice with its
+own developmental logic, and the evidence on later independence does not support the claim that early
+separation produces it.
+
+**2. Poverty is a developmental variable with mechanisms, not a background fact.** The mechanisms are five,
+and each is worth knowing because each is addressable.
+
+- **Chronic stress physiology.** Poverty is associated with elevated cortisol and with alterations in the
+  developing stress response, which affects attention, sleep and emotional regulation. The mechanism is
+  biological and the cause is material.
+- **Food insecurity.** Both under-nutrition and the unpredictability of food affect growth, attention and
+  behaviour. A child who has not eaten since the previous evening is not in a condition to learn, and the
+  behaviour that results is routinely read as a disorder.
+- **Crowding.** Sleep disruption, no space for homework, no privacy for an adolescent, and no quiet for a
+  child with a hearing loss. Crowding is measurable and is almost never measured.
+- **Housing instability.** Moves disrupt schooling, friendships and the continuity of care, and the
+  disruption is frequently read as the child's difficulty with change.
+- **Parental bandwidth.** A parent managing money, transport, water, safety and a job has less attention for
+  the ordinary work of parenting, not because they care less but because attention is finite. This is the
+  finding that most changes a clinician's practice, because it converts "inconsistent parenting" from a
+  character judgement into a resource calculation.
+
+**3. Distributed caregiving is the norm in most of the world.** A child may be raised by a grandmother
+during the week and a mother at weekends, by an aunt in the city and parents in the village, by an older
+sister for most of the day. The clinical task is not to assess whether the arrangement is optimal by a
+Western standard; it is to ask whether the child has at least one adult who is *reliably* available and
+responsive, and whether the adults are coordinated.
+
+The question that replaces the Strange Situation in practice: "when she is frightened or hurt, who does she
+go to?" Followed by: "and does that person know that they are the one?" The second question is the one that
+finds the problem, which is usually a coordination problem rather than a deficit of care.
+
+**4. The measurement is part of the finding.** Four contaminants, all of which the therapist can control.
+
+- **Language.** A test in a second language measures proficiency, not ability. Assess in the stronger
+  language, or use a nonverbal instrument, or bring an interpreter — and record which.
+- **The stranger.** A child who has been taught not to speak to unfamiliar adults will perform poorly with a
+  clinician and well at home. Observe in the home, or with the caregiver present, or both.
+- **The setting.** A clinic room with a stranger and a parent who is anxious is a particular social
+  situation, and the child's behaviour in it is a response to that situation.
+- **The instruction.** A child who has been told that children should be seen and not heard may answer "I do
+  not know" to every question, accurately, as a matter of manners.
+
+**The correction that follows.** Report the conditions with the finding. "Receptive language age equivalent
+three years six months, assessed in English, second language, with mother present, in clinic" is a
+substantially different statement from "language delay", and the difference is the whole of this week.
+
+### 13.2a When the norms are right and the family is wrong
+
+The week's hardest teaching point, and the one that separates a culturally competent clinician from a
+relativist.
+
+**The four categories.** A practice may be *different and equivalent* (co-sleeping, early weaning,
+grandparent care), *different and better* (a caregiving network that gives a child four adults instead of
+two), *different and harmful* (female genital cutting, corporal punishment to the point of injury, withholding
+food as discipline, a child kept out of school to work), or *not a practice at all but a consequence*
+(crowding, hunger, an untreated infection).
+
+**The therapist's obligation in the third category.** Name it, once, plainly, and then act according to the
+law and the safeguarding framework. The order matters: name it to the parents first, in the family's own
+terms, before any referral. A parent who learns from a social worker what the therapist thought has been
+humiliated, and the humiliation will be remembered by the whole extended family.
+
+**How to name it without a lecture.** Three sentences. First, the practice, described factually: "you told
+me that when he is disobedient he is beaten with a cable." Second, the concern, in developmental terms: "I am
+worried about his body and about what it teaches him about being hit by people who love him." Third, the
+position: "I am not able to work with a plan that includes that, and I would like to find something else that
+works."
+
+**What not to do.** Do not relativise harm ("in your culture that is normal"), which abandons the child. Do
+not moralise ("that is child abuse"), which ends the relationship before any change is possible. Do not
+report without telling the parents, which is sometimes legally required and is always clinically costly and
+must be explained as it happens.
+
+**The position in one sentence.** Culture explains a practice; it does not decide whether the practice is
+good for this child. The therapist's obligation is to hold both halves of that sentence at once, which is
+what makes the work difficult and what makes it worth doing.
+
+### 13.2b Three network configurations and what each needs
+
+Distributed caregiving is not one arrangement. Three configurations account for most of the households in
+these clinics, and each has a different clinical question.
+
+**Configuration 1 — The grandmother as primary carer.** The mother works, the grandmother raises the child
+from six months, and the mother resumes the primary role at school age. The child is well cared for and
+attached, and the transition at school age is the clinical event. The presenting difficulty is usually
+"he does not listen to me" — addressed to the mother, by a child who has had three years of a different
+authority. The question is not whether the arrangement was right; it is how the transfer of primary
+authority is conducted, and it is conducted best when it is explicit and gradual, with the grandmother's
+status preserved rather than retired.
+
+**Configuration 2 — The circulating child.** A child who moves between households — school terms with an
+aunt in the city, holidays in the village, a period with a godmother. This arrangement is common, is often
+economically rational, and produces a specific clinical picture: a child who is competent, adaptable, and
+reluctant to attach quickly, and who is described by adults as "he does not settle". The clinical question is
+not whether circulation is harmful — the evidence is mixed and depends almost entirely on whether the moves
+were explained and whether one adult remained constant — but which adult has been constant, and whether the
+child knows that the constancy is intended to continue.
+
+**Configuration 3 — The compound.** Several related households in one space, with children moving between
+them freely and discipline distributed across adults. The child has many caregivers and no privacy, and the
+developmental benefits are real: language exposure, multiple attachment figures, early social competence. The
+clinical difficulty is coordination: a child with a hearing loss in a compound is spoken to by eleven people
+in four languages and is described as "confused", and no single adult has the authority to change the
+arrangement.
+
+**The question for all three.** "Who is the person this child would go to, and does that person know?" In
+configuration 1 the answer is usually the grandmother, and the mother does not know it. In configuration 2
+the answer is usually an aunt, and the parents assume it is themselves. In configuration 3 the answer is
+frequently an older sibling, which nobody has noticed.
+
+### 13.3 The method: a developmental cultural formulation
+
+Six questions, adapted from the standard cultural formulation for use with a child and a family. Twenty
+minutes, and the answers go in the record because they change the interpretation of everything else.
+
+**Question 1 — Who is in this child's world, and what does each person do?** Not the household roster. The
+functions: who feeds, who puts to bed, who takes to the clinic, who disciplines, who plays, who is trusted
+with a secret at eleven years old. The answer is the network, and it is frequently larger than the referral
+suggests.
+
+**Question 2 — What is this family's account of the problem, and what does it predict?** Families hold
+theories — spiritual, developmental, characterological, medical, or a mixture — and the theory predicts what
+they will do. A family that believes the problem is spiritual will pursue prayer; a family that believes it
+is character will pursue discipline. The therapist who does not ask will recommend something the family
+cannot use.
+
+**Question 3 — What has the family already tried, and what did it cost them?** The answer is the family's
+competence and its budget. A family that has spent four months' income on a treatment that failed is not
+unmotivated; it is exhausted and poorer.
+
+**Question 4 — What are the material conditions?** Income, food, housing, water, transport, crowding, the
+number of people per room, the distance to the clinic. Asked plainly, as part of the history, not as a
+delicate enquiry. Families answer these questions readily when they are asked as facts rather than as
+suspicions.
+
+**Question 5 — Who has the authority to decide, and who has the authority to be believed?** These are
+frequently different people. A grandmother may decide and a pastor may be believed. The plan must be
+addressed to both.
+
+**Question 6 — What does this family want for this child, in ten years?** The question produces the family's
+own developmental goal, which is often more ambitious than the clinic's and always more motivating. It also
+frequently resolves an apparent cultural conflict: a family that wants its daughter to be a doctor will
+accept a good deal of developmental advice about her schooling, provided the advice is connected to that
+goal.
+
+**How to use the six.** As the frame for a first session with any family whose background differs from the
+therapist's — and, since the therapist's own background is always particular, as a frame worth using with
+every family.
+
+### 13.3a The interpreter
+
+Many of the assessments in this week's work are conducted through a third person, and the third person
+changes the data.
+
+**Rule 1 — Brief the interpreter before the family arrives.** Five minutes: what the assessment is for, what
+you will ask, and the two things you need — *first person* interpretation ("she says she cannot sleep",
+not "she says she cannot sleep and I think she is depressed") and no summarising. An interpreter who has not
+been briefed will summarise, edit, and add opinions, and all three are invisible in the transcript.
+
+**Rule 2 — Speak to the family, not to the interpreter.** "How long has she not been sleeping?" is asked of
+the mother, with the eyes on the mother. The commonest error is the triangle in which the therapist and the
+interpreter talk to each other about a family sitting in the room.
+
+**Rule 3 — Build in double the time.** Everything takes twice as long, and the assessment that is scheduled
+for forty minutes will take eighty. A therapist who runs out of time will cut the questions that are hardest
+to ask, which are the ones that matter.
+
+**Rule 4 — Do not use a family member.** Not a child, not a cousin, not a neighbour. The information is
+distorted by loyalty, the family member learns things they should not, and the roles in the household are
+permanently altered. Where no interpreter is available, reschedule. This is the one rule in the section that
+should never be broken.
+
+**The fifth rule, which is not a rule but a caution.** An interpreter from the same community may be known to
+the family, and the family may withhold material for that reason — a stigma, a relative, a dispute. Ask, at
+the start, whether they are comfortable, and offer a telephone interpreter from elsewhere if they are not.
+
+### 13.3b The sentence that opens the conversation
+
+One practical matter that determines whether the rest of the week's method is usable.
+
+Families are frequently asked, by clinics, to explain their culture — "tell me about your customs" — and the
+request produces either a performance or silence, because nobody describes their own ordinary life as a
+custom. The question that works asks about a *specific recent event* and lets the practice appear inside the
+answer.
+
+**The four openings.**
+
+- "Tell me about yesterday. Who was with her from morning until she slept?" — produces the network and the
+  practices in one answer.
+- "When she was last ill, who decided what to do?" — produces the hierarchy of authority and the
+  explanatory model.
+- "When she does something you do not want her to do, what happens in your house?" — produces the discipline
+  practice without asking for it.
+- "What do you want for her that your parents did not have, and what would have to be different in your house for her to have it?" — produces the family's own developmental goal,
+  and it is almost always the most useful sentence in the session, because it is the one that makes the family's own goal available to the plan.
+
+**What these four have in common.** They ask about events rather than about identity. A family asked to
+describe its culture must decide what the therapist wants and then supply it; a family asked what happened
+yesterday simply reports, and the culture arrives in the report, where it can be worked with.
+
+**The mistake to avoid.** Do not say "I understand your culture" — a claim no outsider can make and every
+family hears as a claim to authority. Say instead what you noticed: "in your house three people look after
+her and they all have a view. In mine it was one. Tell me how that works for you, and what you would change about it if you could." That sentence gives the
+family something to correct, and being corrected is how a therapist learns, which is a slower and more reliable method than being told about a culture by a textbook.
+
+### 13.4 Three techniques
+
+**Technique 1 — The network map of a child.** Draw the child in the centre, and around her every adult and
+older child who does something for her, with the function written next to each name. Then mark the one
+person she goes to when frightened. Then mark the person each of the others believes she goes to. The
+discrepancy between the last two markings is the finding, and it is frequently the whole of the case.
+
+**Technique 2 — The resource inventory.** A list of what the household has, not what it lacks: adults,
+space, income, a church or mosque community, a neighbour, a skill, a relative in another city, a school with
+a good teacher. The inventory is written with the family, and it is read back to them. Its effect is not
+sentimental; it changes what the family believes is possible, which changes what they will attempt.
+
+**Technique 3 — The two-column budget.** One column: what the plan requires in time and money. The other:
+what the household has. The technique prevents the therapist from writing plans that require a car, a
+morning off work, or a fee. It is unglamorous and it is the reason some plans are carried out.
+
+### 13.4a The assessment kit for a household with nothing
+
+A practical inventory of what a therapist can do when the household has no money, no car, no quiet room and
+no time.
+
+**What costs nothing and is worth doing.** A hearing screen with a whispered instruction from behind the
+child, at a metre, in a quiet moment. A language sample — five minutes of the child talking about anything,
+recorded on a telephone, transcribed roughly, and counted for mean length of utterance by hand. A drawing.
+A three-step instruction, given in the corridor. An observation of the child with the person she goes to. An
+observation of the child with the person she does not go to. None of these requires a kit, a fee, or a
+second appointment.
+
+**What the clinic should supply because the family cannot.** A referral letter typed and signed in the
+session, so that the family leaves with it rather than waiting for a post that does not arrive. A telephone
+number that is answered. A note for the school. A copy of the assessment in a form the family can keep.
+
+**What not to ask for.** Do not ask a family to return on a day they cannot manage, to bring a document
+that does not exist, or to obtain a report from a school that is not answering. These requests are made in
+good faith and they are the mechanism by which families are lost: each one is a small obstacle, and the
+cumulative effect on a household operating at capacity is a decision not to come back.
+
+**The design principle.** Every element of the assessment should be deliverable in one visit, by one person,
+with no equipment, and end with the family holding a piece of paper. That constraint produces a shorter
+assessment than the textbook describes and a more useful one, because it is completed.
+
+### 13.4b The four-column plan
+
+The plan for a household under material constraint is written in four columns, and the fourth is the one
+that keeps it alive.
+
+**Column 1 — What we are trying to change.** One sentence. Not a list.
+
+**Column 2 — What it requires.** In time, money, transport and space. Written honestly, including the
+invisible costs: a morning off work, a fare, a person to mind the other children.
+
+**Column 3 — What the household has.** From the resource inventory. The column is frequently fuller than the
+family expected, which is part of its purpose.
+
+**Column 4 — What we drop if column 2 exceeds column 3.** The reduction, specified in advance. Most plans
+fail because they were designed at full capacity and nobody decided what to cut when capacity fell. A plan
+with a stated reduction survives; a plan without one is abandoned whole.
+
+**The example.** Column 1: "we want him to be understood at school." Column 2: a hearing test, an
+audiology appointment across the city, a school letter, and ten minutes a day of reading aloud. Column 3:
+the mother's mornings are free on Tuesdays; there is a bus; the school has a teacher who has been helpful.
+Column 4: if the audiology appointment cannot be reached, the school letter and the ten minutes continue and
+the appointment is rebooked; if the ten minutes cannot be managed, the school letter continues alone.
+
+**What the column prevents.** The all-or-nothing plan, which is the characteristic failure of clinicians
+working with families in difficulty, and which is experienced by the family as another expectation they could
+not meet.
+
+### 13.5 The first session when the family and the therapist disagree
+
+**Phase 1 — Ask for the family's account before offering any.** The six questions, and particularly question
+two. A therapist who offers a developmental account in the first ten minutes has produced a competition
+between two theories, and the family will defend theirs.
+
+**Phase 2 — Find the point of agreement.** It is almost always the goal: the family wants the child to do
+well at school, to be safe, to be respected. State it: "we want the same thing for her."
+
+**Phase 3 — Offer the second language, not a replacement.** "Your grandmother is right that a child needs to
+be taught respect. I would add something from my side, which is that a child who is shouted at every morning
+finds it harder to concentrate at school, and concentration is what she needs for the exam." The move is
+additive: the family keeps its framework and gains a mechanism.
+
+**Phase 4 — Say clearly where you cannot go.** If a practice is harmful, name it once, as in 13.2a, and hold
+the line. Ambiguity here is worse than refusal, because the family will hear permission.
+
+**Phase 5 — Agree one thing and a review.** As in Week 11. One action, dated, with the exception named.
+
+**What to do when the family does not return.** Assume the plan was unusable rather than that the family was
+unmotivated, and ask. A telephone call that says "I have been thinking about what we agreed and I wonder
+whether it was possible in your house" recovers a substantial minority of families who have dropped out, and
+no service does it.
+
+### 13.5a When the therapist's own culture is the variable
+
+The week's critique applies to the clinician, and the application is uncomfortable.
+
+**What the therapist brings.** A household of origin with its own practices — sleeping arrangements,
+discipline, the meaning of respect, the proper distance between a mother and a grown son, the age at which a
+child is left alone. A training in a discipline that was normed somewhere. And an institution's assumptions,
+which are frequently the assumptions of the profession's country of origin rather than of the clinic's
+neighbourhood.
+
+**The three ways this shows up.**
+
+**As an unexamined standard.** The therapist who is irritated by a family and cannot say why is usually
+meeting a practice that violates a rule she has never stated. The correction is to state the rule: "I notice I
+am uncomfortable that the eight-year-old is still sleeping in the room with his parents. That is my
+household's rule, not a finding. What is the reason in yours?"
+
+**As a class position.** A therapist from a professional household assessing a family in poverty may
+misread scarcity as disorganisation, or may over-correct and fail to name a real problem. Both errors come
+from the same place and both are corrected by asking about the material facts rather than inferring them.
+
+**As an alliance with the institution.** The therapist is employed by a clinic, often by a school, sometimes
+by a court. Her assumptions drift toward her employer's, and the drift is invisible from inside. The
+correction is to ask, once per case, "whose interests does my formulation serve?" and to write the answer in
+the record.
+
+**The discipline that holds all three.** State your own rule before you interpret the family's. The sentence
+"I was brought up to think X, and you are describing Y — tell me about Y" is not a confession; it is the
+technique. It removes the therapist's rule from the position of an unstated standard and puts it on the table
+where the family can examine it, which is the only position from which a family can disagree with a
+professional without feeling judged.
+
+### 13.6 Case: the child with no bedroom
+
+**Referral.** Morenike, four years and three months, referred by the nursery attached to a private school.
+The written note: "over-attached to mother, does not self-soothe, still in parents' bed, will not sleep
+alone. Family has been advised to implement a sleep programme."
+
+**The family.** Yetunde, 29, a hairdresser who works from the flat. Bayo, 32, a dispatch rider. Morenike, 4.
+Bayo's younger brother, 24, a student, who sleeps in the sitting room. Total: four people in a flat of two
+rooms and a sitting room, in a compound of six flats. Languages: Yoruba at home, English at nursery.
+
+**Why they came.** "The school said they will not promote her to the next class if she is not sleeping
+alone." Yetunde's tone, in the first minute: "they have told me I am spoiling her. My mother says the same.
+I want to hear it from a doctor."
+
+**What the assessment finds.** Morenike plays richly, with a narrative and with other children; she
+separates from her mother at nursery without distress and greets her warmly on reunion; she has a vocabulary
+above age in Yoruba and age-appropriate in English; her hearing is normal; her sleep is unremarkable apart
+from its location — she goes to sleep at nine and wakes at six. When frightened, she goes to her mother. Her
+mother knows this. Her father believes she goes to her grandmother, who lives two compounds away.
+
+**The five findings.**
+
+**1. There is no evidence of a sleep disorder and there is no spare room.** The family occupies two rooms:
+one for Yetunde and Bayo, one for Morenike and her cousin when the cousin stays. The uncle sleeps in the
+sitting room. "Sleeping alone" would mean sleeping in a room with a twenty-four-year-old man, which the
+parents correctly regard as unacceptable. The clinic's recommendation was not a developmental intervention;
+it was a recommendation to rearrange a household that has no space, made by someone who did not ask.
+
+**2. The referral is a description of the housing written in the language of attachment.** "Does not
+self-soothe" describes a child who has never been alone in a room. "Over-attached" describes a child in a
+two-room flat. Neither phrase is false and both are diagnoses of a circumstance.
+
+**3. The child's attachment behaviour is unremarkable.** She separates, she explores, she returns. The
+Strange Situation, if it had been administered, would have had to be administered in a room she had never
+seen with a stranger she had never met, and her behaviour in that room would have described the room.
+
+**4. There is a real question, and it is about the school's requirement.** The school's promotion criterion
+is being used as a developmental standard, and it is not one. The therapist's task is not to adjudicate
+between the family and the school on a matter of principle; it is to give the family a position and a
+sentence they can take to the school.
+
+**5. The family's own goal is specific and achievable.** They want her to sleep in her own bed by the time
+she starts Primary 1, in fourteen months, so that the uncle can move out when he finishes his studies and
+the room can be rearranged. They have a plan and it is better than the clinic's.
+
+**The formulation.** A well-developing four-year-old in a household with four people, two rooms and no
+spare bed, referred by an institution that has mistaken a housing constraint for a developmental deficit,
+and whose mother has been told by three authorities that she is spoiling her child. The intervention is
+three sentences to a school, one piece of information to a mother, and a plan that begins in fourteen
+months.
+
+**The intervention, in five parts.**
+
+**Part 1 — Say the finding in one sentence, and say it early.** "There is nothing wrong with your daughter's
+development, and there is nowhere in your flat for her to sleep alone. Those are two different things and
+the school has joined them together."
+
+**Part 2 — Give the mother the developmental fact she can use.** "A four-year-old who sleeps in her parents'
+room in a two-room flat is doing what children in most of the world do. What matters for her development is
+that she is responded to when she calls, and she is."
+
+**Part 3 — The letter to the school, written in the session.** Three paragraphs. It states that the child has
+been assessed, that no developmental concern was found, that the family's sleeping arrangement reflects
+their housing and not their parenting, that the assessment found no basis for a sleep programme, and that the
+clinic will review the arrangement at a stated date. It is signed by the therapist and copied to the parents.
+The therapist reads it aloud before anyone leaves.
+
+**Part 4 — A plan for fourteen months, in the family's own shape.** A bed for Morenike, bought second-hand,
+in the room she shares; a routine at nine that is hers; and a target — by the time the uncle finishes, she
+sleeps in her own bed in the room, and the room is rearranged. Written on a page, with the date.
+
+**Part 5 — One sentence for the grandmother.** "She is not spoiled; she is four, and we have no room." The
+sentence is rehearsed, because the grandmother's opinion is the one that reaches the mother every day and the
+mother needs something to say that is not a defence of herself.
+
+### 13.6a Five months later
+
+The letter to the school was effective in a way the therapist had not anticipated: the school removed the
+promotion condition and asked the clinic to speak to the nursery staff, which the therapist did, for forty
+minutes, on the difference between a developmental assessment and a housing description. Nine children in
+that class stopped being on a sleep programme.
+
+Morenike has a bed. It is in the same room as her mother's, at right angles, and she sleeps in it most
+nights. The target date is still fourteen months away and the plan is ahead of schedule, which the family
+reports with pride.
+
+Yetunde has stopped apologising in the first minute of a conversation, which the therapist regards as the
+case's most significant outcome and which is not measurable by any instrument in this book.
+
+**The honest limitation.** The uncle still sleeps in the sitting room and the flat is still two rooms. The
+therapist has not changed the material condition and does not claim to have done so. What she has changed is
+that a family is no longer being told that its housing is a parenting failure, and that an institution has
+been corrected, which affects every family that institution sees afterwards.
+
+### 13.7 Transcript: the letter, read aloud
+
+Nine turns from the third session. The therapist has drafted the letter in front of the parents and is
+reading it back to them before it is sent.
+
+> **T1 Therapist:** *(reading)* "To the Head of Nursery. I am writing about Morenike, whom I assessed on the
+> fourteenth. I found no developmental concern. Her play, her language, her separation and her relationships
+> are all appropriate for her age." *(pause)* Is that right? — *The check after the first paragraph. The
+> letter is a clinical document and the family is the authority on its accuracy.*
+>
+> **T2 Yetunde:** It is right.
+>
+> **T3 Therapist:** *(reading)* "The family's sleeping arrangement reflects the size of their home. It is not
+> a sign of developmental difficulty, and I have not recommended a sleep programme." *(pause)* Yetunde, when
+> you read that, what will you feel?
+> — *The question is asked before the letter is sent, because a letter the parent cannot bear to read is a
+> letter that will not be used.*
+>
+> **T4 Yetunde:** *(quietly)* That somebody said it.
+>
+> **T5 Therapist:** *(reading)* "I would be glad to speak to the nursery staff about the difference between a
+> developmental assessment and a description of a family's housing." *(pause)* That last sentence is a
+> criticism of the school. Do you want it in? — *The choice is offered deliberately. A letter that criticises
+> an institution on a family's behalf, without the family's agreement, converts the therapist into an
+> advocate and the family into a party to a dispute they did not choose.*
+>
+> **T6 Bayo:** *(for the first time in the session)* Leave it in.
+>
+> **T7 Therapist:** Then I will send it today and I will copy you both. *(pause)* And one more thing. *(to
+> Yetunde)* Your mother will hear about this letter from the school, not from you. What will you say to her?
+> — *The household rehearsal from Week 11, applied. The plan will be tested at home before it is tested at
+> the school.*
+>
+> **T8 Yetunde:** *(after a pause)* That the doctor said she is not spoiled. That we have no room.
+>
+> **T9 Therapist:** Say it again, so that you have said it once before you say it to her.
+
+### 13.8 Laboratory: assessing across a difference
+
+**Aim.** To complete a developmental assessment with a family whose language, housing and explanatory model
+differ from the therapist's, and to report the finding with its conditions attached.
+
+**Procedure.** Groups of four: therapist, mother, interpreter, observer. The trainer supplies a brief in
+which the family speaks mainly Yoruba, has no word for "self-soothe", believes the child's night waking is
+caused by a neighbour's envy, and has four people in two rooms. The therapist may use the interpreter and
+must produce a one-paragraph written finding in ten minutes at the end.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The six questions** | Two or fewer asked | Four asked | All six, in order, with the answers in the family's words |
+| **The interpreter** | Treated as a participant; spoke to them not the family | Used correctly but not briefed | Briefed, addressed the family, first-person, no summarising |
+| **The material facts** | Not asked | Asked, and not used | Asked, used, and reflected in the plan |
+| **The explanatory model** | Ignored, or corrected | Acknowledged | Acknowledged, incorporated, and one mechanism added alongside |
+| **The written finding** | "Language delay, insecure attachment" | A description without conditions | A finding with the language, setting and conditions stated |
+
+**The distinction that carries most of the marks.** The top band requires the written finding to state the
+conditions of the measurement. "Receptive language age equivalent three years, assessed in English as a
+second language, with the mother present, in a clinic room" is the standard; "language delayed" is a failure
+of the exercise however accurate the number.
+
+### 13.9 Six errors
+
+**Error 1 — Treating a housing description as a developmental finding.** The week's central error. "Does not
+self-soothe" and "no bedroom" are the same observation written by two different professions.
+
+**Error 2 — Relativism as kindness.** "In your culture that is normal" is said to avoid a difficult
+conversation and it abandons the child. Culture explains a practice; it does not settle whether the practice
+is good for this child.
+
+**Error 3 — Importing the norms without their population.** Every instrument in the course was normed
+somewhere. Using it elsewhere is legitimate; using it elsewhere *as though it were normed there* is not.
+
+**Error 4 — Ignoring material conditions in the formulation.** A plan that requires a car, a morning off, a
+fee or a spare room will fail, and the family will be recorded as unmotivated. The two-column budget exists
+to prevent this.
+
+**Error 5 — Using a family member as interpreter.** It distorts the information, alters the household's
+roles, and cannot be undone. Reschedule instead.
+
+**Error 6 — Fighting the institution in front of the family.** The letter in the case is a clinical
+instrument; a therapist who becomes the family's advocate against a school has taken a side in a dispute she
+will not be present to finish, and the family will carry the consequences.
+
+### 13.10 Culture, faith and the limits of the critique
+
+The four critiques in this week do not license a fifth, which would be: *nothing can be known*. The position
+this course takes is stated here so that students can hold it under pressure.
+
+**What is universal enough to rely on.** Children need at least one reliably responsive adult; they need
+food, sleep and safety; they need language input from people who speak to them; they need to be protected
+from violence; and they develop through play with other children. These are not Western values; they are
+findings that hold across the ethnographic record, and a therapist who cannot assert them cannot protect a
+child.
+
+**What varies and must not be pathologised.** Sleeping arrangements, weaning, who provides care, the age of
+school entry, the amount of autonomy given to a child, the manner of discipline within limits, the expression
+of emotion, the meaning of a disability, the conduct of mourning, and the relationship between the family and
+institutions.
+
+**The test that distinguishes them.** Ask of any practice: does it protect or damage the child's
+*development* — her body, her language, her capacity to relate, her access to learning? If it damages, it is
+not protected by culture. If it does not, the therapist has no business treating it as a problem, whatever
+her own household did.
+
+**Faith and the explanatory model.** A family's spiritual account of a child's difficulty is not a
+competitor to the assessment and does not need to be displaced. It needs to be *joined*, and one mechanism
+added alongside. The pastor who is told that the clinic is not an enemy becomes an ally who can say, from the
+pulpit, that a hearing test is not a lack of faith — and that sentence reaches more families than the clinic
+will see in a year.
+
+> **DEBATE** — "A developmental assessment should not be conducted across a language barrier at all." Argue
+> for: the instrument measures the language, the conditions invalidate the norm, and a wrong number is worse
+> than no number because it becomes a label. Argue against: no assessment means no service, waiting lists
+> are a form of harm, and a properly-reported assessment with its conditions stated is more useful than
+> nothing. Then state what you would actually do for a five-year-old who speaks only Hausa in a clinic where
+> nobody does, and what you would write in the record.
+
+### 13.11 Evidence note
+
+**What the research supports.** The cross-cultural replication of attachment classifications is substantial:
+the categories appear in every studied population, and the *distribution* varies with caregiving practice,
+which supports the theory's universality and undermines any single distribution being treated as a standard.
+The evidence on poverty as a developmental variable is among the strongest in the field, with the mechanisms
+— stress physiology, nutrition, crowding, instability — demonstrated across cohorts. The association between
+hearing loss and apparent cognitive and social difficulty is robust and correction improves outcomes.
+
+**What is weaker.** Norms for most developmental instruments are drawn from samples that are unrepresentative
+of the populations in which the instruments are used, and the published corrections are sparse. The
+evidence on culturally adapted parenting interventions is growing and remains thinner than the evidence for
+the unadapted versions, which is a problem of research funding rather than of principle.
+
+**What is not supported.** That early independence training produces later independence. That co-sleeping
+produces enmeshment. That a child raised by a network is at risk by virtue of the network. And that cultural
+sensitivity requires suspending judgement — the evidence on child maltreatment across cultures is clear
+enough that a therapist who cannot name harm is not sensitive but negligent.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same sleeping arrangement is unremarkable in one household
+and a safeguarding concern in another, and what distinguishes them is not the arrangement but the
+responsiveness of the adults in it.
+
+### 13.12 Key terms
+
+**Norm** — a distribution of measurements in a population; a description, not a standard.
+
+**Explanatory model** — the family's own account of what is wrong and why; it predicts what they will do.
+
+**Distributed caregiving** — care provided by a network rather than a pair; the norm in most of the world.
+
+**Material conditions** — income, food, housing, crowding, water, transport; developmental variables, not
+background.
+
+**Bandwidth** — the finite attention a caregiver has for the work of parenting, reduced by scarcity.
+
+**Cultural formulation** — a structured enquiry into the family's world, account, resources, authorities and
+goals.
+
+**Conditions of measurement** — the language, setting, relationship and instruction under which a finding
+was obtained, which must be reported with it.
+
+**Relativism** — the position that no practice can be judged from outside its culture; incompatible with
+child protection.
+
+**Network map** — a diagram of who does what for a child and who the child goes to when frightened.
+
+### 13.13 Self-test
+
+1. State the four critiques, and give one piece of evidence for each.
+2. What are the five mechanisms by which poverty affects development, and which one most changes clinical
+   practice?
+3. Give the question that replaces the Strange Situation in a household with distributed caregiving, and the
+   follow-up question that finds the problem.
+4. Name the four conditions of measurement and explain how each contaminates a finding.
+5. When is a practice harmful rather than different, and how do you say so in three sentences?
+6. Give the four rules for working with an interpreter, and the one that must never be broken.
+7. Why does the therapist ask the family to read the letter before it is sent?
+8. In the Morenike case, what was the referral actually describing?
+
+**Answers.** *(1)* Western norms — the Strange Situation's distribution varies with caregiving practice
+across cultures; poverty — the stress-physiology and nutrition evidence; distributed caregiving — the
+ethnographic record and the network as the normal unit; measurement — the language and setting effects on
+test performance. *(2)* Chronic stress physiology, food insecurity, crowding, housing instability, and
+parental bandwidth — the last changes practice most, because it converts "inconsistent parenting" into a
+resource calculation. *(3)* "When she is frightened, who does she go to?" and "does that person know they are
+the one?" *(4)* Language, stranger, setting, instruction — each measures the situation as well as the child,
+so the finding must be reported with them attached. *(5)* When it damages the child's body, language,
+capacity to relate or access to learning; name the practice factually, name the concern developmentally, and
+state what you are not able to work with. *(6)* Brief beforehand; speak to the family; double the time; never
+use a family member — the last must never be broken. *(7)* Because a letter the parent cannot bear to read
+will not be used, and because the family is the authority on its own accuracy. *(8)* The family's housing.
+
+### 13.14 Reflective task
+
+Write down three things your own household did with children that a textbook would call a problem, and three
+that it did that the textbook would call correct. Then answer: which of the six did you assume was normal
+until this week? Most students find at least one in each column, and the discovery that the textbook's
+standards are also somebody's household practice is the week's actual learning.
+
+### 13.15 Further reading
+
+- Henrich, J., Heine, S. and Norenzayan, A. "The weirdest people in the world?" — the sampling problem, in
+  general.
+- Keller, H. *Cultures of Infancy* — the comparative evidence on caregiving practice.
+- McLoyd, V. "Socioeconomic disadvantage and child development" — the poverty mechanisms.
+- Kirmayer, L. on cultural formulation — the structured interview this week adapts.
+- Serpell, R. *The Significance of Schooling* — African evidence on what school readiness actually means.
+
+*Next: Week 14 — When development goes wrong: the differential habit.*
 
 ---
 
