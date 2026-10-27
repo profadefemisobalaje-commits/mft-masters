@@ -4866,6 +4866,13 @@ measures.
 active ingredients. A therapist who spends the first session chasing information and leaves without an agreed
 statement has spent the hour on the least evidence-based part of the work.
 
+**A fourth finding, on measurement.** When families and therapists independently rate the goals of therapy, their
+agreement is moderate at best, and the discrepancy is not random: therapists tend to rate goals as more shared than
+families do. The practical lesson is to ask rather than to assume, and to ask in a form that can be answered
+concretely — "which of these three would you put first?" rather than "do we agree on the goals?" The question that
+invites a yes tells you almost nothing, and the question that offers a choice tells you which of the family's three
+priorities they will actually act on in the following week.
+
 ### 7.12a Two definitions, two plans: the same family, a year apart
 
 A comparison that makes the week's argument vivid. The same household, defined two ways, six months apart, by two
@@ -5046,34 +5053,719 @@ of description at which change is possible.
 
 ## Week 8 — The genogram as a hypothesis machine
 
-The genogram is a three-generation map of family structure, relationships and events. Drawing it is
-simple; using it is not — the value lies in the hypotheses it generates and the questions it permits.
+### 8.1 The lecture in ninety minutes
 
-**Standard symbols** (Figure 3) and conventions: squares for males, circles for females, horizontal line
-for marriage, slash for divorce, cross for death, double outline for the index client. Relationship
-lines: double for close, zigzag for conflict, broken with slashes for cutoff, triple for enmeshed.
+The genogram is taught badly almost everywhere, as a data-collection instrument: symbols to memorise, information
+to gather, a diagram to file. That version of the genogram is tedious for the family and useless for the clinician.
+The version in this week is a *hypothesis machine* — a device for making visible what nobody in the family has said
+aloud, and for generating questions that could not otherwise be asked.
 
-![Figure 3 — Genogram symbols: learn the grammar once and three generations become readable](../assets/figures/fig03-genogram-symbols.svg)
+The technique is associated with Murray Bowen, who used family diagrams in the 1960s as part of his
+multigenerational approach, and with Monica McGoldrick and Randy Gerson, whose *Genograms in Family Assessment*
+(1985) standardised the symbols and, more importantly, the interviewing. The standardisation is a convenience; the
+interviewing is the method.
 
-**What to ask while drawing.** Age and year of birth; occupation and migration; deaths and their causes;
-separations, divorces, remarriages; who is close to whom; who does not speak to whom; who is the
-"responsible one"; who "had a breakdown"; family secrets; repeating names; repeating ages at which
-things happened.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–12 | What a genogram is for | Three functions: structure, repetition, relationship | Predict what each function reveals in a case |
+| 12–25 | Symbols and conventions | Draw live, deliberately including errors | Copy, then criticise the drawing |
+| 25–45 | The interview | Demonstrate the standard sequence on a volunteer | Interview a peer about their family of origin |
+| 45–60 | Reading the map | Six patterns that recur across generations | Identify patterns in two maps |
+| 60–72 | The date-line and the year | Why dates are the most powerful questions | Calculate two family dates |
+| 72–85 | Genogram with the family present | Demonstrate the shared drawing | Draw with a role-played family |
+| 85–90 | Set the assignment | The three-generation map and its commentary | Plan their own genogram |
 
-**From map to hypothesis.** A good genogram yields three kinds of hypothesis:
+### 8.2 What a genogram is for
 
-1. **Structural** — coalitions, cutoffs, over/under-functioning pairs.
-2. **Temporal** — patterns repeating at the same age, or symptom onset clustering around anniversaries.
-3. **Legacy** — loyalty, indebtedness, roles inherited ("the eldest daughter always cares for everyone").
+Three functions, and a student should be able to say which one they are using in any given session.
 
-![Figure 8.1 — A worked three-generation genogram with hypotheses](../assets/figures/fig04-genogram-case.svg)
+**Function 1 — structure.** The genogram makes visible who is in the family, who is not, who is close, who is
+cut off, who has died, who has left, who is spoken about and who is never mentioned. A family that describes
+itself as "just the four of us" will produce, in twenty minutes of genogram work, an absent father, two deceased
+grandparents, a stillborn child and a cousin who lived with them for three years. The structure is not merely
+background; it is the field in which the presenting problem is located.
 
-**Cultural note.** In many families the genogram must include people who are not biologically related but
-are structurally central — a foster child, a co-wife, a pastor, a long-term house help. Ask, "who else
-belongs to this family?" before you decide the map is complete.
+**Function 2 — repetition.** The genogram makes visible patterns across generations: the age at which people leave
+home, marry, die, or become ill; the recurrence of a particular kind of loss; the repetition of a role (the
+caretaker, the black sheep, the one who never married). Repetition is the most clinically powerful thing a genogram
+reveals, because it converts a personal difficulty into a family pattern, which is both less shaming and more
+actionable.
 
-> **PRACTICAL** — Draw your own three-generation genogram from memory first, then correct it with a
-> relative. Note every place where your memory and theirs differ. Those differences are the assignment.
+**Function 3 — relationship.** The genogram records the quality of relationships: close, distant, conflicted,
+cut off, abusive, fused. These are the family's own descriptions, drawn as they are described, and the drawing
+makes the emotional geography available for comment in a way that speech does not. "You have drawn your mother
+very close and your father at the edge; is that how it feels?" is a question a diagram makes askable.
+
+**What the genogram is not.** It is not an assessment instrument with a scoring system (whatever the commercial
+packages suggest); it is not a substitute for asking about the present; and it is not a test the family can fail.
+Its output is not a diagram but a set of hypotheses and a set of questions.
+
+### 8.2a What the map cannot show
+
+A technique is only understood when its limits are. Five things a genogram cannot tell you.
+
+**It cannot show the family's emotional life.** A double line means "close" as the family describes it; it does not
+tell you whether the closeness is warm, anxious, controlling or comforting. The map records the family's
+description, not the family's experience, and the two diverge exactly where the clinical interest lies.
+
+**It cannot show what is happening now.** A genogram is a history. The date-line brings it as far as the present,
+but the sequence in the kitchen on Tuesday morning is not on the map, and that sequence is where the work is done.
+
+**It cannot show strength of evidence.** A line drawn from one member's account is drawn in the same ink as a line
+confirmed by four. Mark your sources, or you will forget which is which when you reread the file in six months.
+
+**It cannot show the family's own theory.** Families have explanations — spiritual, moral, medical, relational — and
+the genogram has no notation for them. Record them in words beside the diagram: "Family's account: this began after
+the grandmother's burial, and the family believes the burial was not done properly."
+
+**It cannot show the network.** Schools, clinics, churches, mosques, employers, immigration authorities and courts
+are all part of the field in which the family lives. A genogram that stops at the household boundary will
+systematically miss the institution that is actually keeping the problem going (see Week 9).
+
+### 8.3 Symbols, conventions and the discipline of drawing
+
+The standard conventions are simple and worth learning precisely, because imprecision is read by the family as
+carelessness.
+
+| Element | Convention |
+|---|---|
+| Male | Square |
+| Female | Circle |
+| Gender unknown or not disclosed | Diamond |
+| Deceased | Symbol with a cross, with date of death |
+| Marriage / partnership | Horizontal line between the symbols, with the date above |
+| Divorce | Two slashes across the marriage line, with the date |
+| Separation | One slash |
+| Cohabitation | Dashed horizontal line |
+| Children | Vertical line from the marriage line, then siblings in birth order left to right |
+| Twins | Line from a single point, then branching |
+| Pregnancy loss / stillbirth | Small filled circle at the end of a short line |
+| Adoption | Dashed vertical line to the child |
+| Foster child | Dashed line with a small "F" |
+| Household membership | Dotted rectangle around those living together |
+| Close relationship | Double line |
+| Conflict | Zigzag line |
+| Distant | Dashed line |
+| Cutoff | Line with a single slash through it |
+| Abuse | Double line with a zigzag, or a labelled arrow (use with care) |
+
+**Five drawing disciplines.**
+
+1. **Draw big.** A genogram on a postcard is a diagram of the therapist's impatience. Use a full sheet.
+2. **Three generations minimum.** Two is a family tree; three is a pattern.
+3. **Dates on everything.** Births, deaths, marriages, divorces, migrations, the onset of the problem. The dates
+   are where the clinical gold is.
+4. **Label what you infer.** If you draw a conflict line because of something the family said rather than
+   explicitly, mark it with a question mark. The family will correct you, which is the point.
+5. **Let the family hold the pen.** At least once in the work, ask a family member to draw or correct the map. The
+   corrections are the assessment.
+
+### 8.4 The interview: a standard sequence
+
+The genogram interview has a shape, and following it prevents the two common failures: gathering endless facts and
+never asking about feelings, or asking about feelings and never establishing the facts.
+
+**Step 1 — the household, now.** Who lives here? Ages, occupations, health, who sleeps where, who is at school or
+working. Five minutes. Draw as you go, and say what you are drawing.
+
+**Step 2 — the parents' families of origin.** For each parent: their parents (names, ages, occupations, health,
+deaths), their siblings, and the quality of those relationships. This is where most of the material is, and it is
+where trainees spend the least time.
+
+**Step 3 — the events timeline.** Deaths, separations, migrations, losses, illnesses, job changes, moves — with
+dates, placed against the family's history. Then the crucial question: *what was happening in the family when each
+of these occurred?*
+
+**Step 4 — the presenting problem on the timeline.** When did it start? What else was happening then? The answer
+frequently identifies the event that the family has not connected to the problem, and sometimes the event that
+nobody has mentioned at all.
+
+**Step 5 — the relationship questions.** Who was closest to whom? Who did not speak? Who was the one everyone
+worried about? Who was the one nobody worried about? Who is most like whom?
+
+**Step 6 — the questions the map makes possible.** "Your father left home at seventeen; your son is seventeen." "Your
+mother died in March; the school refusal began in April." "You are the eldest of six and your daughter is the
+eldest of two." Ask the question, then wait. The family's answer — including "that is a coincidence" — is the
+clinical material.
+
+**Timing.** A full three-generation genogram takes 40–60 minutes with a cooperative family, and it is rarely
+possible in a first session. Two approaches work: a partial genogram in session one (household and the parents'
+families, drawn quickly and deliberately unfinished), completed over the next two sessions; or the genogram as the
+agenda for session two, announced at the end of session one. Never rush it; a rushed genogram is a form.
+
+### 8.4a When a member will not take part
+
+Somebody always refuses the genogram. Usually it is the father, sometimes the adolescent, occasionally the
+grandmother who "does not see what the past has to do with it". Refusal is information, and it is manageable.
+
+**The three refusals, and what they mean.**
+
+*The unprepared refusal.* "I do not see the point." This is the most common and the least meaningful. It is a
+comment about the therapist's explanation, not about the technique. Fix: explain the purpose in one sentence and give
+a small, low-threat task: "I am going to ask your wife about her family for ten minutes. If you would correct me
+when I get something wrong, that would help."
+
+*The protective refusal.* The member does not want certain material discussed in front of certain people — a death,
+a previous marriage, a child given away, a prison sentence. This is almost always a request for a different format,
+not a refusal of the work. Fix: offer the genogram in a different configuration. "Would you rather we did this with
+just the two of us first, and then I bring it back to the family?" Almost every protective refusal becomes
+cooperation once the audience changes.
+
+*The defensive refusal.* The member has understood that the genogram will make their own history visible, and does
+not want it examined. This is the refusal to respect and to work with slowly. Fix: do not insist, do not interpret
+the refusal in the room, and note it: a family member who cannot bear to look at three generations is often the
+person carrying the most.
+
+**What not to do.** Do not proceed as though the refuser were absent, drawing their side with a shrug and a comment
+about "the gaps". Families hear these comments. Do not make the refusal the topic of the session either — the
+therapist who spends twenty minutes processing why the father will not discuss his mother has made the father the
+problem.
+
+**The long game.** The genogram can be returned to at any point in the therapy, and the member who refused in
+session two often volunteers the crucial piece of information in session eight, when something else has been
+resolved.
+
+### 8.5 Reading the map: six patterns that recur
+
+The genogram's value is in pattern recognition, and patterns are learned by looking at many maps. Six recur
+constantly in clinical work.
+
+**1. The repetition of an age.** A father whose own father died when he was eleven becomes anxious when his son
+turns eleven. A woman who left home at seventeen becomes distressed when her daughter turns seventeen. The age is
+the trigger, and nobody has connected the two events because they are forty years apart.
+
+**2. The repetition of a loss at the same point in the life cycle.** Miscarriage, stillbirth, the death of a
+child, a parent's death during the respondent's adolescence. Families often organise themselves around an
+unmourned loss, and the organisation is visible in the map: a gap in the birth order, a name that is never
+mentioned, a child who is described as "the one who came after".
+
+**3. The replacement child.** A child conceived or named after a dead sibling, or treated as though they were the
+dead person. The pattern is visible in the map when a birth follows a death within a year, and in the interview
+when the child is described in terms that belong to someone else.
+
+**4. The cut-off.** A branch of the family with whom contact has ceased, often after a dispute whose original
+subject nobody remembers. Cut-offs are transmitted: children of cut-off parents often have no relationship with
+half their kin, and the map makes the amputation visible.
+
+**5. The role that recurs.** The caretaker, the black sheep, the one who never married, the one who "held the family
+together". These roles are frequently occupied by one person per generation, and the map shows who is next in line.
+
+**6. The migration pattern.** Who left, who stayed, who was left behind, and at what cost. In families with
+significant migration, the map carries an emotional geography as important as the relational one: the grandmother
+who raised the children while the parents worked abroad, the sibling who was left and never forgave, the money that
+flowed one way and the obligation that flowed back.
+
+> **PRACTICAL** — Take any published genogram from a textbook and read it in ninety seconds, writing one hypothesis
+> and one question. Then read the case discussion. Comparing your hypothesis with the author's is the fastest way to
+> learn pattern recognition, and it takes ten minutes per case.
+
+### 8.6 The date-line: the most powerful question in the technique
+
+If a student learns one thing from this week, it should be the use of dates.
+
+**Why dates work.** Families live in time, and they rarely place events against each other. A mother who says "my
+father died when I was young" and "my son has always been difficult" has not noticed that "always" began in the
+March her father died. The date-line does the noticing for her, and it does it visibly, on paper, in front of
+everyone.
+
+**How to use it.** Draw a horizontal line beneath the genogram, mark the years, and place the events the family has
+mentioned. Then place the onset of the presenting problem. Then simply point at the proximity and ask an open
+question: "What was happening in the family in that year?" Nothing more. The family will do the work.
+
+**What to place on the line.** Births, deaths, marriages, divorces, migrations, job losses, house moves, illnesses,
+accidents, imprisonments, the onset of the presenting problem, and the date the family first sought help. The last
+one is often revealing: a family that seeks help five years after the onset has usually had a reason to wait.
+
+**Three examples of what the date-line produces.**
+
+*A couple present with sexual difficulties that began "about two years ago". The date-line shows that the wife's
+mother died two years and one month ago, and that the couple moved into the mother's house six weeks after the
+death. Nobody had connected the two.*
+
+*A father presents with anger at his 14-year-old son. The date-line shows that the father was 14 when his own
+father left the family, and that the son's difficulties began in the month the father was promoted to a job
+requiring travel. Two repetitions at once.*
+
+*A woman presents with panic attacks. The date-line shows a stillbirth eleven years earlier, never discussed, and
+the panic began in the month her eldest daughter — the child born after the stillbirth — turned eleven.*
+
+**The rule.** Use dates, draw them, and ask the open question. Do not interpret the coincidence for the family; point
+at it and let them speak.
+
+### 8.6a Three date-line cases from the case bank
+
+The technique is best learned by applying it. Three short cases, each with the events as the family first gave
+them and the placement that changed the question.
+
+**Case 1 — Folake and Dele.** Presented problem: "we argue about everything, mostly about money, for about a year".
+Events as first given: married 2016; first child 2018; Dele's business incorporated 2021; Folake returned to
+full-time work 2023; a car accident in 2023; the arguments began "about a year ago". On the date-line the therapist
+placed the accident and the return to work in the same month, and asked what happened after the accident. Folake
+had been unable to drive for four months; Dele had driven her everywhere; the arguments began when she resumed
+driving and no longer needed him. The question "what changed when you got the car back?" produced the session's
+central material, and it had nothing to do with money.
+
+**Case 2 — Mrs Okonkwo and Ebuka.** Presented problem: "he will not listen; the school says he is defiant". Events:
+Ebuka born 2016; father posted to another state 2022; grandmother died 2023; a new baby 2024; the school's first
+letter 2024. The date-line showed that the defiance began in the term after the grandmother's death, and that the
+grandmother had been Ebuka's daytime carer from 2017 to 2022. The therapist's question was not about discipline but
+about who looked after him when his father left; the mother wept, and the "defiance" acquired a bereavement.
+
+**Case 3 — Aisha and Sam.** Presented problem: "we cannot talk without it becoming a fight — since we married".
+Events: met 2019; married 2021; Aisha's father died 2022; Sam's job loss 2023; a miscarriage 2024, never mentioned
+by either partner in the session until the date-line. Placed on the line, the miscarriage sat three months before
+the couple's first appointment and eleven months after the job loss. The therapist said only: "There is a date here
+that we have not talked about." That sentence, and the twenty minutes that followed, was the treatment.
+
+**The pattern across the three cases.** In each, the family's "about a year ago" or "always" concealed a specific
+date, and the specific date was connected to a loss that had not been spoken about. This is not because loss
+explains everything; it is because families often present the argument and not the bereavement, and the date-line
+is the cheapest way to invite the second into the room.
+
+### 8.7 Drawing with the family present
+
+The genogram is most powerful when the family watches it being drawn, because the drawing itself becomes an
+intervention.
+
+**The mechanics.** Large sheet, on a table the family can see, or on a flip chart. Draw slowly. Say what you are
+drawing as you draw it, and use the family's words. Ask for confirmation at each step. Leave gaps deliberately
+where you do not know something, and mark them with a question mark.
+
+**What happens in the room.** Three things, reliably. First, members correct each other, and the corrections reveal
+disagreements about family history that nobody knew existed ("your father did not leave in 1998, he left in 1996").
+Second, members contribute information that the identified patient has never heard, because the conversation is
+addressed to the map rather than to the child. Third, the family's emotional temperature often drops, because the
+task is concrete and shared, which makes the genogram useful with families that cannot tolerate direct emotional
+work early on.
+
+**The question that does the most work.** After the map is drawn, ask: **"Who is missing from this picture?"**
+Families produce, in response, the stillborn child, the sibling who died in infancy, the father who left, the
+aunt who is never mentioned, the child given up for adoption. The answer is the most clinically valuable sentence
+of the session.
+
+**The second question.** "What would change on this drawing if things got better?" This converts the map from a
+history into a plan, and it gives the therapist the family's own criteria of change.
+
+> **CAUTION** — Drawing a genogram in front of a family can surface material that is painful and unexpected: a
+> death that some members did not know about, or a secret that slips out. Be prepared to stop, to acknowledge, and
+> to ask whether the family wants to continue. The technique must never override the family's pace.
+
+### 8.7a Mapping three household structures
+
+The standard genogram assumes a nuclear household. Three common Nigerian structures require deliberate adaptation,
+and each is best taught with a worked description.
+
+**Structure 1 — the extended household with an absent parent.**
+
+A household of seven: a grandmother (68), her daughter (34, the mother), three children (14, 11, 6), a niece (19)
+and a nephew (16) whose own mother lives in Abuja. The father works in Port Harcourt and returns monthly.
+
+*Standard drawing.* Father and mother with a marriage line, three children below, and the niece and nephew attached
+to nobody, floating in the corner of the page.
+
+*The drawing that matches the family.* The father is drawn at the top right, in a dotted rectangle labelled "Port
+Harcourt, monthly"; a cohabitation-style dashed line to the mother, labelled "monthly"; the grandmother's square
+drawn close to the mother's circle with a double line; a dotted rectangle around grandmother, mother, the three
+children, the niece and the nephew, labelled "same compound"; the niece and nephew attached to their own mother in
+Abuja by a dashed line, labelled "fostered since 2019".
+
+*Why the second drawing is better.* It shows at a glance what the first hides: that the meaningful parental
+structure in this household has three adults in it, one of whom is physically absent; that the grandmother is the
+daily authority; and that two children in the house are there because of an arrangement that has a date. The first
+drawing produces the hypothesis "father is disengaged". The second produces the hypothesis "the parental subsystem
+is a grandmother–mother coalition, with a father who participates monthly and two children whose placement has
+never been discussed". The second is more useful and more accurate.
+
+**Structure 2 — two households, one father.**
+
+A father (41) with a wife (38) and two children (12, 8) in Ibadan, and a second partner (33) with one child (5) in
+Abeokuta. All four adults know each other. The second partner's child spends school holidays in Ibadan.
+
+*The drawing.* Two unions from the father's square, each with its own line — a marriage line to the wife, a partner
+line to the second partner — the children attached to the correct line, and a dotted rectangle around the Ibadan
+household, with an arrow from the Abeokuta child into the rectangle labelled "holidays".
+
+*What the map makes discussable.* The obligations, the money, the school fees, the question of who is introduced to
+whom, and — frequently — the wife's experience of the arrangement, which she has never been asked about in a
+clinical setting. Drawing the family accurately is itself an act of respect; drawing it as though the second
+household did not exist tells the family that the therapist has already decided what counts as a family.
+
+**Structure 3 — the transnational family.**
+
+Parents migrated to the United Kingdom in 2015; three children remained in Lagos with the paternal grandmother, and
+the eldest joined the parents in 2021 at the age of fifteen; the two younger children joined in 2023.
+
+*The drawing.* The parents' squares and circles in a dotted rectangle labelled "UK since 2015"; the children
+connected, with a migration arrow and date beside each movement; the grandmother's symbol in a separate dotted
+rectangle labelled "Lagos", with a double line to each of the children, labelled "raised her".
+
+*What it reveals.* The sibling group has been separated and reunited in a particular order, at particular ages, and
+the person who did the raising is not in the household. The eldest child, who joined first at fifteen, spent six
+years as an only child in a new country; the youngest, who joined at twelve, spent her early adolescence with her
+grandmother and joined her parents at the point when adolescents typically begin to separate. These are facts about
+attachment, obligation and belonging, and they are visible in ninety seconds on the right drawing.
+
+**The general principle.** Draw what is there. Every adaptation to the standard symbol set is justified if it
+makes the family more recognisable to itself, and every departure from the standard should be explained to the
+family in one sentence: "I am drawing it this way because this is how you have described it to me."
+
+### 8.8 Annotated transcript: the genogram that changed the session
+
+A sixth-turn sequence from a second session with the Adeyemi family. The mother has agreed to a genogram; the
+father is present but has said little; Amara is at school.
+
+> **T1 Therapist:** I would like to draw your two families — your parents, your brothers and sisters, and the dates.
+> It takes about twenty minutes and I will ask you to correct me. Mother, your side first. Your mother's name?
+> **T2 Mother:** Mama. She is 71. She lives in Ibadan.
+> **T3 Therapist:** (draws) 71. And your father?
+> **T4 Mother:** He died. 1994. I was 19.
+> **T5 Therapist:** (draws, then pauses) You were 19. And you are the eldest?
+> **T6 Mother:** I am the eldest of five. When he died I stopped school and I looked after them. My mother was not…
+> she was not well after it.
+> **T7 Therapist:** You looked after four children at 19, while your mother was unwell. (draws) Where were you all?
+> **T8 Mother:** In the same house. Until I married. I married at 24.
+> **T9 Therapist:** (to Father) And your side?
+> **T10 Father:** My father is 68, he is in Lagos. My mother died in 1998. I am the third of six.
+> **T11 Therapist:** (draws) How old were you in 1998?
+> **T12 Father:** Sixteen. I left for Lagos that year. For work.
+> **T13 Therapist:** And your mother had died that year.
+
+*(The therapist draws a date-line: 1994, 1998, 2001, 2008, 2019, 2025. She places the deaths, the mother's
+marriage, the father's departure, the births of the children, and then the onset of the school refusal.)*
+
+> **T14 Therapist:** Here is your mother's father's death in 1994. Here is your father's mother's death in 1998, and
+> your leaving in the same year. Here is 2008, when Amara was born, and 2019, when your husband lost the job. And
+> here is this year, when the school refusal began.
+> **T15 Mother:** (after a pause) 2019 is when everything changed.
+> **T16 Therapist:** What happened in 2019?
+> **T17 Mother:** He was at home for two years. Then he found this work, but it is in Lagos. He is away Monday to
+> Friday. (pause) I am alone with them, like I was alone with my sisters.
+> **T18 Therapist:** You were 19 and you were looking after four children, and now you are looking after three
+> children alone on weekdays. (pause) Nobody has said that out loud in this room.
+> **T19 Father:** She has not said it to me either.
+> **T20 Therapist:** (draws a line between the parents, marked "distant, weekdays") Is that the right line?
+
+**Annotations.** *T1* announces the task, its duration, and the correction clause. The correction clause is what
+makes the technique collaborative rather than extractive, and it produces better data.
+
+*T5* is the date-line question asked early, and it does more work than any question about the marriage. *T7* repeats
+the mother's sentence back, which is a simple and under-used technique: repetition without interpretation invites
+elaboration.
+
+*T13* is a one-sentence observation, followed by silence. Note that it is not an interpretation. It is a statement of
+fact, in sequence, which the mother can take or leave.
+
+*T14–T17* is the date-line doing the clinical work. The therapist has not said that the mother is repeating her
+adolescence, or that the father is repeating his own departure. She has placed the events on a line, and the mother
+has done the rest.
+
+*T18* is the most dangerous sentence in the transcript and it is carefully built: it names a repetition, but it
+names it as an observation about the mother's life rather than as an accusation about the father. The sentence is
+delivered with two facts, not one interpretation, and it is followed by a pause long enough for the mother to
+respond.
+
+*T19* is the moment the session changes. The father speaks, and what he says ("She has not said it to me either") is
+both a defence and an opening. The therapist does not pursue the defence; she draws a line, labels it with the
+family's own description, and asks for correction. The line is the intervention: the distance is now on the paper,
+where both of them can see it, rather than in the mother's private resentment.
+
+**What the therapist avoided.** She did not ask the father why he drinks. She did not connect his mother's death to
+his absence, although the connection is obvious and may be right. She did not use the word "abandonment". Each of
+these would have closed the session in a way that this sequence opens it.
+
+### 8.9 Laboratory: the three-generation genogram
+
+The assessed practical for this week runs over two sessions: one in class, one completed at home.
+
+**Part A (in class, 60 minutes).** In pairs, take a full three-generation genogram of your partner's family of
+origin, using the standard sequence. Then swap, and take the genogram of the partner's *chosen* family — the people
+they would call family, which is often not the people on the birth certificate. The second version is the harder and
+more instructive task.
+
+**Part B (at home).** Draw your own three-generation genogram on a single A3 sheet, with dates, and write a
+500-word commentary answering four questions: what pattern repeats; what event coincides with the onset of a
+difficulty in the family; who is missing from the map; and what the map suggests you would find hardest to ask
+about.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Symbolic accuracy | 20% | All symbols correct; dates present; household marked |
+| Coverage | 20% | Three generations; both sides; losses, cut-offs and migrations included |
+| Interviewing | 20% | Standard sequence followed; family's words used; corrections invited |
+| Pattern reading | 25% | Two defensible hypotheses, each tied to a specific feature of the map |
+| Commentary | 15% | Honest; identifies the student's own blind spot without exhibitionism |
+
+**Two warnings for the assignment.** Students sometimes produce a genogram that contains material a family member
+would not want shared. The rule is that the sheet stays in the student's possession and only the commentary is
+submitted, with names replaced. And students sometimes discover something about their own family in the exercise
+that they need to talk about. That is not a failure of the assignment; it is the assignment working, and there is
+supervision available.
+
+### 8.9a Reading a published genogram: an exercise in hypothesis generation
+
+The skill this week is not drawing; it is generating hypotheses and knowing which ones to test. Here is the
+exercise that develops it fastest, done in pairs in fifteen minutes.
+
+**The map.** Take any published genogram with a case discussion — McGoldrick and Gerson contains dozens. Read only
+the diagram and the three-line referral. Do not read the discussion.
+
+**Step 1 — three structural facts.** Write the three most striking structural features: an unusual age gap, a
+death at a particular point, a cut-off, a household composition that does not match the birth order, a cluster of
+events in one year. Keep to facts on the page.
+
+**Step 2 — two hypotheses.** Write two competing hypotheses that would explain the referral, each tied to a
+different structural fact. The discipline of two is important: it prevents premature certainty and it trains the
+habit of holding alternatives.
+
+**Step 3 — the discriminating question.** For each hypothesis, write the single question whose answer would most
+reduce your uncertainty. This is the most important step, and the one students skip.
+
+**Step 4 — read the discussion.** Compare. The published author will usually have seen one of your hypotheses and
+missed the other, and will sometimes have seen something you did not. Note which.
+
+**Worked example.** A referral: "Parents request help with a 9-year-old son, defiant at home." The map shows a
+father who is the eldest of five, his own father dead at 62 of a stroke when the father was 9; a mother who is the
+youngest of three, her parents alive; the son is the couple's only child; the father's youngest brother is drawn
+with a conflict line to the father.
+
+*Structural facts:* the father was 9 when his own father died; the son is 9; the father is in conflict with the
+brother who is closest in age to the son; the son is an only child, in a family where the father was one of five.
+
+*Hypothesis 1 (the age repetition):* the son's ninth year has reactivated the father's own loss, and his anxiety is
+expressed as strictness, which the son experiences as defiance.
+
+*Hypothesis 2 (the role):* the father's conflict with his youngest brother has moved into the household, and the son
+has become the brother he cannot speak to.
+
+*Discriminating questions:* "What was your father like when you were nine?" (tests H1). "When you argue with your
+son, who does he remind you of?" (tests H2). Either answer is informative, and both are askable in the first
+session.
+
+**What the exercise teaches.** The genogram does not give answers; it gives the shape of the question. A clinician
+who leaves the map with three structural facts, two hypotheses and two questions is ready for a second session. A
+clinician who leaves with a diagram has drawn a picture.
+
+### 8.10 Six errors in genogram work
+
+1. **The questionnaire genogram.** Twenty minutes of questions with no drawing in front of the family, and no
+   hypothesis. Fix: draw, say what you are drawing, and ask the sequence questions aloud.
+2. **Two generations.** A map that stops at the parents cannot reveal repetition. Fix: three generations, always,
+   even if the third is sparse.
+3. **No dates.** A genogram without dates is a diagram of names. Fix: dates on births, deaths, marriages, moves and
+   the onset of the problem.
+4. **The therapist's interpretation delivered as fact.** "So your mother's death is why you cannot let your
+   daughter go." Fix: place the events, ask the open question, and let the family make the connection — or not.
+5. **Ignoring the missing.** A map that reproduces only what the family offers will omit the disowned, the dead
+   and the never-mentioned. Fix: ask "who is missing?" and draw what appears, including the gaps.
+6. **The genogram as an end in itself.** Six sessions of history and no present-day work. Fix: the genogram is a
+   hypothesis machine; every hypothesis it produces should generate a question about this week.
+
+### 8.10a The ten-minute genogram
+
+Most clinical settings do not permit a sixty-minute genogram interview. A workable compressed version takes ten
+minutes and produces two hypotheses, which is more than most first sessions produce.
+
+**Minutes 1–3: the household.** Who lives here, ages, and who else is involved in raising these children. Draw as
+you ask; keep it rough.
+
+**Minutes 4–6: two dates.** The year the parents married, and the year the presenting problem began. Ask what else
+was happening in the year the problem began.
+
+**Minutes 7–8: one question about the parents' own childhoods.** "When you were your son's age, what was your
+household like?" Ask both parents; draw a rough sketch of each family of origin.
+
+**Minutes 9–10: one question about the missing.** "Who else is in the family who we have not mentioned?" Draw what
+appears. Stop.
+
+**The output.** Two hypotheses and two questions for the next session, in the notes. Nothing more. The compressed
+version is not a substitute for the full interview, and it should be completed in the second or third session when
+the material justifies it.
+
+### 8.11 Culture, faith and the genogram
+
+The genogram looks like a neutral technique and is not. Five adjustments for work in Nigeria and in any context
+where kinship does not follow the nuclear template.
+
+**Kinship is wider than the diagram.** In many Nigerian families, the household includes cousins, wards, nieces,
+apprentices, house-help and elderly relatives, and obligations extend to a wider lineage than the genogram's
+three generations can show. A genogram that records only the parents and their children will systematically miss
+the people who are raising the children and the people who hold authority over them. Draw the household as it
+actually is, with a dotted line around everyone who eats from the same pot, and ask about the wider lineage
+separately.
+
+**Polygyny and multiple households.** A genogram based on a single marriage per person misrepresents a family with
+two households, co-wives, or children raised between homes. The convention is to draw each union honestly, in
+whatever form it takes, with a cohabitation line, a marriage line or a partner line, and to record where each child
+was raised. The map must match the family, not the template.
+
+**Names and the dead.** Some families will not speak the names of the dead, and some will not discuss a death at
+all. The genogram must be built at the family's pace, and the therapist must be able to leave a symbol undrawn.
+Ask permission: "Some families do not like to say the names of those who have died. Tell me what is comfortable for
+you, and I will draw only that."
+
+**The spiritual lineage.** In families with strong religious or traditional commitments, the significant
+"ancestors" are not only biological. A map that includes the church, the mosque, the imam, the pastor, the
+traditional healer or the family's deity as significant figures in the family's structure is often more accurate
+than a purely biological one. Ask: "Who else is a parent in this family — in the sense of having authority or
+responsibility for these children?"
+
+**Migration and remittance.** A genogram of a transnational family should record who migrated, when, and who was
+left behind with whom. The grandmother who raised four grandchildren while their parents worked abroad is a
+structural fact of the family, not a footnote, and the guilt, obligation and resentment that accompany the pattern
+are frequently the material of the presenting problem.
+
+> **DEBATE** — Is the standard genogram a culturally specific instrument that imposes a Western kinship model on
+> families whose structure it cannot represent? Take a position, and argue it with reference to a family you know.
+
+### 8.12 Evidence note: what the genogram is and is not
+
+The genogram's evidence base is thinner than its popularity suggests, and honesty about this is part of professional
+competence.
+
+**What is established.** Genograms are reliable as *descriptive* instruments: trained clinicians can produce
+similar maps from the same family, and inter-rater agreement on structural facts (household composition, deaths,
+marriages) is generally good. Genogram data have been used in family medicine to identify risk patterns, in
+genetic counselling to map heritable conditions, and in systemic research as a way of recording family structure.
+
+**What is not established.** There is little evidence that genogram-derived *interpretations* — the
+multigenerational hypothesis, the "repetition compulsion" reading, the assumption that a pattern in the map explains
+a symptom in the present — are valid. The genogram generates hypotheses; it does not confirm them. A therapist who
+treats the map as an explanation has confused a heuristic with a finding.
+
+**What the research does support.** The genogram is a powerful *engagement* device. Families report the genogram
+interview as one of the more comfortable and revealing parts of an assessment, and the technique reliably produces
+information that families have not previously connected. Its value is in the process — the drawing, the
+corrections, the date-line — rather than in the diagram that results.
+
+**The professional implication.** Use the genogram to ask better questions, not to reach conclusions. Record the
+family's own account of the pattern alongside your hypothesis, and mark your hypothesis as such. When you write a
+report, distinguish what was drawn from what was inferred, and give the family the opportunity to correct the
+inference before it becomes part of a record that will outlast the therapy.
+
+### 8.12a Putting the genogram in the record
+
+The genogram will be filed, and the filing requires judgement. Four rules.
+
+**Record the family's account and your hypothesis separately.** The record might read: "Family's account: father's
+mother died 1998, when he was 16; he left for Lagos that year. My hypothesis: father's own experience of loss at 16
+may be connected to his difficulty in remaining present for his son's adolescence; not yet tested." The distinction
+matters for supervision, for any subsequent clinician, and for the family if they ever read the file.
+
+**Do not record unconfirmed third-party information as fact.** If a mother says that her husband's sister was
+"sent away" at 17, and nobody confirms what happened, the record says "mother reports" — not "aunt was sent away".
+
+**Obtain agreement about who sees the map.** The genogram is a document about people who are not in the room, and
+those people have not consented to being mapped. In a shared record, mark the diagram as clinical material with
+restricted access where the system allows it, and never circulate it beyond the treating team without consent.
+
+**Give the family their own copy, if they want one.** Some families will want to keep the map, to take it home and
+correct it. This is a good outcome: the map that the family corrects at home is better than the map the therapist
+files.
+
+**Storage.** A genogram contains health information about relatives who are not clients. Follow the same rules you
+would for any clinical document: secure storage, defined retention period, no photographic copies on personal
+devices, and no use in teaching without consent and anonymisation thorough enough that the family could not
+recognise itself.
+
+### 8.12b Two genograms of one family, and the difference it made
+
+The final worked example for the week, showing how the drawing changes the formulation.
+
+**The map produced in session two.** Mother, father, two children aged 9 and 4. Father's parents: both alive;
+father is the second of four. Mother's parents: both alive; mother is an only child. Presented problem: the
+9-year-old's tantrums.
+
+**The formulation that followed.** A firstborn child, displaced by the arrival of a sibling, in a family where the
+mother has no experience of siblings and the father has three. The tantrums were read as a protest about the
+dethronement. The plan was a behavioural programme for the tantrums and a discussion of the parents' expectations of
+a firstborn.
+
+**The map produced in session five, after the family had corrected it.** The father is the second of four, but the
+first of those four died at 14 months, before the father was born. The mother is an only child whose own mother had
+four pregnancies and three losses. Nobody had mentioned either fact, because in both families the losses were "not
+spoken about".
+
+**The formulation that followed.** Two parents who had each grown up in a household organised around a child who
+died, and who had each learned that a child's survival was not to be assumed. The 9-year-old's tantrums were being
+met not with ordinary irritation but with alarm, and the father's nightly checking of the child's breathing — which
+the family had not mentioned either — now made sense as a symptom of the parental history rather than of the child's
+behaviour. The tantrums were addressed, and so, in the following weeks, was the checking.
+
+**Why the father's checking was not asked about.** Because the therapist had a map that made it unnecessary to
+ask. The tantrums were the referral, the parents were cooperative, and the programme was working well enough to
+satisfy the school, the parents and the therapist. A formulation can be adequate to the referral and still miss the
+thing the family most needs to say, and the only reliable protection against that is to keep asking the structural
+questions after the crisis has passed, when there is time to hear the answers.
+
+**The lesson.** The first map was accurate as far as it went. It lacked two symbols and a date, and those two
+symbols reorganised the case. The therapist's job is not to draw the perfect map in the first session; it is to keep
+the map open, to keep asking who is missing, and to expect that the answer will change the case a second time —
+as this one did in the fifth session, when the family said the breathing had never been mentioned because there was
+nothing to say.
+
+---
+
+### 8.13 Key terms
+
+| Term | Definition |
+|---|---|
+| Genogram | A multigenerational family diagram with dates, relationships and events |
+| Date-line | A horizontal timeline on which family events and the onset of the problem are placed |
+| Cut-off | A relationship in which contact has ceased, often transmitted across generations |
+| Replacement child | A child conceived or treated as a substitute for a deceased sibling |
+| Fusion | A relationship in which the two parties have little separate identity (Bowen) |
+| Differentiation | The capacity to remain oneself while emotionally close to others (Bowen) |
+| Triangle | A three-person configuration in which tension between two is displaced onto a third |
+| Family of origin | The family in which a person was raised |
+| Family of procreation | The family a person forms as an adult |
+| Horizontal stressor | A difficulty occurring in the present generation |
+| Vertical stressor | A difficulty transmitted from previous generations (McGoldrick) |
+| Household marker | A dotted line around those living together |
+
+### 8.14 Self-test
+
+1. What are the three functions of a genogram?
+2. Why is three generations the minimum?
+3. What is the date-line, and what question follows it?
+4. Name four patterns that recur across generations and are visible on a genogram.
+5. What is the most useful question to ask once the map is drawn?
+6. What does the evidence say about genogram interpretation?
+7. How should a genogram represent a family with two households?
+8. Why should the family hold the pen at least once?
+
+**Answers.** 1. Structure, repetition, relationship. 2. Two generations show a family; three show a pattern, because
+repetition requires comparison across at least three. 3. A timeline of family events with the onset of the problem
+placed on it; the question is "what was happening in the family in that year?" 4. Repetition of an age; repetition
+of a loss at the same life-cycle point; the replacement child; the cut-off; the recurring role; the migration
+pattern. 5. "Who is missing from this picture?" 6. Descriptive reliability is reasonable; interpretive validity is
+not established — the genogram generates hypotheses rather than confirming them. 7. Draw each union honestly, with
+its own line type, and record where each child was raised. 8. Because the corrections are the assessment, and
+drawing distributes ownership of the map.
+
+### 8.15 Reflective task
+
+Draw your own genogram before the seminar, with dates, and place on the date-line the year you decided to train as a
+therapist. Then write 250 words on the proximity of that decision to any other event on the line. Students
+frequently find that the decision is closer to a family event than they had realised; that discovery is not a
+diagnosis of your motives, it is an example of how the technique works.
+
+### 8.16 Readings for this week
+
+* **McGoldrick, Gerson & Petry (2008)**, *Genograms: Assessment and Intervention*, 3rd edition. The standard text;
+  read the chapters on the genogram interview rather than the symbol list.
+* **Bowen (1978)**, *Family Therapy in Clinical Practice*, especially the chapters on multigenerational transmission
+  and triangles.
+* **McGoldrick & Gerson (1985)**, the first edition, for the historical development of the conventions.
+* **Kerr & Bowen (1988)**, *Family Evaluation*, chapters 4–6, for the theory the genogram was designed to serve;
+  read chapter 5 twice if triangles are still abstract, because they will not be after the second reading, and
+  then draw three of your own from memory before you go back to the book.
+* **Bennett & Wolin**, any paper on the "resilience genogram", for a strengths-oriented variation.
+* **A published case study** that includes a full genogram and a date-line, read to see how an experienced clinician
+  moves from the drawing to a hypothesis.
+
+*Next: [Week 9 — Formulating relationally](#week-9--formulating-relationally)*
 
 ---
 
