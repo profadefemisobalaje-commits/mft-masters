@@ -8570,8 +8570,271 @@ therapist sided with another, or feels that information was shared wrongly. The 
 the record discipline of 12.7 are, in practice, the best complaint prevention available.
 ## Week 13 — Integration I: three lenses on one family
 
-This week is a rehearsal for MFT 702. You will apply three models to the same case and notice that each
-produces a different question, a different focus and a different first move.
+This week is a rehearsal for MFT 702. You will apply three models to the same case and notice that each produces a
+different question, a different focus and a different first move. The purpose is not to choose a winner but to become
+fluent enough to choose deliberately.
+
+### 13.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | What integration is, and three kinds of it | Define assimilative, eclectic and pluralistic integration | Place themselves on the map |
+| 10–25 | The case, in full | Read the transcript of the first ten minutes twice | Note what they notice on each reading |
+| 25–40 | The structural lens | Formulate live, with the case on the board | Add the structural diagram |
+| 40–52 | The Bowen lens | Formulate live; coach the parents on paper | Identify the triangle and the projection |
+| 52–64 | The solution-focused lens | Formulate live; find three exceptions | Scale the family's confidence |
+| 64–78 | The comparison | Three plans side by side | Argue for one, then argue against it |
+| 78–90 | The switching exercise | Demonstrate one therapist changing lens mid-session | Rehearse a switch |
+
+### 13.2 Three kinds of integration
+
+"Integration" is used loosely in the field. Three distinct activities, each with a different logic.
+
+**Assimilative integration.** The therapist has one primary model and incorporates techniques or concepts from others
+without abandoning the core. This is how most experienced clinicians actually work: a structural therapist who uses
+solution-focused questions in the first session, or a systemic therapist who uses an emotion-focused enactment. The
+advantage is coherence — the therapist knows what they are doing and why. The risk is that borrowed techniques are
+used without the theory that makes them work.
+
+**Eclectic integration.** The therapist selects from several models according to the case, with no single organising
+framework. The advantage is flexibility. The risk, well documented, is incoherence: a session that begins
+structurally, shifts to narrative questioning, and ends with a behavioural task can leave the family confused about
+what kind of conversation they are in.
+
+**Pluralistic integration.** The therapist works with the client's preferences and the evidence, using a
+meta-framework that explicitly includes multiple methods and negotiates them with the family. The advantage is
+collaboration and fit; the risk is that the therapist's own expertise dissolves into consumer choice.
+
+**Where a trainee should begin.** With assimilative integration, because a primary model gives a trainee something to
+be wrong about. A therapist who has no primary model cannot tell whether a failure belongs to the model, the
+technique or themselves, and therefore cannot learn from it. The primary model is the instrument; the others are the
+extensions.
+
+**The four tests of a defensible integration.** Does it have a stated primary frame? Can the therapist say, in any
+given session, which frame is operating and why? Does each borrowed technique retain the conditions that make it
+work? Does the family experience one coherent conversation rather than three?
+
+### 13.2a Your primary model: a diagnostic
+
+Before the seminar, answer six questions about your own practice. The answers are not a test; they are a baseline
+against which the rest of the programme will make sense.
+
+**1. In your first ten minutes with a new family, what do you do?** If the answer is "ask each person what they have
+noticed", you are working structurally. If it is "ask what they have already tried", you are working solution-focused.
+If it is "ask each person what they feel", you are working emotion-focused. Most trainees have a default, and most
+have never named it.
+
+**2. What do you look at first in a transcript?** Alliances, sequences, feelings, language, or the absent member. The
+thing your eye goes to is your model, whatever you say it is.
+
+**3. What do you do when the session gets difficult?** This is the most revealing question. A structural therapist
+reorganises the room; a Bowenian slows down and asks about the process; a solution-focused therapist asks about
+exceptions; an emotionally focused therapist deepens the affect; a narrative therapist externalises. The default
+response under pressure is the primary model, and it is the one you need to know.
+
+**4. What kind of family makes you anxious?** A family that will not speak, a family that shouts, a family that
+idealises the therapist, a family that asks for a diagnosis. The anxiety marks the limit of the primary frame.
+
+**5. What would you have to give up to change models?** Coherence, speed, a sense of competence, the approval of a
+supervisor. Naming the cost is what makes a deliberate change possible, and the cost is usually higher than trainees
+expect: a therapist who has spent three years becoming fluent in one frame has invested in that fluency, and the
+investment is invisible until a family arrives who needs something else.
+
+**6. Which of the five lenses in this week do you use least?** That is the lens to practise in MFT 702, and the one
+you are most likely to need with the families who currently defeat you.
+
+**Why this matters now.** A trainee who cannot name a primary model cannot integrate, because there is nothing to
+integrate into. The naming comes before the borrowing.
+
+### 13.3 The case: the Adeyemis, session one
+
+The material below is the data for the whole week. Read it twice: once for the content, once for what you notice.
+
+**Referral.** "Amara Adeyemi, 16, out of school for four months. School has made a formal referral to the education
+welfare service. Mother reports she 'cannot manage her'. Father works in Lagos, attends when he can. Younger brother
+11, no difficulties reported."
+
+**Who attends.** Mother (41, nurse, works shifts), Amara (16, Year 11, wants to be a pharmacist), brother (11, brought
+because there was nobody at home). Father absent — "he cannot take time off in the week".
+
+**What the mother says.** Amara refuses to go to school. She has tried everything: talking, shouting, removing the
+telephone, prayer, fasting, a conversation with the school counsellor. Amara stays in her room. The mother telephones
+the school each morning with an explanation. She is tired, and she is frightened of the education welfare officer.
+She mentions, in passing, that her husband "does not understand" and that when he is home at weekends he tells her
+she is too soft.
+
+**What Amara says.** She is not going back. The school is "full of people who think they know you". She has one
+friend who left in the summer. She says her mother "talks at me". She says her father "does not listen, he just
+decides things". She denies being bullied, denies self-harm, and says she is "fine" when she is in her room.
+
+**What the brother says.** "It is quiet when she is at home. When she is at school it is not quiet." Asked what he
+means, he says: "Mummy is always on the phone to the school."
+
+**What is not said.** Nobody mentions the father's redundancy in 2019, the two years he was at home, or the paternal
+grandmother's death in 2022. Nobody mentions the mother's own father, who died when she was 19.
+
+### 13.4 The structural lens
+
+**The formulation.** The household has a parental subsystem that is functionally single — the mother manages the
+children alone for five days a week — and a cross-generational coalition in which Amara and her mother are locked in
+a struggle that has the intensity of a marital conflict. The father, when present, enters as a third authority whose
+interventions are not coordinated with the mother's. The sibling is peripheral and articulate about the family's
+emotional temperature. The boundary around the parental subsystem is weak in the week and rigid at the weekend.
+
+**The first move.** Strengthen the parental subsystem before addressing the school refusal: a session with the two
+parents only (by telephone if necessary), in which they agree a single position on the school, including what will
+happen on Monday morning, and who speaks to the school. In the joint session, block the mother–daughter escalation
+by moving the conversation to the parents and asking Amara to observe rather than participate for ten minutes — a
+structural move that puts the adults in charge of the decision.
+
+**A sample intervention, scripted.** "I would like to talk to your parents for a few minutes about Monday, and
+Amara, I would like you to listen rather than answer, because the decision is theirs to make. Is that all right? —
+Mrs Adeyemi, Mr Adeyemi, by Sunday evening I want the two of you to have agreed one sentence about Monday morning
+that you will both say, in the same words. Not two sentences, not one each. What would that sentence be?"
+
+**What this lens sees.** Hierarchy, alliances, boundaries, the sibling's position, and the immediate, practical
+leverage in the parental subsystem.
+
+**What it risks missing.** The mother's grief and exhaustion; the meaning of school for Amara; the possibility that
+the refusal is protective of something the family has not named; and the institutional loop with the school, which a
+purely structural frame tends to treat as background.
+
+**What would falsify it.** If the parents agree a single position and the mornings do not change at all within two
+weeks, the coalition is not the maintaining mechanism, and the formulation needs the next lens.
+
+### 13.5 The Bowen lens
+
+**The formulation.** The family's anxiety is high and is being managed by distance (the father's work), by conflict
+(the mother–daughter struggle) and by projection onto the adolescent, who is the family's identified symptomatic
+member. The mother's own history — the eldest of five, her father's death at 19, her care of four siblings while her
+mother was unwell — has produced a pattern of over-functioning under stress and a low tolerance for needing help. The
+father's history — his mother's death when he was 16, his departure for Lagos that year — has produced a pattern of
+managing anxiety by leaving and by being needed at a distance. The marital dyad is emotionally distant, and the
+distance is stabilised by the focus on Amara. Amara is triangled into her parents' unresolved business, and her
+refusal is simultaneously a protest and a stabiliser.
+
+**The first move.** Lower the family's reactivity and increase the parents' differentiation: coach each parent,
+separately at first, to observe their own part in the cycle without blame, and to manage their own anxiety rather
+than attempting to manage Amara's. Concretely: a "detriangulation" task in which the mother, when Amara refuses, does
+not argue, does not telephone the school, and instead says one sentence and leaves the room — reducing the emotional
+intensity of the triangle rather than winning the contest.
+
+**A sample intervention, scripted.** "When Amara says she is not going, and you feel the anger rising, I want you to
+notice it and to say one sentence — something like 'I am not going to argue this morning' — and then to leave the
+room. Not because it will get her to school. It will not, at first. Because it takes you out of the triangle and
+leaves her with her own decision for twenty minutes. Can you do that and tell me what happens?"
+
+**What this lens sees.** Multigenerational patterns, the transmission of anxiety, triangles, the function of the
+symptom in managing marital distance, and the therapist's own reactivity as a source of information.
+
+**What it risks missing.** The school's timetable, which will not wait for differentiation; the practical conditions
+of the family's week; and the possibility that the problem is better addressed by a direct, pragmatic move than by a
+slow process of coaching.
+
+**What would falsify it.** If the mother can lower her reactivity for two weeks and nothing changes in Amara's
+behaviour or the family's emotional temperature, the triangle is not the central mechanism.
+
+### 13.5a The same case at session eight: what each lens would call progress
+
+A useful exercise, because it distinguishes the lenses more sharply than their first moves do. The Adeyemis have now
+had eight sessions. What would each lens regard as the evidence that the work is succeeding?
+
+**The structural criterion.** The parents have made three decisions together without Amara in the room, and the same
+sentence has been used in the kitchen on consecutive mornings. The sibling has been asked, once, how things are at
+home, and has given an answer that was not about Amara. The hierarchy is functioning: decisions are made in the
+parental subsystem and communicated downwards, rather than negotiated in the triangle.
+
+**The Bowen criterion.** The mother has described her own reaction in a session without blaming her daughter, and has
+reported one occasion on which she left the room instead of escalating. The father has described his own experience
+of being excluded, rather than criticising his wife. The parents have had one conversation about the family's two
+deaths. The family's reactivity is lower, and it is lower across several domains, not only around school.
+
+**The solution-focused criterion.** The family can describe, specifically, what a good morning looks like, and can
+report three occasions on which it happened. The mother's confidence on a nought-to-ten scale has moved from two to
+four. Amara has described one thing she wants that is not "to be left alone".
+
+**The emotion-focused criterion.** The mother has expressed the fear and the shame in Amara's presence, and Amara has
+responded with something other than withdrawal. The father has said what it is like to come home, and has been heard.
+The cycle has been slowed enough that the family can describe it together.
+
+**The narrative criterion.** The family has a name for the problem that is not Amara's name. Each member can describe
+what the problem has cost them. Somebody has produced a unique outcome — a morning that contradicts the story — and
+the family can say what it means.
+
+**What the exercise reveals.** The five criteria are not interchangeable, and a family can meet one and fail the
+others. A family that has made decisions together but in which nobody has said anything true about the deaths has met
+the structural criterion and not the Bowenian one; a family that can describe a good morning but cannot describe what
+the problem has cost them has met the solution-focused criterion and not the narrative one.
+
+**The practical consequence.** The therapist should decide, at assessment, which criterion will be the *primary*
+measure of success for this family, and say so. "For the next eight weeks, I will judge this work by whether the two
+of you can make one decision together and hold it. We will look at everything else afterwards." That statement is
+what a formulation is for, and it prevents the demoralisation that comes from judging progress by every criterion at
+once.
+
+### 13.6 The solution-focused lens
+
+**The formulation.** The family is organised around a problem story that has become total: "Amara refuses school, we
+cannot manage her, the school is threatening us." Within that story there are exceptions, competences and
+preferences that nobody has described. The task is not to explain the problem but to build a description of the
+solution the family wants, and to notice the occasions when it already happens.
+
+**The first move.** Establish what would be different, in observable terms, and find the exceptions. Questions, in
+order:
+
+> "Suppose tonight, while you are asleep, the problem is solved. What is the first thing you notice tomorrow morning
+> that tells you something is different?"
+> "What would I see you doing in that kitchen that I would not see now?"
+> "When was the last time it was a little bit like that — even for half a morning?"
+> "What did you do that made that possible?"
+> "On a scale of nought to ten, where are you now, and where would one point higher be?"
+
+**A sample intervention, scripted.** "You said the last good morning was in September, the week of your sister's
+wedding, when Amara got up without being called twice. What was different about that morning? — You had cooked
+something she likes. — What would it take to do that on a Monday, not because it will get her to school, but because
+it is the kind of morning you want more of?"
+
+**What this lens sees.** The family's own goals, their existing competences, the small differences that make a
+difference, and the speed at which a family can move when the conversation is about what they want rather than what
+is wrong.
+
+**What it risks missing.** The function of the symptom (what it is doing for the family system); the loss and history
+that may be driving it; the institutional realities; and the possibility that optimism becomes an implicit demand
+that the family perform improvement for the therapist's benefit.
+
+**What would falsify it.** If a well-specified preferred future and two weeks of exception-building produce no change
+in the mornings and no increase in the family's own sense of agency, the problem is not a solution-description
+problem.
+
+### 13.7 Two further lenses, briefly
+
+MFT 702 treats each model in depth. Two more are presented here because comparing three lenses is instructive and
+comparing five is educational.
+
+**Emotion-focused lens.** The mother's exhaustion is secondary to a primary emotion — the fear of being alone with a
+child she cannot reach, and the shame of failing at the one thing she believes a mother should manage. The father's
+weekend interventions are secondary to his own shame at having been absent and his fear of being irrelevant. Amara's
+refusal is a protest against a bond that has become functional rather than affectionate. The cycle is: mother
+pursues, Amara distances, mother escalates and then collapses, Amara feels guilty and withdraws further, father
+enters at the weekend with a directive that confirms both his irrelevance and the mother's resentment. The first move
+is to slow the cycle down and access the primary emotions, beginning with the mother's, in an enactment in which
+Amara is asked to listen.
+
+**Narrative lens.** The family is living inside a dominant story — "Amara is the difficult one" — that has recruited
+the school, the mother and, in a different way, Amara herself. The task is to externalise the story ("the Not Going
+to School problem"), map its influence on each member, and find unique outcomes where the family has resisted it.
+The first move is to separate the person from the problem and to ask each member what the problem has cost them and
+what it has taken from them.
+
+**Why all five lenses produce a plausible plan.** Because the case genuinely contains hierarchy problems, triangles,
+exceptions, unexpressed emotion and a dominant story. A family is not one thing; it is a system rich enough to
+support several accurate descriptions. The professional question is therefore not "which description is true?" but
+"which description gives this family, at this moment, the best chance of change, and what will tell me if I am
+wrong?"
+
+### 13.8 The three plans side by side
+
+The existing summary of the three lenses, kept because it is the clearest one-page statement of the comparison.
 
 | Model | Key question | First move with the Adeyemis | Likely risk |
 |---|---|---|---|
@@ -8579,15 +8842,420 @@ produces a different question, a different focus and a different first move.
 | Bowen/multigenerational | How does anxiety travel, and who absorbs it? | Coach the parents to manage their own reactivity; map the projection onto Amara | Slow; family may want symptom relief now |
 | Solution-focused | What is already working, and what would "one point better" look like? | Find exceptions to school refusal; scale the parents' confidence | May bypass the function of the symptom |
 
-**The point of the exercise is not to choose a winner.** It is to notice that a family presents a
-*plural* reality and that your model determines what you can see. Good clinicians can move between at
-least two frames without losing coherence.
+**Adding the two further lenses.**
 
-> **PRACTICAL** — In groups, take the same case and produce three one-page plans. Present all three.
-> Then answer: which would you start with, and what would make you change your mind?
+| Model | Key question | First move | Likely risk |
+|---|---|---|---|
+| Emotion-focused | What primary emotion is the argument protecting? | Slow the cycle; access the mother's fear and shame in an enactment | Intensity too early; the family may not have the capacity to tolerate it yet |
+| Narrative | What story has recruited this family, and who is it serving? | Externalise the problem; map its influence on each member | May remain at the level of description and never reach the mornings |
+
+**The comparison in four sentences.** Each lens selects a different unit (structure, triangle, exception, emotion,
+story). Each generates a different first move and therefore a different first session. Each has a characteristic
+blind spot that the others cover. Each is testable, and the marker of a competent clinician is that they can state
+what would show their chosen lens to be wrong.
+
+### 13.8a When the lenses disagree: a decision protocol
+
+A procedure for the moment in the seminar — or the clinic — when two competent clinicians, using different lenses,
+produce incompatible plans.
+
+**Step 1 — establish that the disagreement is real.** Often it is not. "You want to strengthen the parents; I want to
+lower the mother's reactivity" may be the same first move in different language. Ask each clinician to script the
+first sentence they would actually say. If the sentences are compatible, the disagreement is theoretical.
+
+**Step 2 — identify the level of disagreement.** There are four possible levels, and they require different
+responses.
+
+*Level 1: language.* The same move, described differently. Response: agree the scripted sentence and proceed.
+
+*Level 2: sequence.* Both moves are needed; the clinicians disagree about which comes first. Response: decide by the
+family's circumstances — what will be lost if we delay? — and record the decision and the review point.
+
+*Level 3: mechanism.* The clinicians disagree about what maintains the problem. Response: design an observation that
+discriminates between them, usually a two-week task with a specific expected result, and agree in advance what each
+outcome would mean.
+
+*Level 4: values.* The clinicians disagree about what the family should want, or about what counts as a good outcome —
+for example, whether a daughter should be supported to leave her family's expectations. Response: name the value
+disagreement explicitly, take it to supervision, and where it cannot be resolved, refer to the clinician whose values
+match the family's needs, saying why.
+
+**Step 3 — choose and record.** Whatever the level, the decision must be made, recorded and given a review point. The
+commonest failure in integrated teams is an unresolved disagreement that produces a plan with two incompatible parts,
+which the family experiences as confusion and which nobody reviews.
+
+**Step 4 — tell the family what was decided and why.** Not the professional disagreement in detail, but the reasoning
+in plain terms: "We have decided to start with the two of you, because the mornings are going to be decided by you
+before they are decided by Amara. In a month we will look at whether that was the right place to start."
+
+**The discipline this teaches.** Disagreement between models is not an embarrassment to be smoothed over; it is the
+mechanism by which a team arrives at a better plan, provided it is made explicit and resolved rather than averaged.
+
+### 13.9 Annotated transcript: switching lens mid-session
+
+A demonstration of a therapist changing frame deliberately, in session three with the Adeyemis. The structural move
+fails, and the therapist does not repeat it.
+
+> **T1 Therapist:** I would like the two of you to agree one sentence about Monday, in the same words. — Mrs Adeyemi,
+> what would the sentence be?
+> **T2 Mother:** "You are going to school on Monday." That is what I would say.
+> **T3 Therapist:** And Mr Adeyemi — the same sentence?
+> **T4 Father:** (pause) I would say, "Your mother and I have decided, and we will talk about it on Sunday evening."
+> **T5 Therapist:** Those are different sentences. They are both firm. One is a command and one is an invitation to
+> negotiate.
+> **T6 Mother:** (to father) You always do this. You come home and you make me the bad one.
+> **T7 Therapist:** (pause) Let me stop and say what I am seeing. I asked for one sentence, and within a minute we have
+> the argument that I think happens every weekend. Amara, is this what it is like?
+> **T8 Amara:** (nods) Every Saturday.
+> **T9 Therapist:** Then I want to change what we are doing. I am going to stop asking you to agree a sentence, because
+> agreeing a sentence is not the problem. The problem is that on Saturday you two have a conversation that is really
+> about the last five days, and Amara is in the room for it. So let us do something different. Mrs Adeyemi, when you
+> heard your husband's sentence, what did you feel?
+> **T10 Mother:** (crying) That I am doing it alone and nobody sees it.
+> **T11 Therapist:** And Mr Adeyemi, when she said "you make me the bad one"?
+> **T12 Father:** (long pause) That I am not in my own house.
+
+**Annotations.** *T5* is a structural observation, made neutrally, and it fails: the parents do not hear the
+distinction between a command and an invitation, they hear an accusation. A therapist committed to the structural
+frame would repeat the task, perhaps more firmly, and would spend the session managing a conflict that the task has
+produced.
+
+*T7* is the switch, and it is announced. "Let me stop and say what I am seeing" is the sentence that makes the change
+of frame explicit rather than a loss of nerve. It also recruits Amara as a witness, which serves two purposes: it
+gives the therapist information and it interrupts the parents' dyad.
+
+*T9* moves from structure to emotion, and the move is justified in the therapist's own words: "agreeing a sentence is
+not the problem." The therapist has used the failure of the structural task as evidence about the mechanism, which is
+exactly the discipline described in Week 9's testability clause.
+
+*T10* and *T12* are the payoff. In four turns the session has moved from a disagreement about a sentence to two
+statements of primary experience — being alone, not being in one's own house — that no amount of structural
+instruction could have produced. The therapist will return to the sentence next week; it will be easier to agree.
+
+**What makes this integration rather than incoherence.** The therapist has a primary frame (structural), states the
+observation from that frame, and then makes a deliberate, announced shift to a second frame (emotion-focused) with a
+reason. She has not randomly changed technique; she has followed the evidence that the first frame's first move was
+not working.
+
+**What would have made it incoherent.** Switching without saying so; switching because the therapist was
+uncomfortable with conflict rather than because of evidence; and switching back and forth three times in a session,
+leaving the family unable to tell what kind of conversation they were in.
+
+### 13.9a Rehearsing the switch: three scripts
+
+Frame shifts are a skill and are learned by rehearsal. Three scripts to practise in pairs, each with a distinct
+justification.
+
+**Script 1 — from structure to emotion, when the structural task produces conflict.**
+
+> "I asked the two of you to agree a sentence, and instead we had the argument. That is useful information, so let me
+> stop the task. Before we go back to the sentence, I want to know what happened inside each of you when it started.
+> Mrs Adeyemi, what did you feel when he gave his version?"
+
+**Script 2 — from exploration to structure, when the conversation becomes circular and nothing is decided.**
+
+> "We have been going round this for twenty minutes, and I notice that each of you has said the same thing three
+> times. I want to change what we are doing. I am going to ask you, as the two adults, to make one decision in this
+> room, now, about Saturday, and I will help you make it. Is that all right?"
+
+**Script 3 — from problem talk to exception talk, when the family is demoralised.**
+
+> "I want to stop for a moment, because everything you have told me this morning has been about what is not working,
+> and I believe you. I want to ask a different question. In the last month, was there one morning that went better
+> than the others, even slightly? — There was. What was different about it?"
+
+**What all three have in common.** Each begins by naming what has just happened ("instead we had the argument", "we
+have been going round this", "everything you have told me has been about what is not working"). Each states the change
+of direction. Each gives a reason. And each asks permission or offers a choice. Those four elements are what
+distinguish a frame shift from a loss of nerve.
+
+### 13.10 Laboratory: three plans, one decision
+
+The assessed practical, run over two hours with the Adeyemi data set.
+
+**Stage 1 (40 minutes) — three one-page plans.** Groups of three. Each student takes one lens — structural, Bowen,
+solution-focused — and writes a one-page plan containing: the formulation in four sentences; the first move, scripted
+in the words they would use; the second move; what they expect to see within two weeks; and what would show the plan
+to be wrong. No plan may exceed one page; the constraint forces selection.
+
+**Stage 2 (30 minutes) — presentation and challenge.** Each student presents for eight minutes. The other two
+challenge on three grounds only: does the first move follow from the formulation? could the family refuse it without
+losing face? and what would tell you it is failing?
+
+**Stage 3 (30 minutes) — the decision.** The group must produce one joint plan, with a stated primary frame, a
+justification for choosing it over the other two, two elements imported from the other lenses, and a review point at
+which the choice will be reconsidered. The justification must address the family's circumstances, not only the
+model's elegance.
+
+**Stage 4 (20 minutes) — the family version.** Translate the joint plan into the first two minutes of the next
+session, spoken aloud, in plain language, ending with a question the family could answer with "no".
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Formulation in each lens | 20% | Four sentences; the lens's own logic; no contamination from other models |
+| First move, scripted | 20% | Specific words; follows from the formulation; the family could refuse it |
+| Falsifiability | 20% | A two-week expectation and a stated condition of failure |
+| The decision | 25% | A primary frame, justified by this family's circumstances; two principled imports; a review point |
+| The family version | 15% | Two minutes, plain language, one answerable question |
+
+**The commonest failure, and why.** Groups produce three good plans and then choose the one they find most
+comfortable, without justifying it by the family's circumstances. The marker's question is always: "why this family,
+this week?" A competent answer refers to the school's timetable, the father's availability, the mother's exhaustion,
+or the risk of losing the family if the first move is too slow. A weak answer refers to the group's preference for
+the model.
+
+### 13.10a A fourth lens: the institution's view of the same case
+
+An exercise that changes how students see the whole week. The same family, formulated by the school.
+
+**The school's formulation, written by the head of year.** "Amara Adeyemi has 61 unauthorised absences since
+September. Her mother telephones with explanations that are not supported by medical evidence. The family has not
+attended two meetings. Amara is a capable student whose predicted grades would allow her to study pharmacy. The
+school's concern is that the pattern has become established, that the family is not engaging with the support
+offered, and that the education welfare process will be triggered if attendance does not improve by half term. The
+school's view is that Amara is being supported at home to remain absent."
+
+**What the school sees that the therapist may not.** The arithmetic of the absences; the timetable of consequences;
+the predicted grades, which mean that the loss is greater than the family has acknowledged; the fact that the mother
+has missed two meetings, which the school reads as non-cooperation; and the legal position of the school, which
+requires it to act.
+
+**What the school cannot see.** That the mother telephones every morning because she is trying to protect her
+daughter and herself from the school's judgement; that the two missed meetings were on days when she was on a
+seven-o'clock shift; that the family has never been asked what they think is happening; and that the letters
+themselves are part of the loop.
+
+**The integration.** A therapist who formulates only the family will write a letter to the school asking for
+understanding, which the school will read as special pleading. A therapist who formulates only the institutional
+process will pressure the family, which will produce compliance without change. The competent formulation holds both:
+"the school is escalating on a timetable, the mother is concealing on a timetable, and the two timetables are
+producing the absences."
+
+**The first move that follows.** A meeting at the school, with the mother and the therapist, at which three things
+happen: the mother tells the truth about the mornings; the school names its legal position plainly; and a staged
+return is agreed with a named member of staff and a fortnightly review. The formulation has become a joint plan
+because it included the institution as a member of the system.
+
+**The lesson for integration.** Every lens in this week is a lens on a *family*. The family in front of you is
+usually also a case in somebody else's system, and that system has a formulation of its own, a timetable, and a
+legitimate view. The most useful integration a trainee can learn is not between two therapy models; it is between a
+therapy model and the institution's account, held at the same time, without either being surrendered.
+
+### 13.11 Six errors of integration
+
+1. **The incoherent session.** Three techniques from three models in forty minutes, with no frame the family can
+   follow. Fix: name the frame at the start, and announce any change of frame aloud.
+2. **The technique without its theory.** Using an enactment without the alliance work that makes it safe, or a
+   miracle question without the solution-building conversation that gives it meaning. Fix: learn the conditions as
+   well as the technique.
+3. **Model loyalty disguised as integration.** "I am integrative" meaning "I do what I always do and call it
+   systemic." Fix: audit your last ten sessions for what you actually did, not what you think you do.
+4. **Choosing by comfort.** Selecting the lens that suits the therapist's temperament rather than the family's
+   circumstances. Fix: the "why this family, this week?" test.
+5. **The unresolved disagreement dressed as both-and.** "We will do structural work and also explore the past," with
+   no decision about which comes first. Fix: state the primary frame and the sequence.
+6. **Integration as avoidance of the evidence.** Treating integration as a reason not to follow a protocol where a
+   protocol has strong evidence (family-based treatment for adolescent anorexia, for example). Fix: the model with
+   the strongest evidence for this presentation is the default; integration is a deliberate departure, recorded and
+   reviewed, and a departure that is not reviewed is simply a preference wearing a method's clothes.
+
+### 13.11a A second data set: Folake and Dele
+
+A second case, shorter, for students who finish early or who want to practise the comparison without the Adeyemi
+material they have already discussed.
+
+**Referral.** "Couple, married nine years, two children (6 and 3). Wife requests help because 'we argue about
+everything and I do not know if I love him any more'. Husband attends reluctantly."
+
+**Who attends.** Folake (36, bank officer), Dele (39, runs a small transport business). Both children at school and
+nursery.
+
+**What Folake says.** "He is never here. When he is here he is on his phone. I do everything — the school run, the
+homework, the shopping, his mother's hospital appointments. If I ask for anything he says I am nagging. I am tired of
+being the only adult in this house."
+
+**What Dele says.** "I work twelve hours a day so that she can have the life she wants. She does not see it. She
+criticises the one thing I do — my business — and then she says I am not affectionate. When I come home I am finished.
+I sit down and she starts."
+
+**What neither says at first.** Folake's mother died eight months ago, and Folake has been managing her mother's
+affairs and her father's care since. Dele's business lost its biggest contract four months ago, and he has been
+borrowing to pay wages.
+
+**The structural reading.** The couple subsystem has collapsed into a work-sharing arrangement with no emotional
+boundary; the children and Folake's father have been recruited into the mother's support network while Dele is
+outside it. The first move: a protected weekly conversation between the adults, with the children's and father's
+needs scheduled rather than urgent, and an agreement about the household tasks that both can hold.
+
+**The Bowen reading.** Both partners manage anxiety by over-functioning in their own domains — Folake in care,
+Dele in work — and both experience the other's over-functioning as criticism. Their reactivity is high because both
+have recently been bereaved or humiliated. The first move: coaching each to observe and lower their own reactivity,
+and mapping the two family histories of over-functioning.
+
+**The solution-focused reading.** The couple have several exceptions — a weekend away in June, a fortnight when Dele
+was at home after the contract was lost, the way they handled the children's illness in the spring — and a clear
+preferred future that Folake can describe in detail. The first move: build the description of the preferred future
+and the exceptions into a small, specific experiment.
+
+**The emotion-focused reading.** Under Folake's criticism is grief and the fear of being alone with her father's
+decline; under Dele's withdrawal is shame at the loss of the contract and the fear that he is failing as a provider.
+The cycle is pursue–withdraw, and the losses have intensified it. The first move: slow the cycle, and access the
+grief and the shame, in that order.
+
+**The narrative reading.** Two competing stories — "the man who provides" and "the woman who holds everything
+together" — have become the only stories available, and each requires the other to be inadequate. The first move:
+externalise the contest between the two stories, and find the occasions when the couple have lived by a third story.
+
+**The exercise.** Choose one of the five lenses and write the first two minutes of the session, scripted. Then write
+the sentence you would say if the family asked, "how long will this take?" The answer should reflect the formulation,
+not the model's marketing.
+
+### 13.12 Culture, faith and the choice of lens
+
+Model choice is not culturally neutral, and the three lenses differ in what they assume about families.
+
+**The structural lens assumes a hierarchy the therapist may need to change.** In families where the hierarchy is
+strongly normative and religiously grounded, "strengthen the parental subsystem" may mean something different from
+what the therapist intends: it may mean supporting the father's authority in a way that reduces the mother's. The
+lens must be used with an explicit question: which hierarchy does this family recognise, and does the mother have a
+place in it that she considers legitimate?
+
+**The Bowen lens assumes that differentiation is a good.** Families that value interdependence, duty and the
+subordination of individual preference to family obligation may experience coaching towards differentiation as an
+invitation to selfishness. The lens can be used, and it must be translated: "managing your own reaction" can be
+presented as a duty to the family rather than a right of the individual.
+
+**The solution-focused lens assumes that the family can describe a preferred future.** Families in acute crisis, or
+families whose difficulties are primarily material, may find the question abstract. The lens works best after the
+practical questions have been answered.
+
+**Faith and the choice of lens.** Where a family's account is spiritual, all three lenses are secondary to the
+family's own framework, and the therapist's task is to work within it rather than to replace it. A structural
+intervention framed as "the family's covering" and a solution-focused question framed as "what would give evidence
+that the prayer is being answered" are both legitimate; a lecture on systems is not.
+
+> **DEBATE** — "Any model, competently delivered, will help most families; the model is the therapist's
+> preoccupation, not the family's." Argue for and against, using this week's case.
+
+### 13.13 Evidence note: does integration work?
+
+A short note, because students often assume that integrative practice is obviously superior.
+
+**What is known.** Comparative trials between bona fide family therapies generally find small or no differences in
+outcome. There is no substantial evidence that integrative practice outperforms single-model practice; nor is there
+evidence that it is worse. The evidence on therapist effects (Week 11) suggests that *who* delivers therapy and *how
+well* matters more than *how many models* they use.
+
+**What is plausible.** Integration may improve fit — the match between what the family needs and what the therapist
+offers — and fit is associated with engagement and retention. Integration may also help the therapist persist when a
+single-model first move fails, which is the mechanism illustrated in 13.9.
+
+**What is risky.** Integration without a primary frame is associated with drift: the therapist changes approach
+whenever the session becomes difficult, which teaches the family that difficulty is to be avoided. This is a
+well-recognised failure mode in supervision, and it is why the primary-frame rule exists.
+
+**The defensible claim.** Integration is a professional skill that improves fit and persistence; it is not a
+treatment with an evidence base of its own. Claims for integrative superiority should be treated with the same
+scepticism the field applies to claims for model superiority, and the clinician's own outcome data should be the
+arbiter.
+
+### 13.13a Two transcripts of the same moment, in two frames
+
+A comparison to end the week, using one thirty-second fragment of a session with the Okonkwos, and two therapists'
+responses to it.
+
+**The fragment.** Ebuka (9) says: "I do not want to talk about my grandmother."
+
+**Response A, structural.** "All right. Then let us talk about the mornings. Ebuka, when your mother comes into your
+room at six, what does she do first?" *What this does:* respects the refusal, does not pursue the affective material,
+and returns the session to the behavioural sequence that the formulation identified as the lever. *What it costs:*
+the moment of grief is left unaddressed, and Ebuka learns that the therapist will not stay with it.
+
+**Response B, emotion-focused.** "You do not want to talk about her. That is allowed. Can you tell me what it is like
+when somebody says her name — not about her, about what happens in your body?" *What this does:* stays with the
+refusal and makes it speakable; offers Ebuka a way to be in the feeling without being overwhelmed. *What it costs:* if
+the alliance is thin or the session is early, Ebuka may shut down, and the therapist will have pushed too soon.
+
+**Which is right?** It depends on four things, and a trainee should be able to name them: the strength of the
+alliance; the session number; whether the parent in the room can tolerate the feeling; and whether the family has
+already had a chance to address the loss. In session two with a mother who has not yet wept, response A is usually
+correct. In session six, with an alliance and a mother who has described her own grief, response B is usually correct.
+
+**The point of the comparison.** Neither response is "the integrative one". Integration is not the habit of doing a
+little of each; it is the capacity to choose, on evidence, and to know what the choice costs. That capacity is
+developed in supervision, in recorded sessions, and in exercises like this one, and it is the subject of the final
+week of the course, where the question is not which lens you can use but which kind of clinician you are
+becoming.
+
+### 13.14 Key terms
+
+| Term | Definition |
+|---|---|
+| Assimilative integration | A primary model extended with techniques from others |
+| Eclectic integration | Selection from several models without a single organising frame |
+| Pluralistic practice | A meta-framework that negotiates methods with the client's preferences and the evidence |
+| Primary frame | The model that organises the therapist's formulation and first move |
+| Frame shift | A deliberate, announced change of model within or between sessions |
+| Drift | Changing approach whenever the work becomes difficult, without justification |
+| Fit | The match between what the family needs and what the therapist offers |
+| Lens | A model understood as a way of seeing rather than a set of techniques |
+| Falsification condition | What would show the chosen formulation or plan to be wrong |
+| Sequencing | The decision about which frame or intervention comes first |
+
+### 13.15 Self-test
+
+1. Name the three kinds of integration and one risk of each.
+2. Why should a trainee begin with assimilative integration?
+3. What are the four tests of a defensible integration?
+4. Give the structural first move with the Adeyemis and the condition under which it would be falsified, and say
+   which piece of evidence in the case would most quickly tell you it was the wrong choice.
+5. What does the Bowen lens see that the structural lens misses, and vice versa?
+6. What is the characteristic blind spot of the solution-focused lens?
+7. Why must a frame shift be announced aloud?
+8. What does the evidence say about integrative practice, and what is the one defensible claim a clinician can make
+   for it?
+
+**Answers.** 1. Assimilative (risk: borrowed techniques used without their theory); eclectic (risk: incoherence);
+pluralistic (risk: the therapist's expertise dissolving into consumer choice). 2. Because a primary model gives the
+trainee something to be wrong about, and therefore something to learn from. 3. A stated primary frame; the ability to
+say which frame is operating and why; borrowed techniques retaining their enabling conditions; the family experiencing
+one coherent conversation. 4. A session with the two parents to agree one sentence about Monday; falsified if the
+mornings do not change at all within two weeks. 5. Bowen sees multigenerational anxiety and the triangle, and misses
+the institutional timetable and practical conditions; structural sees hierarchy, alliances and immediate leverage,
+and misses grief, meaning and the school loop. 6. It may bypass the function of the symptom and the history that
+sustains it. 7. Because an unannounced shift leaves the family unable to tell what kind of conversation they are in,
+and it conceals drift from the therapist herself. 8. There is no evidence that integration outperforms single-model
+practice; it may improve fit and persistence, and it carries a risk of drift.
+
+### 13.16 Reflective task
+
+Read the Adeyemi data set again, and write down the first three things you noticed. Then compare with what you noticed
+on the first reading during the lecture. Most students notice different things on the second reading, and the
+difference is a portrait of their own attentional habits: some notice hierarchy, some notice feeling, some notice
+what is missing. Write 300 words on what your attention goes to first, and what it costs you.
+
+### 13.17 Readings for this week
+
+* **Lebow (2014)**, *Couple and Family Therapy: An Integrative Map of the Territory*, for a systematic comparison of
+  the models on one grid.
+* **Nichols & Davis**, the chapters on each of the three models in this week, read side by side rather than
+  sequentially.
+* **Minuchin (1974)** on structural technique, and **Bowen (1978)** on differentiation, read for the first moves each
+  author describes.
+* **de Shazer (1988)**, *Clues: Investigating Solutions in Brief Therapy*, for the solution-focused interview in
+  detail.
+* **Johnson (2004)**, *The Practice of Emotionally Focused Couple Therapy*, for the enactment and the cycle.
+* **Sprenkle, Davis & Lebow (2009)**, *Common Factors in Couple and Family Therapy*, for the argument that model
+  allegiance is the least important variable in the room, and for the counter-argument that follows from it.
+* **The transcript of your own most recent session**, watched with one lens at a time; there is no better exercise in
+  this week than watching yourself work and asking which model your eye was following, then watching it again with a
+  second lens and counting the moments you missed.
+
+*Next: [Week 14 — Integration II: your emerging clinical stance](#week-14--integration-ii-your-emerging-clinical-stance)*
 
 ---
-
 ## Week 14 — Integration II: your emerging clinical stance
 
 Write a two-page **position statement**: what you believe about how relational problems develop, what
