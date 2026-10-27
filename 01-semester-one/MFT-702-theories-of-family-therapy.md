@@ -1494,28 +1494,687 @@ week.
 
 ![Figure 3.1 — Bowen's eight interlocking concepts](../assets/figures/fig06-bowen-concepts.svg)
 
-**Core concepts.** Differentiation of self (the capacity to stay connected while thinking for oneself);
-triangles; the nuclear family emotional process (marital conflict, dysfunction in a spouse, projection to
-a child, emotional distance); family projection process; emotional cutoff; multigenerational transmission;
-sibling position; societal emotional process; chronic anxiety.
+### 3.1 The lecture in ninety minutes
 
-**Therapy.** The therapist is a **coach**, not a fixer. The work is largely with the most motivated
-person (often "the over-functioner"), who learns to stay in contact with difficult relatives while
-managing their own reactivity. Genograms are the primary tool; the goal is *differentiation*, not
-symptom removal.
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Anxiety as the organising concept | Two families, same event, different anxiety | Predict which will absorb it in a child |
+| 10–30 | The eight concepts | Build the diagram on the board, one concept at a time | Add the eighth before it is named |
+| 30–45 | Differentiation, defined precisely | Distinguish from autonomy, from coldness, from individuation | Score three statements on a differentiation scale |
+| 45–60 | Triangles, demonstrated | A live triangle with three volunteers | Name the triangle in a transcript |
+| 60–72 | The coach, not the fixer | Demonstrate coaching vs advising | Coach a peer for six minutes |
+| 72–85 | Detriangling | The three moves, practised | Role-play with feedback |
+| 85–90 | Critique and matrix row | What the theory cannot see | Fill the row |
 
-**Signature technique — detriangling.** "When your mother criticises your sister, what happens inside
-you? What would it look like to stay interested without taking a side and without leaving?"
+### 3.2 Core concepts
 
-**Contribution.** Genuinely systemic over time; explains why patterns repeat; insists the therapist do
-their own family-of-origin work.
+Bowen's theory is a system of eight interlocking concepts, and it is taught badly when they are presented as a list. They
+are interlocking because each one explains a different part of a single process: anxiety, generated in a family, is
+absorbed by the most vulnerable member, and the pattern that does the absorbing is transmitted down the generations.
 
-**Blind spots.** Slow; assumes a level of choice and mobility not everyone has; can under-weight
-structure, gender and economics; evidence is largely clinical rather than trial-based.
+**Differentiation of self.** The capacity to remain a separate thinking person while emotionally connected to others —
+to be close without fusing and separate without cutting off. It is measured on a scale from low (where feeling and
+thinking are fused, and the person's functioning is governed by the emotional atmosphere) to high (where the person can
+hold a position under pressure). Two clarifications that students need.
 
-> **PRACTICAL** — Triads. One person describes a triangle in their family. The therapist practises three
-> moves: name the triangle, ask about the client's own reactivity, and refuse to take a side. Rotate;
-> the "client" rates how *neutral* (not cold) the therapist was.
+*Differentiation is not autonomy.* An autonomous person may be entirely cut off and quite undifferentiated, in Bowen's
+sense: the person who leaves and never returns has not resolved the fusion, they have moved away from it.
+
+*Differentiation is not coldness.* The most differentiated person in a family is often the warmest, because they can
+stay close to a difficult person without being destabilised by them.
+
+**Triangles.** A two-person system under tension recruits a third. The third may be a person (a child, a mother-in-law,
+a lover), an activity (work, drink, a sport) or a symptom. The triangle stabilises the dyad by moving the tension onto
+the third point, and it is the basic unit of Bowen's clinical thinking: **the family's emotional process is always
+triadic, and the therapist who sees only the dyad will miss where the tension has gone.**
+
+**The nuclear family emotional process.** The four ways a couple handles anxiety: marital conflict, dysfunction in one
+spouse, projection onto a child, and emotional distance. Most couples use more than one, in sequence, and the sequence
+is predictable — conflict, then distance, then a child who becomes the focus.
+
+**The family projection process.** The mechanism by which parental anxiety is transmitted to a child: the parent
+perceives the child as vulnerable, treats the child as vulnerable, and the child comes to function as vulnerable. It is
+not blame; it is a description of a process that runs largely outside awareness, and it is the closest Bowen comes to
+the object-relations idea of projective identification (Week 2).
+
+**Emotional cutoff.** The way a person manages unresolved attachment by reducing contact — leaving, emigrating,
+refusing to speak, moving to another city. Cutoff looks like independence and functions as avoidance; it is transmitted,
+so that the children of a cut-off person often have no relationship with half their family.
+
+**Multigenerational transmission.** The process by which differences in differentiation between children are
+transmitted and amplified across generations, so that a small difference in one generation may become a substantial
+difference three generations later. This is the concept that gives the theory its time frame and its genogram.
+
+**Sibling position.** The idea, drawn from Toman's work, that position in the sibling group shapes personality and
+expectations, and that spouses often marry someone in a complementary position. It is the theory's weakest empirical
+component, and the one students most enjoy.
+
+**Societal emotional process.** Bowen's extension of the theory to whole societies, in which anxiety produces
+regression in the social contract. It is speculative, it is fascinating, and it is not examinable as a clinical
+method; mention it in the essay and get on with the family.
+
+**Chronic anxiety.** Anxiety that is not attached to a specific threat and that circulates in the system, driving the
+processes above. Acute anxiety is a response to an event; chronic anxiety is a property of the system, and it is what
+the therapist treats.
+
+### 3.2a The eight concepts as one process
+
+Bowen's concepts are usually presented as a list, and the list obscures the argument. The argument is a single
+sentence, and each concept is a part of it.
+
+**The sentence.** *A family is an emotional unit; the unit's chronic anxiety is transmitted to the most vulnerable
+member through the patterns the family habitually uses, and the differences in how members handle that anxiety are
+amplified across generations.*
+
+**Where each concept sits in the sentence.**
+
+*Chronic anxiety* is the fuel. It is the quantity that the system must handle, and it does not need a cause; it
+circulates.
+
+*Differentiation of self* is the capacity that determines how much anxiety a person can carry without becoming
+symptomatic or passing it on. It is the theory's individual-level variable, and the distribution of differentiation
+across the family is what makes some members more vulnerable.
+
+*Triangles* are the mechanism of distribution. Anxiety that is too much for a dyad is moved to a third point, and the
+third point is chosen by availability, not by fault: the child who is at home, the relative who listens, the
+son who has always been the sensitive one.
+
+*The nuclear family emotional process* is the repertoire of the couple — the four ways a two-person system handles its
+anxiety — and it is where the distribution begins.
+
+*The family projection process* is the specific route by which anxiety reaches a child, and it is the concept that
+explains why the identified patient is usually a child rather than an adult.
+
+*Emotional cutoff* is the route by which anxiety is managed by distance, and it is why the theory insists on the
+genogram: the person who left is still in the system.
+
+*Multigenerational transmission* is the time dimension: the amplification of small differences over generations, which
+is why the theory needs three generations to be testable.
+
+*Sibling position* is a minor, weaker addition, best understood as an attempt to account for the specific shape of
+personality within a family.
+
+*Societal emotional process* is the theory extended to a whole society, and it is speculative.
+
+**Why the integration matters for practice.** A therapist who has learned the concepts as a list will diagnose a family
+with a checklist ("this family has triangles and a cutoff"). A therapist who has learned the process will see one
+thing happening — anxiety moving through a system — and will ask where it is now, where it was before, and what would
+let one member hold more of it without passing it on. The second therapist can work with a family in which none of the
+textbook features is present, which is most families.
+
+**The test of understanding.** Explain to a colleague, in ninety seconds and without the vocabulary, what this theory
+claims happens in a family under stress. If the explanation requires the word "triangle", the understanding is verbal;
+if it does not, it is real. The same test works for every model in this course, and it is worth applying to each.
+
+### 3.3 Differentiation, tested
+
+Because differentiation is the theory's central construct and the easiest to romanticise, students should be able to
+recognise it in behaviour rather than in a definition.
+
+**Four statements. Score each for differentiation (high, medium, low), and explain.**
+
+> *(a)* "I love my mother, and I will not discuss my marriage with her."
+> *(b)* "I have not spoken to my father in nine years and I am at peace with it."
+> *(c)* "Whatever my husband decides is fine with me; I do not want to cause trouble."
+> *(d)* "My sister's anger frightens me, so I tell her what she wants to hear and then do what I think is right."
+
+**The answers the theory implies.** *(a)* High: contact maintained, position held, no cutoff and no fusion. *(b)*
+Low, despite the appearance of independence: cutoff is not differentiation, and "at peace" is often the story a cutoff
+tells about itself. *(c)* Low: the self has dissolved into the other's preference. *(d)* Low-to-medium: the position is
+held, but secretly, which is a common form of undifferentiation — the person cannot say the position in the room.
+
+**Why the exercise matters.** Students new to the theory tend to score *(b)* highest, because it looks like autonomy.
+The correction — that cutoff is the classic undifferentiated move — is one of the most useful corrections in the
+course, because it also describes a pattern common in therapists, who sometimes choose a profession in order to manage
+a family they have left.
+
+**The fifth statement, for discussion.** "I can tell my father that I disagree with him, hear his anger, and still
+spend Sunday with him." This is the theory's picture of differentiation, and it is a behaviour rather than a feeling.
+Note that it is also a sentence very few people can say about a parent, which tells you why the theory's therapy takes
+as long as it does.
+
+### 3.3a Four families, one anxiety: predicting who absorbs it
+
+An exercise that teaches the nuclear family emotional process better than any definition. Four families face the same
+event; predict where the anxiety will land, and why.
+
+**Family 1.** A couple married twelve years, both working, one child (11). The husband's company announces
+redundancies; his department is at risk. Neither partner discusses worry well; both are practical. *Prediction:* the
+anxiety is most likely to appear as marital conflict about money, or as distance — longer hours, separate evenings —
+and only if those routes are closed will it appear in the child, typically as a school or sleep difficulty within a
+term.
+
+**Family 2.** A couple married eight years, one child (4) who has always been "delicate". The mother's own mother is
+seriously ill. *Prediction:* the child's delicacy is already the family's established third point; the new anxiety will
+intensify the existing projection, and the presenting complaint in six months will be about the child's health or
+behaviour rather than about the grandmother's illness.
+
+**Family 3.** A widowed mother, 58, and her son, 27, who lives at home and has never left. She has just retired.
+*Prediction:* the retirement removes the structure that kept the dyad's intensity tolerable; the anxiety will appear as
+the son's stagnation (under-functioning) and the mother's increasing management of his life (over-functioning), and it
+will present as a problem about his career or his marriage prospects.
+
+**Family 4.** A couple with three children (16, 13, 8) whose eldest has just left for university. The parents have not
+been alone together for eighteen years. *Prediction:* the departure of the over-functioning eldest removes the buffer;
+the anxiety will appear as marital distance or conflict, and the second child may become the new focus — which the
+family will experience as a new problem in the middle child rather than as a shift in the system.
+
+**What the four predictions share.** In each, the anxiety does not disappear; it moves. The model's clinical value is
+that it tells the therapist where to look for the movement, and that it predicts a presenting complaint that may have
+nothing to do with the original stressor. A therapist who only treats the presenting complaint will treat the third
+point and leave the anxiety where it was.
+
+**The follow-up question for each family.** "If this had not happened, what would the family have been worried about?"
+The answer names the chronic anxiety, which is what the therapy is actually for.
+
+### 3.4 Triangles, and how to see one
+
+A triangle is not a coalition. A coalition is two against one; a triangle is a three-person configuration in which
+tension between two is displaced onto the third. The distinction matters because they require different interventions.
+
+**Four common triangle shapes, with the diagnostic question for each.**
+
+*The child in the middle.* The spouses' tension is displaced onto a child, who is either the problem or the solution.
+*Question:* "When the two of you disagree, what happens to the children?" The family will describe a child who
+intervenes, a child who becomes ill, or a child who is sent to a grandparent.
+
+*The outside third.* A mother-in-law, a lover, a friend, a therapist, or an activity. *Question:* "When you and your
+wife are not getting on, who do you talk to?" The answer identifies the third point.
+
+*The distant third.* Work, drink, a screen, a sport. The third point is not a person, which is why it is often missed.
+*Question:* "What happens in the evening when the two of you have not spoken?" The answer frequently names a room, a
+telephone or a bottle.
+
+*The professional triangle.* The therapist recruited as the third point — the family member who telephones between
+sessions, the one who wants to talk alone, the one who says "you understand me". *Question, asked of oneself:*
+"Whose side am I being invited to join, and what would it cost me to refuse?" This is the triangle the trainee is most
+likely to enter and least likely to notice.
+
+**How to name a triangle without entering it.** The three moves of 3.6, in one sentence each: describe the
+configuration neutrally ("when the two of you are not speaking, he is the one who carries it"), ask about the person's
+own reactivity ("what happens inside you when your mother says that?"), and refuse the invitation to adjudicate ("I am
+not going to say who is right; I am interested in what happens between the three of you"). The refusal is the
+intervention.
+
+### 3.4a The matrix row, written
+
+The row a good student would hand in, with the two extra columns the course requires.
+
+| Dimension | Bowen's multigenerational theory |
+|---|---|
+| Theory of problem | Chronic anxiety in an emotional unit is transmitted through triangles, the family projection process and cutoff, and is absorbed by the most vulnerable member; differences in differentiation are amplified across generations |
+| Unit of focus | The multigenerational emotional system, with the triangle as its basic unit and the genogram as its map |
+| Theory of change | Lower reactivity and raise differentiation in at least one member, who then changes the system by changing their own functioning in it |
+| Therapist position | Coach: neutral, interested, thinking, not responsible for the family's decisions; often working with one motivated person |
+| Signature techniques | Genogram; detriangling (name, ask about reactivity, refuse to take a side); coaching; experiments in contact |
+| Evidence base | Thin for the therapy — very few trials; stronger for the construct of differentiation, which has correlational support and validated measures |
+| Cultural assumptions | That the client has the freedom and privacy to change their own functioning; that differentiation rather than interdependence is the desirable end |
+| Blind spot | Slow; can under-weight structure, gender, money and institutions; can mistake a coaching relationship for a therapy; may intellectualise |
+
+**What makes the row defensible.** The theory of problem is in Bowen's own terms, not the field's; the techniques are
+derived from it rather than listed beside it; the evidence cell separates the therapy from the construct; and the blind
+spot names a consequence ("can mistake a coaching relationship for a therapy") rather than a sentiment.
+
+**The sentence for the viva.** "I use this model as a lens for the multigenerational pattern and as a coaching method
+for the family member who presents alone; I do not claim trial evidence for it as a treatment, and I measure whether it
+is working in my own caseload." That sentence would earn full marks and is worth memorising.
+
+### 3.5 Therapy: the coach, not the fixer
+
+Bowen therapy is unusual among the models in this course in that it is often conducted with one person, and in that it
+aims at the person's differentiation rather than at the family's symptom.
+
+**The stance.** The therapist is a coach: an interested, neutral, thinking presence who helps the client observe the
+system and their own part in it, and who does not take responsibility for the family's decisions. The coach does not
+advise, does not arbitrate, and does not become the family's new organiser.
+
+**The method, in four steps.** Each is a skill that can be practised.
+
+*Step 1 — map the system.* The genogram of MFT 701, with the eight concepts in mind: where is the anxiety, who absorbs
+it, where are the triangles, who is cut off, what is the multigenerational pattern.
+
+*Step 2 — identify the client's own reactivity.* Not the family's behaviour, the client's response: what happens in
+the client's body and mind when the difficult person does the difficult thing. The question is always "what happens
+inside you?", asked with genuine curiosity and repeated as often as necessary.
+
+*Step 3 — design a small experiment in contact.* The client does one thing differently in the system, and observes the
+result. The classic experiment is staying in contact while holding a position: "tell your mother what you have decided,
+without defending it, and stay on the telephone for ten minutes afterwards."
+
+*Step 4 — debrief the reactivity, not the outcome.* The experiment's success is not whether the mother approved; it is
+whether the client stayed themselves. This is the hardest idea in the model for both clients and trainees, who want the
+experiment to work in the family's terms.
+
+**Why the model uses one person.** Because differentiation is a property of a person, and because a family will often
+send its most motivated member. The model's wager is that a change in one member's functioning changes the system, and
+the wager is often correct.
+
+**What the coach does not do.** Does not take the family's side against the client, or the client's against the family.
+Does not tell the client what to say to their mother. Does not treat the family's symptom as the target of the work.
+And does not accept the invitation to become the client's new third point.
+
+### 3.5a Coaching, demonstrated in five exchanges
+
+An excerpted coaching sequence with a client who is not the identified patient — the husband of a couple, seen alone
+because the wife declined to attend. The presenting complaint is his wife's anger and the couple's distance.
+
+> **C1 Client:** She says I do not listen. I listen. She starts shouting and I leave the room.
+> **C2 Therapist:** What happens inside you when she starts shouting?
+> **C3 Client:** My chest goes tight. I want to get out.
+> **C4 Therapist:** So you leave — not because you do not care, but because it is unbearable. Does she know that?
+> **C5 Client:** (pause) No. She thinks I do not care.
+> **C6 Therapist:** I am not going to tell you who is right about the listening. I am interested in what would let you
+> stay in the room for two minutes when your chest goes tight — two minutes, not twenty.
+> **C7 Client:** I could count.
+> **C8 Therapist:** You could count. And what would you say, if you stayed?
+> **C9 Client:** That I am not leaving because I do not care. That I am leaving because I cannot take it.
+
+**Annotations.** *C2* and *C4* are the model's core move: the client's own reactivity named, and re-described in a
+way that is both accurate and generous. Note that the therapist does not accept the client's framing ("she starts
+shouting") and does not dispute it; she simply moves the camera.
+
+*C6* is the refusal and the experiment in one sentence. It declines to adjudicate the listening dispute, and it
+proposes a small, testable change in the client's own functioning. The word "two minutes" is doing clinical work: a
+task the client can actually do, and one whose success does not depend on his wife.
+
+*C9* is the outcome of coaching, and it is a sentence the client could not have said at C1. Whether he says it to his
+wife is a separate question; the model's wager is that the capacity comes first, and that the marriage changes when
+one member stops leaving.
+
+**What the therapist did not do.** Did not schedule a joint session to "sort it out"; did not suggest he explain
+himself to his wife that evening; and did not interpret his leaving as a repetition of his own family's pattern,
+although it almost certainly is. The interpretation could come later, when the client's capacity to stay has been
+established; offered now, it would be a theory about him rather than a resource for him.
+
+### 3.6 Signature technique: detriangling
+
+Detriangling is the practical core of the model, and it is three moves, not one.
+
+**Move 1 — name the triangle neutrally.** "When your mother criticises your sister, your brother telephones you, and
+then you telephone your sister. Is that what happens?" The description uses the family's own sequence, names all three
+points, and contains no evaluation. Naming is not interpreting; it is holding up a mirror.
+
+**Move 2 — ask about the client's own reactivity.** "And when your brother telephones you, what happens inside you?"
+The question moves the attention from the family's behaviour to the client's part, which is the only part the client
+can change.
+
+**Move 3 — refuse to take a side, and stay.** "I am not going to tell you whether your sister is right. I am
+interested in what happens to you when you are in the middle of it, and what it would look like to stay in contact
+with both of them without carrying the message." The refusal is delivered warmly, and the warmth is what distinguishes
+neutrality from coldness.
+
+**The script from the course material.** "When your mother criticises your sister, what happens inside you? What would
+it look like to stay interested without taking a side and without leaving?" Note the three elements: a question about
+reactivity, a question about staying, and the pairing of "without taking a side" with "without leaving", which is the
+whole of detriangling in seven words.
+
+**What the client usually does.** Offers to fix it, offers to confront somebody, or asks the therapist to say who is
+right. Each is an invitation to enter the triangle, and each is declined with the same question: "what would it look
+like if you did neither?"
+
+**What progress looks like.** Not the family's harmony. The client reports staying on the telephone for twenty minutes
+without defending, without advising and without leaving; the mother reports that something is different; the sister is
+unaffected, and that is not the measure. The measure is the client's capacity to be in the system without being run by
+it, and it is observable in behaviour.
+
+### 3.6a Six experiments in contact, and how to design a seventh
+
+The model's therapy is delivered through small, real experiments in the family system. Six that recur in practice, with
+the design logic behind each.
+
+**Experiment 1 — the position, held.** The client tells a difficult relative what they have decided, without
+defending it, and stays in contact for a stated period afterwards. *Design logic:* the task tests whether the client
+can hold a position in the presence of the other's anxiety, which is the operational definition of differentiation.
+*The debrief question:* "what happened inside you at the moment you stopped explaining?"
+
+**Experiment 2 — the question instead of the rescue.** The client, instead of solving a relative's problem, asks them
+what they intend to do. *Design logic:* it interrupts the over-functioning/under-functioning pair at the point where
+the client usually takes over. *The debrief question:* "what did they do when you did not take it?"
+
+**Experiment 3 — the message not carried.** The client declines to pass information between two relatives and tells
+both that they are doing so. *Design logic:* it removes the client as the third point of a triangle while keeping the
+relationship with both, which is detriangling in action. *The debrief question:* "who was most unsettled, and what did
+you feel responsible for?"
+
+**Experiment 4 — the visit without the agenda.** The client visits a parent with no purpose other than the visit.
+*Design logic:* it tests whether contact is possible without a task, which is often the difference between a fused
+relationship and a differentiated one. *The debrief question:* "what did you do in the silences?"
+
+**Experiment 5 — the cut-off approached.** The client makes contact with someone they have not spoken to for years,
+with no expectation of resolution. *Design logic:* cutoff is managed by distance; the experiment replaces distance with
+contact and lets the client discover what remains. *The debrief question:* "what did you notice in yourself in the
+first five minutes?"
+
+**Experiment 6 — the observer's diary.** The client records, for two weeks, every occasion on which they felt
+responsible for another adult's feelings. *Design logic:* it develops the observing capacity before any behavioural
+change, and it produces the data for the next experiment. *The debrief question:* "what did you notice about the
+pattern of the occasions?"
+
+**How to design a seventh.** Four constraints, in order. *It must be small enough to happen this week.* *It must
+concern the client's own functioning, not another person's.* *It must be observable, so that the client can report what
+happened rather than how they felt about it.* *It must be safe* — no experiment that risks violence, retaliation,
+eviction or the loss of a needed relationship, and no experiment with a family member who is violent.
+
+**What the therapist does not do.** Does not design an experiment that requires another person to change, does not
+promise that the family will respond well, and does not treat a difficult result as a failure. The model's criterion is
+the client's capacity, not the family's compliance, and the therapist says so before the experiment begins.
+
+### 3.7 Annotated transcript: detriangling in the room
+
+A nine-turn sequence from a session with the Adeyemi mother, seen alone in session seven. The immediate issue is the
+mother's phone call with her own mother, aged 71, who lives nearby.
+
+> **T1 Mother:** My mother called last night about my brother. He has not sent money for the rent and she is upset,
+> and she tells me, and then I cannot sleep.
+> **T2 Therapist:** So your mother is upset about your brother, she telephones you, and you are awake at two.
+> **T3 Mother:** I am always the one. She cannot say it to him.
+> **T4 Therapist:** Let me check the shape of it. Your mother is worried about your brother, she tells you, you carry
+> it — and does she tell your sister as well, or only you?
+> **T5 Mother:** Only me. I am the eldest.
+> **T6 Therapist:** Only you. And when she says these things, what happens inside you? Not what you say — what happens.
+> **T7 Mother:** (pause) I feel I have failed. She looked after four of us alone and never complained, and I cannot
+> even manage one phone call.
+> **T8 Therapist:** (gently) That is a strong standard you are holding yourself to. Your mother managed four children
+> after your father died — and she is now seventy-one, phoning you at night about a grown man's rent. What would it
+> look like to be interested in her worry without being responsible for it?
+> **T9 Mother:** (long pause) I could ask her what she wants me to do. Instead of doing it.
+
+**Annotations.** *T2* reflects the sequence back, and the repetition of the three points — mother, brother, client — is
+the naming move of 3.6, performed without any evaluation.
+
+*T4* is the diagnostic question that establishes the triangle's exclusivity ("only me"), and *T5* answers it with the
+family's own account of the pattern: the eldest carries it. The therapist does not interpret the eldest-child role,
+which the client has already named.
+
+*T6* is the reactivity question, and the phrase "not what you say — what happens" is doing important work: it prevents
+the client from giving a report of the phone call and requires an account of her inner process.
+
+*T7* is the payload: not anger at the mother, not resentment of the brother, but shame — a sense of failure measured
+against an impossible standard. This is what the therapist was listening for, and it is why the detriangling sequence
+was built before the interpretation.
+
+*T8* holds two facts together: the mother's real achievement and her present behaviour. Note the respect in the first
+half and the plain description in the second, offered together. The client's own history is now in the room without
+being used against her.
+
+*T9* is the client's own move, not the therapist's, and it is the sign that the detriangling has worked: she has
+found a position that is neither compliant nor cut off. The therapist's next move is to test it — "when would you say
+that?" — and to predict what will happen inside her when she does.
+
+**What the therapist avoided.** She did not say "your mother is being manipulative"; she did not suggest the client
+confront her brother; and she did not reassure her that she is a good daughter. Each of these would have entered the
+triangle at a different point. The neutrality is not indifference: T8 is warm, and the warmth is what allows the
+challenge.
+
+### 3.8 Laboratory: three moves, three rounds
+
+The week's practical, ninety minutes, in triads with rotation.
+
+**Round 1 — name the triangle (10 minutes each).** The client describes a family difficulty. The therapist's only task
+is to describe the three-point configuration neutrally, in the client's own words, and to check it. No questions about
+feelings, no interpretations, no advice. The difficulty of this round surprises students: most describe the dyad and
+forget the third point, and most add an evaluative word without noticing.
+
+**Round 2 — ask about reactivity (10 minutes each).** Continuing the same material, the therapist asks only questions
+about the client's own response. The prohibition on advice is absolute. The client is instructed to notice when they
+begin to answer with a report of somebody else's behaviour, and to say so.
+
+**Round 3 — refuse the invitation (10 minutes each).** The client is instructed to ask the therapist, at some point, to
+say who is right. The therapist declines, warmly, and stays with the question about the client's part. The observers
+score the neutrality of the refusal, not its firmness.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Naming | 25% | All three points named, in the client's words, without evaluation |
+| Reactivity questions | 25% | Questions about the client's inner response, sustained for at least five exchanges |
+| Refusal | 25% | The invitation declined warmly, without coldness or moralising, and the session continues |
+| Staying | 15% | The therapist does not move into advice, and does not become the new third point |
+| Self-observation | 10% | The therapist can say afterwards when they were pulled, and by what |
+
+**What students find hardest.** The refusal. Trainees are trained to be helpful, and refusing to adjudicate feels
+unhelpful. The correction is the model's central insight: adjudication is what the family already does, and the
+therapist's value lies in not doing it. The client's rating of the therapist's neutrality is the check.
+
+### 3.8a The supervision question that keeps the coach honest
+
+The model imposes a discipline on the therapist that is easy to state and hard to practise: *do not do for the client
+what the client's family does for them.*
+
+**What that means in practice.** The over-functioning client will invite the therapist to organise, to advise, to
+decide, to hold the plan. If the therapist accepts, the therapy reproduces the family's pattern with a new
+over-functioning partner, and the client's under-functioning is confirmed. The model's answer is the coaching stance,
+and its safeguard is supervision.
+
+**Three questions to ask in supervision, weekly.**
+
+*Question 1 — what did I do for this client that they could have done?* Not a question about kindness; a question about
+function. If the answer is "I wrote the letter, I telephoned the mother, I made the plan", the therapy is reproducing
+the pattern.
+
+*Question 2 — which of my client's relatives did I become this week?* Every therapist is recruited into a role. Naming
+the role — the rescuer, the organiser, the one who understands, the absent father — is the fastest route out of it.
+
+*Question 3 — what did I feel when the client did not change?* The feeling is usually the client's own, or the
+family's, and it is data. A therapist who feels let down by a client who did not complete an experiment is holding
+something the client's family also holds.
+
+**Why the model needs this more than most.** Other models have the family in the room, and the family will correct the
+therapist's function within a session. The Bowen coach may see one person for months, and the only corrective available
+is supervision. That is a structural risk of the model, and it is why the theory's own literature insists that the
+therapist do family-of-origin work: the therapist who knows their own over-functioning is less likely to reproduce it
+invisibly.
+
+### 3.9 Six errors in Bowen work
+
+1. **Teaching the theory instead of doing it.** Explaining differentiation to a family who came about a school refusal.
+   Fix: the concepts are the therapist's map, not the family's curriculum.
+2. **Neutrality as coldness.** Refusing to take a side in a way the family experiences as abandonment. Fix: warmth
+   plus refusal; the two are not in tension.
+3. **Cutoff mistaken for differentiation.** Praising a client's decision to have nothing to do with a parent. Fix: ask
+   what happens inside them when the parent's name is mentioned.
+4. **The genogram as the therapy.** Six sessions of history and no experiment. Fix: every genogram session ends with
+   one small experiment in contact.
+5. **The missing system.** Coaching an individual for months while never inviting the family, when the family is
+   available and the symptom is acute. Fix: the model permits individual work; it does not require it.
+6. **The unexamined coach.** Using the model to manage the therapist's own family of origin without noticing. Fix: the
+   family-of-origin work the theory requires of the client, the theory also requires of the therapist.
+
+### 3.9a Two genograms, one pattern
+
+The model's most useful instrument is the genogram read for transmission. Two versions of the same family, drawn three
+years apart.
+
+**The first drawing.** The Adeyemi family, three generations: the maternal grandfather dead at 47 when the mother was
+19; the mother the eldest of five; the paternal grandmother dead in 2022; the father the third of six and the only one
+who left the region. The presenting problem is Amara's school refusal. A student reading this map would notice the two
+deaths and the two eldest children, and would hypothesise a pattern of eldest children carrying the family's
+responsibility.
+
+**The second drawing, three years later.** Amara is now 19 and at university; the presenting problem is the mother's
+exhaustion and the father's retirement. The map has gained: a maternal aunt who has been seriously ill, whose care has
+fallen to the mother; a paternal uncle who has returned to the region after twenty years and expects to be received;
+and a younger brother, now 14, who has begun to refuse school on Mondays.
+
+**What the second drawing shows that the first could not.** The pattern has reproduced: a school refusal in the
+younger child, at the point where the mother's care of the wider family has intensified and the father has been at
+home, unoccupied, for the first time in twenty years. The over-functioning/under-functioning pair has re-formed in a
+new configuration. The multigenerational transmission is not a mystical claim; it is a description of a family that
+solves the same problem the same way, and the genogram makes it visible.
+
+**The clinical use of the second drawing.** The therapist's task is not to prevent the repetition by insight; it is to
+change one element of it. The specific question is: "when your mother is caring for your aunt, who notices that your
+brother is struggling?" If the answer is "nobody until the school telephones", the intervention is a small structural
+change (a weekly conversation between the parents about the children, before the school calls) rather than an
+interpretation of the pattern.
+
+**What the pair of drawings teaches.** A genogram is not a fixed document; it is a moving picture, and the most useful
+thing a therapist can do with a family over years is to redraw it. The model's distinctive contribution is the claim
+that you can predict, from the earlier drawing, where the anxiety will go next — and the pair above is an unusually
+clear demonstration of that claim working.
+
+### 3.10 Culture, faith and the multigenerational frame
+
+Bowen's theory is unusually well suited to some cultural contexts and unusually poorly suited to others, and a student
+should be able to say which and why.
+
+**Where it fits well.** In families where the multigenerational system is strong and present — three-generation
+households, families with obligations to a wider lineage, families in which the dead are named and remembered — the
+model's attention to transmission, triangles and cutoff describes what families already know. Many families in Nigeria
+will recognise the concept of the family projection process without being taught it; they may have a proverb for it.
+
+**Where it strains.** Three assumptions.
+
+*The assumption of choice.* The model's therapy asks a client to change their own functioning in the system, which
+assumes a degree of freedom that some clients do not have: a young wife in a household where her mother-in-law holds
+authority, a man whose immigration status depends on his brother, a daughter whose school fees are paid by an uncle.
+The experiment "stay in contact and hold your position" may be unavailable, and the therapist must ask what the client
+can actually do.
+
+*The assumption of mobility and privacy.* Telephone calls, separate households and the possibility of a private
+conversation are privileges. Coaching a client to have a difficult conversation assumes a place to have it.
+
+*The assumption that differentiation is the goal.* Families that value interdependence, duty and the subordination of
+individual preference may experience the model's aim as a recommendation of selfishness. The therapist's translation
+matters: "managing your own reaction" can be offered as a duty to the family — a way of being more useful, not less
+connected — and that framing is honest as well as strategic.
+
+**The spiritual dimension.** Many families' multigenerational frame includes the dead, the ancestors and the
+obligations that survive a death. The genogram of MFT 701 already includes the dead; the Bowen work adds the question
+of what is still owed. "What does your family still owe your father?" is a Bowen question in a family's own register,
+and it often produces material that a question about differentiation would not.
+
+> **DEBATE** — "Bowen's theory asks clients to become the kind of person that Western individualism approves of."
+> Argue for and against, with reference to a family you know.
+
+### 3.11 Evidence note: clinical theory, thin trials
+
+The honest matrix cell for this model has three parts, and students who state all three do well in the viva.
+
+**What the evidence is.** Largely clinical and theoretical. Bowen's own writing is case-based; the theory has generated
+a substantial literature of practice and a body of process research on differentiation, but very few randomised trials
+of Bowen family systems therapy as a treatment. The evidence for the *construct* of differentiation is stronger than
+for the therapy: measures of differentiation and of chronic anxiety have been developed and used in research, and
+differentiation has been associated with individual and relationship wellbeing in correlational studies.
+
+**What can be claimed.** That the theory is a coherent, generative account of multigenerational patterns; that the
+construct of differentiation has some empirical support as a correlate of wellbeing; that the model's insistence on the
+therapist's own family-of-origin work is a contribution to training that has been widely adopted, including by models
+with better trial evidence.
+
+**What cannot be claimed.** That Bowen family systems therapy has been shown in trials to outperform other treatments
+for any presentation. A clinician who says so is overstating, and a marker will say so.
+
+**How to practise it responsibly.** Use it as a *lens and a coaching method* rather than as a claim of efficacy: the
+genogram, the triangle analysis and the reactivity questions are widely used and compatible with the better-evidenced
+models; the coaching stance is a defensible way to work with the family member who presents alone; and the outcome
+measurement required in MFT 701 Week 11 makes the claim testable in your own caseload. That is the honest position,
+and it is more useful than either enthusiasm or dismissal.
+
+### 3.11a Where Bowen and structural disagree, on one family
+
+The two models are often taught as alternatives. They are better understood as answers to different questions, and the
+comparison sharpens both.
+
+**The case.** The Okonkwos: mother (38), father (41) working in Lagos and home at weekends, Ebuka (9) with escalating
+morning defiance, a new baby, and the paternal grandmother dead two years ago after caring for Ebuka daily for five
+years.
+
+**The structural reading.** The parental subsystem is functionally single in the week and doubled at the weekend; the
+mother–son dyad has become the household's executive; the father's weekend interventions are uncoordinated with the
+mother's and confirm his marginality. The first move: a joint session with the parents to agree one position and one
+sentence about Monday, then a reorganisation of the morning routine so that the parental subsystem is in charge.
+
+**The Bowen reading.** The father's mother died when he was sixteen and he left home that year; the mother is the
+eldest of five who raised her siblings after her own father's death. Both manage anxiety by over-functioning, and the
+family's chronic anxiety has been absorbed by Ebuka since his grandmother's death, which was also the loss of his
+primary daytime carer. The first move: coach each parent, beginning with whichever is more motivated, to observe their
+own reactivity and to stay in contact with Ebuka without managing him; expect the anxiety to move, possibly to the
+marriage or the new baby, and predict where.
+
+**Where they agree.** Both see the father's absence as central, both see the mother as overloaded, both see Ebuka as
+carrying something that belongs to the adults, and both would predict trouble in the marriage if the child's symptom
+resolved.
+
+**Where they disagree.** On the target: the structure of the household, or the parents' own functioning. On the unit:
+the family in the room, or the parent who is most motivated. On the pace: a reorganisation this week, or a change in
+reactivity over months. On the criterion of success: a decision held and a routine changed, or a parent who can stay in
+contact with a difficult feeling without managing it.
+
+**What a therapist does with the disagreement.** Chooses on the family's circumstances: the school's timetable makes a
+structural first move almost mandatory, and the family's history makes the Bowen work necessary afterwards. States the
+choice and the review point, as in MFT 701 Week 13. And keeps the other model's prediction in view, because if the
+structure changes and the anxiety simply moves, the Bowen reading has been vindicated and the second phase is
+indicated.
+
+**The lesson for the matrix.** The two rows are not competing descriptions of the same thing; they are different
+levels of description of one system, and the competent clinician can hold both without choosing a favourite. That
+capacity is what Week 13 of MFT 701 called deliberateness, and it is what the Week 12 integration assessment in this
+course examines.
+
+### 3.12 Key terms
+
+| Term | Definition |
+|---|---|
+| Differentiation of self | The capacity to stay connected while thinking and acting for oneself |
+| Fusion | The state in which thinking and feeling are so merged that the person is run by the emotional atmosphere |
+| Triangle | A three-person configuration in which dyadic tension is displaced onto a third point |
+| Nuclear family emotional process | The four patterns a couple uses to manage anxiety: conflict, spouse dysfunction, projection to a child, distance |
+| Family projection process | The transmission of parental anxiety to a child, who comes to function as vulnerable |
+| Emotional cutoff | Reducing contact as a way of managing unresolved attachment |
+| Multigenerational transmission | The amplification of small differences in differentiation across generations |
+| Sibling position | The influence of position in the sibling group on personality and partner choice |
+| Chronic anxiety | Anxiety not attached to a specific threat, circulating in the system |
+| Societal emotional process | Bowen's extension of the theory to whole societies under anxiety |
+| Coaching | The therapist's stance: neutral, interested, thinking, not responsible for the family's decisions |
+| Detriangling | The three moves by which the client is helped out of a triangle without being cut off |
+| Over-functioning / under-functioning | The reciprocal pattern in which one person takes responsibility and another relinquishes it |
+
+### 3.13 Self-test
+
+1. Name the eight concepts.
+2. Why is a cutoff not evidence of differentiation?
+3. What is the difference between a triangle and a coalition?
+4. Give the three moves of detriangling.
+5. What are the four nuclear family emotional processes?
+6. Why does the model often work with one person?
+7. What are the three parts of an honest evidence claim for this model?
+8. Name two assumptions of the model that strain in a household where a grandmother holds authority, and say what
+   you would do about each in practice.
+
+**Answers.** 1. Differentiation; triangles; nuclear family emotional process; family projection process; emotional
+cutoff; multigenerational transmission; sibling position; societal emotional process (with chronic anxiety as the
+driver). 2. Because cutoff manages unresolved attachment by reducing contact; the fused attachment remains, and the
+person is still governed by it. 3. A coalition is two against one; a triangle is a three-person configuration in which
+dyadic tension is displaced onto a third point, who may not be "against" anyone. 4. Name the triangle neutrally; ask
+about the client's own reactivity; refuse to take a side and stay. 5. Marital conflict; dysfunction in one spouse;
+projection onto a child; emotional distance. 6. Because differentiation is a property of a person and families often
+send their most motivated member; the wager is that a change in one member changes the system. 7. That the theory is
+coherent and generative; that the construct of differentiation has correlational support; that there are very few
+trials of the therapy itself. 8. That the client has the freedom to hold a position in the system, and that
+differentiation rather than interdependence is the goal.
+
+### 3.14 Reflective task
+
+Draw the triangle you occupy most often in your own family, name all three points, and describe your own reactivity in
+one paragraph. Then write the sentence you would say to yourself as your own coach, following the three moves of
+detriangling. Most students find the third move — refusing to take a side — impossible to apply to themselves, because
+they are already on one. That difficulty is the model's point: the therapist's own triangles are the ones that will
+run the therapy.
+
+### 3.15 Readings for this week
+
+* **Bowen (1978)**, *Family Therapy in Clinical Practice*, especially the chapters on triangles and on the
+  multigenerational transmission process.
+* **Kerr & Bowen (1988)**, *Family Evaluation*, chapters 4–9 — the clearest systematic statement of the theory.
+* **Papero (1990)**, *Bowen Family Systems Theory*, for a short, accurate introduction.
+* **Titelman (ed.)**, *Differentiation of Self*, for the research literature on the central construct.
+* **Any published account of Bowen's own coaching of a single client**, read for the stance rather than the content:
+  notice how rarely he advises, how often he asks what the client noticed in themselves, and how long he is willing to
+  wait for the client's own move.
+
+*Next: [Week 4 — Structural family therapy](#week-4--structural-family-therapy)*
 
 ---
 
