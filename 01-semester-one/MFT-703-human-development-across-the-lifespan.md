@@ -7097,10 +7097,13 @@ this week's techniques are so simple, and so easy to forget in a room where two 
 
 ---
 
-## Week 11 — Parenting across stages and talking to parents
+## Week 11 — Parenting across stages: talking to parents well
 
-Parents do not need lectures; they need **accurate, specific, hopeful information** in plain language.
-The skill has four parts:
+Parents do not need lectures; they need **accurate, specific, hopeful information in plain language**, and
+they need it from someone who is not judging them. That is a skill, it is teachable, and it is assessed in
+this course.
+
+**The four parts of the skill.**
 
 1. **Normalise first.** "What you are describing is very common at this age."
 2. **Give one developmental fact.** "At four, the part of the brain that manages impulse is still being
@@ -7108,11 +7111,676 @@ The skill has four parts:
 3. **Give one concrete action.** "Try naming the feeling and offering two acceptable choices."
 4. **Set a review.** "If this is still happening in three weeks, or if X or Y appears, come back."
 
-**What to avoid:** technical vocabulary; predictions ("he will grow out of it"); blame; over-reassurance
+**What to avoid.** Technical vocabulary; predictions ("he will grow out of it"); blame; over-reassurance
 when the concern is real; and overwhelming a parent with five recommendations.
 
-> **PRACTICAL (OBSERVED)** — Ten-minute parent-feedback role-play using the four-part structure. Assessor
-> rates: plain language, one fact, one action, review point, and warmth.
+**Why this week is the hinge of the course.** Every previous week has produced information a parent needs.
+This week is about delivering it. A therapist with an accurate formulation and a delivery that shames the
+parent will produce a family that does not return, and the formulation will have been worth nothing. The
+skill is not a soft addition to clinical work; it is the mechanism by which clinical work reaches the
+people who do it.
+
+**The developmental spine of the week.** The same four parts are used at every age, and the content changes
+with the stage. Every previous week supplies the content: Week 3 for the infant (synchrony, the still face,
+the meaning of a cry), Week 4 for the toddler (the limit formula, the language differential), Week 5 for the
+preschooler (play, pretend, the false-belief shift), Week 6 for the school-age child (industry, monitoring,
+the report card), Weeks 7 and 8 for the adolescent (privacy, negotiation, risk). This week is where the
+course becomes usable in a room with a worried parent.
+
+> **PRACTICAL (OBSERVED)** — A ten-minute parent-feedback role-play using the four parts, with a peer
+> playing a parent who is frightened and slightly defensive. The exercise is assessed (see 11.5), and the
+> standard is not warmth; it is **accuracy plus one action plus a review**.
+
+### 11.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | Why advice fails | The difference between information and instruction; why parents have already had advice | List the advice they have given and been ignored |
+| 8–20 | The four parts | The structure, demonstrated on a toddler case | Identify the four parts in a recorded feedback |
+| 20–34 | Normalising without dismissing | The two errors: "it is normal" as a brush-off, and alarm as a default | Rewrite three dismissing sentences |
+| 34–46 | The developmental fact | Which fact to give at which age, and how to say it without jargon | Choose the fact for four ages and say it in one sentence |
+| 46–58 | One action | Why one, and how to choose it | Choose one action for four cases and defend it against a rival |
+| 58–70 | The review | Setting a review that is not a threat and not a promise | Write three review sentences |
+| 70–82 | When the parent disagrees | The four reasons a parent rejects a formulation, and the move for each | Role-play a rejection and hold the frame |
+| 82–90 | The assessment | How the observed role-play is marked | Draft their role-play plan |
+
+**The teaching decision that makes the week work.** Trainees default to either reassurance or instruction,
+and both are ways of ending a conversation. The lecture's job is to make the conversation *open* — to leave
+the parent with something to do and a reason to come back — and the way to do that is to demonstrate the
+failure first: the lecturer plays a therapist who reassures a worried mother for four minutes, and the class
+watches the mother's face close.
+
+**The sentence the lecture must land.** "A parent who leaves your room feeling stupid will not do what you
+suggested, and will not come back to tell you it did not work."
+
+### 11.2 Five concepts that organise the week
+
+**1. Parenting is a developmental task that changes.** The parent has a task at each stage, and the tasks
+conflict. The parent of a toddler must hold limits; the parent of a seven-year-old must let go of the
+minute-by-minute view; the parent of a fifteen-year-old must negotiate. Parents who are given information
+appropriate to their child's *age* rather than to their own *experience* are being given something they
+cannot get from their own upbringing, which is why the developmental fact is the second part of the
+structure.
+
+**2. Information is not advice.** Advice tells a parent what to do; information tells them how something
+works. Advice invites compliance or resistance; information invites thinking. A parent told "you should
+not shout" has been advised and will feel judged. A parent told "at four, a child's braking system is
+still being built, which is why shouting produces a pause rather than a change" has been informed, and can
+then decide what to do. The clinical discipline is to give information and let the parent derive the
+action — and to supply the action only if they cannot.
+
+**3. Normalising is a technical act, not a kindness.** "That is very common" does three things: it lowers
+the parent's shame, which is what prevents disclosure; it locates the child in a population, which changes
+the parent's attribution from character to development; and it creates permission for the parent to say the
+next thing. It fails when it is used to close a conversation ("all children do that") or when it is untrue.
+
+**4. One action, chosen for feasibility.** Five recommendations produce none. The action must be small
+enough to survive a bad week, specific enough to be observable, and chosen with the parent rather than for
+them. The test question is: "could you do this on the worst evening of the month?" If not, it is not the
+action; it is the aspiration.
+
+**5. The review is part of the treatment.** A review date converts a suggestion into a plan, gives the
+parent permission to fail, and creates the conditions for the therapist to learn whether anything worked.
+The review should name the *exception* ("if he is still doing this in three weeks, or if he starts X, come
+back"), because an unconditional review is heard as "come back when you have failed again".
+
+### 11.2a The four parts, worked at five ages
+
+The table gives the same structure five times, with the content drawn from the weeks that produced it. It is
+the single most useful page in the module and it should be learned well enough to be used without notes.
+
+| Age | Normalise | The developmental fact | One action | The review |
+|---|---|---|---|---|
+| 6 months | "Waking at night is very common at six months, and it is not a sign you have done something wrong." | "At this age he is learning that you still exist when he cannot see you, and that is why he calls." | "Go to him, keep the room dark and boring, and put him down drowsy rather than asleep." | "If it has not changed in three weeks, or if he stops feeding well, come back." |
+| 2 years | "Every child this age says no; it is the age, not your parenting." | "He has just discovered that he is a separate person, and 'no' is how he tests it." | "Name the feeling, hold the limit, offer two acceptable choices." | "Three weeks. If the hitting is worse, or if he stops talking, come back sooner." |
+| 4 years | "The lying is extremely common at four and it is not a moral problem yet." | "At four he cannot always tell the difference between what happened and what he wishes had happened." | "Ask 'what happened next?' rather than 'why did you do it?'" | "Three weeks, and if the lying comes with other changes — sleep, appetite, friends — come back." |
+| 7 years | "Wanting to be first is normal at seven; the comparison has just arrived." | "At seven he begins to compare himself with other children, and losing becomes a fact about him rather than about the game." | "Name the effort rather than the result, once a day, in a sentence he can hear." | "A month. If he stops wanting to play at all, come back." |
+| 15 years | "Not talking to you is common and it is not permanent." | "At fifteen the private world is a developmental need, not a rejection; secrecy is what privacy becomes when there is no agreement." | "One question a day, at a stated time, and not at the door." | "Two weeks. If he stops seeing his friends altogether, come back at once." |
+
+**How to use the table without sounding like a table.** Do not deliver the four parts in order as a
+script. Deliver the normalising sentence, then *wait*, then give the fact in the parent's own vocabulary,
+then the action. The structure is for the therapist's head; the parent should hear a conversation.
+
+### 11.2b The five questions parents are actually asking
+
+Underneath almost every parental question is one of five concerns, and a therapist who answers the question
+asked without hearing the concern underneath will be asked it again in different words.
+
+**1. "Is something wrong with my child?"** The question is about diagnosis and it is asked in almost every
+first session, in some form. The answer that works is not "no" and not "we will see", but a description of
+what is and is not yet known: "what you are describing is common at this age; the things that would make me
+worried are X, Y and Z, and he does not have them. I would be looking for them at the review."
+
+**2. "Is it my fault?"** The question is about blame, and it is usually unspoken. A therapist who does not
+address it will find the parent either defensive or collapsed, and neither can implement an action. The
+sentence that works is factual rather than absolving: "children's development is affected by many things,
+and a parent who is asking this question is usually doing more than they think." Then move to the action,
+because blame is not resolved by argument but by competence.
+
+**3. "Will it get better?"** The question is about the future and it is a request for a prediction. Do not
+predict. Offer the shape instead: "the pattern you are describing usually changes as language develops,
+which is in the next year. What I cannot tell you is how much, and I would rather review it in three weeks
+than guess."
+
+**4. "What do I do tonight?"** The question is about the immediate. It is the most answerable and the most
+frequently unanswered, because clinicians are trained to formulate and parents need an action before
+bedtime. Answer it, even if the answer is provisional.
+
+**5. "Do you think I am a bad parent?"** The question is about judgement, and it is asked by the parents
+who are most competent and most exhausted. The answer must be honest and behavioural: "I think you are the
+person who noticed, brought him here, and is prepared to try something different, which is what the parents
+I worry about do not do."
+
+**The rule.** Answer the question underneath, and answer it in the first ten minutes. A parent whose
+underlying concern has been met can then hear information; a parent whose concern is still unanswered will
+hear every subsequent sentence through it.
+
+### 11.3 The method: a parent feedback conversation, ten steps
+
+Twenty minutes, in a room with one or two parents, after an assessment. The structure is fixed because
+improvisation is what produces the two failure modes: a lecture, or a reassurance.
+
+**Step 1 — Ask what they think is happening.** Before saying anything. The parent's own formulation is the
+starting point, and it identifies which of the five questions is live.
+
+**Step 2 — Ask what they have already tried.** Their attempts are the first resource of the plan and the
+first evidence of their competence. Name one aloud: "you have already done the hardest part, which is
+changing what you do at bedtime."
+
+**Step 3 — Give the finding in one sentence, without jargon.** "He is not behind in his development. He is a
+boy with a lot of energy and a hearing test that has never been done." One sentence, and then stop.
+
+**Step 4 — Normalise, and be specific about what is normal.** "What you are describing is very common at
+five, and the reason it is common is that the part of the brain that stops an impulse is still being built."
+
+**Step 5 — Give the one developmental fact they will remember.** One. Not three. It must be sayable in a
+single sentence and repeatable to a spouse that evening.
+
+**Step 6 — Check understanding by asking them to say it back.** "Say that back to me in your own words,
+because I want to know whether I said it clearly." This is not a test of the parent; it is a test of the
+therapist, and it is the step trainees most often skip.
+
+**Step 7 — Offer one action, and ask whether it is possible.** "Could you do that on the worst evening of
+the month?" If the answer is no, the action is wrong, and the therapist adjusts until the answer is yes.
+
+**Step 8 — Write it on a page, in their words.** Not in the therapist's. A page in the parent's own phrasing
+is followed; a page in clinical language is filed.
+
+**Step 9 — Set the review, with the exception named.** A date, and the specific things that would bring them
+back sooner.
+
+**Step 10 — Ask the closing question.** "What are you going to tell his father tonight?" Or the grandmother,
+or the aunt. The question surfaces the household's information system, and it frequently reveals that the
+plan will be contradicted within an hour of the parent getting home.
+
+### 11.3a Telling a parent something difficult
+
+Some feedback is not normalising. A developmental delay, a probable diagnosis, a safeguarding concern, a
+recommendation that a child be assessed by another service — these require a different structure, and the
+difference is that the therapist is delivering news the parent will remember for years.
+
+**Before the conversation.** Decide what the one piece of news is, in one sentence, and say it aloud twice
+before the session. Decide what you do not yet know, and be ready to say so. Arrange for both parents to be
+present if possible, and for someone to be with the parent afterwards. Book a longer slot than usual, and
+book the follow-up before the conversation begins.
+
+**The structure, in six moves.**
+
+1. **Signal.** "I want to talk about what the assessment found, and some of it is not what you were hoping
+   for." Two seconds of warning, which is the difference between being told and being ambushed.
+2. **The news, in one sentence, without hedging.** "His language is about two years behind where we would
+   expect."
+3. **Stop.** Silence. The parent needs time, and anything the therapist says in the next thirty seconds will
+   not be heard.
+4. **The meaning, in the parent's terms.** "I know that what you are hearing is that the thing you were
+   afraid of is true." Naming the fear accurately is more useful than reassurance.
+5. **What is not changed.** "He is the same boy he was this morning. He is affectionate, he is good with his
+   hands, and he has a mother who noticed." True sentences only.
+6. **What happens next, concretely.** A referral, a date, a name, a telephone number, and a follow-up
+   appointment with the therapist. Nothing is left open.
+
+**What not to do.** Do not deliver the news in the last five minutes of a session. Do not use a diagnostic
+label without the explanation that goes with it. Do not follow the news with a programme, because the
+parent will not hear it. Do not say "I am sure it will be fine" — the parent will remember that sentence,
+and it will be the one that makes them distrust everything else you said.
+
+**Afterwards.** Write to the parent, briefly, within a week: what was said, what happens next, and the
+telephone number. A letter after difficult news is one of the few interventions in this book with no
+downside, and it is almost never done.
+
+### 11.4 Three techniques
+
+**Technique 1 — The one-sentence formulation, said to the parent's face.** Write the formulation as one
+sentence, in plain language, and say it: "your son is not naughty; he is a five-year-old with an
+undiagnosed hearing problem, and he has been getting into trouble for two years for something he cannot
+help." The sentence does three things at once: it explains, it removes blame and it implies the action. If
+the sentence cannot be written in plain language, the formulation is not yet finished.
+
+**Technique 2 — The three-week review card.** A card with the date, the action, and the two exceptions that
+would bring the parent back sooner. The card is the treatment's memory, and it survives a fortnight in which
+the parent is too busy to think about any of it.
+
+**Technique 3 — The household rehearsal.** Ask the parent to rehearse, in the session, the sentence they
+will use with the other caregiver. Then ask them what that caregiver will say back, and rehearse the
+answer. Families do not fail at the clinic; they fail at the front door, when the grandmother says "in my
+time we did not do that".
+
+### 11.5 The assessed role-play
+
+The parent-feedback role-play is worth twenty per cent of the module mark. The assessment is deliberately
+public: each student performs in front of the group for ten minutes, and the group marks against the same
+rubric the examiner uses, which is the fastest way to teach a skill that is normally learned by watching
+someone else do it badly for years.
+
+**The set-up.** A brief of no more than 150 words, containing the age of the child, the presenting concern,
+one thing the parent has already tried, one thing the parent believes that is wrong, and one live emotion in
+the room (shame, anger, exhaustion, or fear of a partner's reaction). The student has ten minutes with the
+parent and no notes.
+
+**What is being marked.** Not warmth. Not the accuracy of the developmental content in the abstract — the
+examiners accept any defensible fact. What is marked is the *structure in use*: did the parent leave with
+(a) a normalising statement they could repeat, (b) one fact, (c) one action they had agreed to, and (d) a
+review date with an exception named.
+
+**The four ways students fail.**
+
+- **The lecture.** Three facts and five recommendations in ten minutes, delivered to a parent who has not
+  been asked a single question. The mark is low irrespective of accuracy, because nothing will be done.
+- **The reassurance.** "Do not worry, he will grow out of it", delivered before any assessment has been
+  described. This fails on the rubric's accuracy criterion, and it is the commonest failure among trainees
+  who are naturally warm.
+- **The collusion.** Agreeing with the parent's formulation because disagreeing feels unkind ("yes, his
+  father is very strict"). This fails, because a therapist who agrees with one parent against the other has
+  joined the household's conflict.
+- **The hedge.** Never stating a finding, so that the parent leaves with no information at all. This is
+  common among trainees who have been taught that they must not diagnose, and the correction is that
+  *describing* is not *diagnosing*: "his language is behind what we would expect, and that needs an
+  assessment" is a description, and it is what the parent came for.
+
+### 11.5a The parent who arrives with a diagnosis from the internet
+
+The commonest new complication in this work, and it has a structure that can be taught in ten minutes.
+
+**What arrives.** A parent who has read about a condition — attention deficit, autism, attachment disorder,
+sensory processing, "highly sensitive child", or a term from a social media video — and who is either
+relieved to have a name or frightened by it. The parent may ask the therapist to confirm the label, or may
+resent any suggestion that the label is not the whole picture.
+
+**What not to do.** Do not dismiss the reading. A parent who has spent three months researching is a parent
+who is trying, and dismissing the research dismisses the effort. Do not confirm a diagnosis you have not
+made, which is both a scope error and a clinical one. And do not argue about the label, which converts the
+session into a debate about a word.
+
+**The four-step response.**
+
+**First, ask what led them to it.** "What did you see that made you look that up?" The answer produces the
+behavioural description the therapist needs, and it is usually better than the label.
+
+**Second, separate the description from the name.** "The things you are describing — not sitting still,
+covering his ears, needing the same routine — are real and I saw two of them today. The name is a decision
+for an assessment, and the assessment is the way to get it right."
+
+**Third, say what would change either way.** This is the step that resolves most of these conversations:
+"whatever the assessment says, the things we would do first are the same — protect his sleep, give him one
+instruction at a time, and find the thing he can do for twenty-five minutes." A parent who discovers that
+the immediate plan does not depend on the label stops needing the label today.
+
+**Fourth, name the referral honestly.** If an assessment is indicated, say so and give a date. If it is not,
+say what the therapist would need to see for it to become indicated, in behavioural terms. A parent who has
+been told the threshold can watch for it, and watching is itself useful.
+
+**The sentence that holds the whole position.** "You may be right, and I am not going to pretend to know
+before we have looked. What I do know is what to do this month." Parents accept uncertainty about the
+future far more readily than they accept being told that their observation was wrong.
+
+### 11.6 Case: the mother who has been told she is too soft
+
+**Referral.** Chidi, seven, in Primary 2, brought by his mother, Adaeze, 33, a tailor, on the school's
+recommendation. The school's note: "Chidi does not sit still, does not finish his work, and is rough with
+the smaller children. He is bright. The mother is not firm with him."
+
+**The household.** Adaeze; Chidi; a daughter, 4; Adaeze's husband, Emeka, 38, a long-distance driver, home
+four days a month; and Emeka's mother, 61, who lives in the same compound and who believes Chidi is spoiled.
+Adaeze runs her tailoring business from the front room.
+
+**The presenting complaint, in the mother's words.** "They say I am too soft. His grandmother says it. His
+father says it when he comes home and then he shouts at him and it is worse for a week. The teacher says I
+should beat him. I do not want to beat him. I do not know what to do and I am tired."
+
+**What the assessment finds.** Vision normal. Hearing never tested. Language: Chidi's vocabulary is good,
+his sentence construction is age-appropriate, and he cannot follow a three-step instruction in a noisy room
+— which the therapist tests by giving one, twice, in the consulting room and in the corridor. Attention: he
+can sustain a preferred activity for twenty-five minutes and a non-preferred one for four. Sleep: he goes to
+bed at ten, shares a bed with his sister, and wakes when the compound is noisy at five. Diet: he eats once
+a day, in the evening, because the family eats late. School: forty-eight children in the class, and his seat
+is at the back.
+
+**The five findings.**
+
+1. **There is no evidence of a conduct problem and there is evidence of an unassessed hearing and attention
+   picture.** The therapist does not diagnose ADHD; she describes what she saw, names two things that must
+   be excluded, and refers for hearing and for a developmental assessment.
+2. **The child is not naughty at four in the afternoon; he is a seven-year-old who has eaten nothing since
+   the previous evening, slept six hours, and is being asked to sit in a class of forty-eight.** The
+   environmental account is not an excuse; it is a set of variables that can be changed.
+3. **The mother is being managed by three authorities and supported by none.** The school blames her, the
+   grandmother blames her, the father arrives monthly and shouts. Her "softness" is not a parenting style;
+   it is what remains of a woman with no allies.
+4. **The father's monthly arrival is the family's actual behavioural cycle.** Chidi is worse for a week
+   after each return, which the school reads as deterioration and which is better understood as a boy who
+   has been shouted at by a man he sees four days a month.
+5. **The most useful intervention in the case has nothing to do with Chidi's behaviour.** It is an alliance
+   with the mother that makes her the author of a plan rather than the object of three plans.
+
+**The feedback conversation, in order.** The therapist asks what Adaeze thinks is happening. She says: "he
+is a good boy but he is stubborn, and I am too soft." The therapist asks what she has tried. She lists six
+things, including two she has invented herself, and the therapist names one: "you have already changed his
+bedtime once and it worked for a while. That is not a soft mother; that is a mother who experiments."
+
+**The one-sentence finding.** "Chidi is a bright seven-year-old whose hearing has never been tested and who
+is being asked to sit still in a class of forty-eight on six hours' sleep and no breakfast, and the
+behaviour you are being blamed for is the predictable result."
+
+Adaeze cries. The therapist waits. Then: "and you have been told by three people that the problem is you,
+which is why you are tired."
+
+**The four parts, delivered.**
+
+*Normalise:* "Boys of seven who cannot sit still in a hot classroom are extremely common, and it is not a
+sign that a mother has failed."
+
+*The fact:* "At seven, a child can hold one instruction in mind but not three, especially in a noisy room.
+He is not ignoring you; he is losing the middle of the sentence."
+
+*The action:* one. "Breakfast before he leaves the house, even if it is bread and a boiled egg, and say the
+instruction one step at a time: 'put your shoes on', then when that is done, 'bring your bag'." The
+therapist does not give the sleep change, the hearing referral and the school request as actions; those are
+the plan, and they are on the page, but only one thing is asked for this week.
+
+*The review:* "Three weeks. If the school reports he is hurting another child, come back at once. If the
+hearing test comes back abnormal, we will change the whole plan."
+
+**The rest of the plan, on the page.** A hearing test, booked by the clinic. A letter to the school asking
+for a seat at the front and one named adult. A developmental assessment referral. A conversation with the
+grandmother, held by Adaeze, rehearsed in the session, in which she says one sentence: "the doctor says his
+hearing has never been tested and we are doing that first." And a request to the father, by telephone, in
+which Adaeze says one sentence she has rehearsed: "when you come home, I need you to ask him about school
+before you tell him anything."
+
+**The grandmother, handled.** The therapist does not invite the grandmother to the session, and explains
+why: the household has three authorities and no hierarchy, and adding a fourth voice — the therapist's —
+will not produce agreement. Instead Adaeze is given the sentence to say, and the authority to say it,
+because the grandmother's objection is not to the plan; it is to being excluded from it. The sentence makes
+her the person who is informed first.
+
+### 11.6a Six weeks later
+
+The hearing test is normal, which the therapist records as a genuinely useful negative: two years of
+"not listening" have been excluded as a hearing problem, and the school has been told so in writing.
+
+Chidi is eating breakfast. The three-step instruction has become a two-step instruction, because Adaeze
+found that three was still too many, and she adjusted it herself. This is the outcome the week is aiming
+for: a parent who modifies a plan is a parent who owns it.
+
+The school has moved his seat and named a teacher. The rough behaviour has reduced, not disappeared. The
+developmental assessment has a date in eleven weeks, and the therapist has written to say that the
+assessment is pending and that the school's "not firm" note should be removed from the file, which it is.
+
+Emeka has been telephoned once by the therapist, at Adaeze's request, for four minutes. He said little. He
+did, on his next return, ask Chidi about school before saying anything else, and Adaeze reports that Chidi
+talked for eleven minutes.
+
+**The honest limitation.** The grandmother's view has not changed. She now says it less in front of Chidi,
+which is the achievable outcome and is worth having: a child who hears one criticism instead of three is
+better off even when the third person's opinion is unchanged.
+
+### 11.7 Transcript: the ten minutes, annotated
+
+The transcript is the assessed role-play's model answer, compressed. The annotations name the part of the
+structure being used at each turn.
+
+> **T1 Therapist:** Before I tell you anything, I want to know what you think is happening. — *Step 1. The
+> single sentence that distinguishes this conversation from a consultation with a verdict.*
+>
+> **T2 Adaeze:** He is a good boy. But he is stubborn, and I am too soft. Everybody says so.
+>
+> **T3 Therapist:** Who is everybody? — *Three words. The answer identifies the household's authority
+> structure, which is the actual clinical problem, and it takes eight seconds.*
+>
+> **T4 Adaeze:** The teacher. His grandmother. His father when he comes.
+>
+> **T5 Therapist:** And what have you tried? — *Step 2. The question that finds the parent's competence,
+> which in this case has been invisible to her for two years.*
+>
+> **T6 Adaeze:** *(lists six things)*
+>
+> **T7 Therapist:** You changed his bedtime in January and it worked for a while. That is not a soft
+> mother. That is a mother who experiments. — *Naming competence with evidence. Note that the therapist
+> does not say "you are a good mother", which is a verdict the parent cannot use; she describes a behaviour.*
+>
+> **T8 Adaeze:** *(quietly)* Nobody has said that to me.
+>
+> **T9 Therapist:** Here is what I found, in one sentence, and then we will talk about it. *(pause)* Chidi
+> is a bright seven-year-old whose hearing has never been tested, who is being asked to sit still in a class
+> of forty-eight, on six hours' sleep and no breakfast. The behaviour you are being blamed for is the
+> predictable result. — *Step 3, and the sentence is prepared, plain, and contains no diagnosis. It also
+> answers the question underneath, which is "is it my fault?"*
+>
+> **T10 Adaeze:** *(cries)*
+>
+> **T11 Therapist:** *(waits, offers the box of tissues, says nothing)* — *Step 3b. The silence after the
+> finding. Anything said here will be remembered instead of the finding, and the finding is what she needs
+> to remember.*
+>
+> **T12 Therapist:** *(after about twenty seconds)* Say that back to me, in your words, so I know whether I
+> said it clearly. — *Step 6, and the pronoun is deliberate: the fault for an unclear sentence is assigned
+> to the therapist, which is what makes the check honest.*
+
+### 11.7a When the complaint comes from the school
+
+A frequent configuration: the referral originates with a school, the parent arrives defensive, and the
+therapist is positioned between an institution and a family. Three practices keep the therapist from
+becoming the school's representative.
+
+**Practice 1 — Distinguish the observation from the verdict.** "Chidi does not finish his work" is an
+observation. "The mother is not firm with him" is a verdict, and it is a verdict about an adult who is not
+in the room. The therapist works with the first and declines the second, in writing if necessary.
+
+**Practice 2 — Ask the parent what the teacher would say if asked.** The answer is often accurate and
+sympathetic, and it reveals that the parent already knows the school's view and has been carrying it home.
+Naming that — "you have been told this for two years and you have kept coming back" — is frequently the
+moment the alliance forms.
+
+**Practice 3 — Give the parent something to give the school.** A sentence, a request, a letter. A parent who
+arrives at the school gate with a specific request from a clinic is in a different position from a parent
+who arrives with an explanation, and the difference is not rhetorical: schools respond to requests with
+names and dates attached.
+
+**The boundary.** The therapist does not become the family's advocate against the school, and does not
+become the school's agent inside the family. The position is with the child's development, which both
+institutions say they are serving, and which is the only ground on which both can be held to account.
+
+### 11.8 Laboratory and the marking scheme
+
+The laboratory runs in two parts across two weeks. Part one is rehearsal with peers, unmarked. Part two is
+the assessed role-play in front of the group.
+
+**Marking scheme (20 marks).**
+
+| Criterion | Marks | What the top band looks like |
+|---|---|---|
+| **Structure in use** | 6 | All four parts present and in order, without the parent noticing a structure |
+| **Accuracy** | 4 | The developmental content is correct for the age, and no diagnosis is made in the room |
+| **One action** | 4 | One action, agreed rather than prescribed, tested against the worst evening of the month, written in the parent's words |
+| **The review** | 3 | A date and a named exception, both written |
+| **Holding the frame** | 3 | When the parent disagrees, the therapist neither capitulates nor argues; she names the disagreement and offers a review |
+
+**The pass standard.** A student who reassures for ten minutes and gives no action has failed, however
+warm the room felt. A student who gives five actions has also failed, however accurate the content.
+
+**The role-play briefs.** Four, rotated. Each contains one emotion and one false belief.
+
+*Brief A — the exhausted mother of a two-year-old.* She believes the problem is that he "does not respect
+her". The emotion is shame. The hidden question is "is it my fault?"
+
+*Brief B — the father of a nine-year-old who refuses school.* He believes the boy is lazy. The emotion is
+anger, covering fear. The hidden question is "will he turn out like me?"
+
+*Brief C — the mother of a fifteen-year-old who has been caught lying.* She believes she must search the
+room. The emotion is fear. The hidden question is "what do I do tonight?"
+
+*Brief D — the parents of a four-year-old with a speech delay.* They believe he will talk when he is ready,
+as his uncle did. The emotion is resignation. The hidden question is "is something wrong with my child?"
+
+**The debrief question, asked of the group every time.** "What did the parent leave with that they did not
+have when they came in?" The answer must be a sentence, an action and a date. If the answer is "they felt
+better", the role-play failed, and the group must be able to say why.
+
+### 11.9 Six errors
+
+**Error 1 — Reassuring before assessing.** The commonest error in the whole of paediatric practice, and the
+most damaging, because the reassurance is remembered and the assessment is not. Reassurance after an
+assessment is a finding; before one, it is a guess with a kind face.
+
+**Error 2 — Giving the parent the therapist's formulation.** "He has a regulatory difficulty secondary to
+maternal inconsistency" is a sentence for a file. Said to a parent, it produces shame and no action.
+
+**Error 3 — Five recommendations.** The parent will implement none and will not say so. One action, chosen
+for the worst evening of the month.
+
+**Error 4 — Agreeing with one parent against the other.** "Yes, his father is very strict" feels supportive
+and is a coalition. The therapist's position is with the household's capacity to change, which requires
+both parents in the room eventually.
+
+**Error 5 — Treating the parent as the patient without saying so.** Sometimes the parent is the focus, and
+when that happens it must be said: "the work I am proposing is with you, not with him, and I want to be
+clear about that." A parent who discovers halfway through that they have become the client will leave.
+
+**Error 6 — Leaving the household's other authorities out of the plan.** The grandmother, the aunt, the
+father on the telephone. A plan that requires a parent to contradict three people alone will fail at the
+front door, and the therapist will conclude that the parent was not motivated.
+
+### 11.9a Six sentences that do harm, and what to say instead
+
+Small language choices do more damage in parent feedback than any amount of wrong content. The six below
+are the ones trainees use most.
+
+**"He is doing it for attention."** True and useless, because attention is a legitimate need and the
+sentence implies a fault. Instead: "he has found that this is the way to get you, and we are going to give
+him a better way."
+
+**"He is testing the boundaries."** A metaphor that makes the child sound like a strategist. Instead: "he is
+finding out whether the rule is the same on a bad day, which is what every child does at this age."
+
+**"You need to be consistent."** An instruction to have a quality, not to do a behaviour, and it is heard as
+"you are failing." Instead: "pick one rule to hold this week, and let the others go."
+
+**"In my experience…"** Places the therapist's experience above the parent's knowledge of their own child,
+and invites a comparison the therapist will win. Instead: "what does he do when you try that?"
+
+**"He will grow out of it."** A prediction, usually accurate, always remembered, and it prevents the review.
+Instead: "this pattern usually changes as language develops. I would rather see you in three weeks than
+guess."
+
+**"There is nothing wrong with him."** Meant kindly, heard as "your concern is imaginary". Instead: "I did
+not find the things that would worry me today. What I did find is X, and that is worth working on."
+
+**The exercise, in the laboratory.** Students are given these six sentences on a card and asked to deliver
+each one to a partner in role, then to deliver the replacement, and to say which one produced a response.
+The difference is felt immediately and is remembered for years.
+
+### 11.10 Culture, faith and talking to parents
+
+**The authority to say it.** In many households a young clinician, and particularly a young woman, will not
+be heard on the subject of child-rearing by an older relative. This is not resistance to the content; it is
+a fact about standing. The workable moves are three: route the information through the person who has
+standing (a paediatrician, a religious leader, a respected aunt); give the parent a sentence that carries
+the clinic's authority ("the doctor says his hearing has never been tested"); and never require the parent
+to win an argument with a grandmother in order to follow the plan.
+
+**Corporal punishment.** A substantial proportion of the parents in these clinics were beaten and believe
+that they turned out well, and many schools still recommend it. The therapist who opens with a moral
+position will end the conversation. The sequence that works is: ask what the parent believes and why; give
+the developmental fact (what beating does to the behaviour being targeted, over what timescale); give one
+alternative that is specific and feasible; and accept that the change may be partial. A parent who shouts
+less is a better outcome than a parent who leaves the clinic believing they have been judged.
+
+**Faith and the child's condition.** Where a child's difficulty is understood spiritually, the parent may
+be pursuing prayer and may be advised by a religious authority not to accept a referral. The clinical
+position is to work with the framework: ask what the prayer is for, offer to speak with the religious
+authority if the parent wishes, and hold one non-negotiable — that a hearing test and a developmental
+assessment are not acts of unbelief. Framing them as *seeing what God has made* is not a manipulation; it is
+a translation, and translation is part of the job.
+
+**The father on the telephone.** In households with labour migration or long-distance work, the father is
+present by telephone and his authority is exercised remotely. A plan that does not include him will be
+reversed by him. The four-minute telephone call is a clinical instrument: one sentence from the therapist,
+one question to him, and one agreement. It is worth more than four sessions with the mother alone.
+
+> **DEBATE** — "A therapist should not tell a parent what to do." Argue for: advice creates dependence,
+> parents know their children, and the evidence on autonomy support favours collaboration over instruction.
+> Argue against: parents come for advice, a refusal to give it is a withholding of expertise, and a parent
+> with a seven-year-old who has not eaten breakfast needs an instruction rather than a reflective
+> conversation. Then state your rule for when you instruct and when you ask, and give the case that would
+> make you break it.
+
+### 11.11 Evidence note
+
+**What the research supports.** The content of the four parts is well supported: psychoeducation about
+normative development reduces parental anxiety and increases the accuracy of parental attributions;
+specific, behavioural, positively framed instructions are followed more often than general advice; and
+brief, structured parenting interventions with a scheduled review produce better outcomes than open-ended
+support. The finding that parental attributions — whether the parent believes the behaviour is intentional
+— predict both parental response and treatment outcome is robust and is the empirical basis for the
+normalising step.
+
+**What is weaker.** The evidence on *how* to deliver feedback is thinner than the evidence on what to
+deliver. The four-part structure is assembled from clinical teaching and from the psychoeducation
+literature rather than tested as a package. The claim that one action outperforms five is plausible,
+consistent with the implementation literature, and not directly tested in this form.
+
+**What is not supported.** That reassurance reduces anxiety when the concern is real — the evidence suggests
+the opposite, because a parent whose concern is dismissed becomes more anxious and less likely to disclose.
+That insight alone changes parenting behaviour. And that a single feedback session is sufficient for
+established difficulties; the evidence favours brief *structured* contact with review, which is what the
+fourth part exists to create.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same feedback, given to a mother with three authorities
+against her and given to a mother with one ally, produces two different families, and the difference is not
+in the feedback.
+
+### 11.12 Key terms
+
+**Normalising** — locating the child's behaviour in a population, to reduce shame and change attribution.
+
+**Attribution** — the parent's belief about why the child behaves as he does; intentional versus
+developmental attributions predict different parental responses.
+
+**One action** — a single, feasible, observable behaviour agreed with the parent.
+
+**The exception** — the specific change that would bring the family back sooner than the review date.
+
+**Household rehearsal** — practising the sentence the parent will use with the other caregivers, and their
+likely reply.
+
+**Standing** — the social authority to be heard on a given subject, which is not the same as expertise.
+
+**Psychoeducation** — structured information about a condition or a developmental stage, given to reduce
+distress and improve management.
+
+**Coalition** — an alliance between the therapist and one family member against another; the characteristic
+error of sympathetic practice.
+
+### 11.13 Self-test
+
+1. Give the four parts of the feedback skill and say what each one prevents.
+2. Why is reassurance *before* assessment an error, and what is the evidence?
+3. Name the five questions parents are actually asking, and give one sentence that answers each.
+4. What is the test question for choosing an action, and why is it asked rather than assumed?
+5. Why does the therapist in the Chidi case not invite the grandmother to the session?
+6. What are the four ways students fail the assessed role-play, and what do all four have in common?
+7. How would you handle a parent who believes the child's difficulty is spiritual and has been advised not
+   to accept a referral?
+8. What is the "exception" in a review, and why is an unconditional review heard as a threat?
+
+**Answers.** *(1)* Normalising prevents shame and closes the disclosure problem; the fact prevents blame and
+changes attribution; the action prevents paralysis; the review prevents abandonment and creates the
+conditions for the therapist to learn the outcome. *(2)* Because it is a guess delivered with a kind face
+and it is remembered instead of the assessment; the evidence is that dismissing a real concern increases
+anxiety and reduces later disclosure. *(3)* Is something wrong with my child — "what you describe is common
+at this age, and the things that would worry me are X, Y and Z, which he does not have"; is it my fault —
+"a parent asking that question is usually doing more than they think"; will it get better — "this pattern
+usually changes as language develops; I would rather review than guess"; what do I do tonight — give the
+action; am I a bad parent — "you noticed and you came, which is what the parents I worry about do not do".
+*(4)* "Could you do this on the worst evening of the month?" — asked because feasibility, not correctness,
+determines whether an action is carried out. *(5)* Because the household has three authorities and no
+hierarchy, and adding the therapist's voice produces a fourth rather than an agreement; the sentence given
+to the mother makes the grandmother the person informed first, which addresses the actual objection.
+*(6)* The lecture, the reassurance, the collusion, the hedge — all four end the conversation rather than
+opening it. *(7)* Work inside the framework: ask what the prayer is for, offer to speak to the religious
+authority, and hold one non-negotiable — that a hearing test and a developmental assessment are not acts of
+unbelief, since they are ways of seeing what has been made. *(8)* The specific change that would bring the
+family back sooner; without it the review is heard as "come back when you have failed again".
+
+### 11.14 Reflective task
+
+Record yourself giving feedback to a colleague in role, and listen to it twice. On the first listening,
+count the number of recommendations you gave. On the second, listen for the moment your voice changed when
+the colleague disagreed with you. Most trainees find between three and six recommendations and a voice that
+either rose or softened into agreement. Both are the same failure: the therapist leaving the frame in order
+to keep the room.
+
+### 11.15 Further reading
+
+- Hattie, J. and Timperley, H. "The power of feedback" — the general evidence on what makes feedback usable.
+- Sanders, M. *Positive Parenting Program* materials — the worked examples of specific, behavioural
+  instructions.
+- Johnston, C. and Mash, E. "Parental attributions" — the empirical basis for the normalising step.
+- Brazelton, T. *Touchpoints* — the classic account of developmental information given to parents well.
+- Buckman, R. *Breaking Bad News* — the six-step protocol adapted in 11.3a.
+
+*Next: Week 12 — Later life: integrity, loss and caregiving.*
 
 ---
 
