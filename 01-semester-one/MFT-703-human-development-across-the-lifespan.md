@@ -824,6 +824,669 @@ than the amount of conflict, predicts child outcomes.
 **Practice.** In pairs, conduct a 10-minute temperament interview with a parent (or peer playing one):
 sleep, feeding, reaction to change, intensity, mood. Then identify the goodness of fit with the household.
 
+### 2.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Before birth | The prenatal environment, and why a family therapist cares | Name one prenatal factor in a family they know |
+| 10–25 | Prematurity and the fourth trimester | The relational consequences of a medical beginning | Map a premature infant's caregiving network |
+| 25–40 | Postnatal depression | One in five mothers; the relational mechanism; the father's version | Screen a volunteer with a two-question tool |
+| 40–55 | Temperament | Nine dimensions, three profiles, and goodness of fit | Interview a peer as a parent |
+| 55–70 | Becoming a parent | The reorganisation: time, money, sex, labour, grandparents, identity | Draw the reorganisation on one page |
+| 70–82 | The co-parenting alliance | Why it predicts child outcomes better than conflict | Rate three recorded couple clips |
+| 82–90 | The clinical frame | Normalising the strain without dismissing it | Write the normalising sentence |
+
+**The teaching decision that makes the week work.** This week's material is the most likely in the course to be
+delivered as a list of risk factors, and the most useful version of it is a demonstration of how a normal
+developmental event becomes a clinical presentation. The lecture should take the commonest presentation in
+perinatal work — "we have no time for each other" — and show that it is simultaneously ordinary, dangerous, and
+responsive to a small intervention. The class should leave able to say what is normal about the fourth month
+after a first baby, and what is not.
+
+**The sentence the lecture must land.** "The birth of a child is a developmental event for the parents, not only
+for the child." Most of this week follows from it: the symptoms are the parents', the tasks are the parents',
+and the assessment must include the couple's reorganisation, not just the baby's milestones.
+
+### 2.2 Core concepts
+
+**The prenatal environment.** The foetus develops inside an environment made of the mother's nutrition, stress
+hormones, illness, substances and medical care, and that environment is itself shaped by her circumstances —
+poverty, work, a violent household, a wanted or unwanted pregnancy, a partner's support. The clinical relevance
+is not that prenatal events determine later life but that they are the first chapter of the family's story, and
+families bring that chapter to the clinic, often without knowing they are doing so.
+
+**The fourth trimester.** The three months after birth, in which the infant is neurologically immature and
+utterly dependent, and the parents are in a state of physiological and emotional reorganisation. Sleep
+deprivation, hormonal change, the loss of an established identity and the arrival of an unremitting demand are
+all normal. The concept is clinically useful because it converts a set of complaints into a stage.
+
+**Prematurity and the medical beginning.** A premature birth changes the sequence: the parents' first
+relationship with their child is often mediated by machines, by staff, by fear, and by a period of separation.
+The consequences are relational rather than deterministic: parents may be more anxious, more inclined to
+monitor, less confident in their own competence, and the infant may be more reactive, harder to read, and slower
+to settle. The clinical task is to restore the parents' confidence in their own reading of their child, which is
+the thing the neonatal unit has, understandably, taken from them.
+
+**Birth trauma.** A difficult birth can leave a mother with a sense of violation, a fear of the body, and a
+reluctance to speak about it — often because she has been told she should be grateful. The clinical task is to
+ask, specifically, and to let her tell it. The question "how was the birth?" asked with time to answer is one of
+the most useful questions in perinatal work.
+
+**Postnatal depression.** Affecting roughly one mother in five in many settings and a substantial minority of
+fathers, postnatal depression is the most clinically consequential condition in this week's material. Its
+mechanism is relational: a depressed mother is less responsive, the infant becomes more distressed and harder to
+soothe, the father feels excluded or overloaded, and the couple's negotiation collapses. The screening questions
+are short and should be asked of both parents at every perinatal contact.
+
+**Paternal postnatal depression.** Less recognised and equally real: irritability, withdrawal into work, alcohol
+use, and a refusal to describe the state as depression. The clinical presentation is often a couple conflict,
+and the diagnosis is missed because nobody asks the father.
+
+**Temperament, and the nine dimensions.** Thomas and Chess described nine dimensions — activity level,
+regularity, approach or withdrawal, adaptability, sensory threshold, intensity of reaction, mood, distractibility
+and persistence — usually simplified into three profiles: easy, slow-to-warm, and difficult (or feisty). The
+dimensions matter clinically because they describe the child's contribution to the relationship, which many
+parents experience as a verdict on their parenting.
+
+**Goodness of fit.** The concept that saves temperament from fatalism: the outcome depends on the match between
+the child's characteristics and the environment's demands. A highly sensitive child in a loud, unpredictable
+household struggles; the same child in a predictable household thrives. The clinical implication is that the
+intervention may target the environment rather than the child, which is a systemic move disguised as a
+developmental one.
+
+**The transition to parenthood.** The couple must renegotiate seven domains: time, sleep, money, the division of
+labour, sexuality, the relationship with grandparents, and identity. The research finding that satisfaction dips
+after the birth of a child is robust across cultures, and the dip is not a sign of a failing marriage; it is a
+stage. What distinguishes couples who recover from those who do not is not the amount of conflict but the quality
+of the co-parenting alliance.
+
+**The co-parenting alliance.** The couple's capacity to coordinate as parents — to support each other's
+relationship with the child, to present a united approach without undermining each other, and to keep the child
+out of their conflicts. It predicts child outcomes more strongly than marital satisfaction does, which is why
+perinatal work that focuses only on the couple's romance misses the mechanism.
+
+**Becoming a parent as an identity transition.** The arrival of a child requires the adult to become someone new,
+and the new identity is built from the models available: their own parents, their culture's expectations, their
+partner's expectations, and their own ideals. The clinical presentations are recognisable: the parent who cannot
+bear to be like their own mother and over-corrects; the parent who has no model at all; the parent whose identity
+was entirely occupational and who now has none.
+
+**The couple's reorganisation as the unit of assessment.** The perinatal assessment is not the baby's milestones;
+it is the household's reorganisation. Who sleeps when; who feeds; who works; who decides; who else is in the
+house; what has been given up; and what the couple have stopped negotiating. The last question is the most
+productive, and it is the one the week's case turns on.
+
+### 2.2a The goodness-of-fit grid, filled in
+
+A worked instrument: the temperament interview, the household's demands, and the fit between them, on one page.
+
+**The child.** Three months old, first baby. *Dimensions (parent's report):* high activity; irregular sleep;
+withdraws from new sounds; slow to adapt to a change in routine; low sensory threshold (startles at the door);
+intense reactions (screams, not cries); predominantly negative mood in the evening; hard to distract; persistent.
+
+*The profile.* Difficult or feisty, by the classical typology — and the therapist should say "this describes a
+pattern, not a verdict on your baby" when reporting it.
+
+**The household's demands.** *People:* mother, father, and the father's mother, who has moved in "to help".
+*Rhythm:* the father works a rotating shift, so the household's week changes every seven days. *Noise:* a shared
+compound with four other households and a generator. *Space:* one room for the family. *Support:* the grandmother
+is present but her methods differ from the mother's, and the mother does not feel able to say so. *Sleep:* the
+mother is doing all night feeds because the father "needs to be fresh for work".
+
+**The fit, in four statements.** First, this infant's low threshold is being met by a high-noise environment,
+which produces more crying, which produces more maternal exhaustion. Second, the infant's irregularity is being
+met by a household whose week changes every seven days, and no routine survives. Third, the infant's intensity is
+being read by the mother as rejection ("he hates me by six o'clock"), which is the meaning that matters more than
+the temperament. Fourth, the evening negativity coincides with the grandmother's arrival home, which the mother
+has noticed and not said.
+
+**The intervention, derived from the fit rather than from the child.** Not a sleep programme, not a referral.
+Four changes: a predictable evening hour with the light low and the door closed, negotiated with the
+grandmother; the father taking the six-to-nine period on his rest days, which is a co-parenting act rather than
+a favour; one sentence the mother can say to the grandmother, rehearsed in the session; and a re-description of
+the evening ("he is not rejecting you; by six o'clock he has had a day and he needs less, not more").
+
+**What the grid demonstrates.** That the same infant in a different household would present differently, and that
+the intervention targets the fit. A therapist who treated the temperament as the problem would have produced a
+programme the household could not run; a therapist who treated the household as the problem would have blamed a
+family that is doing a great deal well.
+
+### 2.2b The nine dimensions, with the question that asks each
+
+The dimensions are usually taught as a list. They are more useful as nine questions a therapist can ask a
+parent in fifteen minutes.
+
+| Dimension | The question | Why it matters clinically |
+|---|---|---|
+| Activity | "Is he usually on the move, or does he stay still and watch?" | A high-activity child in a small flat with a tired mother is a fit problem, not a behaviour problem |
+| Regularity | "Does he sleep and feed at the same times each day?" | Irregularity plus a shift-working household produces a fortnightly crisis |
+| Approach/withdrawal | "What does he do with a new food, a new person, a new room?" | Withdrawal is read by parents as rejection or shyness; the useful response differs |
+| Adaptability | "How long does it take him to settle after a change?" | Slow adaptation plus frequent change is a formula for distress |
+| Sensory threshold | "Does he startle at the door, the generator, a raised voice?" | Low threshold is the dimension most often mistaken for "spoiling" |
+| Intensity | "When he is upset, is it a whimper or a scream?" | Intensity determines the household's exhaustion and the parent's sense of competence |
+| Mood | "Is he mostly cheerful, or mostly serious and cross?" | Negative mood in the evening is normal and is read as rejection |
+| Distractibility | "Can you settle him by showing him something else?" | The one dimension that is a resource: a distractible child is easier to soothe |
+| Persistence | "If he wants something, does he give up or keep going?" | Persistence is a strength in a task and a problem in a battle of wills |
+
+**How to use the table.** Not as an assessment instrument with scores, but as a repertoire, so that the parent
+leaves with a description of their child that is specific, neutral and recognisably true. A parent who says "he
+is difficult" can be given nine sentences that are more accurate and less judgemental, and the nine sentences are
+the beginning of the intervention.
+
+**The two dimensions that produce the most relief.** Sensory threshold and intensity. They are the two the
+household experiences most acutely, and the two most often moralised ("he is spoiled", "he is a screamer"). Naming
+them as characteristics rather than choices changes the parent's relationship to the behaviour within one
+conversation.
+
+### 2.3 Postnatal depression: the assessment
+
+The condition is common, consequential and under-detected. A structure for asking about it.
+
+**Who to screen.** Every mother at every perinatal contact, and every father at least once, separately, with the
+baby out of the room and the partner absent. The separate conversation is the instrument; a joint conversation
+will not produce an honest answer from either parent.
+
+**The screening questions.** Two, used as a first filter in a family therapy session (a validated tool is used
+where the service requires one): "In the past two weeks, have you often been bothered by feeling down, depressed
+or hopeless?" and "Have you often been bothered by having little interest or pleasure in doing things?" A yes to
+either is followed by "how much is this affecting your day-to-day life?" and, where the answer is substantial, by a
+validated measure and a referral.
+
+**The three questions that reveal the relational picture.** "Who knows how you are feeling?" "What happens in the
+house when you have a bad day?" "What does your partner do when you cry?" The answers describe the support
+available, the household's capacity to accommodate distress, and the couple's pattern — which is where the family
+therapy begins.
+
+**The paternal screen.** "How are you sleeping?" "What do you do when you feel low?" "Who would you tell?" Fathers
+rarely use the word depression; the observable signs are irritability, working longer hours, drinking more, and a
+withdrawal from the baby's care.
+
+**The risk questions.** Thoughts of harm to self or the baby are asked directly, of both parents, and the answer
+is recorded and acted on. A therapist who does not ask because asking feels intrusive has misunderstood the duty.
+
+**The differential.** Not every exhausted mother is depressed. Sleep deprivation, thyroid disease, anaemia,
+grief, an unsupportive partner, a violent household and a baby's illness all produce the same presentation, and
+the family therapist's task is to screen, to refer where the picture is clinical, and to work on the relational
+and practical conditions in parallel.
+
+**The boundaries of the family therapist's role.** Treating postnatal depression is a clinical task that requires
+a clinical service; the family therapist's contribution is the couple's alliance, the household's reorganisation,
+the father's inclusion, and the practical support. Saying that clearly at the start prevents the two most common
+failures: a family therapist attempting to treat a depression alone, and a clinical service treating a depression
+in a household that is falling apart.
+
+### 2.3a The couple's reorganisation, drawn on one page
+
+The instrument the week's case turns on, and the one a couple can complete in fifteen minutes.
+
+**The seven domains, with the question for each.** *Time:* what do you do together now that you did before?
+*Sleep:* who gets up, how often, and what happens the next day? *Money:* who earns, who decides, and what has
+changed? *Labour:* list everything that has to happen in a week and who does it. *Sexuality:* what has happened to
+it, and who has said what about it? *Grandparents:* who is in the house or in the decisions, and how was that
+decided? *Identity:* who are you now that you were not before, and what have you lost?
+
+**The drawing.** A circle with the seven domains around it, and in the middle the couple's answer to one
+question: "what have you stopped negotiating?" The answers are usually specific and painful: "who gets a night
+off"; "whether your mother stays"; "whether I go back to work"; "whether we have another".
+
+**Why the drawing works.** It converts a diffuse complaint ("we have no time") into seven specific negotiations,
+of which usually two are live and five are being avoided. The live ones are the therapy's agenda, and the avoided
+ones are the reason the live ones cannot be settled.
+
+**The grandmother question, which is the week's case.** When a grandparent moves in to help, the couple's
+negotiation is displaced: the decisions that were theirs are now made in a triangle, and each partner's
+relationship with the grandparent becomes a route to influence. The clinical questions are: who invited her; who
+can ask her to leave; what does each partner gain from her presence; and what did the couple stop deciding when
+she arrived? The last question is usually answered with a silence, and the silence is the finding, and the therapist's next sentence should be the one that makes it speakable: "I am not asking you to blame anyone. I am asking what the two of you stopped deciding."
+
+**The intervention, in one sentence.** "Before we talk about time for each other, I want to know what the two of
+you stopped deciding when your mother moved in, because that is where the time went."
+
+### 2.4 The first session with a couple four months after a birth
+
+The commonest perinatal presentation, worked through, with the developmental frame used first and the systemic
+question second.
+
+**The presentation.** Aisha (31) and Sam (34), married four years, one baby of four months. Aisha's complaint:
+"we have no time for each other and he does not help." Sam's complaint: "she is never happy with anything I do."
+Both are exhausted. The baby is present and is being passed between them.
+
+**Phase one — the normalisation (ten minutes), done carefully.** "What you are describing is the commonest thing
+I see in the first year, and I want to say why before we go further. At four months, neither of you has slept
+properly since the birth, you are both doing a job you have never done before, and the negotiations you used to
+have — who does what, when — are being made at two in the morning with a baby crying. That is not a failing
+marriage. It is the stage."
+
+*Why this is not a dismissal.* The normalisation is followed immediately by the second sentence: "and it is also
+the point at which couples get into patterns that last for years, so it is worth working on now."
+
+**Phase two — the seven domains (twenty minutes).** The reorganisation drawn on one page. Time: none together.
+Sleep: Aisha does every night feed. Money: Sam has taken a second job, so he is home less. Labour: Aisha does
+everything in the house and Sam does the shopping. Sexuality: untouched since the birth, and neither has raised
+it. Grandparents: Sam's mother stays four nights a week "to help". Identity: Aisha has stopped working and says
+she "does not know who she is"; Sam says he is "the one who is never there".
+
+**Phase three — the question (ten minutes).** "What did the two of you stop deciding when your mother started
+staying four nights a week?" Silence. Then Aisha: "everything. She decides the bath, she decides the feeding, and
+I cannot say anything because she is helping us." Sam: "I did not know you minded."
+
+*The finding.* The couple's negotiation has been displaced into a triangle with the grandmother, and neither has
+said so. The "no time for each other" is a symptom of a negotiation that has stopped.
+
+**Phase four — a small, systemic task (ten minutes).** Not a date night, which the couple cannot arrange and
+which would fail. Two tasks: the couple decide, together, one thing that is theirs rather than the grandmother's
+— the baby's bath, three nights a week — and one of them tells her, in a sentence rehearsed in the room. And Sam
+takes one night feed at the weekend.
+
+**Phase five — the frame (five minutes).** Four sessions, with a review at the fourth; the paternal screen
+completed separately; a question about Aisha's mood and a referral route if the screen is positive; and the
+sentence to take away: "the problem is not that you have no time; it is that you have stopped deciding, and that
+is fixable."
+
+**What the therapist did not do.** Did not take a full developmental history of the baby, which was not the
+presentation; did not adjudicate whether the grandmother should stay; did not suggest a date night; and did not
+treat the couple's complaint as trivial because it is common.
+
+### 2.4a The first year, month by month: what a family therapist watches for
+
+A timeline of the relational tasks of the first year, with the presentations that bring families to a clinic.
+
+**Months 0–1: establishment.** The task is the establishment of feeding, sleep and a caregiving rhythm, in a
+household that has just changed shape. *Presentations:* feeding difficulty; a mother who cannot settle; a father
+who feels excluded; an uninvited relative who has taken over. *The family therapist's move:* the household's
+arrangement, drawn, and the question of who decided.
+
+**Months 1–3: the fourth trimester.** The task is the parents' survival and the infant's regulation. *Presentations:*
+exhaustion presented as a relationship problem; the first arguments about nights; a mother's low mood that nobody
+has screened. *The family therapist's move:* the screen, the seven domains, and the normalisation that does not
+dismiss.
+
+**Months 3–6: the first negotiation.** The task is the couple's re-negotiation of time, sleep and labour, and the
+infant's entry into social exchange — smiling, vocalising, the first games. *Presentations:* "we have no time";
+the grandmother's methods; the father's withdrawal into work; the mother's return to work or refusal to return.
+*The family therapist's move:* the reorganisation drawing and the stopped-negotiation question.
+
+**Months 6–9: separation and mobility.** The task is the beginning of separateness — weaning, crawling, the first
+"no", the first night away — and the parents' tolerance of the child's independence. *Presentations:* anxiety at
+separation presented as the child's problem; a parent who cannot leave; feeding battles; sleep battles. *The
+family therapist's move:* the graded separation plan, and the question of whose anxiety is in the room.
+
+**Months 9–12: the first year's reckoning.** The task is the consolidation of attachment and the couple's
+assessment of their own first year. *Presentations:* a couple who have not had a conversation since the birth; a
+second pregnancy already underway; a decision about work that is being made in a state of exhaustion. *The family
+therapist's move:* the review, the seven domains again, and the preparation for the second year's tasks.
+
+**What the timeline is for.** It gives the therapist a developmental hypothesis for any presentation in the first
+year, and it protects against the commonest error in perinatal work: treating a stage-specific difficulty as a
+relationship defect. A couple arguing about nights at month two are doing what couples do at month two, and the therapist's task is to help them do it once, well, rather than to diagnose the marriage.
+
+### 2.5 Case: the prematurity that reorganised a family
+
+A different perinatal presentation, in which the medical beginning has relational consequences.
+
+**The family.** The Baloguns. A baby born at 29 weeks, now eight months old (five months corrected). The mother,
+Halima (27), gave up her job during the neonatal stay. The father, Yusuf (31), works away and was present for
+two weeks after the birth. The referral is from the paediatric clinic: "mother anxious, over-attends, does not
+leave the baby with anyone."
+
+**The developmental picture.** The baby is thriving. She is small for her corrected age, feeding well, and
+meeting milestones on the corrected schedule. The paediatrician has no concern about the baby.
+
+**The relational picture.** Halima has not been apart from the baby for more than forty minutes in eight months.
+She checks the breathing three or four times a night. She has not returned to work and says she cannot. Yusuf
+says she has "changed" and that the house is "a hospital now". Halima's mother comes daily and is the only person
+Halima allows to hold the baby.
+
+**The developmental formulation.** This is not a maternal disorder; it is the predictable consequence of a
+medical beginning. Halima's relationship with her daughter began in an incubator, mediated by machines and staff,
+with a nurse telling her when she could touch her. Her monitoring is the behaviour of a mother who learned that
+her baby could die while she was not looking, and whose competence was, for eleven weeks, subordinate to a
+monitor.
+
+**The task, named for the parents.** "Your job in the first months was to keep her alive, and you did it. Your job
+now is a different one: to let her become a person who can be looked after by other people, and that means
+practising being apart, in small amounts, with people you trust." The naming is the intervention's foundation,
+because it credits the monitoring before it asks for change.
+
+**The plan.** A graded separation: forty minutes with the grandmother, twice a week, for two weeks; then two
+hours; then an afternoon. A breathing monitor used deliberately for two weeks and then removed, with the
+paediatrician's agreement, because the monitor is the mechanism of the monitoring. Yusuf given one responsibility
+that is his alone — the bath on the days he is home — so that he enters the care rather than commentating on it.
+And a conversation with Halima about her own loss: her job, her confidence, and the eleven weeks she spent
+watching a machine.
+
+**The outcome at four months.** Halima returned to part-time work. The monitoring reduced. The couple's argument
+changed from "you have changed" to "we are both still frightened", which is a more workable disagreement.
+
+**What the case teaches.** That a medical beginning is a developmental event for the parents, that the parents'
+behaviour is often the residue of competent adaptation to an emergency, and that the intervention's first move is
+to credit the adaptation before asking for its revision.
+
+### 2.5a The couple who came at the right time, and the couple who came at the wrong time
+
+Two brief cases, because the timing of a referral in the perinatal period determines the work.
+
+**The right time.** A couple, five months after a first baby, both sleeping badly, the arguments frequent but
+contained, and no violence. The referral comes from the health visitor, who has noticed that the mother's mood is
+low and the father has stopped attending. The work is exactly this week's material: the screen, the seven
+domains, the stopped negotiation, and six sessions of reorganisation. The prognosis is good because the couple
+still have a shared project — the baby — and the conflict has not yet become the relationship's subject.
+
+**The wrong time.** A couple, three weeks after a birth by emergency caesarean, referred by a relative for "not
+getting on". The mother is in pain and not sleeping; the baby is feeding hourly; the father has taken two days
+off work and is back on shift; and the referral is a relative's worry, not the couple's. Here the therapy is
+premature: the couple do not have a request, they have a crisis, and a session that asks them to renegotiate their
+relationship in week three of a newborn's life will produce compliance and no change.
+
+**What the family therapist does at the wrong time.** Three things, all short. Names the stage: "you are in the
+hardest month, and nothing you are feeling is a verdict on your marriage." Screens both parents. And offers a
+single practical action that reduces the load — one night feed taken by the father, one visit postponed, one
+relative asked to come on a specific day rather than every day. Then a review in six weeks, when the couple can
+make a request of their own.
+
+**The principle.** In perinatal work, the first question is not "what is the problem?" but "is this the point at
+which the family can work on the problem?" A family in the first six weeks of a first baby is usually in the
+second category, and the clinician who cannot wait will treat a stage as a pathology.
+
+### 2.6 Annotated transcript: the temperament interview
+
+Twelve turns from the temperament interview with Aisha, conducted in the first session of 2.4. The transcript
+shows how a developmental instrument becomes a therapeutic conversation.
+
+> **T1 Therapist:** I want to ask about the baby's style, not about what he does wrong. Is he usually busy or
+> still?
+
+> **T2 Aisha:** Busy. From the moment he wakes up.
+
+> **T3 Therapist:** And is his day predictable — does he sleep at the same times?
+
+> **T4 Aisha:** Never. My mother says I should put him on a schedule. I have tried.
+
+> **T5 Therapist:** What happens when you try?
+
+> **T6 Aisha:** He screams. And then she says I am not consistent.
+
+> **T7 Therapist:** (pause) So the schedule is not working, and the person who suggests it is in the house.
+
+> **T8 Aisha:** (cries) Yes.
+
+> **T9 Therapist:** Let me say something about him first. Some babies are regular and some are not, and your son
+> is at the irregular end. That is not a fault and it is not your fault. What it means is that a fixed schedule
+> will cost you more than it costs a mother with a regular baby.
+
+> **T10 Aisha:** So it is not me.
+
+> **T11 Therapist:** It is not you. And there is a second thing: how does he react when there is noise — the
+> generator, the door?
+
+> **T12 Aisha:** He jumps. He cries at the door. My mother says he is spoiled.
+
+**Annotations.** *T1* reframes the interview as being about style rather than fault, which is the single most
+important move in a temperament conversation. Parents arrive expecting to be assessed; the therapist asks them to
+describe.
+
+*T2–T4* are the dimensions, in ordinary language: activity, regularity. *T4* introduces the grandmother without
+the therapist asking, which is the systemic material appearing inside a developmental instrument — a common and
+useful occurrence.
+
+*T5–T8* is the therapist following the grandmother rather than the schedule, and *T7*'s summary — "the schedule is
+not working, and the person who suggests it is in the house" — is the pivot. It is neutral about the grandmother
+and precise about the situation, and it produces the tears.
+
+*T9* is the psychoeducation, delivered after the family's account rather than before, and it is specific: not "all
+babies are different" but "a fixed schedule will cost you more than it costs a mother with a regular baby". The
+specificity is what makes it usable.
+
+*T10* is the sentence the whole technique is for, and the therapist's answer at *T11* is deliberately short and
+then moves on, because the point has been made and dwelling on it would make the therapist the source of the
+mother's relief.
+
+*T11–T12* adds the sensory dimension and produces the grandmother's second verdict ("he is spoiled"), which is
+the material for the next stage: a conversation about what the grandmother believes, and what the mother is
+allowed to say.
+
+**What the trainee should notice.** The instrument produced three findings in twelve turns: an irregular,
+sensitive baby; a grandmother whose methods contradict the mother's; and a mother who has been holding a verdict
+about herself. The thermometer produced the diagnosis; the tape measure produced the household.
+
+### 2.6a The prematurity case, continued: what the parents needed that the clinic did not offer
+
+A short section on the gap between the paediatric follow-up and the family's experience.
+
+**What the clinic provided, and well.** Growth monitoring, developmental review at corrected age, hearing and
+vision checks, and a named nurse. The paediatric follow-up was, by any standard, good.
+
+**What the clinic did not provide.** Any conversation about what the eleven weeks in the neonatal unit had done
+to the parents. Halima had never told anyone what it was like; Yusuf had been away for most of it; and both
+carried a version of the experience that the other did not know. The referral had described the mother as
+anxious, which is a description of her behaviour and not of her experience.
+
+**The question that opened it.** "Tell me about the day she was born." Not "how are you coping" — which invites a
+report — but "tell me about the day", which invites a story. Halima described being wheeled away from her baby,
+being told to rest, and being brought a photograph. She had kept the photograph in her bag for eight months. She
+had never told her husband what the photograph had meant.
+
+**What followed.** Yusuf said, for the first time, that he had been told to go back to work and had gone, and that
+he had not known how to say that he wanted to stay. The couple's argument about "you have changed" became, over
+three sessions, an argument about a separation neither had chosen and neither had discussed.
+
+**What the family therapist contributed that the paediatric clinic could not.** The clinic had the baby's
+history; the therapist had the parents'. The two histories were of the same event, and the second had never been
+taken.
+
+**The lesson for the course.** A medical beginning is a family event, and the family's version of it is part of
+the developmental history. The practitioner who asks only about the baby's milestones will not hear it, and the
+parents will continue to organise their relationship around a story that has never been spoken.
+
+### 2.7 Laboratory: the temperament interview and the reorganisation
+
+Sixty minutes, in pairs.
+
+**Part one — the temperament interview (twenty-five minutes).** Ten minutes interviewing a peer as a parent,
+using the nine dimensions in ordinary language. The observer records which dimensions were covered, whether the
+therapist named a profile, and whether the naming was presented as a description or a verdict.
+
+**Part two — the reorganisation (twenty-five minutes).** The same pair completes the seven-domain drawing for a
+family they know or have observed. The observer checks that all seven were covered and that the final question
+("what have you stopped negotiating?") was asked.
+
+**Part three — the sentence (ten minutes).** Each student writes the normalising sentence and the following
+sentence, for the couple in 2.4. The group judges whether the pair of sentences both normalises and takes the
+problem seriously.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Temperament interview | 25% | All nine dimensions covered in ordinary language; profile named as description |
+| Goodness of fit | 20% | Fit named in terms of the household's demands, not the child's deficits |
+| Reorganisation | 25% | Seven domains drawn; the stopped negotiation identified |
+| Normalisation | 15% | Normalises the stage without dismissing the risk |
+| Paternal screen | 15% | Father screened separately, with the three questions, and recorded |
+
+**The debrief question.** "Which domain did you skip, and why?" Trainees skip sexuality and money, in that order,
+and the discussion of why is the week's most useful ten minutes.
+
+### 2.7a The screening conversation, rehearsed
+
+A short script for the separate conversation with each parent, which is the instrument the week depends on.
+
+**The frame.** "I always speak to each parent on their own for a few minutes, because people say different things
+when their partner is not in the room. Nothing you tell me will be repeated without your agreement, except if I
+am worried about anyone's safety."
+
+**The questions, in order.** "How are you sleeping?" "How are you eating?" "How is your mood — not the baby's,
+yours?" "In the past two weeks, have you often felt down, depressed or hopeless?" "Have you often had little
+interest or pleasure in things?" "Who knows how you are feeling?" "What do you do when it gets bad?" "Is there
+anything you have thought about that frightened you?"
+
+**The follow-up that matters.** Whatever the answer, the response is the same shape: take it seriously, name it,
+and say what happens next. "That sounds like more than tiredness, and it is common — about one mother in five.
+I would like you to speak to the clinic this week, and I will keep working with you both on the household side.
+Would you like me to write the referral now?"
+
+**The father's version.** The same questions, with two additions: "how much are you working at the moment,
+compared with before the baby?" and "what do you do when you cannot say how you feel?" The answers — longer hours,
+drinking, silence, anger — are the paternal presentation, and naming it as a presentation rather than a character
+flaw is often the first relief the father has had.
+
+**What the family therapist does with a positive screen.** Refers, keeps the case, and works the relational and
+practical side: the couple's alliance, the household's reorganisation, the father's inclusion, and the practical
+support. The two roles are not in competition, and saying so to the family prevents the most common confusion in
+perinatal work: that the therapy is either about the depression or about the marriage, when it is about both.
+
+### 2.8 Six errors in perinatal work
+
+1. **The dismissal by normalisation.** "Every couple feels like this" offered as the whole response, which
+   leaves the family with nothing to do and their distress unheard. Fix: normalise and then take the problem
+   seriously, in two sentences, the second of which is specific to this family rather than to families in general.
+2. **The missed depression.** A mother's exhaustion attributed to the baby, and the paternal presentation missed
+   entirely. Fix: the two screening questions, of both parents, separately.
+3. **The practical prescription.** Date nights, chore charts and sleep programmes offered before the
+   household's negotiation has been understood. Fix: the seven domains first, the prescription from the
+   couple's own answers.
+4. **The grandmother as a problem.** The helper identified as an obstacle, which puts the therapist on one
+   side of a triangle. Fix: ask who invited her, what each partner gains, and what the couple stopped deciding.
+5. **The decontextualised baby.** An assessment of milestones in a clinic, for a family in a crisis. Fix: the
+   household as the unit, and the milestones read against the household's demands.
+6. **The therapist's own developmental curriculum.** Advice that reproduces the therapist's own parenting
+   practices — co-sleeping, sleep training, feeding — offered as developmental science. Fix: name the evidence,
+   name its limits, and let the family decide.
+
+### 2.9 Culture, faith and the perinatal period
+
+**Where the week's material travels well.** The central claims — that the birth is a developmental event for
+parents, that the couple must renegotiate, that the co-parenting alliance predicts outcomes, that goodness of
+fit matters more than temperament — are supported across cultures and are useful everywhere. The screening for
+perinatal depression is a universal good, provided the questions are asked in a form the family can answer.
+
+**Where it strains, four ways.**
+
+*The private couple.* The reorganisation model assumes a household in which the couple negotiate privately.
+Where a grandmother, an aunt or an elder governs the household's arrangements, the couple's negotiation is not
+private and may not be theirs. The seven domains are still the right instrument, and the answer to "what have you
+stopped negotiating?" is frequently "everything, when she arrived".
+
+*The fourth trimester as a period of rest.* Some cultures prescribe a lying-in period of forty days, with the
+mother relieved of work and fed specially; others expect her back at the stall within a week. The practitioner
+should know which, because the clinical advice about rest, visitors and workload depends on it, and because a
+mother who returns to work on day ten against her own wishes is presenting a different problem from one who
+cannot leave the house.
+
+*The meaning of a difficult birth.* In some families a difficult birth carries a moral or spiritual meaning — a
+punishment, a test, a sign. The practitioner neither endorses nor contests the meaning, and asks what the family
+have concluded and what they have done about it, which is the same discipline as Week 1's.
+
+*The feeding question.* Infant feeding is the most reliably contentious topic in perinatal work, and the
+evidence is more nuanced than the argument. The practitioner's obligation is to state the evidence plainly, in
+both directions, to support the mother's decision, and not to conduct the argument in the session.
+
+**Faith and the perinatal period.** Prayer, naming ceremonies, dedication, circumcision and blessing are
+developmental events in the family's terms, and they mark the child's entry into the community. The practitioner
+should ask about them: what will happen, when, who decides, and what it means. The question is not decorative; it
+frequently reveals the household's real authority structure, which is the week's central clinical question.
+
+**The examinable sentence.** "The birth is a developmental event for the parents, and the household's
+reorganisation is the unit of assessment; culture determines what the reorganisation requires, and the
+practitioner's task is to ask rather than to prescribe."
+
+> **DEBATE** — "Perinatal services should screen every father, separately, as a matter of routine." Argue both
+> sides, and say what the service gains and loses.
+
+### 2.10 Evidence note: what is well established and what is not
+
+**Well established.** The association between perinatal depression and adverse relational and child outcomes;
+the effectiveness of screening and of treatment; the association between the co-parenting alliance and child
+outcomes; the normative dip in relationship satisfaction after a birth; the heritability and stability of
+temperament dimensions, with stability increasing with age; and the finding that goodness of fit predicts
+outcome better than temperament alone.
+
+**Moderately established.** The relational mechanism of perinatal depression — that the depression affects the
+infant through the interaction, not only through genetics; the effectiveness of couple-based interventions in the
+perinatal period for relationship satisfaction; and the association between preterm birth and parenting
+behaviours such as over-protectiveness, with the caveat that most preterm children do well.
+
+**Contested.** The size of the effect of maternal stress in pregnancy on later child outcomes; the clinical
+utility of the three temperament profiles as against the dimensions; whether temperament-based parenting advice
+improves outcomes; and the direction of the association between marital satisfaction and child behaviour, which
+is bidirectional and hard to disentangle.
+
+**What the practitioner may claim.** "Perinatal depression is common, consequential and treatable, and screening
+is part of my duty; the couple's alliance matters for the child; and the household's reorganisation, not the
+baby's milestones, is where I work." Each of those is defensible, and none requires an overstatement.
+
+### 2.11 Key terms
+
+| Term | Definition |
+|---|---|
+| Fourth trimester | The first three months, when the infant is neurologically immature and the parents are reorganising |
+| Prematurity | Birth before 37 weeks; a medical beginning with relational consequences |
+| Corrected age | Age adjusted for prematurity, used for developmental expectations |
+| Postnatal depression | Depression in the perinatal period, affecting about one mother in five and a substantial minority of fathers |
+| Paternal postnatal depression | The father's version: irritability, withdrawal, alcohol, refusal of the label |
+| Temperament | Constitutionally based behavioural style, described on nine dimensions |
+| Goodness of fit | The match between the child's characteristics and the environment's demands |
+| Co-parenting alliance | The couple's capacity to coordinate as parents and keep the child out of their conflicts |
+| Reorganisation | The seven-domain renegotiation required by a first child |
+| Displaced negotiation | Decisions that have moved from the couple into a triangle with a grandparent or elder |
+| Lying-in period | A culturally prescribed period of rest and seclusion after birth |
+| Corrected milestone | A milestone judged against corrected rather than chronological age |
+
+### 2.12 Self-test
+
+1. What is the fourth trimester, and what makes it clinically useful as a concept?
+2. Name four relational consequences of a premature birth.
+3. Give the two screening questions for depression, and the three questions that reveal the relational picture.
+4. What is goodness of fit, and how does it change the intervention?
+5. Name the seven domains a couple must renegotiate, and the question that identifies the stopped negotiation.
+6. Why does the co-parenting alliance predict child outcomes better than marital satisfaction?
+7. How does the practitioner handle a grandmother whose methods contradict the mother's?
+8. What does the evidence support, and what remains contested?
+
+**Answers.** 1. The first three months, when the infant is neurologically immature and totally dependent while
+the parents undergo physiological and emotional reorganisation; it converts a set of complaints into a stage
+with a name. 2. Any four: anxiety and hypervigilance; reduced confidence in reading the infant; a first
+relationship mediated by machines and staff; delayed physical contact; grief for the expected birth; a longer
+period before the parents feel entitled to their own judgement. 3. "In the past two weeks, have you often been
+bothered by feeling down, depressed or hopeless?" and "…by having little interest or pleasure in doing things?" —
+then "who knows how you are feeling?", "what happens in the house when you have a bad day?", "what does your
+partner do when you cry?" 4. The match between the child's characteristics and the environment's demands; it
+moves the intervention from the child's temperament to the household's rhythm, which is a systemic move. 5. Time,
+sleep, money, division of labour, sexuality, grandparents, identity; the question is "what have you stopped
+negotiating?" 6. Because the child's experience is mediated by the parents' coordination — being able to rely on
+each parent without being recruited into their conflict — which is a different variable from the couple's
+satisfaction. 7. Ask who invited her, what each partner gains, what she decides, and what the couple stopped
+deciding; then rehearse one sentence the mother can say, and never put the therapist in the triangle. 8. Support
+for screening and treatment of perinatal depression, the co-parenting alliance, the normative dip in satisfaction,
+and temperament's heritability; contested are the size of prenatal stress effects, the utility of the three
+profiles, and the causal direction between marital and child variables.
+
+### 2.13 Reflective task
+
+Ask the person who raised you one question: "what was I like as a baby?" Write down the answer verbatim, and
+then write three sentences on what you notice about the answer — what is described, what is remembered, and who
+the answer is really about. Bring it to the seminar. The exercise connects this week's temperament material to
+your own developmental history, and it usually produces the insight that a parent's description of a baby is also
+a description of a relationship.
+
+### 2.14 Readings for this week
+
+* **Thomas & Chess (1977)**, *Temperament and Development*, the original typology, read for the dimensions rather
+  than the profiles.
+* **Brazelton & Cramer (1990)**, *The Earliest Relationship*, for the clinical account of the fourth trimester.
+* **Stern (1995)**, *The Motherhood Constellation*, for the identity transition in its richest form.
+* **Cowan & Cowan (2000)**, *When Partners Become Parents*, the longitudinal study of the reorganisation, and the
+  source for many of this week's claims.
+* **Feinberg (2003)**, on co-parenting, for the mechanism that predicts child outcomes.
+* **O'Hara & Wisner (2014)**, on perinatal mental health, for the clinical picture and the screening evidence.
+
+Read Cowan and Cowan first and the clinical texts second; the longitudinal study will make the normalisation
+credible, which is the hardest thing to achieve in the room. For the case analysis, use one source that
+complicates the temperament advice, and say so when you discuss goodness of fit. The reading-log question this
+week is: "what did becoming (or not becoming) a parent teach me that no book could?"
+
+*Next: [Week 3 — Infancy: attachment, synchrony and regulation](#week-3--infancy-attachment-synchrony-and-regulation)*
+
 ---
 
 ## Week 3 — Infancy: attachment, synchrony and regulation
