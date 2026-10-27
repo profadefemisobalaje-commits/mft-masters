@@ -2917,42 +2917,1381 @@ week is: "whose rules was I raised by, and how do they appear in my clinical adv
 
 ## Week 5 — Early childhood: play, theory of mind, initiative
 
-**Tasks.** Initiative versus guilt; fantasy play; theory of mind (understanding that others have different
-beliefs — typically emerging around 4); moral development begins as *consequence-based* reasoning;
-school readiness.
+**Developmental tasks.** Initiative versus guilt (Erikson, roughly three to six); the flowering of
+pretend play; theory of mind (the understanding that another person can hold a belief that is
+different from the truth, typically consolidating between four and five); moral reasoning that begins
+as *consequence-based* and slowly becomes intention-based; and school readiness, which is less about
+letters than about the capacity to hold a plan, wait, and recover from frustration.
 
 **Play is the work.** Play develops language, self-regulation, perspective-taking, and the capacity to
-tolerate frustration. Children who have experienced adversity often play *less* symbolically and more
-repetitively — a clinical observation that underpins play therapy (MFT 727).
+tolerate frustration. It is also the child's first research method: a child who pretends is running
+experiments on what other minds contain. Children who have experienced adversity often play *less*
+symbolically and more repetitively — a clinical observation that underpins play therapy (MFT 727) and
+that a family therapist must be able to read, because the playroom is often the first place a
+four-year-old tells the truth.
 
 **The clinical skill: observing play without hijacking it.** Describe what the child does; do not direct
-it, and do not interpret it prematurely ("that must be your father"). Interpretation before trust produces
-a performance, not a communication.
+it, and do not interpret it prematurely ("that must be your father"). Interpretation before trust
+produces a performance, not a communication. The therapist who says "I wonder if the lion is angry
+because someone left" has stopped watching and started theorising, and the child will now either agree
+with the adult or leave.
 
-> **PRACTICAL** — Ten minutes of child-led play with a volunteer child or peer. Your only tools: describe,
-> reflect, imitate, and set one limit. Debrief: how many times did you ask a question? (Aim for fewer
-> than three.)
+**Why this week sits in a family therapy course.** The referring complaint is almost never about play.
+It is "he is aggressive at school", "she will not separate from her mother", "he does not listen to
+anyone", "she has started lying". Each of those is a developmental question wearing a behavioural
+costume, and the assessment that answers it is the same one: what can this child do in play, and who
+is in the room when she does it?
+
+> **CASE** — A mother brings her four-year-old because the nursery reports that she "plays the same
+> thing every day" and "does not join the others". The mother has recently returned to full-time work
+> after a year at home, and the child's grandmother has moved in. Assessment finds: the child's play is
+> rich but narrow, restricted to one script about a mother leaving and returning; her theory-of-mind
+> performance is age-appropriate; her language is above age; and she separates from her mother without
+> distress but does not greet her on reunion. The problem is not the child's development. It is the
+> family's story about the separation, which the child has been asked to carry alone.
+
+### 5.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | The fourth year | What changes between three and six, and why the presenting complaint is never about play | List the complaints that brought children to their last placement |
+| 10–22 | Initiative versus guilt | Erikson's pair; the difference between a child who starts things and one who asks permission | Rewrite four adult sentences that produce guilt |
+| 22–38 | Play as development | The six levels of play, from sensorimotor to cooperative drama | Code ninety seconds of video against the six levels |
+| 38–52 | Theory of mind | The false-belief task, demonstrated live, with a volunteer | Predict a four-year-old's answer and explain the error |
+| 52–64 | Moral reasoning | Consequence-based to intention-based; the broken-cup stories | Interview a child about a small transgression and code the reasoning |
+| 64–76 | Observing without hijacking | The four skills, demonstrated with a puppet, then with a volunteer | Practise ten minutes of child-led play; count their own questions |
+| 76–86 | Reading the play | Repetition, constriction, and the differential between adversity, autism, and ordinary development | Write one paragraph on what the play does *not* show |
+| 86–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Play is the part of this week that students most want
+to *do*, and the part they most often do badly, because doing it well means doing very little. The
+lecture therefore has to make boredom respectable. A therapist who can sit through ten minutes of a
+child putting the same bear in the same box and say only "the bear is in the box" has acquired a
+clinical skill that takes longer to learn than any technique in this book. The demonstration should
+include the lecturer failing — asking a question, making a suggestion — and then naming the impulse
+that produced it.
+
+**The sentence the lecture must land.** "A child's play is not a message to be decoded by the adult; it
+is a conversation the child is having with herself, and your job is to be a good listener rather than a
+clever one."
+
+### 5.2 Five concepts that organise the week
+
+**1. Initiative versus guilt.** Erikson's third stage. The child now has a body that can do things, a
+language that can propose things, and a will that can insist on things. The developmental gain is the
+capacity to *start* — a game, a plan, a joke, an argument. The developmental risk is guilt: the
+conviction that wanting to start something is itself a fault. The family's contribution is decisive
+and it is made in small sentences. "Not now" repeated a hundred times produces a child who stops
+proposing. "Tell me your plan and we will see" produces a child who proposes.
+
+The clinical translation is precise: when a five-year-old cannot initiate, the assessment is not only
+of the child but of the *last two years of responses to initiation*. Ask the parents what happens when
+the child asks for something. The answer is usually a rule about the household's exhaustion rather than
+about the child.
+
+**2. Pretend play as the engine of self-regulation.** In pretend play the child holds two things in
+mind at once — the real situation and the imagined one — and this dual representation is the same
+capacity that later allows a child to hold a rule in mind while being provoked. Vygotsky's observation
+that play is "the leading source of development" rests on this. The implication for assessment is that
+the *quality* of a child's pretend play predicts school adjustment better than the child's vocabulary.
+
+**3. Theory of mind.** Between roughly three and five the child moves from a "copy" theory of mind
+(everyone sees what I see, knows what I know) to a representational one (people act on their beliefs,
+and beliefs can be false). This is measured by the false-belief task, and it is the developmental
+foundation of every clinical skill the child will ever need: empathy, deception, tact, negotiation, and
+the understanding that a parent can be angry and loving at once.
+
+**4. Moral reasoning begins as consequence-based.** Piaget's paired stories: a child who breaks one cup
+while helping versus a child who breaks fifteen while stealing jam. Children under about seven judge
+the first child as naughtier, because the outcome is larger. They are not being immoral; they are
+reasoning with the only tool they have. The clinical consequence: do not ask a five-year-old "was that
+kind?", ask "what happened next?" The first question is beyond the stage; the second builds the stage.
+
+**5. School readiness is regulation, not letters.** The strongest predictors of a good first year are
+the capacity to follow a two-step instruction, to wait, to recover from a small frustration, and to
+seek help from an adult. A child who arrives at school able to do those four things will learn to read.
+A child who arrives knowing the alphabet but not able to wait will not. For the family therapist this
+reframes the "school readiness" conversation from coaching to structure: bedtime, breakfast, a predictable
+goodbye, and an adult who is reliably there at the gate.
+
+### 5.2a Theory of mind: five tasks and what failure means clinically
+
+Theory of mind is not a single achievement. It is a set of understandings that appear in a rough order,
+and knowing which one a child has tells the therapist what kind of conversation is possible with her.
+
+**Task 1 — Desire (18–24 months).** Two bowls, one with biscuits, one with broccoli. The adult says she
+wants the broccoli and asks for the bowl. The child who hands over the broccoli has understood that the
+adult's desire differs from her own. Failure here is not yet diagnostic of anything except age.
+
+**Task 2 — Visual perspective (2–3 years).** A card with a cat on one side and a dog on the other, held
+between two people. "What do you see?" "What do I see?" The child who answers "a cat" to both has not
+yet grasped that seeing is situated. This is the basis of the clinician's later ability to notice that
+two family members are describing the same event from different positions.
+
+**Task 3 — False belief (4–5 years).** The classic: a doll puts chocolate in a cupboard and leaves; a
+second doll moves it. "Where will the first doll look?" The child who says "in the new place" has
+answered from her own knowledge. This is the task that most reliably indexes the shift.
+
+**Task 4 — Appearance versus reality (4–5 years).** A sponge painted to look like a rock. "What does it
+look like? What is it really?" The child who cannot hold both at once will also struggle with the
+clinical insight that a family looks one way and is another.
+
+**Task 5 — Second-order belief (6–8 years).** "She thinks that he thinks…" This is the machinery of
+social strategy, and its arrival is why middle childhood is the age of secrets, clubs, and exclusion.
+
+**What failure means, clinically.** A child who fails the false-belief task at four is unremarkable. The
+same child at six, with good language, is a reason to look further — and the look is a developmental
+assessment, not a diagnosis from the therapy room. Three cautions.
+
+- **Language.** Every one of these tasks is delivered in language. A child with a language delay will
+  fail tasks she may understand. Test in the child's stronger language, and if the therapist cannot,
+  bring an interpreter rather than a simplified script.
+- **Culture.** The tasks assume a particular conversational convention — that an adult asking a
+  question to which they know the answer is testing, not conversing. Children who have been taught that
+  it is rude to contradict an adult may answer "the cupboard" because the adult is looking at it.
+- **Trauma and vigilance.** A child who has had to track a volatile adult's mood may outperform on
+  second-order tasks and underperform on first-order ones, because vigilance trains attention to
+  intention rather than to belief. This is not a deficit; it is an adaptation that costs something
+  elsewhere.
+
+**The clinical use of the tasks.** Not to score the child, but to calibrate the session. A four-year-old
+who fails false belief cannot be asked to "think how your mother felt". She can be asked to "show me
+with the dolls". The therapist who knows where the child is on this ladder stops asking questions the
+child cannot answer, which is the commonest way well-meaning adults make small children feel stupid.
+
+### 5.2b Six levels of play and what each one tells you
+
+Play has a developmental ladder, and each rung is a piece of assessment data. The ladder below is
+adapted from the classic social-participation scheme, with the clinical read added, because the read is
+what a therapist needs.
+
+| Level | What it looks like | Age it is typical | What it tells the clinician |
+|---|---|---|---|
+| 1. Sensorimotor / practice | Repetitive movement: banging, filling, pouring, spinning | 0–18 months | Still present at five only if development is disrupted or the child is regulating |
+| 2. Solitary | Playing alone, absorbed, not attending to others | 2–3 years | At six, in a busy room, this is information about the child's state, not her sociability |
+| 3. Onlooker | Watching others play, asking questions, not joining | 2–4 years | At six, suggests the child has been excluded or has learned that joining is unsafe |
+| 4. Parallel | Playing beside another child with the same materials, without exchange | 3–4 years | A stable level at six suggests the child cannot yet negotiate |
+| 5. Associative | Sharing materials, borrowing, no shared goal | 4–5 years | The level at which most nursery complaints are actually generated |
+| 6. Cooperative / dramatic | Shared goal, assigned roles, rules, a story that survives conflict | 5–7 years | The best single predictor of school adjustment in this age band |
+
+**Reading the ladder rather than a score.** The question is never "what level is this child at?" but
+"what does this child do when the level is too hard?" A child who retreats to level 1 under stress is
+regulating. A child who attacks is also regulating, badly. A child who goes blank has stopped
+regulating, and that is the observation that should change the therapist's next move.
+
+**Three patterns that matter clinically.**
+
+**Constriction.** The child plays, richly, but inside one script. The script is repeated with minor
+variations, and any attempt to introduce a new element is refused. Constriction is common after a
+disruption the child could not narrate — a separation, a death, a move, a new baby, a hospital stay. The
+script is not a symptom to be removed; it is the child's only available formulation, and the clinical
+task is to help it become more flexible rather than to replace it.
+
+**Repetition without elaboration.** The same act, many times, with no development across sessions. This
+is the pattern that most often indicates adversity, and it is also the pattern of autistic play when the
+repetition is sensory rather than narrative. The differential is not made in the playroom alone: it is
+made with a developmental history, an observation of communication, and a proper assessment.
+
+**Play that stops at the door.** The child plays fluently at nursery and cannot play at home, or the
+reverse. This is almost always a fact about the household's state rather than the child's capacity, and
+it is the observation that turns a child referral into a family one.
+
+**What to record.** Five lines, in this order: what the child chose; whether the play had a story; how
+the child responded to a new element; what happened when the play was interrupted; and how the child
+ended. Those five lines are more useful than a page of adjectives, and they can be compared across
+sessions by two different therapists.
+
+### 5.3 Observing play without hijacking it
+
+The method is four skills and one prohibition. It is taught here, in the second year of life course,
+because it is the foundation of every later child-facing technique and because it is the hardest thing
+in this book to do for ten consecutive minutes.
+
+**Skill 1 — Track.** Sit at the child's level, at a slight angle rather than opposite, and let your eyes
+follow the child's hands rather than her face. Tracking communicates the thing that cannot be said: *I am
+interested in what you are doing, not in what you will produce for me.*
+
+**Skill 2 — Describe.** Say what the child is doing, in the present tense, without evaluation. "You are
+putting the small one inside the big one." Not "good job", not "what a clever tower", not "is that a
+house?" Description gives the child a narrator, and the narrator's vocabulary becomes the child's.
+
+**Skill 3 — Reflect.** When the child speaks, say it back, slightly expanded. Child: "Bear fall." Adult:
+"The bear fell down and he is stuck." This is the single most efficient language intervention available
+to a non-specialist, and it is also the most efficient way to show a child that she has been heard.
+
+**Skill 4 — Imitate.** Copy one thing the child does, exactly, and wait. Imitation is a turn-taking
+offer that does not require words, and for a child who finds adults unpredictable it is the least
+threatening thing an adult can do.
+
+**The prohibition — do not interpret.** No "I wonder if…", no "that must be your daddy", no "you seem
+angry". There are three reasons. The first is epistemic: at this age the therapist does not know, and a
+confident wrong interpretation teaches the child that adults invent meanings. The second is
+interactional: an interpretation recruits the child into confirming the adult's theory, which converts
+play into a performance. The third is developmental: interpretation requires exactly the
+representational capacity the child is still acquiring.
+
+**The one exception.** If the child's play depicts something dangerous and the child addresses the
+therapist directly — "the man is coming" — the therapist may reflect the child's own words and stay
+alongside: "The man is coming and you are holding the door." That is still not interpretation. It is
+company.
+
+> **PRACTICAL** — Ten minutes of child-led play with a volunteer child or a peer. Your only tools:
+> describe, reflect, imitate, and set one limit. A partner times you and tallies your questions,
+> suggestions, and praise. Aim for fewer than three questions, fewer than two suggestions, and — the
+> hardest target — no praise at all. Debrief on the impulse behind each one.
+
+**Why "no praise" is in the exercise.** Praise evaluates, and evaluation moves the child's attention
+from the activity to the adult's face. A child who is praised for a drawing learns to check whether the
+drawing is acceptable. A child who is described learns to look at the drawing. The exercise is not a
+claim that praise is harmful; it is a demonstration of how much of an adult's ordinary talk is
+evaluation, and how quickly a child adapts to it.
+
+### 5.3a Setting a limit in the playroom
+
+Sooner or later the child will do something that cannot continue: hit, throw at the window, climb the
+shelf, hurt herself. The limit is part of the method, not a failure of it, and it is set in four moves.
+
+**Move 1 — Stop the action, not the child.** A hand on the toy, not on the child. "I am going to hold the
+block."
+
+**Move 2 — Name the limit as a rule of the room.** "In this room we do not throw blocks at people."
+The rule belongs to the room, not to the therapist's mood, and it will be the same next week.
+
+**Move 3 — Name the feeling and offer the alternative in one breath.** "You wanted me to look and I was
+writing. You can throw the block at the floor, or you can say 'look'." Two options, both acceptable,
+one of them the one you want.
+
+**Move 4 — Stay.** Do not leave, do not lecture, do not withdraw warmth. The child's learning is that
+the relationship survives the limit. This is the same lesson as Week 4's limit formula, at a different
+age and with a different vocabulary, and the continuity is the point: the family that learned "you may
+be angry" at two is being asked to say the same thing at four.
+
+**What not to do.** Do not ask "why did you do that?" — a four-year-old cannot answer and will invent.
+Do not remove the toy as punishment unless the rule requires it. Do not say "I am not angry" if you are,
+because children read faces more accurately than words at this age, and the mismatch teaches them to
+distrust their reading.
+
+### 5.4 Three procedures for the clinic
+
+**Procedure 1 — The five-minute play observation, with the parents watching.** Before any history, ask
+the parents to sit at the side of the room and watch the therapist play with the child for five minutes.
+Then ask one question: "what did you notice?" The parents' answer is the assessment. Some will describe
+the child's cleverness; some will describe the child's problems; some will describe nothing and ask what
+they were supposed to see. Each answer tells the therapist where the family's attention lives, and the
+next move is to give them one thing to look for next time.
+
+**Procedure 2 — The false-belief demonstration, used as a conversation.** With a child of four or five,
+use two dolls and a small box in front of the parents. Run the task once. Then say to the parents, in
+front of the child and without scoring it, "she answered from what she knows; most children her age do,
+and it changes in the next year or so". The purpose is not diagnosis. It is to give the parents a
+developmental fact that reframes a behaviour they have been treating as defiance — usually the child's
+insistence that her account of an event is the only account.
+
+**Procedure 3 — The interrupted-play observation.** Ask the parent to play with the child for five
+minutes, then to stop and say "we have to go now". Watch what happens in the next ninety seconds. Three
+things are being observed: whether the child can use the parent's face to regulate, whether the parent
+offers a bridge ("one more turn, then shoes"), and how quickly the pair recover. This ninety-second
+window is more informative than an hour of interview, and it takes no equipment.
+
+### 5.5 The first session with a four-year-old
+
+Structure the hour so that the child is present for the part that concerns her and absent for the part
+that does not.
+
+**Phase 1 — The room (5 minutes).** Child and parents enter together. Name the rules of the room in the
+child's language: "we stay in this room, we do not hurt, and you choose what we play". The rules are for
+the child; the parents are also listening, and they are learning what a rule sounds like when it is not
+a threat.
+
+**Phase 2 — Play with the child, parents watching (15 minutes).** Therapist plays, using the four skills.
+Parents sit where the child can see them. This is simultaneously assessment, demonstration, and — for
+many parents — the first time they have watched an adult be interested in their child without
+correcting her.
+
+**Phase 3 — The child leaves (5 minutes).** Do not sneak her out. Say what is happening: "you are going
+to wait with Auntie Bisi while I talk to your mum and dad." A child who is told what is happening learns
+that adults can be trusted with information.
+
+**Phase 4 — Debrief with the parents (25 minutes).** Three questions, in order. What did you notice?
+What does this look like at home? What have you already tried? Then one piece of developmental
+information, given plainly, that bears on the referral.
+
+**Phase 5 — One task (10 minutes).** Not a programme. One thing: usually ten minutes of child-led play
+a day, or one change to the goodbye, or one sentence to use instead of the sentence they are using. Write
+it down. Ask them to notice what happens, not to succeed.
+
+**Why the order cannot be reversed.** If the parents are interviewed first, they arrive at the play phase
+having already told the therapist what is wrong, and the therapist will see it. The five minutes of
+uncontaminated observation is the most valuable data in the session, and it is lost the moment the
+therapist has a theory.
+
+### 5.6 Case: the child who plays the same thing every day
+
+**Referral.** Zainab, four years and two months, brought by her mother, Nkechi, 33, a bank officer, on the
+recommendation of the nursery. The nursery's written note says: "Zainab plays the same game every day.
+She does not join group activities. She is very bright but very alone."
+
+**Household.** Mother Nkechi, father Emeka, 37, an engineer who travels two weeks in four. Paternal
+grandmother, 61, moved in eight months ago after a fall. A baby brother, six months old. A house help,
+19, who does the school run. Languages: Igbo at home, English at nursery; Zainab's English is fluent and
+her Igbo comprehension is good.
+
+**History.** Pregnancy and birth unremarkable; milestones on time; no illnesses; hearing tested at three,
+normal. The change the mother can date precisely: eight months ago, when the grandmother moved in and
+the mother returned to work within the same month. "Before that she was the one who talked to everybody.
+Now she talks to nobody."
+
+**The play observation.** Zainab chooses the doll's house. She puts the mother doll in the car and drives
+it to the edge of the rug. She says, quietly, "bye". She waits. She drives back. She says, "I'm home".
+She does this eleven times in ten minutes, with the same two sentences, at the same pace. The therapist
+describes, reflects, imitates the driving once. On the twelfth repetition the therapist drives her own
+small car to the other side of the rug and parks it. Zainab looks at it, does not touch it, and continues.
+
+At minute nine the therapist says only: "the mama keeps coming back." Zainab stops, looks at the
+therapist for perhaps two seconds, and says: "she always comes back." Then she resumes.
+
+**What the play shows.** A child with intact symbolic capacity, a coherent narrative, age-appropriate
+language, and a single theme: departure and return. The theme is not a symptom. It is a formulation —
+the child's working model of the thing that changed, expressed in the only medium available to her. The
+constriction is the finding: eleven repetitions, no elaboration, no new element tolerated.
+
+**What the play does not show.** It does not show autism. Zainab's communication is reciprocal, her
+language is above age, her play is narrative rather than sensory, and her eye contact — brief, but
+present and socially timed — is not what autism looks like. It does not show attachment disorder. She
+separated without distress and greeted her mother on reunion, which is the pattern of a secure child
+managing a hard change. It does not show trauma in the sense of a single event; it shows a *disruption of
+arrangement*, which is a different clinical object.
+
+**The differential, written out.** Four candidates, and the evidence for and against each.
+
+| Candidate | For | Against | Verdict |
+|---|---|---|---|
+| Normal adjustment to change | Dated onset; coherent theme; good development otherwise | Eight months is long for uncomplicated adjustment; no elaboration at all | Plausible but incomplete |
+| Autism spectrum | Repetitive play; social isolation at nursery | Reciprocal communication; fluent imaginative language; narrative (not sensory) repetition | Not supported |
+| Attachment difficulty | Reunion greeting is muted; theme of departure | No indiscriminate behaviour; no freezing; separates comfortably | Not supported as a disorder |
+| Family-system disruption | Onset coincides with return to work *and* a new adult in the house *and* a new baby; father absent half of each month | — | Primary formulation |
+
+**The formulation.** Zainab is not ill and does not need a child therapy referral. She has been asked, at
+four, to hold a change that nobody explained to her, in a household where the adults themselves have not
+agreed what the change means. Her play is the most articulate statement of the family's situation in the
+room. The intervention is with the adults, plus a small, precise piece of work with Zainab about
+goodbyes.
+
+**The session with the parents.** The therapist shows them nothing of the play — she does not narrate it
+back as evidence, which would make the child's private material into an exhibit. Instead she asks three
+questions.
+
+1. "Who told Zainab that you were going back to work?" (Answer: nobody; it was decided in a conversation
+   the child was not in.)
+2. "What happens at the door in the morning?" (Answer: the house help takes her; the mother leaves
+   before she wakes "because it is easier".)
+3. "When she says 'Mummy, don't go', what do you say?" (Answer: "I have to work, so you can have
+   things." Followed, the mother admits, by leaving the room.)
+
+**The intervention, in four parts.**
+
+**Part 1 — A goodbye with a shape.** The mother wakes the child fifteen minutes earlier and does the
+handover herself. The goodbye has four elements, always in the same order: a warning ("in two minutes I
+am going"), a physical routine (a hug, then a handover to the grandmother, not to the house help), a
+sentence ("I always come back, and I will be here before your bath"), and a departure that is not
+hurried. The mother's objection is predictable and worth answering: "she will cry." She will. The
+alternative is a child who learns that departures happen without warning, which is exactly what she has
+learned.
+
+**Part 2 — The return is the intervention.** The evidence that matters to a four-year-old is not the
+promise but the arrival. The mother commits to being home before the bath three evenings a week for a
+month, and to the first five minutes after arriving being with Zainab and nobody else — no phone, no
+report from the grandmother, no baby in her arms.
+
+**Part 3 — The grandmother's authority, said aloud.** The therapist asks the mother and the grandmother
+to agree, in the session, on the two things the grandmother decides without appeal (bedtime, and
+safety) and the two things the mother decides without appeal (school, and what Zainab is allowed to
+watch). Then each says to the child, in front of the other, "Grandmother is in charge of bedtime, and I
+am in charge of school." The sentence is for the adults' benefit as much as the child's: a four-year-old
+who is caught between two authorities will stop proposing anything, which is the definition of guilt in
+Erikson's terms.
+
+**Part 4 — A play prescription, of a peculiar kind.** The mother is asked to play the doll's house game
+with Zainab, once, for ten minutes, and to let Zainab direct it. She is not asked to add anything. She is
+asked to notice what her daughter does with the mother doll, and to report one observation next session.
+This is not play therapy; it is the mother being given access to her child's account of the change
+without anyone having to interpret it.
+
+### 5.6a Six weeks later
+
+The mother reports three changes, in her own order: Zainab now cries at the door in the morning, which
+the mother finds harder and the therapist regards as progress, because a child who protests a departure
+has decided that the departure is worth protesting; she greets her mother at the door in the evening and
+takes her hand; and the doll's house game has acquired a new element — a grandmother doll, which Zainab
+puts in the kitchen and moves, once, to the front door.
+
+The nursery reports she has joined a group of three girls in a game with assigned roles. The repetition
+has not disappeared. It has become a game the child plays with other children, which is what
+elaboration looks like at four.
+
+The father, who was on a trip for the first three sessions, attends the fourth by telephone and the fifth
+in person. He says very little and cries once. The therapist does not interpret the crying. She asks him
+what he would like his daughter to know about why he travels, and he says, "that I am coming back." The
+therapist suggests he says it to Zainab, at the door, every time he leaves, and he does.
+
+**What would have changed the plan.** Three findings would have redirected this case, and the student
+should be able to name them. If Zainab had failed language comprehension tasks in Igbo as well as
+English, the referral would have gone to audiology and speech therapy before any family work. If her
+play had been sensory rather than narrative, with no social referencing, the referral would have gone for
+a developmental assessment. If the reunion greeting had been absent altogether, with freezing or
+indiscriminate approach to the house help, the formulation would have shifted toward caregiving
+disruption and the safeguarding question would have been asked explicitly.
+
+### 5.7 Transcript: ten minutes of play, annotated
+
+The transcript below is the observation described above, with the therapist's internal reasoning
+annotated. Read the annotations as the discipline the exercise is trying to install: every line of
+therapist speech is classified by which of the four skills it uses, and every impulse that was resisted
+is named.
+
+> **T1** *(Zainab puts the mother doll in the car; says nothing.)* **Therapist:** "The mama is getting
+> into the car." — *Description. No question. Note the temptation: "where is she going?" would have
+> converted the child's play into an answer for the adult.*
+>
+> **T2** *(Zainab drives the car to the edge of the rug.)* **Therapist:** "She is driving away."
+> — *Description, present tense, short.*
+>
+> **T3** *(Zainab, quietly: "bye".)* **Therapist:** "Bye." — *Reflection, at the same volume. Matching
+> volume is a skill; a therapist who says "BYE!" has taken the play away from the child.*
+>
+> **T4** *(Pause of about fifteen seconds. Zainab does not move.)* **Therapist:** *(says nothing)*
+> — *The hardest line in the transcript. The impulse to fill the silence is the therapist's, not the
+> child's.*
+>
+> **T5** *(Zainab drives back. "I'm home.")* **Therapist:** "She came home." — *Reflection with a
+> grammatical expansion. The child hears her own sentence completed.*
+>
+> **T6** *(Repetition three.)* **Therapist:** "She went, and she came home." — *Description that holds
+> the whole cycle in one sentence, which the child has not yet done aloud.*
+>
+> **T7** *(Repetition seven. The therapist's impulse: "does she always come home?" — resisted.)*
+> — *A question would have asked the child to state a belief about the future, which is precisely the
+> capacity under construction. Do not test what is being built.*
+>
+> **T8** *(Repetition ten. The therapist drives a second car to the other side of the rug and parks
+> it.)* — *A non-verbal offer. It changes the scene without requiring the child to accept a suggestion
+> and without claiming a role. If she ignores it, nothing is lost.*
+>
+> **T9** *(Zainab looks at the second car, does not touch it, continues.)* **Therapist:** *(nothing)*
+> — *The child declined. The offer was made correctly and its refusal cost nothing.*
+>
+> **T10** *(Minute nine. "The mama keeps coming back.")* — *The only interpretive-adjacent statement in
+> the session, and it is a description of the play's pattern, not of the child's feelings. It contains no
+> "I wonder", no "you feel", and no named person from the child's family.*
+>
+> **T11** *(Zainab stops. Looks at the therapist. "She always comes back.")* — *The child has made a
+> statement about the world. This is the moment the therapist has been working toward for nine minutes,
+> and the correct response is the smallest possible one.*
+>
+> **T12** **Therapist:** "She always comes back." — *Reflection. Nothing added. No "and mummy always
+> comes back too." The child made a general statement; the therapist does not force it to be about her
+> mother. If the child wants to make that link, she will, in her own time, and probably not in this
+> session.*
+
+### 5.8 Laboratory: the ten-minute observation, marked
+
+**Aim.** To produce a written observation of a child's play that another clinician could use, and to
+demonstrate command of the four skills under supervision.
+
+**Procedure.** In pairs, with a volunteer child (or, where a child is not available, with a peer
+instructed to play at the level of a four-year-old — a surprisingly demanding role). One student plays
+for ten minutes using only the four skills and one limit. The second student times the play, tallies
+questions, suggestions, praise, and interpretations, and writes the five-line record. Roles swap. Then
+each pair writes a single paragraph answering: "what did this child's play tell me that an interview
+would not have?"
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Restraint** | More than six questions or three suggestions | Three to six questions, one or two suggestions | Fewer than three questions, no suggestions, no praise |
+| **Description** | Evaluative or absent | Present but intermittent, with judgement words | Continuous, present tense, non-evaluative, matched to the child's attention |
+| **Reading the play** | Describes the child's personality | Describes actions only | Names level, theme, elaboration, and response to a new element |
+| **The limit** | Not set, or set with threat or withdrawal | Set, but with explanation and a lecture | Set in four moves, relationship intact, play resumed |
+| **The record** | Adjectives and impressions | Actions without structure | Five lines in the required order, usable by a second clinician |
+
+**The distinction that carries most of the marks.** The difference between "she was anxious and
+withdrawn" (an inference with no evidence) and "she played the same two-sentence script eleven times and
+did not touch the second car" (an observation). Students reliably believe the first is more clinically
+sophisticated. It is the second that can be checked, taught, and compared.
+
+### 5.9 Six errors
+
+**Error 1 — Interpreting before the child has told you anything.** "I wonder if the lion is your
+father." The child either agrees, which teaches her that adults supply meanings, or stops playing. The
+error is not that the interpretation is wrong. It is that it is a *question disguised as an observation*
+and it recruits the child into the adult's theory.
+
+**Error 2 — Turning play into a lesson.** Asking the colour of the block, counting the blocks, naming
+the animal. This is not play and it is not therapy; it is a test administered by someone who has run out
+of things to say. The child's developmental level is not improved by being quizzed at it.
+
+**Error 3 — Using praise as the default response.** "Good job!" every thirty seconds trains the child to
+look at the adult after each action. The child who is watched learns to play; the child who is praised
+learns to perform. The distinction matters most for children whose households already require
+performance.
+
+**Error 4 — Reading repetition as pathology.** Repetition is the mechanism by which this age group
+consolidates. The question is not whether the play repeats but whether it *elaborates across sessions*.
+A therapist who treats the eleventh repetition as a symptom will miss the twelfth, in which the child
+adds a grandmother doll.
+
+**Error 5 — Doing the child work and calling it family work.** A weekly play session that never touches
+the household will produce a calm child who returns to the same arrangement. This is the characteristic
+error of clinicians trained only in child modalities, and it is why this course teaches play observation
+inside a family therapy programme: the observation is the door, and the family is the room.
+
+**Error 6 — Diagnosing in the playroom.** Autism, attachment disorder, ADHD, and "trauma" are not
+diagnosable from a ten-minute observation, and a therapist who says "this looks like autism" to a parent
+has made a claim that will govern the family's next two years. Describe what you saw, name what you
+cannot tell, and refer for the assessment that can.
+
+### 5.10 Culture, faith and the child who plays
+
+**Play is not culturally neutral.** The materials in a therapy room — a doll's house, a doctor's kit, a
+family of small figures — encode a household. A child who has never seen a doll's house will not
+necessarily be less competent; she will be less fluent with the props. The assessment must therefore
+include an observation with materials the child knows. In the Nigerian clinic the most useful additions
+are usually a market stall, cooking pots, a bus, and a church or mosque set, because those are the scripts
+most children have.
+
+**Who plays with whom.** In many households the answer is "the other children", and a four-year-old who
+plays fluently with cousins and neighbours but not with adults is not delayed. The clinical question is
+whether the child has *any* setting in which she plays richly. If she does, the household has a resource
+the therapist can build on rather than a deficit to correct.
+
+**Faith and the child's explanations.** By five, children in observant households have absorbed
+explanatory frameworks — prayer, protection, spirits, the will of God — and will use them in play. A
+child who stages a deliverance scene is not necessarily expressing distress; she may be rehearsing
+something her household does weekly. Ask the parents what she has been part of before deciding what her
+play means.
+
+**Discipline and initiative.** This is the week's sharpest cultural tension. Erikson's "initiative" is
+cultivated in households that reward a child's proposals and tolerated in households that treat a
+child's proposal as insubordination. A therapist who measures initiative against a single cultural
+standard will misread a well-regulated child as inhibited, and will recommend a change the parents
+experience as an attack on their authority. The clinical question is not "does this child initiate?"
+but "in what domains is this child permitted to initiate, and what happens to her when she does?"
+
+> **DEBATE** — "The child's play belongs to the child, and the therapist has no right to describe it to
+> the parents." Argue for: the playroom is the one place a child's material is not reported, and showing
+> it to parents converts it into evidence in a case the child did not consent to. Argue against: the
+> parents are the intervention, a therapist who learns something decisive and withholds it is practising
+> on the family, and a child's private play is not confidential in the way an adult's disclosure is.
+> Then take a position, and state the rule you would follow: what, precisely, would you never say to a
+> parent about a child's play, and why?
+
+### 5.11 Evidence note
+
+**What the research supports.** The association between the *quality* of pretend play in the preschool
+years and later social competence and school adjustment is well established in longitudinal work, with
+effect sizes that are modest but consistent after controlling for language and family income. The
+false-belief literature is one of the most replicated bodies of findings in developmental psychology,
+with the four-to-five transition robust across dozens of cultures — though the *timing* shifts with
+schooling, sibling number, and the language of testing.
+
+**What is weaker.** The claim that play *causes* these gains is much harder to establish than the claim
+that it correlates with them. Interventions that add play opportunities produce smaller effects than the
+correlational literature would predict, and the most defensible reading is that play is a *context* in
+which existing capacities are consolidated and displayed rather than a training programme that installs
+them. The clinical implication is modest and useful: observe play because it shows you what the child
+has, not because ten minutes of it will make her have more.
+
+**What is not supported.** The strong form of the play-therapy claim — that non-directive play sessions
+alone reliably resolve identified clinical disorders in preschoolers — is not supported by meta-analytic
+evidence, which finds small effects that shrink when the comparison is an active control. Non-directive
+play remains a valuable *engagement* method and a window on the child's representational world. It is not
+a substitute for changing the household, and this week's case is the argument.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* Constriction in play at four, in a stable household, resolves
+in most children within a year. The same constriction, in a household that is itself unresolved, tends to
+persist and to generalise — which is the argument for treating the arrangement rather than the symptom.
+
+### 5.12 Key terms
+
+**Initiative versus guilt** — Erikson's third psychosocial stage; the capacity to start things, balanced
+against the conviction that wanting is a fault.
+
+**Pretend (symbolic) play** — play in which an object or action stands for something else; the
+developmental engine of dual representation and self-regulation.
+
+**False-belief task** — the standard test of whether a child understands that another person can act on a
+belief that is untrue.
+
+**Representational theory of mind** — the understanding that people act on beliefs rather than on the
+world directly.
+
+**Constriction** — play that is rich but confined to a single, repeated script, with new elements
+refused.
+
+**Elaboration** — the developmental marker that matters: the addition of new elements, roles, or
+resolutions across sessions.
+
+**Scaffolding** — adult support calibrated to the child's current level, withdrawn as competence grows.
+
+**Dual representation** — holding the real and the imagined situation in mind at once; the mechanism by
+which play builds self-regulation.
+
+**School readiness** — the capacity to follow instructions, wait, recover from frustration, and seek
+help; a stronger predictor of first-year success than early literacy.
+
+**Social referencing** — the child's checking of a caregiver's face to decide how to feel about an
+ambiguous event; the observation that most reliably distinguishes security from its absence in the
+second and third years.
+
+### 5.13 Self-test
+
+1. A four-year-old answers "the cupboard" on a false-belief task even though she watched the chocolate
+   being moved. What has she done, and what should the therapist not conclude?
+2. Give three reasons why interpreting a child's play prematurely is a technical error and not merely a
+   matter of taste.
+3. A nursery reports that a child "will not join in". Name four observations that would distinguish
+   exclusion, shyness, language difficulty, and a developmental difference.
+4. What is the difference between repetition that is consolidating and repetition that is constricted?
+5. Why does the exercise forbid praise, and what does praise do to a child's attention?
+6. A parent says "he knows exactly what he is doing — he is manipulating me". What developmental
+   information changes the conversation, and how would you say it?
+7. In the case of Zainab, name the three findings that would have changed the formulation, and where
+   each would have sent the family.
+8. What is the strongest argument against telling parents what their child did in the playroom?
+
+**Answers.** *(1)* She has answered from her own knowledge — she has not yet represented the other's
+belief as different from the truth, which is normal at four. The therapist should not conclude that she
+is delayed, dishonest, or unable to understand other people; the task indexes one narrow capacity, in one
+language, under one conversational convention. *(2)* It is epistemically unjustified at this age; it
+recruits the child into confirming the adult's theory, converting play into performance; and it demands
+the very representational capacity the child is still acquiring. *(3)* Whether she is invited and
+refused; whether she watches from the edge (onlooker) or does not attend at all; whether she plays richly
+in her own language with one other child; and whether her play is narrative or sensory and repetitive.
+*(4)* Consolidating repetition elaborates across sessions and tolerates a new element; constricted
+repetition repeats identically and refuses any addition. The test is across sessions, not within one.
+*(5)* Praise evaluates, and evaluation moves attention from the activity to the adult's judgement; a
+praised child checks the adult, a described child looks at her own work. *(6)* At four the capacity to
+hold another's belief in mind is still forming, so "manipulation" — which requires representing what the
+parent believes and intending to change it — is usually not available; say that plainly, and replace the
+word with a description of what the child actually did. *(7)* Failed comprehension in the home language
+→ audiology and speech therapy; sensory rather than narrative repetition with no social referencing →
+developmental assessment; absent or indiscriminate reunion behaviour → caregiving disruption and the
+safeguarding question. *(8)* The child cannot consent, cannot correct the record, and will live with the
+parents' new knowledge of her private material; the counter-argument is that the parents are the
+treatment.
+
+### 5.14 Reflective task
+
+Watch a child between three and six for ten minutes and write the five-line record. Then write, in one
+paragraph and without naming anyone, what you found yourself wanting to do and did not. Most students
+find the impulse is to teach, to test, or to be liked. Name yours. Then answer: which of the three would
+have been hardest for the child to refuse?
+
+### 5.15 Further reading
+
+- Piaget, J. *The Moral Judgement of the Child* — the paired-story method, still the clearest account of
+  consequence-based reasoning.
+- Vygotsky, L. "The role of play in development" — the dual-representation argument, in twenty pages.
+- Wellman, H. *The Child's Theory of Mind* — the tasks, their order, and their limits.
+- Winnicott, D. W. *Playing and Reality* — the clinical essay this week's prohibition is drawn from.
+- Slade, A. "Representational play and the therapeutic process" — play as formulation rather than symptom.
+
+*Next: Week 6 — Middle childhood: competence, friendship and the school years.*
 
 ---
 
 ## Week 6 — Middle childhood: industry, peers, school
 
-**Tasks.** Industry versus inferiority; mastery and competence; peer group and friendship rules;
-self-concept becomes comparative ("I am good at maths, bad at football"); moral reasoning becomes more
-reciprocal.
+**Developmental tasks.** Industry versus inferiority (Erikson, roughly six to eleven); the consolidation
+of mastery through practice and product; the peer group as a structure with its own rules; a self-concept
+that becomes *comparative* ("I am good at maths, bad at football"); and moral reasoning that becomes
+reciprocal — fairness, turn-taking, and the beginning of genuine perspective exchange.
 
-**What changes in the family.** The child's world widens; parents move from direct control to
-*monitoring and scaffolding*. School becomes a second system with its own rules, and the family–school
-interface becomes a clinical site.
+**What changes in the family.** The child's world widens and the parents' role changes from direct control
+to *monitoring and scaffolding*. School becomes a second system with its own rules, its own adults, and
+its own judgement of the child, and the family–school interface becomes a clinical site in its own right.
+A child now spends more waking hours with non-relatives than with relatives, which is new for the family
+and new for the child.
+
+**The developmental gift of this age.** Middle childhood is the least dramatic period of development and
+the most consequential for identity, because it is when the child builds an answer to the question "what
+am I good at?" That answer will organise her adolescence. The clinical stake is therefore not usually
+crisis; it is the slow accumulation of evidence — in a classroom, on a pitch, at a kitchen table — that
+the child is *less than*.
 
 **School refusal — a developmental and systemic differential.** Ask: is this anxiety, separation
 difficulty, bullying, a learning difficulty, a family crisis, or a bid to protect a parent? The
-distinction matters: the same behaviour has opposite treatment implications.
+distinction matters because the same behaviour has opposite treatment implications.
 
 > **CASE** — A nine-year-old refuses school on Mondays only. Developmental enquiry: what happens on Sunday
 > nights? The answer: the parents' weekly argument about money. The child's presence at home on Monday
 > keeps the mother from leaving for work, and the argument stops. The symptom is a Monday-shaped solution
 > to a marital problem — and it is also genuinely distressing to the child.
+
+### 6.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The quiet age | Why middle childhood looks uneventful and is decisive | Recall what they were good at at nine, and who told them |
+| 8–22 | Industry versus inferiority | The mechanics of mastery, and the four ways adults interrupt it | Identify the four from a case vignette |
+| 22–36 | The comparative self | How "I am good at X" becomes "I am better/worse than Y" | Map a nine-year-old's self-description across five domains |
+| 36–48 | Peers and friendship | The stages of friendship, and what a friend is for at seven, nine, eleven | Code two friendship descriptions against the stages |
+| 48–62 | School refusal | The six-way differential, and the seven questions that decide it | Run the seven questions on the case and defend a formulation |
+| 62–74 | Monitoring and scaffolding | The shift from control to oversight, and the crime of over-monitoring | Rewrite three controlling sentences as monitoring ones |
+| 74–84 | The school as a system | How to work with a school without becoming its agent | Draft a letter to a head teacher |
+| 84–90 | The assessment | What the case analysis requires | Draft the outline of their case |
+
+**The teaching decision that makes the week work.** Students arrive believing that middle childhood is
+the easy placement, because the children talk and the problems are legible. The lecture has to revalue
+the age: the child is now being *judged continuously by strangers*, and the household's job is to
+interpret that judgement without either denying it or amplifying it. The single most useful teaching
+move is to ask the class what they were told they were bad at between the ages of seven and eleven, and
+to notice how many of them can still recite it in the original wording, thirty years later.
+
+**The sentence the lecture must land.** "At this age a child is assembling an answer to the question
+'what am I good at?', and she is using other people's faces as her evidence."
+
+### 6.2 Five concepts that organise the week
+
+**1. Industry versus inferiority.** The child now wants to *make* things and to be competent at them —
+a model, a goal, a sum, a drawing, a game of football, a recitation. The developmental gain is a
+self sustained by skill. The risk is inferiority: the settled conviction that one's efforts do not
+produce acceptable products. The mechanism is comparison, and the adults who shape it are teachers,
+coaches, siblings, and parents — in that order of hours, though not of weight.
+
+The clinical translation is precise. When an eight-year-old presents as "lazy" or "not trying", the
+assessment question is not about motivation but about *whether effort has ever produced a product that
+was received.* A child who has never had the experience of making something and having it accepted will
+stop making things, and the behaviour that follows — avoidance, clowning, aggression, or quiet
+disappearance — is a rational response to a losing game.
+
+**2. The comparative self-concept.** Before about seven, children describe themselves in absolute terms
+("I can run fast"). After seven they describe themselves in comparative terms ("I am the third fastest in
+my class"), and they begin to describe themselves in the terms others use. This is the developmental
+moment when a family's labels become the child's self-description, and it is why the words used about a
+seven- to ten-year-old are worth more clinical attention than the words used about a toddler.
+
+**3. The peer group as a structure.** The peer group is not a crowd of children; it is a system with
+rules, hierarchies, gatekeepers, and sanctions. Belonging is a developmental need, not a preference, and
+exclusion at this age produces measurable distress. Two clinical errors follow. The first is to dismiss
+peer difficulty as trivial ("children are cruel"). The second is to treat it as a problem to be solved
+by the therapist rather than by the adults who control the setting.
+
+**4. Moral reasoning becomes reciprocal.** The child moves from "what will happen to me?" to "what is
+fair?", and fairness is understood as equal shares, turn-taking, and rules that apply to everyone
+including adults. This development is what makes this the age of the indignant question — "why does he
+not have to?" — and it is a resource for family work rather than an impertinence. A nine-year-old's sense
+of injustice is frequently accurate, and a family that can hear it gains a member who can name what is
+happening.
+
+**5. Monitoring and scaffolding replace control.** Parents cannot see the child's day, so they must
+build a system of oversight: who is where, with whom, and how the child can reach an adult. Effective
+monitoring is warm, predictable, and interested. Ineffective monitoring takes two forms. Under-monitoring
+(no questions, no knowledge of the child's world) leaves the child unprotected. Over-monitoring (interrogation,
+phone tracking without conversation, no privacy) teaches the child to manage the surveillance rather than
+to use the adult, and it reliably produces the secrecy it is trying to prevent.
+
+### 6.2a The school-refusal differential: seven questions
+
+"School refusal" is a description, not a diagnosis, and it is the single most common developmental
+presentation of this age band. The differential has six members, and the questions below separate them
+in roughly fifteen minutes of interview if asked in this order.
+
+**Question 1 — When did it start, and what happened that week?** An abrupt onset with a datable event
+points to a specific stressor: a fight, a humiliation, an exam, a bereavement, a change of teacher. A
+gradual onset over months points to an accumulating process: learning difficulty, bullying, or an
+anxiety that has been building.
+
+**Question 2 — Which days, and which lessons?** A pattern is diagnostic information. Mondays only suggests
+a weekend–weekday transition and often a family process. One subject only suggests a specific failure or a
+specific adult. Mornings only, with recovery by break, suggests separation or anticipatory anxiety.
+
+**Question 3 — What happens in the body?** Headache, stomach ache, vomiting, and sleeplessness before
+school, resolving once the child is allowed to stay home, is the pattern of anxiety. Symptoms that do not
+resolve on staying home point elsewhere — a medical problem, or a family in which being ill is the only
+available currency.
+
+**Question 4 — Is the child behind, and in what?** Ask for the last report, not a description of it. A
+child who cannot read at nine will find a hundred ways not to be in a room where reading happens, and
+none of them will be called "reading".
+
+**Question 5 — Who is unkind, and where?** Ask directly, and ask about the phone. Bullying at this age has
+moved partly into a space the school cannot see, and a child who is refusing school is often protecting
+the adults from information rather than protecting herself from school.
+
+**Question 6 — What is happening at home?** Not "is there anything wrong at home?" — that question
+produces "no". Ask what the evenings look like, who is away, who is unwell, who is arguing, and what the
+child does when the arguing starts.
+
+**Question 7 — What does the child's absence make possible?** This is the systemic question and the one
+students forget. Absence has consequences: a parent does not leave, a sibling is not alone, a grandmother
+is not left with nobody. Ask who benefits. The answer is rarely the child, and it is never nobody.
+
+**The formulation grid.** Put the answers into five cells: *anxiety*, *separation*, *school-based threat*,
+*learning*, and *family function*. Most cases load on two. The treatment follows the loadings — an
+anxiety-driven case needs graded return plus parental alliance; a bullying case needs the school and
+protection before any exposure; a family-function case needs the family work first, because graded return
+will fail while the child's absence is doing a job at home.
+
+### 6.2b What a friend is, at seven, nine and eleven
+
+Friendship has stages, and each stage describes a different capacity the child brings to the clinic.
+
+**At six or seven** a friend is someone you play with today. Friendship is concrete, provisional, and
+defined by shared activity. Betrayal is "he played with someone else". A child of this age who has no
+friends is not necessarily lonely in the way an adult means it.
+
+**At nine** a friend is someone who is loyal, keeps promises, and shares. Friendship is now a
+relationship with obligations, and the characteristic injury is exclusion from a group rather than
+absence of a partner. This is the age at which "nobody sits with me" becomes a clinical statement.
+
+**At eleven** a friend is someone who knows you, who you can tell things to, and who understands you
+without explanation. Intimacy and self-disclosure arrive. The characteristic injuries are betrayal of a
+confidence and the collapse of a friendship group, both of which present to clinics as sudden, dramatic,
+and — to parents — disproportionate.
+
+**The clinical use.** Ask the child to describe a friend and listen for the stage. A nine-year-old who
+describes friendship entirely in terms of shared activity is not necessarily delayed, but a nine-year-old
+who describes no one at all is telling you about the setting. Then ask the parents the same question
+about their own friendships, because the household's model of friendship is usually the child's
+curriculum.
+
+### 6.3 The method: assessing school refusal in one session
+
+The method below is a sequence, and the order matters because each step changes the questions in the
+next.
+
+**Step 1 — Get the attendance data.** Dates, not adjectives. "He refuses school" becomes usable when it
+is "absent eleven of the last twenty school days, all Mondays and two Fridays". Bring the register
+printout or the school's messages. Two clinicians looking at the same pattern will usually agree; two
+clinicians listening to two descriptions will usually not.
+
+**Step 2 — Interview the child alone, briefly, with the parents informed.** Ten minutes, at the child's
+level, without the parents' faces. The two questions that produce most of the information are "what is
+the worst part of the morning?" and "what would happen if you went?" The second question is the one
+adults rarely ask, and it is the one that surfaces the feared consequence — a confrontation, a test, a
+parent alone in the house.
+
+**Step 3 — Separate the five cells.** Write the five-cell grid in front of the parents and place the
+evidence in it. The purpose is not to be clever; it is to show the family that the behaviour has more
+than one possible meaning, which is itself an intervention in households that have settled on "he is
+being difficult".
+
+**Step 4 — Ask the systemic question aloud.** "What happens at home when he stays?" Ask it plainly, and
+then be quiet. In the case below, the answer arrived in nine seconds.
+
+**Step 5 — Agree the return plan before the family leaves.** Not "we will work on it". A graded plan with
+dates, a named adult at the school gate, a named person the child can go to at break, and an agreed
+consequence for the first morning. The plan is written down and copied to the school the same day.
+
+**Step 6 — Protect the plan from the family's other business.** This is the step that fails. A return
+plan collapses when the underlying family process is unaddressed, and the therapist who has spent the
+session on the school will find the child back at home within a fortnight.
+
+### 6.3a The family–school interface
+
+The therapist is not the school's agent and not the family's advocate. The position is *consultant to the
+system*, and it is maintained by three practices.
+
+**Practice 1 — One channel.** Agree with the family who speaks to the school, how often, and about what.
+Families with two parents, a grandmother, and a house help who all telephone the school produce a school
+that stops answering, and the child learns that the adults cannot coordinate.
+
+**Practice 2 — Ask for observations, not verdicts.** A school says "he is disruptive". Ask what he did,
+in what lesson, after what, and what the teacher did next. Schools, like parents, describe children in
+adjectives; the therapist's job is to convert adjectives into sequences, in both directions.
+
+**Practice 3 — Give the school one thing to do.** Not a programme. One change: a named adult at the gate,
+seating the child next to a specific person, a signal the child can use to ask for help without speaking
+in front of the class. A school that is given one workable action will do it; a school that is given a
+system will do nothing.
+
+**The letter.** The letter below is the model taught in the laboratory, because a well-written letter is a clinical act and, in the experience of most trainees, the single most useful document they will write in their first year of practice. It is short, it names one request, it does not diagnose, and it does not blame.
+
+> **PRACTICAL** — Write the letter. Three paragraphs, 200 words, no jargon. Paragraph one: what the
+> family has asked for help with, in one sentence. Paragraph two: what the clinic will do, and by when.
+> Paragraph three: one specific request of the school, with a named person and a date. Bring it to the
+> next session and read it aloud; the class will tell you the moment it becomes a complaint.
+
+### 6.4 Three techniques for this age
+
+**Technique 1 — The week map.** With the child, draw the seven days in a grid and put a mark on each day
+for how the morning felt, using a three-point scale the child invents. Then, in a different colour, mark
+the days something happened at home. The technique works because it is the child's own data, collected by
+the child, and it makes a pattern visible without anyone having to accuse anyone. It is also the
+beginning of the child's sense of agency: she is the one who noticed.
+
+**Technique 2 — The competence inventory.** With the child, list five things she can do — not five things
+she is good at compared with others, five things she can do that she could not do a year ago. Then find
+one that an adult in the household does not know about, and arrange for that adult to be told. The
+technique addresses the mechanism of inferiority directly: the child needs at least one domain in which
+effort produces a product that is received.
+
+**Technique 3 — The one adult.** Ask the child to name one adult at school she would go to if something
+happened. If she cannot name one, that is the finding, and the school intervention is to create one.
+This single question predicts more about a child's resilience at school than any questionnaire, and it
+takes eleven seconds to ask.
+
+### 6.4a The digital playground
+
+By nine, a substantial minority of children in Nigerian cities are in a group chat with their classmates,
+and the therapy room has to take account of it because the peer group now has a second, invisible
+location. Three observations, and then what the therapist asks.
+
+**The group chat is a room with no adult in it.** The developmental function is the same as the
+playground — belonging, status, exclusion — and the developmental difference is that it is continuous,
+archived, and unobserved. A child can be excluded at eleven at night, in her own bed, by forty
+classmates, and no adult will know unless she says so.
+
+**Exclusion at this age is often technical rather than social.** A child is not told she is unwelcome;
+she is simply not added to the group. This is harder for parents to see and easier for a child to
+misinterpret, and it produces a particular kind of distress: the child knows something is happening and
+has no evidence.
+
+**What children do with a phone at nine is mostly not what parents fear.** The realistic risks in this
+age band are not predation — which is real but rarer than the anxiety about it — but (a) the erosion of
+the boredom in which imagination happens, (b) the acceleration of comparison, because a nine-year-old now
+sees the edited highlights of forty lives, and (c) the collapse of the parental monitoring that this
+week's concept describes, because the child's social world has moved out of the parents' line of sight.
+
+**What the therapist asks, in this order.** First: "does she have a device of her own, and where does it
+sleep?" The answer to the second half is more informative than the first. Second: "who is in her group,
+and does she want to be?" Third: "what happens in the house between seven and nine in the evening?" —
+because the family's evening is the variable that determines whether the device is a tool or a
+substitute.
+
+**What the therapist does not do.** Do not run a session on screen-time limits. The evidence for
+specific hour-based rules is weak and the argument consumes the session. The two interventions with
+better support are structural and relational: no device in the bedroom overnight, for anyone in the
+household including the adults; and one daily period of twenty minutes in which the child has an adult's
+undivided attention, which is the same prescription as Week 4's ten minutes of child-led play, at a
+different age and with a different content.
+
+**The sentence that reframes the parental complaint.** When a parent says "he is always on his phone",
+the developmental translation is usually "he has found a place where he belongs and it is not here". That
+translation is not always correct, but it is always worth testing, because it moves the intervention from
+confiscation to invitation.
+
+### 6.5 The first session with a nine-year-old and two parents
+
+**Phase 1 — The child first (15 minutes), parents in the room.** Nine-year-olds are usually relieved to
+be asked directly and embarrassed by being discussed. Ask the child: what is the worst part of the
+morning; what would happen if you went; who do you sit with; who would you tell. The parents hear the
+answers at the same time as the therapist, which prevents the later reconstruction in which the child's
+account is softened.
+
+**Phase 2 — The child out (5 minutes), with a clear explanation.** "I am going to talk to your mum and
+dad about the grown-up parts. You are not in trouble and nothing you said was wrong."
+
+**Phase 3 — The parents (20 minutes).** The seven questions, asked in order, with the attendance data on
+the table. The purpose is not to interrogate but to demonstrate the differential: by question five the
+parents usually begin to supply the formulation themselves.
+
+**Phase 4 — The systemic question (5 minutes).** "What happens at home when he stays?" Ask it once, in
+plain language, and let the silence work. Then: "who is at home with him?" and "what would have to change
+for the mornings to be ordinary?"
+
+**Phase 5 — The plan (15 minutes).** Written, dated, with names. One request to the school, one change at
+home, one thing the child will do. The parents leave with a page, not with an understanding.
+
+**Why the child goes first.** Because a nine-year-old who has been discussed for twenty minutes before
+being seen will arrive defensive, and because the parents' account of a child's inner life at this age is
+frequently a description of the parents' own anxiety. The child's own words, heard by the parents in the
+room, do more to loosen a fixed formulation than an hour of parental interview.
+
+### 6.5a When the child will not talk
+
+A nine-year-old who has been brought to a clinic by two adults, about a problem the adults have defined,
+has three good reasons not to speak: she does not know what will happen to what she says, she has been
+told not to discuss family business, and she has learned that saying nothing is safer than being
+misquoted. The following five moves are taught because the standard one — "can you tell me how you
+feel?" — produces a shrug from a child of this age in almost every culture.
+
+**Move 1 — Give the child a job.** "I need your help with something. I am trying to understand what a
+Monday morning is like in your house, and only you can tell me." A task recruits the child's competence,
+which is exactly what this stage is about, and it changes the child's position from subject to
+consultant.
+
+**Move 2 — Move the question to the third person.** "Some children tell me the hardest part is the
+morning. Others say it is the night before. Which is it for the children you know?" The third person
+gives the child a legitimate way to describe her own experience without owning it, and it is not a trick:
+it genuinely produces different and often more accurate information.
+
+**Move 3 — Draw.** A week map, a house with the rooms and who sleeps where, a line with marks for the
+good days. Drawing occupies the part of the child that would otherwise be managing the adult's face, and
+it produces a document the therapist and the child can both look at instead of each other.
+
+**Move 4 — Offer a scale with an escape.** "On a scale of one to ten, how much does Monday morning
+worry you? One is nothing, ten is the worst." A number is easier than a sentence, and it can be revised.
+Children who will not answer a feeling question will answer a number, and the number is comparable
+across sessions.
+
+**Move 5 — Say what will happen to the information.** Before the first question: "I will tell your mum
+and dad the things that are about the family, because they need to know them to help. If you tell me
+something that is not safe, I will have to tell them too. Everything else stays in this room."
+Nine-year-olds understand this perfectly, and the children who relax most visibly after it are the ones
+who had assumed everything was being reported.
+
+**What to do with silence.** If the child says nothing for a full minute, wait. If the minute becomes
+four, stop asking and do the drawing yourself, narrating: "this is the Monday box, and I do not know what
+goes in it." Most children will correct the drawing, and a correction is the beginning of speech: it is the first time in the session that the child has decided the therapist's version is worth amending.
+
+### 6.6 Case: the Okonkwos again — Mondays
+
+The course's recurring family returns, six months after the sessions in Week 1, with a different
+presenting complaint about the same nine-year-old.
+
+**The referral.** Ada telephones. "The defiance has stopped, but now he will not go to school. Only
+Mondays. Every Monday since the beginning of term."
+
+**The household.** Ebuka, 9, in Primary 4. Ada, 34, a schoolteacher. Chuka, 39, a driver on night shifts,
+home from about five in the morning and asleep until two. The baby, now seventeen months. Chuka's mother
+died in 2023. Chuka's younger brother, 24, has been staying since December, sleeping in the sitting room,
+looking for work.
+
+**The attendance data.** Eleven of the last twenty school days missed. All five Mondays; two Fridays in
+the same period, both following nights when Chuka was not on shift. Non-attendance on Mondays accounts
+for nine of the eleven.
+
+**The parent's account.** "He says his stomach hurts. Sunday night he is fine, he eats, he watches
+football with his father. Monday morning he is crying. By ten o'clock he is playing. It is not real."
+
+**The child's account, ten minutes alone.** The worst part of the morning is "when Daddy is coming in and
+Mummy is getting ready". What would happen if he went? A long pause. "They would be alone." Asked who
+"they" are: "Mummy and Daddy." Asked what happens when he stays: "Mummy doesn't go. She stays with me and
+we watch films. Daddy goes to sleep."
+
+**The seven questions, answered.**
+
+| Question | Answer | Cell |
+|---|---|---|
+| Onset and date | Start of term, four weeks after the uncle moved in | Family function |
+| Which days | Mondays, plus two Fridays when father was home | Family function / separation |
+| Body symptoms | Stomach ache, resolves on staying home | Anxiety (secondary) |
+| Is the child behind | Report: average in all subjects, excellent in mathematics | No learning problem |
+| Who is unkind | Nobody named; one friend, Tobi, "he is my best friend" | No school-based threat |
+| What is happening at home | Money; father's nights; uncle in the sitting room | Family function |
+| What the absence makes possible | The mother stays; the parents do not argue; the uncle leaves the room | Family function |
+
+**The Sunday-night mechanism.** The interview with the parents, without the child, produces the
+mechanism in about four minutes. Sunday night is the only evening Chuka is reliably at home and awake.
+It is when the week's money is counted. For the last two months, the counting has not worked: the
+school fees for the term are short, the uncle has not found work, and Chuka has begun to talk about
+taking a second job on Sundays — which would mean he is never home in the evening at all. The
+conversation starts calmly and ends in an argument. Ada cries. Chuka leaves the room.
+
+Ebuka hears all of it. He has done so since he was seven, because the flat has two rooms.
+
+**What Ebuka has constructed.** A nine-year-old, at the stage where moral reasoning is reciprocal and
+causality is sought, has assembled a theory: the argument happens on Sunday night; when he is at home on
+Monday, his mother does not go to work, his father does not leave, and the house is quiet. He has
+therefore found a mechanism for preventing the argument, and he is operating it. He is not lying about
+the stomach ache; he is not fabricating it either. His body is doing what bodies do when a child has
+found that illness is the one currency that works.
+
+**The formulation, in one sentence.** The symptom is a Monday-shaped solution to a marital and financial
+problem, and it is also genuinely distressing to the child — both things are true, and the therapist must
+hold both, because a formulation that makes the child merely strategic will produce an intervention that
+shames him.
+
+**Why this is not "manipulation".** Manipulation requires representing another's belief and intending to
+change it for one's own advantage. Ebuka is not gaining anything a nine-year-old wants. He is paying:
+he misses his friend, he misses mathematics — the one thing he is excellent at — and he is alone in a
+quiet house with a sleeping father. The behaviour is a *sacrifice*, and the clinical error is to read a
+sacrifice as a con.
+
+**The intervention, in four parts.**
+
+**Part 1 — Tell the child the truth, at his level.** The therapist asks the parents to say three things to
+Ebuka, in the session, in their own words: that the money is short and it is the adults' problem; that
+they are not separating; and that he does not have to stay at home to keep them together. Ada cries
+while saying it. Chuka says the third sentence twice. Ebuka says nothing and then asks whether he can go
+and play. That is the correct response.
+
+**Part 2 — Move the argument.** Not "stop arguing" — an instruction no couple can follow. Instead: the
+money conversation happens on Saturday afternoon, out of the flat, in the car, and it does not happen on
+Sunday night. The content does not change; the time and the place do. This is a structural intervention,
+and it is the one that most reliably works, because it removes the child from the audience without asking
+the parents to change their marriage in a fortnight.
+
+**Part 3 — Give the Monday morning a shape.** Ada leaves for work at the same time whether Ebuka goes to
+school or not. She does not stay. The handover to the uncle is explicit and cheerful: "Uncle will walk you
+at seven twenty." Chuka, coming in at five, sleeps in the inner room with the door closed, and the uncle is
+told, in front of Ebuka, that he is in charge of the school run. The Monday morning stops being a
+negotiation and becomes a timetable.
+
+**Part 4 — Give the father a Monday.** Chuka takes Monday afternoon, from two until six, with Ebuka, once a
+week — football, or mathematics, or nothing. This is not a reward for attendance; it is the removal of the
+reason for the absence. The child was keeping the family together with his body. The father now does the
+keeping, on a timetable, in daylight.
+
+### 6.6a Four weeks later
+
+Attendance: nineteen of twenty days. One Monday missed, in the week Chuka's second job was confirmed.
+
+Ada reports that Ebuka asked, on a Sunday evening, "is it Saturday tomorrow?" — meaning, is the money
+conversation today. She said no, it was yesterday, and he went to bed.
+
+The stomach aches have not disappeared. They now occur on Sunday evenings rather than Monday mornings,
+which is a change the therapist regards as clinically meaningful: the symptom has moved from a device that
+altered the household's behaviour to an expression of ordinary anticipatory worry. The distinction between
+a symptom that *does* something and a symptom that *says* something is one of the most useful in this
+book, and it is the difference between the first and fourth sessions of this case.
+
+Chuka's second job means he is away on Sunday afternoons. The Monday afternoon with Ebuka survives, on
+Tuesdays, at Ebuka's request.
+
+**What would have changed the plan.** If the report had shown Ebuka two years behind in reading, the plan
+would have begun with the school and an assessment. If the child had named a child who was hurting him,
+the school would have been the first call and the family work second. If the attendance data had shown a
+scattered pattern with no day structure, the formulation would have moved toward anxiety and the
+intervention to a graded return with a named adult at the gate. And if the parents had refused to move
+the Sunday conversation — a real possibility, and a common one — the therapist would have worked with the
+child alone on the sentence "the argument is not mine to stop", which is a smaller intervention with a
+smaller effect and is sometimes all that is available.
+
+### 6.7 Transcript: telling a nine-year-old the truth
+
+Twelve turns from the third session, with Ebuka present for the first half. The transcript is annotated
+for what the therapist is doing and, more importantly, for what she is *not* doing.
+
+> **T1 Therapist:** Ebuka, your mum and dad told me something and I want them to tell you, because you
+> have been working very hard on something and nobody told you what it was. — *Framing. The child is
+> credited before anything is disclosed, and the disclosure is handed to the parents, not performed by
+> the therapist.*
+>
+> **T2 Ada:** We have been arguing about money. On Sunday nights. You have heard us.
+> — *Plain, no euphemism. Note that she does not ask "have you heard us?" — the question would invite a
+> denial and put the child in charge of the disclosure.*
+>
+> **T3 Ebuka:** *(nods, looks at the floor)*
+>
+> **T4 Ada:** And I am sorry. It is not your fault and it is not your job.
+> — *Two sentences, both necessary. The apology is not for the argument; it is for the child having had
+> to manage it.*
+>
+> **T5 Therapist:** Ebuka, can I ask you something about Mondays? *(he nods)* What do you think would
+> happen if you went to school? — *Question 2, asked again in front of the parents so that they hear the
+> answer, which is the whole point of the session.*
+>
+> **T6 Ebuka:** *(long pause)* They would be alone.
+>
+> **T7 Chuka:** *(quietly)* We are not going anywhere.
+> — *The father's sentence. It is not a reassurance the therapist supplied; it is the one thing the child
+> needed and could not ask for.*
+>
+> **T8 Therapist:** Ebuka, say what you heard. — *A checking move. Not "do you understand?", which
+> produces a yes; "say what you heard", which produces the child's version and shows whether the message
+> arrived.*
+>
+> **T9 Ebuka:** That they are not going anywhere. And the money is not mine.
+> — *The child's formulation, in his own words, is the outcome measure of the session.*
+>
+> **T10 Therapist:** The money is not yours. And here is the other thing. *(to the parents)* Tell him
+> about Monday. — *One more piece of information, again delivered by the parents. The therapist has said
+> almost nothing of substance in this session, which is the technique.*
+>
+> **T11 Chuka:** On Monday I sleep in the back room and Uncle takes you to school. And then in the
+> afternoon it is you and me, every Monday, from two. — *A timetable, not a promise. Concrete, dated, and
+> owned by the father.*
+>
+> **T12 Ebuka:** Can we do maths? — *The child negotiates the content of the repair. This is the sign
+> that he has accepted the new arrangement: he is now planning rather than preventing.*
+
+### 6.8 Laboratory: the school-refusal formulation
+
+**Aim.** To produce a five-cell formulation and a written return plan from a single interview, within
+ninety minutes, and to defend the formulation against an alternative.
+
+**Procedure.** The class divides into trios: therapist, parent, observer. The trainer supplies one of four
+vignettes, each of which loads on two cells. The therapist has thirty minutes for the seven questions,
+five minutes to draw the grid, and fifteen minutes to agree a plan. The observer scores against the
+rubric. Then the trio must argue the case *for the alternative formulation*, which is the part students
+find hardest and learn most from.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Data first** | Accepted adjectives; no dates | Asked for the pattern but not the record | Obtained dates, days, lessons; used them to form hypotheses |
+| **The differential** | Settled on one explanation in the first ten minutes | Considered two cells | Placed evidence in all five, named the loadings, and said what would change the formulation |
+| **The systemic question** | Not asked | Asked, but answered by the therapist | Asked plainly, followed by silence, and the answer used |
+| **The plan** | General advice | A plan with no dates or names | Dated, named, copied to the school, with a fallback |
+| **Position** | Became the school's agent or the family's advocate | Held a position but said so | Held the consultant position and could describe how |
+
+**The distinction that carries most of the marks.** A formulation that cannot be falsified is not a
+formulation. The top band requires the student to state, in advance, what they would expect to see if
+they were wrong — "if this is family function, attendance should improve when the Sunday conversation
+moves, within three weeks; if it does not, I will re-open the anxiety cell."
+
+### 6.9 Six errors
+
+**Error 1 — Believing the child.** Not the child's honesty that is in question; the child's *theory*. A
+nine-year-old's account of why he cannot go to school is a genuine attempt at explanation by someone with
+limited information, and treating it as the formulation stops the enquiry at the first cell.
+
+**Error 2 — Disbelieving the child.** The mirror error, and the commoner one in this age band. "He is
+manipulating me" closes the assessment. The child's stomach ache is real; the question is what it is for.
+
+**Error 3 — Making the school the client.** Once the therapist's plan is "get him back to school", the
+family process becomes an obstacle and the therapist begins to coerce the family on the school's behalf.
+Attendance is an outcome measure, not the treatment.
+
+**Error 4 — Treating the symptom without moving it.** A return plan imposed on an unaddressed family
+process produces a child who attends and deteriorates, or a child who attends for three weeks and then
+presents with something else. The mechanism has to be addressed, not just the behaviour.
+
+**Error 5 — Over-monitoring as a solution.** Parents who respond to a child's withdrawal by
+interrogating, tracking the phone, and removing privacy will produce a child who is present and
+unreachable. The monitoring that works at this age is warm and interested, and it is built years before
+it is needed.
+
+**Error 6 — Ignoring the report card.** A learning difficulty is the most under-detected member of the
+differential, because no child says "I cannot read" and no parent volunteers "he is behind". Ask for the
+document. Every time, and read it in the session rather than at home, because the parent's face while you read it is data you will not get twice.
+
+### 6.10 Culture, faith and the child at school
+
+**Whose school is it?** In many households the school is experienced as an extension of the state rather
+than of the family, and a child's difficulty at school is managed by the family without the school being
+told anything. A therapist who telephones the school without an explicit agreement will lose the family
+in one move. Ask first: "who in this family talks to the school, and what are they allowed to say?"
+
+**The child who is needed at home.** Ebuka's case is not exotic; it is the ordinary structure of many
+households where a parent works nights, a relative is staying, and a nine-year-old is the most reliable
+person in the flat. The clinical question is never "is this child being parentified?" as an accusation,
+but "what is this child actually doing, and who else could do it?" The answer is frequently a specific
+task that can be reassigned to a named adult, and that reassignment is the intervention.
+
+**Faith and the meaning of difficulty.** Households may interpret a child's trouble at school through
+prayer, deliverance, or a spiritual account of the family's season. A therapist who treats that account
+as a competitor to the assessment will be heard as an opponent. The workable position is to accept the
+household's framework as the language in which the difficulty is held, and to add a second language —
+what the child can do, what the school observes, what the report says — without asking anyone to give up
+the first.
+
+**The high expectations question.** Many Nigerian and West African households hold a standard of academic
+achievement that is both a resource and a pressure. The resource is that the child's effort is noticed.
+The pressure is that a child who is average in a family of high achievers may conclude that she is
+inferior at eight. The clinical move is not to lower the standard but to widen the field: find the domain
+in which this child's effort produces a product, and make sure one adult receives it.
+
+> **DEBATE** — "A nine-year-old should be told the truth about the family's money, including the
+> arguments." Argue for: the child is already hearing it, the silence is what produces the symptom, and
+> the truth returns the burden to its owners. Argue against: children cannot hold adult information
+> without cost, disclosure serves the parents' relief rather than the child's need, and "the truth" at
+> nine is a version of the truth that someone has chosen. Then decide what you would actually say, word
+> for word, to a nine-year-old whose parents cannot pay the fees.
+
+### 6.11 Evidence note
+
+**What the research supports.** The association between peer acceptance in middle childhood and later
+adjustment is one of the more robust findings in developmental psychopathology, with prospective studies
+showing that peer rejection at eight to ten predicts internalising and externalising difficulties into
+adolescence — though the effects are moderated strongly by the presence of at least one reciprocated
+friendship, which is the finding that matters clinically. A child with one friend is not a child without
+peers.
+
+**What is weaker.** The evidence on school refusal is fragmented because the samples are heterogeneous:
+studies mix anxious children, oppositional children, and children absent for family reasons, and then
+report a single treatment effect. The best-supported component is not a therapy brand but a structural
+one — a rapid, coordinated return to school with parental involvement and a school-based adult — which
+appears in almost every effective protocol regardless of the theoretical label on it.
+
+**What is not supported.** The claim that *early* intensive academic instruction in the preschool years
+produces durable advantage. The evidence points the other way: gains in directly instructed literacy and
+numeracy in the early years tend to fade, while the regulatory and social capacities that make use of
+instruction possible are the ones that persist. This is the empirical basis for the previous week's
+argument that school readiness is regulation.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different
+outcomes depending on timing and context.* The same Monday refusal, in a household with a stable income
+and an available father, would have resolved without treatment in most cases. In this household, at this
+moment, it became the mechanism by which a family stayed organised.
+
+### 6.12 Key terms
+
+**Industry versus inferiority** — Erikson's fourth stage; the consolidation of competence, and the risk
+of a settled conviction of inadequacy.
+
+**Comparative self-concept** — the shift, around seven, from absolute to relative self-description, and
+the beginning of self-description in other people's terms.
+
+**Monitoring** — parental oversight of where, with whom, and how the child can reach an adult; effective
+when warm and predictable.
+
+**Scaffolding** — support calibrated to current competence and withdrawn as competence grows.
+
+**School refusal** — non-attendance driven by emotional distress or family process, distinguished from
+truancy (which is concealed) and from exclusion.
+
+**Graded return** — a dated, stepped plan for re-entry, with a named adult and predictable supports.
+
+**Parentification** — the assignment of adult responsibilities to a child; useful as a description and
+harmful as an accusation.
+
+**Reciprocated friendship** — a mutual, named friendship, which moderates the effect of peer rejection
+more strongly than acceptance by the group.
+
+**Locus of control** — the child's developing sense that outcomes follow from her actions; built at this
+age by tasks that are hard but achievable.
+
+### 6.13 Self-test
+
+1. A parent says "he is manipulating me". Give the definition of manipulation, and explain why it is
+   usually the wrong word for a nine-year-old.
+2. Name the five cells of the school-refusal formulation and one piece of evidence that would fill each.
+3. Why is a symptom that *does* something different from a symptom that *says* something, and how does the
+   distinction change treatment?
+4. What is the difference between monitoring and over-monitoring, and what does each produce?
+5. A child of nine describes friendship only as "we play football". Is this delayed? What else do you need
+   to know?
+6. Why does the laboratory rubric award marks for stating what would prove you wrong?
+7. In the Okonkwo case, what would you have done if the parents had refused to move the Sunday
+   conversation?
+8. Name three things a school can do that cost nothing and change a child's week.
+
+**Answers.** *(1)* Manipulation requires representing another person's belief and intending to change it
+for one's own advantage; at nine the capacity is emergent and the child in this pattern is usually
+*sacrificing* something rather than gaining, so the word misreads both the mechanism and the direction of
+the behaviour. *(2)* Anxiety, separation, school-based threat, learning, family function — evidence might
+be: body symptoms resolving on staying home; distress at the gate but not at the classroom; a named pupil
+or a phone message; a report showing a two-year gap; attendance data patterned by a day on which the
+child's presence changes the household. *(3)* A symptom that does something is functional within the
+system and will persist until the system's need is met elsewhere; a symptom that says something is an
+expression and responds to being heard and to the child's own coping. The first needs structural change,
+the second needs the child's distress addressed. *(4)* Monitoring is oversight with interest and warmth;
+over-monitoring is surveillance without relationship. The first produces a child who uses adults; the
+second produces a child who manages adults. *(5)* Not necessarily — at nine friendship is often described
+in terms of shared activity; you need to know whether there is a reciprocated friendship, whether the
+child is invited and refuses or is not invited, and what the parents' own friendships look like.
+*(6)* Because a formulation that cannot be falsified cannot guide treatment, and because stating the
+disconfirming evidence is the only protection against the therapist's preferred theory. *(7)* Work with
+the child alone on the sentence "the argument is not mine to stop", teach the parents one sentence to say
+to him before the argument begins, and re-open the case if attendance does not improve — a smaller
+intervention with a smaller effect, honestly labelled. *(8)* A named adult at the gate; a signal a child
+can use to ask for help without speaking in class; seating next to a specific child; a five-minute
+check-in at the end of the day.
+
+### 6.14 Reflective task
+
+Write down, in the original words if you can remember them, one thing an adult told you about what you
+were bad at between the ages of seven and eleven. Then write down the domain in which you were
+competent, and who noticed. Then answer: how many years did the first sentence take to stop being true?
+Most students find the second question harder than the first, which is the point.
+
+### 6.15 Further reading
+
+- Erikson, E. *Childhood and Society* — the industry stage, in the chapter on the school years.
+- Harter, S. *The Construction of the Self* — the comparative self, and its measurement.
+- Ladd, G. "Peer relationships and social competence" — rejection, friendship, and the moderating effect
+  of one friend.
+- Kearney, C. *School Refusal Behavior in Youth* — the functional model that underlies this week's grid.
+- Selman, R. *The Growth of Interpersonal Understanding* — the friendship stages used above.
+
+*Next: Week 7 — Adolescence I: puberty, identity, autonomy.*
 
 ---
 
