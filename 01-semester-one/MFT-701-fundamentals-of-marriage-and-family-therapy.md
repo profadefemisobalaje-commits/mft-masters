@@ -5771,35 +5771,688 @@ diagnosis of your motives, it is an example of how the technique works.
 
 ## Week 9 — Formulating relationally
 
-A formulation is a *provisional, testable explanation* that connects the presenting problem to the
-system that maintains it, and points to where you would intervene.
+### 9.1 The lecture in ninety minutes
 
-Use the 5-P grid (presenting, predisposing, precipitating, perpetuating, protective) and add two
-relational columns: *who is involved* and *what function the symptom serves*.
+Assessment gathers. Formulation explains. The distinction is not academic: a service can be full of assessments and
+empty of formulations, and the result is a file that records everything and understands nothing. This week is about
+the second half of the process — turning the material of Weeks 6 to 8, plus whatever standardised measures the
+service uses, into a relational explanation that generates a plan and can be tested.
 
-| Domain | Adeyemi family |
+The week's central claim: **a formulation is a hypothesis written in a form that could be wrong.** Everything else
+follows from that sentence. If your formulation could not be wrong, it is a description or a belief. If it could be
+wrong but you have not said what would show it to be wrong, it is not yet usable. If it could be wrong and you have
+said how, you have a professional document.
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Assessment versus formulation | Two files on one case, both complete | Identify which explains |
+| 10–25 | What a formulation does | The five jobs, with examples of each | Match jobs to sentences from real reports |
+| 25–45 | A relational template | Build one on the board from a case | Supply the material from the case bank |
+| 45–60 | Competing formulations | Four lenses on one family; four plans | Choose a lens and defend the plan |
+| 60–72 | Writing it | The one-page format; the testability clause | Draft one page in pairs |
+| 72–85 | Presenting it to the family | Demonstration and correction | Rehearse the first three sentences |
+| 85–90 | The network | Who else is in the system, and who decides | Map one real network |
+
+### 9.2 What a formulation is, and the five jobs it does
+
+A formulation is a provisional, collaborative explanation of why this difficulty, in this family, at this time, and
+what would change it. Five jobs, each of which a good formulation performs explicitly.
+
+**Job 1 — it organises the information.** The assessment produces forty facts: ages, diagnoses, dates, scores,
+incidents, accounts. A formulation selects and arranges them so that some are central and others are background.
+The selection is a judgement and should be visible as one: "I am treating the father's absence as central, and the
+school's response as background, because the pattern changes when he is at home."
+
+**Job 2 — it explains the maintenance.** The most important single sentence in any formulation is the one that
+answers: *what keeps this going now?* Not why it started — that is usually unknowable and almost never the lever —
+but what is holding it in place this month. A formulation without a maintenance account is a history.
+
+**Job 3 — it predicts.** A formulation should say what will happen if nothing changes, and what should change first
+if the intervention works. "If the parents continue to disagree about discipline in front of the child, the child's
+behaviour will not change, whatever programme is used; if they agree on one rule for two weeks, the behaviour should
+reduce within a fortnight." That sentence is testable, and it commits the therapist.
+
+**Job 4 — it generates a plan.** The plan should follow from the formulation with a visibility that a colleague
+could trace. If the formulation says the problem is maintained by the parents' disagreement, the plan must include
+work on the parents' disagreement; a plan of individual sessions for the child would contradict the formulation, and
+either the plan or the formulation is wrong.
+
+**Job 5 — it can be revised.** Formulations are hypotheses, and they change with evidence. A formulation that
+survives twenty sessions unchanged is either miraculously correct or no longer being used.
+
+**What a formulation is not.** It is not a diagnosis (a classification of a condition), not a summary (a condensed
+record), not an interpretation delivered to the family as insight, and not a story that makes the therapist feel
+clever. The temptation of the elegant formulation is the subject of one of this week's errors.
+
+> **CAUTION** — Formulation is a professional activity with a real risk of harm: a persuasive formulation can
+> create a self-fulfilling account that the family adopts and cannot challenge. Write formulations in language the
+> family could read, and give them the chance to disagree with it.
+
+### 9.2a Bringing the numbers into the formulation
+
+Most services now use standardised measures, and trainees often treat them as an audit requirement rather than as
+clinical material. Three ways to build self-report data into a relational formulation.
+
+**Use the discrepancy, not the score.** The SCORE-15 and similar family measures give several viewpoints: each
+member rates the family's communication, the difficulty, and their own coping. The total score is the least
+interesting number on the page. What matters is the pattern of disagreement: a family where the mother rates the
+difficulty at 5 and the father at 1, when both are describing the same household, is telling you something about
+who carries the worry. The formulation should say so: "The parents' ratings of the difficulty differ by four points
+on a five-point scale; the mother's rating is consistent with her account of being alone with it."
+
+**Use the change, not the level.** A family that begins at a high level of distress and falls sharply is improving
+faster than a family that begins at a moderate level and does not move. Plot the scores, show the family the plot,
+and ask them what they make of it. Families find their own data persuasive in a way that a therapist's interpretation
+is not, and the plot gives the therapist a shared object of attention that is not a person.
+
+**Use the feedback to break the bad-news loop.** Where the scores for a young person are far worse than the parents'
+ratings, the therapist has evidence for something the young person may not be able to say and the parents may not be
+able to hear. The formulation can hold it: "The two ratings do not match, and both are true — this is how it looks
+from where each of you is sitting." This is often the most useful intervention of a first session.
+
+**What measures cannot do.** They cannot tell you the mechanism, they are culturally loaded in ways that are still
+poorly understood, and they are easy to over-interpret. A score is a sentence the family has said in a constrained
+format; treat it as one piece of what the family has said, not as the family's verdict.
+
+### 9.3 The 4 Ps in a systemic key
+
+The most widely used formulation structure in clinical training is the four Ps: predisposing, precipitating,
+perpetuating, protective. It transfers well to family work if each P is rewritten in relational terms.
+
+**Predisposing (relational history).** What in the family's history makes this difficulty more likely? Patterns
+transmitted across generations, attachment experiences, previous losses, models of marriage and parenting,
+migration history, experiences of discrimination, and the family's relationship with institutions. Not "genetics"
+alone, and not a list of traumas: an account of how the family learned to manage the kind of stress it now faces.
+
+**Precipitating (the event and its meaning).** What happened, and what did the family make of it? The event is
+usually identifiable — a redundancy, a death, a move, a diagnosis, an adolescence, a birth. The meaning is what
+converts an event into a crisis: "his redundancy meant that he was no longer the provider, and in this family that
+is what a man is." Both parts are needed; the event alone is a chronology, the meaning alone is a mood.
+
+**Perpetuating (the pattern).** What is keeping it going now? The cycle between the members, the family's attempted
+solutions, the responses of the wider system (school, employer, clinic), and the meanings that have hardened. This
+is the section that does the clinical work, and in a family formulation it should name at least one loop with three
+or more elements, and at least one attempted solution that has become part of the problem.
+
+**Protective (the resources).** What is holding the family together and what can be built on? Not a list of
+compliments: a specific inventory of capacities — who works, who is affectionate with whom, what the family has
+survived, which relationships are intact, which professionals are allies, what the family does well on good days.
+
+**A fifth P for family work: the pattern of help-seeking.** How has this family used help before, and what happened?
+Families that arrive with a history of failed services have a formulation-relevant history of failed services, and
+the history predicts how this episode will go unless the therapist changes something (see Week 5).
+
+**Worked four-P summary, the Okonkwo family.**
+
+| P | Content |
 |---|---|
-| Presenting | Amara, 16, school refusal × 6 weeks; parental conflict over discipline |
-| Predisposing | Maternal depression; paternal alcohol misuse; migration severed the extended-family buffer |
-| Precipitating | Father's redundancy; best friend left the city; transition to senior secondary |
-| Perpetuating | Pursue–withdraw cycle between parents; mother–daughter coalition; avoidance rewarded by anxiety relief; disrupted sleep |
-| Protective | Both parents attend; church community; Amara's engagement with art; an aunt who is trusted |
+| Predisposing | Mother the eldest of five, raised siblings from 19 after her father's death; father posted away for work since 2022; both parents raised in households where children were disciplined by senior relatives rather than by parents |
+| Precipitating | Paternal grandmother, Ebuka's daytime carer from 2017 to 2022, died in 2023; new baby born 2024; school's first behavioural letter in the same term |
+| Perpetuating | Ebuka's defiance escalates in the mornings; mother responds with threats she does not carry out; father, home at weekends, over-corrects; school telephones the mother, who feels judged and does not tell the father; the parents' only conversations are about Ebuka |
+| Protective | Mother is resourceful and organised; father is affectionate on return and is not distant by choice; a maternal aunt is a trusted ally; the school's head of year is willing to meet |
+| Help-seeking | First contact with services; the mother telephoned after the school's second letter, without telling her husband |
 
-**The intervention sentence.** End every formulation with one sentence of the form: *"Given X, Y and Z,
-the most useful focus now is W, because it is the most changeable and the most load-bearing."* For the
-Adeyemis: "Given the coalition and the parental distance, the most useful focus now is the couple's
-conflict cycle, because it is what the symptom is currently regulating."
+**What the table does.** It shows, in five rows, why a plan of "parenting classes for the mother" would fail (the
+perpetuating pattern is triadic and institutional) and why a plan involving the father, the school and the
+bereavement is more likely to work.
 
-**Share it.** A formulation that is never spoken is a private theory. Offer it as a draft with three
-parts: here is what I think, here is what I am unsure about, here is what I need from you.
+### 9.4 A one-page relational formulation template
 
-> **ASSIGNMENT (30%)** — 2,000 words plus a genogram. Choose a disguised or composite family from
-> placement or a detailed role-play. Include: genogram, 5-P grid, circular formulation with a diagram,
-> three competing hypotheses, one intervention plan with rationale, and a reflection on your own
-> reactivity to this family.
+Services use many templates. The one below is deliberately short, because a formulation longer than a page is
+usually two formulations with the contradiction hidden.
+
+**1. The presenting pattern (three sentences).** Who, what, when, and what has been tried.
+
+**2. The central loop (a diagram or four sentences).** The cycle that maintains the problem, with the members'
+behaviour at each step. This should be drawable.
+
+**3. The meanings that hold the loop in place.** What each member believes about the others, and about themselves,
+that makes the behaviour seem necessary.
+
+**4. The context.** Developmental stage, health, work, money, housing, migration, culture, faith, and the
+institutions involved.
+
+**5. History in one paragraph.** How the family arrived here, with the dates that matter.
+
+**6. What has been tried, and what it did.** Including previous therapy and its ending.
+
+**7. Strengths and resources.** Specific, evidenced, and usable in the plan.
+
+**8. Risk.** Stated plainly, with a management plan, or stated as "no current indicators" after a screen.
+
+**9. The plan, derived.** Each element of the plan should name the element of the formulation it addresses.
+
+**10. The testability clause.** Two or three sentences: what would show this formulation to be wrong, when it will
+be reviewed, and what would be done differently if it is.
+
+**The testability clause, worked.** "If the central loop is the parents' disagreement about discipline, then two
+weeks of a single agreed rule should reduce the morning conflict, even before any work on the child. If the
+mornings do not change, the loop is elsewhere — most likely in the mother's bereavement, which we have not yet
+addressed — and I will shift the focus at the review in three weeks."
+
+### 9.5 Worked formulation: the Adeyemi family, six sessions in
+
+A full formulation, written as it would appear in a clinical record after six sessions. Read it for how the sections
+connect, not for the content.
+
+**Presenting pattern.** Amara, 16, has not attended school for four months. Mornings follow a five-link sequence
+(wake, refuse, insist, cry, telephone the school with an untrue explanation). The mother has contacted the school
+four times and has told nobody in the extended family. The father is away Monday to Friday and has attended two of
+the six sessions.
+
+**Central loop.** Amara refuses; the mother insists and then telephones the school; the school accepts the
+explanation; Amara stays home; the mother spends the day angry and guilty; the father returns at the weekend and is
+told only the headline; the mother feels alone with it; the next morning the sequence repeats with less hope. A
+second loop runs between the parents: the father's advice at weekends is experienced as criticism, so the mother
+tells him less, so he knows less, so his advice is less useful.
+
+**Meanings.** The mother believes that a good mother manages her children alone, and that asking for help is
+evidence of failure; her own mother managed four children after a death, and this is the standard she measures
+herself against. Amara believes that her mother cannot bear her distress, and that staying home protects them both
+from a conversation neither can have. The father believes he has already lost standing in the household and that
+his contribution will be rejected.
+
+**Context.** Two incomes, one of them insecure; the father's work is in another state and is not negotiable in the
+short term; the maternal grandmother is 71 and lives nearby; the family attends a Pentecostal church where the
+mother is a respected member, which raises the cost of disclosing the difficulty; Amara is in the final two years of
+secondary school, with examinations in eight months.
+
+**History.** The mother was 19 when her father died and she raised four siblings. She married at 24 and had Amara at
+25. The father's mother died when he was 16, the year he left for Lagos. The redundancy in 2019 began two years of
+his being at home; the new post in 2021 restored the income and removed him from the household in the week.
+The school refusal began nine months after the father's return to work and three months after Amara's closest friend
+left the school.
+
+**What has been tried.** Insistence, withdrawal of the telephone, a conversation with the school's counsellor, prayer
+and a fast, and a three-week period in which the mother took leave from work to supervise the mornings. All were
+reasonable; each was tried alone; none addressed the loop.
+
+**Strengths.** The parents agree on the goal and disagree only on method; the mother is resourceful and has kept the
+household functioning through two difficult years; the father is affectionate and wants to be involved; the
+grandmother is available and willing; the school's head of year has offered flexibility; Amara has a part-time job
+she values and wishes to keep.
+
+**Risk.** No current indicators of self-harm or suicidal ideation; no domestic violence disclosed and no indicators
+on screen; safeguarding referral not indicated at this stage; the school's threat to report the absences is live and
+is itself a stressor. Reviewed each session.
+
+**Plan, derived from the formulation.** (1) Address the institutional loop first: a letter to the school written
+with the mother, ending the deception, and a meeting at which the therapist is present. This addresses the
+"meanings" section — the mother's fear of being seen as a bad mother. (2) Both parents in the room for sessions 4, 5
+and 7, to interrupt the weekend–weekday information loop. (3) A conversation about the maternal standard of
+self-sufficiency, framed as history rather than as criticism. (4) A small, staged return to school, negotiated with
+Amara and the school, beginning with two mornings a week in a supported room. (5) Bereavement and loss work with the
+mother only if she raises it, and not before the school situation is stable. (6) Review at session nine.
+
+**Testability clause.** If the institutional loop is central, then ending the deception should reduce the mother's
+guilt and the morning escalation within three weeks, before any change in attendance. If the morning sequence does
+not shift, the central loop is more likely to be the mother–daughter dyad, or the marriage, and the plan will be
+reordered at the review.
+
+**What this formulation does that an assessment would not.** It commits to a lever, a sequence of moves, and a
+condition under which the therapist would be wrong. It could be read by a colleague, disagreed with, and improved —
+which is the professional standard.
+
+### 9.5a The network map: one case, drawn
+
+The technique of mapping the professional network is best shown rather than described. Here is the network for the
+Okonkwo family, drawn in the fifth session and used in the case conference.
+
+**The nodes.** Mother; father (weekends); Ebuka (9); the new baby; the maternal aunt; the deceased paternal
+grandmother; the school (head of year, class teacher, SENCO); the general practitioner; the clinic (therapist); the
+church (a pastor the mother trusts but has not told).
+
+**The links, as drawn.** A thick line between mother and school, labelled "telephone, escalating"; a dashed line
+between father and school, labelled "nothing"; a double line between mother and aunt, labelled "support"; a
+conflicted line between mother and father, labelled "reports on Saturday"; a dotted line from the therapist to the
+school, labelled "consent given, letter sent"; and a symbol for the grandmother with a cross, positioned close to
+Ebuka and to the mother.
+
+**What the drawing showed that the file did not.** Three things: the school had more contact with this family than
+any professional, and all of it was aversive; the father had no relationship with the institution that was defining
+his son; and the one person with moral authority in the mother's life — the pastor — was entirely outside the
+network, which meant the family's principal source of meaning and support was uninformed about the difficulty and
+therefore unable to help.
+
+**What changed as a result.** The therapist wrote to the school with consent, naming a single contact and asking for
+fortnightly review by telephone with both parents; the school agreed, and the head of year spoke to the father for
+the first time. The father's inclusion in the institutional loop was, on the family's own account at the review, the
+change that mattered most. The pastor was not contacted, at the mother's request, and that decision was recorded.
+
+**The habit to build.** On one page, name every institution and every significant person, draw the links, label each
+link with its quality and its frequency, and then ask: which link is doing the most harm, and which missing link
+would do the most good? The answer to the second question is usually the first thing the plan should address.
+
+### 9.6 Four lenses on one family
+
+The same case, formulated four ways. The purpose of this section is not relativism — "any formulation will do" — but
+discipline: each lens must be stated in a form that could be tested, and the therapist must be able to say why they
+chose this lens and what would make them change it.
+
+**The case.** A couple, married eleven years, two children (7 and 4). They present with "constant arguing, no
+affection, and we do not know whether we should stay together". Both work; the wife earns more; the husband's
+mother lives with them; the wife says the husband is "never on my side"; the husband says the wife "has no respect
+for my mother".
+
+**Lens 1 — structural.** The household contains a three-generational hierarchy in which the grandmother holds
+executive authority over the children and the parenting, and the couple has no boundary around itself. The wife is
+in a coalition with the children against the grandmother; the husband is in a coalition with his mother. The
+maintenance mechanism is the cross-generational alliance and the absence of a clear couple subsystem.
+
+*Plan:* strengthen the couple boundary (a weekly conversation with a defined agenda; decisions made by the parents
+before consulting the grandmother); restructure the hierarchy with the grandmother's authority acknowledged but
+limited to specific domains; then work on the marriage.
+
+*Test:* if the formulation is right, agreeing even one domain in which the parents decide without the grandmother
+should reduce the arguing within three weeks.
+
+**Lens 2 — emotion-focused.** The arguing is a protest against disconnection. Underneath the conflict are primary
+emotions — the wife's fear of not mattering, the husband's shame at being judged inadequate — which are expressed as
+secondary anger. The cycle is: she criticises to be heard; he defends or withdraws to avoid shame; she escalates;
+he withdraws further. The arguments are the couple's way of staying engaged.
+
+*Plan:* track the cycle; access the primary emotions; enact a new cycle in which she can name her fear and he can
+stay present; consolidate.
+
+*Test:* if the formulation is right, the wife's ability to express the fear without criticism should produce a
+softening in the husband within one or two sessions. If he withdraws further, the formulation needs revision.
+
+**Lens 3 — narrative/social-constructionist.** The couple are living inside a story about what a marriage and a
+family should be — the wife's story of partnership and equality, the husband's story of filial duty and respect,
+the grandmother's story of a household she holds together. The problem is not the people but the collision of
+stories, each of which is legitimate and neither of which has room for the other.
+
+*Plan:* externalise the conflict ("the Respect argument", "the Loyalty problem"); map the influence of each story;
+find unique outcomes where the couple have resisted the conflict; re-author a story that can hold both duties.
+
+*Test:* if the formulation is right, externalising should reduce defensiveness and allow the couple to describe
+their positions without accusing each other, within two sessions.
+
+**Lens 4 — behavioural/cognitive-behavioural with a family frame.** The couple's interaction is maintained by
+negative reciprocity and by cognitive attributions ("she does not respect me", "he always takes his mother's side")
+that are confirmed by selective attention. The grandmother's presence increases the frequency of the triggering
+events. There is also a skills deficit in negotiation and repair.
+
+*Plan:* behavioural exchange (daily check-in, agreed small positives); attribution retraining; communication and
+problem-solving training; a structured conversation with the grandmother about domains.
+
+*Test:* if the formulation is right, a two-week behavioural exchange should raise the rate of positive exchanges
+measurably and reduce the frequency of arguments.
+
+**What the comparison teaches.** The four lenses identify overlapping and partly incompatible mechanisms, and each
+generates a plan that would probably help some couples. Three disciplines follow.
+
+*First, choose deliberately and say why.* "I am working structurally first because the household hierarchy is the
+most immediate source of the wife's experience of being unsupported, and because a behavioural programme will not
+survive the grandmother's daily countermanding."
+
+*Second, write the test.* Each lens above comes with a condition under which it would be falsified. A therapist who
+cannot state such a condition is practising a faith rather than a method.
+
+*Third, change lenses when the test fails.* The most common professional failure is not choosing the wrong lens; it
+is keeping it after the evidence has gone the other way, because the therapist is more attached to the model than to
+the family.
+
+> **DEBATE** — If all four formulations can be defended, in what sense is formulation a professional activity rather
+> than an artistic one? Argue that the discipline lies in the testing, not in the content.
+
+### 9.7 Annotated transcript: presenting a formulation to a family
+
+A formulation is only useful when the family can hear it. Below is the presentation of the Okonkwo formulation, six
+turns in, with the therapist's choices annotated.
+
+> **T1 Therapist:** I want to tell you what I think is happening, and then I want you to tell me where I have got it
+> wrong. Is that all right?
+> **T2 Mother:** Yes.
+> **T3 Therapist:** What I see is this. Ebuka's difficult mornings started in the term after his grandmother died.
+> She had looked after him every day for five years, and nobody has really talked about that in this room.
+> **T4 Mother:** (quietly) No.
+> **T5 Therapist:** And I think the mornings became the place where the sadness goes. He is difficult, you are tired,
+> the school telephones, and there is no room left for missing her. Does that fit?
+> **T6 Mother:** (crying) It fits.
+> **T7 Therapist:** There is a second part, and this is about the two of you. When Ebuka is difficult, you handle it
+> alone all week. On Saturday his father comes home and hears about it, and by then it has become a report.
+> **T8 Father:** She does not tell me until it is a problem.
+> **T9 Therapist:** And when she tells you, what happens?
+> **T10 Father:** I say what she should have done. She says I am not there. Then we are arguing.
+> **T11 Therapist:** So the boy's difficult mornings have become the way the two of you talk about the week. I am not
+> saying anyone intends that. I am saying that this is how it works at the moment.
+> **T12 Mother:** So what do we do?
+
+**Annotations.** *T1* asks permission and sets the correction clause before delivering anything. This is not
+politeness; it changes the status of what follows from a verdict to a proposal, and it is the single most reliable
+way to avoid the family experiencing formulation as judgement.
+
+*T3* begins with a date and a person, not a concept. It uses no clinical vocabulary. The phrase "nobody has really
+talked about that in this room" attributes the silence to the room rather than to any individual, which is both true
+and safe.
+
+*T5* is the formulation itself, in three clauses, ending with an invitation: "Does that fit?" The invitation is
+genuine. *T6* is the moment the formulation is accepted, and note that it is accepted because it is about a loss and
+not because it is about behaviour.
+
+*T7–T11* present the second, harder part. The therapist uses "I am not saying anyone intends that" to pre-empt the
+shame that would follow an account of the parents' loop, and she uses the plainest possible description ("the way
+the two of you talk about the week"). The formulation is delivered not as an explanation of the family but as a
+description of a mechanism, which is what makes it acceptable.
+
+*T12* is the question the therapist wanted. The family asking "what do we do?" is the sign that the formulation has
+landed: it has become useful rather than merely true.
+
+**What the therapist did not say.** She did not say "Ebuka is depressed" or "this is unresolved grief"; she did not
+use the words "enmeshed", "triangulated" or "parentified"; she did not present the formulation as complete; and she
+did not offer the plan in the same breath as the formulation, because a family that is absorbing an explanation
+cannot also absorb a task. The plan came eight minutes later, after the father had said something about his own
+mother's death that he had not said before.
+
+### 9.8 Laboratory: three formulations, one transcript
+
+The week's assessed practical. Students work from a single thirty-minute video or transcript (the case bank provides
+three), in groups of three, with a strict division of labour.
+
+**Stage 1 (20 minutes) — three lenses.** Each student writes a one-page formulation using a different lens (choose
+from structural, emotion-focused, narrative, behavioural, psychodynamic-systemic). All three must use the ten-part
+template in 9.4 and must include the testability clause.
+
+**Stage 2 (20 minutes) — the challenge.** Each student presents for five minutes; the other two attack the
+formulation on three grounds only: is the maintenance account specific? does the plan follow from it? is the
+testability clause falsifiable? Nothing else may be criticised.
+
+**Stage 3 (20 minutes) — synthesis.** The group produces one formulation that would satisfy all three critics, which
+usually means writing a formulation that names a primary mechanism, acknowledges a secondary one, and states what
+would change the therapist's mind.
+
+**Stage 4 (10 minutes) — the family version.** Translate the synthesised formulation into 150 words that could be
+said aloud to the family, with no jargon and no blame.
+
+**Marking rubric.**
+
+| Criterion | Weight | Full marks |
+|---|---|---|
+| Maintenance account | 25% | A specific loop with three or more elements, and one attempted solution identified |
+| Fit to evidence | 20% | Every claim traceable to something observed or reported; speculation marked as such |
+| Plan derived | 20% | Each element of the plan names the formulation element it addresses |
+| Testability | 20% | A falsifiable clause with a review point and a stated alternative |
+| Family version | 15% | 150 words, plain language, no jargon, correctable by the family |
+
+**The commonest failure.** A formulation that reads well and cannot be tested. The marker's question is always: "what
+would you expect to see in the next three weeks if this is right, and what if it is wrong?" Students who cannot
+answer have written an essay.
+
+### 9.9 Six errors in formulation
+
+1. **The elegant formulation.** A formulation so satisfying that the therapist stops collecting evidence. Fix: write
+   the testability clause before the formulation, not after.
+2. **The single-cause formulation.** "Everything is about his mother." Families are over-determined; a single cause
+   is usually a single lens mistaken for the whole. Fix: name a primary mechanism and at least one secondary one.
+3. **The formulation by adjective.** "The family is enmeshed and the father is peripheral." Adjectives cannot be
+   tested or changed. Fix: convert every adjective into a sequence with at least two people in it.
+4. **The plan without a mechanism.** A list of interventions — genogram, communication skills, a referral for the
+   child — with no account of why these and not others. Fix: delete any element of the plan you cannot connect to the
+   formulation.
+5. **The formulation withheld from the family.** A rich internal document the family never hears, so the family is
+   working with a different story from the therapist's. Fix: present it in plain language and invite correction.
+6. **The formula that never changes.** A formulation written at assessment and unchanged at discharge. Fix: date it,
+   review it, and record what changed and why.
+
+### 9.10 Culture, faith and power in the formulation
+
+Formulation is where a therapist's assumptions about families become invisible and consequential. Four disciplines.
+
+**Name the cultural frame you are using.** A formulation that treats a three-generational household as
+"enmeshment", or a father's involvement of his own father in decisions as "diffuse boundaries", has imported a
+normative model of the nuclear family and applied it as a standard. The alternative is to ask what the family's own
+model is, and to formulate the difficulty relative to *their* model: "In this family, the eldest son's duty is to
+consult his father before a decision of this size. The difficulty is not the consultation; it is that his wife
+learned about the decision last."
+
+**Take the spiritual account seriously in the formulation.** Where a family attributes the difficulty to spiritual
+causes, the formulation should record the attribution and its consequences — who in the family believes it, what it
+licenses, what treatment it produces, and what the family would accept as evidence of change. This is not an
+endorsement; it is accurate formulation. The one exception, as ever, is where the belief is endangering a child.
+
+**Formulate power and material conditions, not only relationships.** A formulation that names "the couple's
+communication" as central when the family's actual difficulty is a husband's unemployment, an unpaid rent, or an
+immigration status that forbids work, has located the problem in the wrong domain — and has implicitly blamed the
+family for a structural condition. Ask directly: "What in your circumstances, rather than in your relationships,
+would have to change for this to get better?"
+
+**Watch your own position.** The therapist is part of the system: a professional with authority, a cultural
+position, a class position, sometimes a gender and generational position that mirrors or inverts the family's. The
+formulation should include a line about the therapist's influence where it is relevant: "I noticed that I aligned
+with the mother early, and that the father's silence may be a response to that alignment."
+
+> **AUDIT** — Take your last written formulation and count the number of claims about the family that came from an
+> institution rather than from the family: the school's letter, the referring doctor's note, a previous report. If
+> more than a third of the formulation's claims are institutional, your formulation is about the family's file, not
+> the family.
+
+### 9.10a Formulating across language, and with an interpreter
+
+A formulation built through an interpreter is a formulation at one remove, and the discipline required is greater
+than most training acknowledges. Five rules.
+
+**Brief the interpreter on the formulation, not only on the case.** An interpreter who knows that the therapist is
+testing a hypothesis about a mother's standard of self-sufficiency will render the relevant words with the relevant
+weight. An interpreter who has been told only "the family is Nigerian" will render the words literally and lose the
+meaning.
+
+**Ask for the family's words, and then ask what they mean.** Interpreters routinely smooth idioms into clinical
+English: a mother's "my heart is not settled" becomes "she reports anxiety", and the therapist loses the phrase that
+the family could have recognised. Ask the interpreter to give you the image, then the sense, then the clinical
+gloss.
+
+**Never formulate from a summary.** If the interpreter summarises three minutes of a grandmother's speech into one
+sentence, you have the interpreter's formulation, not the family's account. Ask for the long version at least once
+per session, and note whose sentence you are using when the formulation later goes into the record.
+
+**Check the register, not only the content.** Whether a father is addressed formally or familiarly, whether a
+mother is spoken to as a wife or as a daughter-in-law, whether a child is included in the conversation or discussed
+over — these are the relational facts the formulation needs, and they are usually lost in translation unless the
+interpreter is asked about them.
+
+**Consider who is interpreting.** A child interpreting for a parent, a neighbour from the same community, or a
+member of the family's church all change what can be said. The professional standard is an independent interpreter,
+and where that is impossible, the limitation should be recorded in the formulation as a limitation of the evidence.
+
+**A final note on the therapist's own language.** If you are working in a second language or a second dialect, your
+formulation will be built from fewer, cleaner, more formal exchanges than you would have in your first. Expect to
+under-hear humour, irony, proverbs and insult, and compensate by asking more directly: "When she said that, was she
+angry, or was she joking?" Families will tell you, and they will usually be pleased to be asked.
+
+### 9.11 Evidence note: how strong is the evidence for formulation?
+
+An honest evidence note, because formulation is the most widely taught and least empirically examined activity in
+the profession.
+
+**What is not established.** There is no body of evidence showing that a formulation is *accurate* — that the
+mechanism a therapist names is the mechanism operating. Studies of clinical judgement consistently show modest
+reliability and systematic bias: clinicians weight vivid and recent information, they form early hypotheses and then
+seek confirming evidence, and they agree poorly with each other about the same case. Formulation, being a judgement
+task, inherits all of these limits.
+
+**What is weakly established.** There is some evidence that formulations add predictive value beyond diagnosis in
+some settings, and that formulation-driven treatment selection outperforms unstructured selection in routine care.
+The evidence is thin and heterogeneous, and it does not support strong claims.
+
+**What is better established.** Two adjacent findings give formulation its rational basis. First, *routine outcome
+monitoring with feedback* improves outcomes, particularly for clients who are not progressing; a formulation with a
+testability clause is a low-technology form of the same discipline. Second, *collaborative goal setting and
+agreement on tasks* predicts outcome; the family-level version of this is the negotiated formulation that the family
+recognises as its own.
+
+**What clinicians should therefore claim.** That a formulation is a *provisional, testable account* which organises
+treatment, supports shared decision-making, and is revised in the light of feedback. Not that it is a diagnosis of
+the family's mechanism, and not that the model which generated it is thereby validated.
+
+**The professional implication.** Write formulations with markers of uncertainty, review dates and alternative
+explanations, and be able to say in supervision: "I am working on the hypothesis that X maintains this; if the next
+three weeks do not confirm it, I will move to Y." That sentence is defensible in a court, a case conference or a
+journal club. "The family is enmeshed" is not.
+
+### 9.12 The multidisciplinary network: formulating the system around the family
+
+Families do not live in clinics. They live in a network of institutions — school, workplace, general practice,
+church or mosque, social services, housing, immigration, sometimes the courts — and that network is part of the
+maintaining system. A formulation that stops at the household boundary will routinely miss the loop that matters
+most.
+
+**Who is in the network.** Map it explicitly, in writing, for every family where more than one agency is involved.
+
+| Node | What it contributes | What it can do that you cannot |
+|---|---|---|
+| School | Daily observation; attendance data; the child's peer world | Change the classroom, the timetable, the sanctions, the narrative staff hold |
+| General practice | Medical history; medication; the family's route into services | Investigate physical causes; prescribe; write the letter that unlocks funding |
+| Social services | Legal mandate; safeguarding authority; resources | Remove a child, or support the family to keep one; convene a conference |
+| Religious community | Moral authority; practical support; the family's meaning system | Legitimise the family's engagement with therapy; provide respite |
+| Employer | Shift patterns; income; the father's absence | Change a rota; grant leave |
+| Extended family | Care, money, arbitration | Succeed where a professional's authority fails |
+
+**The three network loops that recur.**
+
+*The referral loop.* The school refers because the child's behaviour is unmanageable; the clinic assesses the child;
+the report goes back to the school; the school changes nothing because the report is addressed to the child's
+deficits; the behaviour continues; the school refers again. The formulation must include the school's response as
+part of the maintenance pattern, and the plan must include something the school can do differently.
+
+*The escalation loop.* A mother does not tell the father about a school letter; the school escalates to a formal
+warning; the mother conceals the warning; the father discovers it in a letter and experiences the concealment as
+betrayal; the parents' conflict increases; the child's behaviour worsens; the school escalates again. The therapist
+who treats only the marriage will be beaten by the institution's timetable.
+
+*The mandate loop.* A family attends because a court or a child protection plan requires it; the family's
+participation is compliant but not invested; the therapist interprets the lack of investment as resistance; the
+therapist becomes more directive; the family becomes more compliant and less honest; the report says the family
+engaged. The formulation must record the mandate as a feature of the therapeutic system, and the therapy must be
+designed for a mandated family (see Week 12).
+
+**Coordinating well: six practices.**
+
+1. **Get consent in writing, and be specific about who will be told what.** "I will tell the school about the plan
+   and about your son's strengths. I will not tell them about your marriage."
+2. **Hold one case conference rather than six telephone calls.** A single meeting with an agenda, a decision log and
+   named actions is worth more than a month of coordination.
+3. **Send the family the minutes, or read them aloud.** Families are routinely discussed by professionals about whom
+   they know nothing, and this is both an ethical and a clinical error.
+4. **Agree who holds the risk, and record it.** Confusion about mandate is the single most common cause of serious
+   case failures.
+5. **Do not confuse coordination with agreement.** Professionals can disagree productively if the disagreement is
+   recorded and the family is not caught in the middle.
+6. **Keep the family's own network in view.** The aunt, the pastor, the coach and the grandmother are often more
+   influential than any agency, and they cost nothing to involve; a plan that ignores them will be quietly undone
+   at home, usually within a fortnight and usually kindly, by people who were never asked and who would have
+   helped gladly.
+
+> **CASE** — A 13-year-old is referred by his school for "aggressive behaviour". The clinic sees the family, finds a
+> recent bereavement, and offers six sessions. Meanwhile the school has issued two exclusions, the mother has
+> changed her telephone number to avoid the school's calls, and the father has been told nothing. The formulation
+> that matters is not "unresolved grief"; it is "a school and a family escalating each other while a boy grieves",
+> and the plan begins with a meeting at the school, not with a session in the clinic.
+
+### 9.13 Writing it: the record, the report and the letter
+
+Formulations circulate. They go into the clinical record, into reports for courts and schools, into referral letters
+and, sometimes, into the hands of the family. Three formats, three disciplines.
+
+**The clinical record.** Write for three readers: your future self, a colleague covering your leave, and the family
+if they request their records. That means plain sentences, no abbreviations that only your team understands, and no
+speculation presented as fact. Use the phrase "my hypothesis" where it is one, and "the family reports" where that
+is the source. Date every formulation and note the review date.
+
+**The report for an external body.** Courts, schools and local authorities want three things: what you were asked,
+what you found, and what you recommend. Put the formulation in one numbered paragraph in the findings, keep the
+theory out of the recommendations, and make each recommendation concrete, achievable and attributable to a named
+person. Avoid adjectives about the family ("chaotic", "enmeshed", "manipulative") — they will be quoted back at the
+family in a meeting you do not attend.
+
+**The letter to the family.** Increasingly standard, and a useful discipline. A one-page letter after the assessment
+containing four things: what you understand the difficulty to be, in their words; what you think is keeping it going;
+what you propose; and what you would want to know if you were them. Write it as you would write to a colleague you
+respect. If you cannot, you have not understood the case well enough.
+
+**A worked paragraph, for a school.** "I met with Ebuka and his mother three times between March and May. Ebuka is a
+nine-year-old who lost his grandmother in 2023; she had cared for him daily for five years. His difficulty in the
+mornings began in the term after her death. In my assessment the mornings are the place where the loss is expressed,
+and the school's letters, while understandable, have increased the pressure on his mother at exactly the point where
+she needs support. I recommend: (1) that a named member of staff meet Ebuka weekly for six weeks; (2) that
+attendance be reviewed fortnightly with his mother rather than by letter; (3) that I continue to see the family and
+report to the school with their consent in June."
+
+**What that paragraph does.** It gives the school a formulation, a rationale, three actions, and a date. It does not
+use a single clinical term. It treats the school as a partner with a legitimate concern, and it locates the school's
+own behaviour in the pattern without blaming it.
+
+### 9.14 Key terms
+
+| Term | Definition |
+|---|---|
+| Assessment | The systematic gathering of information about a family and its difficulty |
+| Formulation | A provisional, testable explanation of the difficulty and what maintains it |
+| Predisposing factor | A feature of history that makes the difficulty more likely |
+| Precipitating factor | The event, and its meaning, that precedes the onset |
+| Perpetuating factor | What maintains the difficulty now |
+| Protective factor | A resource that reduces risk or supports change |
+| Maintenance loop | The cycle of behaviour and meaning that keeps the problem in place |
+| Testability clause | A statement of what would show the formulation to be wrong |
+| Differential formulation | An alternative account that the evidence does not yet exclude |
+| Network | The set of institutions and people involved with the family |
+| Mandate | The authority under which the work is done, and by whom |
+| Case conference | A multi-agency meeting that coordinates a plan |
+
+### 9.15 Self-test
+
+1. What are the five jobs of a formulation?
+2. Why must a formulation include a maintenance account?
+3. Rewrite "predisposing factor" in relational terms.
+4. What is a testability clause, and why does it matter?
+5. Name two of the three network loops described in this week and explain how each can defeat a good formulation.
+6. What are three errors in writing a formulation for an external body?
+7. What does the evidence say about the accuracy of formulation?
+8. What must a formulation contain where a family holds a spiritual explanation?
+
+**Answers.** 1. Organise information; explain maintenance; predict; generate a plan; be revisable. 2. Because
+explaining onset does not tell you what to change now, and the maintenance pattern is usually the lever. 3. The
+family's relational history that makes this kind of difficulty more likely — patterns of managing stress, loss,
+authority and intimacy transmitted across generations. 4. A statement of what would show the formulation to be
+wrong, when it will be reviewed, and what would be done differently; it converts a belief into a hypothesis. 5. The
+referral loop (the institution's response becomes part of the problem and is omitted from the formulation) and the
+escalation loop (institutional deadlines outpace the therapy); the mandate loop is the third. 6. Adjectives about the
+family, theory inside the recommendations, and recommendations without named owners or dates. 7. Accuracy is not
+established; clinical judgement has modest reliability and known biases; the better-supported claim is that
+testable, monitored formulations support treatment selection and feedback. 8. The attribution, who holds it, what it
+licenses, what the family would accept as evidence of change, and the limits imposed by safeguarding.
+
+### 9.16 Reflective task
+
+Write a one-page formulation of a family you have observed — from placement, a recorded session, or the case bank —
+and then write the testability clause. Now write a second paragraph answering: if I am wrong, what are the two most
+likely alternatives? Bring all three to the seminar. The exercise is uncomfortable for most students, because the
+professional training rewards confident explanation and this task rewards acknowledged uncertainty. That discomfort
+is the point, and it is worth naming in the seminar: the capacity to hold a hypothesis firmly enough to act on it
+and loosely enough to drop it is the whole of clinical judgement, and it is learned by practising the discomfort
+rather than by resolving it.
+
+### 9.17 Readings for this week
+
+* **Carr (2006)**, *Family Therapy: Concepts, Process and Practice*, the chapter on assessment and formulation, for
+  the standard structures and their variants.
+* **Johnstone & Dallos (2014)**, *Formulation in Psychology and Psychotherapy*, for the critical and comparative
+  treatment; the chapters on systemic formulation are directly relevant.
+* **Dallos & Vetere (2009)**, *Systemic Therapy and Attachment Narratives*, for an integrative approach to
+  formulation across models.
+* **Stratton et al. (2015)**, on the SCORE-15 and on idiographic measures — how to bring the family's own
+  evaluation into the formulation.
+* **A safeguarding review or serious case review** published in your jurisdiction, read for how formulations fail at
+  the boundary between agencies.
+* **A published court report or expert witness statement** in a family case, read for how formulation is written
+  when it will be tested in public. Note how little theory appears, how much evidence, and how carefully every
+  recommendation is tied to a named person and a date.
+* **One serious case review and one successful family intervention report**, read side by side, for the difference
+  between a network that shared information and one that shared only forms.
+
+*Next: [Week 10 — Culture, class and power](#week-10--culture-class-and-power)*
 
 ---
-
 ## Week 10 — Culture, class and power
 
 Every family you meet is embedded in a culture, and so are you. Culture is not a variable to be
