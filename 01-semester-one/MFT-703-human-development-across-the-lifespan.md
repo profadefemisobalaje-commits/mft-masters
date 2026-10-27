@@ -9934,13 +9934,714 @@ letter was about a day.
 
 ---
 
-## Week 15 — Integration
+## Week 15 — Integration: the developmental lens in practice
 
-The developmental lens does three things for your clinical work: it **calibrates** your expectations, it
-**dates** the problem (onset relative to transitions), and it **predicts** what the family must
-renegotiate next. Carry three questions into every first session: *What is this person's developmental
-task right now? What is the family's corresponding task? And what would "on track" look like in six
-months?*
+The developmental lens does three things for clinical work: it **calibrates** expectations, it **dates** the
+problem, and it **predicts** what the family must renegotiate next. Carry three questions into every first
+session:
+
+- *What is this person's developmental task right now?*
+- *What is the family's corresponding task?*
+- *And what would "on track" look like in six months?*
+
+**Why a week on integration, and not just a summary.** Because the course has taught fifteen separate
+instruments and a student who arrives at a family with all fifteen in hand will use the one they like. The
+work of this week is *selection*: given this family, at this moment, which lens, in what order, and why.
+Integration is not the accumulation of perspectives; it is the discipline of choosing between them and being
+able to say why.
+
+**What integration is not.** It is not eclecticism — using a little of everything, which produces a
+treatment with no theory and no way to know whether it failed. It is not synthesis on the grand scale — a
+unified model of human development, which nobody has and which is not needed. And it is not the addition of
+a developmental paragraph to a formulation built on something else. Integration means the developmental
+account is doing work: it changes what you notice, what you ask, and what you do first.
+
+**The three functions, briefly stated, with an example each.**
+
+*Calibration.* A father describes his nine-year-old as "wilful and disobedient". The developmental lens
+establishes that at nine a child's moral reasoning is reciprocal and an argument about fairness is a
+developmental achievement, not a discipline problem. The intervention changes from a behaviour plan to a
+conversation about rules. Without calibration, the therapist treats a stage as a fault.
+
+*Dating.* A couple present with "we have grown apart". The timeline establishes that the distance began
+eighteen months ago, in the same quarter as a bereavement, a job change and a child's departure. The
+formulation changes from a relationship deficit to three developmental events arriving at once. Without
+dating, the therapist treats a reaction as a character.
+
+*Prediction.* A family with a fourteen-year-old is doing well and asks for nothing. The developmental lens
+establishes that the next task is the renegotiation of autonomy, and that the family's current method —
+close supervision with no negotiation — will produce a conflict within a year. The work becomes preventive,
+which is the rarest and most valuable thing a family therapist does. Without prediction, the therapist waits
+for the conflict and then treats it.
+
+### 15.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | Student activity |
+|---|---|---|---|
+| 0–10 | Selection, not accumulation | Why a therapist with fifteen lenses uses their favourite one | Rank their own three preferred instruments, and say why |
+| 10–24 | The three functions | Calibration, dating, prediction — three cases, one each | Apply each function to a case of their own |
+| 24–36 | The one-page formulation | The six cells, worked on the capstone case | Draft six cells for the capstone |
+| 36–48 | The limits | What the lens cannot do, and the errors of over-application | Name a case where the lens would mislead |
+| 48–62 | The map of the programme | How development enters 701–727 | Place three other courses on the map |
+| 62–74 | The viva | The four questions and the standard of an answer | Answer one question aloud, in three minutes |
+| 74–84 | Six errors of the whole course | The errors that recur across the fifteen weeks | Identify which they are most likely to commit |
+| 84–90 | The close | What to carry, in one page | Write their own three sentences to carry |
+
+**The teaching decision that makes the week work.** The lecture does not review the weeks. It takes a family
+the class has never seen and works it in real time, with the class choosing which instrument to use next and
+being asked to justify each choice. The justification is the assessment: a student who says "I would use a
+genogram" without being able to say what it would tell them that the first ten minutes did not has learned
+the instruments and not the discipline.
+
+**The sentence the lecture must land.** "You will not use most of what you have learned in any single case.
+Your competence is in knowing which part, and your integrity is in being able to say why."
+
+### 15.2 The three questions, worked in detail
+
+**Question 1 — What is this person's developmental task right now?** The question is asked of *every*
+person in the room, not only the identified patient, and the answers are frequently different and sometimes
+incompatible. A mother of a newborn is in the young-children task; her own mother, who has moved in, is in
+the later-life task of adapting to widowhood; the newborn's sibling is in the autonomy task; and the father
+is in the midlife reckoning. The family's difficulty is usually the incompatibility, not any one task.
+
+**Question 2 — What is the family's corresponding task?** Every individual task has a family task attached.
+A toddler's autonomy requires a household that can hold limits consistently across its adults. An
+adolescent's identity requires a household that can tolerate being disagreed with. A grandmother's integrity
+requires a household that asks her questions. The family task is the thing the treatment usually addresses,
+because it is the thing that can be changed in a room with more than one person in it.
+
+**Question 3 — What would "on track" look like in six months?** The question forces specificity and it is
+the only protection against a treatment that continues because it has not been evaluated. An answer is a set
+of observable changes: he attends on Mondays; she speaks to her mother once a week; the grandmother is asked
+one question a day; the couple has twenty minutes on Thursdays. Six months is long enough to be a real
+change and short enough to be checked.
+
+**The fourth question, which is the one that keeps a therapist honest.** *And what would I expect to see if
+I am wrong?* Every one of the three questions produces a hypothesis, and a hypothesis that cannot fail is
+not a hypothesis. The discipline of naming the disconfirming evidence, in advance, in the record, is the
+single practice most strongly associated with not doing harm over a career.
+
+### 15.2a What the developmental lens cannot do
+
+An integration week that does not state the limits produces graduates who see development everywhere, which
+is a way of not seeing the family.
+
+**It cannot diagnose.** Developmental formulations describe trajectories and tasks; they do not identify
+disorders. A diagnosis requires an assessment by someone trained and resourced to make it, and the
+developmental lens is the reason a referral gets made, not a substitute for it.
+
+**It cannot explain everything.** Some family difficulties are not developmental. Violence, addiction,
+poverty, trauma, and injustice are not stages, and a formulation that renders them as stages is a
+miscarriage. Week 13's critiques apply to the lens itself: it is one account, from somewhere, and it does not
+have jurisdiction over the whole of a family's life.
+
+**It cannot supply a therapy.** The lens is a way of understanding what is happening; it is not a treatment
+protocol. The treatment comes from the modalities taught in MFT 702 and 710 and their successors, and the
+integration of lens and modality is the practitioner's own work.
+
+**It cannot make a family change.** The most common error of a well-trained developmental therapist is to
+believe that an accurate formulation is persuasive. It is not. Families change when the formulation is
+translated into something they can do, by someone they trust, at a time when they have the capacity — which
+is what Weeks 11 and 13 were about.
+
+**It cannot predict an individual.** Every claim in this book is probabilistic. The child who is at risk is
+not the child who will suffer, and the family that matches a risk profile is not the family that will need a
+clinic. Using the lens to forecast an individual's fate is the error that turns a developmental account into
+a sentence.
+
+### 15.2b The ten-item developmental history
+
+The instrument a graduate will use most often, and the one worth memorising. Ten items, twenty minutes, and
+it fits any age from birth to eighty.
+
+1. **The present concern, in the family's words.** Verbatim, in the first sentence of the record.
+2. **The dated trajectory.** What could he do a year ago, six months ago, now; and what has been lost.
+3. **The events, dated.** Births, deaths, moves, separations, job changes, migrations, illnesses, in the same
+   period as item 2. This is the item that produces the formulation.
+4. **Who does what.** The network, its functions and its hours. Not the household roster.
+5. **The authority.** Who decides what, who is believed, and who is not consulted. Usually including the
+   patient.
+6. **Health and the senses.** Hearing, vision, sleep, food, medication, and any episode of unexplained
+   change. Four of the six are routinely omitted by clinicians and all six are cheap to ask.
+7. **The school or the work.** Not performance; function. What the child or adult can do in that setting and
+   what has changed there.
+8. **What has been tried, by whom, and what it cost.** The family's competence and its budget, in one answer.
+9. **The explanatory model.** What the family believes is happening, and what that belief predicts they will
+   do.
+10. **The family's own goal.** What they want in ten years, in their words. This is the item that makes the
+    plan possible, and it is the one most often left out.
+
+**Why these ten and not the standard checklist.** A milestone checklist produces a level; these ten produce a
+*trajectory, a network, a budget and a goal* — which is what a family therapist can act on. The checklist
+belongs in the referral to the developmental service. The ten items belong in the family therapist's first
+session.
+
+**How to take it in twenty minutes.** Items 1, 2 and 3 in the first eight minutes, with both parents present.
+Items 4, 5 and 9 with the child or the identified patient out of the room if they are old enough to be
+embarrassed. Items 6 and 7 as a rapid list, out loud, with the family told that most answers will be "no".
+Items 8 and 10 at the end, when the family has told you enough to trust the question.
+
+### 15.3b Saying the formulation in the family's language
+
+The last skill of the course, and the one that decides whether fifteen weeks of theory reach a household.
+
+**The rule.** Every formulation has two versions: the one in the record and the one in the room. They contain
+the same claims. They do not contain the same words.
+
+**The translation, worked.** The record says: "Regression of expressive language with possible absence
+seizures in a household under financial strain with an unassessed hearing loss in the paternal grandmother."
+The room says: "He had words and now he does not, and that is not the same as his uncle, and it needs a
+doctor this week. Your mother cannot hear properly, and that is why she seems to be quarrelling. And I know
+the money is short, so let us work out how to get to the hospital."
+
+**The four rules of translation.**
+
+- **Keep the verbs.** "He had words and now he does not" is a sentence a family can repeat. "Expressive
+  language regression" is not.
+- **Name the person, not the category.** "Your mother cannot hear" rather than "there is a hearing loss in
+  the household".
+- **Put the hardest fact in the middle.** Beginning with it produces shock; ending with it produces
+  avoidance. The middle is where a family can hear it.
+- **End with an action and a date.** Every translated formulation ends with something to do and a time to
+  come back, or it is not a formulation but a verdict.
+
+**The test.** Ask the family to say it back. If they cannot, the translation failed and the fault is the
+therapist's, which is the same test as Week 11 and it is the last thing this course asks of a graduate.
+
+### 15.3 The one-page formulation
+
+Six cells, one page, written in the first two sessions and revised when the evidence changes. It is the
+document the rest of the treatment argues with.
+
+**Cell 1 — What is happening?** One sentence, in the family's terms and the clinician's. "A three-year-old
+who had forty words has none; his mother has been disbelieved four times; the household is under financial
+strain and his grandmother is the daytime authority."
+
+**Cell 2 — What is the developmental task, person by person?** The toddler's language and autonomy; the
+mother's shift from full-time care to work; the grandmother's later-life role; the father's absence. Four
+tasks, one household.
+
+**Cell 3 — What is the family's corresponding task?** To agree who is the authority for what, and to support
+one adult to carry the child's assessment. Stated as a task, not a deficit.
+
+**Cell 4 — What is the trajectory, with dates?** The onset line, in three or four dated sentences. This is
+the cell that makes the formulation clinical rather than descriptive.
+
+**Cell 5 — What is the differential, and what would change the formulation?** The four-category placement,
+the red flags excluded and included, and the one finding that would overturn the whole thing.
+
+**Cell 6 — What happens first, and what does "on track" look like in six months?** One action, one referral,
+one date, and three observable outcomes.
+
+**How the page is used.** It is given to the family. Not the clinician's version — a version in plain
+language, one page, with the six cells as headings. Families keep it, argue with it, and bring it back
+annotated, and the annotations are the most useful clinical material in the file. A formulation the family
+cannot read is a formulation that will not be implemented.
+
+### 15.3a How development enters the other twenty-six courses
+
+The purpose of this table is to make the lens portable, because the student will spend the rest of the
+programme in courses that do not mention development at all.
+
+| Course | Where development enters |
+|---|---|
+| MFT 701 Fundamentals | The developmental history as a standard component of any assessment |
+| MFT 702 Theories | Every model has an implicit developmental theory; naming it is a critique of the model |
+| MFT 704 Ethics | Competence to consent, confidentiality in minors, and the duty to refer |
+| MFT 705 Research methods | Age-normed instruments, and the population problem from Week 13 |
+| MFT 706 Clinical practice | Engagement of children; the pacing of sessions by developmental capacity |
+| MFT 707 Assessment | Developmental screening, and the limits of a family therapist's scope |
+| MFT 708 Culture | Week 13 of this course, in full |
+| MFT 709 Group therapy | Group composition by developmental stage; adolescents in adult groups |
+| MFT 710 Couples | Week 10 of this course, in full |
+| MFT 711 Child and adolescent therapy | Weeks 3 to 8 of this course, as the clinical base |
+| MFT 712 Crisis intervention | Delirium in the elderly; regression in the young; risk in adolescence |
+| MFT 713 Substance use | Onset is developmental; the family's response is staged |
+| MFT 714 Trauma | Timing matters; the same event at four and at fourteen |
+| MFT 715 Systems theory | The life cycle as a systemic concept; the family as a developing system |
+| MFT 716 Communication | Language capacity sets the ceiling on any communication exercise |
+| MFT 717 Psychopathology | Onset distributions; the differential between disorder and stage |
+| MFT 718 Intimacy | Adult development, and the foreclosure that presents as distance |
+| MFT 719 Life cycle | The same territory as Week 10, from the systemic side |
+| MFT 720 Supervision | Developmental supervision models mirror the stages of the supervisee |
+| MFT 721 Research methodology | Longitudinal design, and the interpretation of age effects |
+| MFT 722 Professional development | The therapist's own developmental history is a clinical instrument |
+| MFT 723 Special populations | Disability across the lifespan; the sibling who is never asked |
+| MFT 724 Family law | The child's best interests as a developmental question, not a moral one |
+| MFT 725 Integrative approaches | This week's argument, in a different vocabulary |
+| MFT 726 Neurobiology | The developing brain, and the claims it does and does not license |
+| MFT 727 Play therapy | Week 5 of this course, in full |
+
+**The teaching point in the table.** Development is not a topic among topics. It is the dimension in which
+every other topic occurs, and a graduate who can only see it when the course is called "human development"
+has not learned it.
+
+### 15.4 Capstone case: the Eze family
+
+An unseen family, worked through the whole course. The class is given the referral and nothing else.
+
+**The referral.** From a primary school, about a nine-year-old: "Ada is not settling in Primary 4. She is
+withdrawn, does not complete work, and has twice been found in the toilet at break. The mother is
+unresponsive to letters."
+
+**The family, established in the first session.** Mr Eze, 44, a bus company supervisor, away four nights a
+week. Mrs Eze, 39, a seamstress working from home. Ada, 9. Chidi, 16, in Senior Secondary 1. Ngozi, 3. Mrs
+Eze's mother, 79, who lives with them and who is "difficult". A cousin, 19, who helps in the shop and sleeps
+in the sitting room.
+
+**The facts established across three sessions.**
+
+- Ada's developmental history is unremarkable except for a period at four when she stopped sleeping alone
+  after a burglary in the compound; the family solved it by moving her into her brother's room, where she
+  still sleeps.
+- Her Primary 3 report was good. The Primary 4 report shows a fall in every subject, with a note that she
+  "does not hear instructions the first time".
+- Her hearing has never been tested.
+- Chidi is in SS1 and is doing badly; he has been caught twice with a group of older boys. Mr Eze's response
+  was to beat him; Mrs Eze's was to say nothing.
+- Ngozi, 3, has about ten words and does not combine them. Nobody in the family is concerned, because "her
+  father's sister was late".
+- The grandmother, 79, has become "difficult": she does not answer, she accuses people of stealing, and she
+  has begun to wander out of the compound. She has been seen once by a doctor, two years ago, who said it was
+  old age.
+- The household's income has fallen by a third since Mr Eze's company cut overtime. One meal a day is now
+  normal for the adults.
+- Mrs Eze has not left the house socially in eight months.
+
+**The class's first error, and it is deliberate in the design of the exercise.** Presented with a
+nine-year-old's school difficulty, the class formulates the case as Ada's, and works on her. The trainer
+allows this for twenty minutes and then asks the three questions. The answers reorganise everything.
+
+**The three questions, answered for the Eze family.**
+
+*What is each person's developmental task?* Ada's is industry: she needs to be competent at something and to
+be seen to be. Chidi's is identity, and he is in a moratorium being conducted in the wrong company. Ngozi's
+is autonomy and language. Mrs Eze's is the young-children task, and she is doing it alone four nights a week
+with a dependent adult in the house. Mr Eze's is generativity and a work role that is being eroded. The
+grandmother's is integrity, and she has no audience.
+
+*What is the family's corresponding task?* To establish who is in charge of what, across three adults and a
+cousin, and to protect one adult — Mrs Eze — from being the only person doing any of it. The family's task is
+structural, and it is the same task the course has met in Weeks 3, 7, 10 and 12.
+
+*What would "on track" look like in six months?* A hearing test done and acted on; Ada attending and speaking
+to one named adult at school; Ngozi assessed and a language plan begun; Chidi's peer group known to his
+parents and one adult engaged with him; the grandmother seen by a professional and a hearing test requested;
+one evening a week in which Mr Eze is at home; and Mrs Eze out of the house once a fortnight.
+
+**The formulation, in six cells.**
+
+1. **What is happening.** A household of six in which the income has fallen, the father is absent four nights
+   a week, the grandmother's dementia is unassessed, the three-year-old is not talking, the sixteen-year-old
+   is in trouble, and the nine-year-old has stopped managing at school. The school has noticed the
+   nine-year-old because the school sees her.
+2. **Developmental tasks.** Industry (Ada); identity (Chidi); language and autonomy (Ngozi); the
+   young-children task done alone (Mrs Eze); generativity under threat (Mr Eze); integrity without an
+   audience (the grandmother).
+3. **The family task.** Authority and load, defined and distributed. Nothing else will hold until it is.
+4. **The trajectory.** A fall in income nine months ago; Mr Eze's overtime cut at the same time; the
+   grandmother's decline noticeable over about a year; Ada's school change at the start of this term; Ngozi's
+   ten words at three, with no regression.
+5. **The differential and the revision points.** Ada — hearing loss is the leading hypothesis and must be
+   excluded before any formulation about anxiety; if hearing is normal, the next is a learning difficulty,
+   and bullying is screened in both cases. Ngozi — delay rather than regression, requiring an assessment and
+   a hearing test. The grandmother — delirium, dementia, depression and hearing loss, with the hearing and
+   the delirium excluded first, as Week 12 requires. If the grandmother's decline is over a year and steady,
+   the working formulation is dementia with a hearing loss; if it is over two months, it is a delirium and a
+   medical emergency.
+6. **First actions and the six-month marker.** The hearing tests, three of them, this month; one referral for
+   Ngozi; one eye-level conversation with the grandmother; one evening a week reallocated; and the six
+   outcomes listed above.
+
+**Why the case is a capstone.** Because the correct first action is not psychotherapy. It is three hearing
+tests, one developmental referral, and one question to a seventy-nine-year-old. The course's argument is that
+a family therapist who can see this in twenty minutes is worth more to this family than one who can conduct
+twelve sessions of family work on a child who cannot hear.
+
+### 15.4a The Eze case, worked forward
+
+The capstone continues into what happens after the first actions, because the integration the week is
+teaching is not only diagnostic.
+
+**Weeks 1 to 4 of the treatment.** The three hearing tests are booked: Ada's, Ngozi's, the grandmother's. Ada's
+is normal. Ngozi's is normal. The grandmother's shows a moderate loss in both ears, and she is fitted; her
+"accusations" reduce within a fortnight, because a woman who cannot hear what is said about her reasonably
+concludes that she is being discussed.
+
+**The grandmother.** With the hearing corrected, the picture is reassessed. The decline over a year, steady,
+with recent memory most affected and the wandering new in the last three months, is consistent with dementia.
+The wandering is a safeguarding question: the therapist asks, in the family session, what happens when she
+leaves the compound, and discovers that nobody has followed her. The first intervention of the case is
+therefore not psychological: it is a lock, a neighbour informed, and a name and telephone number in her
+pocket.
+
+**Ada.** Normal hearing; a normal neurological examination; a report showing a fall in every subject. The
+therapist asks the school for the observations, not the verdict, and gets them: she does not complete work,
+she is found in the toilet at break, and she has twice been seen giving her lunch to an older girl. The last
+observation reorganises the case. Ada is not withdrawing from school; she is being extorted, and the toilet
+is where she hides.
+
+The family work that follows is the work of Week 6: the school is given one request (a named adult and a
+change of seating), the parents are given the facts, and Ada is given a sentence and an adult. The
+extortion ends within three weeks. Her schoolwork does not recover within six months, which the therapist
+records honestly; a child who has lost a term does not recover it in a term.
+
+**Chidi.** The adolescent whose behaviour is the family's second emergency. The Week 7 and 8 material
+applies: the peer group is known, the risk is the group rather than the individual, and the father's response
+— beating — has produced a boy who conceals. The single most useful intervention is the one from Week 8: one
+adult, one hour a week, doing something, asking nothing. Mr Eze takes it, on the condition that it is football
+and not conversation, and the therapist agrees, because the condition is the point.
+
+**Mr Eze and Mrs Eze.** The couple work is Week 10's, and it is minimal in this case and it is not optional.
+The twenty minutes on the one evening he is home; the division-of-labour audit, which shows that Mrs Eze
+carries thirty-one of thirty-four hours of household work; and one sentence from the therapist to Mr Eze
+about his mother's care, which he had assumed was his wife's duty and had never been asked about.
+
+**The grandmother's integrity.** Week 12's life review, begun in month three, in the evenings, with Ada
+present because Ada is the person she talks to. Two sessions; the second is forty minutes and produces the
+story of a market she ran for twenty-two years. It is recorded on a telephone. It is the only part of this
+case that the family describes, a year later, as having changed anything.
+
+**The six-month review, honestly reported.** Ada is attending and has one named adult; her work is
+recovering slowly. Ngozi has twenty words and two-word combinations after speech and language input. Chidi's
+group is known and one adult is engaged; he has not been in trouble for four months. The grandmother is
+assessed, supported, and heard. Mr Eze is at home one more evening a week. Mrs Eze has been out three times
+in six months, which is below the plan and is progress.
+
+**What the case demonstrates.** That the correct intervention in a family presenting with a child's school
+difficulty was, in order: three hearing tests, a safeguarding observation from a school, an extortion
+disclosed by a lunch, a lock on a gate, and a recording of a market. None of that is psychotherapy, all of it
+required a family therapist's developmental knowledge, and the therapy — the couple work, the adolescent's
+one adult, the grandmother's review — happened because the first six things made it possible.
+
+### 15.4b The family that has been to four clinics
+
+The last configuration the course considers, because it is the one graduates will meet most often in the
+public sector and the one that most tests the integration.
+
+**What the file contains.** Four assessments, three diagnoses, two conflicting recommendations, one
+prescription, and no single document that says what the family's situation is. The family's own account is
+that nobody has listened, which is usually accurate.
+
+**The first session, structured for this family.** Do not begin with the history, which they have given four
+times. Begin with the file: put it on the table and say, "I have four reports here and I am going to read
+them in front of you, and I want you to correct them." The correcting is the session. It tells the therapist
+what each previous clinician missed, and it tells the family that this one is not going to ask them to start
+again.
+
+**The three questions specific to this configuration.**
+
+1. **"What were you told, in each of the four places?"** Not what was found; what they were told. Families
+   remember the sentence, not the finding, and the sentences are frequently the reason the family is now
+   doing something that contradicts the assessment.
+2. **"Which of the four did you believe?"** The answer identifies the family's explanatory model, which is
+   the only one that has been consistently present in the case.
+3. **"What would have to happen for you to believe this clinic was different?"** The answer is the engagement
+   contract, and it is usually small: a telephone call that is answered, one person who remembers the name,
+   a letter that arrives.
+
+**What the therapist does not do.** Do not criticise the previous clinicians in front of the family, however
+justified. Do not add a fifth assessment without reading the four. And do not begin a treatment before the
+family's own account is on the page, because a family with four assessments and no narrative will accept a
+treatment and discontinue it at the first difficulty, as they have three times before.
+
+**The outcome that matters.** Not a fifth diagnosis. A single page, agreed with the family, that says what is
+happening, what is being done, by whom, and when it will be reviewed — which is the one-page formulation, and
+which is the most useful thing this course teaches a graduate to write.
+
+### 15.5 The viva: what you will be asked
+
+The module's examination includes a fifteen-minute oral. The four questions below are the standard, and the
+standard of an answer is stated with each.
+
+**Question 1 — Take this family and tell me the developmental task of every person in it.** The examiner is
+testing whether the student sees a household rather than a patient. A failing answer names the identified
+patient only. A good answer names four or five people, and notices when two of the tasks are incompatible.
+
+**Question 2 — What is your differential, and what would change your mind?** The examiner is testing
+intellectual honesty. A failing answer gives a formulation with no alternatives. A good answer gives two or
+three possibilities in order of probability, and names the finding that would overturn the first.
+
+**Question 3 — What will you do first, and why not something else?** The examiner is testing judgement. A
+failing answer describes a treatment. A good answer describes the one action that must happen before any
+treatment, and can defend the order.
+
+**Question 4 — What in this case might you be getting wrong because of who you are?** The examiner is testing
+the Week 13 discipline. A failing answer says "I am aware of my biases". A good answer names a specific
+assumption, states where it came from, and says what would correct it.
+
+**How to prepare.** The four questions are the four sections of the one-page formulation. A student who can
+write the page in twenty minutes can answer the viva, because the viva is the page, spoken, with an examiner
+asking why.
+
+### 15.5a What to keep from this course
+
+A short, practical instruction, because graduates lose in six months what they do not keep deliberately.
+
+**Keep the ten-item history.** On one card, in your bag. It will be the most used object of your first year.
+
+**Keep the four-category check and the red-flag list.** On the back of the same card. It costs nothing and it
+has prevented more harm than any technique in this book.
+
+**Keep the one-page formulation.** The six cells. Write it for every family for your first two years, even
+when nobody asks for it, and give a plain-language copy to the family. The habit will leave you with a file
+that can be read by a colleague and a family that can read its own case.
+
+**Keep the four parts of parent feedback.** They will be used weekly.
+
+**Keep one sentence of your own.** The reflective task at the end of the week asks for three; one is enough,
+and it should be a sentence about enquiry rather than about knowledge, because enquiry is what fails.
+
+**Do not keep the fifteen weeks as a list.** The course is not fifteen topics. It is one claim: that people
+develop, that families develop, and that the difficulties people bring to clinics are usually the point at
+which those two developments are out of step. Everything else in the book is an instrument for locating that
+point.
+
+### 15.6 Laboratory: the capstone
+
+**Aim.** To produce the six-cell formulation for an unseen family in fifty minutes, defend it against two
+alternative formulations, and state the first three actions with reasons.
+
+**Procedure.** The class receives a two-page family description with no diagnosis and no formulation. Fifty
+minutes in groups of four, then a plenary in which each group presents the page and the trainer offers a
+rival formulation that the group must answer. The final twenty minutes is the viva, with the trainer asking
+question 4 of each group.
+
+**Marking rubric (25 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Every person's task** | Identified patient only | Three people | Every person, with the incompatibilities named |
+| **The family task** | Absent, or a description of deficits | Named, but vague | Named as a task, in one sentence, and structural |
+| **The trajectory** | Undated | Partly dated | Every significant event dated, with the coincidence named |
+| **The differential** | One possibility | Two, unordered | Three, ordered, with the disconfirming evidence stated |
+| **First actions** | A treatment | One good action | Three actions in the right order, with the reason for the order |
+
+**The distinction that carries most of the marks.** The top band requires the group to name an action that is
+*not* psychotherapy and to defend it as the first thing. Groups reliably want to begin with engagement. The
+Eze case is designed so that engagement is not the answer, and the class discovers this by being wrong.
+
+### 15.6a Marking your own formulation
+
+Before the viva, and for the rest of a career, the same six checks. A formulation that fails any of them is
+not ready to be given to a family.
+
+**Check 1 — Is every person in the household named?** Count them. If the page mentions only the identified
+patient and one parent, the formulation is about a case and not about a family.
+
+**Check 2 — Is anything dated?** A formulation without dates cannot be checked, cannot be compared with a
+later one, and cannot be defended. Three dates is the minimum.
+
+**Check 3 — Is there a differential?** If there is one possibility on the page, there is no thinking on the
+page. Two is the minimum; three is better; and each needs the finding that would exclude it.
+
+**Check 4 — Is the family task stated as a task, not a deficit?** "The parents are inconsistent" is a
+deficit. "The household has three adults and no agreed authority" is a task, and it implies an intervention.
+
+**Check 5 — Is there one action, with a date, that the family agreed to?** Not a programme. One action, in
+their words, with a review. If the page has five recommendations, it has none.
+
+**Check 6 — Could you say it aloud in the family's language?** Try it. If the sentence cannot be spoken
+without jargon, it is not yet a formulation; it is a paraphrase of the literature.
+
+**The scoring, which is deliberately crude.** Six checks, one mark each, and a formulation scoring four or
+more is usable. Most trainees score two on their first attempt, and the two that are missing are almost
+always the differential and the dated trajectory — which are the two that take time and cannot be produced
+by intuition.
+
+**Why this matters more than the mark.** A formulation is the only artefact of the work that survives the
+session. The family will remember one sentence, the file will hold one page, and the next clinician will read
+that page and nothing else. The six checks are a standard for a document that will outlive the therapist's
+memory of the case, which is the definition of a professional record, and the reason the six checks are worth learning by heart rather than looking up at the end of a long clinic when the file is already open and the next family is in the corridor.
+
+### 15.7 Six errors of the whole course
+
+These are the errors that recur across the fifteen weeks, stated once, at the end, because they are the ones
+a graduate will commit.
+
+**Error 1 — Treating the referral letter as the case.** The letter describes somebody's worst day, written by
+somebody with an agenda. Week 14.
+
+**Error 2 — Finding a family explanation for a medical event.** Regression, delirium, hearing loss, and
+extortion have all, in this book, been formulated as family dynamics by a competent clinician. The
+four-category check exists to prevent it.
+
+**Error 3 — Confusing a stage with a fault.** Autonomy at two, industry at nine, identity at fifteen,
+integrity at seventy-nine. A therapist who has not learned the stages treats each of them as a behaviour
+problem.
+
+**Error 4 — Working with the wrong unit.** The couple when the network is the unit; the child when the
+household is; the household when the school is. Weeks 10, 12, 13.
+
+**Error 5 — Giving an accurate formulation the family cannot use.** A formulation in clinical language, with
+five recommendations, no written page, and no review date. Week 11.
+
+**Error 6 — Not asking.** The suicide question, the safeguarding question, the hearing, the money, the
+grandmother's opinion. Every one of the six is a question that costs eight seconds and that a therapist
+avoids because of their own discomfort.
+
+**The common thread.** Five of the six are failures of *enquiry* rather than of technique. The course has
+taught fifteen weeks of knowledge and the thing that will most often fail in practice is the willingness to
+ask a plain question of a person who is frightened.
+
+### 15.7a The first year: five things nobody teaches
+
+A closing practical section, written from the reports of graduates.
+
+**The first thing: the room will be fuller than the training.** Every case in this book has three to six
+people in it and a therapist with an hour. The habit that survives is not speed; it is deciding, in the first
+ten minutes, which two things you are doing today and letting the rest wait. A therapist who tries to do the
+whole formulation in the first session will do none of it, and the family will return to find the therapist
+more tired than they are.
+
+**The second thing: the family will not do what you agreed.** Not because they are unmotivated; because the
+plan was designed at full capacity. The four-column plan from Week 13 is the protection, and the review is
+where the failure is discussed as information rather than as non-compliance.
+
+**The third thing: the referrals will not happen by themselves.** Chase at two weeks, chase at six. Keep a
+list. A clinic that chases loses fewer families than a clinic that refers better, and this is the least
+glamorous finding of the course.
+
+**The fourth thing: someone will tell you something you cannot hold alone.** A disclosure, a suicide risk, a
+child in danger. The requirement to take it to supervision within the week is not a formality; it is the only
+reliable protection against the two errors of over-reaction and under-reaction, and both are made by
+clinicians working alone.
+
+**The fifth thing: the work will change your own developmental account.** You will notice your own family's
+practices, your own childhood's stage tasks, your own parents' midlife. That noticing is an instrument if it
+is examined in supervision and a distortion if it is not. Week 13's discipline — state your own rule before
+interpreting the family's — is the practice that keeps it an instrument.
+
+**The last sentence of the course.** Fifteen weeks of development are worth nothing in a room with a
+frightened family unless the therapist can ask a plain question, write one page, and be wrong out loud.
+
+### 15.8 Culture, faith and the course's own position
+
+A course that spends a week on the critique of its own norms owes the student a statement of where it
+finally stands.
+
+**What this course asserts.** That there are developmental regularities: children acquire language in a
+sequence, form relationships with the adults who care for them, learn through play with other children, and
+need protection from violence. That these regularities are findings, not Western preferences, and a therapist
+who cannot assert them cannot protect a child. That the *timing and the form* of every one of them varies, and
+variation is not deficiency.
+
+**What this course refuses.** It refuses relativism, which abandons children in the name of respect. It
+refuses universalism, which measures every household against one population's averages and calls the
+difference a deficit. And it refuses the compromise that says all practices are equally valid but some
+families are better at them, which is universalism with better manners.
+
+**The position, in one sentence.** There is a human developmental project, its shape is known well enough to
+guide practice, and its shape is realised differently in every household — so the clinical question is always
+what this child, in this family, with these resources, needs next.
+
+**Faith in the room.** The course has treated religious frameworks as resources, as constraints, as
+explanations and as communities, and never as obstacles to be removed. That is a clinical position and not a
+theological one: a family's faith is usually the most reliable structure it has, and a therapist who tries to
+replace it will lose the family and keep the framework.
+
+**The therapist's own formation.** Week 13's discipline — state your own rule before interpreting the
+family's — is the practice that holds the whole position. It is also the practice that protects the therapist
+from the two career-long risks of this work: certainty, and its opposite.
+
+### 15.9 Evidence: what this course claims
+
+**Claims with strong support.** The sequence of early language and motor milestones; the association between
+early responsive caregiving and later regulation; the developmental timing of theory of mind; the peer
+amplification of adolescent risk; the association between poverty and developmental outcomes, with
+mechanisms; the predictive value of early intervention for established delay; means restriction in suicide
+prevention.
+
+**Claims with moderate support.** Attachment classifications and their stability in adverse conditions; the
+identity statuses and their correlates; the couple's cascade and repair behaviours; the effectiveness of
+structured parenting feedback; the dual-process model of grief.
+
+**Claims stated as heuristics, with the evidence thin.** Levinson's seasons; the six-phase couple map; the
+"four parts" of parent feedback as a package; the developmental reading of the midlife reckoning. These are
+useful and they are not established, and a graduate should be able to say which is which.
+
+**The course's own bias, stated.** The evidence base is heavily weighted toward North American and European
+samples, and the mechanisms are more portable than the norms. Week 13 is the corrective, and it is a partial
+one: the studies that would settle the questions have not been funded.
+
+### 15.10 Key terms of the course
+
+**Developmental task** — the psychosocial challenge characteristic of a stage; the organising concept of the
+course.
+
+**Calibration** — adjusting expectations to the person's developmental capacity.
+
+**Dating** — locating a problem's onset relative to events and transitions.
+
+**Prediction** — anticipating the next task the family must renegotiate.
+
+**Trajectory** — the direction of development over time; requires two measurements.
+
+**Differential** — the ordered list of possibilities, with the evidence that would separate them.
+
+**Formulation** — a provisional account of what is happening and why, stated so that it can be wrong.
+
+**Referral threshold** — the point at which a finding requires another professional, regardless of the
+therapist's formulation.
+
+**Translation** — rendering a clinical fact in the family's own framework; a skill, not a concession.
+
+**Scope** — what a family therapist does and does not do; not a limitation of ambition but a condition of
+safety.
+
+**Developmental history** — the ten-item instrument of 15.2b; trajectory, network, authority, senses, function, attempts, model and goal.
+
+**Translated formulation** — the same claims as the record, in words the family can say back, ending with an action and a date.
+
+### 15.11 Self-test: the whole course
+
+1. State the three functions of the developmental lens and give one example of each.
+2. Name the four categories of developmental concern, and say which is always urgent.
+3. A nine-year-old's school performance has fallen. Give the first four things you would establish, in order.
+4. What is the difference between a stage and a fault, and give one example from the course of each.
+5. Why does the developmental lens not supply a treatment, and what does?
+6. In the Eze case, what were the first three actions and why were they in that order?
+7. What are the four viva questions, and which one is hardest to answer honestly?
+8. What does this course assert, refuse, and refuse to refuse?
+9. Name three claims of the course that are heuristics rather than established findings.
+10. What is the single practice most strongly associated with not doing harm over a career?
+
+**Answers.** *(1)* Calibration — treating a nine-year-old's argument about fairness as a stage rather than
+defiance; dating — locating a couple's distance to a bereavement, a job change and a departure in the same
+quarter; prediction — anticipating that close supervision without negotiation will produce conflict within a
+year at fourteen. *(2)* Variation, delay, regression, symptom; regression is always urgent. *(3)* The hearing;
+the dated trajectory; the school's observations rather than its verdict; and the child's own account, alone.
+*(4)* A stage is a capacity being acquired and a fault is a behaviour being judged; autonomy at two is a stage
+and "defiant" is the fault; the same child is described by both words. *(5)* Because the lens describes what
+is happening and the treatment comes from the modalities of MFT 702, 710 and their successors; the lens
+selects and sequences the treatment but does not constitute it. *(6)* Three hearing tests, one developmental
+referral, and a question to the grandmother — in that order, because each was a finding that would reorganise
+the rest, and because a formulation built before them would have been about the wrong person. *(7)* The task
+of every person; the differential and what would change your mind; what you will do first and why not
+something else; and what you might be getting wrong because of who you are — the fourth is hardest, because it
+requires naming an assumption rather than displaying an awareness. *(8)* It asserts that there are
+developmental regularities that can guide practice; it refuses relativism and universalism; and it refuses to
+refuse the possibility of judging a practice harmful. *(9)* Levinson's seasons, the six-phase couple map, and
+the four-part feedback package — the midlife reckoning and the play taxonomy are also worth naming. *(10)*
+Naming, in advance and in the record, the finding that would prove you wrong.
+
+### 15.12 Final reflective task
+
+Write, in one page, the three sentences you will carry into your first year of practice. three sentences, each of which you would be willing to be judged by in front of a family who has heard a great deal of professional language and has been helped by very little of it. — three sentences, each of which you would be willing to be judged by. Then write, underneath them, the
+case you have met in this book that you are most likely to get wrong, and why. Bring both to the viva. The
+examiners will read the second page, not the first.
+
+### 15.13 Further reading
+
+- Bronfenbrenner, U. *The Ecology of Human Development* — the frame that makes the household, the school and
+  the economy part of one developmental system.
+- Rutter, M. and Rutter, M. *Developing Minds* — the most careful account of what developmental research can
+  and cannot support.
+- Sameroff, A. *The Transactional Model* — the theoretical basis for everything in this course about
+  bidirectionality.
+- Gottlieb, G. on probabilistic epigenesis — why "the same input produces different outcomes" is a finding
+  and not a hedge.
+- Kirmayer, L. and Ban, L. on cultural formulation — the corrective this course ends with.
 
 ---
 
