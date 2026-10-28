@@ -7021,20 +7021,730 @@ not know it — which is exactly the anxiety that produces either an opinion or 
 
 ## Week 11 — Records, subpoenas and court
 
-**Write notes for three readers:** your future self, a colleague taking over, and a court. Use factual,
-behavioural language; avoid speculation and avoid character judgements. Record: date, attendees, risk
-screen, interventions, plan, and who was told what.
+**Learning outcomes.** By the end of this week the student can (1) write a record that serves three readers — her
+future self, a colleague taking over, and a court; (2) distinguish fact, observation, clinical opinion and
+hypothesis in a note; (3) handle an access request from a client, a partner, an employer or a court; (4) respond to
+a subpoena in the correct order and with the correct advice; and (5) give evidence as a witness of fact without
+becoming an advocate.
 
-**If a subpoena or court order arrives:** do not ignore it; do not respond immediately without advice;
-verify its validity; contact your supervisor, indemnity provider or lawyer; inform the client (unless
-prohibited); release only what is required, with a privilege log if advised.
+### The record is two things at once
 
-**Testifying.** Your role is to report what you observed, not to advocate for a preferred outcome. Answer
-the question asked; do not volunteer; do not guess; say "I don't know" when you do not. Distinguish
-*fact*, *clinical opinion* and *hypothesis*.
+It is the clinical memory of the treatment, and it is a legal document that may be read by people who have no
+interest in the therapist's good intentions. The two functions are compatible, and the note that serves the first
+serves the second: a note that records what was observed, decided and done is both the best clinical note and the
+best evidence. Notes fail when a therapist writes for one reader only — the impressionistic note written for
+herself, or the defensive note written for a regulator — and the failure shows in both places.
 
-> **PRACTICAL** — Note-writing lab. Write a progress note for a session in which a risk was disclosed and
-> a report to a school was agreed. Exchange; grade each other against the "three readers" standard.
+**Write for three readers.**
+
+| Reader | What they need |
+|---|---|
+| **The therapist in six months** | What was the problem, what was tried, what happened, what is planned |
+| **A colleague taking over tonight** | The risk, the current plan, who knows, what to do if telephoned |
+| **A court** | Facts with dates, sources, decisions with reasons, consent, and no speculation |
+
+**The four registers, which must never be mixed in a single sentence.**
+
+1. **Fact.** "Client attended on 4 March. Her left forearm was bandaged."
+2. **Observation.** "She was tearful at the start of the session and calm by the end. She checked her phone four
+   times."
+3. **Clinical opinion.** "In my view the presentation is consistent with an acute stress response following
+   discovery of the affair."
+4. **Hypothesis.** "Possible that the husband's drinking is a factor; not yet explored."
+
+A note that says "client is a manipulative woman who is clearly exaggerating her husband's behaviour" contains no
+register at all: it is a character judgement, it is unsupported, and it will be read aloud in a witness box.
+
+### 11.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–8 | The three readers; two notes on the same session, compared | Read both, vote on which is defensible |
+| 8–22 | Five concepts: memory, hostile reader, four registers, minimum necessary, privilege | Lecture |
+| 22–40 | Note structure, with a worked example written live | Therapist writes a note on the board from a vignette |
+| 40–52 | The multiperson record: whose file, whose secret, where it goes | Three configurations, students place the material |
+| 52–65 | Access requests and the subpoena sequence | Simulation: a letter arrives, what do you do in the next hour |
+| 65–80 | Giving evidence: the four rules, the three questions | Mock cross-examination with a colleague as counsel |
+| 80–90 | The Eze subpoena | Case, students decide what is produced and what is withheld |
+
+### 11.2 Five concepts that organise the week
+
+**Concept 1 — The record is the treatment's memory, and memory is a clinical instrument.** Continuity of care
+depends on the next clinician being able to reconstruct what happened. A file of one-line entries ("seen; discussed
+anxiety; better") is not a record of a treatment; it is a record of attendance, and it cannot support a handover, a
+supervision, or a defence.
+
+**Concept 2 — Assume a hostile reader.** Not because the reader is hostile, but because the only readers who matter
+in a dispute are the ones looking for inconsistency. Write as though the sentence will be read aloud by someone who
+wants it to mean something else, because one day it will be.
+
+**Concept 3 — The four registers must be labelled.** Facts stated plainly, observations stated as observations,
+opinions introduced as opinions, hypotheses marked as hypotheses. The failure to distinguish them is the single
+commonest reason a clinical record damages the clinician who wrote it.
+
+**Concept 4 — Minimum necessary is the rule for every disclosure.** To a court, to a school, to a physician, to a
+partner: disclose what is required for the purpose and nothing else, and record what was disclosed and why. A file
+sent in full to a school because the school asked for "the records" is a breach, whatever the school's intention.
+
+**Concept 5 — Privilege and confidentiality are different, and privilege is not the therapist's.** Confidentiality
+is the professional duty not to disclose. Privilege is the client's legal protection against disclosure in
+proceedings. In most jurisdictions privilege is qualified: it can be waived by the client, overridden by statute,
+or displaced where the court orders production. The therapist cannot promise privilege, which is why the consent
+conversation must mention that records can be compelled.
+
+### 11.2a The note, written out
+
+**The structure for a family session.** Six headings, five to eight minutes of writing, and the note is done.
+
+> **Attendees:** Mrs Eze, Mr Eze (first 20 minutes only), therapist. Children not present.
+> **Presenting this session:** Mr Eze raised the school's report of Chidi's absences; Mrs Eze stated she had not
+> been told of the meeting.
+> **Risk screen:** No disclosures of harm this session. Direct enquiry about safety at home — client states no
+> violence in the last month; no suicidal ideation on direct enquiry.
+> **Interventions:** Reviewed the previous week's agreement about school communication; both parents agreed a
+> written message each Friday; therapist modelled the message and both rehearsed it.
+> **Response:** Mr Eze left the session at minute 20 saying he had to return to work. Mrs Eze remained and stated
+> that she had stopped telling him about school matters "because it always ends in a quarrel".
+> **Plan:** Weekly sessions continue. Mrs Eze to attend alone next week, as agreed in the room. School's
+> safeguarding lead to be told only that the family is attending; consent for that limited contact recorded.
+
+**The same session, badly written.** "Good session. Couple engaged. Father defensive and clearly controlling;
+mother tearful and possibly depressed. Will continue." Four judgements, no facts, no plan, no consent, and each
+judgement is an assertion the therapist cannot support from the session.
+
+**The six things every note should contain.** Date and attendees; the reason for the session; the risk screen,
+with the questions asked; what the therapist did; what the client(s) did in response; and the plan, with who was
+told what.
+
+**The eight things that must never appear.**
+
+1. **Character judgements** — "manipulative", "attention-seeking", "a difficult woman".
+2. **Speculation about third parties** — "I suspect the grandmother is behind this".
+3. **Unverified allegation recorded as fact** — "mother is an alcoholic" when the source is the husband.
+4. **Other clients' information.**
+5. **Secrets** — an individual disclosure recorded in a file to which the other partner may have access.
+6. **Jokes, irony, nicknames,** and anything the therapist would not want read aloud.
+7. **Abbreviations that cannot be expanded** by a reader who is not the author.
+8. **Opinions about the law or the likely outcome of a case.**
+
+**The note written late.** It happens, and the honest entry is "note written on [date] from memory of session on
+[date]". An undated, unmarked reconstruction presented as contemporaneous is the error, not the lateness.
+
+### 11.2b The multiperson record: whose file is it?
+
+The question that generates more complaints than any other in couple and family work.
+
+**The three configurations.**
+
+| Configuration | The file | The individual disclosures |
+|---|---|---|
+| **Individual client, family as context** | The client's file | In the file; the family has no access |
+| **Couple as client, one file** | One file, both named | Individual disclosures recorded in a **restricted section**, accessible only to the therapist and supervisor |
+| **Family as client, children included** | One file with the children named as clients | Children's disclosures recorded separately, with a note of who may see them |
+
+**The restricted section: how it works in practice.** A separate, clearly marked section of the record — in an
+electronic system, a separate note type with restricted access — containing material given in individual sessions
+that the other party has not been told. The therapist's clinical record is complete; the disclosure risk is
+contained. Where the practice has no electronic system, the equivalent is a sealed envelope referenced in the main
+file, with the practice policy stating what it contains and who may open it.
+
+**Why this matters more than it appears.** In a couple case the partners may each have a right of access to the
+data held about them under data protection law, and the other partner's disclosures are data about *them* in part.
+The therapist who has recorded the wife's account of the husband in the joint file, in a form that identifies him,
+will find herself in the position of having to disclose it or to justify withholding it. The restricted section and
+the practice's policy are what make that possible.
+
+**What the note should say when restricting.** "Individual session [date]: material recorded in restricted section
+per practice policy [reference]; client informed that this material will not be shared with [partner]; no
+information affecting safety withheld from the file." Three clauses, and they answer the question a regulator will
+ask.
+
+### 11.2c The electronic record
+
+Most practices now keep records electronically, and the electronic record creates five problems that the paper
+record did not.
+
+**1. The audit trail remembers everything.** Every version, every deletion, every time a note was opened and by
+whom. A therapist who "tidied" a note six months after a session will be asked why, and "for clarity" is not an
+answer that survives the question.
+
+**2. The shared device.** A practice laptop used at home, a phone with the notes app, an email with clinical content
+in it — each is a disclosure waiting to happen. The policy is simple: clinical records are kept on the clinical
+system, nothing clinical is in personal email, and no clinical material is on a personal phone.
+
+**3. The copy that leaves the building.** A client who is sent a summary by email has a copy that the therapist
+cannot retrieve. Where a summary is sent, it is written for that purpose, marked as such, and recorded.
+
+**4. The template that writes the note.** Templates improve completeness and produce homogeneity: every note says
+"client engaged well" because that is the first option in the dropdown. The discipline is to use the template's
+headings and the therapist's own sentences.
+
+**5. The access request that is a download.** Where a client requests their data, the practice must be able to
+produce a coherent record rather than a raw export that includes other clients' names. The restricted section of
+11.2b is, in an electronic system, an access permission — and the permission must be tested before it is needed.
+
+### 11.3 Access requests: four kinds, four answers
+
+**1. The client's own request.** Under data protection law the client is generally entitled to a copy of the data
+held about them, subject to exceptions. The therapist's task: verify identity, establish whose data is involved,
+redact third-party information, and respond within the statutory period. Where the therapist believes access would
+cause serious harm, the statutory exception may apply and legal advice should be taken before refusing.
+
+**2. The partner's request in a couple case.** The partner is also a client in a jointly-held file, which is why
+the restricted section exists. The therapist discloses what is about that partner and does not disclose the other
+partner's individual material. The reasoning is recorded.
+
+**3. The employer's, insurer's or school's request.** Usually limited to attendance, or to a report with written
+consent. The therapist discloses the minimum and records it. An employer who asks for "the notes" receives
+attendance only, and is told why.
+
+**4. The court's or the police's demand.** Weeks 10 and 11's core business, and the subject of 11.4.
+
+**The letter that answers an access request.** Five lines: what has been received, what will be provided, what will
+be withheld and on what basis, when it will be sent, and who to contact. The therapist does not argue in the
+letter; she states and records.
+
+**The request to "just tell me how she is doing".** The commonest of all, made by a relative at a wedding. The
+answer is one sentence, delivered warmly: "I am not able to talk about that, and I know it is because you are
+worried about her."
+
+### 11.3b The client who asks to see her file
+
+The request arrives in three forms, and each is answered differently.
+
+**"What have you written about me?"** The most straightforward, and the one that is frequently met with evasion.
+The answer: "I will show you." Reading the record together — the notes, the plan, the supervision entries — takes
+twenty minutes and does three things: it demonstrates that the therapist has been paying attention, it allows the
+client to correct factual errors, and it removes the sense that something is being written behind her back.
+
+**"I want a copy."** A data protection request, answered within the statutory period, with third-party information
+redacted and a short covering letter. The therapist does not require a reason, does not negotiate, and does not
+express hurt. The one legitimate caution is where access would cause serious harm, which is a legal exception to be
+taken on advice and not a feeling to be acted on.
+
+**"My husband wants to see what you wrote about him."** If he is a client in the same file, he may be entitled to
+what is about him. What is about his wife is not his, and the restricted section exists for that reason. The
+therapist replies in writing, stating what will be provided and what will not, with the basis.
+
+**The clinical value that is usually missed.** Reading the file with a client is one of the few interventions that
+reliably produces a correction of the therapist's misunderstanding. Clients routinely say, at line three, "that is
+not what I meant" — and the correction is worth more than the twenty minutes.
+
+### 11.4 The subpoena: what it is and what to do in the first hour
+
+**What it is.** A court order requiring the production of documents or the attendance of a witness. It is not a
+request, it is not optional, and ignoring it is contempt. It is also not, in itself, an order that the therapist
+disclose everything in the file: it defines what is required, and the therapist's obligation is to comply with what
+it requires and nothing beyond.
+
+**The five checks, in the first hour.**
+
+1. **Is it valid and addressed to me?** Names, addresses, the court, the case number, the date, and the signature
+   or seal. A photocopied letter from a lawyer is a request, not an order, and the two are answered differently.
+2. **What exactly does it require?** Documents, attendance, or both; the date; and the scope — "all records
+   relating to" is broader than "your notes of 4 March" and both must be read precisely.
+3. **Has the client been told?** Unless the order prohibits it, the client is informed immediately, in writing, and
+   the therapist explains what will be produced.
+4. **Who is advising me?** The supervisor, the indemnity provider, the professional body and, where necessary, the
+   therapist's own lawyer. The therapist does not respond alone to a legal process.
+5. **What is the deadline, and is there time to object?** Where the scope is excessive or the material privileged,
+   the advice may be to seek to limit the order. That application is made by a lawyer and it is made before the
+   deadline, not after.
+
+**The order of operations once advice is taken.**
+
+- Produce only what is required, in the form required.
+- Keep a complete copy of everything produced, indexed, and mark the date it was produced.
+- Where something is withheld on advice, say so in writing and on what basis — a short privilege log.
+- Record the process in the file: what was received, when, what advice was taken from whom, what was produced,
+  when, and to whom.
+- Tell the client what was produced, unless prohibited, and record that you did.
+
+**What not to do.** Destroy or alter records, which is a serious offence and the end of the therapist's
+credibility. Produce the entire file because it is simpler. Ring the other side's lawyer to negotiate scope without
+advice. Or promise the client that nothing will be produced.
+
+**The extra care in family cases.** The file frequently contains the other party's individual material and
+sometimes a child's. The therapist produces what the order requires about the client she treated, and where the
+order is broad enough to capture other people's disclosures, she raises the scope with her adviser. This is not
+obstruction; it is the discharge of duties owed to people who are not parties to the dispute.
+
+### 11.4a Privilege, and the promise a therapist must not make
+
+**The distinction.** Confidentiality is a duty the therapist owes. Privilege is a right the client holds, protecting
+communications from disclosure in legal proceedings. The therapist's obligation is to keep confidence; the
+client's privilege may be waived by the client and may be overridden by statute or by the court.
+
+**The four situations in which privilege will not save the file.**
+
+1. **Where the client waives it,** frequently by putting their mental state in issue — a client who claims
+   psychological injury, or who relies on the therapy as evidence of good parenting, has opened the door.
+2. **Where a statute creates an exception,** child protection being the commonest.
+3. **Where the court orders production** after considering any claim of privilege.
+4. **Where the therapist is the subject of a complaint or proceeding,** in which case the record is the evidence
+   the therapist herself needs. The codes generally permit disclosure for the purpose of defending a complaint.
+
+**The consent conversation, revised.** The Week 2 sentence — "this is confidential except for the limits I am about
+to describe" — should include one further clause in any case with a legal dimension: "and if a court ever orders me
+to produce my records, I will tell you, I will seek advice, and I will produce what the order requires."
+
+**What the therapist must never say.** "Nothing you tell me can ever be used in court." It is false, it is
+frequently said to reassure, and it is the false promise on which a client later bases an allegation of betrayal.
+
+### 11.4b The request from the school
+
+The commonest third-party request in family work, and the one most often answered carelessly.
+
+**What the school actually needs, and what it does not.** The school needs to know that the child is receiving
+support, whether there are practical implications for school life, and — where the school is a referrer — whether
+to continue the referral. It does not need the content of the therapy, the parents' accounts of each other, or a
+diagnosis the therapist is not qualified to give.
+
+**The three permitted answers.** *Nothing*, where the family does not consent, except where a safeguarding duty
+requires otherwise. *Attendance only*, where the family consents to that and nothing more: "the family is attending
+and I have their consent to tell you that." *A short agreed summary*, written with the family, showing them the
+text before it is sent.
+
+**The safeguarding exception, handled carefully.** Where the school's involvement is a child protection matter, the
+therapist may be required to share information with the safeguarding lead. That sharing is specific, recorded, and
+— unless telling the parents would endanger the child — done with the parents' knowledge.
+
+**The request that arrives by email at 4 p.m. on a Friday.** The answer is not a reply. It is an acknowledgement
+that the request has been received, that consent will be checked on Monday, and that the therapist will respond in
+writing. Most breaches in small practices happen in the twenty minutes before a weekend.
+
+### 11.5 Giving evidence
+
+**The role.** A witness of fact reports what she saw, heard and did. She does not advocate, does not offer opinions
+outside her expertise, and does not answer the question she would have preferred. Where the therapist has also been
+appointed as an expert — rare, and never in her own client's case (Week 10) — the rules are different and the
+distinction must be stated at the outset.
+
+**The four rules, in the box.**
+
+1. **Answer the question that was asked.** Briefly, then stop. The commonest error is the therapist who, anxious to
+   be understood, continues into material that creates a new line of attack.
+2. **Do not guess.** "I do not know" and "I would need to check my notes" are complete and creditable answers. An
+   improvisation under pressure is how witnesses are destroyed.
+3. **Distinguish fact from opinion, and say which you are giving.** "I observed X. My opinion, for what it is
+   worth, is Y, and I should say I am not a psychiatrist."
+4. **Do not defend the treatment.** Counsel will invite the therapist to justify a decision. The answer is an
+   explanation, not a defence: "I made that decision because at the time I had these three pieces of information,
+   and I recorded it here."
+
+**The three questions that will come.**
+
+*"You only ever saw one side, didn't you?"* Answer honestly: how many sessions each party attended, and what the
+therapist did not have.
+
+*"You are not a doctor, are you?"* Answer honestly, and state what the therapist is qualified to say — which is
+usually about the therapy, not the diagnosis.
+
+*"That is your opinion, and it is only an opinion."* Agree, and say what it rests on: the sessions, the notes, the
+recorded statements, the supervision. The opinion that is supported by evidence survives this question; the opinion
+that is a feeling does not.
+
+**The preparation that matters.** Read the whole file, not only the notes about the session in question. Write a
+chronology. Mark the three decisions you might be challenged on and be able to explain each in three sentences. And
+rehearse with a colleague playing counsel, because the first time the question is asked should not be in court.
+
+**The day itself.** Take the file and the order. Arrive early. Dress as the court expects. Speak to the bench, not
+to counsel. Answer slowly. Ask for a break if you need one. And remember that the discomfort of the witness box is
+not evidence that the therapist did something wrong.
+
+### 11.5a The report written before the hearing
+
+Where the court asks for a report, the structure below produces something usable and honest. It is a report of
+fact and clinical opinion within the therapist's competence, not a custody evaluation (Week 10).
+
+**The six sections.** *The instruction:* who asked for the report, what was asked, and the date. *The sources:*
+sessions, dates, who attended, documents seen, and what was not available. *The history:* brief, factual, and drawn
+from the record rather than from memory. *The observations:* what the therapist saw, in behavioural language.
+*The clinical opinion:* clearly labelled, bounded by the therapist's competence, and stating its limits. *The
+limits:* what the therapist cannot say — parenting capacity, the other parent, prognosis, the child's best
+interests.
+
+**The four sentences that keep a report inside its role.** "I have not assessed [the other parent]." "I make no
+recommendation as to residence or contact." "This report is based on my contact with [client] over [n] sessions and
+on no other source." "I am willing to attend court and to answer questions about the treatment I provided."
+
+**What the report must not contain.** A recommendation disguised as an observation ("she was consistently the more
+attentive parent, which I would expect to be relevant to residence"), the other party's alleged behaviour presented
+as fact, and any material from an individual session of a partner who has not consented.
+
+### 11.6 Case: the subpoena in the Eze matter
+
+**Background.** Mrs Ngozi Eze, 38, was in treatment for eight months following her husband's departure (Week 6,
+section 6.7, where she asked the therapist to be a character witness and was refused). She is now in a custody
+dispute over two children, 11 and 6.
+
+**The document.** A subpoena duces tecum arrives by courier, addressed to the therapist, requiring "all notes,
+records, correspondence and reports relating to the treatment of Ngozi Eze" and her attendance on a date three
+weeks away. It is issued at the request of the husband's solicitor.
+
+**The five checks.** Valid and properly addressed; scope extremely broad; client not yet told; supervisor
+available, indemnity provider contacted; deadline leaves eleven days to seek advice on scope.
+
+**What is in the file, and why it matters.**
+
+1. The treatment notes across eight months, including Mrs Eze's account of the marriage, which is highly critical
+   of her husband and includes allegations that have never been tested.
+2. Three entries in which she describes her mother-in-law supervising the children and says she "does not trust
+   her".
+3. A note recording that Mrs Eze told the therapist, in an individual session, that she had once left the children
+   with a neighbour overnight while she travelled to another city for a funeral. The therapist recorded it as a
+   fact reported, not investigated.
+4. A letter the therapist wrote at Mrs Eze's request to the children's school, confirming that the family was
+   attending therapy, with no clinical detail.
+5. A supervision note recording the therapist's view that Mrs Eze was "fragile but improving".
+6. Nothing about the husband, who was never a client.
+
+**The advice received.** Produce items 1, 3, 4 and 5 in response to the order, with third-party identifiers
+redacted where they are not the subject of the proceedings (the neighbour's name, the mother-in-law's medical
+details, which appear in one sentence about her own health). Item 2 is producible, with the mother-in-law's health
+information redacted. Item 5's reference to "fragile" is producible and the therapist should expect to be asked
+about it. Nothing is withheld except the redactions, and the redactions are logged with reasons.
+
+**What the therapist did.**
+
+1. Told Mrs Eze by telephone the same day, in the words: "your husband's lawyer has asked the court to order me to
+   produce my records. I have to comply. I am going to tell you exactly what is in the file and what will be
+   produced, and I am going to take advice first." She then read the relevant entries to her, over two sessions.
+2. Wrote to Mrs Eze confirming the conversation, the scope of the order, what would be produced, and the date.
+3. Took advice from her indemnity provider and, through them, a lawyer, on the redactions and on whether to seek to
+   limit the scope. The advice was to produce with redactions and not to contest the scope, because the material
+   was plainly relevant and a contested application would delay the hearing and damage the therapist's position.
+4. Produced an indexed bundle, paginated, with a covering letter stating what was produced, what was redacted, and
+   the basis for each redaction.
+5. Attended and gave evidence.
+6. Recorded all six steps in the file, with dates and names.
+
+**The evidence, and the two hard moments.**
+
+*The first.* Counsel read out the note about the overnight stay with the neighbour. "You recorded that my client's
+wife left the children overnight with a neighbour, did you not?" The therapist answered: "I recorded what she told
+me. I did not investigate it and I made no finding." Counsel: "So you cannot say whether it is true." Therapist:
+"That is correct."
+
+*The second.* Counsel read out the supervision note: "fragile but improving". "You considered her fragile."
+Therapist: "I wrote that in a supervision note eight months ago, in the context of her grief and her financial
+position. I also wrote 'improving', and the treatment continued for five months after that note. I can explain the
+context if the court wishes."
+
+**The outcome of the hearing, which is not the point of the case.** Residence was ordered with the mother, with
+defined contact for the father. The therapist's evidence neither rescued nor destroyed the case, which is what
+evidence from a treating clinician usually does.
+
+**What the case teaches.**
+
+1. **The order was complied with, not resisted, and the compliance was careful.** The therapist's protection was
+   not argument but accuracy: an indexed bundle, logged redactions, and a recorded process.
+2. **The client was told before she was surprised.** The two sessions spent reading the file to her were the
+   clinical work of the week, and probably prevented the treatment from ending.
+3. **The notes she had written were the evidence.** The "fragile but improving" note was the only moment of real
+   difficulty, and it was survivable because it was a supervision note with a date and a context, not a character
+   judgement in the clinical record.
+4. **The file contained material about people who were not parties,** which is the ordinary condition of family
+   work and the reason the redaction log exists.
+5. **Nothing was destroyed, altered or withheld without a reason on the record.** Had any of those three happened,
+   the case would have been about the therapist rather than about the children.
+
+### 11.7 Transcript: fifteen minutes of cross-examination
+
+Condensed from the hearing, with annotation.
+
+> **X1 Counsel:** You are not a psychiatrist, are you?
+>
+> **X2 Therapist:** No. I am a family therapist, registered with [body].
+>
+> **X3 Counsel:** And you are not qualified to say whether my client's wife is a fit mother.
+>
+> **X4 Therapist:** I have not said that, in my notes or in this court. — *Fourteen words. The answer corrects the
+> premise without arguing with counsel, which is the difference between a witness and a combatant.*
+>
+> **X5 Counsel:** You formed a view, though.
+>
+> **X6 Therapist:** I formed a clinical impression of a woman in grief, which is what I was treating. *(pause)* I
+> recorded it and I have explained what it was based on. — *The concession (yes, a view) followed by the limitation
+> (of a particular thing), which is more credible than a denial.*
+>
+> **X7 Counsel:** You never spoke to my client.
+>
+> **X8 Therapist:** I did not. He declined to attend. I wrote to him once, at his wife's request, offering an
+> appointment, and I have the letter in my file. — *The fact, plus the document, plus the correction of the
+> implication that the therapist excluded him.*
+>
+> **X9 Counsel:** Would it not have been better to insist?
+>
+> **X10 Therapist:** I cannot compel an adult to attend therapy. *(pause)* I can record that I invited him. — *The
+> answer to a "would it not have been better" question, which is counsel's favourite form: it invites the witness to
+> criticise herself. The witness states what was possible.*
+>
+> **X11 Counsel:** You recorded that she left the children with a neighbour overnight. That is a safeguarding matter,
+> is it not?
+>
+> **X12 Therapist:** I recorded what she told me. I did not treat it as a safeguarding concern, because it was one
+> night, with a known neighbour, and she told me herself without being asked. *(pause)* If I had thought a child was
+> at risk I would have reported it, and I would have recorded that too. — *The factual answer, the reasoning, and
+> the statement of the duty — three elements in three sentences.*
+>
+> **X13 Counsel:** With respect, that is your judgement.
+>
+> **X14 Therapist:** It is. And it is the judgement I am employed to make, and it is written down with the reasons.
+> — *The final turn of the transcript, and the one students should memorise: the witness owns the judgement, states
+> its basis, and does not apologise for having made it.*
+
+**What the transcript shows.** The therapist's longest answer is forty words and most are under fifteen. She concedes
+what is true, corrects what is false, and never argues. The single most damaging thing that could have happened in
+that box was a therapist who sounded as though she were the client's advocate — and the discipline that prevented it
+was grammatical: she spoke about what she observed, in the past tense, and left the conclusions to the court.
+
+### 11.8 Laboratory: the note lab and the subpoena drill
+
+**Part A — the note lab (thirty minutes).** Students are given a ten-minute transcript of a family session
+containing: a risk disclosure, an individual aside, an argument between the parents, and a plan. Each writes the
+note in eight minutes. The notes are exchanged and marked against the "three readers" standard by a partner, who
+must answer three questions from the note alone: what is the risk, what was decided, and what would I do if the
+client telephoned tonight?
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Fact and register** | Judgements mixed with facts | Mostly factual | Every statement in the correct register |
+| **Risk** | Not recorded | Recorded as a statement | Questions asked, answers given, level and plan recorded |
+| **The individual aside** | In the main note | Omitted | In the restricted section, with the reason recorded |
+| **Plan and consent** | Absent | General | Specific, dated, with who was told what and the consent |
+| **Handover** | Unusable | Adequate | A colleague could take over tonight |
+
+**Part B — the subpoena drill (thirty minutes).** Each student receives one of four documents: a subpoena duces
+tecum, a letter from a solicitor requesting records "as a matter of urgency", a request from a school for "the
+records of the family", and a request from a client's employer. In twelve minutes they must write: the first five
+actions, the letter or response, and the file entry. The group then compares the four responses, which is the point
+of the exercise — the same instinct produces four different correct answers.
+
+**The four correct answers, in summary.** Subpoena: verify, tell the client, take advice, produce what is required,
+log. Solicitor's letter: this is a request, not an order; consent or a court order is required; reply in writing.
+School: attendance only, with consent, unless a safeguarding duty requires more. Employer: attendance only, with
+consent, and a note explaining the limit to the employer.
+
+**Marks for Part B (10).** Correct identification of the instrument; the client informed; advice taken; minimum
+necessary applied; the file entry complete.
+
+### 11.8a The four-minute handover note
+
+The note that matters most is the one written when a therapist goes on leave, becomes ill, or leaves a post. It is
+four minutes' work and almost never done.
+
+**The four lines per case.**
+
+1. **Who and why** — the client system, the presenting problem, and the agreed focus.
+2. **The current risk** — the last assessment, the date, the plan, and who knows.
+3. **The live issues** — the secret being held, the referral pending, the court date, the person who has not been
+   told something.
+4. **What to do first** — the call to make, the appointment to keep, the file to read.
+
+**What belongs at the top of the bundle.** A single page listing every client with a risk flag, a court date, or an
+open protection matter, in date order. It is the page a covering colleague reads on the first evening.
+
+**Why it is an ethical duty and not an administrative one.** Continuity of care is a client's interest. The
+therapist who leaves without a handover has transferred her caseload and abandoned its clinical responsibility, and
+the case in which this matters most is always the one with the highest risk — because that is the case with the most
+to record and the greatest reluctance to reduce it to four lines.
+
+### 11.9 Six errors
+
+**Error 1 — The note that records a conclusion without its basis.** "Client is depressed." The next clinician
+cannot tell whether this was an assessment, a diagnosis, or an impression, and neither can a court.
+
+**Error 2 — The individual disclosure in the joint file.** It is the commonest documentary failure in couple work
+and it is created by an administrative habit rather than a decision.
+
+**Error 3 — Promising that the file can never be disclosed.** It is false, it is said to reassure, and it converts
+a lawful disclosure into a betrayal.
+
+**Error 4 — Producing the entire file in response to a narrow order.** It breaches duties owed to third parties and
+to the other partner, and it is usually done out of anxiety rather than necessity.
+
+**Error 5 — Altering or destroying records.** It is a criminal offence in most jurisdictions, it is detectable, and
+it converts a defensible case into an indefensible one.
+
+**Error 6 — Advocacy in the witness box.** The therapist who argues for the client's case has abandoned the only
+thing that made her evidence useful, which is that she was not a partisan.
+
+### 11.9a Ten sentences that have been read back to a therapist in a hearing
+
+Each of these was written in a file and each was quoted. They are collected because the pattern is instructive:
+none is a lie, and each is an assertion that the therapist could not support when asked.
+
+1. "Client is manipulative." *Question asked:* "On what evidence?" 
+2. "Mother appears to prefer the son." *Question:* "Which sessions, and what did you observe?"
+3. "The marriage is characterised by his control." *Question:* "You never met him, did you?"
+4. "Client is not at risk." *Question:* "How could you know that?"
+5. "She is a devoted mother." *Question:* "That is an opinion, is it not?"
+6. "Father is in denial." *Question:* "Did you assess him?"
+7. "Client has borderline traits." *Question:* "Are you qualified to make that diagnosis?"
+8. "The family is enmeshed." *Question:* "What does that mean in observable terms?"
+9. "Client was intoxicated at session." *Question:* "Was this tested, or observed, and by whom?"
+10. "I am certain the disclosure is true." *Question:* "Certain on what basis?"
+
+**The rule that produces all ten errors.** The sentence was written to capture a feeling, in a document that
+requires evidence. The remedy is not fewer opinions but labelled ones: "I observed X. My impression, which I have
+not tested, is Y."
+
+### 11.10 Culture, faith and the record
+
+**"The family wants to see what you have written."** In households where information is held collectively, the idea
+that a therapist keeps a private record is foreign and suspicious. The request may come from an elder, a husband, or
+a client herself who has been sent to fetch it. The answer is not a lecture on data protection. It is three
+sentences: what the record is (the therapist's working note), who may see it (the client, and a court if it orders),
+and what the therapist will do instead (summarise in the session what she has written, and let the client correct
+anything inaccurate).
+
+**The client's right to her own record.** Where a client asks to see what is written about her, the request is
+usually legitimate and should not be treated as hostility. Reading the record with the client, in a session, is
+frequently therapeutic: it demonstrates that the therapist has understood, it corrects errors, and it makes the
+record collaborative rather than mysterious.
+
+**Privacy in a shared house.** A record kept on a phone in a household where the husband checks the phone is not
+private. This is an argument for paper in a locked cabinet, for a practice system rather than a personal device, and
+for the practice policy that nothing clinical is stored on a personal phone. In the settings this book is written
+for, that is not a technicality; it is a safety matter.
+
+**Confession, records and religious authority.** A religious leader who asks to see the therapist's notes about a
+member of the congregation is making a request that has no legal basis and considerable social force. The answer is
+the same as for any third party, delivered with respect: "I cannot discuss her with you. I can tell you that she is
+being seen, if she has agreed to that."
+
+**The family's own record.** Many families keep their own documentation — letters, court papers, a written account
+of events. Where the therapist is shown it, the fact is recorded, because the file must show the source of
+information that reached the treatment from outside, and because the document may later be produced by the family
+and attributed to the therapy.
+
+> **DEBATE** — "A therapist's notes should be written on the assumption that the client will read them." Argue for:
+> transparency, accuracy, the client's right of access, and the discipline it imposes. Argue against: the clinical
+> record must contain hypotheses and observations not intended for the client, candour would be lost, and the
+> therapeutic relationship would change. Then state your practice, and the note you would write differently if the
+> debate changed your mind.
+
+### 11.10a The retention, storage and destruction schedule
+
+Three decisions that every practice must make in advance, because each of them is impossible to make well at the
+moment it arises.
+
+**Retention.** How long is a record kept after the last contact? The answer is set by the professional body, by
+limitation periods for claims, and by the needs of former clients who may return. In most jurisdictions the
+practical range for adult records is seven to ten years, and for children's records until some years after the
+child's majority. The rule should be written, applied consistently, and stated in the privacy notice the client
+receives.
+
+**Storage.** Who can reach the record; what happens if the therapist is ill, dies, or leaves the country; and where
+the backup lives. A practice of one is a practice with a single point of failure, and the "professional will" — a
+named colleague who can access records, contact clients and close the practice — is part of the duty to clients
+rather than an act of foresight.
+
+**Destruction.** How, by whom, and with what record. A file that is destroyed is recorded as destroyed, with the
+date and the method, and the destruction is subject to a check that no request or proceeding is pending. The
+practitioner who shreds a file during a complaint has committed the offence described in Error 5.
+
+**The client's information.** What the client is told at the start: what will be kept, for how long, who may see
+it, what happens on the therapist's death or retirement, and how the client can obtain a copy. Three sentences in
+the consent conversation, and a paragraph in the written information.
+
+### 11.11 Evidence note
+
+**What is known.** Studies of clinical records consistently find high rates of missing information on risk,
+consent and reasoning, and that record quality is improved by structured templates and by audit with feedback.
+Research on client access to records finds that reading them is usually experienced as neutral or positive and
+rarely harmful. In the forensic literature, the quality of the contemporaneous record is one of the strongest
+determinants of how a clinician's conduct is judged in a complaint or a hearing.
+
+**What is weaker.** There is little research on the specific formats used in family therapy, and none on the
+restricted-section practice recommended here, which is derived from the structure of multiperson confidentiality
+rather than from outcome evidence.
+
+**What is not supported.** That detailed notes protect a therapist regardless of content — a detailed note
+containing judgements is more dangerous than a sparse factual one. That the client's access to records is generally
+harmful. And that destroying or amending records ever improves a position.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same sentence, written in a supervision note and written in the clinical
+record, has two different lives in a courtroom.
+
+### 11.12 Key terms
+
+**Contemporaneous note** — a record made at or near the time of the event; its evidential weight is much greater.
+
+**Restricted section** — a part of a couple or family file holding material that must not be disclosed to another
+client in the same case.
+
+**Privilege** — the client's legal protection against disclosure in proceedings; qualified and waivable.
+
+**Subpoena duces tecum** — an order to produce documents; distinct from a request by a party.
+
+**Redaction** — the removal of specified information from a disclosed document, recorded with reasons.
+
+**Witness of fact** — a witness reporting what she observed; contrasted with an expert witness offering opinion.
+
+**Minimum necessary** — the principle that disclosure is limited to what the purpose requires.
+
+### 11.12a The two-minute note review
+
+A habit rather than a technique, and the cheapest quality improvement available: at the end of each working day,
+the therapist re-reads the notes she wrote and asks four questions of each.
+
+1. Could a colleague act on this tonight?
+2. Have I written a judgement where I should have written an observation?
+3. Have I recorded the risk questions I asked, or only the answers?
+4. Is there anything here I would not want read aloud?
+
+Ten notes take two minutes and question 4 is the one that changes practice. A therapist who asks it daily stops
+writing the sentences that get read back in a hearing (section 11.9a) within about three weeks.
+
+### 11.13 Self-test
+
+1. Name the three readers of a clinical note and what each needs.
+2. Give the four registers, with an example of each.
+3. State the six headings of a family session note.
+4. What is the restricted section, and what three clauses describe it?
+5. Give the five checks to perform in the first hour after a subpoena arrives.
+6. Distinguish confidentiality from privilege.
+7. Name the four situations in which privilege will not protect the file.
+8. Give the four rules for giving evidence, and explain why "I do not know" is a strong answer.
+
+**Answers.** *(1)* The therapist in six months — problem, attempts, outcome, plan; a colleague taking over — risk,
+plan, who knows, what to do if telephoned; a court — facts with dates, decisions with reasons, consent, no
+speculation. *(2)* Fact: "client attended on 4 March"; observation: "she checked her phone four times"; opinion:
+"consistent with an acute stress response"; hypothesis: "possible that the husband's drinking is a factor, not yet
+explored". *(3)* Attendees; presenting this session; risk screen; interventions; response; plan. *(4)* A clearly
+marked part of a couple or family file holding individual-session material that must not be shared with the other
+client; described by its reference to practice policy, the client's knowledge that it will not be shared, and the
+statement that nothing affecting safety is withheld from the main file. *(5)* Validity and addressee; exact scope;
+whether the client has been told; who is advising; the deadline and whether there is time to object. *(6)*
+Confidentiality is the therapist's professional duty; privilege is the client's legal protection, waivable by the
+client and overridable by statute or court order. *(7)* Client waiver, frequently by putting mental state in issue;
+a statutory exception such as child protection; a court order; and proceedings in which the therapist is defending
+herself. *(8)* Answer the question asked; do not guess; distinguish fact from opinion; do not defend the treatment.
+"I do not know" is strong because it is credible, it prevents the improvisation that destroys witnesses, and no
+court expects a clinician to know everything.
+
+### 11.14 Reflective task
+
+Write one page on the following before you read further: which of the four registers do you default to when you are tired, and what does that default produce in a record that might one day be read aloud? Most therapists default to opinion, because opinion is what the mind produces when it is summarising quickly, and opinion is the least defensible thing in a file.
+
+Take the last note you wrote in a placement or practice and read it as three people: as the therapist in six
+months, as a colleague on call tonight, and as counsel cross-examining you. Write a paragraph on what each of them
+would make of it. Then rewrite one sentence.
+
+### 11.15 Further reading
+
+- Any current text on record keeping and the legal process in health and social care in your jurisdiction.
+- The Nigeria Data Protection Act 2023, and your professional body's guidance on records and access.
+- Gutheil, T. on the psychiatrist in court — despite the discipline, the clearest treatment of testifying as a
+  clinician.
+- Your indemnity provider's guidance on subpoenas and on responding to requests for records — usually free and
+  usually unread.
+- Court rules on the production of documents in family proceedings where you practise.
+
+*Next: Week 12 — Money, gifts and the economics of the relationship.*
 
 ---
 
