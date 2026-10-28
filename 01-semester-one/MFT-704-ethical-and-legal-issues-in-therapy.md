@@ -5639,26 +5639,710 @@ actually keep. The difference between the two is the measure of your documentati
 
 ## Week 9 — Risk II: intimate partner violence and child protection
 
-**Distinguish two patterns.**
+**Learning outcomes.** By the end of this week the student can (1) distinguish situational couple violence from
+coercive control and explain why the distinction changes the treatment; (2) screen each partner separately with
+direct questions, and document a positive screen; (3) identify the factors associated with lethal risk and act on
+them; (4) explain to a couple why conjoint work is contraindicated and what is offered instead; (5) build a safety
+plan with a victim that does not require her to leave; and (6) discharge the statutory duty to report a child
+protection concern correctly and in the right order.
 
-| Situational couple violence | Coercive control |
+### The distinction on which everything depends
+
+| | Situational couple violence | Coercive control |
+|---|---|---|
+| **Pattern** | Mutual, low-level, escalates under stress; both partners can be aggressive | One partner dominates systematically; the violence is one instrument among many |
+| **Fear** | Situational, episodic | Chronic; the victim is afraid most of the time |
+| **Mechanisms** | Arguments that escalate | Surveillance, isolation, financial control, threats, sexual coercion, rules, humiliation |
+| **The victim's view** | "We both lose control" | "I have to be careful all the time" |
+| **Couple therapy** | May be appropriate after assessment | Contraindicated; risk increases after conjoint sessions |
+| **Response** | Communication and de-escalation work; individual safety plan | Safety planning, advocacy, protection; individual work only |
+
+**Why the distinction is not academic.** Conjoint work in a coercive control case does three harmful things. It
+treats the violence as a communication problem, which the perpetrator welcomes. It gives the perpetrator access to
+the victim's disclosures, because everything said in the room is available to him afterwards. And it produces
+retaliation: the literature and the practice literature agree that the period after a conjoint session is a period
+of elevated risk, and the retaliation is frequently about something said in the session.
+
+**The family therapist's structural problem.** Couple and family therapy is the modality most often requested by
+couples in which control is present, because the request itself is part of the control: "we need help
+communicating" is a formulation in which the violence does not appear. The therapist who accepts the referral at
+face value will conduct twelve sessions of communication training in a household where one partner is deciding what
+the other may say.
+
+### 9.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | The two patterns; how the referral conceals the second | Two referral letters, students identify which is which |
+| 10–25 | Five concepts: control, lethality, separation, the structural problem, the child as victim | Lecture |
+| 25–40 | Screening: who, when, how, and what to do with a positive | Demonstration, then paired practice of the four questions |
+| 40–55 | The lethality factors, in plain language | Card sort; each student ranks five cases |
+| 55–70 | Ending conjoint work, and what to offer instead | Role-play of the conversation with a couple |
+| 70–80 | The reporting duty: threshold, route, order of operations | Local rules quiz |
+| 80–90 | The Okafor case | Case, with students deciding what is reported and to whom |
+
+### 9.2 Five concepts that organise the week
+
+**Concept 1 — Coercive control is a pattern of domination, not a series of incidents.** The incidents are the
+visible part; the substance is the regulation of the other person's daily life — what she wears, whom she sees,
+whether she works, whether she has money, whether her phone is checked. The clinical implication is that an absence
+of recent violence is not an absence of danger, and that the therapist must ask about control, not only about
+hitting.
+
+**Concept 2 — Lethality is assessable, and the factors are specific.** Strangulation, threats to kill, access to
+a weapon, stalking, separation, pregnancy, escalation in frequency or severity, a history of violence towards
+others, and a partner who has been violent during sex. Each raises the risk of homicide substantially. The
+therapist does not need a scored instrument to ask about them, and should know the local one if it exists.
+
+**Concept 3 — Separation is the period of highest danger.** The weeks after a woman leaves, or after she says she
+will, are the weeks in which the risk of homicide peaks. This inverts the assumption of many helpers, who treat
+leaving as the solution; leaving is a process with a peak, and the safety planning must cover the leaving rather
+than begin after it.
+
+**Concept 4 — The therapy setting is a site of risk, not a sanctuary.** Appointment times are known, waiting rooms
+are public, text messages are visible, and a partner who is controlling will want to attend every session. The
+practice must be designed with this in mind: separate contact details, notes that cannot be read at home, a
+protocol for what to say if the partner telephones, and a receptionist who has been trained.
+
+**Concept 5 — The child is a victim of the control, not only a witness.** Exposure to the control of one parent by
+another is a form of harm in its own right, recognised in child protection frameworks in most jurisdictions. The
+child's presence changes the therapist's duties, the risk formulation and the plan.
+
+### 9.2a Screening: who, when, how
+
+**Who.** Every adult seen in a couple or family case, at least once, alone. Not "where indicated", because
+indication is what the screening is for.
+
+**When.** In the first two sessions, before any conjoint work, and again if the presentation changes — a new
+injury, a new fear, a partner who has become more attentive to the therapy.
+
+**How.** Alone, in a room the partner cannot see into, with an explanation of why the question is being asked. The
+four questions, in this order:
+
+1. "Has your partner ever hit, kicked, pushed, slapped or otherwise hurt you?"
+2. "Has your partner ever made you afraid — not angry, afraid?"
+3. "Has your partner ever forced you to do something sexual that you did not want?"
+4. "Do you feel safe going home today?"
+
+**The follow-ups that produce the information.**
+
+- "What is the worst thing he has ever done?" The answer is frequently not in the first four questions.
+- "Has he ever put his hands around your neck, or made you unable to breathe?" Strangulation is under-reported and
+  is the single strongest non-fatal predictor of homicide.
+- "Has he ever said he would kill you, or the children?"
+- "Does he check your phone, your money, where you go?"
+- "Has the violence got more frequent or worse in the last year?"
+- "What happens after he has been violent — does he apologise, blame you, promise, or nothing?"
+
+**What to do with a positive screen.** Thank the client, name what she has described, and ask what she wants. Then
+the sequence: assess lethality; agree immediate safety for today; discuss what the therapist must do (children,
+statutory duties); provide information about services without making attendance a condition; record; and plan the
+next contact. The full safety-planning method is in 9.3a.
+
+**What not to do.** Do not ask in front of the partner. Do not ask as part of a checklist read aloud to both. Do
+not respond with "have you considered leaving?" as the first sentence, which is heard as "your judgement has been
+poor". And do not offer couple therapy as the response to a positive screen.
+
+### 9.2b The lethality factors, in the language of a session
+
+The list below is the one a family therapist should be able to run through without notes. None of them is a
+prediction; each of them changes the urgency.
+
+**1. Strangulation.** Ask: "has he ever put his hands around your neck, or covered your mouth and nose?" A woman
+who has been strangled is at substantially elevated risk of being killed, and the assault frequently leaves no
+visible injury and is not reported to the police.
+
+**2. Threats to kill.** Ask for the words. "I will kill you and nobody will find you" is a different fact from "I
+was angry".
+
+**3. Access to a weapon.** A firearm, a machete, a knife kept in the bedroom. Ask what is in the house.
+
+**4. Separation, or the threat of it.** Ask: "have you told him you want to leave, or has he said he would not allow
+it?" The answer sets the risk of the next month.
+
+**5. Stalking and monitoring.** Following, checking the phone, tracking the car, arriving unannounced, calling the
+therapist. Monitoring is a marker of the partner's need for control and of his capacity to find her.
+
+**6. Escalation.** More frequent, more severe, or new forms. Ask for a comparison with a year ago.
+
+**7. Pregnancy and the postnatal period.** Violence frequently begins or escalates in pregnancy, and the risk of
+homicide is elevated.
+
+**8. Sexual violence within the relationship.** Ask directly; the question is rarely asked and frequently
+answered.
+
+**9. A history of violence outside the home** — towards previous partners, children, strangers, animals.
+
+**10. The partner's own instability** — substance misuse, a recent job loss, a mental illness, a court case,
+jealousy that has become fixed. Combined with a weapon and a separation, this is the configuration that appears in
+the files after a death.
+
+**How to use the list in a session.** Not as an interrogation. Three or four questions, chosen for what the client
+has already said, in a tone that says "these are questions I ask everybody". The client who is asked about
+strangulation by a therapist who is not shocked will answer, and the answer may be the first time she has said it
+aloud.
+
+### 9.2c The practice that is safe to be a client in
+
+Safety is a property of the practice, not only of the therapist's intentions. Six arrangements, each cheap and each
+routinely absent.
+
+1. **A second contact number that the partner does not know.** A client's contact details must be recorded with a
+   note on who may be telephoned and what may be said. The receptionist who telephones a house and asks for "Mrs
+   Okafor about her appointment" has disclosed the therapy.
+2. **A receptionist who has been briefed.** The person at the front desk is part of the clinical service. She needs
+   two sentences: do not confirm whether a person is a client; if a man arrives asking for his wife, say you will
+   check and get the therapist.
+3. **A waiting room that is not a corridor.** Where a couple is in a violent relationship, the waiting room is
+   where the confrontation happens. Separate entrances, staggered appointment times, or the client waiting in the
+   car and being fetched.
+4. **A protocol for the partner's telephone call.** Written down: what may be said, who says it, and the note that
+   is made afterwards. Usually: "I can confirm that she had an appointment and I cannot discuss anything else."
+5. **Notes that cannot be read at home.** If the client takes a receipt, an appointment card or a leaflet home, it
+   will be found. The practice's answer: nothing written goes home unless the client asks for it.
+6. **A named person to call at night.** Not the therapist's personal number as a general service, and not a
+   promise of availability. A named duty line, written on a card, with the hours stated.
+
+**The test.** Ask the receptionist, or the answering service, what she would say if a man telephoned and said, "my
+wife comes to you, I want to know when her appointment is". If the answer is not rehearsed, the practice is not
+ready for this week's cases.
+
+### 9.3 Ending conjoint work: the conversation and the alternative
+
+The therapist has screened both partners, and the screen is positive. The couple is expecting a session about
+communication. The task is to change the treatment without losing the victim.
+
+**The principles.** Do not confront the perpetrator with the accusation in front of the victim, because she will
+pay for it. Do not tell the victim's account to the perpetrator. Do not use the word "violence" unless the victim
+has used it in front of him, because the disclosure of what she said in the individual session may itself be
+dangerous.
+
+**The script, with both present.**
+
+1. "I have met each of you separately, as I said I would, and I have decided that the work I do — seeing couples
+   together — is not the right thing for you at the moment."
+2. "The reason is that I do not think this is a communication problem, and couple work can make things worse when
+   it is not."
+3. "Here is what I am offering instead: individual sessions for each of you, with me or with a colleague, and a
+   referral for [the relevant service]."
+4. "I want to be clear about one thing: I will not be discussing with either of you what the other has said to me."
+
+**The predictable responses, and the answers.**
+
+- *The perpetrator's anger:* "why does she get her own sessions?" — "Because I need to see each of you alone to do
+  this work, and that is the same for both of you." (The symmetry is real and is stated without disclosing
+  anything.)
+- *The victim's fear:* she may not want to end conjoint work, because the conjoint sessions are the only place she
+  is safe from him. This is a genuine clinical dilemma. The resolution is not to continue conjoint sessions but to
+  increase the frequency and reliability of individual contact, and to help her build other safe contacts.
+- *The couple's refusal:* "we came for couple therapy". Then the therapist states the limit as a limit on her own
+  practice: "I am not able to do the work you are asking for, because I think it would put one of you at risk. I
+  would rather lose the case than do that."
+
+**What is offered instead, and why each element matters.**
+
+| Offer | Purpose |
 |---|---|
-| Mutual, low-level, escalates under stress | One partner systematically dominates |
-| Fear is situational | Fear is chronic; surveillance, isolation, threats |
-| Couple therapy may be appropriate after assessment | Couple therapy is contraindicated; risk increases |
-| Safety planning individual | Specialist advocacy and protection |
+| Individual sessions with the same therapist, for the victim | Continuity and a safe place to plan |
+| Individual work with a different therapist for the perpetrator | Avoids the therapist holding both accounts and being triangulated |
+| Referral to specialist advocacy or a domestic violence service | Practical help the therapist cannot provide: housing, police, legal, money |
+| A referral to a perpetrators' programme where one exists | The only intervention with evidence of effect, and only where attendance is monitored |
+| A child protection referral where children are present | The statutory duty, discharged separately from the couple's treatment |
 
-**Screening.** Screen each partner **separately**, at least once, using direct questions: "Has your
-partner ever hit, kicked, or pushed you? Has he/she ever made you afraid? Do you feel safe going home
-today?" Never screen in front of the partner.
+**The therapist who continues couple work anyway.** The commonest reason is the therapist's belief in the
+relationship or in her own skill. The second commonest is the victim's request. Neither is a justification, and the
+note written after an injury will not read well: "continued conjoint work despite disclosure of coercive control in
+individual session of 4 March."
 
-**Child protection.** Know your jurisdiction's reporting duty. In Nigeria, the Child Rights Act (2003,
-adopted in many but not all states) and state child protection laws create duties and structures; the
-practical route is usually the state ministry responsible for social welfare, the police family unit, or a
-designated safeguarding lead. Document the concern, the advice received, and the action taken.
+### 9.3a Safety planning with a victim
 
-> **CAUTION** — Conjoint sessions can escalate violence after the session. If there is any indication of
-> coercive control, separate sessions and a safety plan precede any conjoint work. Write it down.
+**The framing sentence.** "I am not going to tell you to leave. Whether you leave is your decision and you know
+your situation better than I do. What I want to do is make sure that if you ever need to leave quickly, you can."
+
+That sentence is the foundation, because the victim has usually been told by professionals, relatives and her
+husband what to do, and the therapist who does not add to the list becomes usable.
+
+**The plan, in eight parts.**
+
+1. **The documents.** Identity card, birth certificates, the children's records, the marriage certificate, bank
+   cards, a copy of any protection order. Kept in a place he does not know, or with a trusted person.
+2. **The money.** A small amount saved, a separate account if possible, and knowledge of where to get emergency
+   assistance.
+3. **The bag.** A packed bag at a neighbour's or a sister's house: clothes for the children, medication, a phone
+   charger, a copy of documents.
+4. **The code word.** One word, texted to one person, meaning "come now" or "call the police". Agreed in advance,
+   with a person who will act.
+5. **The route.** Where she goes, how she gets there, and what she does if the first place is not available. Two
+   options, not one.
+6. **The children.** Where they are at each hour of the day, who collects them, and what the school will do if he
+   arrives.
+7. **The phone.** A second phone or a saved number; the emergency number on speed dial; and the practice's policy
+   about what the therapist will say if he answers her phone.
+8. **The review.** The plan is reviewed at each contact, because circumstances change and because the plan that was
+   made in March may be wrong in June.
+
+**What the therapist does not do.** Does not hold the bag, the documents or the money. Does not promise to be
+reachable at all hours. Does not contact the perpetrator or mediate. Does not tell the family, the church, or the
+employer without consent, except where a child protection duty requires it.
+
+**The danger of the written plan.** A safety plan found in a handbag or on a phone can escalate the violence. The
+practical solution is that the victim keeps the information in her head or in a form that can be explained away,
+and the therapist keeps the record; the copy given to the client is minimised and, where necessary, not given at
+all.
+
+### 9.4 Child protection: recognition, threshold, duty
+
+**The four categories.** Physical abuse; sexual abuse; emotional abuse; neglect. In most jurisdictions the
+definition also includes exposure to domestic violence and, increasingly, exposure to harmful practices. The
+therapist's task is not to determine whether abuse occurred — that is the job of the investigative authority — but
+to recognise a concern at the threshold the law sets, and to report it.
+
+**The threshold in plain language.** A concern is reportable when there is a reasonable suspicion that a child is
+being harmed or is at risk of significant harm. Not proof; suspicion. The therapist does not need to be right; she
+needs to be reasonable, and the reasonableness is judged on what she knew and when, not on the eventual outcome.
+
+**What raises a concern in ordinary family work.**
+
+- A disclosure by a child, however tentative or retracted.
+- An injury with an inconsistent explanation, or an explanation that changes.
+- Sexualised behaviour in a young child that is developmentally unexpected.
+- A child who is frightened of a specific adult, or who will not go home.
+- A parent's account of violence towards a child, including "discipline" that leaves injury.
+- Exposure to the coercive control described in 9.2 — a child who sees it, hears it, or is used in it.
+- Chronic neglect: hunger, untreated illness, absence from school, a child left with inadequate care.
+- A child who discloses that an adult has asked him to keep a secret that frightens him.
+
+**The reporting route in Nigeria, and the general principle.** The Child Rights Act 2003 has been adopted by many
+but not all states, and state child protection laws vary; the practical route is usually the state ministry
+responsible for social welfare or the state child protection unit, the police family support unit, or a designated
+safeguarding lead in a school or hospital. The therapist should have the four local numbers in her practice manual,
+verified within the past year, and should know which of them operates at night.
+
+**The order of operations, which matters more than the route.**
+
+1. **Ensure immediate safety.** If the child is in danger now, the emergency services come first and the paperwork
+   second.
+2. **Record what was said, in the child's words,** before speaking to anyone else, with the date and time.
+3. **Consult** — a supervisor, a designated safeguarding lead, a child protection adviser — where consultation is
+   available within the hour. Consultation does not delay a report that is required.
+4. **Report.** The call is made by the therapist, recorded with the time, the name of the person spoken to and the
+   advice received.
+5. **Tell the parents, unless telling them would endanger the child.** The default is transparency, and the
+   exception is where a parent is the alleged abuser or the parent's response would expose the child to further
+   harm or to pressure to retract. The decision is recorded with reasons.
+6. **Tell the child what will happen,** in words she can hold: who will be spoken to, what she will be asked, and
+   that she has not done anything wrong.
+7. **Continue the treatment if possible,** and record the referral and the outcome.
+
+**What the therapist does not do.** Does not investigate. Does not interview the child repeatedly to establish
+the facts, which contaminates the evidential process and harms the child. Does not confront the alleged abuser.
+Does not promise the child confidentiality. And does not accept the family's assurance that "it will not happen
+again" as a reason not to report.
+
+### 9.4a The child's disclosure: what to say, and what not to say
+
+**What to say.** Four things, in this order. "Thank you for telling me." "You have not done anything wrong."
+"What you have told me is important and I am going to have to tell someone who can help — I will tell you who and
+what I am going to say before I do it." "I am not going to ask you to tell the story again and again."
+
+**What not to say.** "Are you sure?" "Why did you not tell me before?" "Did he touch you here?" — the leading
+question that puts the words in the child's mouth. "Promise me you will tell me if it happens again." And "this
+will be our secret", which is the sentence that makes the child complicit and which the therapist of all people
+must not say.
+
+**Recording.** Verbatim, in quotation marks, including the child's own vocabulary and the questions that were
+asked. "She said 'he does a bad thing to me at night'. I asked 'can you tell me what happens?' She said 'he comes
+to my bed and I pretend to sleep'." That record is markedly more useful than "child disclosed abuse".
+
+**The child's retraction.** Common, and frequently the product of pressure at home. A retraction is recorded,
+reported and not treated as a resolution. The therapist's note: "child retracted the account on 12 April, having
+spent the weekend with the maternal grandmother; the original disclosure stands recorded and the referral
+continues."
+
+**The non-abusing parent.** Frequently the person who brings the child, frequently disbelieving, frequently the
+target of pressure from the extended family to "settle it". The therapist's work with her is specific: what she
+believes, what she has been told by whom, what she is afraid of, and what she will do if the child is disbelieved
+by the family. Her capacity to protect is the single best predictor of the child's outcome, and supporting it is
+the most useful clinical act available.
+
+### 9.4b When the report is made against the family's wishes
+
+The family will be angry, and the anger is understandable: they came for help and received an investigation.
+
+**What the therapist says.** "I know this is not what you wanted. I am required to report what I am told when a
+child may be at risk, and I have done it. I am telling you now, before anyone contacts you, because I do not want
+you to be surprised." Then the specifics: who was called, what was said, what is likely to happen next.
+
+**What the therapist does not apologise for.** The report itself. An apology — "I am so sorry, I had no choice" —
+converts a professional duty into a personal betrayal and invites the family to treat the therapist as the source
+of the problem. The better sentence: "I did what the law requires, and I am still your therapist if you want me to
+be."
+
+**When the family leaves.** A proportion will. The therapist records the reasoning, offers the referral, and does
+not pursue. A family that leaves because a report was made may return, and the file should make that possible: a
+closing summary, a note that the door is open, and no editorial about the family's decision.
+
+**Where the alleged abuser is a client.** The therapist may be treating the perpetrator — frequently a father in a
+family case — and now has a duty to the child that conflicts with the duty to the client. The resolution is not
+subtle: the child's safety governs. The therapist reports, tells the client that she has done so and why, and
+considers whether she can continue to treat him. In many cases she cannot, and the transfer is the correct
+outcome.
+
+### 9.4c The four cases that must not be missed
+
+Four presentations in which the child protection duty is engaged and in which family therapists most often
+hesitate.
+
+**The one that is "discipline".** A father describes beating his nine-year-old with a cable "because he is
+stubborn". He is not asking for help with it; he is describing ordinary parenting. The therapist's duty is engaged
+if the law's threshold is met, and the conversation is not about whether the father loves his son. The therapist
+says what she must do, and does it.
+
+**The one that is "cultural".** A family requests a practice that is harmful to a child — a cutting, a beating as
+initiation, a marriage of a fifteen-year-old. The therapist does not adjudicate the culture. She applies the law,
+states it plainly, reports where required, and works with whatever part of the family will work with her.
+
+**The one where the child is used.** A mother reports that her husband's family have taken her son to another
+state and will not return him. This may be abduction, custody dispute, or child protection matter; the therapist
+does not decide which, and she does telephone the authorities and record the advice.
+
+**The one that is a disclosure by an adult.** A client in individual therapy says, in passing, that her brother
+"does things" to her eight-year-old niece. The duty is engaged for the niece, who is not a client and has never
+been seen. The therapist reports, tells the client that she is doing so, and works with the client's guilt
+afterwards.
+
+**The common thread.** In each of the four, the therapist's hesitation is about the relationship with the adults.
+The child is not in the room. That is exactly why the duty exists, and why the decision cannot be left to the
+clinical judgement of the person who is fond of the family.
+
+### 9.5 Case: the Okafors, and the referral that said "communication"
+
+**Referral.** Blessing Okafor, 34, a hairdresser, telephones a couple practice: "we need help with communication.
+My husband has agreed to come." Emeka Okafor, 41, a spare-parts trader, attends the first session. Children: Chidi,
+6, and Ada, 2.
+
+**Session one, both present.** The complaint is that "she is always angry and she shouts in front of the
+children", and "he does not listen". The therapist, following the practice protocol, explains that she will see each
+of them alone once before beginning conjoint work, and gives the reason: it is how she gets to know each person.
+Emeka objects mildly, is reassured, and agrees.
+
+**Session two, Blessing alone, and what she discloses.**
+
+- Physical violence for nine years, beginning in the first year of marriage. Pushing, slapping, a beating during
+  her second pregnancy that led to a threatened miscarriage.
+- **Strangulation**, twice, the most recent eight months ago.
+- Threats: "he says he will kill me and take the children to his village, and nobody will ask him any questions."
+- Control: he keeps her bank card, checks her phone every night, decides whether she may visit her mother, and has
+  twice arrived at her salon and sat outside.
+- Sexual coercion: "sometimes I let him so that he will not be angry."
+- Isolation: her mother lives in another state; her closest friend has stopped visiting because of him.
+- Threats about the children: "he says if I leave he will make sure I never see them."
+
+**The assessment.** Coercive control with high lethality indicators: strangulation, a specific threat to kill, a
+threat to remove the children, monitoring of her movements, escalation during pregnancy, and recent escalation in
+frequency. There is also exposure of the children to the violence: Chidi has been present at four incidents and has
+begun wetting the bed.
+
+**The therapist's actions in that session, in order.**
+
+1. She did not ask "why have you not left". She said: "thank you for telling me. None of this is your fault."
+2. She assessed immediate safety: "are you safe going home today?" Blessing said she was, "as long as I do not
+   annoy him".
+3. She asked about the children and made the note that establishes the child protection question: present at four
+   incidents, bedwetting since the last one.
+4. She explained what she must do. She would not be reporting to the police — that is the client's decision — but
+   she was obliged to report the children's exposure to the state child protection unit, and she would tell
+   Blessing exactly what she would say and when. She was clear that the report concerned the children, not the
+   marriage.
+5. She made the report the same afternoon, after a supervision call, and recorded the name of the officer and the
+   advice.
+6. She arranged a second individual session in three days, and gave Blessing the practice's emergency number and a
+   code phrase — "I am calling about the hair appointment" — that would tell the therapist that she needed to talk
+   and could not speak freely.
+7. She documented the safety plan in the 9.3a form, with the documents left with Blessing's aunt and a bag at a
+   neighbour's house.
+
+**Session three — the conjoint session that did not happen.** Emeka attends expecting the couple session and is
+told, with Blessing present, that the therapist will not be conducting conjoint work. The therapist used the
+script of 9.3, and Emeka's response was as predicted: anger, then a demand to know what his wife had said, then a
+threat to withdraw from the process altogether.
+
+The therapist's answer, which is the one that matters. "I am not going to tell you what she said. What I will tell
+you is my clinical view, which is that the two of you working on communication in this room would not be safe, and
+I am not willing to do it. I will see you individually, and I will give you the name of a programme that works with
+men in your situation."
+
+Emeka did not attend individual sessions. Blessing attended eleven over four months.
+
+**The child protection process.** A social worker visited the home twice. No removal. A case was opened and the
+children were seen at school. Blessing was asked, by the social worker, whether she wanted to leave; she said she
+did not, yet. The therapist supported her in that answer in the recorded conversation with the social worker, which
+is the point at which many therapists instead advocate for the outcome they believe in.
+
+**Month five — the escalation the plan anticipated.** Blessing telephoned at 9.40 p.m. from her sister's house. He
+had found the bag at the neighbour's, had been "calm", and then had thrown a chair through the window of the room
+where Chidi was sleeping. She had left with both children. The therapist's role in that call was three things:
+confirm immediate safety, direct her to the police station and the social worker, and be on the telephone the
+following morning when she made the statement. She did not go to the house, did not confront Emeka, did not offer
+her own home.
+
+**The outcome, which is not a happy ending and is a good outcome.** Blessing did not return. A protection order was
+applied for with the help of a legal aid organisation. Emeka was charged and the case is before a court. Blessing
+attended therapy for a further eight months, and the children were seen by a child therapist. The therapist's own
+note after the night call reads, in part: "the plan made in session two covered the leaving. It did not cover what
+he would do when he found the bag. The bag should have been somewhere he had no reason to go."
+
+**What the case teaches.**
+
+1. **The referral said "communication" and the case was coercive control.** The screening was the only thing that
+   found it, and the screening was a practice protocol rather than a clinical hunch.
+2. **The individual session was the instrument of safety, and the conjoint session was the instrument of danger.**
+   Everything the case required came out of the individual sessions; everything that would have been harmful would
+   have happened in the joint one.
+3. **The child protection report was separate from the marriage.** It concerned the children's exposure, it was
+   made with the mother's knowledge, and it did not require her to leave or to make a statement against her
+   husband.
+4. **The therapist did not tell her to leave, and she left.** The decision was hers, made five months later, and it
+   was made because the plan and the relationship were in place.
+5. **The plan had a hole, and the therapist recorded it.** The bag's location was a foreseeable mistake, the note
+   says so, and that note is what a supervisor needs in order to improve the practice's protocol.
+
+### 9.6 Transcript: "I am not going to tell you what she said"
+
+Session three, minutes six to nineteen, with both present. Annotated.
+
+> **B1 Emeka:** So what did she tell you? Because she has been telling people things.
+>
+> **B2 Therapist:** I am not going to tell you what she said. *(pause)* I am going to tell you what I have
+> decided. — *The refusal and the substitution, in one breath. The refusal alone leaves a vacuum that he will fill
+> with suspicion; the substitution gives the session a subject.*
+>
+> **B3 Emeka:** So you have decided something without me.
+>
+> **B4 Therapist:** I have. *(pause)* I have decided that I will not see the two of you together. — *Ownership of
+> the decision. The therapist does not say "the practice's policy requires", which would be true and would invite
+> him to argue with an absent authority.*
+>
+> **B5 Emeka:** Why?
+>
+> **B6 Therapist:** Because I do not think this is a communication problem, and because couple work in a situation
+> like yours can make things more dangerous afterwards. — *"A situation like yours" rather than "your violence": the
+> therapist has not disclosed the individual session's content and has not accused him, and the meaning is
+> unmistakable.*
+>
+> **B7 Emeka:** *(to Blessing)* You told her I hit you.
+>
+> **B8 Therapist:** *(to Emeka, immediately)* I am talking to you now, not to her. — *The intervention that
+> protects the victim in the room. If the therapist lets that question land, the session has become a place where
+> the violence will be settled afterwards.*
+>
+> **B9 Emeka:** *(standing)* I am not paying for this.
+>
+> **B10 Therapist:** You do not have to. *(pause)* Sit down if you want to hear what I am offering, or leave now
+> and I will write to you. — *The choice, without pursuit and without a threat. The therapist does not stand, does
+> not raise her voice, and does not move towards the door.*
+>
+> **B11 Emeka:** *(after a pause, sitting)* What are you offering.
+>
+> **B12 Therapist:** Individual sessions with me, or with a colleague if you prefer. A referral to a programme for
+> men who want to change how they handle anger and control. And no conjoint sessions until that work has been done.
+> — *The offer is real, and the referral is to a programme with an evidence base rather than to "anger management",
+> which is a different and largely ineffective thing.*
+>
+> **B13 Emeka:** And her?
+>
+> **B14 Therapist:** She has the same offer. *(pause)* I want to be clear that I will not be passing messages
+> between you. — *The symmetry that is true and that protects the individual work, and the explicit refusal of the
+> mediator role, which is the role a controlling partner will try to install.*
+
+**What the transcript shows.** The therapist never discloses, never accuses and never argues. She states decisions
+in the first person, protects the victim in the room with one sentence, and offers a real alternative. The one
+moment of real risk is B7, and the response to it is the shortest turn in the transcript.
+
+### 9.7 Laboratory: the screening interview, observed
+
+**The exercise.** Each student conducts a twelve-minute individual screening interview with an actor playing one of
+four briefed roles, and is then asked two minutes of questions by the observer. The roles are deliberately varied:
+a woman who minimises, a woman who is not being abused but whose partner is controlling about money, a man who is
+being abused by his wife and will not say so, and a woman who discloses strangulation in the last minute.
+
+**What is assessed.** Whether the questions are asked at all; whether they are asked directly; whether the
+follow-ups are used; whether the lethality factors are covered; whether the therapist's response to a disclosure
+increases or reduces the client's willingness to say more; and whether the safety planning begins.
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Screening** | Not asked | Asked in general terms | All four questions asked directly, with the strangulation follow-up |
+| **Response** | Shock, advice, or "why did you not leave" | Neutral but passive | Names what was described, states it is not her fault, asks what she wants |
+| **Lethality** | Not covered | Partly covered | Strangulation, threats, weapons, separation, escalation, children — all covered naturally |
+| **Safety** | None | Advice given | A plan begun, with the "I am not telling you to leave" frame |
+| **Duty** | Not mentioned | Mentioned vaguely | The child protection duty stated specifically, with what will be reported and when |
+
+**The most common failure.** The student stops after the first question because the answer is "no". The screening
+is not a checklist; it is a conversation in which the second and third questions do most of the work.
+
+### 9.8 Six errors
+
+**Error 1 — Screening in front of the partner.** The commonest and most dangerous error in the whole of couple
+work. The screening is individual, always, and the reason is stated so that it does not look like suspicion.
+
+**Error 2 — Accepting the couple's formulation.** "We need communication help" is the referral, not the case. The
+formulation belongs to the assessment.
+
+**Error 3 — Continuing conjoint work after a disclosure of control.** Sometimes because the victim begs for it,
+sometimes because the therapist believes she can manage the sessions. The sessions become the place where the
+violence is negotiated and, afterwards, enacted.
+
+**Error 4 — Telling her to leave.** She has been told by her mother, her pastor and her husband. Her judgement is
+the only asset she has, and the therapist who overrides it has joined the list.
+
+**Error 5 — The report without the conversation.** The call is made and the family learns of it from a social
+worker at the door. The relationship, and frequently the treatment, ends there.
+
+**Error 6 — The child interview conducted to establish the facts.** Repeated questioning contaminates the evidence,
+harms the child, and does the investigator's job badly. One account, recorded verbatim, then the report.
+
+### 9.9 Culture, faith and the household's rules about violence
+
+**The extended family's jurisdiction.** In many of the households this book serves, a marital dispute is settled by
+elders, and a wife who takes it outside the family is breaking a rule that the family enforces. The therapist's
+question — "who in the family knows, and what did they say?" — is therefore not background; it is the risk
+assessment. A family council that has decided the matter is closed is a family council that will return the wife to
+the house.
+
+**Bride price and the language of ownership.** Where a marriage involved a bride price, the language of the
+household may include the idea that the wife has been "paid for", and the husband's family may treat a separation
+as a debt. The therapist does not need to argue with the custom; she needs to know that the client may be hearing
+an obligation where the therapist hears a crime, and to make the distinction explicit: "the family may speak about
+what was paid. That does not change what is allowed to be done to you."
+
+**Religious teaching on submission.** A client may hold a theology in which endurance is a virtue and divorce is a
+sin, and she may hold it sincerely. The therapist does not argue with the theology. She asks three questions: what
+does your faith say about what is being done to you; what does it say about your children watching; and who in your
+church would help if you told them? The answers frequently produce an internal permission the therapist could never
+have supplied.
+
+**The church as a resource and as a hazard.** A congregation can provide practical help — a place to stay, money,
+childcare — and can also direct a woman back to a violent husband in the name of reconciliation. The therapist's
+task is to find out which, before recommending that the client tell her pastor.
+
+**The man's own shame.** The perpetrator in many of these cases is not a stranger to shame; he is a man who has
+failed at work, at money, at status, and whose violence is the one arena in which he is not powerless. This is an
+explanation and not an excuse, and it matters clinically because a programme that addresses shame has a better
+chance than one that addresses anger.
+
+**The child's discipline.** Physical discipline is normative in many households, and the boundary between
+discipline and abuse is set by the law and by injury, not by the therapist's cultural preference. The Child Rights
+Act and state laws define the threshold; the therapist applies it and does not negotiate it in the session, while
+recognising that the parent who is reported for a beating will experience the report as an assault on his
+parenthood.
+
+> **DEBATE** — "A therapist who tells a woman to leave a violent marriage is doing her job; one who does not is
+> colluding." Argue for: safety is the first duty, the therapist has information the woman cannot have, and
+> neutrality in the face of violence is complicity. Argue against: the woman's judgement about her own risk is more
+> accurate than the therapist's, leaving is the period of greatest danger, and the decision must remain hers if the
+> plan is to be used. Then write the sentence you would actually say, and the case in which you would depart from
+> it.
+
+### 9.10 Evidence note
+
+**What the research supports.** The distinction between coercive control and situational violence is well
+established in the specialist literature and in practice guidance, and conjoint treatment is contraindicated where
+control is present. Strangulation is a strong predictor of subsequent homicide. Separation is a period of elevated
+risk. Specialist advocacy and safety planning improve outcomes for victims, and the evidence on perpetrator
+programmes is modest but consistent for court-mandated attendance. Screening increases identification; the
+evidence that screening alone improves outcomes is weaker, which is why screening must be paired with a response.
+
+**What is weaker.** Prediction of lethality at the individual level remains limited. The evidence base on couple
+therapy in situational violence is small and contested. Child protection interventions have mixed evidence, with
+outcomes depending heavily on the quality of the service rather than the model.
+
+**What is not supported.** That leaving resolves the risk — it often raises it in the short term. That a couple who
+present voluntarily are unlikely to have violence in the relationship. That a perpetrator's attendance at an anger
+management course changes behaviour. And that a child who is "too young to understand" is unaffected by exposure.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same disclosure of strangulation in a first session and in a twelfth changes
+the case entirely, because in the twelfth the therapist has already conducted six conjoint sessions.
+
+### 9.11 Key terms
+
+**Coercive control** — a pattern of domination through surveillance, isolation, threats and violence.
+
+**Situational couple violence** — mutual, episodic aggression arising in conflict, without a pattern of control.
+
+**Lethality factors** — the specific features associated with elevated homicide risk, including strangulation,
+threats to kill, weapons and separation.
+
+**Safety plan** — an agreed set of preparations and contacts enabling a victim to act quickly if needed.
+
+**Advocacy** — specialist practical support from a domestic violence service.
+
+**Threshold** — the level of concern at which a report is required; reasonable suspicion of significant harm.
+
+**Exposure** — a child's experience of violence between adults in the household, treated as harm in many
+frameworks.
+
+### 9.11a The note that protects the next clinician
+
+Five lines, written after every case in which violence or a child protection concern has appeared.
+
+> Assessed individually on [date]. Client disclosed [strangulation on two occasions, most recent eight months ago;
+> threats to kill; monitoring of phone and movements]. Lethality factors present: strangulation, threats, separation
+> threat, escalation. Conjoint work contraindicated; couple informed [date], with reasons; individual work offered to
+> both. Child protection referral made to [agency], [time], officer [name], advice received: [ ]. Safety plan agreed
+> and recorded. Emergency contact protocol explained. Review [date]. Supervision [date].
+
+The five lines exist for a reason that is not defensive: the next clinician, the social worker, the court and the
+therapist herself in six months all need to know what was known, when it was known, and what was done.
+
+### 9.12 Self-test
+
+1. Give four differences between situational couple violence and coercive control.
+2. Why is conjoint work contraindicated in coercive control, and what are the three harms it produces?
+3. State the four screening questions and three follow-ups.
+4. Name six lethality factors and the one most strongly associated with homicide.
+5. What is the "I am not going to tell you to leave" frame, and why does it work?
+6. Give the eight parts of a safety plan.
+7. What is the threshold for a child protection report, and what are the seven steps of the order of operations?
+8. In the Okafor case, what did the therapist refuse to do, and why did each refusal matter?
+
+**Answers.** *(1)* Pattern (mutual and episodic versus systematic domination); fear (situational versus chronic);
+mechanism (escalating arguments versus surveillance, isolation, money, threats); treatment (conjoint may be
+appropriate versus contraindicated). *(2)* Because it treats violence as a communication problem, gives the
+perpetrator access to the victim's disclosures, and produces retaliation after the session. *(3)* Hit, kick, push;
+made you afraid; forced sexual acts; safe going home today. Follow-ups: worst thing he has done; hands around your
+neck; threats to kill; escalation; monitoring. *(4)* Strangulation, threats to kill, access to a weapon,
+separation, stalking, escalation, pregnancy, sexual violence, history of violence outside the home, perpetrator
+instability; strangulation is the strongest non-fatal predictor. *(5)* An explicit refusal to direct the client,
+which preserves her judgement and makes the therapist usable; it works because she has been instructed by everyone
+else and the therapist's refusal distinguishes her. *(6)* Documents, money, bag, code word, route, children, phone,
+review. *(7)* Reasonable suspicion of significant harm. Order: immediate safety; record verbatim; consult; report;
+tell the parents unless that endangers the child; tell the child; continue treatment and record. *(8)* She refused
+to disclose Blessing's account, to accuse Emeka in the session, and to conduct conjoint sessions — protecting the
+victim from retaliation, preserving the confidentiality that made the disclosure possible, and removing the setting
+in which the violence would have been negotiated.
+
+### 9.13 Reflective task
+
+Write two hundred and fifty words on this question: a woman tells you she is not ready to leave and asks you not to
+raise it again. What do you say, and what do you record? Then answer honestly which of the two — saying it or
+recording it — you would find harder, and why. The difficulty is usually about helplessness, and helplessness is
+the feeling that produces either control or withdrawal in a therapist. Neither is the work.
+
+### 9.14 Further reading
+
+- Stark, E. on coercive control — the foundational account, and the source of the distinction this week rests on.
+- Campbell, J. and colleagues on the danger assessment — the empirical basis for the lethality factors.
+- The WHO clinical guidance on responding to intimate partner violence — practical and internationally adaptable.
+- Any current national or state guidance on child protection reporting and the Child Rights Act, read alongside the
+  state law that actually applies where you practise.
+- A domestic violence advocacy service's own materials — read what the advocates give to women, because your client
+  will read them too.
+
+*Next: Week 10 — The legal framework: courts, statutes and the therapist's place in them.*
 
 ---
 
