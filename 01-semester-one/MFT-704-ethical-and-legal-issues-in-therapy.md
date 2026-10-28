@@ -7750,14 +7750,713 @@ would make of it. Then rewrite one sentence.
 
 ## Week 12 — Money, gifts and the business of therapy
 
-**Fees are clinical material.** They carry meaning about worth, dependency, entitlement and shame. Have a
-written policy; state it at the start; apply it consistently; discuss non-payment rather than avoiding it.
+**Learning outcomes.** By the end of this week the student can (1) explain why the fee is clinical material and not
+an administrative detail; (2) conduct the fee conversation at intake, including the sliding scale and the
+cancellation policy, in five minutes; (3) manage non-payment clinically rather than avoiding it; (4) apply a
+decision procedure to any gift and record the outcome; and (5) identify the business pressures that produce
+unethical practice and state the limits that protect the client.
 
-**Refusing to reduce a fee sometimes ends therapy; never reducing a fee sometimes ends therapy.** Both are
-true. Decide your sliding scale in advance and document the reason for each exception.
+### The subject nobody teaches and everybody practises
 
-**Gifts.** Small cultural gifts may be accepted with documentation; expensive gifts should be discussed;
-gifts with strings should be declined. Ask, "What would it mean to you if I accepted / declined?"
+Money is the least discussed and most consistently present element of the therapeutic relationship. It is present
+at the first contact, in every session, in the waiting room, in the client's calculation of whether she can afford
+to continue, and in the therapist's calculation of whether she can afford to keep her. It carries meaning about
+worth, entitlement, dependency, shame, power and care — and because therapists are frequently uncomfortable with
+money, the meaning is usually not discussed at all.
+
+**The three-part claim of this week.** First, the fee is a clinical instrument: it defines the frame, it makes the
+relationship professional, and it is one of the ways in which the client's difficulties with entitlement, need and
+worth appear in the room. Second, the therapist's own relationship with money is a source of error, and it is
+rarely examined. Third, a practice that is not financially viable will exploit its clients in ways that are rarely
+deliberate and always structural.
+
+| Situation | Clinical meaning, usually | Ethical requirement |
+|---|---|---|
+| A client who always pays late | Helplessness, resentment, a test of whether the therapist will chase | A stated policy, applied consistently, discussed as material |
+| A client who pays in advance for ten sessions | Fear of abandonment; an attempt to secure the therapist | Discuss what the payment means before accepting it |
+| A client who asks for a reduction | Shame; a belief that she is not worth the full fee | A written policy, a decision made once, recorded |
+| A therapist who never chases a debt | The therapist's own discomfort with conflict or with greed | Supervision; a policy applied by the practice rather than the person |
+| A gift after a good outcome | Gratitude; a wish to be remembered; obligation | A decision procedure, a conversation, a record |
+| A gift after a disclosure of shame | An attempt to repair the therapist's view of her; a payment | Often to be refused, with the meaning named |
+
+### 12.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Money as clinical material: three vignettes, and the therapist's discomfort | Anonymous written answers to "what did your family teach you about money?" |
+| 10–22 | Five concepts: frame, transference, the therapist's money, sliding scale, viability | Lecture |
+| 22–38 | The intake fee conversation, scripted and rehearsed | Demonstration, then triads |
+| 38–52 | Non-payment: the sequence, the limit, the ending | Case, with students writing the sentence for month two |
+| 52–68 | Gifts: the four categories and the decision procedure | Card sort of eight gifts; then the refusal script |
+| 68–80 | The business pressures: discounts, packages, marketing, billing | Lecture with four examples, students identify the risk |
+| 80–90 | The Nwankwo case | Case, students decide what is accepted, what is charged and what is said |
+
+### 12.2 Five concepts that organise the week
+
+**Concept 1 — The fee is part of the frame, and the frame is the treatment.** A therapy has an agreed time, place,
+frequency, duration and payment. The payment is not the least of these: it is what makes the relationship a
+professional one rather than a friendship, and it is what allows the client to feel entitled to the therapist's
+attention. A client who is not paying, or who is paying unpredictably, is frequently a client who does not feel
+entitled to ask for anything.
+
+**Concept 2 — Money carries the client's history, and the therapist should expect it.** The client who cannot ask
+for a reduction and stops attending; the client who insists on paying for the whole course in advance; the client
+who gives an expensive gift and then asks for a favour; the client who treats the fee as a debt of gratitude. Each
+is a repetition of something, and each becomes treatable when it is named.
+
+**Concept 3 — The therapist's own money is the largest unexamined variable in the room.** Therapists under-charge
+because they are anxious about being seen as commercial, or because they do not believe their work is worth the
+fee, or because a client's poverty activates guilt. They over-charge, or cling to clients they should refer, when
+the practice is not viable. Neither is a moral failing; both are material for supervision, and neither is
+correctable by willpower.
+
+**Concept 4 — The sliding scale is an instrument of justice and a machine for resentment.** A scale that is written,
+published internally, applied by rule and reviewed annually serves clients and protects the therapist. A scale that
+is negotiated case by case, in the room, according to how sorry the therapist feels, produces inconsistency, the
+client's discovery of another client's lower fee, and a therapist who is quietly furious.
+
+**Concept 5 — Viability is an ethical matter.** A practice that cannot pay its rent will raise its fees abruptly,
+take clients it should refer, and cut the supervision that protects clients. The ethical practice is a sustainable
+one: priced to survive, with the pro bono work built into the budget rather than subtracted from it at the end of
+a difficult month.
+
+### 12.2a The intake fee conversation, in five minutes
+
+Six statements, made at the first contact, in the order below, and repeated in writing.
+
+1. **The fee, plainly.** "My fee is X per session, and sessions are fifty minutes." No apology, no explanation of
+   overheads, no "I know it is expensive".
+2. **What the fee includes, and what it does not.** The session; correspondence with other professionals where
+   consented; a written report where one is agreed. Not telephone calls between sessions, which are handled by
+   agreement.
+3. **When and how it is paid.** "Payment is due at the end of each session, by transfer or in cash. I do not carry
+   change." The mechanics are stated because ambiguity about mechanics is where resentment begins.
+4. **Cancellations.** "I require twenty-four hours' notice. If you cancel with less, or do not attend, the session
+   is charged, because the time was held for you." Then the sentence that makes it acceptable: "if you are ill or
+   there is an emergency, tell me and I will not charge you."
+5. **The sliding scale, if there is one.** "I have a small number of reduced-fee places. If you need one, tell me
+   now or at any point, and I will tell you honestly whether one is available." The phrase "tell me honestly
+   whether one is available" is important: it makes the scale a resource rather than a favour.
+6. **What happens if payment becomes difficult.** "If you ever cannot pay, tell me early. We will find a way
+   forward, and I would much rather know than discover it." Said at the start, this sentence makes the later
+   conversation possible.
+
+**A worked fee dialogue.**
+
+> **Client:** How much do you charge?
+> **Therapist:** X per session. Sessions are fifty minutes, and payment is at the end of each session.
+> **Client:** *(pause)* That is — I am a teacher.
+> **Therapist:** Then let us talk about it now rather than later. I have two reduced places at the moment; one is
+> taken. *(pause)* What would be manageable for you?
+> **Client:** I do not know. I do not want to be a charity case.
+> **Therapist:** You are not. The reduced places exist because I would rather work with a full practice than an
+> expensive empty one. *(pause)* If we agree a figure, we will review it in six months, and if your situation
+> changes we will change it then.
+
+**Why the last sentence matters.** A reduced fee without a review becomes permanent by default, and both parties
+know it. A stated review makes the arrangement a professional one and gives the client a way to increase the fee
+without having to raise it.
+
+**The three questions the therapist should be able to answer without flinching.** What is my fee? Why is it that?
+And what will I do if this client cannot pay it? A therapist who cannot answer the second has not priced her work;
+she has inherited a number.
+
+### 12.2b Non-payment: the sequence and the limit
+
+**The clinical problem.** Non-payment is rarely about money alone. It is frequently about shame (the client who
+cannot say she cannot pay), about entitlement (the client who believes the therapist owes her), about a test (will
+you chase me, and does my worth depend on your not asking?), or about a genuine catastrophe. The therapist who
+chases aggressively and the therapist who never raises it both fail; the first humiliates, the second colludes and
+then resents.
+
+**The sequence, session by session.**
+
+*At the first missed payment:* ask, in the session, without accusation. "I noticed the last two sessions were not
+paid. Is something happening?" The question is about the client, not the debt.
+
+*At the second:* name the pattern and the feeling. "This is the second month. I want to say what I notice, which is
+that you have not mentioned it, and I wonder whether it is difficult to talk about." Then the agreement: a date, an
+amount, and whether the sessions continue meanwhile.
+
+*At the third:* the limit. "I am going to be honest with you. I cannot continue to hold sessions that are not
+paid, and I am not willing to end the therapy because of money without us having tried to solve it. Here are the
+options: a reduced fee for a period, a payment plan, a pause, or a referral to a service that is free."
+
+*At the fourth:* the decision, made and recorded. Continuing indefinitely is not generosity; it is a slow
+resentment that the client will feel, and it ends with the therapist withdrawing at the worst possible moment.
+
+**The sentences that work, and the ones that do not.**
+
+| Say | Not |
+|---|---|
+| "I need to raise something about the account." | "You have not paid." |
+| "I would rather we talked about it than that I sent a letter." | "This is a business, you know." |
+| "What would be manageable?" | "I have been very patient." |
+| "If we cannot agree, I will refer you and we will end properly." | "I cannot help people who do not pay." |
+
+**The clinical gain in the conversation.** A client who has never been able to negotiate a debt with anyone — and
+this is common in clients whose financial lives are chaotic or controlled — has the experience of a relationship in
+which a difficulty is named, negotiated and survived. That is often worth more than the fee.
+
+**Ending for non-payment, done properly.** A closing session, a written summary, a referral, an offer to return if
+circumstances change, and a record of the reasoning. Not a letter from an agency, and not silence.
+
+### 12.2c The therapist who is owed money, and cannot say so
+
+The countertransference of the unpaid fee is one of the most reliable in practice and one of the least discussed.
+
+**The four patterns.**
+
+1. **The rescuer.** The therapist decides that the client's poverty is part of the problem and that charging is
+   therefore cruel. Sessions continue, the fee is never discussed, and the therapist begins to feel quietly
+   exploited. The client, sensing it, apologises for existing.
+2. **The withdrawing therapist.** The therapist begins to offer shorter sessions, fewer appointments, less
+   attention. The client experiences a loss of interest and cannot say why.
+3. **The punitive therapist.** The debt becomes a moral matter. The therapist's tone becomes cool, and the client
+   — who has usually been punished before — recognises the tone before she can name it.
+4. **The avoider.** The therapist genuinely does not think about the debt until the accountant raises it, and then
+   sends a letter written in a completely different voice from the one used in the room.
+
+**The examination.** Before the conversation, three questions in writing: what do I feel about being owed this
+money? What do I imagine the client feels? And what am I doing differently in the sessions since the debt began?
+The third question is usually answered with a specific change — the therapist has stopped challenging, or has
+started ending on time with unusual firmness — and that change is the clinical material.
+
+**The rule.** The therapist's discomfort must not be paid for by the client, in either direction: neither by
+waiving the fee so that the therapist does not have to have the conversation, nor by extracting the money in a way
+that punishes her. The conversation is the only way through, and it is the therapist's to initiate.
+
+### 12.3 Gifts: four categories and one procedure
+
+**Category 1 — the cultural token.** Food, cloth, a small item given at a festival or a home visit. Value is
+modest, the meaning is relational, and refusing it can be experienced as rejection. *Default:* accept, name the
+meaning, record it, and do not treat it as a transaction.
+
+**Category 2 — the transitional gift.** Given at the end of treatment, at a birth, at a bereavement, or after a
+significant improvement. *Default:* usually accept if modest; discuss what it means; record it. The discussion
+frequently produces the most important session of the final month.
+
+**Category 3 — the expensive gift.** Value beyond a token; jewellery, electronics, a large sum, land. *Default:*
+decline, warmly, with an explanation that protects the giver's dignity: "I am very moved that you would do this,
+and I am not able to accept it. It would change something between us that I need to keep as it is."
+
+**Category 4 — the gift with strings.** Any gift accompanied by a request, an expectation, or a narrative about
+what the therapist now owes. *Default:* decline, and name the string, because a gift that creates an obligation has
+already begun to distort the relationship.
+
+**The procedure, in five steps.**
+
+1. **Notice.** Register the gift as a clinical event rather than an administrative one, and do not decide in the
+doorway.
+2. **Ask what it means.** "What would it mean to you if I accepted this?" and, where relevant, "and what would it
+   mean if I did not?" The answers are almost always more informative than the object.
+3. **Decide against the category,** not against the person's need. The therapist who accepts because the client will
+   be hurt has made the client's reaction the criterion.
+4. **Say the decision, once, warmly, and without a lecture.** The lecture ("you know, ethically, I cannot") turns a
+   gift into an embarrassment.
+5. **Record it.** One line: what was given, what was decided, what was discussed, and what happened to the object.
+
+**The gift that must be refused, whatever its value.** A gift from a client who is in a coercive relationship and
+who is spending money her partner controls, because accepting it colludes in the control. A gift from a child
+client that has clearly been taken from a parent's belongings. A gift that is the client's only asset. And a gift
+given immediately after a disclosure of shame, because the therapist is being paid to stop seeing something.
+
+**The gift that is a communication.** In many of these cases the gift says something the client cannot: "I am not
+only a problem", "you have been good to my mother", "I want you to remember me". Naming the communication — "I
+think this says something about how you want me to see you" — frequently makes the object unimportant, and the
+client may then be content for the therapist to keep it or return it.
+
+**What to do with what is accepted.** Food is shared or eaten; cloth may be worn or kept; money is never accepted.
+Where the practice has a policy that accepted gifts become the property of the clinician, the policy is stated in
+writing at intake, which prevents the later argument about whether the therapist "kept" something.
+
+### 12.3a Barter, pro bono, and the client who cannot pay at all
+
+**Barter.** The exchange of goods or services for treatment. Permissible in narrow conditions: the client
+initiates; the value is agreed in writing; the arrangement is time-limited; it is supervised; and the therapist
+records the rationale. Prohibited in practice where the client's service is intimate, where the value is uncertain,
+or where the exchange would place the therapist in a position of judging the client's work.
+
+**The specific hazard of barter.** The client's service becomes clinical material. The therapist who accepts
+tailoring from a client will have views about the tailoring, and the client will know it. What was a fee becomes a
+performance, and the therapy acquires a second arena in which the client can fail.
+
+**Pro bono.** Treatment given without fee. It is a professional obligation in most codes, in some form, and it is
+best organised as a proportion of the practice — one or two places held open — rather than as an occasional
+decision made under pressure in the room. The client on a pro bono place is told that it is a place, not a favour,
+and that the arrangement is reviewed annually. That framing protects both parties from the gratitude that
+otherwise contaminates the work.
+
+**The client who cannot pay at all.** Three options, in order of preference. A reduced or waived fee for a defined
+period, with a review. A referral to a free service, with a warm handover. A short piece of work — six sessions —
+focused on a single question, rather than an open-ended therapy that will collapse in month three.
+
+**The option that must be avoided.** Continuing indefinitely without agreement, because the therapist cannot bear
+to raise it. The client will sense the unspoken arrangement, will begin to apologise for existing, and will leave
+without a closing. The ending that results is worse for her than the one the therapist was avoiding.
+
+**The practitioner's own arithmetic.** A practice with four reduced places, each at half fee, has given away two
+full fees a week. That is a real contribution and it must be in the budget. The practitioner who gives away places
+ad hoc and then raises everyone's fee to compensate has made the poorest clients pay for the therapist's
+generosity to other clients.
+
+### 12.3b The gift from the family, not the client
+
+A distinct problem, and common in family work: the gift comes from a member of the family who is not the identified
+client — the grandmother, the uncle who pays, the child.
+
+**Why it is different.** The giver may not be in treatment; the meaning may be about the family's hierarchy rather
+than about gratitude to the therapist; and accepting from one member can create a coalition that the other members
+can see.
+
+**The procedure.** Treat it as the gift from a client, and add two steps. Establish who decided that the gift would
+be given, because a gift offered by a father on behalf of a family in which the mother is silent is a statement
+about who speaks. And where the giver is not a client, decline more readily: there is no therapeutic relationship to
+preserve, and the gift is frequently an attempt to establish one.
+
+**The child's gift.** A drawing, a card, a stone from the school playground: accept it, thank the child, and where
+the child is in a family treatment, keep it visible for a session. A child who gives a gift is testing whether the
+therapist is a person who can be given to, and the answer matters clinically.
+
+### 12.4 The business: eight pressures that produce unethical practice
+
+**1. The package discount.** "Ten sessions for the price of eight." It is a commercial instrument in a clinical
+relationship, it creates pressure on the client to continue when she would have stopped, and it creates pressure on
+the therapist to keep her coming. Where a package is offered it must be refundable, optional, and never presented
+as a saving against distress.
+
+**2. The productivity target.** An employer who requires a fixed number of clinical hours per week, or a fixed
+income from each clinician, creates an incentive to keep clients in treatment, to shorten sessions, or to accept
+clients outside competence. The individual therapist cannot change the system; she can record the pressure and
+refuse the three specific practices that harm clients — retention for revenue, treatment without supervision, and
+records written to satisfy a billing code.
+
+**3. Upcoding and creative billing.** Describing a session in terms that maximise reimbursement, or recording a
+diagnosis that the client does not meet in order to satisfy an insurer. This is fraud, it is a disciplinary matter,
+and it also corrupts the clinical record — the diagnosis written for the payer becomes the diagnosis that shapes the
+treatment.
+
+**4. The referral arrangement.** A payment, a commission or a reciprocal arrangement for referrals. In most
+jurisdictions it is prohibited, and in all of them it corrupts the one decision the client depends on: that the
+referral was made in her interest.
+
+**5. Testimonials and advertising.** Client testimonials are prohibited or restricted in most codes, because
+consent to treatment is not consent to be advertised and because the testimonial is a disclosure. Claims of
+effectiveness that cannot be supported — "guaranteed results", "the only therapist who..." — are misleading
+conduct, regardless of the therapist's sincerity.
+
+**6. The product sold to clients.** Books, courses, supplements, retreats. There is nothing inherently wrong with a
+therapist writing a book; there is a serious problem with recommending to a current client a product from which the
+therapist profits, without disclosure and without an alternative.
+
+**7. The consultancy overlap.** The therapist who is engaged by an employer to advise about an employee who is also
+her client. The two roles have different clients and different duties; the conflict is structural and should be
+declined rather than managed.
+
+**8. The unpaid work that is expected.** Reports for courts, letters for schools, telephone calls with social
+workers: frequently unbilled and frequently essential. A practice that does not price this work either does it
+resentfully or refuses it at the moment the client most needs it. The remedy is a stated fee for reports and
+correspondence, discussed at intake (12.2a), and applied without embarrassment.
+
+### 12.4a The practice that survives without exploiting anyone
+
+Five arrangements, each of which is a decision made in advance rather than in the moment.
+
+**Price for survival.** The fee is set to cover the practice's costs, the therapist's income, supervision, insurance,
+continuing development and a margin for the unpaid work. A fee set to be "affordable" by an anxious therapist who
+has not done the arithmetic becomes a fee that rises unpredictably in year three.
+
+**Build the pro bono into the plan.** One or two places, budgeted, reviewed annually, publicly described in the
+practice's information as part of how it works.
+
+**Charge for the work that is work.** Reports, court attendance, extended telephone calls and meetings with other
+professionals have stated fees. The client is told in advance; the alternative is a therapist who resents the
+letter she is writing at ten at night.
+
+**Hold a no-show policy that is fair and enforced.** Twenty-four hours, with a stated exception for emergency and
+illness, applied consistently, and discussed clinically when it recurs.
+
+**Keep supervision in the budget.** It is the last item most practices cut and the first that protects clients. A
+practice that cannot afford supervision cannot afford to practise.
+
+**The annual review.** Once a year: what is the fee, what does it cover, what is the pro bono allocation, what is
+the debt, and what did I do last year that I would not defend to a colleague? The review is the practice's
+equivalent of the record of consent — the evidence that the arrangements were chosen.
+
+### 12.4b What the client is told, in writing
+
+The money policy belongs in the written information the client receives at intake, in one page and in plain
+language. Six paragraphs.
+
+**The fee.** The amount, the session length, and what it covers.
+**Payment.** When it is due, and how it is made.
+**Cancellations.** The notice required, the charge, and the exceptions.
+**The sliding scale.** That places exist, that they are limited, how they are allocated, and that they are
+reviewed.
+**Difficulties.** That the client should tell the therapist early if payment becomes difficult, and that the
+therapist would rather know than discover it.
+**Records and confidentiality.** A cross-reference to the consent document, and the statement that the record may
+be seen by the client and may be compelled by a court.
+
+**Why the written page matters more than the spoken conversation.** The client under stress remembers about
+one-third of what is said in a first session. The page is read at home, sometimes twice, and frequently by a
+partner — which is itself a disclosure the therapist should have anticipated and stated: "you may show this page to
+whoever you wish; it contains nothing about your treatment."
+
+### 12.5 Case: the Nwankwos, the fee, the goat and the plot
+
+**The family.** Chuka Nwankwo, 44, a civil engineer; Ifeoma Nwankwo, 40, a trader in fabric; children 14 and 9. They
+were referred by their physician after the death of Ifeoma's mother, with whom the household had lived.
+
+**The first four months.** Weekly couple sessions, then fortnightly. The presenting problem was the household's
+grief and the conflict between Ifeoma and her husband's sister, who had moved in "to help" and stayed. The work went
+well by every measure that matters: the conflict reduced, the children were brought for three sessions, and the
+grief was named.
+
+**Month five: the job.** Chuka was told his contract would not be renewed. The family's income halved. In session
+eighteen he said, at the end, "we may need to reduce the sessions". The therapist's response was the sentence she
+had practised at intake: "thank you for telling me now rather than in three months. Let us talk about what is
+manageable."
+
+**The agreement.** Sessions fortnightly rather than weekly; the fee reduced by forty per cent for six months; a
+review in month eleven. Recorded in the note and in a short letter to the family. The therapist's own note recorded
+the reason and the review date, which is the difference between a sliding scale and a favour.
+
+**Month seven: the goat.** Ifeoma arrived with a live goat, tied, on the back of a neighbour's pickup, "for the
+therapist's family, because of what you did for my mother before she died". The therapist's first instinct was
+refusal — a live animal in a city clinic — and her second was to accept immediately so as not to shame her.
+
+**What she did.** She neither accepted nor refused in the doorway. She said: "this is the most generous thing anyone
+has brought me, and I want to talk about it properly. Can we sit down for five minutes?" Then she asked what the
+gift meant. Ifeoma's answer: "in my place, when somebody does something for your mother, you do not say thank you
+with words."
+
+The therapist then made a decision on the category rather than on the feeling: a live animal is not a token and its
+value is not trivial, and it also cannot be returned without humiliation. She proposed a third option: "I will
+accept it, and I will not take it home. I will ask you to sell it and to put the money towards the remaining fee —
+which means you have paid me, in the way your mother would have understood."
+
+Ifeoma refused, then accepted, then cried, and the transaction became the subject of the best session of the
+treatment: a family that had been unable to receive help without paying for it, and a therapist who had found a way
+to let them pay.
+
+**Month eleven: the plot.** Chuka's contract was renewed. He attended alone and said that a relation had given the
+family a plot of land on the outskirts of the city, and that they wanted to transfer it to the therapist "as a
+thanks, because the marriage would have ended".
+
+**The decision.** Declined, immediately and unambiguously, with the explanation that protects: "I cannot accept
+this. It is worth more than the whole of the treatment, and if I took it, you would always know that I had, and I
+would always know it too. *(pause)* What I would like, if you want to mark this, is a letter. Not for the file, for
+me."
+
+**The letter.** Chuka wrote two pages. It is not in the file, it is not evidence, and it was, the therapist later
+said, the only gift in twenty years of practice that she had wanted.
+
+**What the case teaches.**
+
+1. **The intake sentence made month five possible.** "If you ever cannot pay, tell me early" was said at the start;
+   without it, Chuka would have cancelled the sessions without explanation and the treatment would have ended
+   silently.
+2. **The decision was made on the category, not on the feeling.** The goat was a live animal of nontrivial value;
+   the plot was an asset. The therapist's discomfort and the family's generosity were both real and neither was the
+   criterion.
+3. **The third option is usually available.** Accepting and refusing were not the only choices; "sell it and put the
+   money towards the fee" preserved the meaning, protected the frame and gave the family a way to pay that their
+   own culture recognised.
+4. **The conversation about the gift was the therapy.** Both gifts arrived at moments when the family was working
+   out whether help could be received without debt — which was, in retrospect, the family's central problem and
+   the reason the sister-in-law had stayed for two years.
+5. **The refusal of the plot was the more generous act.** The therapist who accepted it would have been, from that
+   day, a person to whom the family owed everything, and the therapy would have ended in a way nobody could
+   describe.
+
+### 12.6 Transcript: the fee conversation at month two of non-payment
+
+A different case, from the therapist's own practice log. Mrs Bello, 33, has attended eight sessions and has paid
+for three. Minutes twelve to twenty-four.
+
+> **F1 Therapist:** I want to raise something and I have been putting it off, which I am telling you because it is
+> true. — *The confession of reluctance, which disarms the accusation before it lands.*
+>
+> **F2 Client:** The money.
+>
+> **F3 Therapist:** The money. *(pause)* Three sessions have been paid for and eight have happened. — *The facts,
+> without an adjective. "Eight have happened" rather than "you owe me for five" — the same information, without the
+> debt-collector's grammar.*
+>
+> **F4 Client:** I am sorry. I am so sorry. I will bring it next week.
+>
+> **F5 Therapist:** *(pause)* You have said that twice. *(pause)* I am not asking for an apology, and I am not
+> going to pretend I have not noticed. — *The pattern named, gently, and the apology declined, because the apology
+> is the thing that prevents the conversation.*
+>
+> **F6 Client:** *(long pause)* My husband controls the account.
+>
+> **F7 Therapist:** *(pause)* Tell me about that. — *Three words. The fee conversation has just become the
+> clinical material, which is what the concept in 12.2 predicted and what the therapist was waiting for.*
+>
+> **F8 Client:** He gives me money for the house. If I ask for more he wants to know what for. He does not know I am
+> coming here.
+>
+> **F9 Therapist:** So every session you have attended has been paid for out of — what?
+>
+> **F10 Client:** Food money. I take a little.
+>
+> **F11 Therapist:** *(pause)* So you have been buying your therapy with your children's food money, and you have
+> not been able to tell me. — *The reflection that names the cost without moralising. The client's face, recorded in
+> the note, changed.*
+>
+> **F12 Client:** *(crying)* I did not want you to think I was like that.
+>
+> **F13 Therapist:** Like what?
+>
+> **F14 Client:** Somebody who does not pay.
+>
+> **F15 Therapist:** *(pause)* We are going to change this today, and it is not going to be you paying more. *(pause)*
+> First, I want to know whether coming here is safe for you. — *The pivot that matters: the fee has revealed a
+> safety question, and the question takes priority over the account.*
+
+**What the transcript shows.** The therapist raised the money, named the pattern, declined the apology, and then
+followed the material wherever it went. Within eleven minutes of the fee conversation, the case had become a case
+about financial control — which had been in the room for eight sessions and had not been visible because nobody had
+mentioned the money.
+
+**The outcome.** The fee was waived for three months while a safety plan was made; the client's attendance was
+recorded as "no charge, agreed for safety reasons, reviewed monthly"; and the financial control became the central
+subject of the treatment. The therapist also changed her intake: the question "who knows that you are coming here?"
+now appears in the first session of every case.
+
+### 12.6a The five sentences of the money conversation
+
+Students ask for a script, and a script of five sentences is more useful than a policy document.
+
+1. **"I want to raise something about money, and I have been putting it off."** Every difficult conversation in
+   this chapter begins with the therapist admitting the reluctance, which lowers the client's fear of being
+   judged.
+2. **"The facts are these."** The number of sessions, the number paid, the amount outstanding. No adjectives.
+3. **"What is happening?"** A question about the client's situation rather than about her conduct, which is where
+   the clinical material lives.
+4. **"Here is what I can do, and here is what I cannot."** The options, stated as the therapist's capacity rather
+   than as the client's failure.
+5. **"Whatever we agree, we will write it down and we will look at it again on [date]."** The date that converts an
+   arrangement into a plan.
+
+**What the five sentences do not include.** An apology for asking, an explanation of the therapist's overheads, an
+account of how hard the therapist works, or a reassurance that the client is not the first person to do this.
+Each of those makes the exchange about the therapist.
+
+**The rehearsal.** Practise the five sentences aloud before the session in which they will be needed. Therapists
+who have not said them aloud once will soften them in the room, and softening is what produces the ad hoc
+arrangement that becomes a resentment.
+
+### 12.7 Laboratory: the fee policy and the gift decision
+
+**Part A — write the practice's money policy (thirty minutes).** One page, six headings: fee and what it covers;
+payment mechanics; cancellation; sliding scale and how a place is allocated; pro bono allocation; debt and its
+limits. Then the group exchanges policies and each student applies another practice's policy to three cases. The
+exercise reliably produces the discovery that most policies cannot be applied by anyone other than their author,
+which is the definition of a policy that is really a preference.
+
+**Part B — the gift sort (fifteen minutes).** Eight gifts, sorted into the four categories of 12.3, with a decision
+and a sentence for each.
+
+| Gift | Category | Likely decision |
+|---|---|---|
+| A bowl of fruit at the end of treatment | Token/transitional | Accept, record |
+| A wrapped watch at session four | Expensive, early | Decline |
+| A live chicken, delivered to the clinic | Token with practical problems | Discuss, propose a third option |
+| A child's drawing | Transitional | Accept, display or keep |
+| Money in an envelope after a good session | Never acceptable | Decline, discuss the meaning |
+| A client's business stock as payment | Barter | Discuss, usually decline |
+| A gift from a client in a controlling marriage | Category four — the string is the control | Decline, and assess safety |
+| The offer to renovate the clinic | Expensive, institutional | Decline, or refer to the practice's owner with disclosure |
+
+**Part C — the refusal script (ten minutes).** Each student writes three sentences for declining a watch, and reads
+them aloud. The group marks them on two criteria: dignity preserved, and no lecture.
+
+**Marks (20 total).** Policy: applicable by a stranger (5), covers all six headings (5), states limits (5).
+Gift decisions: correct category for each and a defensible decision with a sentence (5).
+
+**The observation to make in the debrief.** The best refusal scripts in the room will be the shortest, and every
+student will initially write one that explains the ethics of gifts to the client.
+
+### 12.8 Six errors
+
+**Error 1 — Never mentioning the fee again after intake.** The client who is struggling has to raise it herself,
+which the client least able to raise it will not do. The therapist must raise it, and the permission to do so was
+given at intake.
+
+**Error 2 — The ad hoc reduction.** A lower fee granted in the room, to a client who asked persuasively, with no
+review and no record. It is discovered, it is resented, and it is unfair to every client who did not ask.
+
+**Error 3 — Chasing a debt by letter.** The letter is appropriate at the end of a process, not at the beginning.
+Sent early, it converts a clinical relationship into a commercial one, and the client who was ashamed becomes
+frightened.
+
+**Error 4 — Accepting an expensive gift to avoid embarrassment.** The therapist's discomfort is being paid for with
+a distortion of the relationship, and the client now holds something over her.
+
+**Error 5 — Billing a diagnosis the client does not meet.** Fraud, and a corruption of the record that outlives the
+claim.
+
+**Error 6 — Subsidising the practice with the therapist's own unpaid labour, silently.** It works for a year, then
+produces resentment, a sudden fee increase, or a withdrawal from the work that looks to the client like
+abandonment.
+
+### 12.9 Culture, faith and the meaning of money
+
+**The gift that cannot be refused.** In many of the households this book serves, a gift is the language in which a
+relationship is acknowledged, and its refusal is a statement that the relationship is not accepted. A therapist who
+declines everything on principle will be described as "proud" and will be told, by the family, that she has
+"refused their hand". The workable practice — clear in the therapist's own mind and sometimes stated aloud — is
+that tokens are accepted and assets are not, and that the distinction is explained in the family's terms: "a bowl
+of fruit is between friends; a plot of land would make me something else."
+
+**Payment in kind.** Where cash is scarce and goods are not — fabric, food, a service, labour — the family may
+offer payment in kind without embarrassment. The rules of 12.3a apply, and the cultural reality argues for a
+narrower rather than a wider permission: the value is usually uncertain, the arrangement is usually permanent once
+established, and the therapist's judgement about the client's work contaminates the treatment.
+
+**The man who pays.** In many households the husband pays for his wife's therapy and will want to know what it is
+for, which raises the Week 3 problem in a financial form. The practitioner's policy: the fee is agreed with the
+person who pays, the content is not discussed with anyone, and the arrangement is stated at intake — "your husband
+will be told that you are attending and what it costs, and nothing else, unless you ask me to tell him more."
+
+**The client who cannot pay and the therapist who is a member of the same community.** The therapist's own
+obligations — to a church, a mosque, a family, an association — may include expectations of free help, and refusing
+them can be costly. The professional answer is a stated policy, applied to everyone: "I have two reduced places
+and both are taken; I can refer you, or you can wait for a place to come free." Said as a policy rather than as a
+judgement about the person, it is usually accepted.
+
+**Wealth, class and the fee.** A therapist from a different class position from her client will misjudge what is
+affordable in both directions. The correct method is to ask, explicitly, and to believe the answer: "what would be
+manageable for you?" A client who says two thousand naira means two thousand naira, not a figure that the therapist
+thinks is realistic.
+
+**The religious objection to charging.** Some clients, and some religious traditions, regard payment for counsel as
+improper — "you cannot sell the word of God". The therapist's answer is not a lecture on professional economics but
+an explanation of what the fee pays for, in one sentence: "the fee pays for the hour you have, the training behind
+it, and the fact that I can be here next week."
+
+> **DEBATE** — "Therapists should charge what the market will bear, and give pro bono time as they choose." Argue
+> for: viability is an ethical precondition, the market allocates scarce skill, and discretionary generosity is
+> genuine generosity. Argue against: the market allocates to those who can pay, discretionary charity produces
+> inconsistency and resentment, and a profession that prices by the market has abandoned the poorer half of its
+> obligation. Then set out a fee policy you could defend to both a client who cannot pay and a colleague who thinks
+> you are under-charging.
+
+### 12.10 Evidence note
+
+**What is known.** Research on psychotherapy fees is limited but consistent on two points: fee arrangements affect
+the therapeutic relationship, and therapists' discomfort with discussing fees leads to avoidance which clients
+experience as distance. Studies of gift-giving in therapy find that gifts are common, that clinicians report
+uncertainty about them, and that gifts are frequently meaningful communications about the relationship rather than
+attempts to influence. In medical and psychotherapy ethics, financial conflicts of interest are among the most
+consistently documented sources of harm, largely through subtle changes in clinical decisions rather than overt
+fraud.
+
+**What is weaker.** There is very little research on sliding scales, on barter, or on the outcomes of
+non-payment policies. The guidance in this week is derived from ethics and from practice rather than from
+controlled study.
+
+**What is not supported.** That charging a higher fee produces better outcomes. That accepting a gift always
+damages the relationship — modest, culturally appropriate gifts are usually experienced as affirming. And that a
+therapist's financial interest does not affect her clinical judgement; the research on conflicts of interest
+suggests it reliably does, while the clinician reliably believes it does not.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same reduced fee, agreed at intake and agreed in month nine after three
+unpaid sessions, is a different arrangement with a different meaning.
+
+### 12.10a The audit of your own practice
+
+Once a year, five questions, written down, kept with the supervision record.
+
+1. **What is my fee, and what does it pay for?** If the answer cannot be given in one sentence, the fee is
+   inherited rather than set.
+2. **How many reduced places do I hold, and how were they allocated?** If the answer is "whoever asked", the scale
+   is a favour.
+3. **What did I accept last year, and what did I refuse, and would I defend each decision to a colleague?** The
+   question is not whether the decisions were right but whether they were decisions.
+4. **How much did I leave unbilled, and what did that do to my attitude to those clients?** The honest answer is
+   frequently "I began to avoid them", which is the clinical cost of unbilled work.
+5. **What did I do for money last year that I would not want a client to know about?** A consultancy, an
+   endorsement, a referral arrangement, a discounted package sold to a distressed family. One question, once a
+   year, and it is the one that keeps a practice honest.
+
+**What to do with the answers.** Take them to supervision, not to a marketing plan. The audit's purpose is not
+growth; it is the discovery of the places where financial pressure and clinical judgement have begun to converge.
+
+### 12.11 Key terms
+
+**Frame** — the agreed arrangements of time, place, frequency, duration and payment that constitute the treatment.
+
+**Sliding scale** — a published schedule of reduced fees with stated criteria and review.
+
+**Pro bono** — treatment provided without fee, budgeted as part of the practice.
+
+**Barter** — exchange of goods or services for treatment, permitted only in narrow documented conditions.
+
+**Conflict of interest** — a financial or personal interest that could influence clinical judgement.
+
+**Upcoding** — describing a service or diagnosis inaccurately to obtain higher reimbursement; fraud.
+
+**Testimonial** — a client's public statement about a therapist; restricted or prohibited in most codes.
+
+### 12.12 Self-test
+
+1. Why is the fee clinical material rather than an administrative detail?
+2. Give the six statements of the intake fee conversation.
+3. State the four-step sequence for non-payment, with the sentence for each stage.
+4. Name the four categories of gift and the default for each.
+5. Give the five steps of the gift procedure.
+6. What are the conditions under which barter may be permissible, and the specific hazard?
+7. Name five business pressures that produce unethical practice.
+8. In the Nwankwo case, what was the third option for the goat, and why was it better than accepting or refusing?
+
+**Answers.** *(1)* Because it constitutes the frame that makes the relationship professional, and because it carries
+the client's history of entitlement, worth, shame and dependency, which becomes treatable when it is named. *(2)*
+The fee and session length; what the fee includes; when and how it is paid; the cancellation policy; the sliding
+scale; and what happens if payment becomes difficult. *(3)* First missed payment — "I noticed the last two sessions
+were not paid; is something happening?"; second — the pattern named, "you have not mentioned it, and I wonder
+whether it is difficult to talk about"; third — the limit, with four options; fourth — the decision, recorded.
+*(4)* Cultural token — accept and record; transitional — usually accept, discuss the meaning; expensive — decline;
+with strings — decline and name the string. *(5)* Notice; ask what it means; decide on the category; say the
+decision once, warmly; record it. *(6)* Client initiates, value agreed in writing, time-limited, supervised and
+recorded; the hazard is that the client's service becomes clinical material and a second arena in which she can
+fail. *(7)* Package discounts; productivity targets; upcoding; referral payments; testimonials and advertising
+claims; products sold to clients; the consultancy overlap; unbilled work. *(8)* Accept it and ask the family to sell
+it and put the money towards the fee — preserving the meaning of the gift, avoiding an asset transfer, and
+recognising the family's own form of payment.
+
+### 12.12a Three sentences to keep in the drawer
+
+**"Tell me early."** Said at intake and repeated at every review, it is the sentence that prevents the silent
+ending.
+
+**"What would it mean to you if I accepted this?"** The gift question that converts an object into a conversation.
+
+**"We will write it down and look at it again on [date]."** The sentence that turns generosity into a professional
+arrangement, and the one that protects both parties from the drift into gratitude and resentment.
+
+### 12.13 Reflective task
+
+Write two hundred and fifty words on your own money history: what you were taught about asking to be paid, what you
+were taught about accepting gifts, and which of those lessons is most likely to shape your practice. Then name one
+rule you will write down before you see your first paying client.
+
+### 12.14 Further reading
+
+- Any current text on the business of private practice in your jurisdiction — read for the arithmetic, not the
+  marketing.
+- Pope, K. and Vasquez, M. on gifts, fees and barter in psychotherapy — the standard treatment of the ethical
+  questions.
+- The professional code sections on fees, gifts, barter and advertising, read in the original wording.
+- The literature on conflicts of interest in medicine — the evidence that financial interest shapes judgement while
+  clinicians believe it does not.
+- Your indemnity provider's guidance on fees, debt recovery and court attendance charges.
+
+*Next: Week 13 — Ethics of research, assessment and diagnosis.*
 
 ---
 
