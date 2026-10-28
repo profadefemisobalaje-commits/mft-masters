@@ -781,30 +781,783 @@ wrong.
 
 ## Week 2 — From hunch to question
 
-**A weak question:** "Does family therapy work?"
+**Learning outcomes.** By the end of this week the student can (1) convert a clinical hunch into a focused
+researchable question; (2) apply PICO to a quantitative question and SPIDER to a qualitative one; (3) state why a
+question that cannot be answered is not a research question; (4) run the six-element feasibility screen and the
+recruitment arithmetic; and (5) revise her own question three times in response to a supervisor's objections.
 
-**A workable question:** "Among adolescents referred to a Lagos community clinic for school refusal, does a
-six-session family-based intervention reduce days absent from school at 12 weeks, compared with usual
-care?"
+### The hunch, and what happens to it
 
-**Frameworks.** For quantitative work use **PICO** — Population, Intervention, Comparison, Outcome. For
-qualitative work use **SPIDER** — Sample, Phenomenon of interest, Design, Evaluation, Research type.
+Every study begins as a sentence a clinician says in a corridor: "these families never come back after the second
+session". The hunch is valuable — it comes from practice, which is where the real questions are — and it is not yet
+research, for three reasons.
 
-**Feasibility screen.** Before you fall in love with a design, ask: Do I have access? How many participants
-can I realistically recruit in six months? Who will approve this? What is the cost? Is the timeline
-compatible with the semester? Most failed theses are failed at this step, not at analysis.
+**It is not specific enough to be answered.** "Families never come back" — which families, after how many sessions,
+compared with what, measured how?
 
-**Common traps.**
+**It embeds its own conclusion.** A hunch usually contains a causal assumption: "they do not come back because the
+fathers refuse to attend". The study must be able to find that the assumption is wrong.
 
-| Trap | Example | Fix |
+**It may not be answerable by the student, in the time available, with the access she has.** The best question in
+the world is not a research question if the population cannot be reached.
+
+| The hunch | The question it contains | The study that would answer it |
 |---|---|---|
-| Too broad | "Family functioning in Nigeria" | Specify population, setting, outcome |
-| Unanswerable with your data | "Does family therapy cause lasting change?" | Narrow to what a 12-week design can show |
-| Two questions in one | "Does it work and why?" | One study, one primary question |
-| Question-shaped advocacy | "Why is family therapy better?" | Make it genuinely open ("how does it compare?") |
+| "Families drop out early" | What proportion of families attend fewer than three sessions, and what distinguishes them? | Retrospective record review with comparison |
+| "Fathers will not come" | What reasons do fathers give for not attending, in their own words? | Qualitative interview study with 10–12 fathers |
+| "The model does not work here" | Does a six-session version produce measurable change in this clinic's population? | Pre-post audit with a validated measure |
+| "Our therapists are not confident with couples" | What do therapists report about their training and confidence, and what predicts confidence? | Cross-sectional survey of therapists |
+| "The church referral is the reason they come" | Do families referred by religious leaders attend more sessions than self-referrals? | Comparative record review |
 
-> **TASK** — Draft three candidate questions. For each, write the PICO or SPIDER elements, the sample you
-> can access, and the main threat to validity.
+### 2.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Why hunches are valuable and why they are not questions | Three hunches from the class, written on the board |
+| 10–30 | The four tests of a usable question: answerable, feasible, significant, ethical | Each test applied to the board's hunches |
+| 30–50 | PICO, worked three times | Live construction with a volunteer's topic |
+| 50–62 | SPIDER, and when a qualitative question is the right one | Two topics, students choose the framework |
+| 62–78 | The feasibility screen and the recruitment arithmetic | Worked calculation; students calculate their own |
+| 78–90 | The question clinic | Each student's question, revised once in public |
+
+### 2.2 Five concepts that organise the week
+
+**Concept 1 — The question contains the design.** A question that specifies a comparison implies a comparative
+design; a question about meaning implies a qualitative one; a question about prevalence implies a survey or an
+audit. Students who choose a design and then invent a question are working backwards and will produce a study that
+does not answer what it claims.
+
+**Concept 2 — Naming the population is a claim that must be defended.** "Families in Nigeria" is not a population;
+it is a country. "Couples referred to a church-based counselling service in Ibadan over twenty-four months" is a
+population with a sampling frame, a boundary and a known limitation. The narrower the population, the more
+defensible the inference and the smaller the claim — which is the correct trade.
+
+**Concept 3 — The outcome must be measurable and meaningful.** Measurable: an instrument, a record, a count. Meaningful:
+something the service or the family would recognise as an improvement. A study whose outcome is measurable but
+meaningless produces a number nobody uses; a study whose outcome is meaningful but unmeasurable produces an essay.
+
+**Concept 4 — Feasibility is not a concession to reality; it is part of rigour.** A study that recruits eight of the
+sixty participants it planned is not a small study; it is a failed study with a small sample. The feasibility screen
+exists to prevent the failure, and the screening happens before the proposal, not after the first month of
+recruitment.
+
+**Concept 5 — The question must be falsifiable.** There must be an answer that would count against the hunch. "Does
+family therapy help families?" cannot be falsified because any improvement confirms it and any non-improvement is
+explained by poor attendance. "Does a six-session structured engagement intervention reduce days absent from school
+at twelve weeks, compared with usual care?" can be answered no.
+
+### 2.2a PICO, worked three times
+
+PICO — Population, Intervention, Comparison, Outcome — is the framework for a question about an effect. It is
+simple and it is frequently applied carelessly, because the population and the comparison are the elements students
+leave vague.
+
+**Worked example 1, a therapy question.**
+
+> **P:** Adolescents aged 13–17 referred to a community clinic for school refusal, with at least one parent willing
+> to attend.
+> **I:** A structured six-session family engagement intervention, delivered by the clinic's counsellors.
+> **C:** The clinic's usual care, which is unstructured individual counselling of the adolescent.
+> **O:** Days absent from school in the four weeks before the twelve-week follow-up, from school records.
+>
+> *The question:* among adolescents referred for school refusal with a parent willing to attend, does a structured
+> six-session family engagement intervention, compared with usual individual counselling, reduce days absent from
+> school at twelve weeks?
+
+**What the PICO did.** It converted "does family therapy work for school refusal" into a question that specifies
+who, what, compared with what, and measured how. It also revealed a feasibility problem that the vague version
+concealed: the comparison group is the clinic's usual care, which means the study requires the clinic to continue
+doing what it does, which is easy, and to allocate adolescents to it, which raises an ethical question that must be
+answered.
+
+**Worked example 2, a service question.**
+
+> **P:** Couples attending a church-based counselling service.
+> **I:** Both partners attending.
+> **C:** One partner attending.
+> **O:** Change in couple satisfaction score between intake and final session.
+>
+> *The question:* among couples attending the service, is the change in satisfaction score different between
+> couples in which both partners attend and couples in which one attends?
+
+**What the PICO did.** It revealed that this is not an intervention question at all — no one is assigned to
+anything — and that the language of "intervention" and "comparison" is being borrowed to describe two naturally
+occurring groups. The correct description is a comparative observational study, and the correct claim is association
+and not effect.
+
+**Worked example 3, a question that fails on the outcome.**
+
+> **P:** Families referred by religious leaders.
+> **I:** A pastoral referral pathway.
+> **C:** Self-referral.
+> **O:** "Better family functioning."
+>
+> *The question:* do families referred by religious leaders have better family functioning than self-referrals? The
+> PICO is complete and the question is unanswerable, because "better family functioning" is not operationalised: by
+> whose report, with what instrument, at what time point? The fix is an outcome that can be measured, even if it is
+> imperfect: "the couple's score on a validated satisfaction measure at the final session, and the therapist's
+> rating on a session-by-session outcome measure".
+
+**The habit to build.** After constructing a PICO, read the question back and ask: could two researchers, given
+this question, collect different data? If yes, the question is not yet specific enough.
+
+### 2.2b SPIDER, for questions about meaning
+
+SPIDER — Sample, Phenomenon of Interest, Design, Evaluation, Research type — is the qualitative counterpart. It is
+less well known and more useful than its reputation, because it forces the student to name the research type, which
+is where qualitative proposals most often go vague.
+
+**Worked example.**
+
+> **S:** Fathers of children referred to a child mental health service, who attended no more than one appointment.
+> **PI:** Their experience of the referral and their reasons for not attending.
+> **D:** Semi-structured interviews.
+> **E:** Themes and accounts; the meaning fathers attach to attendance.
+> **R:** Qualitative, experiential.
+>
+> *The question:* how do fathers who attended no more than one appointment describe their experience of the
+> referral and their reasons for not returning?
+
+**What SPIDER added.** The sample is defined by a behaviour (attended no more than once), which makes recruitment
+possible and defines the boundary. The evaluation is thematic rather than numeric, which sets the analysis. The
+research type is experiential, which sets the claim: the study will not say how common the reasons are, only what
+they are and how they are described.
+
+**The three design decisions that follow from a SPIDER question.**
+
+1. **Sampling:** purposive, with a rationale for the criteria, and a stated plan for how many and why. "Until no new
+   themes appear" is acceptable only with an account of how the student will judge that.
+2. **The interview:** a topic guide, piloted with two participants, with questions that are open and follow-ups that
+   are prepared.
+3. **Rigour:** verbatim transcription, a coding approach named and justified, a second coder for a proportion of the
+   material, an audit trail, and a reflexivity statement that says who the researcher is in relation to the
+   participants.
+
+**The common error.** A SPIDER question used to ask a question about frequency ("how many fathers do not attend, and
+why?"). The "how many" part requires a quantitative design, and a qualitative study that reports counts is reporting
+incidental information as though it were a finding.
+
+### 2.2c When the question is a comparison of two services
+
+A design that students frequently propose and rarely do well: comparing two clinics, two programmes, or two
+approaches that already exist. The question is legitimate and the inference is weak, because the two services differ
+in more than the approach.
+
+**The checklist before proposing it.** Do the two services serve comparable populations? If one is in a wealthy
+area and one in a poor one, the comparison is of catchments rather than of services. Are the outcomes collected the
+same way, at the same time points, with the same instrument? If not, the comparison is of measurement systems. Are
+the therapists comparable in training and experience? If not, the comparison is of people.
+
+**What such a study can honestly claim.** "The two services differ in outcome, and the difference is consistent with
+the approach, but also with the catchment, the measurement and the staff." That sentence is honest and is not
+publishable as evidence of effectiveness, which is why the design is usually better replaced by a within-service
+study with a clear comparison.
+
+### 2.2d The five questions that reveal a hidden design
+
+Before writing the question formally, five questions expose whether the student has a design in mind or only a
+topic.
+
+**1. "What will you compare?"** If the answer is "nothing", the study is descriptive, and it must be justified as
+such rather than presented as an evaluation.
+
+**2. "What is the unit — the person, the couple, the family or the service?"** The answer determines the analysis,
+the sample size and the claim. A study that collects data from individuals and analyses them as a family has
+answered a different question from the one it asked.
+
+**3. "How many times will you measure?"** Once is a snapshot; twice is a change; three or more is a trajectory. Each
+requires a different design and a different analysis, and students frequently propose a change study with one
+measurement.
+
+**4. "Who assigns people to conditions?"** If the researcher assigns, the study can support a causal claim (with
+randomisation) or a weaker one (without). If the world assigns, the study is observational and the language must
+change.
+
+**5. "What will you do if half the participants do not complete?"** The answer reveals whether the student has
+considered attrition, which is the single most common reason a well-designed study produces unusable data.
+
+**What the questions produce.** A one-paragraph design statement, written before the proposal: the comparison, the
+unit, the number of measurements, the assignment, and the attrition plan. That paragraph is the proposal's skeleton,
+and it takes twenty minutes.
+
+### 2.3 The feasibility screen
+
+Six elements, checked in this order, each with the question to ask and the evidence required.
+
+| Element | The question | The evidence |
+|---|---|---|
+| **Access** | Can I reach this population, and will the gatekeeper let me? | A named person who has said yes in writing |
+| **Numbers** | How many participants can I recruit in the time available? | The service's last twelve months' figures, not an estimate |
+| **Permission** | What approvals are needed, and how long do they take? | The committee's published timetable |
+| **Cost** | What will this cost, and who pays? | Transcription, travel, printing, instrument licences |
+| **Time** | What is the calendar, minus approvals, minus recruitment, minus analysis? | A dated plan working backwards from submission |
+| **Skill** | Can I learn the analysis to competence in the time? | A named supervisor, a course, or a simpler analysis |
+
+**Access is the element that fails most often and latest.** A student obtains permission from a clinic's medical
+director, begins recruitment, and discovers in month two that the records she needs are held by an administrative
+officer who was not consulted. The check requires the named person who controls the data, not only the person who
+controls the door.
+
+**Numbers require arithmetic, not optimism.** The sentence "I will recruit thirty couples" is a wish. The
+calculation is: how many couples attended the service last year; what proportion of them would meet the criteria;
+what proportion of those can be contacted; what proportion of those contacted will agree; and what proportion will
+complete the measure. Each proportion is a guess, and the guesses multiply.
+
+**Permission has a timetable.** Ethics committees meet monthly or quarterly, require revisions, and close for
+holidays. A student who plans to submit in week ten has planned to start in month four.
+
+**Cost is small and real.** Transcription of ten one-hour interviews at local rates, travel to two sites, printing
+and binding, a licence for a copyrighted instrument. A proposal without a budget is a proposal that will be funded
+by the student's family, which is frequently the actual arrangement and should be stated.
+
+**Time is the element that is always underestimated.** Students plan the writing in four weeks and discover it takes
+ten. The working rule: double the estimate for everything except the literature review, and triple that.
+
+**Skill is the last check and the most liberating.** Most students plan an analysis they cannot do. The supervisor's
+task is to name the simplest analysis that answers the question, which is usually a comparison, a correlation or a
+thematic analysis, and to say so in week two rather than in month eight.
+
+### 2.3a The recruitment arithmetic, worked
+
+A student plans a survey of couples attending a clinic. The headline number is "one hundred couples". Here is the
+arithmetic, using the clinic's own figures.
+
+| Step | Calculation | Number |
+|---|---|---|
+| Couples who attended in the twelve-month window | clinic records | 210 |
+| Meeting the criteria (both partners named in the file, at least three sessions) | 210 × 0.65 | 137 |
+| Contactable (telephone number in the file, still connected) | 137 × 0.80 | 110 |
+| Agree to participate (assume one in two, which is optimistic for a survey about relationship satisfaction) | 110 × 0.50 | 55 |
+| Complete both measures (allow for partial completion and withdrawal) | 55 × 0.85 | 47 |
+
+**The headline number was one hundred. The realistic number is forty-seven**, and the study's precision depends on
+the realistic number. The student who plans for one hundred will describe a sample of forty-seven as a failure; the
+student who plans for fifty will describe it as the study.
+
+**What to do with a shortfall before it happens.** Extend the window to twenty-four months (which requires ethics
+approval for the wider period), add a second site, or change the design to use records that already exist. All three
+are decisions for week two.
+
+**The rule of three.** Whatever number the arithmetic produces, plan for two-thirds of it, and state in the proposal
+what you will do if you reach only half. A proposal with a stated contingency is a proposal an examiner trusts.
+
+### 2.4 The question clinic
+
+The exercise that this week is built around: each student's question, subjected to four objections, in public, and
+revised three times on the spot.
+
+**Objection 1 — "Which families, exactly?"** The answer must name the population, the setting and the period, and
+must be capable of being written as an inclusion criterion.
+
+**Objection 2 — "How would you know if you were wrong?"** The answer must name a result that would count against the
+hunch. If no result would, the question is not falsifiable.
+
+**Objection 3 — "Where will the first ten participants come from?"** The answer must be a mechanism, not a plan to
+advertise. This objection kills more proposals than any other.
+
+**Objection 4 — "What will you do with the answer?"** The answer must be a decision, a practice, or a next study.
+
+**The three revisions.** The first revision narrows the population. The second operationalises the outcome. The
+third adds the comparison or the timeframe. Most students arrive with a question that survives none of the
+objections and leave with one that survives all four — which is the difference between a topic and a study.
+
+**Worked example of the three revisions.**
+
+> *Initial:* "Does family therapy help adolescents?"
+> *Revision 1 (population):* "Does family therapy help adolescents referred for school refusal in Lagos?"
+> *Revision 2 (outcome):* "…reduce days absent from school, measured from school records at twelve weeks?"
+> *Revision 3 (comparison and design):* "Among adolescents referred for school refusal to two Lagos clinics, does a
+> six-session family engagement intervention, compared with the clinics' usual individual counselling, reduce days
+> absent at twelve weeks, and what proportion of families complete the intervention?"
+
+The final version is longer, less exciting, and answerable. It also contains a second question — the completion
+proportion — which is the feasibility question that will determine whether the first question can ever be answered
+properly.
+
+What a good question sounds like, in six disciplines
+
+Students learn faster from examples across topics than from their own. Six questions, each of which passes all four
+objections.
+
+- **Couple therapy:** "Among couples attending a church-based service, is the number of sessions attended associated
+  with change in satisfaction score, and does the association differ by attendance pattern?"
+- **Child and adolescent:** "How do parents of children referred for behavioural difficulties describe the point at
+  which they decided to seek help?"
+- **Trauma:** "What do therapists in a state hospital report about their confidence and training in asking about
+  childhood sexual abuse?"
+- **Medical family therapy:** "Among families of patients discharged after a stroke, what proportion attend a
+  follow-up family session, and what distinguishes those who do?"
+- **Supervision:** "How do supervisees describe the experience of raising a disagreement with a supervisor?"
+- **Service evaluation:** "Does the introduction of a telephone reminder reduce non-attendance at first
+  appointments, compared with the previous twelve months?"
+
+**What they share.** A named setting; a defined period or sampling frame; an outcome that can be measured or a
+phenomenon that can be described; and a decision that would follow from the answer. None is glamorous. All six could
+be completed by one student in one academic year, which is the highest compliment a research question can be paid.
+
+### 2.5a The five sentence question, and the paragraph that defends it
+
+A well-formed question can be stated in five sentences, and the discipline of writing them is the week's assessment.
+
+1. **The problem sentence.** "In this service, two-thirds of referred families attend fewer than three sessions and
+   no one knows why."
+2. **The question sentence.** "How do parents of referred children describe their first contact with the service and
+   their decision not to return?"
+3. **The design sentence.** "I will interview twelve parents, purposively selected from the referral records, using
+   a semi-structured guide, and analyse the transcripts thematically."
+4. **The significance sentence.** "The service's intake procedure will be revised in light of the findings, and the
+   interviewing will establish whether a quantitative study of attendance is worth doing."
+5. **The feasibility sentence.** "The service's manager has agreed in writing, the referral records exist for
+   eighteen months, twelve interviews are achievable in eight weeks, and the analysis is within my competence with
+   supervision."
+
+**Why five and not three.** The fifth sentence is the one students omit, and it is the one that separates a proposal
+that will be approved from one that will be revised. Examiners approve proposals whose feasibility is demonstrable
+and return proposals whose feasibility is asserted.
+
+**The paragraph that follows.** Two hundred words expanding each sentence, which becomes the introduction of the
+proposal. Students who write the five sentences in week two have their introduction by week four and spend the rest
+of the semester on the method, which is where the marks are.
+
+### 2.5 Case: Tope's question, which changed three times
+
+**The student.** Tope, 29, a counsellor in a school in Akure, enrolled on the programme with a clear interest: she
+wants to know why boys in her school refuse to attend the counselling service she runs.
+
+**The first question.** "Why do boys not come to counselling?" Presented in week two. The supervisor's first
+objection — which families, exactly? — produces a silence and then a description of the school: 1,400 pupils, a
+counselling office with two chairs, a referral system through class teachers, and a service that is voluntary.
+
+**The first revision.** "What are the reasons boys in a coeducational secondary school give for not attending the
+school counselling service?" This is better and still unanswerable in a semester, because the population of boys who
+do not attend is the whole school.
+
+**The second revision, produced by the objection about the first ten participants.** The students who are reachable
+are the ones who were referred and did not attend — the referral slips exist. "How do boys who were referred but
+attended no more than one session describe their reasons for not returning?" That question has a sampling frame: the
+referral slips, of which there were forty-one in the previous term.
+
+**The third revision, produced by the question about what she will do with the answer.** Tope's answer was that she
+would change how the service is presented. The supervisor asked what she would do differently if the reasons were
+"fear of being seen going in" versus "the sessions are during football". Tope said that the first requires a change
+of venue and the second a change of time. The question was then sharpened to ask about the practical and social
+barriers, and the study became useful: **"How do referred boys who attended no more than one session describe the
+practical and social barriers to attending the school counselling service?"**
+
+**The design that followed.** Semi-structured interviews with eight to twelve boys, purposive sampling from the
+referral records, interviews of thirty to forty minutes in a room the boys chose, with parental consent and the
+boys' assent. Thematic analysis with a second coder for a third of the transcripts. Ethics: school permission, parent
+consent, pupil assent, and a procedure for the disclosure of risk during an interview, which in a school setting is
+not hypothetical.
+
+**What the supervisor noticed, and what she said.** Tope's questions all contained an assumption: that the service
+was good and the boys were avoiding it. The supervisor's sentence — "what would you find if the service were the
+problem?" — changed the interview guide more than any other single intervention. The topic guide eventually
+included questions about the room, the waiting area, the receptionist, and what the boys' friends said about the
+counsellor, and those questions produced most of the findings.
+
+**What Tope found.** Three themes: *visibility* (being seen entering the office, which was on the corridor opposite
+the football field); *the counsellor's questions* (the boys described the first session as an interrogation about
+their families); and *the reputation of the service* (that attendance was for boys who were "mad" or "in trouble").
+The recommendations were specific: move the office, change the first session to a conversation about the boy's own
+goals, and rename the service.
+
+**What the case teaches.**
+
+1. **The question is narrowed by the constraint, not by the theory.** The referral slips made the study possible;
+   the ambition had to be cut to fit them.
+2. **The third revision comes from the decision.** Asking what she would do with the answer produced the sharpening
+   that four weeks of reading could not.
+3. **The supervisor's question about the assumption was the most valuable intervention of the study.** Every
+   student's question contains a buried assumption, and the interview guide is where it becomes visible.
+4. **A small study with a clear decision produced a change.** The office moved. This is the ordinary, unglamorous
+   value of research in a school.
+
+### 2.6 Transcript: twenty minutes of supervision, and the question narrowing
+
+The supervision meeting in which Tope's second revision became the third. Annotated.
+
+> **S1 Supervisor:** Read me the question as it stands.
+>
+> **S2 Tope:** "What are the reasons boys in the school give for not attending counselling?"
+>
+> **S3 Supervisor:** *(pause)* Who are your participants?
+>
+> **S4 Tope:** Boys who do not come.
+>
+> **S5 Supervisor:** *(pause)* How will you find them?
+>
+> **S6 Tope:** *(pause)* I — through the teachers?
+>
+> **S7 Supervisor:** Which teachers, and what will they say to the boys? — *The question that exposes the sampling
+> frame as a wish. Note that the supervisor does not supply the answer; she asks the question that makes the absence
+> visible.*
+>
+> **S8 Tope:** They would ask them to come and see me. Which is — *(stops)*
+>
+> **S9 Supervisor:** — which is the thing that is not happening. *(pause)* So the finding would be: boys who came to
+> see you when a teacher asked them. — *The refutation, made in one sentence, with the finding stated as the study
+> would produce it.*
+>
+> **S10 Tope:** *(long pause)* I need the ones who were referred and did not come.
+>
+> **S11 Supervisor:** Do you have a record of referrals?
+>
+> **S12 Tope:** Yes. The slips. Forty-one last term. — *The sampling frame, found in the room, in the second half of
+> the meeting.*
+>
+> **S13 Supervisor:** *(pause)* Then you have a study. *(pause)* Now the harder question. What are you assuming?
+>
+> **S14 Tope:** That they are avoiding something they need.
+>
+> **S15 Supervisor:** Which means your interview guide will ask "why do you not come", and every boy will answer a
+> question that is already an accusation. *(pause)* What would you ask instead? — *The move from the sampling
+> problem to the design problem, and from the design problem to the ethical problem of the interview.*
+>
+> **S16 Tope:** *(pause)* I would ask what happens when a boy is referred. What he hears about it. What his friends
+> say. — *The reframe that produced the findings: the object of study moves from the boy's deficiency to the
+> service's reception.*
+>
+> **S17 Supervisor:** *(writing)* Then put that in the guide, and take out the word "barriers" until the analysis,
+> because it is a conclusion. — *The precise instruction: the word in the question has already decided the finding.*
+
+**What the transcript shows.** Four of the supervisor's turns are questions and one is a refutation. The student
+produced the sampling frame, the reframe and the design change. Supervision that works looks like this: the student
+leaves with a decision she made, not with instructions she will half-remember.
+
+**The note Tope wrote afterwards.** "Question narrowed from 'why boys do not come' to 'how referred boys describe
+the service and their non-attendance'. Sampling frame: 41 referral slips. First draft of the topic guide written.
+Supervisor's objection about the word 'barriers' — the question must not contain the finding."
+
+The eight questions a proposal must answer
+
+The proposal is the Week 15 deliverable, and its structure is fixed by the questions it must answer. Students who
+begin drafting it in week two finish it in week fourteen; students who begin in week twelve finish it in the resit
+period.
+
+1. **What is the question?** One sentence, in PICO or SPIDER form, with a population that has a sampling frame.
+2. **Why does it matter?** The decision it informs, and for whom.
+3. **What is already known?** A review of the literature that is selective and critical, not exhaustive and
+   uncritical: what the field agrees on, where it disagrees, and what the gap is.
+4. **What is the design?** The comparison, the unit, the measurements, the assignment, and the analysis — in that
+   order, because each constrains the next.
+5. **Who will participate, and how will they be found?** The sampling frame, the inclusion and exclusion criteria,
+   and the recruitment route.
+6. **What will be measured, and with what?** The instruments, their validity, their licensing, and the practicalities
+   of administration.
+7. **What are the ethical issues?** Consent, vulnerability, risk, data protection, and what the study gives back.
+8. **What is the timetable and the budget?** Dated, costed, and with a contingency for the recruitment shortfall.
+
+**The three questions examiners ask about a proposal.** Is the design capable of answering the question? Is the
+sample capable of supporting the design? And is the student capable of completing the analysis? A proposal that
+answers all three is approved, whatever its topic.
+
+### 2.6a What a good question sounds like, in six disciplines
+
+Students learn faster from examples across topics than from their own. Six questions, each of which passes all four
+objections.
+
+- **Couple therapy:** "Among couples attending a church-based service, is the number of sessions attended associated
+  with change in satisfaction score, and does the association differ by attendance pattern?"
+- **Child and adolescent:** "How do parents of children referred for behavioural difficulties describe the point at
+  which they decided to seek help?"
+- **Trauma:** "What do therapists in a state hospital report about their confidence and training in asking about
+  childhood sexual abuse?"
+- **Medical family therapy:** "Among families of patients discharged after a stroke, what proportion attend a
+  follow-up family session, and what distinguishes those who do?"
+- **Supervision:** "How do supervisees describe the experience of raising a disagreement with a supervisor?"
+- **Service evaluation:** "Does the introduction of a telephone reminder reduce non-attendance at first
+  appointments, compared with the previous twelve months?"
+
+**What they share.** A named setting; a defined period or sampling frame; an outcome that can be measured or a
+phenomenon that can be described; and a decision that would follow from the answer. None is glamorous. All six could
+be completed by one student in one academic year, which is the highest compliment a research question can be paid.
+
+### 2.6b The two-sentence test for a research idea
+
+Before the PICO, before the feasibility screen, a test that takes a minute and saves a semester. Say the idea out
+loud in two sentences.
+
+**Sentence one:** "I want to find out whether / how [something] among [whom] in [where]."
+
+**Sentence two:** "If it turns out that [answer A], I will [do something]; if [answer B], I will [do something
+else]."
+
+If sentence two cannot be completed, the idea is a curiosity rather than a study, and curiosity is the right
+starting point and the wrong ending. If sentence two can be completed with two different actions, the idea has a
+decision attached and is worth the next three months.
+
+**Worked twice.** *Idea:* "I want to know whether the church referral helps." *Sentence two:* "If referred families
+attend more and improve more, I will build the referral pathway; if they do not, I will stop spending my time on
+sermons and put it into follow-up calls." The idea passes.
+
+*Idea:* "I want to explore family resilience." *Sentence two:* cannot be completed, because any finding is
+consistent with continuing to explore. The idea fails, and the fix is either a decision (what would the service do
+differently?) or an explicit exploratory framing with a stated contribution.
+
+**Why the test is strict.** Because a semester is short, and because the failure mode of student research is not a
+wrong answer but a study that ends with nothing anyone can act on.
+
+### 2.7 Laboratory: the question clinic and the feasibility budget
+
+**Part A — the question clinic (forty minutes).** Students rotate in groups of four. Each presents a question in two
+sentences; the group applies the four objections of section 2.4 in order, and the presenter writes the next revision
+without defending the previous one. Three rotations, so each student revises three times.
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Population** | A country or a category | A setting | A setting, a period and an inclusion criterion |
+| **Falsifiability** | No result would count against it | A result would | The result named, and what it would mean |
+| **Reachability** | "I will advertise" | A service is named | A sampling frame exists and the gatekeeper has agreed |
+| **Decision** | "It will add to knowledge" | A service is interested | A specific decision, with the person who makes it |
+| **Revision** | Defended the original | Revised once | Revised three times, each narrower |
+
+**Part B — the feasibility budget (thirty minutes).** Each student completes the six-element screen and the
+recruitment arithmetic for her own study, then presents the arithmetic to a partner, who checks every proportion
+against a source. Proportions invented without a source are marked as invented, which is the point: the exercise
+teaches that a recruitment estimate is a claim about a service, and services keep records.
+
+| Element | My answer | Source or evidence |
+|---|---|---|
+| Access | | |
+| Numbers | | |
+| Permission | | |
+| Cost | | |
+| Time | | |
+| Skill | | |
+
+**The debrief question.** "Which proportion in your arithmetic is the most optimistic, and what would you do if it
+were half?" Students almost always identify the agreement rate, and the answer to the second question is frequently
+"change the design", which is the right answer and is available in week two.
+
+### 2.7a The interview guide, built in an hour
+
+The topic guide is the instrument of a qualitative study, and it is usually written badly: a list of questions that
+invite short answers.
+
+**The structure.** Five sections, fifteen to twenty minutes each for a ninety-minute interview. *Opening:* a
+question the participant can answer easily, which is not about the research question ("tell me about your week").
+*The account:* the participant's description of the event or experience, with minimal interruption. *The detail:* the
+follow-ups that pursue what was said. *The meanings:* what it was like, what it meant, what they would say to
+someone in the same position. *Closing:* what should I have asked you that I did not?
+
+**The eight rules for the questions.**
+
+1. Open, not closed: "what happened when you were referred", not "were you referred".
+2. One question at a time.
+3. No jargon, and no terms the participant has not used.
+4. No "why" at the start of a question in a context where "why" implies blame; use "what led up to" instead.
+5. Follow up with "can you tell me more about that?" and with silence.
+6. Ask for an example: it converts an abstraction into data.
+7. Avoid the leading formulation: "how difficult was it?" assumes it was.
+8. Do not ask the research question in the interview; ask the questions that will let you answer it.
+
+**The pilot.** Two interviews with participants who will not be in the analysis. The pilot produces three findings
+without fail: two questions that do not work, one section that is too long, and a follow-up that yields the best
+material. The pilot is rewritten into the guide and the changes are recorded, which is the audit trail.
+
+**The reflexive note.** At the top of the guide: who I am in relation to this participant; what I expect to hear; and
+what I am afraid of hearing. That note is data, and it is the beginning of the analysis.
+
+### 2.8 Six errors
+
+**Error 1 — The question that names a country.** "Families in Nigeria" is not a population and produces a study
+that can recruit anyone and therefore cannot say anything.
+
+**Error 2 — The question with the conclusion inside it.** "Why do fathers refuse to engage?" contains the finding
+and will produce an interview guide that produces it. The remedy is to remove the evaluative word until the
+analysis.
+
+**Error 3 — The comparison that is not a comparison.** Two services in different catchments, two periods in which
+something else changed, two groups that were not formed by the researcher. The claim must be association, and the
+write-up must say so.
+
+**Error 4 — The outcome chosen because it is available.** A validated instrument that measures something adjacent to
+the question, used because the clinic already administers it. Availability is a good reason to prefer one measure
+over another; it is not a reason to change the question.
+
+**Error 5 — The recruitment estimate without a denominator.** "Thirty couples" without the clinic's last year's
+figures is a wish. The arithmetic of 2.3a takes an hour and prevents the commonest failure in the programme.
+
+**Error 6 — Planning the analysis after the data arrive.** The analysis is a design decision, and a design decision
+made after collection is a decision to fit the analysis to the data, which is how p-hacking begins even in an
+honest student.
+
+### 2.8aThe question that changes mid-study, and what to do
+
+It happens routinely: the question written in the proposal turns out to be unanswerable, or the data turn out to be
+about something else.
+
+**The three legitimate responses.** *Refine the question and record the refinement,* with the reason, before the
+analysis begins. *Report the study as conducted and state the change* in the methods and limitations, which is
+honest and acceptable. *Add a second question* that the data can answer, provided it is declared and analysed
+properly.
+
+**The illegitimate response.** Analysing the data in whatever way produces the most interesting result and then
+rewriting the question to match, which is hypothesising after the results are known. It is the commonest form of
+research misconduct among students and it is almost always unconscious.
+
+**The test.** Could you have written this question, in this form, before you saw the data? If not, the question has
+been fitted to the results and the study's claim must be stated as exploratory.
+
+**The record that protects the student.** A dated research diary, kept from week one: the question at each stage, the
+decisions, and the reasons. Two pages a month, and it is the difference between a demonstrable process and an
+allegation that cannot be answered.
+
+### 2.9 Culture, faith and the ownership of the question
+
+**Whose question is being asked?** A study of "barriers to couples therapy" is a service's question. The couples may
+have a different one, and the difference matters: a study that asks why people do not use a service will find
+deficits in the people; a study that asks how a service is experienced will find deficits in the service. The
+second is usually more useful and is less often proposed.
+
+**Community consent and the gatekeeper.** In many settings the church, the mosque, the compound head or the school
+principal is the gatekeeper, and a study that arrives without the gatekeeper's permission will not recruit. The
+gatekeeper's permission is in addition to individual consent and never instead of it, and the proposal should state
+which was obtained and how.
+
+**Language and the shape of the question.** A question written in English for participants who think in Yoruba,
+Igbo or Hausa may be answering a different question than the one the student intended. The practical remedies are
+piloting the topic guide in the participants' language, recording the interview in the language the participant
+chooses, and transcribing with the translation decisions recorded rather than silently made.
+
+**The question that the community would ask.** Where a study is designed with a community, the community's question
+is frequently about service access, cost or trust, rather than about mechanism. A student who can accommodate both —
+her question and theirs, in one design — produces research that is both examinable and welcome.
+
+**Religion and the framing of the outcome.** In settings where a family's improvement is understood as spiritual, an
+outcome measure that asks only about symptoms will record improvement as absence of distress. That is not wrong; it
+is partial, and the discussion should say so, because the meaning of the change is part of the finding.
+
+### 2.9a The consent conversation for a study of a service's own clients
+
+The most common ethical problem in student research in this programme, and the least often solved properly.
+
+**The problem.** A student who works in a clinic wants to study that clinic's clients. The clients know her, depend
+on her, and will agree. Their agreement is not a free choice, and the ethics committee will ask how the student
+knows that.
+
+**The four solutions, in order of strength.**
+
+1. **Recruit through someone else.** A colleague or an administrator describes the study and obtains consent; the
+   student meets participants only after consent. Strongest, and usually possible.
+2. **Recruit by letter, with a cooling-off period.** A written invitation, a week to consider, and no conversation
+   in which the student asks. Adequate, and requires discipline.
+3. **Recruit by the student, with the offer of a different service.** The student asks, and the client is told that
+   declining is without consequence and that an alternative counsellor exists. Weaker, and honest.
+4. **Recruit by the student with no alternative offered.** Not consent; a request from a person with power. Should
+   not be approved.
+
+**What the information sheet must say.** That participation is voluntary; that declining or withdrawing will not
+affect care; who will know the participant took part; what will be done with the data; what the risks are; and how to
+complain. Five sentences in plain language, and a telephone number.
+
+**The question the student must answer in the application.** "How would a client in this service be able to refuse
+without cost, and what would happen if she did?" An application that cannot answer it will be rejected, and should
+be.
+
+### 2.10 Evidence note
+
+**What is known.** The literature on question formulation is largely methodological and practical rather than
+empirical: the PICO and SPIDER frameworks are widely used and improve the specificity of searchable questions, and
+the feasibility literature consistently identifies access, recruitment and retention as the main determinants of
+whether a study is completed. Reviews of research waste find that a large proportion of studies are never completed,
+are completed with inadequate samples, or answer a question that was not the one that mattered — and that these
+failures are visible at the design stage.
+
+**What is weaker.** There is little evidence on how best to teach question formulation, and the frameworks
+themselves have been criticised for fitting qualitative work poorly in some traditions. The advice in this week is
+therefore a practical synthesis rather than an evidence-based protocol.
+
+**What is not supported.** That a narrower question is a lesser question. Most of the studies that changed practice in
+this field were narrow. And that a large sample compensates for an ill-defined population; it does the opposite,
+because a large ill-defined sample produces a precise estimate of a meaningless quantity.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same question, asked of a clinic's caseload in June and in December, may have a
+different answer, because the caseload changes with the school year and the referral patterns.
+
+### 2.11 Key terms
+
+**PICO** — Population, Intervention, Comparison, Outcome; a framework for effect questions.
+
+**SPIDER** — Sample, Phenomenon of Interest, Design, Evaluation, Research type; a framework for qualitative
+questions.
+
+**Sampling frame** — the list or mechanism from which participants are drawn; the absence of one is the commonest
+fatal design flaw.
+
+**Inclusion criterion** — a stated characteristic that determines eligibility, expressed so that another researcher
+could apply it.
+
+**Operationalisation** — the specification of how a concept will be measured.
+
+**Falsifiability** — the property of a question such that some answers count against the hypothesis.
+
+**Feasibility screen** — the six-element check of access, numbers, permission, cost, time and skill.
+
+### 2.12 Self-test
+
+1. Give the four tests of a usable research question.
+2. Apply PICO to the question of whether a six-session family intervention reduces school absence.
+3. Apply SPIDER to the question of how referred boys describe non-attendance.
+4. Why is "families in Nigeria" not a population?
+5. Give the six elements of the feasibility screen, with the evidence each requires.
+6. Work the arithmetic: 210 couples, 65% eligible, 80% contactable, 50% agree, 85% complete. How many?
+7. What is the difference between a question with a conclusion inside it and one without, and how is it detected?
+8. In the Tope case, what produced the sampling frame, and what produced the reframe?
+
+**Answers.** *(1)* Answerable, feasible, significant, ethical. *(2)* Population: adolescents referred for school
+refusal with a parent willing to attend; Intervention: a structured six-session family engagement intervention;
+Comparison: usual individual counselling; Outcome: days absent from school at twelve weeks, from school records.
+*(3)* Sample: boys referred but attending no more than once; Phenomenon: their description of the service and
+non-attendance; Design: semi-structured interviews; Evaluation: thematic; Research type: qualitative experiential.
+*(4)* Because it has no sampling frame, no boundary, no defined period and no defensible inference; it is a country,
+not a population. *(5)* Access — a named gatekeeper's written agreement; numbers — the service's last twelve months'
+figures; permission — the committee's timetable; cost — a budget; time — a dated plan; skill — a named supervisor or
+course. *(6)* 210 × 0.65 = 137; × 0.80 = 110; × 0.50 = 55; × 0.85 = 47. *(7)* A question with a conclusion inside it
+contains an evaluative term ("refuse", "barriers", "fail") that presumes the answer and shapes the interview guide;
+it is detected by asking what the opposite finding would look like and whether the question allows it. *(8)* The
+sampling frame came from the supervisor's question about how the participants would be found, which produced the
+realisation that referral slips existed; the reframe came from the question about what the student was assuming,
+which moved the object of study from the boys' deficiency to the service's reception.
+
+### 2.12a Three questions to ask before you send the proposal
+
+The last check, made the evening before submission, and it catches more errors than a week of drafting.
+
+**"Does the question in the title match the question in the methods?"** Proposals frequently drift: the title
+promises an evaluation, the methods describe a survey, and the analysis describes a comparison. A reader who can
+trace one question from title to analysis will approve the proposal.
+
+**"Could a stranger do this study from this document?"** The test of a method section. If a competent researcher could
+not recruit the sample, administer the measures and conduct the analysis from the text alone, the section is a
+description rather than a method.
+
+**"What is the weakest link, and have I named it?"** Every study has one: the sample, the measure, the response rate,
+the single coder. A proposal that names its own weakest link and mitigates it is trusted; a proposal that claims
+none is not believed.
+
+**The five-minute version.** Read the proposal backwards, from the limitations to the question. If the limitations do
+not correspond to the design, the proposal has been written in two sittings by two different people, and it will be
+returned.
+
+### 2.13 Reflective task
+
+Write your question three times: as you first thought of it, as it reads after the population objection, and as it
+reads after the feasibility screen. Then write one sentence on what you lost in the process. Something is always
+lost — usually scope, occasionally glamour — and naming it is what allows you to defend the narrower version to an
+examiner who asks why you did not study something bigger.
+
+### 2.14 Further reading
+
+- Any current guide to systematic searching that sets out PICO and its variants, read for the operational detail.
+- The literature on research waste and on recruitment failure in clinical studies.
+- A qualitative methods text for the SPIDER framework and for the sampling and rigour decisions that follow from it.
+- Two theses from your department, read for the shape of the question rather than the findings.
+- Your own service's annual report, which contains the numbers your arithmetic needs.
+
+*Next: Week 3 — Designs overview: quantitative, qualitative and mixed.*
 
 ---
 
