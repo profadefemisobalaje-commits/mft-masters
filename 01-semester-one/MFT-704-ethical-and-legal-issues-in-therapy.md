@@ -8462,13 +8462,697 @@ rule you will write down before you see your first paying client.
 
 ## Week 13 — Ethics of research, assessment and diagnosis
 
-- **Informed consent** for research must be voluntary, capacity-appropriate and revocable; families,
-  children and people in crisis require special care.
-- **Deception** requires justification, debriefing, and ethics approval.
-- **Diagnosis** carries consequences: access to care, stigma, insurance, custody. Diagnose what you can
-  defend and describe what you cannot.
-- **Assessment instruments** must be validated for the population and language; using an unvalidated
-  instrument and acting on it is an ethical problem, not just a methodological one.
+**Learning outcomes.** By the end of this week the student can (1) obtain valid consent for research with families,
+including assent from children and the problem of group consent; (2) write about a client without identifying her,
+and state the limits of disguise; (3) describe the consequences of a diagnosis and decide what she can defend; (4)
+select and interpret an assessment instrument with attention to its validity for the population in front of her;
+and (5) explain the ethical difference between the clinician-researcher and the researcher who happens to be a
+clinician.
+
+### Three domains, one theme
+
+Research, assessment and diagnosis are usually taught in three separate weeks and they share a single ethical
+structure: **each of them gives the therapist power to define a person.** The researcher defines what will be
+known about a family and who will read it. The assessor defines what will be counted as a problem and how it will
+be scored. The diagnostician defines what the person *is*, in a category that will follow her into an insurance
+form, a school file, a custody hearing and her own understanding of herself.
+
+That power is not a reason to avoid the three activities; a profession that does not research, assess and diagnose
+is not a profession. It is the reason each of them requires a specific discipline.
+
+| Domain | The duty | The characteristic failure |
+|---|---|---|
+| **Research** | Voluntary, informed, revocable consent; protection of the vulnerable; honest reporting | The family "agrees" because the therapist asked; children's assent treated as unnecessary; the negative result not published |
+| **Assessment** | Competence to administer; validity for the population; feedback to the client | An instrument normed on another population, interpreted as though it measured the same thing |
+| **Diagnosis** | Defensible, useful, communicated honestly; benefits weighed against stigma | A diagnosis given for the insurer, the school or the court rather than for the client |
+
+### 13.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–8 | The single theme: power to define | Three examples, students identify who was defined |
+| 8–22 | Five concepts: consent in families, the diagnostic act, cultural validity, the assessed client, the writing therapist | Lecture |
+| 22–35 | Consent with families: the father problem, the child's assent, withdrawal by one member | Two ethics applications, compared |
+| 35–50 | Writing about clients: consent, disguise, the small-community problem | Students disguise a real case in twenty minutes; group tries to identify it |
+| 50–62 | Diagnosis: consequences and defensibility | Four diagnoses, students argue each is or is not defensible |
+| 62–75 | Instruments: validity, qualification, feedback | Three instruments presented; students ask the five questions |
+| 75–85 | The clinician-researcher: recruitment, dual role, authorship | Case of a thesis that went wrong |
+| 85–90 | The Amaka case | Students decide whether the study proceeds |
+
+### 13.2 Five concepts that organise the week
+
+**Concept 1 — Consent in a family is not one person's signature.** A father can consent to his own participation
+and cannot consent to his wife's or his children's. A child's assent is required in addition to a parent's consent
+where the child is old enough to understand, and the child's refusal should be respected even where the law does
+not require it. A mother who consents under pressure from her husband has not consented. The research consent
+process in family work is therefore slower, more documented and more individual than in individual research.
+
+**Concept 2 — Diagnosis is an act with consequences, and the consequences are distributed.** The same diagnosis may
+give one person access to treatment, mark another as unsuitable for a job, settle a custody question, and change
+how a family talks about a member for the rest of his life. Diagnosing is not wrong; diagnosing without weighing
+the consequences is.
+
+**Concept 3 — An instrument measures what it was normed to measure, in the population it was normed on.** A
+questionnaire developed and validated on one population, translated and used on another, may measure something
+different or nothing at all. The ethical problem is not the use of a tool; it is acting on a score whose meaning in
+this population is unknown.
+
+**Concept 4 — The assessment has a client, and it is not always the person being assessed.** In family work the
+assessor must state whose question the assessment answers. A child assessed at a school's request, a couple
+assessed for a court, a father assessed for an insurer: each has a different client, a different consent
+requirement and a different limit on what can be reported back.
+
+**Concept 5 — The therapist who writes is still a therapist.** Case reports, theses and teaching material are
+written by people who know their subjects personally. The obligations are consent, disguise, proportionality
+(writing only what the purpose requires), and — in small communities — a willingness not to write at all.
+
+### 13.2a Research consent with families: six problems and their solutions
+
+**Problem 1 — the father signs for everyone.** *Solution:* separate consent forms for each adult; an assent form
+for each child old enough to read one; a note of who was present when each was signed; and no recruitment in a
+session where one member is dominant.
+
+**Problem 2 — the therapist recruits her own clients.** *Solution:* recruitment by a third party who is not the
+treating clinician, or a clear statement in the invitation that declining will not affect treatment, made by
+someone other than the therapist. Where the therapist must recruit, the invitation is written, the client is given
+a week, and the therapist does not ask again.
+
+**Problem 3 — one member wants to withdraw.** *Solution:* a stated policy at the outset. In most family studies the
+unit is the family, and the withdrawal of one member means the family's data are withdrawn; where the design
+permits partial participation, that is explained in advance. The member who withdraws must not be told by the
+researcher that they have "ruined" the study.
+
+**Problem 4 — children's assent.** *Solution:* an age-appropriate explanation, a written or verbal assent, and the
+child's right to stop at any point without anyone being told why. Children are frequently the most reliable
+participants on this question and the least often asked.
+
+**Problem 5 — confidentiality inside the research team.** *Solution:* stated at consent: who will see the data,
+whether transcripts will be shared, how identifiers will be removed, and where data will be stored. A family
+consenting to research has not consented to being discussed by a research team in a seminar.
+
+**Problem 6 — the participant in crisis.** *Solution:* a written procedure for what happens if a participant
+discloses risk during data collection: the interview stops, the participant is supported, the clinical pathway is
+followed, and the researcher's duty is stated in the consent form. A researcher who is also a therapist must know
+which role she is in at the moment of disclosure, and the participant should have been told in advance.
+
+**The document that results.** A consent form of two pages for adults, one page for children, an information sheet
+in plain language, and a procedure for the crisis. Four documents, and none of them is optional.
+
+### 13.2b Writing about clients: consent, disguise and the limits of disguise
+
+**Consent to publish.** Where a case is written up, the client's consent is obtained in writing, and it is consent
+to the *specific text*, not to "use my case". The client reads the text, or hears it read, and may require changes.
+Where the client is a child, the parent's consent and the child's assent; where the client has died, the family's
+consent and additional care, because the dead cannot be embarrassed and the living can.
+
+**Disguise, and the four things it cannot protect.** Changing the name, the occupation, the town and the ages is
+standard and insufficient in three situations. *Small communities:* a therapist in a town of thirty thousand is
+writing about someone her colleagues will recognise from the presenting problem. *Rare presentations:* a family with
+a specific configuration — four children, a father in the merchant navy, a mother with a particular diagnosis — is
+identifiable no matter how the details are changed. *Public events:* a case that was in the newspapers is not
+disguisable. *Digital traces:* a case that has been discussed online may be found by searching the details.
+
+**The proportionality rule.** Write only what the teaching purpose requires. A case report does not need the
+family's immigration status, their religion, their income or the detail of the abuse in order to teach the
+decision. The most common ethical failure in student case reports is excess detail, which is usually written
+because the detail is interesting rather than because it is necessary.
+
+**The composite case.** Where disguise is impossible, a composite — several cases combined into one, with a
+statement that it is a composite — is acceptable in teaching and unacceptable where the composite is presented as
+a single case with its own factual integrity. The statement must be explicit: "this case is a composite, constructed
+for teaching, and does not describe any single family."
+
+**The student's thesis, and the supervisor's role.** The supervisor is responsible for the ethics application and
+for reading the case material before submission. A thesis containing a recognisable account of a real family is a
+failure of supervision before it is a failure of the student.
+
+### 13.2c The assessed client: whose question does the assessment answer?
+
+An assessment is always conducted for someone. Naming that person determines the consent, the feedback and the
+limits, and the failure to name them is the commonest ethical error in assessment work.
+
+**The four possible clients of an assessment.**
+
+| Who asked | Consent required | What may be fed back |
+|---|---|---|
+| The person being assessed | Her own | Everything, in a form she can use |
+| The family, about one member | The member's, plus the family's for the referral question | The formulation, not the raw material |
+| A school or employer | The person's written consent, and only for the agreed purpose | What the purpose requires, and nothing more |
+| A court | The person's consent where possible, or the court's order | The report as instructed, with its limits stated |
+
+**The distortion that follows from not naming the client.** The therapist drifts towards the interests of whoever
+commissioned the work. A child assessed because the school wants a diagnosis is assessed in a way that finds one; a
+father assessed because his wife's lawyer requested it is assessed in a way that finds what the lawyer is looking
+for, or — in the therapist's attempt to be fair — in a way that under-reports what is there. Naming the client is
+the discipline that prevents the drift, and stating it in the report is what allows a reader to judge the work.
+
+**The feedback conversation, which is part of the assessment.** Three questions: what was measured, what the result
+means, and what it does not mean. The client who is told a score without the third element will carry a number as
+though it were a verdict. "Your score is in the range that suggests moderate depression. That tells us the severity
+is significant enough to treat. It does not tell us the cause, and it does not tell us how long it will last."
+
+**The assessment that should not be done.** Where the question belongs to a third party and answering it would
+harm the person assessed — a family who wants an assessment to prove that a daughter is "not really ill", an
+employer who wants an assessment of an employee's loyalty — the therapist's answer is that the question is not one
+she can answer, and the reason is stated.
+
+### 13.3 Diagnosis: what it does, and when it is defensible
+
+**What a diagnosis does, in four directions.**
+
+1. **To the client:** it names the experience, which can relieve ("there is a name for this"), and it can
+   imprison ("I am a borderline"). The same act produces both, and the way it is communicated determines which.
+2. **To the family:** it reorganises the household's explanation. A diagnosis of a child's condition may relieve
+   the mother of blame or transfer it to her; a diagnosis of a father's depression may legitimise his withdrawal or
+   confirm the family's view that he is weak.
+3. **To the system:** it opens the door to treatment, insurance, school support and legal protection — and it
+   closes others. A diagnosis on a record follows a person into employment, custody and immigration decisions.
+4. **To the therapist:** it organises the treatment and, if it is wrong, organises it in the wrong direction for
+   years. The diagnostic act is a commitment, not a label.
+
+**The four questions before making a diagnosis.**
+
+1. **Can I defend it?** Is there enough evidence, gathered with the right method, to support it if challenged by a
+   colleague, a regulator or a court?
+2. **Is it mine to make?** Does it lie within my competence and my licence? A family therapist may recognise
+   depression and may not be qualified to diagnose a psychotic disorder (Week 7).
+3. **What will it do for this client?** Access to treatment, an explanation, a school's support — or stigma,
+   a record, a family's certainty that the problem is located in one person?
+4. **What will it do to this family's story?** Diagnosing the identified patient in a family system confirms the
+   family's belief that the problem is in that person, which is frequently the belief that has been preventing
+   change.
+
+**The relational alternative, and its limit.** In family work the formulation is frequently relational rather than
+individual: "this family's difficulty is in how it has organised itself around a loss", rather than "this mother is
+depressed". The relational formulation is often more useful and is not a substitute for a diagnosis where a
+diagnosis is required for care. The competent practice uses both: a diagnosis where the system requires one, and a
+formulation that locates the problem in the relationships where it actually lives.
+
+**The diagnosis given for a third party.** "I need a diagnosis for the insurance." "The school will not act without
+a diagnosis." "My lawyer says a diagnosis will help in court." Each is a pressure to write a category the client
+may not meet, for a purpose that is not clinical. The defensible position: a diagnosis is given if it is accurate;
+where a letter is needed for a purpose, the letter states what is observed and what is needed, without inventing a
+category. Where the third party will not accept that, the therapist declines and says why.
+
+**Communication of a diagnosis, in four sentences.** What it is, in plain language; what it is not; what it means
+for the treatment; and what it does not change about the person. "This is a name for a pattern of low mood that has
+lasted more than two months and is affecting your sleep, your appetite and your work. It is not a description of
+who you are, and it is not permanent. It tells me what treatment is likely to help. It does not change anything
+about what you are able to do."
+
+### 13.3a Assessment instruments: six questions before you use one
+
+**1. Was it validated for this population?** Not translated — validated. A translation with no psychometric work is
+a new instrument with unknown properties, and reporting its scores as though they meant what they mean in the
+original population is a methodological and an ethical error.
+
+**2. Was it normed on people like this client?** Age, education, language, urban or rural, clinical or community
+sample. A cut-off derived from a clinical sample will classify a community sample as abnormal.
+
+**3. Am I qualified to administer and interpret it?** Some instruments require specific training; all require
+competence in interpretation. Administering an instrument one cannot interpret is worse than not using one.
+
+**4. What will I do with the result?** If the answer is "nothing that I would not do otherwise", the assessment is
+being done for the therapist's reassurance or for a file. If the answer is "it will change the treatment", the
+result must be fed back to the client.
+
+**5. How will I give the result back?** The client is entitled to know what was measured, what the score means,
+what its limits are, and what happens next. Feedback is part of the assessment, not a courtesy.
+
+**6. Where does the raw data go, and for how long?** Test data are clinical records: stored, retained and disclosed
+under the same rules (Week 11). Protocols are not kept in a drawer indefinitely, and they are not shown to anyone
+outside the treatment without consent.
+
+**The family-specific problem.** Many instruments are designed for individuals and used on families by summing
+scores, which produces a number that means nothing. Family assessment requires either an instrument designed for
+family-level constructs (cohesion, adaptability, communication) or an explicit statement that the scores describe
+individuals within the family and not the family as a unit.
+
+**The one instrument most family therapists do use.** The outcome measure, completed at each session or at
+intervals, which is also an intervention: it gives the client a voice in the treatment and gives the therapist
+feedback on deterioration. Its ethical requirements are the same as any other — validity for the population,
+explanation of the purpose, and a stated response when the score indicates deterioration.
+
+### 13.3b The diagnosis of a child, and the family that receives it
+
+The most consequential diagnostic act in family work, because it lands on a person who did not ask for it, in a
+system that will reorganise around it.
+
+**The four questions, applied to a child.** *Can I defend it?* With a child, the evidence must come from more than
+one setting — home and school — and from more than one informant, because a child's behaviour in a clinic is a
+sample of one context. *Is it mine to make?* Many child diagnoses require specialist assessment; the family
+therapist's task is recognition and referral (Week 7). *What will it do for the child?* Access to support in school,
+a treatment pathway, an explanation for the parents — or a label that follows him through school records. *What
+will it do to the family's story?* A diagnosis of a child's condition can relieve the parents of blame, which is
+sometimes a kindness and sometimes a way of not examining a household in which the child is frightened.
+
+**The conversation with the parents.** Five elements: what the assessment found; what it did not find; what the
+diagnosis means and does not mean; what the parents can do that will help; and who else will be told, and what they
+will be told. The fifth element is the one most often omitted and the one the parents most need, because the
+diagnosis will travel — to the school, the church, the extended family — and the parents will be the ones managing
+its journey.
+
+**The conversation with the child.** Age-appropriate, brief, and about function rather than category. A nine-year-old
+does not need the word; he needs to know that "your brain works in a way that makes sitting still hard, and there
+are things that help, and it is not because you are bad." A fifteen-year-old may want the word, the explanation of
+what it means, and the assurance that it is not the whole of him.
+
+**The label that becomes the family's explanation.** "He is like that because of his condition" is a sentence that
+relieves and closes at the same time. The therapist's work, over months, is to hold both truths: the condition is
+real and the household's patterns still matter. That is the family therapist's particular contribution to a
+diagnostic case, and it is the reason a diagnosis alone is never a formulation.
+
+### 13.3c The diagnosis as a family event
+
+When a diagnosis enters a household it does three things at once, and the therapist should anticipate all three.
+
+**It assigns a location to the problem.** The difficulty now lives in one person. That is frequently the family's
+preference and frequently the reason change is difficult: if the problem is in her, the rest of the household has
+nothing to change. The family therapist's contribution is to accept the diagnosis and to keep the household in the
+formulation: "the depression is real and it is in her. And a household in which nobody speaks before noon is part
+of what is keeping it going."
+
+**It redistributes responsibility.** A diagnosis can relieve a mother of blame ("it is an illness, not my
+parenting") and can transfer it to her ("it is genetic, from your side"). Both movements happen in the same session
+and both are heard by the person diagnosed.
+
+**It changes the family's language.** Members begin to use the diagnosis as an explanation, a weapon and a
+prediction: "you cannot help it", "it is your condition", "you will always be like this". The therapist listens for
+the third use, because it is the one that forecloses change, and names it: "when you say she will always be like
+this, what does that do to her?"
+
+**What the therapist does with all three.** Assess the diagnosis' accuracy; communicate it in the four-sentence
+form; then run one session, early, on what the family now believes about it. That session is frequently worth more
+than six months of work on the symptoms, because it determines whether the household will support the treatment or
+organise itself around the label.
+
+### 13.4 The clinician-researcher: the thesis, the client and the dual role
+
+The MFT 770 thesis requirement means that every student on this programme will conduct research, frequently while
+seeing clients, and very often on material that arises from their own practice. The dual role is the week's most
+practical problem.
+
+**The four ways the dual role distorts research.**
+
+*Recruitment bias:* the clients who agree are the ones who like the therapist, and they know the therapist's
+preferences. *Consent under influence:* the client who is asked by the person she depends on cannot truly refuse.
+*Interpretation bias:* the therapist-researcher sees her own clinical decisions confirmed by the data. *Role
+confusion at the moment of disclosure:* the participant says something that activates a duty, and the researcher
+must decide which hat she is wearing, in the middle of an interview.
+
+**The four controls.**
+
+1. **Recruitment by a third party** wherever possible, and where not, a written invitation delivered by someone
+   else and a stated cooling-off period.
+2. **A written statement of what the researcher will do if the participant discloses risk**, agreed with the ethics
+   committee and stated in the information sheet.
+3. **Analysis by someone other than the interviewer,** or at least a second coder who has no clinical relationship
+   with the participants.
+4. **Supervision of the dual role,** in which the student discusses the specific ethical events of the study as
+   they happen, and a supervisor who reads the transcripts.
+
+**The ethics application, in five sections.** Purpose, participants, consent, data, risks. The section that is most
+often thin is risks — not risks to participants' bodies, which are usually minimal in this kind of research, but
+risks to their relationships and reputations: a couple who both participate may disagree about what has been said;
+a transcript stored on a laptop may be read by a partner; a quotation may be recognised by the family. Each of
+these is a risk the application must name and mitigate.
+
+**Authorship and honesty.** The student's thesis is the student's; the supervisor's contribution is acknowledged
+according to the convention of the institution. Data are not fabricated, not selectively reported, and not
+discarded because they do not support the hypothesis. The negative finding is a finding and is reported. A student
+who has learned to write up an unexpected result honestly has learned the whole of research ethics.
+
+### 13.4a The seven-step research ethics check
+
+A compressed procedure for the student designing the MFT 770 study, to be run before writing the application.
+
+1. **Whose question is it?** The researcher's, the supervisor's, or a community's. If it is the researcher's alone,
+   the study should say what it gives back.
+2. **Who is vulnerable here, and in what way?** Not "vulnerable populations" in the abstract, but the specific
+   people in this sample: the woman whose husband controls the household, the child who is asked about his parents,
+   the couple in acute crisis.
+3. **How will consent actually be obtained, in what language, by whom?** If the answer involves the treating
+   therapist, the design has a problem.
+4. **What are the relational risks?** What could be said in an interview that would be repeated at home, and what
+   would happen then?
+5. **What is the plan if a participant discloses risk?** Written, with names and numbers, and rehearsed.
+6. **What will be published, and who could be identified by it?** Including the third parties who never consented.
+7. **What does this community get?** A returned report, a training session, a copy of the thesis in the local
+   library, a co-author from the setting. If the answer is "nothing", the study is extractive and the ethics
+   committee may still approve it, which does not make it right.
+
+**The two questions that predict trouble.** Question 3, because the dual role lives there, and question 6, because
+it is the one the student has not thought about and the one the supervisor will be asked about later.
+
+### 13.5 Case: Amaka's study, and the participant who was recognisable
+
+**The student.** Amaka, a candidate on this programme, is conducting her MFT 770 study on "the experience of
+forgiveness in couples after infidelity". She has recruited eight couples: three from her own caseload, five through
+a church announcement.
+
+**The design.** Semi-structured interviews of ninety minutes with each partner separately, audio recorded, verbatim
+transcripts, thematic analysis, with the church's permission to announce the study.
+
+**The three problems that emerged.**
+
+**Problem one, at recruitment.** One of her own clients, Mr Osagie, offered to participate "because you have done so
+much for us". Amaka's first instinct was to accept, and the ethics application had specified that clients in current
+treatment would not be recruited. She declined, and the client experienced it as rejection; the next session was
+spent on that, which was the right clinical decision and a cost of the design.
+
+**Problem two, at interview.** During Mrs Osagie's interview (she participated through the church route, not
+through Amaka), she described her husband's affair in a form of words identical to the account Amaka had heard in
+the couple session, and added a detail — the other woman's workplace — that Amaka already knew from the clinical
+file. Amaka stopped the recording and said, "I want to remind you that this is research, and that what you say here
+goes into the study and not into our sessions. Also, I already know some of this from our work, and I need you to
+know that I am not going to use anything in the study that I did not hear here, today, in this interview." She
+recorded that statement in the note and in the study log.
+
+**Problem three, at analysis.** In the draft chapter, a quotation read: "She worked in the same bank as him. I used
+to see her at the Christmas party." With the ages, the city and the church, the couple would be identifiable to
+anyone in their congregation who read the thesis, and the thesis would be in the university library.
+
+**What Amaka did.**
+
+1. She removed the detail and replaced it with "she worked at his office", which preserved the meaning (proximity)
+   and removed the identifier.
+2. She changed the town in every extract, not only in the demographic table.
+3. She wrote to both partners with the three quotations she intended to use, and asked whether they were content.
+   Mr Osagie asked for one to be removed. It was removed, and Amaka noted the change.
+4. She added a paragraph to the methodology describing the measures taken and their limits: "no disguise can
+   guarantee anonymity in a small community; the participants were told this, and the extracts used were approved by
+   them."
+
+**The supervisor's question, which produced the case.** "If the other woman read this thesis, what would she know?"
+Amaka had not considered her — the third party, who has not consented to anything.
+
+**What the case teaches.**
+
+1. **The dual role has a specific failure point,** which is recruitment. The application's prohibition was right and
+   its cost — a difficult session — was the price of doing it properly.
+2. **The moment of overlap between the clinical and the research roles must be handled out loud.** Amaka's
+   statement in the interview was not required by any code; it was the honest management of a boundary that the
+   participant could not have known was there.
+3. **Consent to be studied is not consent to be recognised.** Sending the quotations to the participants is unusual
+   and is the highest standard available.
+4. **The third party is the person everyone forgets.** The affair partner, the child, the grandparent in the
+   transcript: none of them consented to appear in a thesis, and all of them may be identifiable.
+
+### 13.6 Transcript: the consent conversation for a case report
+
+A therapist asks a former client for permission to write up the treatment for a teaching chapter. Minutes eight to
+twenty-two.
+
+> **T1 Therapist:** I am writing a chapter for students about the kind of work we did, and I would like to use your
+> case. *(pause)* Before you answer, I am going to tell you exactly what that would involve, and I want you to know
+> that you can say no and it will change nothing between us. — *The request, followed immediately by the two things
+> that make it consent rather than pressure: the information and the right of refusal.*
+>
+> **T2 Client:** What would you write?
+>
+> **T3 Therapist:** The decisions I made and why, and something of what you were dealing with, so that students can
+> learn from it. Not your name, not your town, not your job as it is, not the names of anyone in your family.
+> — *The scope, stated positively and negatively, before the document is shown.*
+>
+> **T4 Client:** But you would show it to people.
+>
+> **T5 Therapist:** It would be published, yes. *(pause)* That is the part I want you to think about properly, not
+> answer now. *(pause)* Anyone could read it, including people who know you. — *The risk named plainly, including
+> the one the therapist would rather not mention: the possibility of recognition.*
+>
+> **T6 Client:** Would they know it was me?
+>
+> **T7 Therapist:** They might. *(pause)* I will change the details, and I cannot promise that. Your church, your
+> children's ages, the thing that brought you in — those together are quite specific, and I would rather tell you
+> that than pretend the changes are a guarantee. — *The honest answer to the question that decides the case. A
+> therapist who says "no one will know" has obtained a consent that is not informed.*
+>
+> **T8 Client:** *(pause)* If I said no, would you be upset?
+>
+> **T9 Therapist:** I would be disappointed and I would not be upset with you, and I would not mention it again.
+> *(pause)* That is the difference between asking and pressuring. — *The distinction stated because the client
+> cannot know it otherwise, and because the therapist's disappointment is precisely what she must not transmit.*
+>
+> **T10 Client:** Can I read it first?
+>
+> **T11 Therapist:** Yes. I will send you the text before it goes anywhere, and you can strike anything you want,
+> and I will tell the editor that you have seen it. — *The offer that converts the consent from consent-to-use into
+> consent-to-publish-this-text, which is the standard the codes describe and which few therapists actually meet.*
+>
+> **T12 Client:** *(pause)* And after — could I say later that I have changed my mind?
+>
+> **T13 Therapist:** Before it is published, yes. After, no — it will be out. And if you asked me before publication
+> to stop, I would stop. — *The limits of revocability, stated precisely. "I would stop" is a promise the therapist
+> can keep and the client can rely on.*
+>
+> **T14 Client:** *(long pause)* All right. Send it to me.
+
+**What the transcript shows.** Six of the seven therapist turns give the client something that makes refusal
+possible: the scope, the risk, the honest answer about recognition, the assurance about disappointment, the right to
+read the text, and the right to withdraw before publication. Consent obtained without those six things is a
+signature, not a consent.
+
+**What happened afterwards.** The client struck one sentence — a detail about her mother — and asked that the town
+be changed to a different region. Both were done. The published chapter carries a footnote: "details have been
+changed and the client has read and approved this account."
+
+### 13.7 Laboratory: the ethics application and the disguised case
+
+**Part A — the application (forty minutes).** In groups, write the five sections of an ethics application for this
+study: "the experience of disclosure of HIV status within couples, recruited through a clinic in [state]". Each
+group must include: the consent documents; the recruitment route; the plan for a disclosure of risk during an
+interview; the data storage and destruction plan; and the specific relational risks to participants.
+
+**Part B — the disguise exercise (twenty-five minutes).** Each student writes 250 words about a case, disguised, and
+reads it aloud. The group then tries to identify the family from the details given. The exercise is uncomfortable
+and instructive: almost every first draft is identifiable.
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Consent** | One form | Separate forms | Separate forms for adults and children, with assent and withdrawal stated |
+| **Risk plan** | None | Risk mentioned | Disclosure procedure specific, with roles named |
+| **Disguise** | Not attempted | Names changed | Multiple details changed, third parties protected, limits acknowledged |
+| **Data** | Not addressed | Storage mentioned | Storage, access, retention and destruction specified |
+| **Honesty** | Overclaims anonymity | Some caution | Anonymous where possible, and the limits stated to participants |
+
+**The observation for the debrief.** No group's first draft will protect the third party — the affair partner, the
+grandmother, the sibling who appears in one sentence. That omission is the lesson.
+
+### 13.7a Four research designs and the ethics of each
+
+The design determines which ethical problems will arise, and students choosing a design are also choosing their
+ethical work.
+
+**1. The interview study.** *Risk:* the disclosure of distressing material with no clinical container; the
+repetition of harm in a research interview with a survivor. *Mitigation:* the interviewer's training, a stated
+procedure if distress occurs, a debrief, and the contact details of a service.
+
+**2. The survey.** *Risk:* consent that is a click; items that are intrusive in a household where the questionnaire
+may be seen; the impossibility of withdrawal once data are pooled. *Mitigation:* plain language, the option to skip
+items, a statement about who may see the completed form, and a clear withdrawal window.
+
+**3. The outcome study using clinical data.** *Risk:* using records for a purpose the client did not consent to;
+anonymisation that fails in a small clinic; the therapist's interest in a positive result. *Mitigation:* a specific
+consent to the use of data, an independent analyst, a pre-specified analysis, and a commitment to report the
+negative result.
+
+**4. The action research or service evaluation.** *Risk:* the conflation of evaluation with research; staff or
+clients who cannot refuse because the evaluator is their manager or therapist. *Mitigation:* independent
+facilitation, anonymised data collection, and a written agreement about what will be reported to whom.
+
+**The design choice in a small programme.** Most MFT 770 studies will be interview or survey designs with small
+samples. The ethical burden in a small sample is not statistical; it is the impossibility of true anonymity and the
+closeness of the researcher to the participants. Both are manageable with honesty, and neither is manageable with a
+standard consent form.
+
+### 13.8 Six errors
+
+**Error 1 — Recruiting your own clients because they are available.** The consent is contaminated, the sample is
+biased, and the client's refusal becomes a clinical event. The prohibition exists for a reason and the reason is not
+administrative.
+
+**Error 2 — Treating a parent's signature as family consent.** Each adult consents for herself; each child assents
+for himself; and the consent is documented per person.
+
+**Error 3 — Promising anonymity that the design cannot deliver.** A promise of anonymity to a family in a small
+community, from a study that will be in a university library, is a false statement made in writing.
+
+**Error 4 — Diagnosing what the payer will reimburse.** It is fraud, and it is also a clinical decision made by a
+third party who will never meet the client.
+
+**Error 5 — Using an instrument because it is available.** Validity for the population is not optional, and acting
+on a score whose meaning is unknown is acting on nothing.
+
+**Error 6 — Writing about clients without telling them, because the writing is "for teaching".** Teaching is a
+purpose, not an exemption; the consent is required, and the requirement is stated in most codes in terms that
+students frequently have not read.
+
+### 13.9 Culture, faith and the ethics of knowledge
+
+**Who researches whom.** A substantial literature on research in African settings documents the problem of
+extractive research: studies designed elsewhere, conducted on local populations, published in journals the
+participants will never read, with no benefit to the community studied. The ethical response is not to stop
+researching; it is to build the study so that the community gains something — findings returned to the clinic or the
+church that hosted the study, local co-researchers, a dissemination event in the participants' language.
+
+**Community consent.** In settings where a community leader, a church or a family elder is the gatekeeper, formal
+consent processes frequently require the gatekeeper's permission *in addition to* individual consent and never
+*instead of* it. A study in which the pastor agrees and the women do not is a study conducted on people who did not
+agree.
+
+**Instruments from elsewhere.** Most widely used instruments were developed in North America or Europe. Their use in
+this region raises the questions of translation, conceptual equivalence (does the construct exist in the same form
+in this language?), and norming. A depression scale that asks about "feeling sad" may miss a presentation organised
+around bodily complaints, which is a well-documented pattern in many settings. The ethical requirement is honesty
+about the limits, not the abandonment of measurement.
+
+**Diagnosis across cultures.** The cultural formulation in DSM-5 and the ICD guidance on cultural concepts of
+distress exist because the same experience is described differently across settings. The practitioner's discipline:
+describe the experience in the client's terms first, then consider whether a category fits, and record both.
+
+**Faith and the diagnosis.** A family may hold that the problem is spiritual, and a diagnosis may be heard as a
+denial of that. The practitioner's position — Week 7's — is additive rather than competitive: the diagnosis and the
+family's explanation can coexist, and the therapist's task is to work with both without requiring the family to give
+up its account.
+
+> **DEBATE** — "Research on families should require the consent of every adult member, and any member's refusal
+> should end the study for that family." Argue for: the family is a unit and the data are relational, one member's
+> refusal will distort what the others say, and the family's privacy is shared. Argue against: an individual's
+> participation is her own decision, a controlling husband could veto his wife's participation, and the rule would
+> silence precisely the people whose voices are least often heard. Then state the rule you would put in your own
+> ethics application.
+
+### 13.9a Writing the thesis: five sentences the examiner will look for
+
+Not a style guide; a list of the sentences that demonstrate the student has understood the ethics of her own study.
+
+1. **"Participants were recruited by [a third party / letter] and were told that declining would not affect their
+   care."** The sentence that shows the dual role was considered.
+2. **"Each adult gave written consent; each child gave written or verbal assent, recorded in the file."** The
+   sentence that shows consent was individual.
+3. **"The sample was drawn from a single clinic and anonymity cannot be guaranteed; participants were told this."**
+   The sentence that shows honesty about limits.
+4. **"Where a participant disclosed risk during the interview, the procedure agreed with the ethics committee was
+   followed: [what happened]."** The sentence that shows the protocol was not decorative.
+5. **"The findings did not support the expected relationship between [x] and [y]."** The sentence that shows the
+   student reported what she found.
+
+**The missing sixth, which distinguishes a good thesis from a competent one.** A short paragraph on what the study
+gave back: the report returned to the clinic, the session run for the staff, the plain-language summary for the
+participants. Students who write this paragraph have understood that research is a relationship and not a
+transaction.
+
+### 13.10 Evidence note
+
+**What is known.** The evidence on research ethics is largely in the form of guidance and documented failures
+rather than trials: consent processes that participants do not understand, therapeutic misconception (participants
+believing that research is treatment), and the systematic under-representation of children's own assent. In
+assessment, the cross-cultural validity literature consistently shows that instruments do not travel without
+psychometric work, and that translated tools can produce artefactual differences in prevalence. In diagnosis,
+research on labelling documents effects on self-concept, on family attributions and on clinicians' subsequent
+information-gathering — the diagnostic label shapes what is noticed next.
+
+**What is weaker.** There is little empirical work on how therapists actually obtain consent to publish, and case
+reports are almost never audited for identifiability. The evidence on the harms of diagnostic labelling in
+family therapy specifically is thin.
+
+**What is not supported.** That anonymity is achieved by changing names. That a diagnosis is harmless because it is
+confidential — the client's own family, school and employer frequently learn it. And that a validated instrument
+used outside its validation population measures the same construct.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same diagnosis given at the start of a treatment, as a working formulation,
+and given at the end, as a verdict on a person, has two different effects on a family.
+
+### 13.11 Key terms
+
+**Assent** — a child's agreement to participate, required in addition to a parent's consent.
+
+**Therapeutic misconception** — the participant's belief that research activity is treatment.
+
+**Cultural validity** — the extent to which an instrument measures the same construct in a different population.
+
+**Diagnostic act** — the decision to assign a category, with its consequences for access, stigma and identity.
+
+**Composite case** — a teaching case constructed from several cases, and labelled as such.
+
+**Extractive research** — research that takes data from a community without returning benefit.
+
+### 13.11a The five records a research-minded clinician keeps
+
+A clinician who intends to write, teach or research will need material, and the material must be collected
+lawfully from the beginning.
+
+1. **A consent-to-contact register,** separate from the clinical file, recording who has agreed to be approached
+   about research or teaching and when. It is the single document that makes later recruitment lawful.
+2. **A teaching-consent note** in the file, with the specific scope: "agreed to the use of anonymised material from
+   this treatment for teaching and publication, subject to seeing the text; consent recorded [date]".
+3. **A research log,** for any study: recruitment, withdrawals, the date of each consent, and every ethical event
+   (a disclosure of risk, a request to withdraw, an adverse reaction) with the action taken.
+4. **A data map,** one page: what data exist, where they are stored, who can access them, and when they will be
+   destroyed.
+5. **A publication file,** containing the approved text, the participant's written approval, and the correspondence
+   with the journal. It is the evidence that the consent was to that text and not to a general idea.
+
+**Why the fifth record is the one students omit.** Because consent is usually obtained at the beginning, when the
+text does not yet exist, and the version published may differ from the version described. The file closes that gap
+and takes ten minutes.
+
+### 13.12 Self-test
+
+1. Why is a father's signature not sufficient consent for a family study?
+2. Give three things disguise cannot protect, and the rule that follows.
+3. What are the four questions before making a diagnosis?
+4. State the six questions before using an assessment instrument.
+5. What are the four ways the clinician-researcher's dual role distorts research, and the four controls?
+6. What is therapeutic misconception, and how is it prevented?
+7. In the Amaka case, what did she do at the moment of overlap in the interview, and why?
+8. What is a composite case, and when may it be used?
+
+**Answers.** *(1)* Because consent is individual: the father consents for himself, the mother for herself, and each
+child assents; a mother consenting under pressure has not consented. *(2)* Small communities, rare presentations,
+public events (and digital traces); the rule is that consent is obtained to the specific text, the limits are stated,
+and where disguise cannot protect, the case is not published. *(3)* Can I defend it; is it mine to make; what will it
+do for the client; what will it do to the family's story. *(4)* Validated for this population; normed on similar
+people; am I qualified; what will I do with the result; how will I give it back; where do the data go. *(5)*
+Recruitment bias, consent under influence, interpretation bias, role confusion at disclosure; controls are
+third-party recruitment, a written risk procedure, independent analysis or second coding, and supervision of the
+dual role. *(6)* The participant's belief that research is treatment; prevented by explicit information, separate
+consent, and the researcher's refusal to blur the roles. *(7)* She stopped the recording and stated aloud that the
+interview was research, that nothing from the clinical file would enter the study, and that she would use only what
+she heard in the interview. *(8)* A case constructed from several cases for teaching, labelled explicitly, and not
+presented as a single factual case.
+
+### 13.12a Three questions the ethics committee will ask
+
+Not the ones students prepare for.
+
+**"What will you do if the participant becomes distressed?"** The answer must be a procedure, not a sentiment. Who
+stops the interview, what is said, who is called, and what the participant is offered afterwards.
+
+**"How will you know whether they understood the consent?"** The answer is a method — a teach-back question, a
+second conversation, a written summary in the participant's language — not a signature.
+
+**"What happens to the data if you leave the programme?"** The answer belongs to the institution, not the student:
+custody, storage and destruction specified in the application and followed at the end.
+
+### 13.13 Reflective task
+
+Write two hundred words about a family you have already met — in placement, in your own practice, or in this book's cases. Then answer: what would you have to change before you could publish it, and would what remained still teach anything? If the answer is no, you have found the reason that most good clinical writing is never written. If the answer is yes, write the limits into the text: what you changed, why, and what the reader should therefore not assume — because a reader who is told the limits can use the case, and a reader who is not will generalise it into a rule, and rules made from disguised cases have a way of being applied to real families who do not resemble the one described.
+
+### 13.14 Further reading
+
+- The Declaration of Helsinki and the CIOMS guidelines — short, and the source of most national codes.
+- Your institution's research ethics guidance, read before writing the application rather than after the first
+  rejection.
+- The DSM-5 cultural formulation and the ICD guidance on cultural concepts of distress.
+- Any current text on cross-cultural assessment and test adaptation — the psychometric requirements, not only the
+  translations.
+- The literature on research ethics in African settings, particularly on community consent and benefit sharing.
+
+*Next: Week 14 — Integration: the decision model and your stance.*
 
 ---
 
