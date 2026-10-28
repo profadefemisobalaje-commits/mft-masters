@@ -1497,6 +1497,11 @@ the difference between a release and a consent.
 
 There is no single confidentiality in family work; there is a **policy** you negotiate.
 
+In individual therapy confidentiality is a wall with four doors. In family therapy it is a *room with several
+people in it*, each of whom has a different claim on the information, and the therapist's task is not to
+defend a wall but to design and run a room. That is a different skill, and the codes — written for the wall —
+describe it badly.
+
 **Three workable models.**
 
 | Model | Rule | Advantages | Risks |
@@ -1505,19 +1510,679 @@ There is no single confidentiality in family work; there is a **policy** you neg
 | Full secrecy | Individual disclosures are kept private | Protects individual therapy | Creates a therapeutic secret that distorts the couple work |
 | Selective (negotiated) | The therapist and client agree in advance what will be shared | Flexible and realistic | Requires skill and documentation |
 
-Most experienced couple therapists operate a **modified no-secrets policy**: they will not keep a secret
-that materially affects the couple's work, and they tell each partner this before the first individual
-session. This protects both the relationship and the therapist.
+Most experienced couple therapists operate a **modified no-secrets policy**: they will not keep a secret that
+materially affects the couple's work, and they tell each partner this before the first individual session.
+This protects both the relationship and the therapist.
 
-**Documentation.** Record the policy in the file, in the family's words if possible, and note the date it
-was explained. If a secret arises, record what you did and why.
+**The distinction that makes the policy workable: privacy is not secrecy.** Privacy is information a person
+chooses not to share, and it is legitimate — a client's history of sexual abuse, her feelings about her
+mother-in-law, what she earns. Secrecy is information that is being kept *from* someone in a way that
+distorts the treatment: an affair in progress, a plan to leave, a diagnosis that the other partner believes
+has been excluded. A policy that cannot distinguish the two will be experienced by the family as a demand for
+total exposure, and they will keep everything.
 
-> **CASE** — During an individual session, a wife discloses that she has been having an affair for two
-> years and has no intention of ending it or telling her husband. No one is at physical risk. Under a
-> no-secrets policy, you tell her at the outset of the individual session that this cannot stay private
-> if the couple work is to continue; you then help her decide how and when to disclose, with a deadline.
-> Under a selective policy, you would negotiate what can be shared. What you must not do is carry the
-> secret silently for months while conducting "couple therapy".
+**Why the therapist cannot be neutral about a therapeutic secret.** A secret is not a piece of information
+stored; it is a *structural feature* of the therapy. Once the therapist knows something the other party does
+not, every intervention is affected: she cannot ask a question that would lead there, she cannot respond
+naturally to an account given in good faith, and she is, in the technical sense, deceiving one client on
+another's behalf. A therapy in that condition is not couple therapy; it is two individual therapies conducted
+in the same room.
+
+**Documentation.** Record the policy in the file, in the family's words if possible, and note the date it was
+explained. If a secret arises, record what you did and why.
+
+> **CASE** — During an individual session, a wife discloses that she has been having an affair for two years
+> and has no intention of ending it or telling her husband. No one is at physical risk. Under a no-secrets
+> policy, you tell her at the outset of the individual session that this cannot stay private if the couple
+> work is to continue; you then help her decide how and when to disclose, with a deadline. Under a selective
+> policy, you would negotiate what can be shared. What you must not do is carry the secret silently for
+> months while conducting "couple therapy".
+
+### 3.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The wall and the room | Why individual confidentiality does not transfer to family work | Draw the information map of a family they know |
+| 8–20 | The three models | Each model, its logic, its failure mode | Choose a model for four different referral types, with reasons |
+| 20–32 | Privacy against secrecy | The distinction, worked on eight examples | Sort eight disclosures into privacy or secrecy |
+| 32–44 | The modified no-secrets policy | The four parts of the sentence, and how to say it | Rehearse the sentence in pairs, twice each |
+| 44–56 | Who else holds information | Schools, courts, employers, insurers, religious bodies | Map the information flow for a school referral |
+| 56–68 | The individual session inside family work | Why it is offered, how it is structured, how it ends | Script the first two minutes of an individual session |
+| 68–80 | When a secret has to move | The five-step process, with the affair case | Run the process in role, with a resistant discloser |
+| 80–90 | Documentation | What goes in the file, and what does not | Write the note for the case |
+
+**The teaching decision that makes the week work.** The week turns on one demonstration: the lecturer places
+three chairs, sits in one, and plays the therapist who has just been told about the affair. She then conducts
+twenty minutes of ordinary couple therapy — asking the husband about his week, responding to the wife's
+account of a disagreement — while the class watches the impossibility accumulate. The exercise is
+uncomfortable and it is unforgettable: by the end, every student has seen that the therapist is lying, not
+by commission but by the shape of her questions.
+
+**The sentence the lecture must land.** "A secret does not sit in a drawer. It changes every question you can
+ask, and after a month it has changed the therapy."
+
+### 3.2 Five concepts that organise the week
+
+**1. The client is a construction, not a fact.** In family work "the client" is whatever the therapist and the
+family have agreed it is, and that agreement determines who holds the confidentiality. A couple can be the
+client, with each partner a participant; a family can be the client, with the children participants; an
+individual can be the client, with the family seen as context. Each construction is legitimate; none is
+neutral; and the therapist must choose one and say so.
+
+**2. Confidentiality is owed to the system, not distributed among its members.** If the couple is the client,
+the confidentiality is held by the couple jointly, which means neither partner can demand it against the
+other. This is the sentence that resolves most confusion: "I cannot keep something from the client, and the
+client is both of you."
+
+**3. Privacy is a legitimate asymmetry.** Members of a family know different things about each other, and that
+is ordinary. A therapist is not obliged to equalise knowledge, and a policy that requires it is not a
+confidentiality policy but a transparency rule, which is a different instrument with different costs.
+
+**4. Secrets distort, and distortion is measurable.** The practical test of whether a secret is a
+*therapeutic* secret is whether it changes what the therapist does. If she has stopped asking about the
+weekends, or begun to steer away from a topic, or finds herself relieved when a session ends early, the secret
+is already operating and the policy has failed.
+
+**5. Institutions are third parties with their own claims.** A school, a court, an employer, an insurer, a
+child protection agency and a religious body all have information claims, and each has a different legal
+standing. The therapist's obligation is to map them at the start, tell the family who they are, and never to
+discover one in the middle of a case.
+
+### 3.2a The modified no-secrets policy, in four parts
+
+The policy is a sentence with four components, and each component prevents a specific failure.
+
+**Part 1 — The promise of individual sessions.** "Either of you may ask to see me alone, and I will usually
+say yes." Without this, the family believes there are no individual sessions, and the request, when it comes,
+is experienced as a breach.
+
+**Part 2 — The limit.** "But I will not keep a secret that affects this relationship." The limit is stated in
+terms of *effect*, not of content, because content cannot be predicted and effect can be judged.
+
+**Part 3 — What the therapist will do.** "If something like that comes up, I will tell you both that something
+has been said — not what — and I will help whoever it is to decide how and when to say it." The distinction
+between telling *that* something was said and telling *what* was said is the mechanism that makes the policy
+usable.
+
+**Part 4 — The deadline.** "And I will ask for it to be said here, within a stated time, rather than leaving
+it open." A secret with no deadline is a secret; a secret with a deadline is a task. The deadline is
+negotiated but not indefinite, and the therapist writes it down.
+
+**The four failure modes the parts prevent.** Without part 1, the request for an individual session feels like
+a rupture. Without part 2, the therapist carries secrets by accident. Without part 3, the disclosure of *that*
+something was said becomes a guessing game that is worse than the secret. Without part 4, the process has no
+end and the family settles into a stable, comfortable dishonesty.
+
+### 3.3 The method: deciding where a disclosure goes
+
+Six questions, asked in order, whenever a family member tells the therapist something in confidence. The
+method takes about five minutes of thinking and it converts an alarm into a decision.
+
+**Question 1 — Who is the client, as agreed?** The answer determines everything else. If the couple is the
+client, the disclosure belongs to the couple and cannot be kept from one member indefinitely. If the
+individual is the client and the family is context, the disclosure is hers to control.
+
+**Question 2 — Is anyone at risk?** A yes takes the case out of this method and into Week 8 or 9. Risk is
+always the first question, because the confidentiality policy does not survive it and the family was told so
+at the start.
+
+**Question 3 — Is this privacy or secrecy?** Test it with one question: *does knowing this change what I do in
+the joint sessions?* If yes, it is secrecy, whatever its subject. If no, it is privacy and it stays.
+
+**Question 4 — Who else's information is in it?** Most disclosures are not about one person. An affair
+involves a third party; a diagnosis involves a family's history; a plan to leave involves children. The
+therapist is not only holding the confider's information, and the other people in it have claims.
+
+**Question 5 — What happens if it moves, and when?** Who will be told, by whom, in what words, with whom
+present, and on what date. The therapist's job is to make this a plan rather than an event.
+
+**Question 6 — What is my part, and what is not?** The therapist does not disclose the secret; the client
+does. The therapist's role is to insist that it moves, to help plan how, to be present, and to manage the
+session afterwards. A therapist who takes on the disclosure has taken the responsibility for it, and the
+client has been relieved of the only act that could repair the relationship.
+
+**The rule that governs the six.** The therapist never lies. She may decline to answer, and she must say that
+she is declining and why: "I am not going to answer that, and I want to tell you that I am not, rather than
+let you think I have." The distinction between a refusal and a lie is the whole of the professional position.
+
+### 3.3a The individual session inside family work
+
+An individual session within a couple or family treatment is a clinical instrument with a purpose, a
+structure, and an end. Used badly, it is the mechanism by which therapy is destroyed.
+
+**Why offer one.**
+- To assess risk in private, where a partner's presence would make disclosure impossible.
+- To hear one person's account of something they cannot say in front of the other — usually fear, shame, or
+  the wish to leave.
+- To prepare a person to say something in the joint session, which is the most common and most useful reason.
+- To assess for coercive control, which cannot be assessed with the controller present.
+
+**The rule that governs the offer.** Never hold an individual session with one member of a couple or family
+without having stated the policy, in front of both, before the first one. The session is not the problem; the
+undisclosed session is.
+
+**The structure, in five minutes and forty.** *First two minutes:* restate the policy — "you know I will not
+keep a secret that affects the relationship; is there anything you want to say in that knowledge?" *Middle
+thirty:* listen, assess, and do not ask leading questions about the other partner's conduct. *Last eight:*
+agree what, if anything, moves, and how. The session does not end with a half-disclosure and a
+reassurance.
+
+**The sentence that ends it well.** "So: what I understand is that you want to leave, and you have not told him,
+and you are not ready to. I am not going to tell him. I am going to ask you to tell him, here, within two
+weeks, and I will help you plan what you say. If you have not told him in two weeks, I will tell him only that
+something has been said and that he should ask you — and I will tell you first that I am doing it."
+
+**What makes an individual session unsafe.** Three things. It is offered without the policy being stated. It
+becomes the *only* place where anything true is said, which is the classic pattern of a couple therapy that
+has quietly become two individual therapies. Or it is used to gather information about the other partner,
+which converts the therapist into an investigator.
+
+### 3.4 Confidentiality and the institutions around the family
+
+A family does not arrive alone. The information map below is drawn on the whiteboard in the first session of
+any case with an institutional referrer, and it frequently changes the treatment.
+
+**The school.** Holds attendance, behaviour, academic and safeguarding records. Has a legitimate interest in
+the child's functioning, no right to the therapy's content, and a tendency to expect a report. The therapist's
+position: the school may be given what the family agrees to, and where the school is the referrer it must be
+told at the outset what it will and will not receive.
+
+**The court.** Has power to compel records and testimony, and is the only party on the list that can override
+the family's wishes entirely. (Week 11.)
+
+**The employer, the insurer, the employee assistance programme.** Frequently the payer, and frequently the
+party with the weakest claim and the strongest expectation. The consent conversation must establish what the
+payer will be told: usually attendance and nothing else.
+
+**The child protection agency.** Has statutory powers that vary by jurisdiction and frequently override
+confidentiality. The family must be told, at the start, in plain language, what the therapist is obliged to
+report and to whom.
+
+**The religious body.** Rarely has a legal claim and frequently has a social one. Where a pastor or imam
+referred the family, or is supporting them, the question of what the therapist will tell the religious
+authority must be settled early, because families in these households often assume the therapist will brief
+the clergy and may be distressed to discover otherwise — or, worse, may assume confidentiality and discover
+the briefing.
+
+**The extended family.** The most consequential party in many of these cases and the least considered. The
+grandmother, the uncle who pays, the aunt who is a nurse: each may be told something by a family member and
+each may act on it. The therapist cannot control this and should not pretend to; the workable sentence is
+"what is said in this room may be repeated outside it by any of us, and I cannot prevent that. What I can
+control is what I say."
+
+**The rule for the map.** Draw it in the first session, name every party, and ask the family who has a claim
+in their view. The map is then recorded, and every subsequent request for information is answered by
+reference to it rather than improvised.
+
+### 3.4a Four scenarios at the boundary
+
+The categories are easy in the abstract and hard at four in the afternoon. The four scenarios below are the
+ones that most often divide a supervision group.
+
+**Scenario one — the past affair.** A husband discloses, in an individual session, an affair that ended six
+years ago, before the couple's second child was born. He is not going to tell his wife and says it is "over and
+irrelevant". *Analysis:* secrecy, not privacy, because it changes what the therapist does — she can no longer
+explore the wife's account of the last six years without knowing that the husband holds a different history.
+The end of the affair does not end the secret's effect; it only removes one of the reasons for urgency. The
+policy applies, the deadline is set, and the therapist is honest that the disclosure may be worse for the
+marriage than the affair was.
+
+**Scenario two — the diagnosis.** A wife discloses a new diagnosis of a chronic illness, and asks that her
+husband not be told yet. *Analysis:* this is closer to privacy, and the test settles it — the opposite: knowing
+this *does* change what the therapist does, but the change is in her attention rather than her honesty, and the
+question of who knows the diagnosis belongs, first, to the patient. The exception is where the illness bears
+directly on the treatment's subject matter, as it would if the couple presented with the husband's complaint
+that his wife has "lost interest". Then the content of the illness can remain private and its *effect* must be
+speakable: "there is something medical going on that she is dealing with, and it is relevant to what you are
+describing; she will tell you when she is ready." That is not a lie and it is not a disclosure.
+
+**Scenario three — the wished-for pregnancy.** A woman in a couple treatment discloses that she has stopped
+her contraception without telling her husband. *Analysis:* the clearest kind of secrecy, because the treatment
+is about the couple's reproductive decisions and the therapist would be participating in a deception about
+their subject. It is also a case where the therapist's own views about reproductive autonomy will be
+activated, and the professional requirement is to state the limit without moralising about the choice.
+
+**Scenario four — the adult child's secret.** A mother in a family treatment discloses that her 24-year-old son
+has been using drugs, and asks the therapist not to raise it with the son, who is also attending. *Analysis:*
+the son is an adult and a client; his mother's disclosure is information about him that he has not given.
+The therapist cannot promise the mother silence, because she is now conducting a family treatment in which she
+knows something the son does not know she knows — and she cannot disclose it to him either, because the mother
+told her. The workable resolution is the mother's own act: "I need you to tell him that you know, and I will
+help you do it, because I cannot work with the two of you while he thinks this is not being spoken about."
+
+**The pattern in all four.** The answer is rarely "tell" or "do not tell". It is *who tells, in what words,
+by when, with the therapist doing what.*
+
+### 3.4b The supervisor and the secret
+
+A therapist holding a secret needs supervision and frequently avoids it, because the secret feels like a
+failure and because describing it means saying it aloud. This is the mechanism by which secrets damage
+therapists: the case that most needs discussing is the one least discussed.
+
+**The rule.** Any case in which the therapist is holding information from a client — even legitimately, even
+temporarily — is presented in supervision within the month.
+
+**What supervision is for, in these cases.** Not permission, which supervision cannot give. Three things:
+(1) a check on whether the therapist's reasoning is clinical or personal, since the wish to protect a client
+from the consequences of disclosure is often the therapist's own; (2) an outside view on the risk analysis,
+which deteriorates under pressure; (3) the documentation, because a supervisor who has read the reasoning
+becomes the strongest evidence that the decision was considered.
+
+**What the supervisor should not do.** Instruct the therapist to disclose. The decision and the responsibility
+belong to the treating clinician, and a supervisor who directs it removes the judgement from the person who
+will have to defend it.
+
+**The audit question for the therapist.** At the end of each month: is there anything I know that one of my
+clients does not know I know? If the answer is yes and there is no written plan with a date, the case needs
+supervision this week, not next.
+
+### 3.5 Case: two years, no intention
+
+**Referral.** Mrs Nkiru Adeleke, 36, a bank branch operations manager, telephones about her marriage. "We have
+not spoken properly in three years. I want to know whether it can be saved." Her husband, Segun, 39, a
+pharmacist, attends the first session reluctantly: "she decided we needed this, so here we are."
+
+**The household.** Nkiru and Segun, married eleven years. Two children, 8 and 5. Segun's mother lives ten
+minutes away and is "very involved". Nkiru travels for work two or three nights a month.
+
+**The first session.** The presenting complaint is "we are like flatmates". Segun's example: "she is on her
+phone until midnight". Nkiru's example: "he asks me about the children and never about my day." There is no
+violence, no substance misuse, no financial crisis. The therapist states the modified no-secrets policy, in the
+four parts, in the first session, and both agree. The note records it.
+
+**Session two — the individual request.** Nkiru telephones: "I need to see you alone." The therapist offers the
+next appointment, and sees her for forty minutes. In the first eight minutes, Nkiru says: "I have been seeing
+someone for two years. He is a colleague. I am not going to stop and I am not going to tell Segun. I want to
+know whether I can save my marriage at the same time."
+
+**The application of the six questions.**
+
+**1. Who is the client?** The couple. The policy was stated to both and agreed by both. Nkiru was told, in
+Segun's presence, that a secret affecting the relationship would not be kept.
+
+**2. Is anyone at risk?** No physical risk. There is a risk of an STI to Segun, which is a health risk and not
+a safety risk, and it is relevant — a therapist who treats this as a purely relational matter has missed
+something. There is a risk to the children's stability, which is a future harm rather than a current danger.
+
+**3. Privacy or secrecy?** Secrecy, unambiguously. The test — does knowing this change what I do in the joint
+sessions? — is answered in one word: yes. Every question about the weekends, about her travel, about her
+withdrawal becomes unaskable.
+
+**4. Whose information is it?** Nkiru's, Segun's, the children's, and the third party's — who has a wife of his
+own, which Nkiru mentions in passing and which the therapist does not pursue. The information is not one
+person's property.
+
+**5. What happens if it moves, and when?** The plan has to be made now, in this session, or the policy is
+decoration.
+
+**6. What is my part?** To insist that it moves, to help plan how, to be present, and not to disclose it.
+
+**The intervention, in the session, in sequence.**
+
+**First, the reminder, not as a threat but as a fact.** "When we started, I told you both that I would not keep
+a secret that affects the marriage. I meant it then and I mean it now. So I am going to say what I can and
+cannot do, and then we will decide what happens."
+
+**Second, the question that establishes the delay.** "When did you decide that you were not going to tell him?"
+The answer is "about a year ago". The therapist names it: "so for a year you have known, and I have known for
+ten minutes. That is the difference I have to work with."
+
+**Third, the refusal to collude, stated as a limit on the therapist rather than on the client.** "I am not able
+to run a couple therapy in which I know something of this size and your husband does not. Not because of a
+rule — because I would be lying to him every week, and he would be paying me to do it."
+
+**Fourth, the three options, laid out plainly.** (a) She tells Segun, with the therapist's help, in a session,
+by a stated date. (b) She ends the couple therapy here, and the therapist explains to Segun that the couple
+work cannot continue — without giving a reason — which is honest and leaves Segun with a mystery. (c) The
+therapist tells Segun that something has been disclosed which he needs to discuss with his wife, and Nkiru
+tells him the content herself. Option (b) is included deliberately: a client who is not ready must have an exit
+that is not a lie.
+
+**Fifth, the deadline and the recording.** Nkiru chooses (a), with a date three weeks out and one session in
+between to plan the words. The therapist writes it in the note: "client disclosed an ongoing relationship of
+two years; reminded of the policy agreed at session one; client agreed to disclose to her husband by [date],
+with therapist support; if not disclosed by that date, therapist will inform husband that a disclosure has been
+made and that he should ask his wife."
+
+**Sixth, the health question, which is separate and cannot wait three weeks.** "There is one thing I am going
+to ask you to do this week, and it is not about your marriage. Get a sexual health check, and tell me you have
+done it. If you will not tell him, you still cannot leave him exposed." Nkiru agrees, and does it, and reports
+at the next session.
+
+**The disclosure session, in outline.** Nkiru tells Segun in the fourth session, in the therapist's room, in
+eleven sentences that she had rehearsed with the therapist in the third. Segun's response is not what anyone
+predicted: he is not surprised. He says, "I knew something. I thought it was my fault." The session that
+follows is not about the affair; it is about a three-year silence in which both of them were protecting the
+other from a truth they each half-knew.
+
+**What the case teaches.**
+
+1. **The policy must be stated before it is needed.** Nkiru's decision to disclose was made in a session in
+   which the alternative was clearly worse — ending the therapy — and that alternative existed only because
+   the policy had been agreed in session one.
+2. **A deadline converts a secret into a task.** Without a date, the therapist would have carried it for
+   months, and the therapy would have become the deception the policy exists to prevent.
+3. **The health question is not part of the confidentiality decision and must not be lost in it.** A therapist
+   absorbed in the ethics of disclosure can forget that a third party is being exposed to an infection.
+4. **The predicted catastrophe is frequently not the actual one.** The disclosure did not end the marriage; it
+   ended a silence. That outcome is not guaranteed and it is common, and a therapist who assumes the worst will
+   delay the disclosure in order to protect a relationship that is already being damaged by the delay.
+
+### 3.5a When the client refuses the deadline
+
+A real and frequent outcome, and the case in which the therapist's policy is actually tested.
+
+**What refusal looks like.** "I am not going to tell him, and I am not going to stop seeing you. You said you
+would help me, and now you are threatening me." The accusation of betrayal is genuine and it is also the
+pressure that most therapists find hardest to withstand.
+
+**What the therapist says.** Four sentences, in this order. "I am not threatening you; I am telling you what I
+can and cannot do, which is the same thing I told you on the first day." "I will not tell him what you have
+told me — that has not changed." "What I will do, on the date we agreed, is tell him that something has been
+disclosed that he needs to raise with you." "And I will keep working with you, either way, because you are not
+being abandoned for telling me the truth."
+
+**Why the fourth sentence matters more than the other three.** The client's fear is that honesty will cost her
+the therapist. If it does, the lesson she takes is that honesty is dangerous — which is precisely the lesson
+that produced the affair's secrecy in the first place.
+
+**What if the client ends the therapy instead?** Then the therapist writes to confirm the ending, offers to
+meet the husband to explain that the couple work has stopped without explaining why, and records the reasoning
+in full. The letter matters: it is the evidence that the decision was the client's, and it is the only document
+that will exist if the husband later complains.
+
+**The rule underneath all of this.** The therapist's obligation is not to the secret and not to the marriage.
+It is to the honesty of the treatment she is conducting. A treatment she cannot conduct honestly is one she
+must not continue, and saying so is the professional act.
+
+### 3.6 Transcript: the individual session, minutes seven to twenty
+
+Fifteen turns from the session in the case, compressed. The annotation marks each move against the six
+questions.
+
+> **T1 Nkiru:** I have been seeing someone for two years. He is a colleague. I am not going to stop and I am
+> not going to tell Segun. — *Three facts and a decision, delivered quickly, which is the manner of someone
+> who has rehearsed the opening and intends to control the frame.*
+>
+> **T2 Therapist:** *(pause)* Thank you for telling me. *(pause)* You know what I said on the first day, in
+> front of Segun, about secrets. — *No shock, no reassurance, and an immediate return to the agreement. The
+> pause before "thank you" is deliberate: it acknowledges the disclosure without approving of it.*
+>
+> **T3 Nkiru:** I know. But you cannot tell him. It is my life.
+>
+> **T4 Therapist:** It is your life. And it is also my therapy, and I cannot run it with this in it. — *The
+> move that keeps the conflict where it belongs. The therapist does not argue about the ethics of the affair;
+> she states a limit on her own practice, which is not negotiable by the client's view of marriage.*
+>
+> **T5 Nkiru:** So you are going to tell him.
+>
+> **T6 Therapist:** No. I am not going to tell him what you have told me, and I am not going to tell him
+> anything at all today. — *The distinction that the client has not yet heard: the therapist's limit is on
+> carrying the secret, not on disclosing it.*
+>
+> **T7 Nkiru:** Then what?
+>
+> **T8 Therapist:** Then we have a choice to make, and I want you to make it rather than me. Three options.
+> *(lays them out)* — *Options rather than a demand. The client is being given control of the manner, which is
+> the only thing she can be given control of, the fact having been established.*
+>
+> **T9 Nkiru:** *(long pause)* If I tell him, I lose everything.
+>
+> **T10 Therapist:** You may. I do not know. What I know is that if you do not, you have already lost
+> something, and it has been going on for a year. — *The honest answer rather than the comforting one. Note
+> that the therapist says "I do not know", which buys the credibility for the sentence that follows.*
+>
+> **T11 Nkiru:** *(crying)* I did not plan this. It started because I could not talk to him. He is not a bad
+> man.
+>
+> **T12 Therapist:** *(after a pause)* I believe you. And that is the thing we have to work out — not whether
+> he is a bad man, but what happened in this marriage that made it impossible for you to say what you needed.
+> *(pause)* But not today. Today is about whether you can tell him the truth, because nothing else can be
+> worked out until you can. — *The reframe: the affair is the presenting event and the marriage is the subject.
+> The therapist promises the second conversation and does not have it now, which is what makes the promise
+> credible.*
+>
+> **T13 Nkiru:** *(pause)* If I do it, will you be there?
+>
+> **T14 Therapist:** Yes. In this room, with me in it, and after that we will do the hardest session of your
+> life and I will still be here in the following week. — *The commitment, which is the thing that makes the
+> disclosure survivable, and which is not a professional obligation and is the whole of the therapeutic
+> relationship in one sentence.*
+>
+> **T15 Nkiru:** *(after a long pause)* Give me three weeks.
+
+**What the transcript shows.** Three things that a policy document cannot teach. First, the therapist never
+moralises about the affair, which keeps the client in the room. Second, she refuses twice with the same
+sentence, and the repetition matters — a limit stated once is heard as an opening position. Third, she ends
+the session on the client's own deadline, which means the client leaves with an obligation she set rather than
+one imposed.
+
+### 3.7 Laboratory: the secrets protocol
+
+**Aim.** To design, in writing, a confidentiality and secrets protocol for a named service, and to defend its
+four parts under pressure from a client who is testing it.
+
+**Procedure.** Groups of three: therapist, client, observer. Each group is given a service description (a
+school counselling service; a private couple practice; a church-based clinic; a hospital family therapy unit)
+and must produce a one-page protocol in thirty minutes. The client role is then briefed to test the protocol
+in three ways — by asking for an individual session before the policy has been stated, by disclosing a secret
+and refusing the deadline, and by asking the therapist to lie to a third party. Twenty minutes of role-play.
+The observer marks the therapist's adherence to the protocol *the group itself wrote*, which is the point of
+the exercise: most protocols are unwritable as written.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The four parts** | Two or fewer present | Three present | All four, specific, with the action the therapist will take at each point |
+| **Privacy against secrecy** | Both treated the same | Distinguished, but the test is not stated | Distinguished with the operational test, and examples from practice |
+| **The institutions** | Not addressed | Named | Mapped, with what each party may be told and who decides |
+| **Under pressure** | Abandoned the protocol when tested | Held it, but argued | Held it, stated the limit as a limit on the therapist, and offered the client control of the manner |
+| **Documentation** | None | A note exists | The note records what was said, the agreement, the date, and the contingency |
+
+**The distinction that carries most of the marks.** The top band requires the student to hold the protocol
+*without moralising*. Groups routinely win the argument and lose the client: a therapist who says "you are
+being dishonest" has stated a true thing and has ended the possibility of the disclosure.
+
+### 3.8 Six errors
+
+**Error 1 — Stating the policy after the secret.** The policy is worth nothing once the secret exists, because
+the client reasonably hears a change of rules. It is stated in session one, in front of everyone, and recorded.
+
+**Error 2 — Confusing privacy with secrecy and demanding total transparency.** A policy that requires the
+disclosure of everything produces a family who disclose nothing. The two categories must be distinguished in
+the explanation, with examples from ordinary life.
+
+**Error 3 — Carrying the secret "for now".** The phrase that has ended more couple therapies than any single
+act. There is no "for now"; there is a date, or there is a lie.
+
+**Error 4 — Telling the client's secret to protect the client from the consequences.** The therapist who
+telephones the husband "for her own good" has broken a confidence and taken away the only act that could have
+repaired the relationship.
+
+**Error 5 — Refusing the individual session altogether.** A therapist who will not see one partner alone
+cannot assess risk, cannot prepare a disclosure, and cannot hear the thing that is most true. The individual
+session is not the danger; the unstated one is.
+
+**Error 6 — Forgetting the third parties inside the secret.** An affair involves another household; a
+diagnosis involves a family history; a plan to leave involves children. A confidentiality analysis that
+counts only the people in the room has missed most of the people in the case.
+
+### 3.9 Culture, faith and the multiperson system
+
+**Confidentiality is a Western construct in some of these households.** The idea that an individual holds
+information that a spouse has no right to is not universally shared, and in many of the families this book is
+written for the operative assumption is that a married couple has one information economy. A therapist who
+announces an individual confidentiality without explanation will be heard as introducing a foreign and
+suspicious practice — "why would you need to speak to my wife alone?"
+
+**The translation that works.** Two sentences. First, the practical one: "I see each of you alone once, because
+there are things people cannot say in front of a husband or a wife, and I need to know them to help." Second,
+the limit: "anything that affects the marriage, I will not keep." The family that understands *why* the
+individual session exists agrees to it far more often than one that has been told only that it is a right.
+
+**The elder and the family's information.** Where a grandmother or an uncle holds authority in the household,
+they may expect to be told what happens in sessions, and their expectation may be shared by the family. The
+workable position is not refusal but specification: "I will tell you what I am doing and whether it is
+working. I will not tell you what is said in the room." Most elders accept this, because it gives them the
+thing they actually want, which is to know that something is being done.
+
+**Faith communities and the circulation of information.** A pastor who refers a family will frequently expect
+a report, and the family may expect the pastor to receive one. Both expectations must be addressed in the
+first session, and the answer recorded. Where a religious authority is part of the family's support, the
+therapist may offer a summary *with the family's written agreement*, which is a legitimate arrangement and is
+almost never offered.
+
+**Shame and the disclosure of family business.** In a shame-oriented community, a disclosure inside the family
+may become a disclosure in the community, and the family knows this better than the therapist does. That is a
+reason to plan the disclosure carefully and is not a reason to avoid it — and it is a reason to ask, before
+any disclosure is planned, who outside the household will come to know.
+
+> **DEBATE** — "In couple therapy, the therapist should never hold information from either partner." Argue
+> for: the client is the couple, deception is incompatible with therapy, and a therapist who holds a secret is
+> no longer working with a couple. Argue against: privacy is a condition of individual disclosure, a strict
+> no-secrets rule drives the most important material underground, and a woman who cannot speak freely about her
+> own fear will not disclose it at all. Then state the policy you would actually operate, and the case that
+> would make you change it.
+
+### 3.9a A record of the decision, written out
+
+The note is the therapist's only defence and the family's only protection. It is written the same day, and it
+does four things: records the policy, records the disclosure, records the reasoning, and records the plan. An
+example, adapted from the Adeleke case.
+
+> **Session 4 (individual, 40 min).** Client N.A. disclosed an ongoing relationship of approximately two years
+> with a colleague. Client states she does not intend to end it and does not intend to tell her husband.
+>
+> **Policy.** Modified no-secrets policy stated to both partners in session 1 and agreed by both; copy in file.
+> Policy restated to client at the start of this session. Client acknowledged it.
+>
+> **Reasoning.** Client system is the couple. Disclosure affects the couple treatment and would require the
+> therapist to avoid material relevant to the presenting complaint; not compatible with continued couple work.
+> No current risk of violence identified. Risk of STI transmission to the husband noted and addressed
+> separately (below). No statutory duty engaged. Third parties: the other party's spouse is not a client and
+> has no claim on the file.
+>
+> **Plan.** Client elected to disclose to her husband in session 5, with therapist support. Rehearsal agreed
+> for session 5 opening. If disclosure has not occurred by [date], therapist will inform the husband that a
+> disclosure has been made and that he should raise it with his wife, having first told the client that she
+> will do so. Client informed of this contingency and stated she understood it.
+>
+> **Health.** Therapist advised a sexual health screen this week, independent of the disclosure plan. Client
+> agreed. To be confirmed at session 5.
+>
+> **Supervision.** Case to be presented at next supervision, [date].
+>
+> **Signed.** [Therapist], [date], [time].
+
+**Why each part exists.** The *policy* paragraph establishes that the client was told before she spoke, which
+is the difference between a trap and an agreement. The *reasoning* paragraph shows that the decision was
+clinical rather than moral, which is what a regulator reads for. The *plan* paragraph, with the date, is what
+makes the note a record of action rather than a record of concern. The *health* paragraph prevents the most
+common omission in these cases. And the *supervision* line is the strongest single sentence in the note,
+because it shows the therapist did not decide alone.
+
+**The version not to write.** "Client disclosed an affair; discussed confidentiality." That note has no
+reasoning, no date, no plan, and no policy — and if the husband complains in a year, it establishes only that
+the therapist knew.
+
+### 3.10 Evidence note
+
+**What the research supports.** Survey and vignette studies consistently find that couple and family therapists
+report operating modified no-secrets policies and consider them more workable than either rigid alternative,
+while acknowledging that the policy is difficult to enact under pressure. The clinical literature on
+"therapeutic secrets" is largely theoretical, but it converges on the observation that a secret held by the
+therapist changes the therapist's behaviour — avoidance of topics, reduced spontaneity, and a measurable drop in
+the couple's engagement — which is consistent with the triadic model of the secret as a third participant.
+
+**What is weaker.** There is almost no empirical work on outcomes. No trial has compared no-secrets, full
+secrecy and negotiated policies, and the question may be unanswerable by trial design because the policy is
+chosen partly by the population: a practice serving couples in high-conflict or coercive relationships will
+reasonably operate differently from one serving voluntary, low-risk couples.
+
+**What is not supported.** That a no-secrets policy is the standard of care in any enforceable sense — the codes
+do not require it. That holding a secret is always harmful — some privacy is protective, particularly in cases
+involving past abuse or a partner's history of violence. And that the policy should be applied identically
+across cultures, which the cross-cultural literature on family information economies does not support.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same secret, disclosed in session two with a therapist who has stated the
+policy and has a supervisor, and disclosed in session twenty with a therapist who has never mentioned it,
+produces two different treatments and two different families.
+
+### 3.11 Key terms
+
+**Confidentiality** — the professional duty not to disclose information given in the treatment relationship,
+subject to specified exceptions.
+
+**Privacy** — information a person legitimately chooses not to share; compatible with treatment.
+
+**Therapeutic secret** — information held from one member of a couple or family that materially affects the
+treatment.
+
+**Modified no-secrets policy** — a stated policy that individual disclosures will not be kept where they affect
+the couple or family work, with a process for their disclosure.
+
+**Client system** — the person or persons agreed to be the client; the holder of the confidentiality.
+
+**Third-party claim** — an institution's or individual's claim on information, legal or social.
+
+**Information map** — a drawn record of who holds what information about a family, and who decides.
+
+**Deadline** — the dated commitment that converts a secret into a task.
+
+**Collusion** — an arrangement in which the therapist's silence serves the client's avoidance.
+
+**Duty to warn / protect** — the legal or ethical obligation to act on a serious threat to an identifiable
+third party; jurisdiction-dependent.
+
+### 3.12 Self-test
+
+1. Why does individual confidentiality not transfer to couple therapy?
+2. State the four parts of the modified no-secrets policy, and the failure each prevents.
+3. Give the operational test that distinguishes privacy from secrecy.
+4. What is the difference between telling a partner that something has been said and telling them what?
+5. In the Adeleke case, why was the health question separated from the confidentiality decision?
+6. What would you do if the client refused the deadline?
+7. Name five institutions with claims on a family's information, and what each may legitimately be told.
+8. Why is "carrying the secret for now" the most damaging option?
+
+**Answers.** *(1)* Because the client is the couple jointly, so neither partner can demand confidentiality
+against the other, and a therapist holding information from one member is deceiving a client on another's
+behalf. *(2)* The promise of individual sessions (prevents the request being experienced as a rupture); the
+limit stated in terms of effect (prevents accidental secrecy); the commitment to tell both that something has
+been said (prevents the guessing game); the deadline (prevents a stable dishonesty). *(3)* Does knowing this
+change what I do in the joint sessions? If yes, it is secrecy. *(4)* Telling *that* preserves the discloser's
+control of the content and the timing, and it converts the therapist's position from deception to pressure;
+telling *what* removes the client's only remaining act of repair. *(5)* Because the exposure of a third party
+to infection is a health matter with its own urgency, and a therapist absorbed in the ethics of disclosure can
+lose it. *(6)* Hold the limit, do not disclose the content, state the date, inform the partner on the date that
+a disclosure has been made, and keep working with the client so that honesty does not cost her the therapist.
+*(7)* The school (attendance and functioning, not therapy content); the court (whatever is compelled); the
+insurer or employer (usually attendance only); child protection (what the statute requires); the religious body
+(a summary with written agreement, or nothing); and the extended family, who have no claim and considerable
+social power. *(8)* Because there is no "for now": the secret is either moving toward disclosure or it is
+being carried, and a carried secret changes every question the therapist can ask.
+
+### 3.13 Reflective task
+
+Think of a time you were told something in confidence that you could not keep from someone who needed to know.
+Write down what you did, and then answer: which of the six questions did you answer correctly at the time, and
+which did you answer afterwards? Most people find that the ethical reasoning came after the decision, which is
+normal — and it is the reason this course insists that the policy is stated before the case arrives.
+
+### 3.14 Further reading
+
+- Gutheil, T. and Gabbard, G. on secrets in couple and family therapy — the clearest treatment of the
+  triadic problem.
+- Margolin, G. on confidentiality in family research and therapy — the empirical discussion of the policy
+  options.
+- Doherty, W. and Boss, P. on family ethics — the relational account that underlies this week.
+- AAMFT interpretive statements on confidentiality — the shortest authoritative source on the limits.
+- Kirmayer, L. on the cultural shaping of disclosure — relevant to the section on family information
+  economies.
+
+*Next: Week 4 — Secrets I: the individual disclosure.*
 
 ---
 
