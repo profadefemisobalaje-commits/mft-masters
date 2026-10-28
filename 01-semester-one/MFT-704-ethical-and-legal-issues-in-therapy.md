@@ -2188,24 +2188,692 @@ normal — and it is the reason this course insists that the policy is stated be
 
 ## Week 4 — Secrets I: the individual disclosure
 
-**Classify before you respond.** Three questions: *Is anyone at risk? Does this information change the
-treatment I am providing? Is the client able to disclose it themselves, with support?*
+**Learning outcomes.** By the end of this week the student can (1) distinguish the ethics of a secret told in
+individual therapy from the ethics of a secret told in couple therapy; (2) apply a seven-step protocol to an
+individual disclosure; (3) assess what a secret is doing for the person who keeps it, not only what it is
+hiding; (4) plan, rehearse and record a disclosure without coercing it; and (5) identify the countertransference
+that being trusted with a secret reliably produces.
 
-| Type of secret | Typical response |
-|---|---|
-| Harmless (a surprise party) | Keep it; it is not clinically material |
-| Clinically material, no risk (an affair; a debt; a diagnosis) | Negotiate disclosure with a deadline; do not collude |
-| Risk to a third party (HIV status undisclosed; threats) | Assess; follow legal and public-health obligations; document |
-| Risk to a child or vulnerable adult | Report; inform; protect |
-| Risk to self | Risk assessment; safety planning; break confidentiality as required |
+### The distinction this week exists to teach
 
-**The clinical skill: refusing to be recruited.** "I understand you are not ready to tell him. I cannot
-keep this and also work on your marriage with you, because I would be working with half the truth. Let
-us plan how you will tell him, and when."
+Week 3 dealt with the couple as client. The therapist there had a *policy* — agreed in advance, applied when the
+secret arrived — and the policy converted the secret into a task with a date. This week deals with the harder
+and commoner situation: a person in individual therapy tells the therapist something that concerns someone who
+is not in the room and is not a client.
 
-**The systemic reality.** Secrets are not only information; they are structure. A secret held by one
-partner and the therapist creates a coalition — and the excluded partner often senses it, which damages
-the therapy's credibility.
+The temptation is to import the couple framework wholesale, and it is a mistake. In couple therapy the therapist
+has a *duty to the system*, and the system's honesty is a condition of the treatment. In individual therapy the
+therapist has a duty to *one person*, and the person's honesty is a condition of the treatment too — but the
+person's privacy is hers to spend, and the therapist has no standing to demand disclosure to a third party who
+is not a client at all.
+
+What the therapist does have standing to do is something narrower and more demanding: to insist that the
+secret be *visible inside the therapy*. The distinction is the whole of the week.
+
+- The therapist may not tell the husband. He is not a client, has no claim on the file, and telling him would be
+  a plain breach.
+- The therapist may not pretend the secret does not exist. A treatment conducted around an unmentionable fact
+  is a treatment of the presenting complaint only, and it will fail in a way that looks like the client's fault.
+- The therapist's working question is therefore not *should this be disclosed?* but *what is this secret doing
+  to you, and what would it take for you to be able to put it down?*
+
+**The classification table.** Before responding to any disclosure, classify it. The classification determines
+what happens in the next five minutes.
+
+| Type | Examples | What it obliges |
+|---|---|---|
+| **Immaterial** | A surprise party; a gift being planned; an ordinary private preference | Nothing. Keep it, and do not make it clinical |
+| **Material, no risk** | A past termination; a debt; a diagnosis; an affair that has ended; a family history kept quiet | Work with the cost of secrecy; plan disclosure if the client chooses it; never coerce |
+| **Third-party risk** | An undisclosed infection; a credible threat; a plan to harm | Assess; follow legal and public-health duties; document; disclose only what the duty requires |
+| **Child or vulnerable adult** | Abuse, neglect, exposure to danger | Report under the statute; inform the client what will be reported |
+| **Risk to self** | Suicidal intent, self-harm, a plan | Risk assessment and safety planning; break confidentiality only as required |
+
+Note what is *not* on the table: "immoral" is not a category, and "the client's family would want to know" is
+not a category. The therapist's own moral judgement of the secret is not an input to the classification, and
+the most common error in this week's work is a classification driven by the therapist's disapproval.
+
+### 4.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | The individual case: why Week 3's framework does not transfer | Two contrasting vignettes, voted on before analysis |
+| 10–25 | Five concepts: burden, avoidance, function, countertransference, self-concealment | Lecture with board diagram |
+| 25–40 | The seven-step protocol; the classification table applied to five disclosures | Live sorting exercise |
+| 40–55 | The cost ledger and the two-futures exercise | Demonstration with a volunteer, then pairs |
+| 55–70 | The Bisi case, in full | Case presentation, students hold the decision |
+| 70–80 | The transcript, annotated | Read aloud in three voices |
+| 80–90 | Six errors; the record; what supervision is for | Short lecture, closing question |
+
+### 4.2 Five concepts that organise the week
+
+**Concept 1 — Keeping a secret is work, and the work is paid for in the body.** The disclosure literature is
+consistent on this point: concealment requires continuous vigilance — monitoring what one says, to whom, in
+front of whom — and that vigilance has measurable costs in physiological arousal, sleep, intrusive thought and
+sense of authenticity. The clinical implication is not "therefore disclose". It is that the client's reported
+symptoms may be the *cost of the concealment* rather than the effects of the concealed event, and that this
+distinction changes the treatment entirely.
+
+**Concept 2 — Secrecy is maintained by avoidance, and avoidance generalises.** The client avoids one topic; then
+avoids the conversations adjacent to it; then avoids the people with whom the topic might arise. In therapy the
+generalisation is visible as a narrowing of what can be discussed, and it typically looks like a treatment that
+"has gone flat" rather than like concealment. The therapist's first task is to notice the narrowing, which
+requires asking about it directly.
+
+**Concept 3 — The secret has a function, and it is usually protective.** It prevents a divorce, a beating, a
+loss of standing in a family, a mother's distress. A therapist who treats the secret only as a problem to be
+solved is asking a client to give up protection before any substitute exists. The function is assessed, named
+aloud, and taken seriously — and the assessment frequently reveals that the protection is partly illusory.
+
+**Concept 4 — Being trusted with a secret produces a reliable countertransference.** It is flattering, it
+creates a special bond, and it invites the therapist to become the client's only ally — which is precisely the
+position from which the therapist stops challenging her. The signs are familiar: the therapist looks forward to
+the session, feels protective, has a private understanding with the client, and has begun to dislike the absent
+husband on the client's evidence alone. Each sign is a prompt to supervision.
+
+**Concept 5 — What the client conceals from the therapist matters as much as what she discloses.** Self-
+concealment — the general tendency to hide personal information — predicts poorer outcomes and weaker
+therapeutic alliances, and it operates on the therapist too. A client who has told you about a past termination
+may still be concealing the reason she chose you, or the fact that she has already consulted a lawyer. The
+therapist's own honesty about the limits of what she can work with is the main instrument against this.
+
+### 4.2a What a secret looks like before it is told
+
+Most secrets are visible for several sessions before they are disclosed, and the therapist's capacity to notice
+them is a skill that can be trained. The markers below are drawn from the transcript evidence on concealment and
+from ordinary clinical observation.
+
+**Marker 1 — The generic answer.** Asked about her marriage, the client who is holding something says "he is a
+good man" and offers no incident. Detail is where the truth lives; a client who produces adjectives and no
+events is either not attending to her relationship or not able to report it.
+
+**Marker 2 — The topic that never recurs.** Every other subject in a client's life will return across six
+sessions. The one that appears once, in session one, and is never mentioned again, is usually the one that is
+being managed. The therapist's record should note what is missing as carefully as what is present.
+
+**Marker 3 — The time gap.** A narrative with a hole in it — school, then marriage, with five years missing —
+is a narrative with a secret in it. The therapist does not immediately probe the hole. She notes it, and she
+returns to it when the alliance can bear the question.
+
+**Marker 4 — The body's answer.** The chest, the throat, the hand that goes to the mouth, the change in
+breathing when a name is mentioned. These are not proof of anything and they are information, and they belong in
+the note as observation rather than as inference.
+
+**Marker 5 — The abrupt generalisation.** The client who is talking about something specific and suddenly
+becomes abstract ("well, everybody has something they do not talk about") has just come close to it and has
+stepped away. The move is worth naming gently: "you went somewhere else just then."
+
+**Marker 6 — The pre-emptive question.** "You are not going to tell anyone what I say, are you?" — asked before
+anything has been said, and usually asked more than once. The client is not testing the policy; she is preparing
+to use it.
+
+**How the therapist uses the markers.** She does not accuse. She makes the space available: "is there anything
+you have been carrying that we have not got to?" — asked once, plainly, and then left. The question is an
+invitation and not a demand, and the client who declines it has learned that the door is open, which is what
+makes the later disclosure possible.
+
+### 4.3a When the client is a child or an adolescent
+
+The protocol changes, because the client's capacity to choose is limited and the parents' claim is real.
+
+**The default.** A minor's confidentiality is real and is not absolute. The therapist tells the child, in the
+first session and in language appropriate to the age, what will be shared with parents and what will not. The
+standard formulation: "what you tell me stays with me, unless I think you or someone else is in danger, or
+unless I think you need help that only your parents can give — and if I ever have to tell them something, I will
+tell you first what I am going to say."
+
+**The common error.** Promising a child total secrecy, which the therapist cannot keep and which, when broken,
+teaches the child the exact lesson the therapy exists to prevent.
+
+**The adolescent's material.** An adolescent disclosing sexual activity, a relationship, or a plan to leave home
+is disclosing material that parents will want and frequently have a legitimate interest in. The therapist's
+position: the content stays confidential where there is no risk; the *fact* that the young person is dealing
+with something significant may be shared with the parents in general terms, with the young person's knowledge.
+Week 2's four-part script for consent with a young person is the template.
+
+**Where the child holds a family secret.** A nine-year-old who says "do not tell my mum that daddy shouts" is
+disclosing something about the household. The therapist assesses risk first, then asks the child what she is
+most afraid would happen if it were known, then works with the parents on the pattern without attributing it to
+the child. The child must not be made the source, because a child who is the source of a parental crisis has
+been given a burden that will outlast the therapy.
+
+### 4.3 The seven-step protocol for an individual disclosure
+
+**Step 1 — Receive it without reacting.** The most consequential fifteen seconds in the session. The client has
+taken the largest risk she will take in months, and she is reading the therapist's face for the verdict. Any
+visible judgement — surprise, disapproval, concern so sharp it reads as alarm — teaches her that the disclosure
+was a mistake. The therapist's response is small and warm: "thank you for telling me", a pause, and then a
+question that keeps her talking.
+
+**Step 2 — Classify.** Run the table. Is anyone at risk? Is a child involved? Is a duty engaged? This takes
+seconds and can be done while the client is still speaking. If any risk category applies, Week 8 or 9 governs
+and the session changes shape immediately.
+
+**Step 3 — Establish the history of the secret.** How long has she held it, who else knows, has she ever tried
+to tell, and what happened. This is not small talk. The answers tell the therapist whether she is dealing with a
+long-maintained concealment (which will have shaped her relationships) or a recent event (which will not have
+had time to).
+
+**Step 4 — Assess the function.** The question is: "what does keeping this do for you?" The answers are
+specific and are usually accurate — it protects her marriage, her mother, her standing, her job. The follow-up
+is the one that does the work: "and what does it cost you to keep it?" The client has almost always done this
+accounting privately and has never been asked to say it aloud.
+
+**Step 5 — Name the cost without demanding the remedy.** The therapist reflects what she has heard, makes the
+link between the concealment and the presenting symptoms, and then *does not* prescribe. "So the sleep, and the
+knot in your chest — I wonder whether they are the price of carrying this alone." The client is now holding a
+formulation of her own problem rather than a secret.
+
+**Step 6 — Offer options, and let her choose.** Five, in ascending order of exposure: keep it and work on
+managing it; tell one other person outside the marriage; tell the husband with the therapist's help in planning;
+tell the husband in a session with the therapist present; or defer with a review date. The deferral option is
+essential: without it, the client who is not ready has only the choice between exposure and flight.
+
+**Step 7 — Record and review.** The note records the classification, the reasoning, the client's decision, and
+the review date. The review is a real appointment, and the therapist raises it.
+
+**What is absent from the protocol.** Any step at which the therapist decides for the client. This is the
+difference from Week 3, and it is not a difference of squeamishness: the therapist has no authority over the
+client's relationship with her husband, and the attempt to exercise it converts treatment into moral direction.
+
+### 4.4 Four techniques
+
+**Technique 1 — The cost ledger.** A two-column sheet. Left: what keeping the secret protects. Right: what it
+costs — sleep, intimacy, the topics that cannot be raised, the moments of panic at a family gathering, the
+doctor's question that cannot be answered honestly. The client fills it at home between sessions. The sheet
+does the work that a therapist's argument cannot do, because the client produces both columns herself. In
+practice the left column is short and stable and the right column is long and growing, which is the finding
+that shifts the decision.
+
+**Technique 2 — The two futures.** A structured imagination exercise, ten minutes, eyes open. The client
+describes in detail the morning three months after she has told him: where she is, what the room looks like,
+what he said, what happened to her body, and what she does next. Then the same morning in three years if she has
+not told him. The exercise is not a prediction and is not offered as one. Its function is to convert a vague
+dread into a set of specific fears, each of which can then be examined — and frequently to reveal that the
+feared outcome that has kept her silent for eleven years has never once been described in detail.
+
+**Technique 3 — The smallest true sentence.** Many clients cannot contemplate the disclosure because they are
+imagining a full confession. The technique constructs the smallest sentence that is true and complete: "there is
+something about my past I have never told you and I want to tell you." Eleven words. The rehearsal is of these
+eleven words and the silence after them, and nothing else — because the client's real fear is not the content
+but the moment before it, and the moment can be practised.
+
+**Technique 4 — The audience question.** "Who, other than your husband, would this change things with?" In a
+family where a mother-in-law, a pastor, or a brother has a stake, the client is often protecting the secret
+from four people while nominating one. Naming the full audience reduces the fantasy to a specific list and
+sometimes shows that the disclosure is smaller than she thinks — or larger.
+
+**A note on rehearsal.** Where a client decides to disclose, the therapist rehearses with her: the opening
+sentence, the two most likely responses, and the sentence she will use if the conversation goes badly. The
+rehearsal is not preparation for a performance; it is the demonstration that she has options inside the
+conversation, which is what fear removes.
+
+### 4.4a The case: Bisi Oyelaran, and what the therapist did not do
+
+**Referral.** Bisi Oyelaran, 29, a primary school teacher, self-referred for "sleep and worry". Two children, 3
+and 1. Husband Dayo, 33, a bank officer. Married four years. No prior therapy.
+
+**Sessions 1–4.** The presenting problem is insomnia, a sensation of pressure in the chest, and irritability with
+the children. There is no identifiable stressor of the usual kind: work is stable, the marriage described as
+"fine", the children healthy. Bisi's mother died two years earlier and the therapist pursues bereavement, which
+produces some material and no improvement. In session 4 the therapist notices the pattern the reader should
+have noticed in session 2 — every account of the marriage is generic. "He is a good man" recurs five times.
+There is no anecdote, no argument, no detail.
+
+**The moment, session 5, minute twenty-two.** "I have to tell you something and then I will probably not come
+back." The therapist says nothing except "I am listening." Bisi then discloses: at 21, in her final year at
+college, she was pregnant and had a termination. Her mother knew and arranged it. No one else has ever known.
+Dayo's family are members of a church where this is "the worst thing a woman can do", and his mother has begun
+asking when the third child will come, and has suggested a fertility test.
+
+**The classification, made in the moment.** No risk to anyone. No child protection question. A material secret
+with no third-party risk. The protocol applies.
+
+**Step 1 in practice.** The therapist said: "thank you for telling me, and I want you to know that I am not
+going anywhere." Bisi cried for four minutes. Nothing was said. This is not a failure of technique; it is the
+technique.
+
+**Step 3, the history.** Eleven years. Two people knew — Bisi and her mother, and her mother is dead. Since the
+death, no one knows. The therapist names this: "so for two years you have been the only person in the world who
+knows this." Bisi said, "yes", and then, "I had not thought of it like that."
+
+**Step 4, the function and the cost.** The function: it protects the marriage from Dayo's family, and it
+protects her from Dayo's judgement, which she describes as "he would not shout, he would go quiet, and then he
+would tell his mother." The cost, elicited over two sessions: she cannot answer questions about her twenties;
+she avoids her college friends; she has refused two invitations to speak at church; she has begun to dread
+intercourse because "it is the one place I think about it"; and the chest pressure began the week her
+mother-in-law first mentioned the fertility test.
+
+**Step 5, the naming.** "You have been carrying this alone for two years, and the fear of being found out has
+started to organise your life — who you see, what you say, even when you are close to your husband. I do not
+think the sleep is the problem. I think the sleep is the bill."
+
+**Step 6, the options, offered without pressure.** Bisi rejected disclosure to Dayo outright, and said so with
+contempt for the suggestion. The therapist did not argue. Bisi chose a version of the first option — keep it,
+work on managing it — with a review date in six weeks, and one addition of her own: she wanted to tell one
+person, a cousin in Ibadan, "so that somebody alive knows".
+
+**The decision the therapist did not make.** The therapist did not tell Bisi that she must tell her husband, did
+not imply that a good marriage requires it, and did not treat the delay as a failure of courage. She said what
+she thought: that the secret was costing her more each year, that the cost would rise when the fertility
+question became a medical process, and that if Bisi ever wanted to tell him she would help her plan it and would
+be in the room if wanted.
+
+**Sessions 6–12.** The work changed. The presenting symptoms were reframed as the cost of concealment, and the
+treatment became about how Bisi managed the secret rather than about the secret. She wrote the cousin a letter
+she did not send, then sent it. The chest pressure reduced over five weeks. In session 10 she said, of her own
+accord, "I think I will tell him before the test", and the therapist said "tell me what you would want to say",
+and the rehearsal began. She told him in session 14, at home, and came to the next session with the two of them.
+The therapist then saw them twice as a couple — with a new consent conversation, because the client system had
+changed.
+
+**What the case teaches.**
+
+1. **The therapist's own urgency is the main threat to the work.** Had she pressed in session 5, Bisi would have
+   left, and the secret would have gone back underground with a new piece of evidence: that telling costs you
+   the person you told.
+2. **The symptom was the bill.** Reframing the presenting complaint as the cost of concealment is the single most
+   useful intervention in this week's material, and it is available without any disclosure at all.
+3. **The disclosure was eventually made, and not because it was required.** It was made when the cost of the
+   secret exceeded the cost of the telling, and the therapist's job was to make that comparison visible and to
+   be present when the balance tipped.
+4. **The client system changed, and the paperwork had to change with it.** When Dayo joined, the consent
+   conversation was redone from the beginning, and the record was updated. A therapist who simply continues on
+   the old consent has made a documentary error that no amount of good clinical work repairs.
+
+### 4.5 Transcript: receiving the disclosure
+
+Session 5, minutes twenty-two to forty. Bisi has just said "I have to tell you something and then I will
+probably not come back." Annotation after each turn.
+
+> **T1 Therapist:** *(pause)* I am listening. — *Four words. No question, no reassurance, no "of course you
+> will come back". The client has announced an exit; the therapist does not argue with it, which is what keeps
+> her in the room.*
+>
+> **T2 Bisi:** *(long pause, then quickly)* When I was twenty-one, in my final year, I was pregnant. My mother
+> took me. I have never told anybody. Dayo does not know. His family — you do not know his family. If they knew
+> they would — *(stops)*
+>
+> **T3 Therapist:** Thank you for telling me. *(pause)* And I want you to know that I am not going anywhere.
+> — *Step 1. The two sentences are doing different jobs: the first acknowledges the risk she has taken; the
+> second answers the fear she actually voiced, which was about being abandoned by the therapist, not about the
+> termination.*
+>
+> **T4 Bisi:** *(crying)* You are not going to say anything?
+>
+> **T5 Therapist:** Not yet. *(pause)* I would rather hear the whole of it than start talking. — *The refusal to
+> reassure is the hardest move in the transcript and the most important. Reassurance at this point ("that was
+> not your fault", "God forgives") replaces the client's account with the therapist's, and the client learns
+> that the subject must be managed.*
+>
+> **T6 Bisi:** There is nothing else. It was eleven years ago. It is finished.
+>
+> **T7 Therapist:** Eleven years. *(pause)* Who knows?
+>
+> **T8 Bisi:** My mother. Only my mother.
+>
+> **T9 Therapist:** And your mother died two years ago. — *Step 3. The therapist has done the arithmetic and says
+> it plainly. The client's face changes; this is the first moment in which the isolation is visible to her.*
+>
+> **T10 Bisi:** *(pause)* Yes. So now it is only me.
+>
+> **T11 Therapist:** *(pause)* So for two years you have been the only person alive who knows this. — *The
+> reflection that does more than any interpretation. It is accurate, it is short, and it is not a judgement.*
+>
+> **T12 Bisi:** *(long pause)* I did not think of it like that. I thought — I thought I was managing it.
+>
+> **T13 Therapist:** You have been managing it. *(pause)* Tell me what managing it looks like. — *The question
+> that opens the cost ledger without the therapist having to propose it.*
+>
+> **T14 Bisi:** I do not talk about university. If somebody asks, I say it was fine. I do not go to the reunions.
+> I stopped singing in the choir because — *(stops)* — because I thought if I stood up there, everybody would
+> know.
+>
+> **T15 Therapist:** Everybody would know. — *Reflecting the exact phrase, which is the technique that gets the
+> client to hear her own logic. The therapist does not correct it. The correction is available later and is
+> worth nothing now.*
+>
+> **T16 Bisi:** I know it is not reasonable.
+>
+> **T17 Therapist:** I did not say it was not reasonable. I said I heard it. — *A small correction, and a
+> necessary one: the client has begun to argue with herself, and self-argument is the mechanism by which the
+> secret has been kept.*
+>
+> **T18 Bisi:** *(pause)* His mother has started talking about a test. She wants to know why we are not
+> expecting. And I sit there and I — *(stops)*
+>
+> **T19 Therapist:** And you sit there holding all of it. — *The link between the secret and the presenting
+> symptom, made in the client's own language, four minutes after the disclosure and without a formulation.*
+>
+> **T20 Bisi:** *(quietly)* The chest started then.
+
+**Minute forty, the close.** The therapist did not offer a plan in this session. She said: "This is a great deal
+to have said aloud, and I think we should stop here rather than start solving it. I want you to come next week.
+We will look at what you want to do about this — and there are several things you can do, not one." Bisi
+attended the following week.
+
+**What the transcript shows.**
+
+- **Restraint is the intervention.** Of the twenty turns, the therapist asks four questions and makes three
+  reflections. She interprets nothing, reassures nothing, and prescribes nothing.
+- **The exact phrase.** Reflecting the client's own words (turns 15 and 19) produces more than any formulation
+  the therapist could have offered, because the client cannot argue with her own sentence.
+- **The ending is deliberate.** Closing before problem-solving prevents the session from becoming a negotiation
+  about disclosure in the first hour of the client's exposure, and it makes the next appointment the container
+  for the decision.
+
+### 4.6a The record of an individual disclosure, written out
+
+Two notes, from the Bisi case, at the two moments that matter. The first records the disclosure; the second
+records the decision at review.
+
+> **Session 5 (50 min).** Client disclosed a termination at age 21, during her final year at university. Her
+> mother arranged and knew; mother died two years ago; no other person has known. Client states her husband and
+> his family do not know and that she fears disclosure would end the marriage and expose her to her
+> mother-in-law and her church community.
+>
+> **Classification.** Material, no current risk to client, child, or third party. No statutory duty engaged. No
+> risk indicators on direct enquiry.
+>
+> **Response.** No advice or plan offered in this session; disclosure received, history and audience explored,
+> link noted between the client's reported chest symptoms and the recent fertility questions from her
+> mother-in-law. Session closed early by design; next appointment confirmed and attended.
+>
+> **Plan.** Options to be discussed at session 6 (keep and manage; tell one other person; tell husband with
+> planning; tell husband in session; defer with review). Client informed there are several options, not one.
+>
+> **Supervision.** Case to be presented [date] — countertransference noted: therapist aware of a wish to protect
+> client from her husband's family.
+
+> **Session 11 (50 min).** Review held as scheduled. Client reports: has told one person (cousin, Ibadan); chest
+> symptoms reduced; sleep improved from approximately four to six hours. Client states she now intends to tell
+> her husband before any fertility investigation begins, and asks for help planning. Rehearsal begun with the
+> opening sentence; two likely responses identified; client to bring a written note to session 12 if she wishes.
+> Client informed that if she wishes the therapist to be present, the therapist will attend; client has not yet
+> decided. **Client system unchanged at this date.** Review at session 13.
+
+**What the two notes have in common.** Both record the classification, the reasoning, the client's decision, the
+next step and the supervision. Neither contains a judgement of the client's choice. Neither records an
+instruction.
+
+**Why the second note matters as much as the first.** It is the evidence that the deferral was a plan and not an
+abandonment. A file containing the first note alone tells a reader that the therapist knew about a secret and did
+nothing for six sessions; the two notes together tell the truth, which is that the client was given time, the
+work continued, and the decision was hers.
+
+**The one sentence that must never appear.** "Client declined to disclose; discussed." It is accurate, it is
+useless, and it will be read by a regulator as an absence of clinical thinking.
+
+### 4.6 Laboratory: the disclosure rehearsal
+
+**Aim.** To practise receiving a disclosure without reacting, classify it correctly, and offer options without
+coercion — assessed by an observer against six observable behaviours.
+
+**Set-up.** Triads, three rounds of twelve minutes each, so everyone plays all three roles. Each round the
+"client" draws a card. The cards, which should be prepared in advance:
+
+| Card | Disclosure | Classification |
+|---|---|---|
+| A | "I have been paying a loan for two years and my husband does not know." | Material, no risk |
+| B | "I have not told my wife that I lost my job six weeks ago." | Material, no risk; possible financial risk |
+| C | "My brother has been staying with us and he has been in prison." | Material; consider third parties |
+| D | "I have been having thoughts about not being here." | Risk to self — stop the exercise and follow Week 8 |
+| E | "My husband's cousin touched me when I was sixteen and I have never told anyone in the family." | Material; consider historical abuse reporting rules |
+| F | "I know my daughter's husband hits her and she has asked me not to tell anyone." | Risk to a third party — Week 9 |
+
+Cards D and F are the ones that matter pedagogically: the student who continues the counselling protocol after
+drawing them has failed the round outright, however warm the response.
+
+**Observable behaviours (the observer marks each as present, partial or absent).**
+
+1. Did the therapist allow a silence after the disclosure, before speaking?
+2. Did the therapist thank the client, and say something that addresses abandonment?
+3. Did the therapist ask about history and audience before proposing anything?
+4. Did the therapist ask about function *and* cost?
+5. Did the therapist offer at least three options, including a deferral with a review date?
+6. Did the therapist avoid reassurance, advice, and any statement of what the client "should" do?
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Reception** | Reacted, advised or reassured | Paused, but then filled the silence | Received without reaction; acknowledged risk; addressed abandonment |
+| **Classification** | Did not classify | Classified, but the wrong category | Correct category, and changed protocol where the card required it |
+| **Function and cost** | Neither explored | One explored | Both explored in the client's language, with the link to the presenting complaint |
+| **Options** | Gave one option or a demand | Several, all leading to disclosure | Several, including deferral and review, with the choice left where it belongs |
+| **Record** | Nothing | Narrative only | Classification, reasoning, client's decision and review date |
+
+**Debrief question for every triad.** "What did you want the client to do, and where did that wish show in what
+you said?" Almost every student discovers the wish in the pause before their first question.
+
+### 4.7 Six errors
+
+**Error 1 — Reassuring in the first minute.** "That must have been terrible", "you were very young", "God is
+merciful" — each is meant kindly and each takes the story away from the client. The client's task at that moment
+is to finish her account; the therapist's task is to make room for it.
+
+**Error 2 — Classifying by the therapist's moral reaction.** The therapist who finds an affair or a termination
+disturbing will classify it as high-priority and press for disclosure. The classification table has no moral
+criterion, and its absence is deliberate.
+
+**Error 3 — Turning the first session of disclosure into a decision.** The client has spent years holding
+something and has now said it aloud, which is exhausting. A therapist who wants a plan within twenty minutes is
+working at her own pace, not the client's.
+
+**Error 4 — Confusing "I cannot work around this" with "you must tell".** The therapist's limit is about her own
+capacity to conduct an honest treatment, and it is legitimate. It is not a demand that the client disclose to a
+third party who is not a client, and the two are frequently conflated.
+
+**Error 5 — Becoming the keeper of the secret.** The therapist who agrees to hold it, protects the client from
+the husband, and begins to manage the household's information has been recruited. The sign is that the therapist
+is now thinking about the husband as an obstacle.
+
+**Error 6 — Forgetting to review.** The deferral option is safe only if the review is real. A deferral without a
+date becomes a permanent arrangement, and the secret has quietly been installed in the treatment.
+
+### 4.4b Four sentences that help a client decide
+
+The therapist's most useful contribution to a disclosure decision is not advice; it is a small number of
+sentences that make the decision thinkable. These four, used in this order across two sessions, do most of the
+work.
+
+**First — "you do not have to decide today."** The client has usually arrived at the session believing that
+telling the therapist means being pushed. Removing the pressure lowers the arousal enough for thinking to become
+possible, and it is also true.
+
+**Second — "there is more than one way to do this."** The client's imagination contains a single scenario:
+sitting opposite her husband, saying everything, and watching the marriage end. The therapist's job is to
+populate the field — a letter, a session, a trusted third person present, a partial disclosure of the fact
+rather than the detail, a staged disclosure over weeks. Clients almost never generate these options alone,
+because fear narrows the field to one.
+
+**Third — "what is the worst thing you are imagining, in detail?"** Not "how do you feel?" — which produces
+adjectives — but a request for the specific scene. The scene is then examined: what he says, what she says next,
+who else is told, what happens in the following week. The examination does two things. It usually reveals that
+the imagined catastrophe has no script beyond the first minute. And where the catastrophe is real — where the
+husband has been violent, or where the family would remove the children — the examination reveals that too, and
+the plan changes accordingly.
+
+**Fourth — "whatever you decide, I will still be working with you."** The sentence that makes honesty survivable
+and the one most often left unsaid. It is also the sentence the therapist must be able to keep, which is why the
+limit in Week 3's couple policy is different from the position here.
+
+### 4.7a The audit question, and the end of the week
+
+At the end of every week in which a disclosure has been received, the therapist answers four questions in
+writing, in the file, in under a hundred words.
+
+1. **What do I now know that the people around this client do not know?** The inventory. It is usually longer
+   than the therapist expects.
+2. **Is anything moving, or is this now installed?** A plan with a date is moving. A deferral with a review date
+   is moving slowly. A deferral without a date is installed.
+3. **Who is paying for the concealment, and how much?** If the answer is only the client, the situation is
+   stable. If the answer includes a child, a partner's health, or a third party's exposure, the situation is not
+   stable and the deferral must be renegotiated.
+4. **Have I taken this to supervision?** If not, why not — and the honest answer is frequently that the therapist
+   does not want to be told to press, which is itself the material for supervision.
+
+**The closing point of the week.** The student who finishes this week believing that the right answer is "the
+client should disclose" has not learned the week's content. The right answer is that the therapist maintains a
+relationship in which the client can tell the truth about what she is carrying, keeps her own conduct honest,
+never becomes a party to the concealment, and holds the client's choice even when the choice is to wait. That is
+a harder position to occupy than either directive — and it is the position the codes describe when they say that
+the therapist's duty is to the client's welfare and self-determination, and not to the therapist's view of the
+client's marriage.
+
+### 4.8 Culture, faith and the secret
+
+**Shame is social before it is private.** In many of the families this book serves, a secret is not held to
+protect the individual's self-image but to protect a household's standing. Bisi's fear was not that Dayo would
+think less of her; it was that Dayo would *go quiet and then tell his mother*, and that the information would
+then travel through a church and a compound. The therapist who assesses the risk as "her husband's reaction" has
+mis-specified it, and the mis-specification makes the client's fear look irrational when it is not.
+
+**Confession has an address.** Where a client's framework includes confession — to a priest, a pastor, an imam,
+an elder — the therapist should ask, early, whether the client has confessed, and to whom, and what happened.
+Three outcomes are common and each is clinically useful. The client has confessed and found absolution, and the
+secret's burden is much lower than the therapist assumed. The client has confessed and been given a penance
+that made the secrecy worse, such as a direction never to speak of it again. Or the client has not confessed
+because the confession would require a public act she cannot perform, and the therapy is now carrying a
+religious obligation as well as a personal one.
+
+**The church as an information network.** In congregations where testimony is public and pastoral care is
+layered through small groups, a disclosure has an audience that the client knows better than the therapist. The
+practical consequence: ask who would come to know, and do not assume the answer is one person. In Bisi's case
+the audience was a mother-in-law, a women's fellowship, and a choir.
+
+**The in-law's claim.** In many households the mother-in-law holds a genuine and socially recognised claim on
+information about fertility. A therapist who treats this as intrusion will alienate the client, who may agree
+with the claim even while resenting it. The workable formulation is to name the claim as real and to separate it
+from the decision: "she has a claim to be told something; she does not have a claim to be told this, and the
+choice of what she is told is yours."
+
+**Reproductive history and the honour frame.** Where a premarital pregnancy or a termination is framed as an
+offence against family honour rather than as a personal decision, the disclosure's danger is not
+disproportionate — it is accurately perceived. The therapist's obligation is not to talk the client out of the
+danger but to help her assess it with precision and to plan for the realistic worst case, including where she
+would go and who would take her in.
+
+**What not to do.** Do not import the language of "authenticity" and "living your truth" into a household where
+the cost of disclosure may be housing, custody, or violence. Do not assume that the Western therapeutic
+consensus — disclosure is good for you — describes the client's situation. And do not assume the opposite
+either: many clients in these households disclose, survive it, and are relieved.
+
+### 4.8a The therapist's own secrets
+
+A neglected part of the topic, and a frequent source of impairment.
+
+**The therapist is not a sealed vessel.** Therapists hold their own material — a divorce, a miscarriage, a
+parent's illness, a history of abuse, a child in difficulty — and the case that resembles it will activate it.
+The professional obligation is not to be unaffected. It is to know what is activated, to keep it out of the
+client's material, and to take it to supervision.
+
+**The three failure modes.** *Over-identification:* the therapist's own secret shapes what she hears, so that
+the client's situation becomes the therapist's situation and the client's options narrow to the ones the
+therapist chose. *Compensatory rescue:* the therapist protects the client from the outcome she herself suffered.
+*Displacement:* the therapist's unprocessed material appears in the case as unusual intensity — the session that
+runs over, the client she thinks about at night, the case she discusses with her own partner.
+
+**Self-disclosure as a clinical decision.** When the therapist discloses something of her own, the criteria are
+narrow: it must serve the client's work, it must be brief, it must be about the therapist's experience rather
+than the client's, and it must not require the client to take care of the therapist. "I have sat with this kind
+of decision myself, and I know it is not simple" meets the criteria. A twenty-minute account of the therapist's
+own divorce does not, and it makes the client a witness rather than a patient.
+
+**The question for the therapist.** Before each session with the client who activates you: whose material is
+this? If the answer is unclear, the case goes to supervision and, where the activation is severe, the therapist
+considers whether the case should be transferred — which is a professional act and not a confession of
+inadequacy.
+
+### 4.9 Evidence note
+
+**What the research supports.** The concealment literature is substantial. Experimental work finds that holding
+a secret produces intrusive thinking about it and consumes cognitive capacity; that keeping secrets is
+experienced as effortful and fatiguing; that self-concealment is associated with greater distress and poorer
+help-seeking; and that disclosure interventions produce modest but reliable improvements in health and
+wellbeing. In psychotherapy research, clients' concealment predicts weaker alliances and worse outcomes, and
+client-rated honesty about what they have not said is a better predictor of progress than the amount they have
+said.
+
+**What is weaker.** The evidence is largely about the *cost of concealment in general*, not about the right
+moment to disclose to a spouse. There are no trials of disclosure timing in couple or family treatment, and the
+prescriptive literature — tell within X sessions — is clinical convention rather than evidence.
+
+**What is not supported.** That disclosure is always beneficial: the literature is clear that disclosure to a
+hostile or unsupportive recipient can worsen outcomes, which is precisely the situation many clients in this
+week's material accurately fear. That a therapist can predict the outcome of a disclosure. And that a secret
+unspoken to the therapist cannot be worked with — the treatment can address the management of a secret without
+its content, and sometimes must.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* Bisi at 21, in a family where her mother could act, and Bisi at 29, with two
+children, a mother-in-law and a church, is the same event in two different systems, and the disclosure carries
+two different prices.
+
+### 4.10 Key terms
+
+**Individual disclosure** — information given in individual therapy concerning a person who is not a client.
+
+**Concealment cost** — the practical and physiological price of maintaining a secret.
+
+**Function** — what the secret protects; assessed before any plan is proposed.
+
+**Self-concealment** — a general disposition to hide personal information; predicts poorer therapy outcomes.
+
+**Deferral with review** — an agreed postponement with a dated review; the alternative to disclosure and flight.
+
+**Smallest true sentence** — the shortest complete disclosure, used in rehearsal.
+
+**Cost ledger** — a two-column client exercise weighing protection against price.
+
+**Countertransference to the secret** — the therapist's protective, flattered or allied response to being trusted.
+
+**Client system change** — the addition of a new client (a partner, a child) requiring a new consent conversation.
+
+### 4.11 Self-test
+
+1. Why does the modified no-secrets policy of Week 3 not transfer to individual therapy?
+2. State the five categories of the classification table and give one example of each.
+3. What are the three signs that a therapist has been recruited as keeper of the secret?
+4. Describe the cost ledger and explain why the client fills it rather than the therapist.
+5. What is the smallest true sentence, and what is it for?
+6. In the Bisi case, what did the therapist *not* do, and why does each omission matter?
+7. What must be recorded after an individual disclosure, in five parts?
+8. What changes when a new client joins an existing treatment?
+
+**Answers.** *(1)* Because the client is the individual, so the therapist owes confidentiality to one person and
+has no standing to require disclosure to a non-client; the therapist's legitimate limit is on her own capacity
+to conduct the treatment, not on the client's conduct. *(2)* Immaterial (a surprise party); material with no
+risk (a past termination); third-party risk (an undisclosed infection); child or vulnerable adult (abuse);
+risk to self (suicidal intent). *(3)* The therapist looks forward to the session unduly; she feels protective of
+the client against the absent partner; and she is managing the household's information. *(4)* A two-column sheet
+of what the secret protects and what it costs, completed at home, because the client's own production of the
+right-hand column is more persuasive than any argument the therapist could make. *(5)* "There is something
+about my past I have never told you and I want to tell you" — eleven words used in rehearsal, because what the
+client fears is the moment before the disclosure rather than its content. *(6)* She did not reassure in the
+first minute (which would have replaced the client's account with her own); did not propose a plan in the first
+session (working at the therapist's pace); did not tell Bisi she must disclose (which would have ended the
+therapy); and did not treat the delay as failure. *(7)* Classification; reasoning; the client's decision; the
+review date; and the supervision plan. *(8)* A new consent conversation, an amended confidentiality agreement, a
+new record of who is the client, and a re-negotiation of what will be shared between the individual and joint
+work.
+
+### 4.12 Reflective task
+
+Write two hundred words on the last secret you were told. Do not describe the content. Answer three questions:
+what did you feel towards the person who told you; what did you want them to do next; and did that wish appear
+anywhere in how you responded? Keep the page. You will want it when the first case in your practice reproduces
+the feeling.
+
+### 4.13 Further reading
+
+- Pennebaker, J. on disclosure and health — the empirical basis for the cost-of-concealment formulation.
+- Slepian, M. on the psychology of secrecy — the experimental work on mind-wandering and concealment burden.
+- Larson, D. and Chastain, R. on self-concealment — the construct that predicts therapy process.
+- Doherty, W. on moral conflicts in therapy — relevant to the discipline of not moralising.
+- Any current text on professional ethics in counselling for the treatment of client concealment from the
+  therapist.
+
+*Next: Week 5 — Secrets II: infidelity, paternity and HIV status.*
 
 ---
 
