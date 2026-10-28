@@ -79,7 +79,9 @@ becoming).
 ## Week 1 — Moral philosophy for clinicians
 
 You do not need to become a philosopher, but you need to know which argument you are making when you say
-"that would be wrong".
+"that would be wrong". Most ethical failure in clinical practice is not the product of a bad person; it is
+the product of a good person using one tradition of reasoning while believing they are using another, and
+therefore being unable to see the objection that the other tradition would have raised.
 
 | Tradition | Central question | Therapy example |
 |---|---|---|
@@ -90,11 +92,678 @@ You do not need to become a philosopher, but you need to know which argument you
 | Justice / rights | Are power and resources fairly distributed? | Whose voice is missing from this room? |
 
 **The four principles** (Beauchamp & Childress) remain the most portable framework: **autonomy,
-beneficence, non-maleficence, justice**. In family work they collide constantly — respect for the
-father's autonomy may conflict with the mother's safety.
+beneficence, non-maleficence, justice**. In family work they collide constantly — respect for the father's
+autonomy may conflict with the mother's safety, and a clinician who has not learned to name the collision
+will resolve it silently, in favour of whoever is more articulate in the room.
 
-> **PRACTICAL** — Take three ethical dilemmas from your own life (not clinical). For each, identify which
-> tradition you used, and which you used to justify it afterwards.
+**Why a family therapist needs philosophy more than an individual therapist does.** In individual work the
+ethical questions are mostly about the boundary between two people: the client and the clinician. In
+family work the questions are about *distribution*: whose interests the clinician is serving, whose secret
+they are holding, whose account they believe, and whose voice the institution will hear. Those are
+questions of justice and care before they are questions of compliance, and the codes — which are written
+mostly for two-party work — do not answer them.
+
+> **CASE** — A father telephones the clinic to ask what his wife said in her individual session. He is
+> polite, he is paying the fee, and he is, in his own understanding, being a responsible head of household.
+> The clinician has three duties in tension: confidentiality to the wife, honesty to the husband, and the
+> welfare of a couple whose therapy depends on both of them returning. Which tradition she reaches for
+> decides what she says in the next thirty seconds.
+
+### 1.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–10 | Why this week exists | The difference between compliance and judgement, with the case | Write the sentence they would say into the telephone |
+| 10–24 | The five traditions | Each tradition, its strength, its characteristic failure | Classify six clinical utterances by tradition |
+| 24–36 | The four principles | Autonomy, beneficence, non-maleficence, justice, and how they collide in family work | Rank the four for three different cases |
+| 36–48 | Ethics of care and its critique of principle-based ethics | Gilligan, Noddings, and the relational objection | Name what a principles-only analysis would miss |
+| 48–60 | Moral distress and moral injury | The difference between not knowing and not being able | Identify one episode of each from placement |
+| 60–72 | The decision model | The seven-step model that the course will use all term | Run it on the case, in pairs |
+| 72–84 | Cultural and religious moral frameworks | When the family's moral world and the code's are not the same | Argue one case from inside a framework not their own |
+| 84–90 | The assessment | How the incident analyses are marked | Draft the outline of their first incident analysis |
+
+**The teaching decision that makes the week work.** The lecture begins with the telephone call, before any
+theory, and every student writes the sentence they would say. The sentences are read aloud and sorted onto
+the board by tradition — and the class discovers that most of them are consequentialist ("it will damage the
+therapy if I tell him"), a few are deontological ("I cannot discuss her sessions"), and almost none are
+about care or justice. The sorting is the lesson: their instincts are already philosophical, and they have
+never inspected them.
+
+**The sentence the lecture must land.** "You already have a moral theory. This week is about finding out
+which one, and whether you would defend it if a family asked you to."
+
+### 1.2 Five traditions, and what each one cannot see
+
+**1. Deontology: duty regardless of outcome.** The tradition that produced the codes. Its strength is
+predictability: a rule that holds when it is inconvenient is a rule that can be relied upon by a family who
+has never met you. Its characteristic failure is rigidity — the clinician who keeps a confidence that is
+killing someone because the rule says so, and who experiences the resulting harm as bad luck rather than as
+a decision. In family work, deontology's specific blindness is to *distribution*: a rule about confidentiality
+applied equally to a powerful father and a dependent grandmother produces an unequal result, because they
+have unequal capacity to use the information.
+
+**2. Consequentialism: the best overall outcome.** Its strength is realism — it takes harm seriously and it
+permits the clinician to weigh a small breach against a large protection. Its characteristic failure is
+that nobody can calculate the consequences, and the calculation is usually done by the person who will
+benefit from the answer. In family work, its blindness is to the *unrepresented*: the person whose interests
+do not appear in the therapist's forecast is the person who gets sacrificed, and that person is usually the
+one with least power in the room.
+
+**3. Virtue ethics: what a person of good character would do.** Its strength is formation — it asks what kind
+of clinician you are becoming, which is the question that survives when the code is silent. Its
+characteristic failure is vagueness and self-congratulation: "I would know" is not a method, and the
+practitioner who trusts their own character is the one least likely to notice its defects. In family work,
+virtue ethics supplies the questions the codes cannot answer — courage, patience, humility, temperance about
+one's own influence — and it needs a discipline to keep it honest, which is supervision.
+
+**4. Ethics of care: what this relationship requires of me.** The tradition that family therapy needs most
+and uses least. Its central claims: that moral life is constituted by relationships rather than by isolated
+choosers; that responsiveness matters as much as rules; and that dependence is not a defect to be overcome
+but a condition of being human, which every client in your room is in. Its strength is that it describes
+family work accurately. Its characteristic failure is that it can justify almost anything in the name of the
+relationship, and it has no natural defence against a clinician who is more attached to a family than is good
+for the family.
+
+**5. Justice and rights: are power and resources fairly distributed?** The tradition that asks who is not in
+the room and who is paying for the room. Its strength is that it names the questions the other four avoid:
+who has access to this service, whose language is spoken, whose account the institution will believe, and
+who carries the cost of the arrangement. Its characteristic failure is abstraction — a clinician can conduct
+a fine analysis of structural injustice and still be unjust to the person in front of them.
+
+**The five are not a menu.** They are five different questions, and a competent clinician asks all five about
+a hard case and then has to decide, in the open, which one governs. The decision is the practice; the
+inspection of the decision is the profession.
+
+### 1.2a The four principles, and how they collide in family work
+
+The four principles are the most portable framework in the field, and the reason is that they are not a
+theory: they are four considerations that any defensible decision must have addressed. Their use is not to
+produce the answer but to make sure the answer has not ignored something.
+
+**Autonomy.** The client's right to decide what happens to them, grounded in their capacity to do so. In
+individual work it is the dominant principle and it is generally straightforward. In family work it is
+immediately difficult, for three reasons. The first is *multiplicity*: there are several autonomous people
+in the room, and their autonomies conflict — the adolescent's autonomy over her own body against her
+parents' legal authority; the wife's autonomy over her own disclosure against the husband's claim to know.
+The second is *capacity*: a nine-year-old, an eighty-one-year-old with dementia, and a woman in an abusive
+relationship all have autonomy claims that are not identical to an adult's unconstrained choice, and
+"respecting autonomy" without distinguishing them is a way of abandoning the vulnerable. The third is
+*context*: in many of the households this book is written for, decisions are made by families rather than by
+individuals, and a clinician who insists on individual consent is not being respectful; they are being
+parochial.
+
+**Beneficence.** The duty to act in the client's interest. It sounds unarguable and it is the principle most
+often used to justify paternalism, because "the client's interest" is defined by the clinician. In family
+work the principle has a specific structural problem: whose interest? A decision that benefits the marriage
+may harm the wife; a decision that protects the child may end the family's engagement.
+
+**Non-maleficence.** First, do no harm. The most useful of the four in practice, because it operates as a
+check rather than a goal: before acting, ask what harm this could do, including the harms of the
+intervention itself. In ethics, the harms that are most often overlooked are the ones the clinician's own
+action causes: the disclosure that ends a therapy, the report that produces a violent reprisal, the note
+that is read in court five years later.
+
+**Justice.** Fairness in the distribution of benefits, risks and resources. In family work it appears in
+three places that the other three principles do not reach: *access* (who can get to this clinic, at these
+hours, at this fee); *voice* (whose account is taken seriously, in a room and in a record); and
+*consequence* (who bears the cost of a decision — frequently not the person who made it).
+
+**The collision, worked.** A seventeen-year-old discloses to the therapist that she is sexually active and
+does not want her parents told. The four principles give four different answers. *Autonomy*: she is nearly
+an adult and her confidence should be kept. *Beneficence*: telling the parents may protect her; not telling
+may leave her without support. *Non-maleficence*: telling may produce the beating she fears, which is a harm
+the clinician will have caused. *Justice*: her parents have legal responsibility and a legitimate interest;
+she has the greater exposure to the consequences. The principles do not resolve it. They ensure the clinician
+has seen all four, and then the clinician must decide and be able to say why.
+
+**The order of the principles is not fixed.** Students frequently assume autonomy comes first because the
+codes list it first in some jurisdictions. It does not. In a case involving a child's safety, non-maleficence
+governs. In a case involving an adult's refusal of treatment, autonomy governs. Deciding which principle
+governs *in this case* is the act of judgement the course is teaching, and it cannot be reduced to a rule
+without producing the very rigidity deontology is criticised for.
+
+### 1.2b Ethics of care: the tradition family therapy should own
+
+Family therapy is, almost alone among the mental health professions, built on a relational ontology. It is
+therefore strange that its ethics are usually imported from a tradition built on isolated choosers. This
+section states the alternative, because it is the one that fits the work.
+
+**The relational claim.** The ethics of care, developed by Gilligan, Noddings, Tronto and others, holds that
+moral life is constituted by relationships of dependence and response rather than by transactions between
+independent agents. Three consequences follow.
+
+**First, responsiveness is a moral skill.** The question "what does this person need from me, here, now?" is
+not a softer version of "what is the rule?" It is a different and equally rigorous question, and it requires
+attention — the capacity to notice what is actually happening rather than what the category predicts. A
+clinician who has not developed attention will apply the right rule to the wrong situation.
+
+**Second, dependence is normal.** Every client in your room is dependent on someone, and most are dependent
+on people who are also in the room. The tradition therefore refuses the picture of the autonomous chooser as
+the ethical ideal: a grandmother with dementia, a nine-year-old, a woman who cannot leave — none of them is
+a defective version of an independent adult. Each has claims that arise from their relationships.
+
+**Third, power is the central ethical fact.** Care is not symmetrical. The person giving care has power, and
+the ethics of care requires that the power be used responsively rather than according to the carer's
+preferences. This is why the tradition is useful in family work: the therapist's power is enormous and
+largely invisible, and a principles-only analysis gives almost no account of it.
+
+**The critique, which the tradition must answer.** Care ethics can justify almost anything in the name of the
+relationship. It has been used to keep women in caring roles, to excuse clinicians who will not end a
+treatment, and to defend a therapist's attachment to a family that has outgrown the therapy. Noddings's own
+answer is that caring must be *received* — the cared-for must experience it as care — which is a testable
+condition, and it is the version this course uses. "I did it because I cared" is not an ethical justification
+unless the person cared for can say that they were cared for.
+
+**The clinical use, in three questions.** Whose need is being met by this decision — theirs or mine? Who in
+this family is dependent on whom, and is the dependence being used or served? And what would the person with
+least power in this room say if they were asked, in a language they had, with nobody watching?
+
+### 1.3 The decision model: seven steps
+
+The course uses one model all term, so that the incident analyses and the examination are comparable. It is
+deliberately pedestrian. Its value is not that it produces the right answer but that it makes the reasoning
+visible, which is what supervision, a court, and a professional body will all ask for.
+
+**Step 1 — State the ethical question, not the practical one.** "What should I do about the husband's
+telephone call?" is practical. "Whose confidence am I holding, and to whom do I owe what?" is ethical. Most
+hard cases are hard because the ethical question has never been stated.
+
+**Step 2 — Establish the facts.** What is actually known, by whom, and how. This step takes longer than
+students expect and prevents most errors: a great many ethical dilemmas dissolve when the facts are
+established (the husband already knew; the wife had said she would tell him; the child is not the father's).
+
+**Step 3 — Identify the parties and their interests.** Every person affected, including the absent ones and
+the institution. Name the interests, not the positions. Then ask which party has least power to protect
+their own interest.
+
+**Step 4 — Apply the frameworks.** All five traditions and all four principles, briefly, and record where
+they disagree. The disagreement is the case's real content.
+
+**Step 5 — Consult.** The code, the law, the agency policy, a supervisor, and — where appropriate and
+possible — the client. Consultation is not a step for difficult cases; it is a step for any case in which
+the clinician notices they have a preference.
+
+**Step 6 — Decide, act, and record the reasoning.** The decision, the reasons, the alternatives rejected and
+why. In a record, because the record is the only evidence that a decision was made rather than a drift.
+
+**Step 7 — Review.** What happened; whether the prediction held; what would be done differently. The step
+that nobody does, and the only one that produces learning.
+
+### 1.3a Moral distress, moral injury, and the difference that matters
+
+Two terms that are used loosely in the literature and that name different things. A clinician who cannot
+tell them apart will misdiagnose their own state, and will look for the wrong remedy.
+
+**Moral distress** is what happens when you know what the right action is and you are prevented from doing
+it. Its classic form is institutional: the clinician who knows a child should be referred and cannot get an
+appointment; who knows a family needs an interpreter and is not given one; who is required by an agency to
+keep a number of sessions that the work does not need. The distress is not confusion about the good. It is
+the experience of being unable to enact it.
+
+The remedy for moral distress is structural, not psychological. It consists of changing the condition, or
+of naming it collectively, or of leaving. What does not work — and what is usually offered — is resilience
+training, which asks the clinician to feel better about an arrangement they are right to object to.
+
+**Moral injury** is different and more serious. It names the lasting harm that follows acting against one's
+own moral commitments, or witnessing such an act and being unable to prevent it. The term comes from
+military psychiatry and it travels well into clinical settings, because clinicians do commit acts they
+believe to be wrong under constraint: a disclosure that produces a reprisal, a report that ends a family's
+engagement, a court report written in language the clinician knows to be misleading. The sequelae are not
+anxiety or burnout; they are shame, a changed sense of self, and a withdrawal from the aspects of the work
+that once mattered.
+
+**The distinction, in one line.** Moral distress is "I could not do what I should". Moral injury is "I did
+what I should not, or I stood by while it was done".
+
+**What follows clinically.** For distress: audit the condition, escalate, and use supervision to keep the
+judgement intact. For injury: supervision is necessary and insufficient; the remedy involves naming the act,
+restoring the moral account (which sometimes means an apology to the family), and in some cases a change of
+setting. A trainee who has been required to write a report they believe false needs a supervisor who will
+say that it was wrong, not one who explains the agency's constraints.
+
+**The course's position.** A significant proportion of what is called burnout in this profession is moral
+distress that has been individualised. The remedy is not more self-care. It is a decision model that makes
+the reasoning visible, a supervisor who will disagree, and a professional identity that can survive being in
+the minority in a room.
+
+### 1.4 The trolley, in a clinic
+
+The trolley problem is a thought experiment about whether it is permissible to harm one person in order to
+save several. It is useful here not because clinicians face trolleys but because the structure of the problem
+— *may I redirect a harm toward someone who did not choose it?* — is the structure of half the hard cases in
+family work.
+
+**Variant 1 — The disclosure.** A wife tells the therapist, in an individual session, that her husband has
+been physically violent twice. She does not want him told. The couple is in therapy together. The therapist
+can: say nothing and continue couple work (harm: the wife is unprotected and the therapy is built on a
+secret); disclose to the husband (harm: the wife loses her confidentiality and may be at greater risk); or
+stop the couple work and see the wife alone (harm: the couple loses the treatment). *Redirection:* every
+option pushes harm onto someone who did not choose it. The wife did not choose to lose her confidence; the
+husband did not choose to be discussed; the children did not choose any of it.
+
+**Variant 2 — The paternity.** A father asks whether the child is his. The mother knows the answer. The
+therapist knows because the mother told her. Nothing the therapist does is neutral: silence is a lie by
+omission to the father; disclosure is a breach to the mother; ending the therapy is a harm to the child.
+
+**Variant 3 — The adolescent's risk.** A fifteen-year-old discloses self-harm and asks the therapist not to
+tell her parents. Disclosing may end the therapeutic relationship; not disclosing may leave her alone with a
+risk. *This is the variant that most resembles the trolley*, because the clinician is choosing which of two
+identifiable people will bear the harm.
+
+**Why the thought experiment is worth the time.** Because it trains three things. First, the recognition that
+*someone will be harmed in every option*, which dissolves the fantasy of the harm-free decision and with it a
+great deal of paralysis. Second, the discipline of naming who bears the harm, which is the justice question.
+Third, the habit of asking whether the harm is being *redirected onto someone who did not choose it* — and
+if it is, whether that person's consent could be obtained, which is frequently the move that converts an
+impossible case into a workable one.
+
+> **PRACTICAL** — Take three ethical dilemmas from your own life, not clinical ones. For each, identify which
+> tradition you used at the time, and which you used to justify it afterwards. Then answer one question:
+> were they the same? Most students find that the tradition they acted on was care or virtue, and the
+> tradition they justified with was consequence. Write down what that gap suggests about how you will
+> account for your decisions in a clinical record.
+
+### 1.5 Case: the telephone call from the father
+
+The case from the lecture, worked through the seven steps. This is the model the incident analyses follow.
+
+**The facts.** The Okonkwos — Ada, 34, Chuka, 39, Ebuka, 9 — have been in couple therapy for six weeks.
+In her third individual session, Ada disclosed that Chuka's night shifts have resumed and that she is
+"managing everything alone", and that she has begun to think about taking the children to her mother's in
+Lagos. She has not told Chuka. She asked the therapist not to tell him. On Thursday, Chuka telephones: "I
+want to know what she said on Tuesday."
+
+**Step 1 — The ethical question.** Not "what do I say to Chuka?" but: *I am holding a confidence from one
+member of a couple I am treating jointly; to whom do I owe what, and how do I honour the couple's treatment
+without deceiving either of them?*
+
+**Step 2 — The facts.** What does Chuka actually know? (He knows the sessions exist; he does not know what
+was said. He has noticed she is distant.) What has Ada been told about the confidentiality arrangement? (At
+the start of therapy the therapist said, in front of both, that individual disclosures would be handled by
+agreement — a sentence Ada may or may not have understood as a promise.) Is there a risk to anyone? (No
+violence; no risk to the children; a risk of family separation if the decision is taken unilaterally.) What
+is the therapist's contractual position? (The clinic's policy: no information from an individual session is
+disclosed without the individual's agreement, except in the specified exceptions.)
+
+**Step 3 — The parties and their interests.** Ada: to have a place where she can think without consequences,
+and to be supported in a decision she has not made. Chuka: to know what is happening in his marriage, and
+not to be humiliated by a therapist who knows more than he does. The children: continuity and the marriage's
+stability. The therapist: to keep the treatment viable and to remain honest. The clinic: its policy. *Least
+power:* Ada, because she has already been described by her husband to the therapist as "difficult", and
+because she is the one whose confidence is at stake.
+
+**Step 4 — The frameworks.** *Deontology:* the confidence holds; the clinic's rule is explicit. *Consequence:*
+refusing Chuka may end his engagement with the therapy, and his engagement is what has kept the family in the
+room. *Virtue:* what would a clinician of good character do — and would she be able to say it to both of them
+in the same room? *Care:* Ada needs a place to think; Chuka needs not to be excluded; the couple needs an
+arrangement that holds. *Justice:* the person with least power must not be the one who bears the cost of the
+therapist's convenience.
+
+**Step 5 — Consultation.** The clinic's written policy; a supervisor, by telephone the same day; and Ada
+herself, before anything is said to Chuka.
+
+**Step 6 — The decision.** The therapist does not disclose content. She says to Chuka: "I cannot tell you what
+your wife said, and I want to be straight with you about why: if either of you cannot use an individual
+session to think out loud, this therapy will not work. What I can do is ask her whether she is willing to
+talk to you about the thing that is on her mind, with me in the room." She then telephones Ada, tells her
+exactly what was said and what was not, and asks whether she will raise it in the joint session. Ada says
+she will, on one condition: that the therapist opens the session, so that she is not the one who starts it.
+
+**Step 7 — The review.** At the next joint session, Ada raises the question of Lagos. Chuka is angry and
+then frightened. The disclosure does not end the therapy; the *manner* of it — preceded by a week in which
+Ada had chosen to make it — is what keeps the therapy alive.
+
+**What made the difference.** Two things, and neither is a principle. The first is that the therapist
+consulted *before* answering, which is what converted a trap into a process. The second is that she told Ada
+exactly what she had said to Chuka, which is the practice — not the rule — that keeps a multiperson therapy
+honest. Neither is in any code. Both are what an experienced clinician does.
+
+### 1.5a The four questions that stop a decision going wrong
+
+Before the seven steps, four questions that an experienced clinician asks almost automatically, and that a
+trainee can be taught to ask deliberately. They take ninety seconds and they catch the majority of errors.
+
+**Question 1 — Who is not in this conversation?** The absent person is usually the one who will bear the
+cost. A decision about a child made without the child; a decision about a marriage made without the husband;
+a decision about a placement made without the person who will be moved. Naming the absent party does not
+always mean convening them; it means accounting for them in the reasoning.
+
+**Question 2 — Whose interest does my preferred option serve?** Asked honestly, this question is
+uncomfortable, which is why it is asked *before* the decision rather than after. The clinician who wants to
+disclose a secret is frequently protecting themselves from the discomfort of holding it. The clinician who
+wants to keep it is frequently protecting the therapy they have built.
+
+**Question 3 — What would I do if the person with least power were the one I had to explain this to?** The
+test is a version of the publicity test: a decision that cannot be explained to the person most affected by
+it is a decision that needs re-examining. The explanation does not have to be acceptable to them; it has to
+be *possible*.
+
+**Question 4 — What would I write in the record?** If the sentence that would have to go in the file reads
+badly, the decision is bad — not because records are read, but because writing forces the reasoning into
+plain language, and plain language is unforgiving of self-deception. This is the cheapest ethical instrument
+in the book and the one most likely to change a decision in the thirty seconds before it is taken.
+
+### 1.6 Transcript: the call, annotated
+
+Eleven turns, reconstructed from a supervision recording. The therapist is a trainee, four months into
+placement. The annotation names the tradition governing each move, which is the discipline the week is
+teaching.
+
+> **T1 Chuka:** I want to know what she said on Tuesday. I am her husband. I am paying for this.
+> — *Two claims, both true in his frame: a status claim and a contract claim. Neither is answered by
+> silence, which he will read as confirmation that something is being hidden.*
+>
+> **T2 Therapist:** You are her husband and you are paying, and both of those are reasons I should be
+> straight with you rather than avoid you. — *The move: concede the true parts before refusing anything.
+> Deontological in form, care in tone.*
+>
+> **T3 Chuka:** Then tell me.
+>
+> **T4 Therapist:** I am not going to tell you what she said. I want to say why, and I want you to hear that
+> it is not because she has said something terrible about you. — *The disclosure of the rule, and the
+> pre-emptive denial of the catastrophic reading. Without the second sentence, the first produces exactly
+> the fantasy the therapist is trying to prevent.*
+>
+> **T5 Chuka:** Then she has said something.
+>
+> **T6 Therapist:** She has said something she is not ready to say to you, and I have said I will not say it
+> for her. If I break that, neither of you can use a session to think. You would be sitting in that chair
+> wondering what I am writing down. — *The justification is consequentialist, and it is chosen deliberately:
+> the deontological version ("it is the rule") is true and it lands as bureaucracy. The consequentialist
+> version gives him a reason he can use.*
+>
+> **T7 Chuka:** *(long pause)* So what do I do?
+> — *The question that tells the therapist the refusal has been accepted. Note that it took four turns, not
+> one, and that a therapist who stopped talking after T4 would not have got here.*
+>
+> **T8 Therapist:** Two things. I will ask her whether she is willing to bring it into the room with both of
+> you, and I will tell you what she says either way. And in the meantime, I want to know what you have
+> noticed at home, because you have noticed something or you would not be telephoning me. — *The offer of a
+> next step, and the redirection of his energy from a demand for information to an account of his own
+> observation. This is the turn that keeps him in the therapy.*
+>
+> **T9 Chuka:** She is packing. I saw a bag.
+> — *The fact the therapist did not have. The husband is not asking for gossip; he is frightened, and the
+> therapist's rule has, until this moment, kept her from knowing why.*
+>
+> **T10 Therapist:** *(pause)* Thank you. That is important, and I would not have known it if you had not
+> telephoned. — *The acknowledgement is accurate, and it is also the repair: his call has produced something
+> of value rather than only a refusal.*
+>
+> **T11 Chuka:** What do I do about the bag?
+>
+> **T12 Therapist:** Nothing yet, and not nothing forever. Give me until tomorrow to speak to her, and I will
+> telephone you. If she will not talk to you by Friday, I will tell you that too, and we will decide then
+> what the three of us do. — *A time limit, a commitment, and a fallback. The deontological refusal has been
+> turned into a process with dates, which is what makes it survivable for a frightened man.*
+
+**What the transcript shows that the model does not.** The seven-step model produces the decision; the
+transcript produces the *sequence*, and the sequence is where the skill lives. Three things in particular.
+First, the therapist never says "I understand your concern" — she demonstrates it by conceding the true
+parts. Second, she offers a *reason* rather than a *rule*, and the reason is chosen for the listener. Third,
+she ends with a date, which converts a refusal into a relationship.
+
+### 1.6a Bad arguments, named
+
+Students lose marks, and clinicians lose cases, by using one of six arguments that sound ethical and are not.
+Naming them makes them visible.
+
+**"It is my duty."** Sometimes true. More often a rule is being used to end a conversation the clinician does
+not want to have. The test: can you state the duty, its source, and the harm it is preventing?
+
+**"It is for their own good."** The paternalist's sentence. It may be correct; it is never sufficient. The
+test: who decided what their good is, and were they asked?
+
+**"Everyone does it."** A statement about a norm, not about an obligation. The test: is the practice defensible
+or merely common?
+
+**"It will damage the therapy."** Frequently true and frequently the clinician's own convenience in
+therapeutic clothing. The test: whose therapy, and what is the damage measured against?
+
+**"I had no choice."** Almost never accurate. There is usually a choice with a cost, and the honest statement
+names the cost rather than denying the choice.
+
+**"I was following the policy."** The defence that fails at every professional tribunal, because the
+professional's obligation is to exercise judgement about the policy, not to be its instrument.
+
+**The exercise.** In the laboratory, students are given six anonymised sentences from real disciplinary
+findings and asked which of the six arguments each one is. The recognition is fast, and it transfers: once a
+clinician can hear the shape of the bad argument, they can hear it in their own mouth.
+
+### 1.7 Laboratory: the ethics incident analysis
+
+**Aim.** To produce a 600-word incident analysis that a supervisor, a professional body, or a court could read
+and follow. This is the format of the four assessed pieces of coursework.
+
+**Procedure.** Students bring a real or witnessed incident (anonymised), or use one of the four briefs the
+trainer supplies. They write the analysis in the session, in fifty minutes, against the seven steps, and then
+exchange with a partner who marks it against the rubric. The last twenty minutes is the plenary, in which two
+analyses are read aloud and the class identifies which step each one skipped.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The question** | A practical question | Ethical but vague | Ethical, specific, and the practical question is explicitly set aside |
+| **The facts** | Assumed | Listed, but no account of what is unknown | Established, with what is unknown named and how it would be established |
+| **The parties** | Client and therapist | All present parties | All parties including absent ones and the institution, with the least powerful identified |
+| **The frameworks** | One tradition, unnamed | Two traditions, named | Four or five, applied briefly, with the disagreement between them stated |
+| **The decision** | A preference | A decision with reasons | A decision, the rejected alternatives, and the review |
+
+**The distinction that carries most of the marks.** The top band requires the student to state *where the
+frameworks disagree*. A paper that applies five frameworks and finds they all point the same way has either
+misapplied them or chosen a case that is not an ethical dilemma; and a paper that applies one framework and
+calls it the answer has written an opinion rather than an analysis.
+
+**The four briefs.**
+
+*Brief A.* A couple's sixteen-year-old daughter asks to see you individually, and says she does not want her
+parents to know. The parents are your clients and are paying.
+
+*Brief B.* A colleague tells you, at lunch, that a family you both know is "probably abusive" and that he has
+not reported it because "there is no evidence".
+
+*Brief C.* A family offers you a substantial gift at the end of therapy. You know the family cannot easily
+afford it.
+
+*Brief D.* You are asked by a court to produce a report on custody, and you have been treating the mother for
+a year. The fee is three times your usual rate.
+
+### 1.8 Six errors
+
+**Error 1 — Confusing the rule with the reason.** "Because the code says so" is a true statement and, said
+to a frightened husband, it is heard as evasion. The code is the floor of the reasoning, not its content; a
+clinician who cannot give a reason a family can understand has not yet understood the rule.
+
+**Error 2 — Applying individual ethics to a multiperson system.** Almost every professional code is written
+for two parties. Applied unchanged to a couple or a family, it produces a therapist who is scrupulously
+confidential with one member and quietly deceptive to the other, and who believes they have been ethical
+because they have followed the rule.
+
+**Error 3 — Calculating consequences in your own favour.** Consequentialist reasoning is the most useful and
+the most corruptible. The test is whether the calculation was made before or after the therapist noticed
+what they wanted to do.
+
+**Error 4 — Virtue ethics as a substitute for method.** "I would know" is not a decision procedure, and the
+clinician who most trusts their own character is least likely to notice its defects. Virtue needs
+supervision the way a knife needs a stone.
+
+**Error 5 — Care as an alibi.** "I did it because I cared" has justified more boundary violations than
+cynicism ever has. The test is Noddings's: was it *received* as care by the person cared for?
+
+**Error 6 — Treating moral distress as a personal failing.** The clinician who cannot get a child an
+appointment, and who concludes that they are not resilient, has misdiagnosed a structural problem as a
+character flaw. The remedy is escalation, not self-care.
+
+### 1.9 Culture, faith and the moral framework
+
+**Three moral worlds in one room.** The family's moral framework, the profession's, and the clinician's own
+are frequently three different systems, and the clinician's is the one least likely to be named. In the
+households this book is written for, the operative framework is often not any of the five Western traditions
+but a religious or communal one: duties are owed to a lineage rather than to an individual; the family's
+reputation is a moral good in its own right; elder authority is not negotiable by argument; and shame, rather
+than guilt, is the mechanism by which wrongdoing is registered.
+
+**What that changes about the four principles.** Autonomy in the individualist sense is not the organising
+value in many of these households, and a clinician who treats its absence as a deficit will misread
+deference as incapacity and consultation as inefficiency. The workable translation is not to abandon
+autonomy but to ask the family's version of the question: *who in this family has the standing to decide,
+and does the person most affected have a route to be heard?* That question travels across frameworks, and it
+is answerable in any of them.
+
+**Shame, guilt and the ethics of disclosure.** In a guilt-oriented framework, wrongdoing is registered by the
+individual's conscience and confession is restorative. In a shame-oriented framework, wrongdoing is
+registered by the community's judgement and disclosure may be catastrophic for the whole household. This is
+not a reason to keep a secret that must be told; it is a reason to plan *how* it is told, with whom, and in
+whose presence, which is a clinical skill and not a concession.
+
+**Faith as a moral authority in the room.** A pastor, an imam, or an elder may hold the authority that the
+clinician's code does not. Where that is so, the code is not the only source of moral authority in the case
+and pretending otherwise produces a clinician who is right and useless. The moves that work are the ones from
+Week 13 of MFT 703: join the framework, add a mechanism, and hold one non-negotiable.
+
+> **DEBATE** — "A therapist should never act against a competent adult client's stated wish, whatever the
+> consequences." Argue for: the client's authority over their own life is the foundation of the profession,
+> paternalism has a long and cruel history, and a clinician who overrides once will override again. Argue
+> against: competence is not a switch, adults are frequently pressed by people with more power than they
+> have, and a clinician who watches a foreseeable death without acting has chosen an abstraction over a
+> person. Then state your actual rule, and the case in which you would break it — because every clinician
+> eventually meets that case, and the ones who have never thought about it are the ones who improvise badly.
+
+### 1.10 Evidence note
+
+**What the research supports.** The four-principles framework is the most widely used analytic structure in
+clinical ethics teaching, and studies of ethics education consistently find that structured decision models
+improve the *consistency* and *documentation* of ethical reasoning, though not necessarily the quality of the
+decisions. The finding that moral distress is prevalent in mental health work, and that it is associated with
+intention to leave rather than with clinical incompetence, is well replicated. The association between
+reflective supervision and improved ethical reasoning is modest but consistent.
+
+**What is weaker.** Almost everything about *outcomes*. There is no body of evidence showing that clinicians
+trained in one tradition make better decisions than clinicians trained in another, and the field's outcome
+measures are self-report and vignette-based. The literature on moral injury in mental health professions is
+recent and largely qualitative, mostly borrowed from military and nursing research.
+
+**What is not supported.** That codes prevent misconduct — the disciplinary literature consistently finds that
+violations are committed by clinicians who know the code. That ethics can be taught as compliance —
+knowledge of rules is necessary and has never been sufficient. And that ethical reasoning is a stable trait;
+it is a practice, and it degrades under workload and isolation, which is why consultation is a structural
+protection rather than a courtesy.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* A clinician with excellent ethical reasoning at nine in the morning, with
+a supervisor available, is a different decision-maker from the same clinician at seven in the evening with a
+waiting room full of people. The variables that most reliably predict ethical failure are not moral but
+situational: fatigue, isolation, and speed.
+
+### 1.10a What the codes do not cover
+
+A short section with a long consequence. The professional codes are necessary and they are not a complete
+account of the moral life of a clinician, and the gap is where most of the difficulty lives.
+
+**The codes address conduct, not character.** They say what may not be done; they say almost nothing about
+what kind of clinician to be. The virtues that matter most in this work — patience with a family that
+returns for the eleventh time with the same problem, courage in a case conference where the consultant is
+wrong, humility in front of a grandmother who has raised six children — are not in any code and are not
+enforceable. They are formed by supervision, by example, and by the company a clinician keeps.
+
+**The codes are written for individuals.** Confidentiality, consent and competence are all framed around a
+single client and a single clinician. Multiperson work, which is the whole of this course, is covered by
+adaptations rather than by the codes' own logic. The clinician who follows the code precisely in a family
+case may still be unjust, because the code has no category for the second client.
+
+**The codes are jurisdiction-bound.** Every code is written against a legal background that differs by
+country and, in federal systems, by state. Statements about reporting obligations, minors' consent, and
+record retention that are correct in one jurisdiction are wrong in another. This book states principles and
+flags where the law must be checked locally, which is a permanent obligation rather than a limitation of
+this text.
+
+**The codes lag.** Reproductive technology, digital records, online therapy, social media contact with
+clients, and cross-border tele-therapy are all areas in which practice has outrun guidance. A clinician
+working at the edge is making policy by their conduct, and the obligation that follows is to be able to
+defend the reasoning, not to be able to point at a rule that does not exist.
+
+### 1.11 Key terms
+
+**Deontology** — the ethics of duty; the right action follows from a rule or obligation regardless of
+consequence.
+
+**Consequentialism** — the ethics of outcome; the right action is the one that produces the best overall
+result.
+
+**Virtue ethics** — the ethics of character; the question is what a person of good character would do, and
+how such a person is formed.
+
+**Ethics of care** — the ethics of relationship and responsiveness; moral life is constituted by dependence
+and response rather than by transactions between independent agents.
+
+**Justice** — fairness in the distribution of benefits, risks and resources; in family work, the question of
+whose voice is heard and who bears the cost.
+
+**Autonomy** — the client's right to decide what happens to them, grounded in their capacity to do so.
+
+**Beneficence** — the duty to act in the client's interest.
+
+**Non-maleficence** — the duty not to cause harm, including the harms of one's own intervention.
+
+**Moral distress** — knowing the right action and being prevented from taking it.
+
+**Moral injury** — lasting harm following an act against one's moral commitments, or witnessing one.
+
+**Paternalism** — overriding a person's wishes for their own good.
+
+**Relational ethics** — the position that obligations arise from relationships and their power asymmetries,
+not only from rules or outcomes.
+
+### 1.12 Self-test
+
+1. Name the five traditions and state the characteristic failure of each.
+2. How do the four principles collide in a case involving a seventeen-year-old's confidentiality, and which
+   one governs? Defend your answer.
+3. What is the difference between moral distress and moral injury, and why does the remedy differ?
+4. In the Okonkwo case, what two practices — neither of them in a code — kept the therapy alive?
+5. Why does the lecture insist that "because the code says so" is an inadequate answer to a family?
+6. What does the ethics of care add to a principles-based analysis, and what is its characteristic
+   corruption?
+7. What is the test for whether an act of care was really care?
+8. Give the seven steps of the decision model, and say which one students most often skip.
+
+**Answers.** *(1)* Deontology — rigidity; consequentialism — self-serving calculation and blindness to the
+unrepresented; virtue — vagueness and self-congratulation; care — it can justify anything in the name of the
+relationship; justice — abstraction, analysing structures while being unjust to the person present. *(2)*
+Autonomy supports her confidence; beneficence may support disclosure as protection; non-maleficence warns that
+disclosure may produce the beating she fears; justice notes that she bears the consequence and her parents
+hold legal authority. Which governs depends on the assessed risk: in the absence of danger, autonomy and
+non-maleficence together; where there is danger, non-maleficence governs and the disclosure is planned with
+her rather than about her. *(3)* Distress is being unable to do what you believe right, and is remedied
+structurally; injury is having acted against your commitments, and requires naming, repair and sometimes a
+change of setting. *(4)* Consulting before answering, and telling Ada exactly what had been said to Chuka.
+*(5)* Because the code is the floor of the reasoning, not its content; a family cannot use a rule they cannot
+understand, and a clinician who offers only the rule is heard as evasive and hides something in doing so.
+*(6)* It adds attention, dependence and power; its corruption is that it can justify almost anything as
+care. *(7)* Noddings's test: the cared-for must be able to say they were cared for. *(8)* State the ethical
+question; establish the facts; identify parties and interests; apply the frameworks; consult; decide, act and
+record; review — the review is the step most often skipped.
+
+### 1.13 Reflective task
+
+Write down the last time you did something you believed to be wrong because you were required to. Do not
+write about the ethics of the requirement; write about what you did, in one paragraph, in plain words. Then
+answer three questions: who else knew? what did you tell yourself at the time? and what would have had to be
+available for you to have acted differently? Most students find the answer to the third question is
+concrete — a supervisor, an hour, a policy, one other person who agreed — which is the argument for
+structures rather than for character.
+
+### 1.14 Further reading
+
+- Beauchamp, T. and Childress, J. *Principles of Biomedical Ethics* — the four-principles framework, and its
+  critics' best answers.
+- Gilligan, C. *In a Different Voice* — the origin of the care critique, best read with its reception.
+- Noddings, N. *Caring* — the relational account, and the reception test used above.
+- MacIntyre, A. *After Virtue* — the strongest case that rules without a tradition of practice are empty.
+- Jameton, A. on moral distress — the original nursing account, which transfers cleanly to this work.
+
+*Next: Week 2 — The codes and informed consent.*
 
 ---
 
