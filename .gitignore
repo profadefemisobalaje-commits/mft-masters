@@ -4,3 +4,4 @@ __pycache__/
 node_modules/
 .build/
 MFT-All-28-Course-PDFs.zip
+.venv/
