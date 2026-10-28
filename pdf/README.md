@@ -2,7 +2,7 @@
 
 One print-ready PDF per course book, plus the whole library bound into a single bookmarked file. These are the final files: fixed A4 pages, cover, imprint, contents with real page numbers, running heads, folios, embedded figures and PDF bookmarks — no reader, browser or build step required.
 
-**28 course books · 447 pages · 40 figures · A4 · fonts embedded.**
+**28 course books · 1,186 pages · 40 figures · A4 · fonts embedded.**
 
 **→ [Open the cover gallery](index.html)** — every course as a clickable cover, or jump straight to a
 PDF from the table below. All 28 course files in one download:
