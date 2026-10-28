@@ -2877,26 +2877,663 @@ the feeling.
 
 ---
 
-## Week 5 — Secrets II: infidelity, paternity, HIV status
+## Week 5 — Secrets II: infidelity, paternity and HIV status
 
-Three cases that appear in every couple therapist's career, each with a different legal overlay.
+**Learning outcomes.** By the end of this week the student can (1) conduct the first four sessions after the
+discovery of an affair without either minimising the betrayal or treating the marriage as finished; (2) sequence
+the clinical and legal tasks when paternity is in question; (3) identify the jurisdiction's rule on disclosure of
+a communicable condition and follow the correct pathway where a partner is at risk; (4) decide, with reasons,
+whether the affair partner's spouse should be told; and (5) document all three in a form that would survive a
+regulator's reading.
 
-**Infidelity.** Not a reportable act. The clinical tasks: stop the bleeding, contain the disclosure,
-assess for sexually transmitted infection risk, address the meaning of the affair (not only its fact), and
-decide with the couple whether disclosure to a third party (the affair partner's spouse) is required.
-That last question is a values question with safety implications; consult.
+### Three secrets, three legal overlays
 
-**Paternity.** A man may discover that a child he is raising is not biologically his. The therapist must
-not conceal information that affects a child's welfare, must not give legal advice, and must help the
-family decide who needs to know and in what sequence. Refer for legal advice on paternity, maintenance and
-custody; the emotional work is yours.
+Week 4 dealt with the individual secret in general. This week deals with three specific secrets that arrive with
+predictable regularity and that each carry a legal overlay the therapist must recognise — not to practise law,
+but to know when to stop and refer.
 
-**HIV and other communicable conditions.** Confidentiality is strong, but public-health law may create
-duties where a partner is at identifiable risk and the client refuses disclosure. Know your jurisdiction's
-rule, consult, and document. Never disclose without advice.
+| Secret | Clinical task | Legal overlay | Who else is exposed |
+|---|---|---|---|
+| **Infidelity** | Contain the disclosure; treat the betrayal; rebuild or end | Not an offence in most jurisdictions; relevant to divorce, custody and maintenance | The affair partner, and the affair partner's spouse |
+| **Paternity** | Support the family through a factual discovery with enormous relational meaning | Presumption of paternity, maintenance, custody, registration of birth, the child's rights | The child, the presumed father, the biological father, both extended families |
+| **HIV and communicable disease** | Support disclosure; treat the fear, the shame and the couple's sexual negotiation | Public-health law; in some jurisdictions a criminal offence to transmit or to expose knowingly | The partner, and any previous or subsequent partner |
 
-> **DEBATE** — "A therapist who keeps an affair secret for six months is colluding in the harm the affair
-> causes." Argue for and against, then write your own policy in 200 words.
+The three are grouped because they share a structure: an **established fact**, a **person who does not know it**,
+and a **third party who may be harmed by the continuing silence**. Week 3's policy governs how the therapist
+holds the secret; this week governs what the therapist does with it.
+
+**The first thing to establish, always, is jurisdiction.** The single most common ethical error in this week's
+material is a therapist applying a rule learned in one country to a family in another. On paternity, the
+presumption of legitimacy and the rules on registration differ substantially. On HIV, some jurisdictions impose a
+duty to disclose to an identifiable partner, some impose a duty to warn a public health authority, some
+criminalise non-disclosure, and some do none of these. On infidelity, adultery remains a criminal offence in a
+number of jurisdictions and is a ground for divorce in most. The therapist's obligation is to know the local rule
+for the three cases, to have checked it within the past year, and to have it in writing in the practice manual —
+not to reconstruct it from memory in a session.
+
+**The second thing is to know what the therapist does not do.** She does not advise on divorce, on custody, on
+maintenance, on the registration of a birth, or on whether a client should be tested. She does not tell a client
+what the law requires of *the client* — that is legal advice, and where the stakes are this high it must come
+from a lawyer. She may say what her own duties are, because those are her duties and the client is entitled to
+know them. The distinction is clean and it is frequently blurred by therapists who have read one article.
+
+### 5.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–8 | The three secrets and the common structure | Board diagram: fact, unknowing person, exposed third party |
+| 8–20 | Five concepts: betrayal trauma, the disclosure scene, the legal overlay, exposure, the third party's claim | Lecture |
+| 20–38 | Infidelity: the four-session protocol | Demonstration, then pairs on the opening sentence |
+| 38–52 | Paternity: the sequence, and where the therapist stops | Case vignette, students write the referral question |
+| 52–66 | HIV: jurisdiction, pathway, and the safe disclosure plan | Local rule quiz; group mapping of the disclosure pathway |
+| 66–76 | The Adegoke case and the disclosure session | Case presentation with students as the couple |
+| 76–86 | Six errors; the documentation | Short lecture |
+| 86–90 | Closing question: whose secret is it? | Written answer, collected |
+
+### 5.2 Five concepts that organise the week
+
+**Concept 1 — Betrayal trauma is a trauma, and it is not a metaphor.** The discovery of an affair produces a
+response with the signature of traumatic stress: intrusive images, hypervigilance to cues, avoidance, sleep
+disruption, and a compulsive need for detail. This matters clinically because the therapist who treats the
+discovery as an understandable upset will under-treat it. The partner who has just found out is not merely
+angry; she is in an acute stress response, and the first task is stabilisation rather than communication
+training.
+
+**Concept 2 — The disclosure scene is the treatment's foundation, and it happens once.** The first conversation
+in which the affair is discussed will be remembered verbatim by both partners for years. What is said, whether
+the details are given, whether the affair partner is named, and whether the therapist is present or absent
+determines the shape of everything that follows. The therapist therefore prepares this conversation as carefully
+as any intervention in the book.
+
+**Concept 3 — The legal overlay changes what can be promised.** A therapist who promises a client that nothing
+said in the room will reach a court has made a promise she may not be able to keep, because records can be
+subpoenaed and because in some jurisdictions the therapist's notes are discoverable in custody proceedings. The
+correct formulation, given at the start: "what we say here is confidential, and there are limits — one of them
+is that a court can compel records. If that ever happens, I will tell you and I will fight for as much
+confidentiality as the law allows." (Week 11 develops this.)
+
+**Concept 4 — Exposure is the therapist's signature question.** Not "what should the client do?" but "who is
+exposed by the continuation of this silence, and how serious is the exposure?" An undisclosed affair exposes the
+affair partner's spouse to the same betrayal and, if there is any sexual contact outside the primary
+relationship, to infection. An undisclosed paternity exposes a child to a factual discovery later, at an age
+when it is more damaging. An undisclosed HIV status exposes a partner to infection. The seriousness of the
+exposure determines how much urgency the therapist brings.
+
+**Concept 5 — The third party has no claim on the therapy and a real claim on the truth.** The affair partner's
+spouse is not a client, has no right to the file, and cannot be contacted by the therapist without the
+therapist's own breach of confidence. She also has a genuine moral claim to information that affects her
+marriage and her health. The two facts are both true, and the therapist must hold them without resolving the
+tension by pretending one is absent.
+
+### 5.2a Infidelity: the four-session protocol
+
+**Session one — stabilise, do not adjudicate.**
+
+- Both partners are seen, usually separately first, for twenty minutes each, then together briefly.
+- The injured partner is assessed for acute stress: sleep, intrusiveness, functioning, and suicidal ideation,
+  which is not rare after discovery.
+- The involved partner is assessed for the character of the affair: how long, how often, whether it is ongoing,
+  whether there is a pregnancy, whether money has moved, and whether the affair partner is threatening
+  disclosure.
+- The therapist does not ask "why did you do this?" in session one. The question invites a defence that then has
+  to be dismantled, and it is the wrong question at the wrong moment.
+- The therapist states the frame: no decisions about the marriage for six weeks; individual sessions permitted,
+  with Week 3's policy; and the disclosure conversation will be structured, not improvised.
+
+**Session two — the disclosure scene.**
+
+Structure it as five questions, answered by the involved partner, in this order, with the therapist controlling
+pace:
+
+1. *What happened?* The facts, in outline — when it began, when it ended, how often. Not sexual detail.
+2. *Who knows?* Including the affair partner's spouse, and any friend who has been told.
+3. *What did you tell me about it?* The lies told to the injured partner during the affair, named specifically.
+   This is the part that is hardest for the involved partner and the most necessary for the injured one, because
+   the injured partner's injury is not only the sex; it is the deception she participated in unknowingly.
+4. *What are you going to do now?* Continuation, ending, disclosure of the affair to the affair partner's spouse,
+   and the practical steps — the message sent, the block, the change of arrangements.
+5. *What do you need from me?* Addressed to the injured partner; the answer is usually "I need it to stop", and
+   frequently "I need to know you chose me".
+
+**The detail question.** The injured partner will ask for details, and the answer is not "tell everything" or
+"tell nothing", it is the distinction between *facts necessary for safety and choice* and *images that will not
+leave*. Necessary: how long, whether protection was used, whether there is an ongoing contact, whether the
+affair partner has been told about the marriage. Not necessary, and harmful: positions, comparisons, what the
+other person looks like. The therapist says this to both of them, before the questions begin, and both partners
+usually accept it — because the injured partner's real question is not anatomical.
+
+**Session three — the meaning.**
+
+Only now, after the facts are held and the exposure has been managed, does the question "what was this about?"
+become answerable. The therapist's stance must be exact: the meaning is not a cause, and the cause is not an
+excuse. "I want to understand what was happening in your life when this started, and I am not asking so that we
+can blame your wife for it. I am asking because whatever made the affair possible will still be there when it is
+over." The distinction is the one thing that makes the third session survivable, and it must be said aloud.
+
+**Session four — the choice.**
+
+The marriage is named as a decision rather than a default. Both partners are asked, separately and then
+together, whether they intend to attempt repair. Where one partner will not, the therapist does not argue; she
+helps them separate without the affair becoming the whole of the story. Where both will, the treatment moves to
+the repair tasks: full transparency for a defined period, the naming of what was lost, the rebuilding of trust as
+a set of testable commitments rather than a feeling, and the explicit rejection of "we are past it now" as a
+route to a silent recurrence.
+
+**The temporal frame that matters.** The literature on affair recovery converges on a rough shape: an acute
+phase of three to six weeks in which nothing is decided; a middle phase of several months in which the meaning is
+worked and trust is rebuilt through consistency; and a long tail in which anniversaries and discoveries of new
+detail re-open the injury. A therapist who promises the couple that "in twelve sessions you will be through
+this" has promised something false and has given them a schedule to fail against.
+
+### 5.2b Paternity: the sequence, and where the therapist stops
+
+**The situation.** A father learns, or suspects, that a child he is raising is not biologically his. Or a mother
+learns that the man she named as the father is not. Or an adult child learns, from a commercial DNA test, that
+her father is not her father. Each of these arrives in a therapist's office and each is treated by the therapist
+as a family disclosure with a legal dimension.
+
+**Step 1 — Establish what is known, and how.** Suspicion, an admission, a test, or a document. A suspicion the
+client has carried for nine years is not the same fact as a test result, and the clinical work differs
+enormously. The therapist's first question, "what do you actually know, and how do you know it?", is answered
+incompletely about half the time.
+
+**Step 2 — Establish who knows.** The mother, the man, the child, the extended family, a lawyer. In the commonest
+configuration, two adults know and a child does not, and the therapist's client is one of the two.
+
+**Step 3 — Establish the child's position.** Age, developmental stage, relationship with the presumed father,
+relationship with the biological father if any, and what the child has been told. The child's welfare is the
+organising criterion and not the parents' comfort. In many jurisdictions the child has a legal right to know the
+identity of a parent, and in almost all of them the child's interests will be weighed in any later dispute.
+
+**Step 4 — Refer for legal advice, and say why.** The referral question is specific: what are the client's
+obligations and rights in respect of maintenance, custody, registration and the child's knowledge? The therapist
+does not answer this. She does something more useful: she writes the question down for the client so that the
+client can put it to a lawyer, and she records that she did so.
+
+**Step 5 — Sequence the disclosure, if there is to be one.** The order matters and there is no universally
+correct one. The options: mother tells the father, then both tell the child; the father tells the child without
+the mother; a family session with the therapist present; or deferral until the child reaches an agreed age. Each
+has costs. What the therapist can do is insist that the decision is made deliberately, with the child's interest
+stated aloud, rather than by drift.
+
+**Step 6 — Be present for the child's question.** Children ask the questions adults avoid: "so who is my real
+father?" and "does he still love me?" The therapist's preparatory work with the parents is to write answers to
+those two questions in advance, in words a child can hear, and to agree that the child's relationship with the
+man who raised him will be described as a relationship and not as a technicality.
+
+**Where the therapist stops.** At the door of the courtroom. Everything about maintenance, access, guardianship
+and registration belongs to the lawyer; everything about the child's experience, the parents' grief, the
+family's story and the disclosure conversation belongs to the therapist.
+
+**The vignette.** Kola, 47, a school principal, attends alone. He says his wife has told him, in an argument,
+that their second child, now 14, is not his. He has said nothing to the child and has not slept in three weeks.
+He wants to know whether to ask for a test.
+
+The therapist's first session does four things and none of them is advice. She stabilises — sleep, work, the
+suicidal ideation he mentions in passing and then retracts, which is assessed properly. She establishes what he
+knows: his wife's statement in anger, no test, no corroboration. She names the two questions that are currently
+fused in his mind and must be separated: *is it true?* and *what do I do about my son?* And she writes, for him,
+the questions for a lawyer: what is his legal position if the child is not his; what obligations continue; what
+rights does he have; what happens if he seeks a test without the mother's consent.
+
+The clinical work over eight sessions is not about the test. It is about the fact that Kola has not been able to
+look at his son for three weeks, and that the boy has noticed. The most urgent task in the case is that a
+fourteen-year-old is being silently abandoned by a father who is waiting for a fact. Whatever the fact turns out
+to be, that is the harm that is happening now.
+
+### 5.3 HIV and other communicable conditions
+
+**The clinical reality.** A client discloses that he is living with HIV and has not told his wife. He is on
+treatment and virally suppressed. Or a client discloses that her husband is living with HIV and has not told her.
+Or a client discloses that he has been diagnosed with hepatitis and does not intend to tell his partner. In each
+case the therapist holds information whose non-disclosure exposes an identifiable person to a serious condition.
+
+**Step 1 — Know the rule before the case arrives.** The therapist's practice manual should contain four answers,
+reviewed annually: (a) is there a statutory duty to disclose to a public health authority, and within what
+period? (b) is there a statutory duty or permission to disclose to an identifiable partner, and to whom? (c) is
+non-disclosure or exposure a criminal offence, and does the therapist's knowledge create any liability? (d) does
+the jurisdiction operate a partner-notification service, and how is it accessed? Four questions, four sentences.
+The therapist who cannot answer them is not competent to hold this case.
+
+**Step 2 — Assess the actual risk.** The therapist needs, not rumour: the client's treatment status, whether
+viral suppression has been achieved and documented, whether protection is used, and what the partner knows. In
+many of these cases the risk is far lower than the client's fear, and in some it is higher than the therapist's
+first assumption. The risk assessment is not the therapist's opinion; it is what the client's physician has
+documented, and part of the therapist's work is to get the client to a physician.
+
+**Step 3 — Separate shame from risk.** The commonest presentation is a client who is not avoiding disclosure
+because of danger but because of shame and the fear of being seen as dirty, unfaithful, or diseased. Naming this
+distinction changes the work: "I am not asking you to disclose because you have done something wrong. I am asking
+you because there is a person who could be infected and who is not being given the chance to protect herself."
+
+**Step 4 — Use the partner-notification route if it exists.** Where a service exists, it can be used anonymously
+or with the client's involvement, and it frequently resolves the case: the partner is told by a trained worker,
+the client is spared the first sentence, and the therapist's dilemma dissolves. This route is under-used simply
+because therapists do not know it exists.
+
+**Step 5 — Plan the disclosure hour by hour.** Where the client will disclose, the plan is specific: when — not
+"soon", but a date and a time when the house is empty; who — alone, or with a trusted person; what — the
+diagnosis, the treatment, the risk to the partner, and the offer to attend a clinic together; and what if — the
+two worst-case responses, each with a plan, including where the client sleeps that night.
+
+**Step 6 — Where the client refuses and the risk remains.** Then the therapist states her position in terms of
+her own conduct, in writing, and seeks immediate supervision and legal advice if the jurisdiction imposes a duty.
+Three options, in order of preference: the client discloses within a stated period; the client authorises
+partner notification; or the therapist discloses what the law requires and tells the client in advance that she
+will. What the therapist may not do is continue as though nothing has happened, because in this case the
+continuation of silence has a named potential victim and a documented date.
+
+**The vignette.** Mrs Ifeoma Nwosu, 38, a seamstress, attends for anxiety. In session four she discloses that her
+husband, Emeka, was diagnosed eight months ago, is not on treatment, has refused to tell her, and she learned of
+it from a pharmacy receipt. Her question is not whether to tell him she knows; it is whether to leave. The
+therapist's tasks here are inverted: the exposed person is the client, the secret's holder is the absent husband,
+and the clinical work includes her own testing, her own risk, her own safety and the decision about the marriage.
+The therapist does not contact the husband. She supports the client in her own disclosure if the client chooses
+it, assists her to a clinic, and records the reasoning. The case then moves into Week 9's territory, because a
+woman whose husband has concealed a diagnosis for eight months is a woman whose household may become unsafe when
+she says so.
+
+### 5.3a The third party's spouse: the question with no clean answer
+
+**The question.** The client's affair partner is married. Her husband does not know. Does the therapist do
+anything?
+
+**What is not available.** The therapist cannot contact him. That would be a disclosure of her client's
+confidential information to a stranger, and it is prohibited regardless of the moral merits. Any answer that
+begins "the therapist should tell him" has misunderstood the ethics of the role.
+
+**What is available.** Four options, in ascending order of intrusiveness, and the therapist should be able to
+name all four and say which she would press for and why:
+
+1. **The client tells him.** The cleanest, rarest, and the one the therapist should raise first, explicitly and
+   without embarrassment: "he is being deceived in the same way your wife was. Is that something you are willing
+   to end?" Many clients have not considered it, having classified the affair partner's marriage as not their
+   business.
+2. **The client tells the affair partner that he will tell, or that she will, within a stated period.** A
+   pressure that is applied to the right person.
+3. **The couple decides together**, which happens more often than clinicians expect once the injured partner is
+   past the acute phase: the betrayed spouse frequently wants the other household to know, and the decision is
+   then a joint one that the therapist can support.
+4. **Nobody tells him**, and the therapist records that the question was raised, what the couple decided, and
+   why. This is a defensible outcome and it must be a decision rather than an omission.
+
+**The safety filter that overrides the order.** Where the affair partner's husband is known to be violent, the
+disclosure may expose the affair partner and the client to serious harm. In that case the correct answer is
+frequently option 4 with a documented reasoning, and the therapist who presses for disclosure has imported a
+moral position into a risk calculation.
+
+**The therapist's own view.** The therapist is entitled to have one and is not entitled to impose it. The
+workable practice is to state it once, briefly, as a question rather than a verdict — "have you thought about
+what happens to his wife?" — and then to work with the answer.
+
+### 5.4 Anatomy of the disclosure session
+
+A structure for the session in which the affair is first discussed with both partners present. Ninety minutes,
+not fifty, and scheduled deliberately rather than arising inside a routine session.
+
+| Phase | Minutes | What the therapist does |
+|---|---|---|
+| **Frame** | 0–8 | Names the purpose; states the rules (no detail beyond the necessary; no leaving the room; a break available on request); reminds both that no decision about the marriage is being made today |
+| **The account** | 8–30 | The involved partner gives the outline, using the five questions. The therapist controls the pace and stops the account when it moves into detail that serves no safety function |
+| **The questions** | 30–55 | The injured partner asks; the therapist filters — "that is a detail; ask instead what you need to know to feel safe" |
+| **The response** | 55–70 | The injured partner's reaction, uninterrupted. The therapist does not manage it, soften it, or interpret it |
+| **The commitments** | 70–85 | Concrete, verifiable, dated: contact ended, method of proof, transparency arrangements, who else is told |
+| **The close** | 85–90 | Both partners state one thing they will do before the next session; the therapist summarises in five sentences and records them |
+
+**The three rules of the room.** First, the involved partner answers; the therapist does not answer for him.
+Second, the injured partner's anger is not moderated in this session — it is the appropriate response and
+moderating it protects the wrong person. Third, the session ends with commitments rather than with feelings,
+because commitments are what the injured partner actually needs and feelings are what the involved partner finds
+easier to offer.
+
+### 5.5 Case: the Okonkwos, second year
+
+**The household.** Ada Okonkwo, 35, a pharmacist; Chuka Okonkwo, 40, a logistics manager; Ebuka, 10. They were the
+family in Week 1, where the clinic's policy on individual disclosures was explained, recorded and agreed.
+
+**The referral.** Ada telephones on a Tuesday morning. "I found something on his phone. I need to see you before I
+do anything." The therapist offers a same-day individual appointment, states the policy again at the start of it,
+and Ada agrees to it a second time.
+
+**What Ada knows.** A message thread on Chuka's phone, seen four days ago. A woman's name, Nkechi. Messages that
+are affectionate and explicit, spanning roughly seven months. Ada has photographed eleven messages, has told no
+one, and has not confronted him. She has not slept more than four hours in four nights and has twice been unable
+to drive because of shaking. She has begun looking up divorce lawyers on her phone and has not called one.
+
+**The assessment in that session.**
+
+- *Acute stress:* intrusive images, hypervigilance, sleep loss, appetite loss, intrusive checking of his phone at
+  night. Not suicidal, but passive ideation on direct enquiry ("sometimes I think I should just disappear") which
+  is assessed and planned for, and reviewed at every subsequent session.
+- *Risk:* no history of physical violence. Chuka has never been violent; he is, in Ada's description, "the one
+  who goes quiet". Ada's own anger is substantial and she is frightened of it.
+- *Disclosure history:* the children know nothing. Ada's mother knows nothing. Ada's sister knows "something is
+  wrong".
+- *Immediate functioning:* she cannot concentrate at work and has taken two days of leave.
+
+**The therapist's four tasks in that first session.** Stabilise (sleep, food, the name of a person she can call
+at night). Separate the questions (is it happening; is it over; what do I do; who do I tell — four questions, and
+they cannot be answered in one week). Establish what she needs to know (whether it is ongoing, whether protection
+is used, whether there is a pregnancy, whether money has moved — the safety questions, and no others). And set
+the frame for the next session: "you will not decide anything this week. You will come back on Thursday, and we
+will decide what to do about the conversation with him."
+
+**Session two, three days later — the question of the individual session.** Ada wants to see the therapist alone
+again, indefinitely, "to decide what I am going to do". The therapist applies Week 3: the couple is the client;
+individual sessions are permitted and are not a parallel therapy; and the plan must be that the disclosure moves
+into the couple's room. Ada agrees, with one condition — she wants the disclosure to happen in the therapist's
+office, not at home, because "at home I will either scream or say nothing".
+
+**Session three — Chuka alone.** He attends, having been told by Ada only that she has "seen something" and that
+they have an appointment. He is guarded, then, at minute nineteen, says: "I know why I am here."
+
+What he discloses: a relationship of seven months with a colleague, Nkechi, who is also married and has two
+children. He says it ended "in a manner of speaking" three weeks ago. He has not told Ada. He says he intends to,
+"when things are calmer". He says his marriage has been "dead for two years". He asks, twice, whether the
+therapist will tell Ada.
+
+The therapist's answers, in order. "I will not tell her what you have told me. And I am not willing to hold this
+while I sit with both of you — which means it needs to move, and the shape of that is what we will decide
+now." She does not accept "when things are calmer", because there is no calmer. She asks the safety questions:
+protection, pregnancy, money, and the affair partner's marriage. She asks what he has told Ada about the last
+seven months — the lies, specifically — because that is the material the disclosure session will have to
+address. And she says the sentence that determines the case: "you will tell her, in my room, on Thursday. I will
+help you prepare what you say. She has already seen the messages, so this is not a revelation; it is the truth
+after four days of her not knowing whether she is going mad."
+
+**Session four — the disclosure session, ninety minutes.** Both present. Ada speaks first, for six minutes,
+without interruption: what she saw, what the four days have been like, and the sentence she has rehearsed —
+"what I need from today is not an explanation, it is the truth." Chuka then answers the five questions. He gives
+the outline: seven months, a colleague, twice-weekly, ending three weeks ago — although Ada's messages suggest
+contact nine days ago, which he then corrects. He names the lies: the late nights, the "team retreat", the
+weekend he said he was with his brother. He states what he has done: message sent ending it, contact blocked,
+and an agreement to move teams at work next month. He states what he has not done: he has not told Nkechi's
+husband. And he answers Ada's question, "why", with the sentence that becomes the centre of the treatment:
+"because I did not want to be the man who had failed, so I stopped telling you anything."
+
+**The detail question, in the session.** Ada asks, at minute forty, "was she better than me?" The therapist
+intervenes, exactly as the protocol requires: "that is a detail, and I am going to stop it — not to protect him,
+but because you will carry the answer for years and it will not tell you anything you need. What you need to know
+is whether he wants to be married to you, and that is a question he has to answer." Ada accepts this, and later
+says it was the most useful sentence in the session.
+
+**The commitments at minute seventy.** Four, all dated. Chuka sends Ada a written account of the timeline by
+Saturday. He books and attends an STI screen within ten days and shows her the result. He agrees to leave his
+phone in the kitchen at night for three months. He agrees to a joint session every week for eight weeks. And on
+the fourth point — telling Nkechi's husband — he agrees to decide by the following Thursday, and the therapist
+records the question as open.
+
+**The next eight sessions.** The treatment is not about the affair. It is about the two years in which Chuka
+stopped telling Ada anything, and about his belief that a man who admits failure loses his household, which is
+his father's belief and which he has never examined. Ada's work is separate and harder: she has to decide whether
+she can live with a man who lied competently for seven months, and the therapist's job is to keep that question
+open rather than to sell the marriage. In session eleven Ada says, "I do not trust him. I have decided to see
+whether trust comes back." That sentence, not the affair, is the case's turning point.
+
+**What the case teaches.**
+
+1. **The individual session was the instrument, not the problem.** Without three individual sessions — Ada's two
+   and Chuka's one — there would have been no prepared disclosure, and the conversation at home would have been
+   the screaming match Ada predicted.
+2. **The policy was stated in Week 1 and applied in Week 5.** The therapist could hold Chuka to a disclosure
+   because the clinic's policy had been explained to both of them a year earlier and recorded. A therapist who
+   improvised the policy on the day would have been negotiating from nothing.
+3. **The safety questions are asked of both partners, separately.** Ada was asked about violence, ideation and
+   functioning; Chuka was asked about protection, pregnancy, money and the affair partner's marriage. Neither set
+   of questions would have been answerable with both in the room.
+4. **The disclosure session was structured, and the structure was the therapy.** Frame, account, questions,
+   response, commitments, close: six phases and ninety minutes, and none of it was improvised.
+5. **The treatment's subject was not the affair.** The affair was the event; the marriage's two-year silence was
+   the case. Finding that distinction is the clinical work of session three.
+
+### 5.6 Transcript: the refusal of "when things are calmer"
+
+Session three, Chuka alone, minutes twenty-two to forty. Annotated.
+
+> **C1 Chuka:** I will tell her. When things are calmer. She is not in a state to hear it now.
+>
+> **C2 Therapist:** *(pause)* There is no calmer. — *Four words, and the refusal to accept the most common
+> postponement in this literature. "When things are calmer" is not a plan; it is a description of the client's
+> hope that the problem will become smaller on its own.*
+>
+> **C3 Chuka:** You do not know her. She will — *(stops)*
+>
+> **C4 Therapist:** I do know her a little. I saw her on Tuesday. *(pause)* She has not slept in four nights and
+> she has been photographing your phone. She is already in it, Chuka. The only question is whether she is in it
+> alone. — *The move that ends the postponement: not an argument about duty, but a description of what the delay
+> is actually costing the person the client says he is protecting.*
+>
+> **C5 Chuka:** *(long pause)* I did not think of it like that.
+>
+> **C6 Therapist:** Most people do not. *(pause)* Tell me about the last seven months. Not the relationship — the
+> things you said to her. — *The pivot from the affair to the deception. This is the technical heart of the
+> session: the affair is what happened; the lies are what the disclosure must address.*
+>
+> **C7 Chuka:** I said I was working late. I said the retreat was in Abuja. I said — *(pause)* — I said I was
+> tired. That one was true.
+>
+> **C8 Therapist:** So there was a true thing in it. — *A reflection that does something precise: it neither
+> excuses nor condemns, and it registers that the client's marriage was not simply a lie.*
+>
+> **C9 Chuka:** *(quickly)* It is not her fault. Ada. It is not her fault.
+>
+> **C10 Therapist:** I did not say it was. *(pause)* But you have just told me you were afraid of being the man
+> who failed. Where does that come from? — *The question that opens the third session's real material, asked
+> without any suggestion that it excuses the affair. Note that the therapist first refuses the implication
+> (C10, first sentence) and then asks the question, in that order — reversing the order would have sounded like
+> an excuse.*
+>
+> **C11 Chuka:** My father. He was — he lost his job when I was twelve, and my mother's brothers took over the
+> house. I watched him become nothing. In our place, a man who cannot provide is — he is not a man.
+>
+> **C12 Therapist:** *(pause)* And in seven months, did you become him?
+>
+> **C13 Chuka:** *(long pause)* Every time I came home. — *The sentence the case will be built on, arrived at in
+> session three, without the therapist having proposed it.*
+>
+> **C14 Therapist:** Then we have something to work with. *(pause)* On Thursday you will tell Ada the truth about
+> the seven months, and I will be in the room, and this — what you have just said — is what we will be working on
+> afterwards. — *The two-part close: the disclosure is not negotiable, and the treatment is promised. Both parts
+> are necessary; either alone fails.*
+
+**What the transcript shows.** The refusal of the postponement took eleven words and no moral argument. The
+relevant contrast is with the therapist who says "you have an obligation to tell her", which invites a debate
+about obligations; the therapist here says what the delay is doing, which cannot be debated because it is
+observable.
+
+### 5.7 Laboratory: three secrets, three protocols
+
+**Aim.** To produce, in ninety minutes, three one-page protocols — infidelity, paternity, HIV — for a named
+practice, each with the clinical sequence, the referral trigger, the documentation and the jurisdictional
+question.
+
+**Procedure.** Groups of four, each group assigned one secret, twenty minutes to draft, then ten minutes to
+present to the other groups, who must find the missing element. Each group must also write the *sentence* it
+would use to explain the limit of confidentiality to a client in that case.
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Sequence** | No order | Order present but not justified | Order justified by exposure and by the client's capacity |
+| **Referral trigger** | None | Vague ("refer if needed") | A specific question for a specific professional, written out |
+| **Jurisdiction** | Not addressed | Mentioned | The four questions named, with a source and a review date |
+| **Documentation** | Nothing | Narrative | Classification, reasoning, decision, date, supervision |
+| **The sentence** | Moralising or evasive | Accurate but cold | Accurate, brief, and delivered without blame |
+
+**The commonest failure.** Groups write "the therapist should advise the client to disclose". That is advice
+about a third party's conduct, it is outside the role, and it is marked in the lowest band however sound the
+underlying ethics.
+
+### 5.8 Six errors
+
+**Error 1 — Adjudicating the affair.** "What he did was wrong" is true, and said in session one it makes the
+therapist the injured partner's ally and the involved partner's judge — and the involved partner, who is
+necessary to the repair, stops speaking.
+
+**Error 2 — Answering the detail questions.** The injured partner asks, the therapist permits, and both carry
+images for years. The filter — facts necessary for safety and choice — must be applied by the therapist, in
+advance, out loud.
+
+**Error 3 — Treating paternity as a therapy question.** The therapist who opines on maintenance, custody or
+registration has left her competence and possibly her indemnity. The referral is written down, with the question
+specified.
+
+**Error 4 — Assuming the local HIV rule from memory.** The rules differ, they change, and the consequences of
+being wrong are criminal. Four questions in the practice manual, reviewed annually.
+
+**Error 5 — Continuing a treatment that is being conducted around an undisclosed exposure.** The therapist who
+sees the couple weekly while the husband's diagnosis remains hidden from the wife is not neutral; she is a party
+to the exposure.
+
+**Error 6 — Deciding the third-party question by omission.** The affair partner's spouse is either told, or the
+question is raised and recorded as decided against. What is not permissible is never raising it.
+
+### 5.9 Culture, faith and the three secrets
+
+**Infidelity and the shape of the household.** In a polygynous or extended household, the definition of infidelity
+is not the therapist's to set. A second relationship may be adultery to one wife, a breach of an agreed
+arrangement to another, and a family matter to be resolved by elders to a third. The therapist's first task is to
+ask what the couple's own understanding was — what was promised, to whom, and in front of whom — because the
+injury is measured against the promise and not against the therapist's model of marriage.
+
+**The elders' jurisdiction.** Where a family council has authority, the couple may want the matter resolved there
+rather than in the therapy room, and the therapist may be asked to attend or to report. Attending a family
+council is sometimes possible and requires a clear contract about confidentiality; reporting to it almost never
+is. The workable answer is that the therapist will help the couple prepare what they will say to the elders.
+
+**Paternity and lineage.** In households where lineage carries inheritance, naming and belonging, the disclosure
+of non-paternity is not only a relational event; it can alter a child's standing in a family and a community.
+This raises the stakes and does not change the criterion — the child's welfare — but it changes the timing, the
+audience and the planning. The therapist who treats it as a Western-style family secret has underestimated the
+case.
+
+**HIV, blame and the church.** Where a diagnosis is read theologically — as judgement, as a test of faith, or as a
+punishment on a household — disclosure carries a second injury. Congregational responses vary from extraordinary
+care to exclusion, and the client knows which is likely in her own congregation better than the therapist does.
+Asking "if this became known in your church, what would happen?" produces information that belongs in the risk
+assessment.
+
+**The communitarian objection.** "In our culture, family matters are not discussed outside." This is true and it
+is not an answer to the exposure question. The therapist's response separates the two: "I agree that this is
+family business. The question I am asking is not whether to keep it in the family — it is whether the person who
+is being exposed is inside the information or outside it."
+
+> **DEBATE** — "When a client refuses to disclose an HIV-positive status to a partner, the therapist's duty to
+> the partner overrides confidentiality." Argue for: an identifiable person is at risk, the client's refusal
+> converts the therapist into a participant, and public health law in many jurisdictions supports disclosure.
+> Argue against: disclosure by the therapist destroys the confidence on which testing and treatment depend, the
+> partner-notification route exists precisely to avoid it, and the therapist's duty is defined by statute and not
+> by the therapist's conscience. Then state the rule you would work under and the jurisdiction you would work in.
+
+### 5.9a The referral note to a lawyer
+
+Therapists refer to lawyers constantly and badly. A referral that says "client needs legal advice" produces a
+lawyer who cannot begin. A referral that specifies the question produces advice the client can use.
+
+**The four questions worth writing down.** *First:* what is the client's legal position in respect of the
+children if the facts are as stated? *Second:* what must the client do, or refrain from doing, in the next thirty
+days to avoid prejudicing that position? *Third:* what records exist, and can any of them be compelled? *Fourth:*
+what does the client need to know about the timing of any disclosure?
+
+**What the therapist does not put in the note.** Her clinical opinion of the parties, her view of who is at
+fault, and any speculation about facts the client has not established. The note is a question, not a case
+formulation, and the lawyer's file may become a document in the proceedings.
+
+**What the therapist records afterwards.** That the referral was made, on what date, with what question, and
+that the client was advised to obtain advice before making any decision with legal consequences. Six lines. They
+are the difference between a therapist who acted within her competence and one who did not.
+
+### 5.10 Evidence note
+
+**What the research supports.** Affair recovery research describes a reasonably consistent trajectory of acute
+stress, meaning-making and rebuild-or-end, with the injured partner's intrusive symptoms typically prominent for
+weeks and the couple's trust rebuilt through consistent verifiable behaviour rather than through reassurance.
+Disclosure of HIV status is associated with better treatment engagement and lower transmission risk, and
+partner-notification services increase disclosure rates; the public health literature is clear that supporting
+voluntary disclosure outperforms mandatory approaches on most measures. The research on secrecy in families shows
+that maintained family secrets are associated with poorer wellbeing in the person holding them, and that
+disclosure is most damaging when it is discovered rather than told.
+
+**What is weaker.** There are no trials determining the optimal content of an affair disclosure, and the clinical
+debate between full disclosure and a facts-only approach is not settled empirically. Paternity disclosure has a
+small qualitative literature and almost no outcome data, largely because the situations are heterogeneous.
+
+**What is not supported.** That a couple cannot recover from an affair — the outcome data on couple therapy
+following infidelity is modest but positive. That disclosure of HIV status always improves relationships — it can
+precipitate violence, which is why safety planning precedes disclosure. And that the therapist's judgement about
+the moral seriousness of the secret should determine the urgency; the exposure assessment does that.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* Seven months of an affair discovered by a phone message, and seven months
+disclosed by a client in session twenty, are the same fact with two different prognoses.
+
+### 5.11 Key terms
+
+**Betrayal trauma** — the traumatic stress response to the discovery of a significant relational betrayal.
+
+**Disclosure scene** — the first structured conversation in which the affair is discussed with both partners.
+
+**Exposure assessment** — the identification of who is put at risk by the continuation of a silence.
+
+**Presumption of paternity** — the legal presumption that a child born within a marriage is the husband's;
+jurisdiction-specific.
+
+**Partner notification** — the public-health route by which a partner is informed of exposure, anonymously or
+with the index client's involvement.
+
+**Viral suppression** — the reduction of viral load to undetectable levels; relevant to risk assessment and not a
+substitute for disclosure.
+
+**Safety filter** — the rule that where disclosure would create a risk of violence, the risk governs the plan.
+
+**Third-party claim** — the moral (not legal) claim of a non-client on information that affects them.
+
+### 5.12 Self-test
+
+1. State the common structure of the three secrets in this week.
+2. What are the four questions the practice manual must answer on communicable disease?
+3. Which detail questions may the therapist permit, and which must she stop?
+4. Why is "when things are calmer" not a plan?
+5. Name the four options for the affair partner's spouse, and the filter that overrides them.
+6. What does the therapist do when paternity is in question and the client asks for advice about custody?
+7. Give the six phases of the disclosure session with their timings.
+8. In the Okonkwo case, what was the treatment actually about?
+
+**Answers.** *(1)* An established fact, a person who does not know it, and a third party exposed by the
+continuing silence. *(2)* Whether there is a duty to a public health authority and within what period; whether
+there is a duty or permission to disclose to an identifiable partner; whether non-disclosure or exposure is an
+offence; and whether a partner-notification service exists and how it is accessed. *(3)* Permit facts necessary
+for safety and choice — duration, protection, whether contact continues, whether the affair partner's household
+is affected; stop questions about sexual practice, comparison, and the other person's appearance. *(4)* Because
+it names a state of affairs that will not arrive on its own and does not specify who does what by when; the delay
+is itself the harm. *(5)* The client tells him; the client tells the affair partner that he will tell; the couple
+decides together; or nobody tells him and the reasoning is recorded. The safety filter — a risk of violence —
+overrides all four. *(6)* She says she does not give legal advice, writes the client's question down for a
+lawyer, and records that she did so. *(7)* Frame 0–8; account 8–30; questions 30–55; response 55–70;
+commitments 70–85; close 85–90. *(8)* The two years in which Chuka stopped telling Ada anything, and his belief
+that a man who admits failure loses his household.
+
+### 5.13 Reflective task
+
+Write three hundred words on the following: a couple arrives having discovered an affair, and you find yourself
+hoping they will separate. What in your own history is producing that hope, and how would you know if it had begun
+to shape your questions? Do not resolve the question. Locate it.
+
+### 5.14 Further reading
+
+- Glass, S. on the anatomy of affairs and on *Not "Just Friends"* — the standard clinical account of boundaries
+  and affair types.
+- Gottman, J. on trust and betrayal in couples — the framework for the trust-rebuilding tasks.
+- Perel, E. on the meaning of affairs — the counterweight to purely behavioural accounts, useful for the third
+  session's work.
+- The WHO guidance on HIV partner notification and the UNAIDS materials on disclosure — the source for the
+  pathway in section 5.3.
+- Any current local statute or professional guidance on communicable disease disclosure, read in the original and
+  filed in the practice manual.
+- A family law primer for your jurisdiction, for the reference list and not for advice.
+
+*Next: Week 6 — Boundaries and multiple relationships.*
 
 ---
 
