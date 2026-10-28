@@ -769,9 +769,9 @@ structures rather than for character.
 
 ## Week 2 — The codes and informed consent
 
-**What codes do and do not do.** Codes set a floor, not a ceiling. They are written to be enforceable,
-which means they are often silent on the hardest questions. They also vary by jurisdiction and by
-professional body; know which one governs you.
+**What codes do and do not do.** Codes set a floor, not a ceiling. They are written to be enforceable, which
+means they are often silent on the hardest questions. They also vary by jurisdiction and by professional
+body; know which one governs you.
 
 **The core obligations across the major codes:**
 
@@ -786,14 +786,710 @@ professional body; know which one governs you.
 9. Cultural competence and non-discrimination
 10. Reporting obligations and legal compliance
 
-**Informed consent in family therapy is a document and a conversation.** It should cover: who the client
-is; who is seen and in what combination; the confidentiality policy including secrets; recording and
+**Informed consent in family therapy is a document and a conversation.** It should cover: who the client is;
+who is seen and in what combination; the confidentiality policy including secrets; recording and
 supervision; fees and cancellation; the limits of confidentiality (risk, abuse, court order); and the
 complaint route. Review it aloud in the first session, in the family's language, and record that you did.
 
-> **PRACTICAL** — Draft a one-page informed-consent document for couple therapy. Exchange with a peer and
-> identify the three sentences most likely to be misunderstood by a family with limited literacy. Rewrite
-> them.
+**Why consent is the hinge of the course.** Almost every other week depends on it. Confidentiality is only
+meaningful if the parties understood, at the start, who would be told what. A boundary can only be violated
+if it was known to exist. A record can only be defended if the client consented to what it contains. And the
+defence that succeeds at a professional tribunal is almost never "I did the right thing"; it is "the client
+understood, agreed, and I recorded that they did." Consent is the one document in this book that a clinician
+will be asked to produce years later, and it is the one most often written badly.
+
+> **CAUTION** — A signed form is not consent. Consent is a process of understanding, and the signature is
+> merely evidence that the process happened. A family that signed a document they could not read, in a
+> language they do not speak, at the end of a first session in which they were upset, has not consented, and
+> a tribunal will say so. The signature protects the clinic; the conversation protects the family; and the
+> clinician needs both.
+
+### 2.1 The lecture in ninety minutes
+
+| Minutes | Segment | What the lecturer does | What students do |
+|---|---|---|---|
+| 0–8 | The floor and the ceiling | One disciplinary finding, read aloud, and the code clauses it breached | Predict which clause was breached before being told |
+| 8–20 | The ten obligations | The ten, and the two that generate most complaints | Rank the ten by how often they appear in findings |
+| 20–32 | Comparing codes | AAMFT, APA, IAMFC and a national code, side by side on three issues | Identify where the codes disagree, and what a clinician does then |
+| 32–44 | Informed consent as a process | The eight components, and the difference between disclosure and consent | Draft the eight headings for a couple-therapy consent |
+| 44–56 | Consent with people who cannot read | The four adaptations, and the witness | Rewrite a consent paragraph at the level of a twelve-year-old reader |
+| 56–66 | Consent and minors | Developmental capacity, parental authority, and the mature minor | Decide three ages, with reasons |
+| 66–76 | Recording, supervision and the limits | What families are rarely told, and why it matters | Script the sentence that explains supervision |
+| 76–86 | Documentation | What to write, where, and the sentence that saves a clinician | Write the first-session consent note |
+| 86–90 | The assessment | How the consent document is marked | Draft their document's structure |
+
+**The teaching decision that makes the week work.** The lecture opens with a real disciplinary finding — a
+clinician suspended for something that sounds trivial — and the class predicts which clause was breached.
+They are usually wrong, and they are wrong in an instructive direction: they assume the violation was
+dramatic (sex, fraud, a breach of confidence) when it was almost always procedural (no documented consent, a
+record that did not match the account, a policy never explained). The exercise revalues documentation, which
+is the part of ethics that students find least interesting and that ends most careers.
+
+**The sentence the lecture must land.** "You will not be struck off for having the wrong theory. You will be
+struck off for not having written down what you agreed."
+
+### 2.2 The ten obligations, and the two that generate most complaints
+
+**1. Competence and its limits.** The obligation to practise within one's training and to refer when a
+presentation exceeds it. The obligation is not to know everything; it is to know the boundary and to act on
+it. (Week 7.)
+
+**2. Informed consent.** Everything in the rest of this week.
+
+**3. Confidentiality and its limits.** The obligation to protect information and the obligation to disclose
+in specified circumstances. The second half is the part families do not hear. (Weeks 3, 4, 5.)
+
+**4. Multiple relationships.** The obligation not to hold a second role that could impair judgement or
+exploit the relationship. (Week 6.)
+
+**5. Sexual intimacy with clients and former clients.** Prohibited. Time limits on former clients vary by
+code, from two years to never, and the variation tells you something about how seriously the profession
+regards the boundary.
+
+**6. Fees and financial arrangements.** The obligation to agree fees in advance, not to exploit financial
+dependency, and not to continue treatment for financial reasons when it is no longer indicated. (Week 12.)
+
+**7. Advertising and representation.** The obligation not to overstate competence or outcomes. In an era of
+social media, this is the fastest-growing category of complaint, because a clinician's profile is advertising
+whether they intended it to be or not.
+
+**8. Research ethics.** Consent, deception, anonymity, and the ethics of publishing case material. (Week 13.)
+
+**9. Cultural competence and non-discrimination.** Now written into most codes, and the clause with the least
+agreement about what compliance looks like. Week 13 of MFT 703 is the substantive account; in this course the
+obligation is to notice when the clinician's cultural assumptions are producing a decision.
+
+**10. Reporting obligations and legal compliance.** The obligation to know the local law on child protection,
+adult protection, and the reporting of serious harm. A clinician who does not know their jurisdiction's
+threshold has an obligation they cannot discharge.
+
+**The two that generate most complaints.** The disciplinary literature is remarkably consistent, and the
+answer surprises students: not sexual misconduct, which is rarer and more dramatic, but **failure to maintain
+adequate records** and **failure to obtain or document informed consent**. The two are connected, because the
+record is where consent lives. A clinician with an immaculate record and a mediocre theory is safer, in
+professional terms, than a brilliant clinician who cannot show what was agreed.
+
+**Why that is not as cynical as it sounds.** The record is not a bureaucratic artefact. It is the only
+evidence that a family was told something, understood it, and agreed; that a risk was assessed; that a
+decision was reasoned rather than drifted into. In the absence of that evidence, a tribunal has only the
+family's account and the clinician's memory, and it will prefer the family's. Documentation is the
+clinician's honesty made checkable.
+
+### 2.2a Where the codes disagree, and what a clinician does then
+
+Students often assume the codes say the same thing in different words. They do not, and the differences are
+instructive because they reveal that the profession has not settled the question.
+
+**Issue 1 — Secrets in couple work.** The AAMFT code requires that therapists clarify at the outset which
+persons are clients and what relationship each has to the therapist, and that they obtain written consent to
+disclose information; it does not prescribe a secrets policy. The APA ethics code addresses multiple
+relationships and confidentiality but is written for individual treatment and gives no guidance on
+therapeutic secrets in couple work. National codes vary further, and many say nothing at all. The result is
+that a couple therapist's confidentiality policy is a *professional judgement* rather than a compliance
+requirement, which is why it must be written down and explained.
+
+**Issue 2 — Sexual relationships with former clients.** Most codes prohibit them outright or impose a time
+limit that ranges from two years to five years to never. The disagreement is not trivial: it reflects a
+genuine dispute about whether the harm arises from the power asymmetry (which does not end when therapy does)
+or from the therapeutic relationship (which does). A clinician moving jurisdictions must check, because the
+rule that was correct at home may be a violation at the new post.
+
+**Issue 3 — Duty to warn or protect.** In some jurisdictions the clinician has a legal duty to warn an
+identifiable third party of a serious threat; in others the duty is to protect, which may be discharged by
+other means; in many there is no statutory duty at all and the obligation is ethical only. A clinician who
+learns this from the code rather than from the statute will get it wrong.
+
+**Issue 4 — Minors' consent.** The age at which a young person may consent to treatment without a parent
+varies from about twelve to eighteen and is frequently different for different treatments. The codes defer
+to law, which means the clinician must know the local statute and not the code.
+
+**What a clinician does when the codes disagree.** Four moves, in order. First, establish which code governs
+you — by licence, by membership, and by employment contract, which may impose a stricter standard than either.
+Second, apply the *stricter* standard, because a tribunal will. Third, where the codes are silent, write your
+policy down and follow it consistently, because consistency is the only defence available when there is no
+rule. Fourth, ask the professional body in writing where the stakes are high, and keep the reply.
+
+**The professional point.** The existence of disagreement is not a defect of the codes; it is information
+about which questions the profession has not resolved. Those are exactly the questions on which a clinician
+must think rather than look up, and they are the ones this course is about.
+
+### 2.2b What a professional body actually does when a complaint arrives
+
+A short account, because clinicians fear the process more than they understand it, and fear produces both
+over-documentation and concealment.
+
+**The route.** A complaint is made, in writing, usually by the client or a relative. The registrar assesses
+whether it falls within the code's scope. If it does, it is put to the clinician for a written response, with
+a deadline. Many complaints end there, because the response shows that the matter is a disagreement rather
+than a breach. Those that continue go to a panel, which hears both parties and may dismiss, caution, impose
+conditions, suspend, or strike off.
+
+**What the panel asks, in practice.** Not "was the outcome bad?" but three questions: what did the clinician
+do; what did they record; and what would a reasonable clinician in that position have done? The third question
+is answered by expert evidence and by the code, and the first two by the file.
+
+**What helps a clinician, in order of usefulness.** A contemporaneous record of what was agreed. A record of
+the reasoning, including options rejected. Evidence of supervision or consultation on the matter. An apology
+offered early and without qualification. And a consistent account — the same story in the file, the response,
+and the hearing.
+
+**What harms a clinician, in order of seriousness.** Altering or backdating a record, which converts a
+complaint into a finding of dishonesty and ends careers that would otherwise have survived. An account that
+changes between documents. Defensiveness in the response, which is read as an absence of insight. And
+criticising the complainant, which is heard by the panel as a failure to understand the harm.
+
+**The one sentence to remember.** The panel is not asking whether you are a good person; it is asking whether
+a reasonable clinician could have done what you did, and whether your file shows that you thought about it.
+Almost every answer to that question was decided months earlier, in a note written or not written at the end
+of a session.
+
+### 2.3 Informed consent: the eight components
+
+Consent has eight components. A document that omits any of them is incomplete, and the omission is
+frequently the one that matters in the case that goes wrong.
+
+**1. Who the client is, and who is not.** In family work this is the first and hardest component. Is the
+client the couple, the family, the individual who telephoned, or the child who was brought? The answer
+determines who holds the confidentiality and to whom the therapist owes a duty. The consent document should
+name the client explicitly, and the answer should be recorded in the family's words: "the client is the
+couple, and the children are seen as part of the family's treatment."
+
+**2. Who will be seen, in what combination, and on what terms.** Couple work with occasional individual
+sessions is a different arrangement from individual work with occasional joint sessions, and the family must
+know which they are getting before they begin. The most common complaint in this area is not that individual
+sessions happened, but that nobody said they would.
+
+**3. The confidentiality policy, including the secrets policy.** Stated in plain language, with the
+exceptions named rather than implied. (Weeks 3 to 5.)
+
+**4. Recording, observation and supervision.** Families are routinely recorded, observed through a one-way
+mirror, or discussed in supervision, and routinely not told. This is one of the clearest and most commonly
+breached obligations in training clinics. The disclosure needs three parts: what happens, who sees it, and
+how it is stored and destroyed.
+
+**5. Fees, cancellation, insurance and what happens when the money stops.** Including the awkward parts: the
+fee for a missed session, the position when a third party pays, and what the clinician will do if a family
+falls into arrears. (Week 12.)
+
+**6. The limits of confidentiality.** Risk to self, risk to others, abuse of a child or vulnerable adult,
+court orders, and any statutory reporting duty. Named, in examples rather than in abstractions: "if I
+believed a child was being hurt, I would have to tell the authorities, and I would tell you first that I was
+doing it."
+
+**7. The complaints route.** Who to contact, and what will happen. A family that knows the route is less
+likely to need it, and a clinician who discloses it looks less like someone with something to hide.
+
+**8. The right to withdraw.** Including the right to withdraw from recording, from research, and from
+treatment, and what happens to the record afterwards. Consent is not a contract of attendance.
+
+**The test of the document.** Hand it to someone who has never been in therapy and ask them what will happen
+to their information if they tell the therapist something dangerous. If they cannot answer, the document has
+failed, whatever it says.
+
+### 2.3a Consent when the family cannot read the document
+
+Most of the world's families do not read a clinic's consent form fluently, and a substantial minority cannot
+read it at all. A clinician who responds by reading the document aloud in English has produced a signature
+and not a consent.
+
+**The four adaptations, in order of importance.**
+
+**1. Change the medium before you change the words.** Consent is a conversation and it can be witnessed.
+Sit with the family, explain the eight components in their language, in plain speech, and ask each of them to
+say back what they understood. Then record, in the file: "consent explained orally in Yoruba to both parents
+and to the paternal aunt; each repeated the confidentiality limits and the supervision arrangement in their
+own words; all agreed. Written summary provided; both parents marked; consent form signed by the father as
+head of household and by the mother." That record is stronger evidence of consent than any signed form.
+
+**2. Use a witness who is not a family member.** A colleague, an interpreter, or a member of the clinic staff
+who can attest that the explanation happened. The witness is not a formality: in a dispute two years later,
+a witness is a person who can be asked what was said.
+
+**3. Reduce the document, do not translate it.** A translation of a dense document remains dense. The
+effective version is one page, in short sentences, with the eight components as headings and the exceptions
+in bold. Where literacy is limited, a page of icons or a simple diagram of the four confidentiality limits is
+more useful than prose, and is used in several services.
+
+**4. Give them something to take away and to show someone else.** The consent conversation usually needs to
+be repeated at home, with a relative who was not present and whose opinion the family trusts. A one-page
+summary in the family's language, with the clinic's telephone number, is the only part of the process that
+continues after the family leaves, and it is the part that most determines whether they return.
+
+**The error to avoid.** Do not treat limited literacy as limited capacity. A woman who cannot read a form can
+understand confidentiality perfectly well, and will hold the clinician to it more precisely than a reader
+would. The obligation is to make the understanding possible, not to test the reading.
+
+### 2.3b Consent and the young person
+
+Consent with children and adolescents is not a single question but three: who consents, who assents, and who
+is told.
+
+**The legal position, which varies and must be checked.** In most jurisdictions a parent or guardian consents
+for a child below a stated age; above that age, and in some jurisdictions for specific treatments such as
+contraception or mental health care, the young person may consent themselves. Many jurisdictions recognise a
+"mature minor" whose capacity is assessed rather than assumed. Both parents may need to consent where they
+share custody, and a clinician who accepts one parent's consent without checking may find the treatment
+challenged later.
+
+**Assent, which is not the same as consent.** A child who is old enough to understand what therapy is should
+be asked whether they agree to it, in language they have, and their refusal should be taken seriously even
+where the law permits the parent to override it. The clinical reason is not legal: a nine-year-old who has
+been brought to a therapist without being asked will cooperate in the first session and withdraw by the
+third, and the family will describe this as the child's problem.
+
+**What the young person is told, and what is kept from them.** There are three separate audiences in a child
+case: the child, the parents, and the institution. The consent conversation must establish, before anything
+else, what the child will be told about who sees what. A twelve-year-old is entitled to know whether what
+she says will be reported to her mother, and a therapist who does not tell her is not protecting her; she is
+teaching her, accurately, that adults cannot be trusted with information.
+
+**The four-part script for a child's consent conversation.**
+
+1. "Your mum and dad have asked me to talk with you. You do not have to talk about anything you do not want
+   to. If you want to stop, you can say so and we will stop."
+2. "What you say here stays here, unless I am worried that somebody is being hurt — including you. If that
+   happens I will tell you before I tell anyone else."
+3. "I talk to other people about my work, with their names hidden, so that I can learn to do it better. I
+   will not use your name."
+4. "Is there anything you want to ask me before we start?"
+
+**The age at which each part lands.** Fifty-five percent of adolescent self-disclosure depends on part 2 being
+true and being believed. A therapist who says it and then breaks it without warning has done more damage than
+one who never offered it.
+
+### 2.4 The first session: consent in practice
+
+The consent conversation in a first session takes twelve to fifteen minutes and is the best investment in the
+hour. The sequence below is used throughout the course.
+
+**Minute 1 — Name the arrangement.** "Before we start, I want to tell you how I work, and then you can decide
+whether you want to go on. Nothing you say in the next ten minutes goes into a record unless you decide to
+continue."
+
+**Minutes 2 to 5 — Who the client is.** "I am going to be working with you as a couple. That means the
+relationship is my client, and I will not take sides with either of you. It also means that if one of you
+telephones me, I will tell the other that you did, without telling them what you said."
+
+**Minutes 5 to 9 — The confidentiality limits, with examples.** "What you tell me stays here, with four
+exceptions. If I think you are in danger of seriously hurting yourself, I have to act. If I think someone
+else is in danger from you, I have to act. If a child is being hurt, the law requires me to report it. And if
+a court orders me to produce my records, I have to obey. In the first three, I will tell you what I am doing
+before I do it, unless telling you would put someone in danger."
+
+**Minutes 9 to 11 — Recording and supervision.** "I record some sessions, and I take my work to a supervisor
+who is also a therapist. Your first names are used; your surname is not. The recording is deleted after six
+months. You can refuse the recording and still be treated."
+
+**Minutes 11 to 13 — Fees and practicalities.** Fee, cancellation, who pays, what happens if it is late.
+
+**Minute 13 — The secrets policy.** "There is one more thing, and it is the most important sentence of the
+hour. If one of you asks to see me alone, I will say yes. But I will not keep a secret that affects this
+relationship, because a therapy built on a secret is a therapy that is not working. If something like that
+comes up, I will tell you both that it has come up, and I will help whoever it is to decide how to say it. Is
+that acceptable to each of you?"
+
+**Minutes 14 to 15 — The question that tests it.** "Tell me, in your own words, what you have understood
+about who I would tell if you told me something dangerous." Then record the answer. The recording of *their
+words* is the evidence of consent; the signature is not.
+
+**Why the sequence is fixed.** Because the four limits are the parts families do not hear, and they are
+heard only if they are given last, with examples, after the clinician has established that they are not
+looking for a reason to report. A therapist who begins with the limits has begun with a threat.
+
+### 2.4a The sentence that has to be said, and the four ways of saying it badly
+
+Of the fifteen minutes of a first session's consent conversation, one sentence does most of the work, and it
+is the one trainees most often soften. It is the secrets policy.
+
+**The sentence.** "If one of you sees me alone and tells me something that affects this relationship, I will
+not keep it. I will tell you both that something has been said, and I will help whoever it is to decide how to
+say it — but I will not carry it."
+
+**The four bad versions, and why each fails.**
+
+**"There are no secrets in this therapy."** False, and heard as a prohibition. Couples test it in the first
+month, discover that the therapist does keep ordinary confidences, and conclude that the rule was rhetorical.
+
+**"Anything you tell me individually, I may share."** A licence without limits. The family hears "she will
+tell him", which suppresses the individual disclosure entirely, and the therapist loses the material that
+would have been most useful.
+
+**"We can discuss it if it comes up."** The most common and the most damaging, because it is a deferral of the
+question that must be answered before the question arises. When it arises, the therapist is negotiating under
+pressure with a person who has already disclosed.
+
+**"I will use my clinical judgement."** True, and useless to a family, because it tells them the rule is the
+therapist's discretion. Every subsequent decision will be experienced as arbitrary.
+
+**Why the good version works.** It is specific about what the therapist will *do* (tell both that something
+has been said), it preserves the discloser's control over the content (help them decide how to say it), and it
+names the limit (the secret will not be carried). Three commitments, all of which can be kept, which is what
+distinguishes a policy from a warning.
+
+**The follow-up that tests whether it landed.** "If your wife told me something on Tuesday that she did not
+want you to know, what do you think I would do?" A husband who can answer accurately has consented; one who
+cannot has heard the words and not the arrangement. The answer is worth recording, in his words.
+
+### 2.5 Case: the family who signed and did not understand
+
+**The referral.** The Baloguns — Femi, 55, Funke, 49, and Femi's mother, 81, with dementia — were referred
+eight months ago by a physician at the private hospital where Mama is seen. The original referral was for
+"carer stress". The family attended four sessions and stopped.
+
+**Why the case is in this week.** The family has now returned, and has made a complaint: that the clinic
+"told the hospital things about us without asking". The complaint is being handled by the clinic manager, and
+the file has been sent to the therapist's supervisor.
+
+**What the file contains.** A two-page consent form, signed by Femi in the first session. No date of
+explanation. No record that the limits of confidentiality were discussed. No record that supervision was
+mentioned. A note in session three: "spoke to Dr Adeyemi at the hospital re: Mrs Balogun's care — agreed to
+share summary."
+
+**What actually happened.** In session three, the therapist telephoned the physician at the hospital to ask
+about Mama's medication, because Funke had said she was "sleeping all day". In the course of the call she
+described the household: that the daughter-in-law was exhausted, that there was a question about whether
+Mama could be left alone, that the family had "not been entirely honest with the physician about how much
+help they have". The physician recorded this in Mama's hospital file. A receptionist who knew the family read
+it and mentioned it to a relative. The family learned of it from the relative.
+
+**The analysis, through the seven steps.**
+
+**Step 1 — The ethical question.** Not "was the telephone call wrong?" but: *what did this family consent to,
+what did the therapist owe the physician and the family respectively, and what does the clinic owe them now
+that a harm has occurred?*
+
+**Step 2 — The facts.** The consent form covered confidentiality in general terms. It did not name
+third-party consultation. The therapist believed she had "implied consent" because the family had asked her to
+liaise with the hospital. What the family had asked for was that she *telephone about medication*; they had
+not agreed to a description of the household. The disclosure reached a relative through a third party — the
+receptionist — which the therapist could not have foreseen and which she is nonetheless responsible for
+having made possible.
+
+**Step 3 — The parties.** Mama: her clinical information was shared with her physician, which is defensible,
+and her family's private business was shared, which is not. Funke: the description of her exhaustion, and of
+the family's "not being honest", is now in a hospital file. Femi: he signed a form he did not read. The
+physician: he received information he did not ask for and recorded it. The relative: now holds information
+the family did not choose to give. The clinic: a complaint, and an exposure.
+
+**Step 4 — The frameworks.** *Deontology:* the consent did not cover this disclosure, and the duty was to
+obtain it. *Consequence:* the therapist's goal — better medication for Mama — was legitimate and could have
+been achieved by asking about medication alone. *Virtue:* would she have made the call if the family were in
+the room? *Care:* the family's trust was the treatment's only asset, and it has been spent on a telephone
+call. *Justice:* the person most affected, Funke, was the person with least standing, and it is her
+description that is now circulating.
+
+**Step 5 — Consultation.** The supervisor, the clinic manager, and — critically — the clinician's own
+professional indemnity provider, because a complaint has been made. This is not an admission of fault; it is
+the ordinary procedure.
+
+**Step 6 — Decision and action.** Three things, in this order.
+
+*First, the apology and the account.* The therapist meets the family — all three adults, including Mama, who
+is told in simple terms — and does four things: states what she did, without euphemism ("I telephoned the
+doctor about Mama's medication, and while I was on the telephone I described how things are at home, and I
+should not have done that"); states what she should have done (asked their permission first, and described
+only the medication); apologises without qualification; and states what she will do now (write to the
+physician asking that the household description be removed or annotated as not consented to, and confirm in
+writing to the family).
+
+*Second, the record.* An incident note in the file: what happened, what was disclosed, to whom, the harm
+identified, the action taken, and the review date. Not a defence; an account.
+
+*Third, the practice change.* The clinic's consent form now includes a named item: "I may need to speak to
+other professionals involved in your care. I will ask your permission before doing so, and I will tell you
+what I intend to say." The therapist's own practice changes in a way that is recorded in her supervision
+notes.
+
+**Step 7 — Review.** At three months: has the letter to the physician been answered; is the annotation in
+place; has the family returned; and has the therapist made any further third-party calls without permission?
+The answer to the last question is the one that determines whether this was an incident or a pattern.
+
+**What the case teaches that the code does not.** Four things.
+
+1. **"Liaising with the hospital" is not consent to describe a household.** Consent is specific. A family that
+   asks you to discuss medication has consented to a discussion of medication, and the scope of consent is
+   the scope of the request.
+2. **The disclosure you make is the disclosure that circulates.** The therapist made one telephone call to one
+   physician. The information reached a receptionist, a relative, and now a complaint. A clinician who thinks
+   in terms of "one person" has not understood how information moves in a small community.
+3. **The signature is the weakest part of the file.** Had the therapist written four lines in session one —
+   what she explained, in whose words it was repeated back, and what the family agreed — the complaint would
+   still have been made and would have been answerable.
+4. **The apology is a clinical act.** The family returned after it, which they would not have done after a
+   letter from a manager.
+
+### 2.6 Transcript: the consent conversation that failed, and the one that worked
+
+Two transcripts. The first is the original first session, reconstructed from the therapist's memory in
+supervision. The second is the repeat, eight months later, with the same family.
+
+**The original, in five turns.**
+
+> **T1 Therapist:** Before we start, I have a form for you to sign. It is about confidentiality. — *The
+> disclosure of the document rather than of the arrangement. The family now believes the form is the consent.*
+>
+> **T2 Femi:** *(signs without reading)* Where do I sign?
+>
+> **T3 Therapist:** There. *(pause)* So, tell me about your mother.
+> — *Two minutes and eleven seconds into a therapy that will last four sessions, and the four limits of
+> confidentiality have not been mentioned.*
+>
+> **T4 Funke:** She is not sleeping. She wanders at night. I am the one who —
+>
+> **T5 Therapist:** *(interrupting)* And does the doctor know about the wandering?
+> — *The question that leads, three sessions later, to the telephone call, and that shows the therapist was
+> already thinking about the physician on day one. The failure was not a lapse; it was a pattern set in the
+> first five minutes.*
+
+**The repeat, eight months later, in nine turns.**
+
+> **T1 Therapist:** Before we talk about anything, I want to tell you how I work, and I want to tell you what
+> I got wrong last time. — *The apology first. The family has come back in order to hear it, and everything
+> else will be heard through it.*
+>
+> **T2 Femi:** *(nods)*
+>
+> **T3 Therapist:** I telephoned your doctor about your mother's medication, which you had asked me to do. I
+> also described how things are at home, which you had not asked me to do, and which I should have asked
+> about first. I am sorry. — *Four sentences: what she did, what was authorised, what was not, the apology.
+> No excuse, and no "but".*
+>
+> **T4 Funke:** *(after a pause)* It was the receptionist who told my sister.
+>
+> **T5 Therapist:** I did not know that. It makes it worse, and it is my responsibility, because I made the
+> call. — *The acknowledgement without defence. The temptation here is to explain the receptionist's
+> confidentiality duty; that explanation would be accurate and would move the responsibility off the
+> therapist and onto a stranger.*
+>
+> **T6 Femi:** So what happens now?
+>
+> **T7 Therapist:** Three things. I have written to the doctor asking that the part about our home be removed
+> from the file, and I will give you a copy of that letter. I have written in your file what happened, and
+> you can see it. And I am going to explain to you now what I should have explained then, and then you can
+> decide whether you want to go on with me. — *The three-part remedy: repair the record, own the record, and
+> re-offer consent. The third is the one that makes it a clinical act rather than a complaint process.*
+>
+> **T8 Therapist:** *(the full eight components, in plain language, over eleven minutes, with each adult
+> asked to repeat back what they had understood)*
+>
+> **T9 Mama:** *(in Yoruba, through Funke)* She says she wants to know who will know about her.
+> — *The question that the first conversation never made possible, asked by the person whose file it is.*
+
+### 2.6a The record of consent, written out
+
+The single most useful paragraph a clinician will ever write, and the one that is almost never written. It
+goes at the end of the first session's note, takes ninety seconds, and looks like this.
+
+> "Consent explained orally, in English and Yoruba, to both parents and to the paternal aunt. Covered: the
+> client is the couple, with the children seen within the family's treatment; no secrets policy, stated as a
+> promise to tell both if a secret arises and to help the discloser decide how to say it; supervision (first
+> names only, clinic supervisor, Dr O.); audio recording of sessions 1–4, to be deleted at six months, family
+> may refuse without affecting treatment; fee ₦X per session, 24 hours' notice for cancellation; limits of
+> confidentiality — risk to self, risk to others, child protection, court order — given with examples. Mother
+> repeated back: 'if I tell you my husband is hitting me you will not tell him without asking me first' —
+> confirmed, with the exception that if children are at risk the report is made regardless and she will be
+> told. Father repeated back the supervision arrangement. Both agreed. Written summary in English provided."
+
+**Why each element is there.** The language (proves it was accessible), the audience (proves who was
+informed), the content (proves what was covered), the teach-back (proves understanding rather than
+transmission), the correction in the mother's restatement (proves the clinician did not accept a
+misunderstanding), and the written summary (proves something continues after the session).
+
+**What the paragraph is not.** It is not a defence prepared for a tribunal. It is the clinician's own record
+of an agreement she intends to keep, and its practical function is that she can reread it in session six, when
+she has forgotten what she promised.
+
+**The habit worth forming.** Write it in the session, before the family leaves, and read it back to them:
+"this is what I am writing down about what we agreed — is it right?" Two sentences of confirmation, and the
+consent is real.
+
+### 2.7 Laboratory: drafting the consent document
+
+**Aim.** To produce a one-page informed-consent document for couple therapy that a family with limited
+literacy could actually use, and to defend every sentence in it.
+
+**Procedure.** Students draft the document in forty minutes against the eight components. They then exchange
+with a partner who plays a family member reading it for the first time, and who must answer three questions
+from the document alone: *who is your client? who would be told if I said I was afraid of my husband? and
+what happens if I miss a session?* If the document cannot answer all three, it is rewritten in the session.
+The last twenty minutes is a plenary in which two documents are read aloud and the class marks them.
+
+**Marking rubric (20 marks).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The eight components** | Four or fewer present | Six or seven present | All eight, in plain language, with the exceptions given as examples |
+| **Who the client is** | Unclear or absent | Named, but the implications are not | Named, with what it means for confidentiality and for the individual sessions |
+| **Plain language** | Clinical vocabulary, long sentences | Mostly plain, with lapses | Readable by a twelve-year-old; no sentence over twenty words; the three test questions answerable |
+| **The secrets policy** | Absent | Stated as a rule | Stated as a rule *and* as a promise about how it will be applied |
+| **The record of consent** | Signature only | A note that consent was explained | A note recording what was explained, what the family said back, and who witnessed it |
+
+**The distinction that carries most of the marks.** The top band requires the document to state the secrets
+policy *as a promise about conduct* — "if this happens, I will do this" — rather than as a rule. A rule tells
+the family what is forbidden; a promise tells them what the clinician will do. Families comply with promises
+and litigate rules.
+
+**The three sentences that fail most often.** "Confidentiality will be maintained in accordance with
+professional standards" (means nothing to a family). "Information may be shared with relevant third parties
+where clinically indicated" (a licence to do what the Balogun therapist did). And "the therapist reserves the
+right to breach confidentiality in exceptional circumstances" (a threat with no content). All three are
+rewritten in the laboratory, and the rewrites are the most useful pages the students take away.
+
+### 2.8 Six errors
+
+**Error 1 — Treating the signature as the consent.** It is evidence of a process, not the process. A file
+with a signature and no note of what was explained is a file that will not survive a complaint.
+
+**Error 2 — Disclosing the document instead of the arrangement.** Handing over a form and saying "it is about
+confidentiality" is not a consent conversation. The family learns what they need by being told, in speech,
+with examples, and being asked to say it back.
+
+**Error 3 — Leaving the limits until they are needed.** A family that learns about the reporting duty after a
+disclosure has been made to them has been ambushed. The limits are disclosed at the start, and again as the
+case requires.
+
+**Error 4 — Not mentioning supervision and recording.** The most commonly breached obligation in training
+clinics, and the one most easily fixed. "I take my work to a supervisor" is a sentence, not a form.
+
+**Error 5 — Assuming one parent's consent covers the household.** Custody arrangements, guardianship, and
+the standing of a grandmother who is raising a child all affect who can consent. Ask, record the answer, and
+where it is unclear, obtain both.
+
+**Error 6 — Writing the consent note from memory.** The note must be written in the session, in the family's
+words, and dated. A note reconstructed a week later is worth very little, and a tribunal will notice the
+distinction.
+
+### 2.9 Culture, faith and consent
+
+**Consent is not always an individual act.** In many of the households this book is written for, a decision to
+enter therapy is made by a family, and the person who signs is the person with standing rather than the person
+most affected. A clinician who insists on individual consent from each adult will sometimes be told what they
+want to hear and will not have consent in any meaningful sense. The workable procedure is to obtain the
+signature from the person with standing *and* to speak directly to each adult, including the grandmother and
+the adolescent, asking each whether they agree. The record then says both things.
+
+**The head of household and the wife's separate consent.** A woman may be in treatment because her husband
+arranged it, and may not feel able to refuse. This is a consent problem, and its signs are the woman who says
+nothing in the first session and looks at her husband before answering. The clinical response is not to
+refuse treatment; it is to see her alone once, early, and ask whether she wants to be here. The answer is the
+consent.
+
+**Faith, authority and the referral route.** Where a family has come because a pastor or an imam advised it,
+the authority in the room is partly elsewhere. The consent conversation should establish who else will be told
+about the treatment, because in these households the answer is frequently the religious community, and a
+family that assumes the therapist will brief the pastor and discovers otherwise will feel exposed.
+
+**Language and the interpreter.** A consent conversation conducted through an interpreter is valid, provided
+the interpreter is briefed (Week 13 of MFT 703) and the family member is not used. A husband interpreting for
+his wife in a consent conversation about confidentiality is a contradiction in terms.
+
+> **DEBATE** — "A family that cannot read the consent form cannot give informed consent, and treatment should
+> not begin." Argue for: consent requires understanding, a document is the standard evidence of understanding,
+> and proceeding without it exposes the family to treatment they did not agree to. Argue against: literacy is
+> not capacity, oral consent with a witness is a recognised and lawful route, and refusing treatment on the
+> grounds of literacy denies the service to the people who need it most. Then write the clause you would put
+> in your own consent policy to cover the oral route, and say what evidence you would keep.
+
+### 2.10 Evidence note
+
+**What the research supports.** The relationship between documentation quality and disciplinary outcomes is
+among the most consistent findings in professional regulation: inadequate records appear in a large minority
+of substantiated complaints, and in many the record failure is the finding rather than the clinical act.
+Studies of informed consent consistently find that recall of consent information is poor — typically less than
+half of what was explained is remembered a week later, and much less where the information is complex or the
+person is distressed — which supports the use of plain language, written summaries and teach-back methods.
+Teach-back, in which the client repeats the explanation in their own words, reliably improves comprehension.
+
+**What is weaker.** The evidence on whether better consent processes improve *clinical* outcomes is thin.
+Consent documentation improves defensibility, and it plausibly improves the therapeutic alliance, but the
+trials are few and the outcome measures are satisfaction rather than change.
+
+**What is not supported.** That a signature is sufficient. That longer forms produce better consent — the
+evidence points the other way, with comprehension falling as length rises. And that the limits of
+confidentiality deter families from disclosing — the finding is the reverse, that clear disclosure increases
+trust, which is why the sequence in 2.4 puts the limits after the clinician has established the relationship
+rather than before.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same consent form, explained to one family in a first session and
+posted to another with an appointment letter, produces consent in one case and a complaint in the other.
+
+### 2.11 Key terms
+
+**Code of ethics** — a professional body's enforceable statement of minimum standards.
+
+**Informed consent** — agreement to treatment given by a person who understands what is proposed, its risks,
+its alternatives and its limits, and who is free to refuse.
+
+**Assent** — a child's or young person's agreement to treatment, given in language they understand, where the
+legal consent rests with a parent or guardian.
+
+**Capacity** — the ability to understand and weigh information relevant to a decision; distinct from age and
+from literacy.
+
+**Mature minor** — a young person judged able to consent to treatment without a parent, under some
+jurisdictions' law.
+
+**Teach-back** — asking the client to restate the explanation in their own words, as a check on comprehension.
+
+**Therapeutic secret** — information held by the therapist from one member of a couple or family, known to
+the other members not to be shared.
+
+**Disclosure** — the giving of information; not the same as consent, which requires understanding and agreement.
+
+**Witness** — a person present at an oral consent conversation who can later attest to what was said.
+
+**Scope of consent** — the limits of what was agreed; consent to discuss medication is not consent to
+describe a household.
+
+### 2.12 Self-test
+
+1. Name the ten core obligations and the two that generate most complaints.
+2. Why is the signature the weakest part of the consent file?
+3. Give the eight components of informed consent for couple therapy.
+4. What is the difference between consent and assent, and why does the distinction matter clinically?
+5. In the Balogun case, what exactly did the family consent to, and what was disclosed beyond it?
+6. What are the four limitations of confidentiality, and how should they be framed to a family?
+7. What is teach-back, and why does it matter more than the form?
+8. What would you write in the record to evidence that consent happened?
+
+**Answers.** *(1)* Competence; informed consent; confidentiality; multiple relationships; sexual intimacy;
+fees; advertising; research ethics; cultural competence and non-discrimination; legal compliance — the two that
+generate most complaints are inadequate records and failure to document consent. *(2)* Because it evidences a
+transaction rather than an understanding; a family can sign a document they cannot read and have consented to
+nothing, and a tribunal will say so. *(3)* Who the client is; who is seen and in what combination; the
+confidentiality and secrets policy; recording and supervision; fees and cancellation; the limits of
+confidentiality; the complaints route; the right to withdraw. *(4)* Consent is the legal authorisation, held by
+an adult or a guardian; assent is the young person's agreement, which is not legally required and is
+clinically decisive, because a child who did not assent withdraws by the third session. *(5)* Consent was to
+discussion of Mama's medication with her physician; the disclosure included the daughter-in-law's exhaustion,
+the family's handling of care, and a judgement that they had not been honest — none of which was within the
+scope. *(6)* Risk to self, risk to others, abuse of a child or vulnerable adult, and a court order — framed as
+promises about what the clinician will do ("I will tell you before I tell anyone"), with examples rather than
+abstractions. *(7)* Asking the client to restate the explanation in their own words; it matters because recall
+of consent information is poor and because the client's words, recorded, are the evidence of understanding.
+*(8)* What was explained; in what language and by whom; what the family said back; who witnessed it; the date;
+and what was agreed.
+
+### 2.13 Reflective task
+
+Find a consent form — any clinic's, any profession's — and read it as though you were a frightened parent with
+two children and no time. Then answer three questions: what does it tell you that you need to know? what does
+it fail to tell you? and what would you have to ask, out loud, to understand what will happen to your
+information? Most students find that the document answers the clinic's questions and not the family's, which is
+the difference between a release and a consent.
+
+### 2.14 Further reading
+
+- AAMFT *Code of Ethics* — read the current version, and the interpretive statements, not a summary.
+- APA *Ethical Principles of Psychologists and Code of Conduct* — for comparison on the three issues where
+  the codes disagree.
+- Beauchamp, T. and Childress, J. on informed consent — the analytical account of the eight components.
+- Schenker, Y. et al. on teach-back — the evidence on comprehension and recall.
+- Gutheil, T. and Gabbard, G. on boundary violations — the documentation chapter, which is the most useful
+  practical text in this area.
+
+*Next: Week 3 — Confidentiality in the multiperson system.*
 
 ---
 
