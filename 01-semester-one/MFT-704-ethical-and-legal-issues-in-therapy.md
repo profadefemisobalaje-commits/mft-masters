@@ -6348,26 +6348,674 @@ the feeling that produces either control or withdrawal in a therapist. Neither i
 
 ## Week 10 — The legal framework a clinician must know
 
-This section is **orientation, not legal advice**. Statutes and state practice vary; verify with a lawyer.
+**Learning outcomes.** By the end of this week the student can (1) describe the four marriage systems operating in
+Nigeria and the dissolution route attached to each; (2) identify the five areas of law that bear on family therapy
+and state what the therapist may and may not do in each; (3) apply the welfare principle and explain why a treating
+therapist should not conduct a forensic custody evaluation of her own client; (4) route a legal question out of the
+session correctly, with a written referral question; and (5) explain why documentation is a legal instrument.
+
+### Orientation, not legal advice
+
+This week teaches legal literacy, not law. Nothing here is advice, statutes vary between states and are amended,
+and the therapist who relies on a textbook rather than on a lawyer in a live case has made a category error. The
+purpose of the week is narrower and entirely practical: that the therapist can recognise a legal question when it
+appears in a session, knows which area of law it belongs to, knows what she may answer and what she must not, and
+knows who to send it to with a question that a lawyer can answer.
 
 ![Figure 10.1 — Marriage systems and dissolution questions in Nigeria](../assets/figures/fig39-family-law-map.svg)
 
-**Marriage in Nigeria exists in four overlapping forms:** statutory (Marriage Act), customary, Islamic,
-and cohabitation without legal marriage. A family may be married under more than one system.
+**Marriage in Nigeria exists in four overlapping forms:** statutory marriage under the Marriage Act, customary
+marriage, Islamic marriage, and cohabitation without a legal marriage. A family may be married under more than one
+system at the same time, and the therapist who assumes a single legal framework will mis-hear the case.
 
-**Dissolution.** Statutory divorce requires a court petition (Matrimonial Causes Act, with the
-two-year rule and recognised grounds); customary and Islamic dissolutions follow their own processes and
-courts. The therapist's role is not to advise on grounds but to help the family clarify what they are
-deciding and to refer.
+| System | What the therapist needs to know | What to refer |
+|---|---|---|
+| **Statutory** (Marriage Act) | Monogamous; dissolution by petition to the High Court under the Matrimonial Causes Act, with the two-year rule and recognised grounds | Grounds, timing, procedure, financial orders, custody |
+| **Customary** | Varies by locality and by community; dissolution through customary process and customary courts; frequently no written record | Validity, dissolution, property consequences, the status of children |
+| **Islamic** | Governed by Sharia law and Sharia courts in the states that operate them; dissolution by pronouncement, khul' or judicial process | Validity, divorce, maintenance (nafaqah), custody (hadanah) |
+| **Cohabitation** | No legal marriage; limited statutory protection; the parties may believe they are married | Property, paternity, maintenance, inheritance |
 
-**Children.** Custody and access decisions are governed by the welfare principle — the child's best
-interests. Maintenance obligations exist under both statutory and customary law. The therapist may be
-asked for a report; a treating therapist should generally not conduct a forensic custody evaluation of
-their own client (role conflict).
+**Why the plurality matters clinically, not only legally.** A woman may believe she is married under the statute
+and discover that her husband's family has dissolved a customary marriage she did not know was the operative one. A
+man may marry a second wife under Islamic law and be committing bigamy under the statute. A couple may have had
+three ceremonies and one legal marriage. The therapist's question is always the same: **which marriage, under which
+law, and what has been filed?**
 
-**Other relevant areas:** the Child Rights Act; the Violence Against Persons (Prohibition) Act 2015
-(applicable in the FCT and in states that have adopted it); mental health legislation in the states that
-have adopted the Mental Health Act 2021 framework; data protection obligations regarding client records.
+### 10.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–8 | Why the therapist needs legal literacy and must not give legal advice | Two cases: one where the therapist answered, one where she referred |
+| 8–25 | The four systems and the dissolution routes | Diagram on the board; students place six families on it |
+| 25–40 | Five areas of law and the boundary in each | Table, with a "may/may not" sort |
+| 40–55 | The welfare principle; the custody report; the role conflict | Two reports, one by a treating therapist and one by an evaluator, compared |
+| 55–70 | Routing a legal question: the five questions and the referral note | Pairs write a referral question from a case vignette |
+| 70–82 | The Adewale case | Case, with students deciding what the therapist does |
+| 82–90 | Documentation as evidence | One file note rewritten in legal-proof form |
+
+### 10.2 Five concepts that organise the week
+
+**Concept 1 — Legal literacy is a competence; legal advice is a different profession.** The therapist must know
+enough to recognise, to route and to record. She does not opine on whether a marriage is valid, whether a divorce
+will be granted, whether custody will be awarded, or what a court will do. The distinction is not modesty; it is the
+boundary of the licence, and crossing it exposes the client to wrong advice and the therapist to liability.
+
+**Concept 2 — Legal pluralism means the family may be operating in two systems at once.** Statutory, customary and
+Islamic frameworks coexist, and the same family may have obligations under more than one. The clinical consequence
+is that a client's account of "what the family has decided" may be legally real in one system and irrelevant in
+another. The therapist does not resolve this; she establishes which forum is operating and refers the question.
+
+**Concept 3 — The welfare principle governs children's cases, and it is not the same as the parents' wishes or the
+therapist's view of the parents.** Every custody and maintenance decision is made by reference to the child's best
+interests. The therapist's contribution is evidence about the child, not advocacy for a parent. This is why the
+therapist's clinical opinion — "she is a good mother" — is not what the court needs; the court needs facts about the
+child's care, stability, schooling and relationships, and an assessment conducted for the purpose.
+
+**Concept 4 — Clinical and forensic roles are incompatible in the same case.** A treating therapist cannot conduct
+a custody evaluation of her own client: the alliance compromises the neutrality the court requires, the client's
+disclosures are not gathered for the purpose, and the therapist's opinion is shaped by months of one-sided
+narrative. The correct answer to the request is a factual letter and a referral to an independent evaluator
+(Week 6, section 6.7).
+
+**Concept 5 — Records are legal documents from the moment they are written.** They can be subpoenaed, read aloud in
+court, quoted in a complaint, and inspected by a regulator. The note that records reasoning, dates, consent and
+actions is the therapist's evidence that she acted properly; the note that records impressions and speculation is
+the other side's evidence that she did not.
+
+### 10.2a The five areas of law, with the boundary in each
+
+**1. Marriage and dissolution.** *The therapist may:* ask which system or systems the marriage was contracted
+under, whether any petition or customary process has been started, and what the client wants. *The therapist may
+not:* advise on grounds, validity, timing or the likely outcome. *Refer:* to a family lawyer, with the question
+written down.
+
+**2. Children — custody, access, maintenance, guardianship.** *The therapist may:* provide factual information with
+consent, support the child, and help the parents reach agreements that are not legally binding. *The therapist may
+not:* evaluate her own client's parenting for a court, recommend an outcome, or write a letter of support. *Refer:*
+to an independent forensic evaluator, and to a lawyer for maintenance and custody procedure.
+
+**3. Violence — criminal and protective.** The Violence Against Persons (Prohibition) Act 2015 applies in the
+Federal Capital Territory and in the states that have adopted it; state laws vary in the protections they provide.
+*The therapist may:* explain her own reporting duties, support a client through a police statement, and refer to
+legal aid. *The therapist may not:* advise whether to report a crime, mediate a criminal matter, or promise an
+outcome.
+
+**4. Mental health legislation.** The Mental Health Act 2021 reformed the framework nationally, and its adoption
+and implementation vary by state. It matters clinically because it governs involuntary assessment and treatment,
+and because a family may attempt to use it against a member. *The therapist may:* explain the process in general
+terms and support a client through an assessment. *The therapist may not:* initiate an involuntary process except
+through the statutory route and with legal advice.
+
+**5. Records and data protection.** The Nigeria Data Protection Act 2023 and the professional codes impose duties
+about storage, access, retention and disclosure. *The therapist may:* hold records, share them with consent, and
+disclose where compelled or where a duty requires. *The therapist may not:* disclose without consent or legal
+authority, keep records indefinitely without a policy, or store clinical material in a form that can be read by a
+family member.
+
+### 10.2b When litigation is pending: the therapy contract
+
+The most demanding configuration in this week's material: the family is in court and the therapy is running at the
+same time. Four additions to the ordinary contract, agreed at the start and recorded.
+
+**1. The therapy is not part of the case.** "This work is not evidence. If a court asks for my records, I will tell
+you and I will do what the law requires, and I will not be writing a report for either side." Stated at the start,
+it prevents the client recruiting the therapist as an ally, which is the commonest failure.
+
+**2. The court timetable is not the clinical timetable.** The therapist asks for the dates of hearings and filings
+and writes them in the file. Sessions immediately before a hearing are different sessions — the client is
+mobilised, the children are frightened, and the material is often the material of the courtroom rather than of the
+family.
+
+**3. Nothing is said about the other party that cannot be said in front of them.** This is a constraint on the
+therapist, not on the client: the therapist will not collude in building a case, and will name the collusion when
+it is invited ("you are asking me to agree that he is a bad father, and I am not going to do that").
+
+**4. The children are not witnesses.** The therapist will not ask a child to report on a parent, will not carry
+messages, and will not tell a child what is happening in court beyond what the parents have agreed to tell them.
+Where the parents cannot agree, the therapist helps them compose a single short explanation, because the child who
+is told two stories is being asked to choose.
+
+### 10.3 The plural system in the consulting room
+
+**The five configurations the therapist will meet.**
+
+1. **One marriage, one system.** The couple married under the statute and will divorce under it. The path is
+   legible and the therapist's task is to keep the clinical work separate from the litigation timetable.
+2. **One marriage, two systems.** A statutory marriage plus a customary ceremony, which many families treat as the
+   "real" marriage and the registry as the formality. The dissolution question then becomes which forum the family
+   will use, and the answer may differ between the husband's family and the wife's.
+3. **Two marriages, sequentially.** A customary marriage followed by a statutory one, or the reverse. The legal
+   position of the first wife may be entirely different from what she believes.
+4. **Two marriages, concurrently.** An Islamic second marriage alongside a statutory first marriage, which may
+   constitute bigamy under the statute — a criminal question, not a therapeutic one.
+5. **No marriage.** Cohabitation, frequently described by the family as marriage, with children. Property,
+   maintenance and inheritance questions arise, and the client may have no legal status at all.
+
+**What the therapist does with the configuration.** Four questions, asked without legal opinion. *Under which law
+was this marriage contracted, and is there a certificate?* *Has anything been filed or pronounced — a petition, a
+customary dissolution, a pronouncement?* *Who in the family has been involved in that process, and does the client
+agree with what they have done?* *What does the client want — the marriage, the divorce, the children, the
+property, or clarity?*
+
+**The clinical significance of the fourth question.** Clients frequently do not know what they want from the legal
+process, because the legal process has been started by somebody else — a husband's family, a brother, an employer.
+The therapist's work is to help the client separate the question "what is happening to me" from "what do I want",
+because a client who has not answered the second will be represented by whoever answers it for her.
+
+**The woman with no forum.** In some of these cases the client has no effective access to any court: no money, no
+lawyer, no standing in the customary process, and a family that has already decided. The therapist's role then is
+practical and clinical rather than legal: identify the legal aid providers that exist, connect her with a women's
+organisation that accompanies clients, and support the psychological work of living with an outcome she did not
+choose. Doing this well is not a lesser form of help than referring to a lawyer.
+
+### 10.3a The client who has been to three forums
+
+A configuration that appears often enough to be its own subsection. The client has been to a customary court, to a
+pastor, and to a police station, and has three different answers. She arrives believing that "nobody will help",
+which is frequently accurate in the sense that no single forum has authority over the whole of her problem.
+
+**What the therapist does first.** Builds the chronology, because the client's account will be organised by
+emotion rather than by date. A single page, with dates, forum, decision and who was present, converts a story of
+chaos into a set of events. The page is the client's, written with the therapist, and it is the most useful
+document the case will produce.
+
+**What the therapist does second.** Establishes which forum is authoritative for which question. A customary court
+may have decided a matter of family status; a police report may have been closed; a pastor may have pronounced a
+reconciliation that has no legal effect. The therapist does not decide; she writes the question for each.
+
+**What the therapist does third.** Names the pattern to the client. "You have been to three places and each of them
+answered a different question. That is why it feels as though nobody has answered you." Naming it is often the
+first moment at which the client feels understood, and it is the foundation for the referral that follows.
+
+**What not to do.** Do not tell the client that her customary process "does not count". It counted, to the people
+who conducted it, and to her; the legal question about its effect is separate, and dismissing the process confirms
+that the therapist does not understand her world.
+
+### 10.4 The welfare principle and the custody report
+
+**The principle.** In any decision concerning a child, the child's best interests are the paramount consideration.
+The therapist does not need to know the statutory wording; she needs to know that the child's interests are not the
+same as either parent's wishes, and that a court will weigh stability, care, education, health, the child's own
+views where age permits, and the child's relationships.
+
+**What a court typically asks for, and what a therapist can provide.**
+
+| The court wants | The treating therapist can supply | The treating therapist cannot supply |
+|---|---|---|
+| Facts about the child's care | Attendance, presenting problems, the child's own statements, with consent | An assessment of the other parent |
+| The child's views | What the child has said, in context, if the child consents or the law requires | A recommendation about residence |
+| Stability and functioning | Observations from sessions | A prediction of future parenting |
+| Expert opinion | Nothing | An expert opinion — she is not the expert, and she is not independent |
+
+**The factual letter, which is usually the right answer.** On letterhead, with the client's written consent, it
+states: the dates of contact, the fact of attendance, the presenting problem in the client's words, and — only if
+the therapist judges it appropriate and the client agrees — a short statement of the clinical picture. It does not
+contain an opinion about parenting, an assessment of the other party, or a recommendation. It is dated, signed and
+sent to the court or the lawyer, and a copy goes in the file.
+
+**The request to appear.** Where the therapist is subpoenaed she must attend and answer. Where she is asked to
+appear as an expert she must decline, and explain why: an expert opinion requires an assessment conducted for the
+court, independence from the parties, and a methodology that can be scrutinised. A treating therapist who offers
+an expert opinion in her own client's case is not being helpful; she is being replaced as a witness by an advocate.
+
+**The child's own voice.** A child of twelve may express a preference, and the expression is evidence, not a
+decision. The therapist's task is to ensure the child is not placed in the position of choosing between parents,
+which is a burden that produces loyalty conflicts and lasting damage. The formulation that helps: "you do not have
+to choose. The adults will decide, and what you can tell me is what you want them to know about how it is for you."
+
+**The report that must never be written by a treating therapist.** "In my opinion, the mother is the more capable
+parent and the children should reside with her." It is a forensic opinion, it is outside the therapist's role, it
+will be attacked in cross-examination, and it converts months of clinical work into a piece of advocacy that the
+other side can dismantle by showing the therapist met the father four times.
+
+### 10.4a Routing a legal question: the five questions and the referral note
+
+**The moment it happens.** A client says, "can he take the children from me?" or "if he has another wife, is our
+marriage not void?" or "my brother says I can divorce him for free in the customary court, is that true?" The
+therapist has two seconds in which her face will answer, and the answer must be a route rather than an opinion.
+
+**The five questions, in the session.**
+
+1. **"Has anything been filed?"** A petition, a customary process, a police report, a maintenance application. The
+   answer changes the urgency from "sometime" to "within days".
+2. **"Do you have a lawyer?"** If yes, the therapist's job is to help the client formulate the question for the
+   lawyer. If no, the therapist's job is the referral, with the specific route.
+3. **"What are you being asked to decide, and by when?"** A court date, a family meeting, a deadline for a response.
+   Dates are the therapist's business even where the law is not.
+4. **"Who else is a party?"** A husband's family, a co-wife, a child's guardian, an employer, an immigration
+   authority. Multi-party cases need multi-party advice.
+5. **"What do you want me to do?"** The client may want an opinion, a letter, a witness, or a person to sit with
+   her. Each is a different request, and only some of them are ones the therapist can meet.
+
+**The referral note, which is the deliverable of the whole week.** Six lines, written in the session, handed to the
+client, copied to the file.
+
+> Re: [client], [date]. Thank you for seeing [client], who is considering/ facing [divorce petition / custody
+> application / customary dissolution / maintenance claim]. She would like advice on: (1) the validity and effect of
+> the [customary] dissolution pronounced on [date] in respect of a [statutory] marriage; (2) her position on
+> residence of and access to the two children, aged 12 and 7; (3) whether maintenance can be sought and from which
+> court. She is not able to fund private representation and has asked about legal aid. I am her therapist and am
+> not able to advise on any of these matters. Yours, [name], [qualification], [contact].
+
+**Why the three numbered questions matter more than the letter's tone.** A lawyer receiving "please advise on
+custody" will write a general letter that costs money and answers nothing. A lawyer receiving three numbered
+questions can answer them in fifteen minutes and will.
+
+**What goes in the file.** The referral note, the date, the client's consent to the referral being made, and the
+question she asked in her own words. Nothing about the therapist's clinical view of the husband.
+
+### 10.5 Building the referral network before you need it
+
+Therapists build clinical networks and neglect legal ones, then improvise at the point of crisis. Five contacts,
+established in advance, each with a name and a number verified in the last year.
+
+**1. A family lawyer** willing to take occasional pro bono or reduced-fee referrals, and willing to receive the
+six-line note of 10.4a rather than a telephone call in a panic.
+
+**2. A legal aid provider** — the Legal Aid Council, a state scheme, a university law clinic, or a women's
+organisation with a legal desk. Legal aid is frequently available and almost never known about by the client.
+
+**3. The police family support unit** at the nearest station, with the name of the officer in charge. This is the
+contact that determines whether a report is taken properly at eleven at night.
+
+**4. The state ministry responsible for social welfare, or the child protection unit,** with the out-of-hours
+number if one exists (Week 9).
+
+**5. A mediator or a customary process you can respect.** Not every case needs a court, and some families will use
+a mediation process that is cheaper, faster and more legitimate to them than litigation. The therapist should know
+which local processes are conducted fairly and which are instruments of the husband's family.
+
+**The maintenance of the network.** One telephone call a year to each contact, and one case referred. A network that
+is only used is not a network; it is a list of strangers with whom the therapist is unfamiliar at the moment of
+greatest need.
+
+### 10.6 Case: the Adewales, and the marriage that was also another marriage
+
+**The referral.** Bola Adewale, 38, a schoolteacher, attends alone "for stress". She and Yinka, 42, a civil servant,
+have been married twelve years, with two children, 12 and 7. In session three she says, in passing, "his people have
+done what they wanted to do. They say we are no longer married."
+
+**What had happened.** Bola and Yinka married in a church with a marriage certificate — a statutory marriage under
+the Marriage Act. In the eleventh year, following a dispute about money and Yinka's relationship with another woman,
+Yinka's family convened and pronounced a customary dissolution. Yinka moved out. He has continued to pay the school
+fees and has visited the children twice a month. He has told Bola that the marriage is over and that she should
+"go back to her family". Her brother has told her the same. She has no lawyer, has not been to any court, and
+believes that what the family pronounced is final.
+
+**The legal question, which is not the therapist's to answer.** Whether a customary dissolution can dissolve a
+statutory marriage, and what Bola's position is in respect of the marriage, the children, maintenance and property.
+The therapist knows enough to know that this is a real question with a real answer, and does not know the answer.
+
+**What the therapist did.**
+
+1. **She asked the five questions.** Nothing filed; no lawyer; the deadline perceived by Bola was her family's
+   pressure to move out "before the school term"; parties included Yinka's family and hers; and what she wanted was
+   "to know whether I am still married".
+2. **She wrote the six-line referral note** with three numbered questions, and telephoned a legal aid organisation
+   she had a contact at, with Bola's consent, on the same day.
+3. **She separated the three problems** that Bola had fused: the legal status of the marriage; the practical
+   question of money and children; and the emotional question of whether her husband had ever intended to remain.
+   Only the third was the therapist's, and it had been invisible because the first two were consuming her.
+4. **She did not tell her to fight or to accept.** She said what she had said in other cases: "there is a legal
+   question and I cannot answer it; there is a decision about what you want, and that is yours; and there is the
+   grief, which is mine to work on with you."
+5. **She recorded all of it,** including that she had made no legal assessment.
+
+**What happened.** A lawyer at the legal aid organisation advised that a customary dissolution does not dissolve a
+statutory marriage, and that Bola remained married under the statute; a petition would be required. Bola did not
+immediately petition. She spent four months in treatment deciding whether she wanted to, and in the fifth month she
+filed. The therapist supported her through the process and did no legal work at all.
+
+**The clinical work, which is the part students underestimate.** Bola's presenting "stress" was the experience of
+having been told by two families what her life was. She had not been asked what she wanted since she was
+twenty-six. The therapy's central question — "what do you want?" — was answered for the first time in session nine,
+in these words: "I want to be a married woman or a divorced woman. I do not want to be this."
+
+**What the case teaches.**
+
+1. **Legal pluralism produces a particular kind of helplessness,** and the helplessness is the clinical problem.
+   The client who does not know whether she is married cannot plan, cannot grieve and cannot decide.
+2. **The therapist's ignorance of the law is not a barrier when it is honest.** "I do not know, and here is how we
+   will find out" is a complete clinical intervention.
+3. **The family's pronouncement is not the law.** In this case the family's process was real to the family and had
+   no effect on the statutory marriage. The therapist's refusal to accept the family's account as the legal fact
+   changed the case, and she reached that refusal not by knowing the law but by knowing that a question existed.
+4. **The three problems had to be separated** before any of them could be worked. This is the single most useful
+   move in the whole week, and it generalises to almost every case in which a family presents with a legal crisis.
+
+### 10.6a The factual letter, written out
+
+The letter that is almost always the right answer to "will you write something for my case". On letterhead, with
+the client's written consent, five short paragraphs.
+
+> **Re: [client name], [date of birth]; consent to disclosure dated [date]**
+>
+> I have seen [client] on [n] occasions between [date] and [date], at her request, for [presenting problem in the
+> client's words]. She has attended [n] of [n] scheduled appointments.
+>
+> The clinical picture is of [one or two sentences: anxiety following separation; grief; difficulty sleeping]. I
+> have not assessed her parenting capacity and I make no recommendation about residence or contact.
+>
+> [Client] has told me that [only if relevant and consented: she wishes to see her children; she is attending a
+> support group]. I make no finding as to the truth of what she has told me.
+>
+> If the court requires information about the children's welfare, I would suggest an independent assessment; I am
+> not able to provide one, as I am [client]'s treating therapist and my view would not be independent.
+>
+> Yours faithfully, [name], [qualification], [registration number], [contact].
+
+**Why the third paragraph is written that way.** "I make no finding as to the truth" is the sentence that keeps a
+clinical letter from becoming a witness statement. Clients often ask for it to be removed, because it weakens the
+letter; the therapist explains that its presence is what makes the rest of the letter admissible as an account
+rather than challengeable as advocacy.
+
+**The refusal to add the sentence the client wants.** "In my opinion she is a fit mother." The refusal is delivered
+with the alternative: "I can say what I have observed, and I cannot say that. If you need an opinion, you need
+someone the court will treat as independent, and here is how to ask for one."
+
+### 10.7 Transcript: "can he take the children?"
+
+Session five, minutes eighteen to thirty-one. Bola has just been told that she remains married under the statute.
+
+> **D1 Bola:** So can he take the children? His mother says they are his children because they bear his name.
+>
+> **D2 Therapist:** *(pause)* That is a legal question and I am not going to guess at it. *(pause)* I can tell you
+> what I know and what I do not know. — *The refusal, followed immediately by the structure of the answer. "I am
+> not going to guess" is stronger than "I am not qualified", because it names what the therapist will not do rather
+> than what she lacks.*
+>
+> **D3 Bola:** But you must know.
+>
+> **D4 Therapist:** I know that there is a law about this, and that it is not the law his mother is describing.
+> *(pause)* I do not know what a court would decide, and neither does she. — *The two facts the therapist can
+> honestly give: a law exists, and the family's version is not it. The second half is the clinically important one,
+> because it interrupts the family's certainty without substituting the therapist's.*
+>
+> **D5 Bola:** So I need a lawyer.
+>
+> **D6 Therapist:** You need a lawyer, and you needed one four months ago, and that is not your fault. *(pause)* I
+> have a name, and I will telephone today if you want me to. — *The acknowledgement that avoids blame, and the
+> concrete offer. The client who is told "you should have got a lawyer" hears an accusation, and the accusation is
+> almost always unjust.*
+>
+> **D7 Bola:** I do not have money for a lawyer.
+>
+> **D8 Therapist:** There is legal aid, and I have checked that this organisation takes cases like yours. *(pause)*
+> I am going to write the questions down for you, so that you are not paying for the first hour while he works out
+> what you are asking. — *The specific, prepared answer. Vague reassurance about legal aid is what most clients
+> receive; a checked contact and three written questions is a service.*
+>
+> **D9 Bola:** *(long pause)* If I am still married, then what has he been doing for a year?
+>
+> **D10 Therapist:** *(pause)* That is the question underneath the legal one, and it is the one we can work on. — *
+> The pivot to the clinical material, made explicit so that the client knows the therapist has heard it and has not
+> dropped it.*
+>
+> **D11 Bola:** He has been living as if I do not exist. And his family have been telling everyone in the
+> compound that I am the one who refused.
+>
+> **D12 Therapist:** So you have been divorced in your street and married in the law. — *The formulation that the
+> rest of the case is built on, offered in one sentence and in the client's own terms.*
+>
+> **D13 Bola:** *(crying)* Yes. *(pause)* That is exactly it.
+>
+> **D14 Therapist:** Then let us be clear about the three things we are dealing with: what the law says, which is
+> your lawyer's; what you want, which is yours; and what it has been like to live in that gap, which is ours.
+> — *The separation of the three problems, stated aloud so that the client has a map she can use outside the
+> room.*
+
+**What the transcript shows.** Seven turns, and in none of them does the therapist answer the legal question. In
+four of them she gives the client something usable: the existence of a law, the name of an organisation, three
+written questions, and a formulation of her situation that she recognises. The refusal is not the intervention; the
+substitution is.
+
+### 10.8 Laboratory: legal triage and the written question
+
+**Part A — triage (twenty minutes, individual).** Eight vignettes, each with a legal question embedded in clinical
+material. The student identifies: the area of law; whether the question is urgent (within seven days) or not; what
+the therapist may say; what the therapist must not say; and the referral destination.
+
+| Vignette | Embedded question |
+|---|---|
+| A wife says her husband's family "divorced" her by custom | Validity; effect on statutory marriage |
+| A father asks whether he must keep paying school fees after separation | Maintenance obligation |
+| A mother says her husband has taken the children to his village | Custody; possible abduction |
+| A client asks whether she can refuse her husband a second wife | Nothing legal; a marital and religious question |
+| A couple ask whether their church marriage is "real" | Validity; registration |
+| A client's employer demands a report about her | Data protection; consent |
+| A client asks if he can be forced into psychiatric treatment | Mental health legislation |
+| A client asks who will get the house | Property; matrimonial causes; customary law |
+
+**Part B — the six-line note (twenty-five minutes, pairs).** Each pair writes the referral note for one vignette,
+with three numbered questions, and reads it aloud. The group then marks it against four criteria: the questions are
+answerable; the note contains no legal opinion; it contains no clinical opinion that is not necessary; and it
+identifies the client's practical constraint (money, distance, language).
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Identification** | Wrong area of law | Right area, no urgency | Right area, urgency and forum identified |
+| **Boundary** | Gave an opinion | Hedged opinion | Refused clearly and gave something usable instead |
+| **The note** | A name only | A referral | Three answerable questions, practical constraints named |
+| **Record** | None | Description | Question, consent, date, referral made, advice recorded |
+
+**The comment to make in the debrief.** The best notes in the room will be the shortest. Legal questions are
+answered by being narrowed.
+
+### 10.9 Six errors
+
+**Error 1 — The reassuring opinion.** "He cannot take the children; you are their mother." It is said kindly, it is
+frequently wrong, and the client will act on it. The error is not the warmth; it is the opinion.
+
+**Error 2 — Refusing to engage at all.** "I am not a lawyer" said and nothing else offered leaves the client with
+the same problem and one fewer ally. The refusal must be followed by the route.
+
+**Error 3 — Treating the family's pronouncement as the legal fact.** Customary processes are real to families and
+may have no legal effect. The therapist who accepts the family's version confirms the client's helplessness.
+
+**Error 4 — The letter of support.** "I have known Mrs Adewale for a year and she is a devoted mother." It is not
+evidence, it will be cross-examined, and it has converted the therapist into a witness for one side.
+
+**Error 5 — The forensic evaluation conducted by the treating therapist.** The role conflict described in 10.4, made
+worse by the therapist's belief that she knows the family better than an outside evaluator would.
+
+**Error 6 — The clinical note written for the file and read in court.** Sarcasm, speculation, unverified allegation
+recorded as fact, and abbreviations that cannot be explained. The note is written for a reader who will be hostile.
+Write it that way.
+
+### 10.9b The four questions a therapist asks her own lawyer
+
+Therapists hesitate to consult a lawyer about their own practice because they assume it is expensive and that the
+question must be serious. In fact four questions account for most of the need, and each can be answered in a short
+consultation.
+
+**1. "May I disclose this, and to whom?"** The records question. The answer depends on the statute, the consent and
+the order, and it changes with the jurisdiction.
+
+**2. "What must I do now that I have been served?"** The subpoena question. The answer is almost always: verify,
+tell the client, obtain advice, produce only what is required, and keep a copy of everything produced.
+
+**3. "Am I obliged to report this?"** The child protection and risk question, where the threshold is unclear.
+
+**4. "If I proceed as I intend, what is my exposure?"** The advance question, asked before a decision rather than
+after it, and the one that most reduces the risk of a complaint.
+
+**The practice's arrangement.** A retainer or a professional indemnity scheme that includes legal advice, and a
+named contact. The cost of the annual arrangement is a fraction of the cost of a single defended complaint, and the
+availability of advice changes the therapist's decisions in the direction of more honesty rather than less.
+
+### 10.10 Culture, faith and the law the family actually uses
+
+**Customary process is not a lesser law; it is a different forum with different rules and real authority.** In much
+of this region, a family's decision about a marriage is made in a room with elders, is binding in the eyes of
+everyone present, and is never written down. A therapist who treats this as "not real" will lose the family's
+confidence; a therapist who treats it as legally decisive will misinform the client. The correct position holds
+both: "what your family decided matters to them and to you. Whether it changes your legal position is a different
+question, and we will ask someone who knows."
+
+**The two forums and the confusion between them.** Clients frequently assume that a customary dissolution ends a
+statutory marriage, that a church ceremony creates a legal marriage, that an Islamic marriage gives a second wife
+the same standing as the first, and that a father's family owns the children. Each assumption is common, each
+carries consequences, and none of them can be corrected by the therapist's opinion. It is corrected by a lawyer's
+letter and by the client's decision to act on it.
+
+**Religion, obedience and the right to leave.** A client may believe that her faith forbids divorce and that her
+suffering is a cross. The therapist does not argue with the belief. She does three things: she finds out what the
+client's own religious authority teaches about cruelty and about release, which is frequently more permissive than
+the client assumes; she separates the religious question from the legal one, since a religious prohibition is not a
+legal incapacity; and she asks the question that opens the case: "if your faith permitted it, what would you want?"
+
+**The family's use of the law as a threat.** "My husband says he will take the children and I will never see them."
+Sometimes the threat is knowledge of the law; more often it is a threat with no legal basis, issued to produce
+compliance. The therapist cannot assess which it is. She can do two things: name the threat as a threat, which
+reduces its power, and route the client to advice that will tell her the truth.
+
+**The honour dimension of a public case.** Where the family's standing depends on the marriage being intact, a
+court case is a public declaration that it is not. Clients may therefore prefer a private, customary or mediated
+route even where a court would give them more. That preference is rational and the therapist should respect it,
+while making sure the client knows what she is giving up.
+
+**The male client and the law's reputational cost.** A father who is seen to be fighting his wife in court may lose
+standing at work and in his family. The therapist working with such a father should not read his reluctance to
+litigate as indifference to his children.
+
+> **DEBATE** — "A family therapist should always advise a client to obtain legal advice before making any decision
+> about the marriage." Argue for: information is a precondition of consent, the stakes are irreversible, and the
+> therapist's silence can be read as endorsement of the family's version. Argue against: the client may not want
+> legal advice, the referral may itself escalate the conflict, and the therapist's role is to support the client's
+> own decision rather than to steer it. Then state the three cases in which you would insist.
+
+### 10.11 Evidence note
+
+**What is known.** Legal pluralism is a structural feature of family life in Nigeria and in much of sub-Saharan
+Africa, and the literature on family law in plural systems documents precisely the confusions described in this
+week: conflicting adjudications, women's differential access to forums, and the gap between customary practice and
+statutory protection. Research on help-seeking in domestic violence consistently finds that legal literacy is one of
+the strongest predictors of a woman taking protective action, and that the absence of accessible advice is a
+principal barrier. Studies of client experiences of court-involved therapy find that role confusion — treating
+clinician versus evaluator — is a common source of complaint and of harm.
+
+**What is weaker.** There is little empirical work on the specific question of how therapists should handle legal
+plurality in the consulting room, and almost none on outcomes. The guidance in this week is therefore derived from
+professional ethics, from the structure of the law, and from practice rather than from trial evidence.
+
+**What is not supported.** That a therapist's clinical opinion about parenting has predictive validity for custody
+outcomes. That legal advice from a non-lawyer is harmless if it is well-intentioned. And that referral to a lawyer
+inevitably escalates a family's conflict — in many cases it reduces it, because each party stops guessing.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* Legal advice given in week two, before positions have hardened, and in week
+twenty, after a customary dissolution has been pronounced and acted upon, produce two different families.
+
+### 10.11a The six documents a family therapist should hold
+
+Legal literacy is partly a matter of paperwork, and the paperwork is cheap.
+
+1. **A consent form** that names the limits of confidentiality, the duty to report, the possibility of records being
+   compelled, and the identity of the client system — reviewed and re-signed when the system changes (Week 2).
+2. **A privacy and records policy** stating what is kept, where, for how long, who may see it, and how a request
+   for access is handled.
+3. **A disclosure protocol** for requests from lawyers, courts, employers, insurers and the police: who decides,
+   what is checked, what is recorded.
+4. **A subpoena procedure,** one page: verify the document, tell the client, contact the supervisor or indemnifier,
+   seek legal advice, produce only what is required.
+5. **A complaints procedure** telling the client how to complain about the therapist, because a client who has a
+   route to complain is a client less likely to litigate.
+6. **A list of verified contacts** — lawyer, legal aid, police family unit, social welfare, crisis line — with the
+   date each was last checked.
+
+**The file that survives scrutiny** is not the file with the most detail. It is the file in which every disclosure
+has a consent behind it, every referral has a question attached, and every decision has a date.
+
+### 10.12 Key terms
+
+**Legal pluralism** — the coexistence of statutory, customary and religious legal systems within one jurisdiction.
+
+**Matrimonial Causes Act** — the statute governing statutory divorce in Nigeria, including the two-year rule and
+the recognised grounds.
+
+**Welfare principle** — the rule that the child's best interests are the paramount consideration in decisions
+concerning children.
+
+**Forensic role** — the role of an independent expert providing an opinion to a court.
+
+**VAPP Act 2015** — the Violence Against Persons (Prohibition) Act, applicable in the FCT and in adopting states.
+
+**Mental Health Act 2021** — the national framework for mental health care, with state-level variation in
+implementation.
+
+**Legal aid** — publicly funded legal advice and representation; availability varies and is frequently unknown to
+clients.
+
+### 10.13 Self-test
+
+1. Name the four marriage systems and the dissolution route for each.
+2. Give the boundary, for the therapist, in each of the five areas of law.
+3. What is the welfare principle, and what does it require of a therapist asked for a report?
+4. Why should a treating therapist not conduct a forensic custody evaluation of her own client?
+5. State the five questions that route a legal question.
+6. What is the six-line note, and why three numbered questions?
+7. In the Adewale case, what were the three problems, and which was the therapist's?
+8. Why is the family's pronouncement not the law, and why does that matter clinically?
+
+**Answers.** *(1)* Statutory — petition to the High Court under the Matrimonial Causes Act; customary — customary
+process and customary courts, locality-specific; Islamic — pronouncement, khul' or Sharia court; cohabitation — no
+marriage, so limited statutory protection. *(2)* Marriage — may ask which system and what has been filed, may not
+advise on validity or grounds; children — may give factual information with consent, may not evaluate or recommend;
+violence — may explain her own duties and refer, may not advise on reporting or mediate a crime; mental health —
+may explain and support, may not initiate involuntary processes outside the statute; records — may hold and share
+with consent, may not disclose without authority or keep records indefinitely without policy. *(3)* The child's best
+interests are paramount; it requires the therapist to give facts about the child and to refuse an opinion about
+parenting or residence. *(4)* Because the alliance and the one-sided narrative compromise independence, the
+material was not gathered for the purpose, and the opinion will be dismantled in cross-examination. *(5)* Has
+anything been filed; do you have a lawyer; what must be decided and by when; who else is a party; what do you want
+me to do. *(6)* A short referral letter with three numbered, answerable questions; because a general request
+produces general advice that costs the client money and answers nothing. *(7)* The legal status of the marriage; the
+practical questions of money and children; and the emotional question of whether her husband had ever intended to
+stay — only the third was the therapist's. *(8)* Because a customary process may have no legal effect on a statutory
+marriage, and clinically because the client's belief that her life has been decided by others is the presenting
+problem; correcting it restores her capacity to decide.
+
+### 10.9a The therapist in the witness box
+
+Most family therapists will give evidence at some point, usually in a custody or protection matter, and the
+experience is unlike anything else in the work.
+
+**The four rules.** *Answer the question asked.* Not the question behind it, not the one you would prefer, and not
+the narrative you have prepared. *Say "I do not know" when you do not know,* which is more credible than an
+improvisation and is frequently the honest answer. *Do not defend your clinical decisions beyond the point of
+explanation.* A therapist who argues with counsel is winning an argument and losing the case. *Take your notes,
+and refer to them,* because a witness who says "I would need to check my notes" and then reads them accurately is
+more reliable than one who reconstructs from memory.
+
+**The three questions that will be asked.** "You only ever saw one side of this family, did you not?" "You are not
+a psychiatrist, are you?" "You formed the view that my client was the problem because that is what you were told."
+Each is answerable honestly and none requires a defence. The honest answers — "yes, I saw both parents but mostly
+the mother", "no, and I have not offered a psychiatric opinion", "I formed my view from what I observed and I
+recorded what I was told" — are stronger than any attempt to sound more authoritative than the therapist is.
+
+**The preparation.** Read the file in full; write a chronology; identify the limits of your knowledge; discuss with
+your supervisor what you will say about the decisions you made; and remember that the court is not asking whether
+you are a good therapist. It is asking what you know.
+
+### 10.14 Reflective task
+
+Take one of your own family cases from placement, or the Adewale case, and write three hundred words separating the
+clinical question from the legal one. Then answer: which of the two did you spend more time thinking about, and
+why? Most trainees find that the legal question is more anxiety-provoking because it has a right answer and they do
+not know it — which is exactly the anxiety that produces either an opinion or a refusal, and neither is the work.
+
+### 10.15 Further reading
+
+- The Marriage Act, the Matrimonial Causes Act and the Child Rights Act, read in the original and not in summary —
+  they are shorter than students expect.
+- The Violence Against Persons (Prohibition) Act 2015, with attention to the states that have adopted it.
+- The Mental Health Act 2021 and the state-level implementation guidance where you practise.
+- Any current text on family law in Nigeria, for the reference section of the practice manual.
+- The Nigeria Data Protection Act 2023 and your professional body's record-keeping guidance.
+
+*Next: Week 11 — Records, subpoenas and the court.*
 
 ---
 
