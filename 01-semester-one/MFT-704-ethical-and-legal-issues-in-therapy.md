@@ -3539,29 +3539,694 @@ to shape your questions? Do not resolve the question. Locate it.
 
 ## Week 6 — Boundaries and multiple relationships
 
-**Definition.** A multiple relationship exists when you have another significant relationship with a
-client or someone closely associated with them. Not all are unethical; all require examination.
+**Learning outcomes.** By the end of this week the student can (1) distinguish a boundary crossing from a
+boundary violation and explain why the difference is the whole of the topic; (2) apply the four tests to any
+multiple relationship and reach a defensible decision; (3) manage the unavoidable dual relationships of small-
+community practice without either pretending they do not exist or abandoning the client; (4) state and defend a
+personal rule for touch, self-disclosure, gifts, bartering and digital contact; and (5) recognise and manage
+sexual attraction to a client as a professional event rather than a personal failing.
 
-**The test.** (1) Could the second relationship impair your objectivity? (2) Could it exploit the power
-difference? (3) Would the client experience it as exploitative later? (4) Is it avoidable?
+### The distinction the week is built on
 
-**Common in small communities.**
+A **boundary crossing** is a departure from the usual frame that is made for the client's benefit, is discussed,
+and is reversible. A **boundary violation** is a departure that serves the therapist, is concealed, and often is
+not reversible. The two look similar in a textbook and are entirely different in a file.
 
-| Situation | Risk | Defensible approach |
+| | Crossing | Violation |
 |---|---|---|
-| Seeing a neighbour's family | Overhearing information; social contact | Discuss openly; agree how to behave at community events |
-| Client is a fellow church member | Role confusion; spiritual authority | Clarify roles; consider referral if you hold a leadership role |
-| A relative of your child's classmate | Dual loyalty | Disclose in supervision; transfer if the risk is unmanageable |
-| Client asks you to be a character witness | Role change; advocacy | Decline; explain; refer to a professional who can assess |
-| Gift-giving after a bereavement | Cultural obligation vs boundary | Accept small cultural gifts; document; discuss meaning |
-| Trading therapy for services | Exploitation risk | Usually decline; if unavoidable, document value and rationale |
+| **Whose need** | The client's | The therapist's |
+| **Disclosed** | To the client, to supervision, to the record | Concealed, or minimised |
+| **Reversible** | Yes — the frame can be restored | Rarely; the relationship is altered |
+| **Example** | A fifteen-minute extension in a crisis, noted and discussed | Sessions that routinely run long because the therapist enjoys them |
+| **Example** | Attending a former client's wedding after discharge, with the frame discussed | Attending a current client's family event as a guest |
+| **Example** | Accepting a bowl of fruit at the end of a course of treatment | Accepting a car |
 
-**Touch, self-disclosure, and home visits.** Each is sometimes therapeutic and always requires a rationale
-you can articulate in supervision. The test is never "did it feel right?" but "whose need did it serve?"
+The pedagogy follows from this: students who are taught boundaries as prohibitions become anxious and rigid, and
+rigid therapists fail their clients at exactly the moments when flexibility is clinical. Students who are taught
+the crossing/violation distinction can think, and thinking is what the situation will require.
 
-> **PRACTICAL** — Complete a boundary audit of your present life: community roles, family ties, business
-> interests, social media. Identify the three situations most likely to produce a dual relationship in the
-> next two years, and pre-decide your response.
+**Why this topic is examined so heavily in the codes.** Because boundary violations are the commonest route by
+which therapists harm clients, and because the sequence is well documented: a gradual erosion, always initiated
+by small kindnesses, always rationalised as therapeutic, and almost always preceded by isolation from
+supervision. The literature on therapist sexual misconduct finds that the great majority of cases were preceded
+by non-sexual boundary crossings over months, and that colleagues often noticed and said nothing.
+
+**The error that costs most in this subject.** Teaching the topic as though it were about sex. It is about power,
+and the sexual cases are the endpoint of a sequence that begins with the therapist becoming special.
+
+### 6.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Crossing and violation: five paired examples, sorted by the class before any theory | Live sorting |
+| 10–22 | Five concepts: power, role conflict, the slope, the small community, the felt sense | Lecture, board diagram |
+| 22–40 | The four tests and the decision matrix, applied to eight scenarios | Small groups, then plenary votes |
+| 40–55 | The unavoidable dual relationship: the community contract | Demonstration of the opening conversation |
+| 55–70 | Touch, gifts, barter, home visits, digital contact: the rule and the rationale | Lecture with cases |
+| 70–80 | Attraction: recognition, disclosure to supervision, and the decision tree | Short lecture; written anonymous question |
+| 80–90 | The Alabi case | Case presentation, students decide |
+
+### 6.2 Five concepts that organise the week
+
+**Concept 1 — Boundaries exist because the relationship is asymmetric.** The client tells the therapist what she
+has told no one; the therapist tells the client almost nothing. The client depends on the therapist's judgement;
+the therapist depends on the client for a fee. That asymmetry is not an unfortunate feature of therapy; it is the
+mechanism by which therapy works, and every boundary in this week's material exists to protect it. A boundary that
+is justified by "professionalism" in the abstract will not survive pressure. A boundary justified by the
+asymmetry will, because the therapist can see what it protects.
+
+**Concept 2 — Role conflict degrades judgement before it degrades conduct.** The therapist who is also the
+client's landlord does not begin by acting badly; she begins by thinking differently. She notices that she is
+reluctant to challenge the client about the rent, or that she is unusually warm about the client's financial
+difficulty. The judgement goes first. This is why role conflicts are examined at the point they are created and
+not at the point they produce harm.
+
+**Concept 3 — The slope is real, and it is walked one small step at a time.** No therapist decides to have a
+sexual relationship with a client. A therapist decides to take one phone call, then to meet for coffee "to discuss
+the crisis", then to accept a lift, and at each point the previous step has made the next one seem continuous.
+The clinical use of the concept is not to frighten students but to give them a rule: the sequence is interrupted
+at the *first* crossing, when it is cheap, and the interruption is a conversation rather than an act of will.
+
+**Concept 4 — In small communities, multiple relationships are not avoidable; they are manageable.** In a city of
+eight million a therapist can decline a case and the client will find someone else. In a town of thirty thousand
+with two trained therapists, refusing the mayor's family can mean the family receives no service. The ethical
+question therefore shifts from *may I avoid this?* to *how do I manage this honestly?* — which is a harder
+question and the one this week spends most of its time on.
+
+**Concept 5 — "It felt right" is not a test.** The felt sense is a poor guide in this domain because the
+therapist's warmth, the client's gratitude and the pleasure of being needed all feel like evidence of a good
+relationship. The test is external: whose need is served, what would supervision say, what would the client say
+in five years, and is it in the record?
+
+### 6.2b The five-minute boundary decision
+
+The four tests produce a decision, and in practice the therapist has five minutes and no matrix to hand. The
+compressed version, used in the room, is four questions asked in this order.
+
+**Question one — what would I have to stop doing?** The concrete loss is the fastest indicator of a role conflict.
+A therapist who realises that she could no longer challenge the client about money has found the conflict without
+needing a theory.
+
+**Question two — who would know first?** If the answer is "nobody", the arrangement has already failed. Every
+defensible dual relationship in this chapter was declared before it began; every indefensible one was discovered.
+
+**Question three — can the client say no?** A favour, an offer of employment, a discount: each is a proposal made
+by a person the client depends on. If the client cannot refuse without cost, the arrangement is exploitation
+whatever its intention.
+
+**Question four — what is my sentence?** The therapist must be able to say, in two sentences and without
+embarrassment, what the arrangement is and why. A clinician who cannot construct this sentence has not decided
+anything; she has drifted, and drift is the mechanism of the whole chapter.
+
+**What to do with the answer in the five minutes.** Three outcomes only. Proceed with the contract write-up.
+Decline with the four-part script. Or say "I need to think about this and I will tell you on Thursday", which is
+always available, is never wrong, and is the answer most often forgotten under pressure.
+
+**The one arrangement that cannot be decided in five minutes.** Any proposal that involves money, employment, or
+a sexual or romantic dimension — including a proposal that arrives from the client, obliquely, in a sentence that
+could be read two ways. Those go to supervision before any answer is given, and the client is told that the
+therapist is thinking about it, which is true and which is not a rejection.
+
+### 6.2a The four tests, and the decision they produce
+
+The four tests from the scaffold are the right ones. What follows is how to use them so that they produce a
+decision rather than a discussion.
+
+1. **Objectivity.** Could the second relationship impair my judgement about this client's treatment? Not "will
+   it" — could it. The answer is almost always yes in some degree, and the useful question is what specifically
+   would change.
+2. **Exploitation.** Could the second relationship exploit the power difference? A loan to a client, a business
+   partnership, a favour that the client cannot refuse — each is exploitation even where the therapist's motive
+   is generous.
+3. **Foresight.** Would the client experience this as exploitative later? This is the test that is easiest to
+   answer dishonestly and most useful when answered in the client's voice. "In three years, telling a friend
+   about her therapy, how would she describe this?"
+4. **Avoidability.** Is the second relationship avoidable without depriving the client of the service? A gift
+   from a bereaved family is not really avoidable; a business partnership is.
+
+**The decision matrix.**
+
+| Objectivity impaired? | Exploitation possible? | Avoidable? | Decision |
+|---|---|---|---|
+| No | No | Yes | Decline, briefly and without a lecture |
+| Slightly | No | Yes | Decline; discuss in supervision |
+| Yes | No | No | Proceed with a written contract and supervision review |
+| Yes | Yes | No | Proceed only with a formal risk management plan, documented, reviewed monthly |
+| Yes | Yes | Yes | Do not proceed. Transfer the case |
+
+**The three columns that matter.** *Written contract:* the conversation with the client about how the two roles
+will be handled, recorded in the file in the client's presence and with the client's agreement. *Supervision
+review:* a named supervisor who knows about the arrangement and a date at which it is reconsidered. *Transfer:*
+the option that therapists resist and that is frequently correct.
+
+**The sentence for declining.** "I am not able to take this on, and I want to tell you why so that it does not
+feel like a rejection: I know your family socially, and that would make it hard for me to be a good therapist to
+you. I can give you two names." Brief, honest, and it does not invite negotiation. The therapist who explains at
+length has made the client responsible for accepting the refusal.
+
+### 6.3 The unavoidable multiple relationship: the community contract
+
+Where the therapist and client will inevitably meet in another role — the same church, the same school, a shared
+extended family, a village — the work is not avoidance but an explicit contract, made at the start, recorded, and
+revisited.
+
+**The four elements of the contract.**
+
+1. **The naming.** "We are going to see each other at church, and at your sister's shop, and probably at the
+   market. I want us to agree now how we will handle that, so that neither of us is caught out."
+2. **The greeting rule.** Agreed in advance: the therapist will greet the client normally and will not refer to
+   therapy; the client may decide whether to acknowledge the therapist first; and the therapist will follow the
+   client's lead in public. This small rule prevents the commonest injury, which is a client left standing in a
+   market while her therapist pretends not to see her.
+3. **The information rule.** What the therapist will do with information acquired in the community role. "If your
+   mother tells me at church that you have lost your job, I will not raise it in session as though you had told
+   me. I will wait for you to bring it, or I will ask whether you want to talk about it." This is the single most
+   useful clause in the contract and almost never written.
+4. **The review.** A date at which the contract is looked at again, because the community roles change — the
+   client's daughter joins the therapist's son's class, the client is elected to the church committee that employs
+   the therapist's husband.
+
+**What the contract does not solve.** It does not remove the judgement problem. A therapist who is a deacon and a
+therapist in the same congregation has two sources of authority over a client, and the contract manages the
+boundary without dissolving the role conflict. Where the conflict is structural — the therapist holds a
+leadership role in a community the client belongs to — referral is the better answer, and saying so is not a
+failure.
+
+### 6.3a The role conflicts that recur
+
+**The client who is a colleague.** A fellow therapist, a nurse, a teacher in the same school. The specific
+hazards: the colleague knows the therapist's reputation, may be supervisee or supervisor, and will meet the
+therapist professionally after treatment ends. The management: an explicit discussion of what will happen at
+professional meetings, no treatment of the colleague by a person who has authority over them, and no use of the
+colleague's clinical knowledge in the treatment.
+
+**The client who is a student.** Power is at its maximum and cannot be contracted away. A therapist who teaches
+the client, examines the client, or supervises the client's placement should not also treat them, and the correct
+answer is referral. Where a training clinic has no alternative, the treatment is conducted by someone with no
+assessment authority over the student, and this is written down.
+
+**The client referred by a friend.** The friend will ask how it is going. The therapist's answer, agreed in
+advance with the client: "she is attending and I am not able to discuss her." Said once to the friend, in the
+first week, without apology. The alternative — "it is going well" — is a disclosure.
+
+**The client whose family employs the therapist's spouse.** A genuine conflict of interest in small economies.
+The test: would the therapist be able to challenge the client's behaviour if the client's family were paying her
+household? Where the answer is no, transfer.
+
+**The former client who becomes a friend.** The codes differ, and the safest practice is that the relationship
+does not convert, or converts only after a substantial interval and with the recognition that the client may
+return to treatment. A former client who is now a friend cannot come back as a client, and the therapist should
+say so at the point the friendship is contemplated rather than at the point it is needed.
+
+**The client who becomes famous, or whose case becomes public.** The therapist's obligation not to use the
+material does not lapse when the case is in the newspapers, and the temptation is at its maximum precisely then.
+
+### 6.3b The referral conversation, scripted
+
+Declining is a technique, and like any technique it improves with rehearsal. The four-part script below takes
+about two minutes and leaves the client with a service rather than a refusal.
+
+**Part one — the decision, stated first.** "I have thought about this and I am not going to be able to take the
+work on." First, because a client who hears the explanation first spends it looking for the loophole.
+
+**Part two — the reason, in terms of the client's interest.** "The reason is that I know your family outside this
+room. If I were your therapist I would already know things about your husband, and you would be watching what you
+said to me. That would make the therapy worse, not better."
+
+**Part three — the alternatives, specific.** Two names, with a sentence about each, and an offer to telephone
+ahead: "Dr Bello works with couples and has a clinic on Tuesdays; Mrs Ojo is closer to you and works evenings. I
+can call either of them today and tell them that you will be in touch, without telling them anything about you."
+
+**Part four — the door.** "If neither works, come back to me and I will find you a third name. What I will not do
+is leave you with nothing."
+
+**What the client usually says, and the answer.** "Is it because of something I did?" — "No. It is about me and
+where I worship, and nothing about you." "You are the only one who understands." — "I have met you twice; what you
+are responding to is that somebody listened. Someone else will listen, and they will be able to hear more than I
+can."
+
+### 6.4 Touch, gifts, self-disclosure, barter, home visits and the telephone
+
+Each of these is sometimes therapeutic and always requires a rationale that can be spoken aloud in supervision.
+The rule for each is stated here as a personal rule, because a therapist who has not pre-decided will decide
+inside the moment, and the moment is designed to make the generous option feel right.
+
+**Touch.** *The rule:* touch is used only where it is a recognised part of the therapeutic method being practised,
+or where it is the ordinary human response to acute distress and is brief and public. A hand on the shoulder of a
+woman who has just been told her husband is dying, in a room with a window, is not a boundary violation. A
+twenty-minute embrace at the end of every session is. *The rationale:* touch cannot be retracted, is interpreted
+through the client's history — particularly where the client has been abused — and is the commonest first step in
+the documented sequence toward sexual misconduct.
+
+**Gifts.** *The rule:* small, culturally appropriate, given at a transition (the end of treatment, a bereavement,
+a birth), accepted with thanks and recorded. Anything of substantial value, anything given early in treatment, and
+anything that creates an obligation is declined with an explanation that protects the giver. *The test:* is the
+gift a communication or a transaction? *In this region,* food and cloth carry meaning and refusing them can be an
+insult; the therapist who declines a bowl of fruit to prove a point has damaged an alliance for an abstraction.
+The recorded note is short: "client brought fruit at the end of the eighth session; accepted, meaning discussed,
+recorded."
+
+**Self-disclosure.** *The rule:* brief, about the therapist's experience rather than the client's, serving the
+client's work, and never requiring the client to care for the therapist. *The test:* if the client responded by
+consoling the therapist, would the disclosure have been appropriate? If not, it should not be made.
+
+**Barter.** *The rule:* almost never. Where a client has no money and the alternative is no treatment, a barter
+arrangement may be ethical, and it requires a written value, a stated duration, and a supervision review. The
+specific hazard is that the client's service is now a clinical topic — the therapist who accepts tailoring from a
+client will have opinions about the tailoring.
+
+**Home visits.** *The rule:* a home visit is a clinical intervention with a purpose, a time limit, and a
+documented rationale. Family therapy occasionally requires it: a home reveals what a clinic cannot. The visit is
+arranged in advance, attended with a plan, and recorded, and the therapist does not accept hospitality beyond
+water, does not stay for a meal unless the meal is the intervention, and does not go alone where safety is
+uncertain.
+
+**The telephone and the message.** *The rule:* the channel is specified at the start, with its limits — "you may
+call between nine and six; if it is urgent and I am not available, go to the emergency number; I do not respond to
+messages after nine at night." The rule exists because the alternative is a therapist who is available at all
+hours to a client who has no other support, which is not a boundary the therapist can sustain and not a service
+the client can rely on.
+
+**Digital contact.** *The rule:* no personal social media contact with current clients; no searching for a client
+online without a clinical reason and a record of it; no clinical material over unencrypted channels; and an
+explicit statement in the first session of what the therapist will and will not do online. The specific hazard of
+the photograph: a client's social media reveals information the therapist did not obtain clinically and cannot
+forget. Where the therapist has seen it, the fact is recorded, because the alternative is a treatment silently
+shaped by material the client never gave.
+
+### 6.4a The boundary log
+
+A one-page document, kept by the therapist, reviewed monthly in supervision. Five columns: date; the crossing;
+whose need it served; what was said about it to the client and to the supervisor; and whether the frame was
+restored.
+
+**Why a log rather than a memory.** Because crossings are forgettable and their accumulation is the phenomenon
+worth noticing. A therapist who can see eleven small extensions over four months is looking at a pattern that no
+single session reveals, and the pattern is the early part of the slope.
+
+**What belongs in it.** The session that ran twenty minutes over because a client disclosed a bereavement. The
+gift that was accepted. The lift home given in the rain. The client's child's school fee that the therapist
+"lent". The text message answered at eleven at night. Each is small, and the log's purpose is not to punish any
+of them.
+
+**What the review asks.** Three questions. Is the same client appearing repeatedly? Is the same *kind* of crossing
+recurring with different clients, which points at the therapist rather than the case? And has anything been
+crossed that was not told to supervision, which is the only entry that is a violation rather than a crossing?
+
+### 6.5 Sexual boundaries, and what to do with attraction
+
+**The absolute.** Sexual contact with a current client is prohibited in every code this book draws on and is a
+criminal offence in many jurisdictions. There is no clinical argument, no cultural exception, and no case in which
+it is defensible. Sexual contact with a former client is prohibited by most codes for a stated period — commonly
+two years, sometimes five, sometimes permanently — and the period is a minimum rather than a permission.
+
+**Why the prohibition is absolute.** Because consent is compromised by the asymmetry, and because the harm is
+severe and durable. Clients who have been sexually involved with a therapist show outcomes comparable to those of
+survivors of sexual assault by someone trusted: betrayal, confusion about their own responsibility, damage to
+their capacity to trust a helper, and in a substantial proportion, a subsequent suicide attempt. This is the
+single most harmful thing a therapist can do, and the research on it is not ambiguous.
+
+**Attraction is not the problem.** Most therapists will feel drawn to a client at some point in a career, and the
+feeling is neither a symptom of impairment nor a predictor of misconduct. The problem is silence about it. The
+documented pathway to violation runs through secrecy: the therapist who cannot say "I am aware of feeling drawn
+to this client" to a supervisor is the therapist at risk.
+
+**What to do, concretely, in the week it happens.**
+
+1. **Name it to yourself** and write one line in a private note. The act of writing reduces the intensity and
+   creates a record that can be discussed.
+2. **Tell supervision**, in the same words: "I am aware of attraction to this client and I want to talk about how
+   it is affecting the work." Supervisors should make this easy by asking routinely, because the first time it is
+   said should not be the first time it is possible.
+3. **Increase structure, not distance.** Do not abruptly become cold, which the client experiences as
+   unexplained rejection and which often produces the pursuit the therapist fears. Keep the frame, keep the
+   notes, keep the seating, and keep the session ending on time.
+4. **Examine the material.** Attraction frequently carries information: the client resembles someone; the client
+   is providing the admiration the therapist's life is not; the case is a repetition of an earlier one. The
+   information is clinically useful and belongs to the therapist's own work, not to the client.
+5. **Refer, if the feeling is not manageable.** Not as a punishment. The sentence: "I think you would be better
+   served by a colleague, and I want to tell you that this is about my capacity and not about you."
+
+**Where a client declares love.** The response is kind, brief, unambiguous, and does not interpret the client's
+feeling as pathology. "I am not able to be that for you, and I am not going to pretend I do not understand what
+you are asking. What I can be is your therapist, and I think that is worth more to you than the other thing." Then
+the clinical work: what the declaration is about, which is usually loneliness, gratitude, or a history in which
+care and romance have been the same thing.
+
+### 6.5a What the codes actually say, and where they differ
+
+The codes converge on the absolute prohibition and diverge on almost everything else, which is why a therapist
+moving between jurisdictions must read the version that governs her.
+
+**On sexual contact with current clients.** Universal prohibition, and in a growing number of jurisdictions a
+criminal matter rather than a professional one. There is no divergence to report.
+
+**On sexual contact with former clients.** The divergence is real: some codes impose a fixed interval — two
+years, sometimes five — others require the therapist to demonstrate that the contact is not exploitative, and some
+prohibit it permanently where the treatment was long or the client vulnerable. A therapist in a jurisdiction with
+a two-year rule who treats the interval as permission has misunderstood the rule, which is a minimum evidentiary
+threshold and never a warrant.
+
+**On non-sexual multiple relationships.** The codes permit them where they are not exploitative and do not impair
+judgement or risk harm, and they require the therapist to document the reasoning. What none of them supplies is a
+list, and the absence is deliberate: the categories are local.
+
+**On gifts.** Most codes say nothing explicit and the professional bodies' guidance varies from "small and
+culturally appropriate" to a value threshold in local currency. The therapist should know her own body's wording
+because a complaint will be assessed against it.
+
+**On barter.** Permitted in some codes where the arrangement is not exploitative, is entered at the client's
+initiative, and is documented; discouraged in others.
+
+**On social media.** The most recent guidance and the least settled. The consistent threads: no personal accounts
+for clinical use, no searching without clinical justification, and a written statement to the client at intake.
+
+**On touch.** Almost entirely absent, which is why the reasoning in section 6.4 has to be constructed from the
+general principles rather than looked up.
+
+### 6.6 Case: the Alabis, and the deacon's wife
+
+**The setting.** A private practice in a state capital, and a church of about three hundred members where the
+therapist has worshipped for eleven years, sings in the choir, and is known to almost everyone as "the counsellor".
+
+**The referral.** Mrs Yetunde Alabi, 44, a school administrator, is referred by her physician for depression
+following a miscarriage at fourteen weeks. Her husband, Deacon Samuel Alabi, 49, is a church officer and a friend
+of the therapist's husband. The couple have three children, 17, 14 and 9. The referral arrives by telephone from
+the physician, who does not know the therapist's church.
+
+**The first decision, before the first session.** The therapist recognises the name and applies the four tests.
+*Objectivity:* impaired — she knows Samuel socially, has opinions about him, and has heard him preach.
+*Exploitation:* possible — she holds lay religious standing in a congregation where the family worships.
+*Avoidability:* yes, in principle; there are four other therapists within reasonable distance. *Foresight:* the
+client, in three years, describing this therapy to a friend, would say "she is in my church". The matrix says:
+decline or transfer.
+
+**What actually happened, and why it is instructive.** The therapist telephoned the physician and said she could
+not take the referral, giving the reason in one sentence. The physician asked whether that was not excessive:
+the family had asked for her by name. The therapist said it was not excessive and gave two names. The family,
+through Samuel, telephoned the therapist directly three days later and asked her to reconsider — "we would not be
+comfortable with a stranger; you are one of us."
+
+The therapist's decision at that point is the pedagogically interesting one. She did not simply repeat the
+refusal. She offered a **consultation**: one meeting, with both of them, for the sole purpose of explaining the
+conflict, giving the two referrals, and — this is the part that matters — asking whether they wanted her to speak
+to the named therapist in advance so that the family would not have to begin from nothing. She did not take the
+case.
+
+**Why the refusal was right, in four sentences.** Because the client's miscarriage, her grief and whatever is
+turning in her marriage will include material about her husband that she must be able to say to someone who is
+not in his network. Because the therapist would meet Samuel at a men's fellowship on Saturday and would be
+carrying his wife's account of him. Because a church of three hundred people cannot keep a secret, and the
+therapist's own presence in the congregation would make the client's attendance a piece of church news. And
+because the standing the therapist holds in that church is a form of authority the client cannot decline.
+
+**The alternative that was considered and rejected.** The therapist considered taking the case with a community
+contract — the four elements of section 6.3 — and rejected it, for one reason: the contract manages the
+*encounters* and cannot manage the *information*. In a congregation, Samuel's friends will discuss his wife's
+depression with him, and the therapist will be present when they do.
+
+**The consultation, in practice.** Fifty minutes, both present. The therapist said four things: that she was not
+going to be the therapist and that the reason was the church, not the family; that she was sorry, because she knew
+the refusal felt like a rejection and it was not one; that she would give two names and would speak to either of
+them if the family wished; and that she would do one more thing, which was to be clear that she would never
+discuss the family's business with anyone at church, including her own husband. The last sentence did more
+clinical work than the referrals.
+
+**The follow-up that makes the case worth teaching.** Six weeks later, at a church event, the therapist met
+Yetunde. Yetunde said, in front of two other women, "I am seeing Dr Bello now. It is going well." The therapist
+said, "I am glad", and asked nothing. That is the contract, honoured without a rule being written, and it is what
+the family needed from her: a person who would hold the boundary in public without making them feel handled.
+
+**What the case teaches.**
+
+1. **The first decision is made before the first session,** and it is made on the basis of the referral
+   information, not on the basis of the client's preference.
+2. **Refusal is a clinical act and it has a technique.** Brief, specific, non-moralising, with alternatives
+   offered and one offer of bridging.
+3. **The family's request to be seen by a known person is not evidence that the arrangement is acceptable.** It
+   is evidence that they do not know what the arrangement would cost them. The therapist knows, which is why the
+   decision is hers.
+4. **The pressure to accept comes disguised as cultural competence.** "You are one of us" is a real claim in a
+   communal setting, and the answer is not to deny it but to explain why it makes the therapy harder rather than
+   easier.
+
+### 6.7 Transcript: the request to be a character witness
+
+From a different case, the same week's material. A client, Mrs Ngozi Eze, 38, has been in treatment for eight
+months following her husband's desertion. She is in a custody dispute. Minutes thirty-one to forty-two.
+
+> **E1 Client:** My lawyer says I should ask you. He says a letter from you would help. Or you could come.
+>
+> **E2 Therapist:** *(pause)* Tell me what your lawyer wants me to say.
+>
+> **E3 Client:** That I am a good mother. That I am not — that I am not unstable. He said a therapist's letter
+> carries weight.
+>
+> **E4 Therapist:** It does. *(pause)* And I am not going to write it, and I want to explain why properly rather
+> than just say no. — *The refusal is immediate, and the explanation is promised. The order matters: a delayed
+> refusal invites the client to argue, and an unexplained refusal is heard as abandonment.*
+>
+> **E5 Client:** Because of confidentiality.
+>
+> **E6 Therapist:** Partly. *(pause)* The bigger reason is that I would stop being your therapist the moment I
+> became your witness. — *The distinction between the rule and the reason. Clients can argue with a rule; they
+> cannot easily argue with the loss of their therapist.*
+>
+> **E7 Client:** I do not understand.
+>
+> **E8 Therapist:** If I write that letter, then everything we do from today is affected by it. I would be
+> watching what I write in your notes in case a judge reads them. And you would be watching me. Our sessions
+> would become a place where you perform being well, because I am the person who has to convince a court. That is
+> not a therapy any more. — *The mechanism, described concretely. This is the paragraph that most students
+> remember, because it is the one that shows them why the rule exists rather than merely that it does.*
+>
+> **E9 Client:** *(pause)* So what do I do? He is going to say I am unstable. He has been saying it for a year.
+>
+> **E10 Therapist:** I cannot be your witness. I can do three things. I can write a letter that says only that
+> you have been in treatment with me since [date] and that you have attended regularly — nothing about your
+> parenting, nothing about my opinion. I can help you find an independent expert who can assess you properly,
+> which is what the court actually needs. And I can keep doing the work we are doing. — *Three options, and the
+> first is a partial accommodation that stays inside the role: a factual letter, not an opinion.*
+>
+> **E11 Client:** A letter that says nothing.
+>
+> **E12 Therapist:** A letter that says something true and does not pretend to be an assessment. *(pause)* What
+> your lawyer wants is my opinion. My opinion is not evidence, it is my impression of you in a room. The court
+> needs someone who has done an assessment. — *The distinction between clinical impression and forensic opinion,
+> which is the whole of Week 11's territory arriving early and being handled in eleven words.*
+>
+> **E13 Client:** *(long pause)* All right. *(pause)* I was afraid you would say no and I would have nothing.
+>
+> **E14 Therapist:** You have the treatment. *(pause)* And I understand that it does not feel like much this
+> week. — *The acknowledgement, which does not soften the refusal and does not leave the client alone with it.*
+
+**What the transcript shows.** The refusal is made in four turns without a lecture, the reason is given in terms
+of what the client would lose, and a partial accommodation is offered that is genuinely inside the role. The
+commonest failure in this scenario is not the refusal; it is the therapist who agrees "just this once" and then
+discovers, eight months later, that the file has become a document written for a judge.
+
+### 6.8 Laboratory: the boundary audit
+
+**Aim.** To produce a written map of the student's own current and foreseeable role conflicts, and three
+pre-decided responses.
+
+**Procedure.** Each student completes a one-page audit in twenty minutes, using the grid below. Then, in pairs,
+each student presents their three highest-risk situations and the partner plays the colleague who says, "surely
+in this case you would make an exception?" Ten minutes each way. The exercise is assessed on the pre-decisions,
+not on the analysis.
+
+| Domain | Question | My current facts |
+|---|---|---|
+| Community | Where am I known, and to whom? | |
+| Family | Whose relatives, in-laws or household members might present? | |
+| Work | Does my other employment create authority over potential clients? | |
+| Money | Are there debts, investments or business interests that could meet a client? | |
+| Faith | Do I hold a role with authority in a congregation? | |
+| Digital | What is discoverable about me, and what do I do when a client appears in my feed? | |
+| Physical | In what settings do I meet clients outside the room? | |
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Completeness** | Three domains or fewer | Five or six | All seven, with specifics |
+| **Pre-decision** | "I will decide when it happens" | A general intention | A specific sentence the student would actually say |
+| **Under pressure** | Exception granted in the role-play | Held the line but argued at length | Held the line briefly and offered an alternative inside the role |
+| **Record** | No record | Description only | The contract, the rationale and the review date |
+
+**The observation to make in the debrief.** Almost every student, when pressed, finds a reason why their own case
+is the exception. That is the exact skill the topic requires them to notice in themselves.
+
+### 6.9 Six errors
+
+**Error 1 — Teaching boundaries as prohibitions.** The result is a therapist who refuses a dying client's hand
+and a bereaved family's bowl of fruit, and who has confused rigour with coldness. The test is whose need, whose
+record, and what would supervision say.
+
+**Error 2 — Declining without a reason or with a lecture.** "I am not able to" without an explanation reads as
+rejection and costs the client the referral; a five-minute account of the ethics of dual relationships makes the
+client responsible for the refusal.
+
+**Error 3 — Accepting an unavoidable dual relationship without a contract.** In a small community, taking the
+case is often right; taking it without the four-element contract, recorded, is not.
+
+**Error 4 — Treating the community encounter as if it can be handled by a rule.** The client who is ignored in a
+market will not complain; she will stop attending. The greeting rule is agreed in advance precisely because the
+moment is unrehearsable.
+
+**Error 5 — Concealing attraction.** The pathway to the worst outcome in the whole of this book begins with a
+therapist deciding that the feeling is private. It is not private; it is material for supervision.
+
+**Error 6 — Converting a clinical relationship into a forensic one without noticing.** The letter, the report,
+the attendance at a hearing: each is a role change, and each is made in a moment when the client desperately
+wants it and the therapist wants to help.
+
+### 6.9a Four complaints, and what each teaches
+
+**Complaint one — the therapist attended the client's father's funeral.** The client had asked her to come; the
+therapist went, stood at the back, and did not speak to the family. *Finding:* a crossing, appropriately handled
+and recorded, and the complaint, brought by a relative who thought it excessive, was not upheld. *Lesson:* the
+record and the rationale are what distinguish this from a violation.
+
+**Complaint two — the therapist employed the client as a cleaner.** Six months into treatment, an arrangement
+that saved the client's household from eviction and gave the therapist a cleaner. *Finding:* a violation of the
+role, notwithstanding the good motive. *Lesson:* the exploitation test is about power, and a client cannot refuse
+an offer from her therapist.
+
+**Complaint three — the therapist did not greet the client at a wedding.** *Finding:* no misconduct and a genuine
+injury. *Lesson:* the greeting rule exists for this; the client's experience of being unrecognised is a clinical
+event even where the boundary was correct.
+
+**Complaint four — the therapist's husband was the client's bank manager.** No contact between them about the
+client, and the client discovered the connection at a social event. *Finding:* a conflict that should have been
+declared at intake. *Lesson:* the obligation is disclosure at the point the conflict is known, not management
+after the client finds out.
+
+### 6.10 Culture, faith and the boundaries of a communal practice
+
+**"In our culture, we are all family."** The claim is accurate and it is not an argument against boundaries; it is
+an argument for better ones. In a communal setting, refusing a gift, declining to eat, or maintaining formal
+distance marks the therapist as a stranger, and a stranger cannot treat a family's shame. The professional task is
+to be *inside* the community's forms and *outside* its information flows: to eat the food, greet the elder,
+attend the funeral, and still not discuss the client's marriage with the aunt who asks.
+
+**Gifts as relationship, not transaction.** In many households a gift is a statement about the relationship, and
+its refusal is a statement in reply. A therapist who declines everything has said, in the only language available
+to the family, that they are not in a relationship. The workable practice: accept what is small and edible, share
+it if the setting allows, name its meaning in the session ("this is your mother saying thank you, and I will tell
+her myself"), and record it. Decline what is valuable, early in treatment, or obliging, and give the reason in
+terms the family can accept: "if I took this I could not be fair to you."
+
+**The pastor-therapist and the imam-therapist.** Where the therapist holds religious office as well as clinical
+training, the two roles have different rules and the same client. The religious role includes moral authority and
+often an obligation to the congregation; the clinical role includes confidentiality and no moral authority. A
+person holding both should decide, before the case, which role is operating in the room, say so to the client, and
+not move between them inside a session. The most serious version of this problem is the confession that is also a
+clinical disclosure, made to a person who holds both offices.
+
+**Touch across cultures.** In a society where a hand on the arm is ordinary comfort, refusing it can read as
+contempt, and where it is not ordinary, offering it can read as intrusion. The therapist's guide is not a general
+rule but the client's own idiom, and the safest method is to let the client's physical language set the register
+and to keep any touch brief, visible and purposeful.
+
+**Home visits and hospitality.** Where treatment in a clinic is foreign and treatment in the home is normal, the
+home visit is a clinical necessity. Its rules remain: a purpose, a time limit, a record, and a clear statement
+that the therapist is there as a therapist even though she has been received as a guest. The meal is the hardest
+part: accepting it is usually right, staying for three hours is not.
+
+**The boundary that the community will test hardest.** Not sex and not gifts — the request for **advice about
+another family member**. "You know my sister's son, he is in trouble, tell me what to do." The answer is warm and
+firm: "bring him, or tell her to call me, and I will help properly. I cannot advise you about somebody who is not
+in the room." Said once, it establishes the practice; said apologetically, it establishes that the boundary is
+negotiable.
+
+> **DEBATE** — "In a small community, the therapist who refuses a dual relationship is prioritising professional
+> comfort over the client's access to care." Argue for: access is an ethical good, the alternatives may be
+> nonexistent, and rigid refusal can be a way of protecting the therapist's reputation. Argue against: the harm
+> from impaired judgement falls on the client, the community contract does not solve information flow, and the
+> therapist's discomfort is often an accurate signal. Then state the conditions under which you would take a case
+> you knew to be a dual relationship.
+
+### 6.11 Evidence note
+
+**What the research supports.** The research on therapist sexual misconduct is the most robust in this area: the
+harm is severe, the pathway is preceded by non-sexual boundary crossings, and the isolation of the therapist from
+colleagues is a consistent precursor. Studies of small-community and rural practice find multiple relationships
+to be normal rather than exceptional, and identify the management strategies — explicit contracting, supervision,
+clear public rules — that practitioners report as workable. Research on attraction finds it common and rarely
+acted upon, with the principal risk factor being the therapist's inability to discuss it.
+
+**What is weaker.** There is very little outcome research on non-sexual dual relationships, and the field's
+guidance is largely consensus-based, which is why the codes are worded in terms of avoiding harm and examining
+whether the relationship could impair judgement rather than in terms of prohibition.
+
+**What is not supported.** That any dual relationship is unethical — the codes do not say so, and in small
+communities the position would make practice impossible. That a boundary crossing is a sign of misconduct. And
+that attraction, handled openly in supervision, predicts any poor outcome at all.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same gift, accepted in session two rather than at the end of treatment, is a
+different act with a different meaning.
+
+### 6.12 Key terms
+
+**Boundary crossing** — a departure from the usual frame for the client's benefit, disclosed and reversible.
+
+**Boundary violation** — a departure serving the therapist, concealed and often irreversible.
+
+**Multiple relationship** — a second significant relationship with a client or someone close to the client.
+
+**Role conflict** — competing obligations arising from two roles held towards the same person.
+
+**Community contract** — the four-element agreement (naming, greeting, information, review) made where encounters
+are unavoidable.
+
+**Barter** — exchange of services for treatment; permissible only in narrow conditions with records and review.
+
+**Forensic role** — the therapist's role as witness or expert; incompatible with the treating role.
+
+**Foresight test** — the question of how the client would describe the arrangement in three years.
+
+### 6.13 Self-test
+
+1. Give three paired examples distinguishing crossing from violation.
+2. State the four tests and the decision each column produces.
+3. What are the four elements of the community contract?
+4. Why is the greeting rule in the contract, and what does it prevent?
+5. What is the correct response to a request to be a character witness, and why is a factual letter permitted?
+6. What are the five steps for managing attraction, and why is structure preferred to distance?
+7. Why is "it felt right" not a test?
+
+**Answers.** *(1)* Extending a session in a crisis versus routinely over-running because the therapist enjoys it;
+accepting fruit at discharge versus accepting a car; attending a former client's wedding with the frame discussed
+versus attending a current client's family party. *(2)* Objectivity, exploitation, foresight, avoidability — the
+combination producing decline, contract with supervision, risk-managed continuation, or transfer. *(3)* Naming
+the encounters; the greeting rule; the information rule; the review date. *(4)* To prevent the client being
+ignored in public and experiencing the therapist's silence as a repudiation. *(5)* Decline the opinion, explain
+the role change, offer a factual letter (dates and attendance) and referral to an independent assessor; because a
+factual letter discloses only what is agreed and does not convert the therapist into a witness. *(6)* Name it,
+tell supervision, increase structure, examine the material, refer if unmanageable; because distance is experienced
+as unexplained rejection and often provokes the pursuit the therapist fears. *(7)* Because warmth, gratitude and
+being needed all feel like evidence of a good relationship, so the guide must be external: whose need, what
+supervision would say, and what the client would say afterwards.
+
+### 6.14 Reflective task
+
+Write two hundred words answering one question honestly: which of the seven audit domains is your weakest, and
+what is the case that would find it? Name the client you can already imagine. That client is the one this week was
+written for.
+
+### 6.15 Further reading
+
+- Pope, K. and Sonne, J. on sexual attraction and boundary violations — the standard empirical and clinical
+  treatment.
+- Gabbard, G. on boundaries and the therapist's self — the analytic account of the slope.
+- Zur, O. on dual relationships in small communities — the strongest argument for a contextual rather than
+  prohibitive approach.
+- AAMFT and equivalent codes, the sections on multiple relationships and sexual contact, read in the original.
+- Any current guidance on remote and digital practice in your jurisdiction.
+
+*Next: Week 7 — Competence, supervision and referral.*
 
 ---
 
