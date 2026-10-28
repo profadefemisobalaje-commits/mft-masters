@@ -9158,17 +9158,690 @@ Write two hundred words about a family you have already met — in placement, in
 
 ## Week 14 — Integration: the decision model and your stance
 
+**Learning outcomes.** By the end of this week the student can (1) apply the seven-step decision model to an
+unfamiliar dilemma under time pressure and defend each step; (2) identify the three ways the model is misused; (3)
+write a stance paper that names what she will never do, what she will always consult about, and where her own values
+are most likely to distort her judgement; and (4) present a case to an examiner in a way that shows reasoning rather
+than recall.
+
+### What integration means at the end of fourteen weeks
+
+The course began with the question of what kind of professional a person becomes when she takes on the codes, and it
+ends with the same question, now answerable. Everything between — consent, confidentiality, secrets, boundaries,
+competence, risk, law, records, money, research — is a set of particular decisions that a stance has to hold
+together. A therapist who knows all fourteen weeks and has no stance will make each decision freshly, under
+pressure, according to how she feels that afternoon. A therapist with a stance has already decided the large things,
+which is what leaves her free to attend to the client in front of her.
+
+**The course's claim, in one sentence.** Ethical practice is not the avoidance of wrongdoing; it is the maintenance
+of a structure — consent, competence, supervision, records, consultation — that makes good decisions possible when
+the therapist is tired, frightened, fond of the client, or alone.
+
 ![Figure 14.1 — A seven-step decision-making model for ethical dilemmas](../assets/figures/fig33-ethics-decision-model.svg)
 
-**The seven steps.** Identify the dilemma → check codes and law → consult → generate at least three
-options including the uncomfortable one → weigh consequences for each affected party → decide, act and
-document → evaluate afterwards.
+### 14.1 The lecture in ninety minutes
 
-**The documentation habit.** A defensible decision is not the same as a correct decision; it is one you can
-explain. Write the reasoning at the time, not after a complaint.
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | What integration is; the stance and why it is the assessment | Two therapists, same dilemma, different stances |
+| 10–30 | The seven steps, each with its failure mode | Lecture with a running case |
+| 30–45 | The model applied end to end to a hard case | Whole-group application, one step at a time |
+| 45–55 | The three misuses of the model | Three transcripts of reasoning, students identify the misuse |
+| 55–70 | The stance paper: structure and worked extracts | Two anonymous stance papers, compared and marked |
+| 70–85 | The viva: what examiners ask and what they are listening for | Demonstration viva with a volunteer |
+| 85–90 | The closing question: what will you never do? | Written, collected, returned at the end of the programme |
 
-**Your stance.** Write 500 words: what you will never do; what you will always consult about; and where your
-personal values are most likely to distort your clinical judgement.
+### 14.2 The seven steps, with the failure mode of each
+
+**Step 1 — Identify the dilemma.** Not the situation: the dilemma. A situation is a mess; a dilemma is a choice
+between two goods or two harms. *The statement to produce:* "either I do X, and Y is lost, or I do Z, and W is
+lost." *Failure mode:* naming a situation as a dilemma when one option is obviously right — which is a way of
+avoiding the decision by making it look hard.
+
+**Step 2 — Check the codes and the law.** Which clauses apply; which statute; what the jurisdiction requires.
+*Failure mode:* quoting a code from memory, or from another country. The check is documentary, and it takes ten
+minutes with the code in front of you.
+
+**Step 3 — Consult.** A supervisor, a colleague, a lawyer, a specialist. *Failure mode:* consulting the colleague
+most likely to agree. The test of a consultation is that it changed something — a fact, an option, or the
+therapist's confidence in the wrong answer.
+
+**Step 4 — Generate at least three options, including the uncomfortable one.** Three is the minimum because two
+options produce a binary in which one side is usually self-serving. The uncomfortable option is the one the
+therapist has not allowed herself to consider: ending the therapy, reporting, telling the client the truth, refusing
+the referral, transferring the case. *Failure mode:* the "three options" that are three versions of the preferred
+one.
+
+**Step 5 — Weigh the consequences for every affected party.** The client, the partner, the children, the third
+party, the therapist, the profession, the future client who will be affected by the precedent. Written as a table,
+because a table exposes the party that has been left out. *Failure mode:* weighing only the client in the room, who
+is usually the most articulate and always the most present.
+
+**Step 6 — Decide, act, document.** The decision is made, communicated to the client, and recorded with the
+reasoning, the consultation, the alternatives considered and the review date. *Failure mode:* documenting the
+decision without the reasoning, which is the note that reads as an assertion and cannot be defended.
+
+**Step 7 — Evaluate afterwards.** What happened; what would be done differently; what the case has taught about the
+practice's structure. *Failure mode:* skipping step 7 because the case is over. This is the step that converts
+experience into competence, and it is the step that therapists in busy practices never reach.
+
+### 14.2a The model applied, end to end
+
+The case below is a composite, constructed to require every part of the course. It is the case used for the
+practical examination.
+
+**The situation.** Ngozi A., 41, a nurse, has been in treatment for eleven weeks for depression following her
+husband's stroke. Her husband, Emeka, 52, is a retired teacher with significant disability from the stroke, cared
+for at home. Their daughter, Ada, 16, is in the household. In session eleven, Ngozi discloses that her brother-in-law
+has been sexually touching Ada for some months, that Ada told her in confidence, that Ngozi has not told anyone
+else, and that she has been "handling it by keeping him away from the house". She says she cannot manage her
+husband's care alone, that the brother-in-law is her husband's younger brother and the family's only financial
+support, and that if this becomes public "they will say I destroyed the family." She is the therapist's neighbour's
+sister and the family attend the therapist's church.
+
+**Step 1 — the dilemma.** "Either I report the disclosure, and this woman loses the support that keeps her household
+functioning and possibly her marriage, or I do not, and a sixteen-year-old remains at risk and the therapist becomes
+a party to the concealment." Stated as a dilemma, both losses are real. That is the point of step 1.
+
+**Step 2 — the codes and the law.** The child protection duty is engaged: a child under eighteen has disclosed
+sexual abuse. The statute in the jurisdiction requires a report on reasonable suspicion, and here there is a
+disclosure. The code requires the therapist to report and to explain to the client what will be reported. The data
+protection framework permits the disclosure of the minimum necessary. The report does not require the mother's
+consent and does not require proof.
+
+**Step 3 — consultation.** The supervisor, the child protection lead at the local authority, and — because of the
+dual relationship — the therapist's own supervisor's supervisor, or an ethics consultation. Read what happened in
+consulation: the child protection officer confirmed the threshold was met and gave the route and the name; the
+supervisor identified the dual relationship as a separate problem requiring a decision.
+
+**Step 4 — the options, including the uncomfortable one.**
+
+1. Report to the child protection unit today, tell Ngozi what will be reported, continue the treatment.
+2. Report, and transfer the case because of the dual relationship and the threat to the alliance.
+3. Support Ngozi to report herself, with a deadline of forty-eight hours, and report if she does not.
+4. Do not report, and work with Ngozi to protect Ada within the family.
+5. Report, and end the treatment.
+
+Option 4 is unlawful and is stated in order to be rejected in writing, which is what a good record does. Options 1,
+2, 3 and 5 are all lawful; they differ in what they protect. Option 3 is attractive and is wrong here: forty-eight
+hours of delay for a child in a household where the abuser has access.
+
+**Step 5 — consequences for every affected party.**
+
+| Party | Option 1 | Option 2 | Option 5 |
+|---|---|---|---|
+| Ada | Protection; investigation; possible family disruption | Same | Same |
+| Ngozi | Told first; supported; may lose the therapist | Told; loses the therapist at the moment of crisis | Told; loses the therapist and the treatment |
+| Emeka | Loses his brother's support; may learn of the abuse in a way he cannot control | Same | Same |
+| The brother-in-law | Investigated | Same | Same |
+| The therapist | Manages dual relationship and the alliance | Removes the dual relationship, abandons the client | Ends the case |
+| The practice | A precedent for the dual-relationship question | Cleaner | — |
+
+**Step 6 — the decision and the record.** Report today; tell Ngozi in the session, in the words of Week 9; continue
+the treatment for the present, with the dual relationship managed and *declared to the supervisor*; review the
+decision to continue at the next supervision; record the seven steps in the file with the consultation names and
+times.
+
+**Step 7 — afterwards.** At the review, three questions. Did the report protect Ada? Did the treatment survive? And
+the structural question: what in this practice allowed a therapist to be treating a family from her own church
+without a policy that would have raised the question at intake?
+
+**What the case demonstrates.** The model does not make the decision comfortable, and it does not remove the losses.
+It makes the decision *defensible*, which is all a decision-making model can do. The therapist who reports is not
+choosing the child over the mother; she is choosing to comply with a duty that exists because adults in these
+situations frequently cannot protect the child themselves — including the mother, who is not a villain in this case
+and is not able to do what the law requires of the professional.
+
+**The teaching point students resist.** The mother is not the problem. A model that turns her into the problem makes
+the case easier and the work worse. The step-5 table exists to keep her in the weighing.
+
+### 14.2b The three misuses of the model
+
+**Misuse 1 — using it to justify a decision already made.** The therapist reaches the conclusion in the first thirty
+seconds — usually the one that protects the relationship — and then walks the seven steps backwards. The signature
+is a step 4 that contains three versions of the same option, and a step 5 table in which the therapist's convenience
+does not appear because it has not been named.
+
+**Misuse 2 — skipping step 4.** Two options, both bad, and the therapist chooses the less bad and calls it a
+decision. The uncomfortable third option is frequently the one that requires a conversation the therapist is
+avoiding — telling the client the truth, ending the treatment, refusing the fee, admitting the error.
+
+**Misuse 3 — treating the model as a substitute for a stance.** A therapist with no position on the large questions
+will run the seven steps for every decision and produce technically defensible answers that do not add up to a
+practice. The model is a procedure for the difficult case; the stance is what handles the ordinary ones, which are
+most of them.
+
+**The test of a well-used model.** After the decision, the therapist can state the option she rejected and why, the
+party she most regretted, and the part of the decision she found hardest. A therapist who reports no difficulty has
+probably not done step 5.
+
+### 14.2c The six questions that find the dilemma
+
+Before the seven steps, a filter. Six questions, used at intake and at every review, that identify the cases in which
+an ethical question is present before it announces itself.
+
+1. **Who is not in this room, and would they be affected by what happens here?** The absent party is the commonest
+   source of ethical error in family work: the affair partner's spouse, the child who is not brought, the husband who
+   declined, the employer who is paying.
+2. **What would I be uncomfortable reading aloud in a hearing?** The question that locates the weak point without
+   requiring a theory of ethics.
+3. **Am I the only person who knows this?** An isolated fact is a structural risk (Weeks 3 and 4).
+4. **What have I been asked to do, by whom, in whose interest?** The referral question, the report, the character
+   letter, the "just a quick word with the school".
+5. **What am I avoiding asking?** The question the therapist has noticed and postponed. It is almost always the one
+   that will become the dilemma.
+6. **Is my practice built to catch this?** Policy, supervision, screening, records. If the answer is no, the dilemma
+   is not a case problem; it is a practice problem that has produced a case.
+
+**Why the filter comes first.** The seven steps are expensive in time and attention, and they are used on perhaps a
+dozen cases a year. The six questions take two minutes and are used on every case, which is where most of the
+protection lies.
+
+### 14.3 The stance paper
+
+The assessment for this week, and the document that outlasts the course.
+
+**What it is.** Five hundred words in three sections, written in the first person, dated, and revisited at the end
+of every year of practice.
+
+**Section 1 — what I will never do.** Six to ten statements, specific enough to be checkable. Not "I will always act
+ethically", but: "I will never see a client's partner without the client's knowledge"; "I will never accept a gift of
+money"; "I will never write an opinion about a parent I have not assessed"; "I will never continue a treatment in
+which I am the only person who knows something that would change it."
+
+**Section 2 — what I will always consult about.** The list is shorter and it is the more important one, because the
+things on it are the ones the therapist will be tempted to handle alone. Typical entries: any case involving a
+child and a disclosure; any sexual boundary question; any decision to continue after a serious error; any case in
+which I notice that I am the only person the client trusts; any request I am inclined to grant as a favour.
+
+**Section 3 — where my own values are most likely to distort my judgement.** The honest section, and the one that
+makes the other two credible. Examples of what a real entry looks like:
+
+> I was raised in a household where a woman who left her husband was a failure, and I notice that I work harder
+> with couples who are separating than with those who are not. I will consult whenever I find myself arguing for
+> the marriage. I am uncomfortable with displays of anger, and I will notice when I am softening a client's anger on
+> her behalf. I am frightened of being thought incompetent, and I will notice when a referral feels like a
+> humiliation rather than a clinical decision. Money was never discussed in my family, and I will use the practice's
+> policy rather than my own judgement at the moment the conversation becomes difficult.
+
+**Why the third section is examined.** Because a therapist who cannot name her own distortions will not notice them
+in the room, and because the examined stance paper is the only place in the programme where the student is required
+to be specific about herself rather than about clients.
+
+**How it differs from a values statement.** A values statement says what the therapist believes. A stance paper says
+what the therapist will do, refuse, consult about and watch for. The first is a position; the second is an
+instrument.
+
+**The revision.** Once a year, in writing: which of the statements in section 1 did I break; which of the entries in
+section 3 was accurate; and what new entry belongs there. The revision is the record of professional development
+that no CPD log records.
+
+### 14.3a The worked stance paper, in part
+
+An extract from a student's paper, included because the specificity is instructive and because students consistently
+write something more abstract on the first attempt.
+
+> **What I will never do.** I will never treat a member of my own family, or a close friend, or the child of either,
+> and I will say so at the point of referral rather than after the first session. I will never conduct a session
+> without knowing whose client system I am working with. I will never let a couple's file contain a secret that
+> either partner can demand to read. I will never give a diagnosis I have not written the reasoning for. I will
+> never sign a letter I would not read aloud in court.
+>
+> **What I will always consult about.** Any disclosure of abuse. Any case in which I want to break a rule because
+> the client's situation is exceptional — my exceptions are the least reliable part of my judgement. Any case in
+> which I have begun to dislike the client. Any case in which I have become the only person the client talks to.
+> Any fee arrangement I have made in the room rather than from the policy.
+>
+> **Where my values distort me.** I grew up in a home where conflict was forbidden, and I have discovered in
+> role-play that I interrupt anger. I will ask my supervisor, every month, whether I have done it. I was raised in
+> a church where divorce was a failure, and I have already noticed myself looking for reasons the marriage should
+> survive in a case where the wife has not asked me to. My father was a violent man, and I am alert to the risk that
+> I will see violence where there is only frustration, which is the opposite error and equally harmful. I am
+> uncomfortable charging people who remind me of my mother, and I will use the sliding scale rather than decide in
+> the room.
+
+**What makes this a good paper.** Every statement is checkable, most are testable in a role-play, and the third
+section contains at least one entry that the student would rather not have written. That last feature is the
+marker of authenticity: a stance paper with no uncomfortable entry has been written for the examiner.
+
+### 14.4 The viva: what is being examined
+
+**The form.** A case presented by the candidate, usually one from her own practice or placement, followed by
+questions. Twenty to thirty minutes. The examiner has read the case summary; the candidate has the file.
+
+**What the examiner is listening for.** Five things, in order of importance.
+
+1. **Whether the candidate knows whose client it is.** The first question is almost always about the client system,
+   and it is asked because candidates who cannot answer it are not safe to practise.
+2. **Whether the candidate can name the ethical question without prompting.** The blank look followed by "there
+   wasn't really an ethical issue" is the commonest failure, and it is a failure of recognition rather than of
+   knowledge.
+3. **Whether the reasoning is visible.** Steps taken, alternatives considered, consultation sought. The candidate
+   who says "I decided to report" scores less than the one who says "I considered three options, and here is why I
+   rejected two".
+4. **Whether the candidate can distinguish what she knows from what she believes.** "I formed the impression" is
+   acceptable; "I knew" is not, unless it was known.
+5. **Whether the candidate's stance is present.** Not a speech about values — the ordinary consistency of a person
+   who has decided the large things.
+
+**The case to bring.** One in which the candidate made a decision she can defend, and one thing she would do
+differently. The case in which everything went well teaches the examiner nothing and the candidate less. The
+candidate who brings a case she got partly wrong, and can say what she learned, is marked higher than the candidate
+who brings a success.
+
+**The three questions that are asked in some form every time.**
+
+- *"Who was your client?"*
+- *"What was the ethical question, and when did you first notice it?"*
+- *"What did you not do, and why?"*
+
+**Preparing.** Write a one-page summary: the family, the presenting problem, the decision point, the options, the
+consultation, the outcome, the reflection. Read the file. Know the dates. Rehearse the answers aloud to a
+colleague, because the first time these questions are answered should not be under examination.
+
+**The ethics of discussing cases in a viva.** Consent from the client is not usually required for an examination
+conducted under confidentiality, and the candidate should nonetheless disguise the case and should say so: "the
+details have been changed." Examining boards treat the material as confidential; the candidate must treat it the
+same way outside the room.
+
+### 14.4a Five answers that score badly, and their replacements
+
+| Poor answer | Why it fails | Replacement |
+|---|---|---|
+| "I felt it was the right thing to do." | No reasoning | "I weighed three options; the deciding factor was X; here is what I recorded." |
+| "The code says I had to." | No judgement | "The code required a report; the judgement was in what I told the client and when." |
+| "I did not want to damage the relationship." | The therapist's comfort as the criterion | "I considered the alliance, and I judged that the duty outweighed it; here is how I protected the relationship in the telling." |
+| "It was a difficult case." | Says nothing | "It was difficult because two duties conflicted; the conflict was between X and Y." |
+| "I would do the same again." | No learning | "I would do the same on the report, and differently on the timing — I would have raised it in session eight." |
+
+**The pattern in all five.** The poor answer describes a state; the good answer describes a decision. The examiner is
+not asking whether the candidate is a good person. She is asking whether the candidate can show her work.
+
+### 14.4b The four sentences of the professional apology
+
+Every therapist will make an error that harms a client. What happens next is a test of the whole course.
+
+**The four sentences.** "I made a mistake and I want to tell you what it was." *(Specific, owned, no passive voice.)*
+"I am sorry, and I am not asking you to reassure me." *(The apology without the request for absolution, which is what
+makes it usable.)* "Here is what I have done about it." *(The correction: the supervision, the referral, the record,
+the change.)* "Here is what I will do next, and what you can decide." *(The return of agency to the client, including
+the right to complain.)*
+
+**The apology that fails.** "I am sorry if you feel..." — an apology for the client's feeling. "Mistakes happen." —
+a generalisation that removes the therapist. "But you have to understand the position I was in." — an explanation
+that asks the client to carry the therapist. And an apology made so that the client will comfort the therapist, which
+is a request and not an apology.
+
+**What the codes require, and what they do not.** The codes require honesty, the correction of the record where
+appropriate, and the client's right to complain. They do not require self-flagellation, and a therapist who
+collapses will make the client responsible for her.
+
+**The follow-up.** The mistake is recorded, presented in supervision, and — where it reveals a structural problem —
+changes something in the practice. The client is told what changed. That last sentence is the one that converts an
+error into a demonstration of how a professional relationship handles failure.
+
+### 14.5 The final supervision
+
+The last supervision of the training year, in which the candidate presents her integration case. What should happen
+in it, and what the supervisor is looking for.
+
+**What the candidate brings.** The case; the decision; the record of the decision; the stance paper; and one thing
+about her own practice that the training has changed.
+
+**What the supervisor asks.**
+
+- "What would you do differently if you met this family again tomorrow?"
+- "Which part of your stance paper did this case test?"
+- "What did you do that you did not tell me about at the time, and why?"
+- "Who will you consult about this kind of case when I am no longer your supervisor?"
+
+**The last question is the one that matters.** The purpose of supervision during training is not to make the
+candidate dependent on a supervisor; it is to build the habit of consultation into a professional life that will
+have no one appointed to provide it. A candidate who can answer the fourth question precisely — a named person, a
+peer group, a paid consultation, a specialist — is ready to qualify.
+
+**What the supervisor writes.** A short assessment of the candidate's readiness that names the strengths and the
+specific development need going forward. Not a character reference, and not a summary of the case: a statement
+about what this clinician can be trusted with and what she should not yet do alone.
+
+### 14.5a The case summary the candidate brings
+
+One page, six headings, written the week before the viva. A worked example, drawn from a completed training case.
+
+> **The family.** The Oyelarans: Tunde, 46, a mechanic; Kemi, 43, a trader; children Segun, 15, and Bisi, 9. Referred
+> by the school following Segun's attendance.
+>
+> **The presenting problem.** Segun's school refusal, which the parents attributed to "bad friends" and the school to
+> "the home". The first session produced three different accounts and no agreement about the problem.
+>
+> **The decision point.** Session four: Kemi disclosed, alone, that Tunde had been drinking heavily since losing his
+> workshop, that there had been two episodes in which he had pushed her, and that Segun had witnessed the second.
+> She asked me not to tell him that she had told me, and not to raise it in the family sessions, because "it will
+> make it worse".
+>
+> **The options I considered.** (1) Continue the family work and hold the disclosure, working individually with Kemi.
+> (2) End the family work and see both adults individually. (3) Name the violence in the family session without
+> attributing the disclosure. (4) Refer the family to a specialist domestic violence service and end the treatment.
+>
+> **What I did and why.** I did not continue the family sessions as though nothing had been said — option 1 would
+> have made me a participant in the concealment, and Segun's witnessing made the children's exposure a child
+> protection question. I did not confront Tunde with the disclosure (that would have exposed Kemi). I screened for
+> lethality (no strangulation, no threats to kill, no weapon; two pushes; escalation with the drinking); I made a
+> child protection referral regarding the children's exposure, told Kemi what I would say before I said it, and
+> arranged individual work with her and a separate referral for Tunde to a substance use service. I did not end the
+> treatment. I recorded the decision, the consultation (supervisor, [date]) and the review date.
+>
+> **What I would do differently.** I would have screened both partners individually in sessions one and two, as the
+> practice protocol requires, rather than in session four when Kemi volunteered it. The protocol existed; I followed
+> it late. And I would have asked Kemi directly whether she had told anyone else, because her sister had known for
+> three months and was the person who had been keeping Segun overnight.
+>
+> **What the case taught me about my practice.** I avoid asking about violence in the first session because I am
+> afraid of what I will then have to do. That is a stance problem, not a knowledge problem, and it is now in my
+> stance paper.
+
+**Why this summary works.** It states the dilemma without dramatising it, shows the rejected options with reasons,
+records the consultation, names the mistake without being destroyed by it, and connects the error to the therapist's
+own pattern rather than to the difficulty of the case.
+
+### 14.6 Transcript: twelve minutes of viva
+
+A candidate answering the three inevitable questions. Annotated.
+
+> **Q1 Examiner:** Who was your client?
+>
+> **A1 Candidate:** The parents were the referrers and the school was the referrer of record. I treated the couple
+> as the client system and I saw each of them individually under the policy I had stated in session one — which, as
+> I will say, I did late. Segun was a client for three sessions, with his parents' consent and his own assent, and I
+> was clear with all of them that what he told me would be shared with them only if he was at risk. — *The answer
+> names the system, the consent, the policy and the exception, in one turn. The examiner now knows most of what she
+> needs.*
+>
+> **Q2 Examiner:** When did you first notice there was an ethical question?
+>
+> **A2 Candidate:** In session four, when Kemi told me. *(pause)* And honestly, I should have noticed in session one,
+> when the three accounts of the problem did not fit and nobody in the family would look at anybody else. — *The
+> honest answer with the retrospective recognition, which is what the examiner is testing: not whether the candidate
+> noticed early, but whether she can tell the difference between noticing and understanding.*
+>
+> **Q3 Examiner:** What was the question?
+>
+> **A3 Candidate:** Whether to keep the disclosure, which would have let the family work continue and would have made
+> me part of the concealment, or to act on it, which meant the risk that Kemi would lose the only support she had.
+> *(pause)* And underneath that, whether the children's exposure was a child protection matter, which it was.
+> — *Two duties named, and the second question identified as the one that decided the case.*
+>
+> **Q4 Examiner:** Why did you not confront the husband?
+>
+> **A4 Candidate:** Because Kemi would have paid for it. *(pause)* The evidence is that conjoint confrontation in
+> coercive situations escalates afterwards, and I had no way of predicting what he would do in the house that night.
+> — *The answer that shows the candidate has read the material and has applied it to a specific person's safety,
+> rather than reciting a rule.*
+>
+> **Q5 Examiner:** Did you consider referring the whole family out?
+>
+> **A5 Candidate:** I did, as option four. I rejected it because Kemi had disclosed to me and would not have
+> disclosed to a stranger, and because a referral at that point would have been a way for me to avoid the decision
+> rather than a service to her. *(pause)* I would refer now, if the violence escalated or if Tunde began to attend
+> and I found myself holding both accounts. — *The rejected option, the reason, and the condition under which the
+> decision would change. This is the shape of a good answer.*
+>
+> **Q6 Examiner:** What would you do differently?
+>
+> **A6 Candidate:** I would screen in sessions one and two rather than four. And I would not have assumed that
+> because Kemi had not told me, nobody knew. Her sister knew. The sister had been keeping Segun overnight for three
+> months, and I had not asked who else was involved. — *A specific, small, real error, offered without self-punishment.*
+>
+> **Q7 Examiner:** What does that tell you about your practice?
+>
+> **A7 Candidate:** That I delay asking about violence because I am afraid of the answer, and that the delay is
+> itself a clinical decision with consequences. I have written it into my stance paper, and I have changed my intake
+> so that the screening questions are asked in the first session of every couple. — *The answer that connects an
+> error to a change in structure, which is what makes a training case worth examining.*
+
+**What the transcript shows.** The candidate never defends, never performs regret, and never claims more than she
+knows. Her answers are short, specific, and each one contains a decision rather than a feeling. The examiner's
+follow-up questions get shorter as the viva proceeds, which is what happens when the answers are sufficient.
+
+### 14.7 Laboratory: the mock viva and the stance review
+
+**Part A — the mock viva (sixty minutes).** Students in threes: candidate, examiner, observer. Two rounds of twenty
+minutes, with ten minutes of feedback each. The candidate brings a one-page case summary; the examiner uses the
+seven questions from 14.4 and 14.6; the observer marks against the rubric below.
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **The client system** | Unclear | Named | Named, with consent and policy, and the exceptions stated |
+| **Recognition** | Did not identify the question | Identified late | Identified, with an honest account of when and why |
+| **Reasoning** | Conclusion only | Reasoning partly visible | Options, consultation, decision and record all visible |
+| **The mistake** | Denied or catastrophic | Admitted | Named specifically, with the change it produced |
+| **Stance** | Generic values | Some personal material | Specific, checkable, connected to this case |
+
+**Part B — the stance review (thirty minutes).** In pairs, students exchange stance papers and apply three tests.
+*Is each statement in section 1 checkable?* Convert any that are not. *Is section 2 specific enough that a
+supervisor could hold the student to it?* *Does section 3 contain at least one entry the student would rather not
+have written?* Papers that pass all three are read aloud to the group, and the group identifies which sentence
+would be hardest to keep.
+
+**The question to end on.** "Which statement in your paper will be hardest to keep in your first year of practice,
+and what will make it hard?" The answers — money, a client's distress, the fear of losing the work, a supervisor who
+disagrees — are the actual curriculum of the first year.
+
+### 14.8 Six errors of integration
+
+**Error 1 — Treating the model as a decision-maker.** The seven steps produce a record of reasoning; they do not
+choose. The therapist who expects the model to make the decision will run it twice and still be undecided.
+
+**Error 2 — The stance paper as an essay about virtue.** Written in the language of values, unverifiable, and
+forgotten by the second month. The paper is a set of commitments, and its test is whether it constrains behaviour.
+
+**Error 3 — Learning 700 pages and practising none of it.** The student who can recite the codes and has not built
+a supervision arrangement, a records policy or a fee policy has learned the subject and not the practice.
+
+**Error 4 — The belief that a good therapist does not need structure.** Structure is what allows the therapist to be
+fully present: the policy holds the decisions that would otherwise be made in the moment, under pressure, by a tired
+person who likes the client.
+
+**Error 5 — Recognising the ethical question only in retrospect.** The commonest failure in the viva and in practice.
+The remedy is a checklist embedded in the ordinary workflow — screening questions in every first session, a
+consultation prompt in every complex case, a review date in every decision — because a habit fires where
+recognition does not.
+
+**Error 6 — Practising alone.** Not a moral failure and a structural one: the therapist with no supervisor, no peer
+group and no consultation is the therapist in whom errors go uncorrected for years. The course's final
+recommendation is a relationship, not a rule.
+
+### 14.8a The practice that is ready: a checklist of twelve
+
+The course has argued throughout that ethical practice is structural. This is the structure, as a checklist that a
+graduate can work through in a fortnight and a supervisor can audit in an hour.
+
+**Documents.** A consent form naming the limits and the client system; a confidentiality and secrets policy; a fee
+and cancellation policy; a records and retention policy; a disclosure protocol for requests from third parties; a
+complaints procedure; a list of verified referral contacts.
+
+**Relationships.** A named supervisor with a written contract; a peer consultation group of at least three; an
+indemnity arrangement with access to legal advice; a professional body membership in good standing.
+
+**Habits.** Screening questions in every first session of a couple or family; a supervision slot in the diary that
+is not moved; a note written within the day; a review date on every significant decision; one annual reading of the
+code and one annual audit of the practice's money.
+
+**The test.** For each of the twelve, answer: does this exist in writing, and could a colleague find it without me?
+A practice in which the answer is yes for eight of the twelve is a practice that will survive its first serious
+case. A practice in which the answer is no for most of them is not unethical; it is unprotected, and the difference
+will be discovered by a client.
+
+**The first fortnight after qualifying.** Build the documents, contract the supervisor, join the group, buy the
+indemnity. Not because a regulator requires it, but because each of the twelve is a decision the therapist will
+otherwise make alone, in the moment, with a client waiting.
+
+### 14.9 Culture, faith and the professional stance
+
+**The stance is not culturally neutral, and it does not need to be.** The professional obligations described in this
+book — individual consent, confidentiality against the family, the child's separate interests, the refusal to give
+legal advice — are the product of a particular history. They are nonetheless the terms on which this profession
+operates, and a therapist who joins the profession accepts them. The question the student actually faces is not
+whether the obligations are culturally local but how to hold them inside a communal world without becoming either a
+foreigner or a hypocrite.
+
+**Three ways of holding it.**
+
+1. **Translate rather than announce.** Every obligation in this book can be explained in the family's own terms: why
+   an individual session exists, why a record is kept, why a gift of land cannot be accepted, why a report must be
+   made. The therapist who translates is obeying the same rule in the family's language.
+2. **Keep the form and the substance separate.** The therapist can eat the food, greet the elder, attend the funeral
+   and say the prayers she says — and still not discuss the client's marriage with the aunt. The forms are the
+   family's; the substance is the profession's.
+3. **Be explicit about the limits of your own position.** "I know that in your family the elders would decide this.
+   In my work I am required to let the person decide for herself, and I want to tell you why." Naming the difference
+   is more respectful than either imposing or pretending.
+
+**Conscience, and the cases where the therapist's own values will not yield.** A therapist may hold a religious
+conviction about divorce, abortion or same-sex relationships. The professional position is that the conviction is
+hers and the decision is the client's, and where the therapist cannot provide the service without imposing the
+conviction, the answer is referral and not persuasion. The two sentences: "I am not the right therapist for this,
+and I want to tell you that it is about me and not about you", and "here is a name."
+
+**Where the law and the client's interest diverge.** They do, occasionally: a reporting duty that will harm the
+child it was designed to protect; a court order that will disclose a client's history to a violent ex-partner; a
+statutory requirement that the therapist believes is wrong. The professional response is to comply, to say so, to
+record the objection, and to work for change through the professional body. Civil disobedience is a legitimate act
+for a citizen and is not available to a clinician in the room, because the person who pays for it is the client.
+
+**The closing claim.** A stance is not a barrier between the therapist and the family. It is what allows the
+therapist to be present: the person who has decided what she will not do does not have to decide it again in the
+session, and the attention that would have gone into that decision goes to the client.
+
+> **DEBATE** — "A therapist should never impose her values on a client, and a therapist who refers a client because
+> of her own convictions has failed her duty of care." Argue for: the client came for treatment, not judgement, and
+> referral is a rejection that falls hardest on the most vulnerable. Argue against: a therapist who cannot work
+> without imposing is more dangerous in the room than out of it, honesty about limits is a form of respect, and
+> referral with a warm handover is the lesser harm. Then state where your own line is, and what you would say to a
+> client on the other side of it.
+
+### 14.9a Nothing here is a substitute for the code
+
+One final note on authority. This book has cited principles, statutes and codes, and it is not itself any of them.
+Where this book and a code disagree, the code governs; where a code and a statute disagree, the statute governs;
+where a statute and a court order disagree, the order governs. The book's purpose has been to teach the reasoning
+that makes those authorities usable in a room with a family in it, and a reader who treats it as a rulebook has
+misread it in the direction of safety, which is at least the right direction.
+
+### 14.10 Evidence note
+
+**What is known.** Ethics education research finds that knowledge of codes does not reliably change behaviour, while
+structured decision supports, checklists and consultation habits do. The literature on clinical judgement documents
+the gap between self-assessed and observed competence, and the value of feedback and routine outcome measurement.
+Research on moral distress and moral injury in therapists shows that unaddressed ethical conflict is a major
+contributor to burnout and to leaving the profession, and that supervision and peer consultation are protective.
+Studies of decision-making under pressure consistently find that prior commitment — a written policy, a rehearsed
+sentence — outperforms in-the-moment reasoning.
+
+**What is weaker.** There is very little evidence on the specific instrument of the stance paper, and none on the
+seven-step model as a measurable intervention. The claim that they improve practice is derived from the broader
+literature on implementation and habit rather than from trials of these tools.
+
+**What is not supported.** That ethical behaviour follows from ethical knowledge. That a therapist's good intentions
+are protective in the absence of structure. And that experience alone produces ethical judgement — experience
+without feedback produces confidence, which is a different thing.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same therapist, with the same knowledge, in a practice with supervision and a
+policy and in a practice without them, is two different clinicians.
+
+### 14.11 Key terms
+
+**Dilemma** — a choice between two goods or two harms, as distinct from a difficult situation.
+
+**Stance** — the set of prior commitments a therapist holds about what she will never do, always consult about, and
+watch for in herself.
+
+**Consultation** — seeking the view of another professional on a specific question; distinct from supervision in its
+form and often in its authority.
+
+**Moral distress** — the experience of knowing the right action and being prevented from taking it.
+
+**Moral injury** — the lasting psychological harm that follows acting against one's moral convictions in a
+professional role.
+
+**Implementation intention** — a pre-decided response to a specified situation; the mechanism by which policies
+survive pressure.
+
+**Stance paper** — the written, dated, annually revised statement of a therapist's commitments and vulnerabilities.
+
+### 14.11a The one-page summary the course actually asks for
+
+If the fourteen weeks were compressed into a page, it would say six things.
+
+**1. Name the client system before you do anything else.** Most ethical errors in family work are errors about who
+the client is.
+
+**2. State the frame before it is tested.** Consent, confidentiality, its limits, the fee, the cancellation policy,
+the records. Stated at the start, they are agreements; stated when needed, they are changes of rule.
+
+**3. Do not carry what you cannot carry.** A secret, a risk, a doubt about competence, an attraction, a debt: each
+is a signal to consult, and the signal is not a personal failing.
+
+**4. Know the four duties that override the frame.** Risk to life, risk to a child, statutory reporting, and a court
+order. Learn them for your jurisdiction, in writing, and review them annually.
+
+**5. Write as though it will be read aloud.** Because some of it will be.
+
+**6. Build the structure that decides the ordinary cases,** so that your attention is available for the client in
+front of you. The structure is not the opposite of relationship; it is what makes relationship possible.
+
+### 14.12 Self-test
+
+1. State the seven steps, with the failure mode of each.
+2. In the Ngozi A. composite, why was option 3 (the forty-eight-hour deadline) rejected?
+3. What are the three misuses of the decision model, and how is each detected?
+4. Give the three sections of the stance paper and an example of a good entry in each.
+5. What are the five things a viva examiner is listening for?
+6. What are the three questions asked in some form every time, and why?
+7. Give three ways of holding professional obligations inside a communal culture.
+8. Why is civil disobedience not available to the clinician in the consulting room?
+
+**Answers.** *(1)* Identify the dilemma — naming a situation instead; check codes and law — quoting from memory;
+consult — consulting the colleague who will agree; generate three options including the uncomfortable one —
+three versions of the preferred option; weigh consequences for every party — weighing only the client in the room;
+decide, act, document — documenting the conclusion without the reasoning; evaluate — skipping it. *(2)* Because it
+delayed protection for a child in a household where the abuser had access; the deadline was attractive because it
+preserved the alliance and it subordinated the child's safety to the therapist's discomfort. *(3)* Justifying a
+decision already made — detected by a step 4 containing three versions of one option; skipping step 4 — detected by
+a binary choice with no uncomfortable option; substituting the model for a stance — detected by a therapist who runs
+the procedure for every decision and cannot say what she would never do. *(4)* What I will never do — "I will never
+write an opinion about a parent I have not assessed"; what I will always consult about — "any case in which I have
+become the only person the client talks to"; where my values distort me — "I interrupt anger, and I will ask my
+supervisor monthly whether I have done it". *(5)* Whose client it is; whether the question can be named without
+prompting; whether the reasoning is visible; whether knowledge is distinguished from belief; whether a stance is
+present. *(6)* "Who was your client?", "what was the ethical question and when did you first notice it?", "what did
+you not do, and why?" — because they test the three capacities that cannot be faked: defining the system, recognising
+the question, and reasoning about the rejected option. *(7)* Translate rather than announce; keep the form and the
+substance separate; be explicit about the limits of your own position. *(8)* Because the person who bears the
+consequence of the therapist's protest is the client, who did not consent to be the occasion of it.
+
+### 14.13 Reflective task, and the close of the course
+
+Write the five hundred words of the stance paper. Date it. Keep it somewhere you will find it in a year, and when
+you find it, write the revision: which statements held, which did not, and what belongs in section three now.
+
+**Then write one paragraph for yourself alone**, not for an examiner, answering this question: what kind of
+therapist do you intend to be in the situation that frightens you most? The answer will be tested within the first
+eighteen months. The purpose of fourteen weeks of ethics has not been to make you cautious; it has been to give you
+a structure you can stand inside when the situation arrives, so that the therapist who is there — tired, fond of
+the client, unsure — is still recognisably you.
+
+### 14.14 Further reading
+
+- Beauchamp, T. and Childress, J. on the four principles — the framework used throughout this book, read in the
+  original for its argument rather than its list.
+- Kitchener, R. on ethical principles in counselling — the account that underlies the codes' structure.
+- Doherty, W. on moral conflicts in family therapy — the best short treatment of the therapist's own values.
+- Pope, K. and Vasquez, M. on ethics in psychotherapy and counselling — the standard reference, revised periodically.
+- Your professional code, read in full, once a year, with a pencil.
+- The literature on moral distress and burnout in therapists — read for the evidence that this subject is a
+  protective factor and not an ornament.
 
 ---
 
