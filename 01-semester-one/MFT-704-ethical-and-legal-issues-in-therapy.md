@@ -4230,23 +4230,708 @@ written for.
 
 ---
 
-## Week 7 — Competence and referral
+## Week 7 — Competence, supervision and referral
 
-**Competence has four dimensions:** knowledge, skills, experience, and appropriateness (personal and
-cultural fit). You can be knowledgeable and inappropriate: a therapist with unprocessed trauma working
-intensively with trauma, or a young male therapist seeing a couple in a culture where his authority is
-contested.
+**Learning outcomes.** By the end of this week the student can (1) define competence in its four dimensions and
+explain why "I have read about it" is not one of them; (2) recognise the six signals that a case is beyond her
+competence, including the ones that are felt rather than reasoned; (3) describe cultural humility as a competence
+and its limits as a substitute for training; (4) construct a supervision contract and bring material to
+supervision that is actually useful; and (5) conduct a referral without abandoning the client.
 
-**The duty to refer** arises when: the problem is outside your training; you lack supervision for it; your
-personal reactions would compromise care; or the client needs a different modality or medical input.
+### Competence is an ethical obligation before it is a personal quality
 
-**How to refer well.** Name the reason without shaming ("this needs someone with specific training in X");
-make a warm handover (a call, not just a name); offer a bridge session if needed; follow up once; and
-document. A referral is not abandonment.
+The codes all contain a version of the same sentence: the therapist practises within the boundaries of her
+competence and refers when a client's needs exceed it. The sentence is easy to sign and hard to enact, because the
+therapist's competence is not visible to her. Nobody feels incompetent while being incompetent; the feeling
+associated with incompetence is usually confidence, because confidence is what the absence of feedback produces.
 
-> **SELF-AUDIT** — List the ten presenting problems you are most likely to see. For each, rate your
-> competence 1–5 and name the supervisor or service you would refer to. The two lowest ratings are your
-> professional development plan for this year.
+Three facts organise the week.
+
+**First, competence is specific.** A therapist may be highly competent with couples in acute conflict and not
+competent with a couple in which one partner is psychotic. Competence is not a level; it is a set of domains, each
+with a boundary, and the boundary is discovered by noticing where the work stops going well.
+
+**Second, competence decays.** Skills that are not used are lost, knowledge in most areas of this field has a
+half-life of a few years, and a therapist who qualified in 2010 and has not read since is competent in the
+practice of 2010. Continuing professional development is therefore not an administrative requirement; it is the
+maintenance of the licence to practise at all.
+
+**Third, competence is maintained by a relationship, not by an intention.** The mechanism by which therapists
+discover their limits is supervision and consultation. A therapist without supervision is not a therapist with an
+independent practice; she is a therapist with an unexamined one.
+
+| Dimension | What it means | How it is evidenced | How it fails |
+|---|---|---|---|
+| **Knowledge** | The theory, evidence and law relevant to the problem | Training, reading, CPD records | Confident error; outdated method |
+| **Skill** | The capacity to enact the method | Observed practice, recorded sessions, supervision | Knowing what to do and not being able to do it |
+| **Experience** | Having done it, repeatedly, with feedback | Case logs, supervision history | The first case treated as routine |
+| **Appropriateness** | Personal and cultural fit for this client | Self-knowledge, supervision, client feedback | The therapist's history driving the treatment |
+
+**The fourth row is the one that gets skipped.** A therapist can be knowledgeable, skilled and experienced and
+still be the wrong person for this client — the man working intensively with sexual abuse who has not addressed
+his own; the therapist whose marriage is collapsing treating a couple in crisis; the young clinician whose
+authority is contested in a family where age confers standing; the therapist who cannot hear a mother's account
+because it is her own mother's account. Appropriateness is assessed before the case and re-assessed when the work
+stalls, and the assessment is not a matter of self-confidence.
+
+### 7.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Competence: four dimensions, and why confidence is not evidence | Two vignettes: confident and wrong, uncertain and right |
+| 10–22 | Five concepts: scope, specificity, decay, the novice problem, supervision as the mechanism | Lecture |
+| 22–35 | Six signals that the case is beyond you | Students add their own, anonymously |
+| 35–50 | Cultural humility and the interpreter | Demonstration: a session through an interpreter |
+| 50–65 | Supervision: contract, material, the unsafe supervisor | Pair work on supervision contracts |
+| 65–78 | Referral: the six-step process and the conversation that clients hate | Role-play with observers |
+| 78–90 | The Ogundipe case: recognising psychosis in a counselling room | Case, with students holding the referral decision |
+
+### 7.2 Five concepts that organise the week
+
+**Concept 1 — Scope of practice and scope of competence are different, and the first is legal.** Scope of practice
+is what the licence permits; scope of competence is what the therapist can actually do well. Practising at the
+edge of the licence and outside the competence is lawful and unethical at the same time, and it is the commonest
+form of misconduct in ordinary practice — not predation, but well-meant over-reach.
+
+**Concept 2 — Competence is domain-specific, and the domains are smaller than therapists think.** "I work with
+families" is not a domain. "I work with families in which a parent has a chronic illness and the children are
+school-age" is closer. The specificity matters because the referral question — "can I do this?" — is answerable
+only at that granularity.
+
+**Concept 3 — The novice's problem is not ignorance; it is the absence of a signal.** Expertise research is
+consistent: beginners do not know what they do not know, because the cues that would tell them are the ones
+training is supposed to install. The practical consequence is that the therapist's own assessment of her
+competence is least reliable precisely where it matters most, and that an external check is not a luxury.
+
+**Concept 4 — Competence decays quietly.** There is no moment at which a therapist becomes incompetent; there is
+a drift, accelerated by isolation, by a busy practice, and by success. The maintenance mechanism is deliberate:
+reading, case discussion, recorded sessions reviewed with a peer, and a CPD plan that names the gaps.
+
+**Concept 5 — Supervision is the profession's immune system.** Not the therapist's personal support, not a
+requirement to be satisfied, but the mechanism by which the field detects its own errors. A therapist who brings
+only her successes to supervision has disabled it, and she is the one it was designed to protect.
+
+### 7.2a The six signals that the case is beyond you
+
+Signals, not proofs. Each of them can occur in a case that is being handled well, and the accumulation of two or
+three is a prompt to supervision and a fourth is a prompt to refer.
+
+**Signal 1 — You dread the session.** Not the ordinary reluctance before a hard session; a low, anticipatory
+dread that begins the day before. It usually means the therapist does not know what to do and has not admitted it.
+
+**Signal 2 — You are reading the night before in order to be able to conduct the session.** Reading is good.
+Reading *instead of* supervision, and reading *during* the treatment, means the treatment is being improvised from
+the literature in real time. That is a legitimate way to learn a narrow technique with supervision and an
+illegitimate way to hold a case alone.
+
+**Signal 3 — You have not presented the case in supervision.** The strongest indicator in the list. Therapists
+present the cases they are proud of and the cases that are interesting; they avoid the ones in which they suspect
+they are failing. If a case has been in the practice for three months and has never been discussed, ask why.
+
+**Signal 4 — You feel relief when the client cancels.** The relief is information. It frequently accompanies cases
+in which the therapist is out of depth, or in which the therapist dislikes the client, or both.
+
+**Signal 5 — The work has stopped moving and you cannot say why.** Competence has an observable signature: the
+treatment produces movement in the agreed direction, or the therapist can account for why not. A case that is
+flat for eight sessions and cannot be explained is a case that is being held by somebody who does not know what
+to do next.
+
+**Signal 6 — The client's presentation contains material you have never been trained to assess.** Psychosis,
+dissociation, an eating disorder, a developmental disorder, a child's sexualised behaviour, a neurological change.
+Recognising the material is a competence in itself; the correct response to recognition is not treatment but
+referral and, frequently, medical assessment.
+
+**The rule for using the signals.** The therapist does not act on the signals alone. She writes them down,
+presents the case, and takes the supervisor's view. What she does not do is wait for the signals to become an
+adverse event.
+
+### 7.2b The development plan that actually works
+
+Continuing development fails when it is a list of courses and succeeds when it is a set of narrow, observable
+targets with a person attached to each.
+
+**The four-column plan.** *Target:* a specific capability, described so that someone could watch for it — "conduct
+a structured risk assessment for suicide and defend the formulation in supervision". *Evidence:* how the
+capability will be observed — recordings, a supervisor's report, three consecutive cases discussed. *Support:*
+who is involved — the supervisor, the peer group, a short course with a follow-up consultation. *Date:* when it
+will be reviewed — a fixed month.
+
+**The failing version.** "Improve my work with trauma." Nobody can observe it, no one is responsible for it, and
+no date exists. Six months later the therapist has attended two webinars and can report no change.
+
+**The two ratios worth knowing.** First, that a therapist improves mainly on the cases she discusses, so the
+number of cases reviewed per year is a better measure of development than the number of courses attended. Second,
+that skills decay without use, so the plan should include maintenance of capabilities the therapist already has and
+is not currently using — the couples work set aside while a practice fills with individual referrals, the
+children's work not touched since training.
+
+**The annual question.** Once a year, in writing: *which capability did I lose this year, and which did I gain?*
+The answer is the development plan. It is also, for most therapists, the first honest audit of their practice they
+have conducted.
+
+### 7.3 Cultural humility, and the interpreter
+
+**The problem with the phrase "cultural competence".** It implies a body of knowledge about groups, acquired and
+then held. The trouble is that it encourages two errors: treating a person as an instance of a culture, and
+believing that knowledge of a group's customs is the same as the capacity to work with a person from that group.
+The alternative framing — **cultural humility** — is not vaguer; it is more demanding. It says the therapist must
+be able to (a) recognise her own frame as one frame among many, (b) ask the client what her world means to her
+without assuming, (c) bear being wrong and corrected, (d) notice where her own cultural position gives her
+authority the client cannot refuse, and (e) seek specific knowledge where it is needed, which is a competence
+like any other.
+
+**What cultural humility is not.** It is not an excuse for inexpertise. "I work with everyone" is not a cultural
+position; it is a refusal to specify. And it is not a substitute for language, which brings us to the interpreter.
+
+**The interpreter: four rules.**
+
+1. **The interpreter is a professional, not a bystander.** Introduce them, explain their role to the family,
+   agree that they will interpret faithfully and not summarise, and state that they are bound by confidentiality.
+2. **Speak to the client, not to the interpreter.** First person, eye contact with the family, and no asides
+   about the family in the third person. The asides are the commonest failure and the family hears the tone if
+   not the words.
+3. **Never use a family member as interpreter.** A child interpreting a parent's disclosure, or a husband
+   interpreting a wife's account of his violence, is a distortion and sometimes a danger.
+4. **Build in time.** Everything takes roughly twice as long, and the session should be scheduled at ninety
+   minutes rather than fifty. An interpreted session compressed into fifty minutes is a session in which the
+   therapist will skip precisely the material that is hardest to say in two languages.
+
+**When there is no interpreter.** A therapist who does not share the client's language and proceeds anyway is
+working outside her competence by definition. In many settings the honest answer is to say so, to find a colleague
+who shares the language, or to work with the family's nominated interpreter under the four rules above, documented
+as a compromise rather than presented as a method.
+
+**The interpreter's own exposure.** Interpreting a disclosure of violence, sexual abuse or a diagnosis places a
+burden on the interpreter, who is frequently a member of the same community and may know the family. The therapist
+should check on this, offer the interpreter the option to withdraw from a particular case, and where possible use
+an interpreter from outside the community for sensitive material. Very little of this appears in the training
+literature and almost all of it matters in practice.
+
+### 7.3a The supervision contract
+
+Supervision fails for contractual reasons far more often than for relational ones. The contract is one page and
+it answers six questions.
+
+1. **What is the supervisor's authority?** Does she have responsibility for the cases, or is she a consultant to
+   the therapist's own decisions? The difference determines who carries the liability, and it should be stated at
+   the first meeting rather than discovered in a crisis.
+2. **How often, for how long, and in what form?** Weekly or fortnightly; one hour; individual, group, or live.
+   "Whenever I need it" is not supervision; it is consultation, which is useful and is not the same thing.
+3. **What will be brought?** A written list of current cases, at least one case in detail, at least one recorded
+   or verbatim excerpt each month, and every case in which the therapist is holding a secret, considering
+   referral, or aware of attraction. The list is the supervisor's protection as much as the therapist's.
+4. **What will be recorded?** A note by the supervisor for each session, and the therapist's own record in the
+   case file that the case was discussed. A regulator investigating a case will ask when it was last supervised,
+   and the answer must be documentary.
+5. **How will disagreement be handled?** The supervisor's view is an opinion; the therapist's decision is the
+   clinical act. Where they disagree about a decision with legal consequences, the disagreement is recorded and,
+   where necessary, a second opinion is obtained. Neither party should pretend the tension does not exist.
+6. **How will it end?** A planned ending, with the cases handed over, and a review of the therapist's
+   development. Supervision that simply stops is the commonest way for a therapist to become isolated.
+
+**What to bring, concretely.** Three questions are more useful than a narrative: *what am I not seeing?* *what did
+I do that I would not want a colleague to have watched?* *and what am I avoiding?* The third question produces the
+material more reliably than any case description.
+
+**The unsafe supervisor.** Three patterns, each of which requires the therapist to change supervisor. *The
+supervisor who needs to be admired:* the therapist learns to present well and stops presenting honestly. *The
+supervisor who takes over the case:* the therapist becomes an assistant and stops developing judgement. *The
+supervisor who colludes:* the pair agree that the client is difficult, the spouse is impossible, the agency is
+hopeless, and nothing is examined. A supervisor who has never disagreed with the therapist in a year is not
+supervising.
+
+**Group supervision.** Valuable and hazardous. It is valuable because eight minds notice more, and hazardous
+because of the exhibition and the audience: a therapist presenting a failure to a group will manage the group's
+opinion, and members will perform their competence for each other. The protections are a standing agenda, a rule
+that no one advises without asking what is wanted, a named facilitator, and confidentiality rules in writing.
+
+**Where supervision does not exist.** Many settings, including large parts of the private sector in this region,
+provide none. The ethical position is that the therapist must obtain it anyway, in whatever form is available:
+a peer consultation group of three or four, a paid monthly consultation, a reciprocal arrangement with a
+colleague that is conducted on a schedule rather than when convenient. The absence of an employer-provided
+supervisor does not remove the obligation; it relocates it.
+
+### 7.3b Peer consultation, and the rule of three
+
+A peer consultation group of three therapists, meeting monthly for two hours, is the most cost-effective
+competence maintenance available to a practising clinician. The rules that make it work are few.
+
+- **A fixed membership and a fixed date.** Groups that meet when needed do not meet.
+- **One case per member per meeting, prepared,** and presented in a standard format: presentation, what has been
+  tried, what the therapist wants, and the question she is avoiding.
+- **No advice without permission.** The presenting therapist asks for what she wants: reflections, ideas, or a
+  decision.
+- **Written notes, kept by the presenter,** in the case file.
+- **A rule about confidentiality** that includes the members' own material, since the group will discuss their
+  cases and their reactions.
+- **A rotating external review twice a year,** in which one session is given to a senior colleague to observe. The
+  group that never lets an outsider in develops its own blind spots, like any system.
+
+**The rule of three** is the minimum: one therapist alone cannot check her own judgement, and two can settle into
+a shared blind spot. Three produces a triangle in the technical sense, which is to say a structure in which one
+member can be observed by the other two.
+
+### 7.3c Supervision in the first two years
+
+The period in which supervision matters most is the one in which it is easiest to avoid, because a newly qualified
+therapist is expected to be competent and is frequently employed in a setting with no supervision structure.
+
+**The four things a new therapist should insist on.** A named supervisor with a written contract; a weekly hour,
+protected in the diary; permission to record sessions, which is the only way skill can be observed; and a standing
+agreement that any case in which the therapist feels out of depth is brought within the week rather than at the
+next scheduled meeting.
+
+**The four things a new therapist should not do.** Practise alone: a solo practice in the first two years is an
+avoidable risk to clients and to the therapist. Accept cases at the edge of competence in order to build a
+practice. Treat the supervision hour as a report on attendance. And conceal the first serious error, which is the
+error that supervision exists to catch and which, once concealed, shapes the therapist's practice thereafter.
+
+**The first adverse event.** Every therapist will eventually have one: a client who deteriorates, a disclosure
+that was missed, a suicide attempt, a death. The professional response is a structured review — what happened,
+what was known, what was decided, what would be done differently — conducted with the supervisor and recorded.
+The unprofessional response is silence, which converts an event into a secret and a secret into a pattern.
+
+### 7.4 Referral: the six steps
+
+**Step 1 — Recognise, and write it down.** The recognition usually arrives as one of the six signals. The
+discipline is to record the thought in the file on the day it occurs: "considered whether this case is within my
+competence to treat; concerns about [X]; to discuss in supervision." That note changes the character of everything
+that follows, because a therapist who has recorded a doubt has discharged part of the duty and a therapist who has
+not has concealed it.
+
+**Step 2 — Decide, with the supervisor, what kind of referral.** Four kinds, and they are not the same.
+
+| Kind | Meaning | Example |
+|---|---|---|
+| **Additive** | Another professional joins; the therapist continues | Medical review added to psychological treatment for depression |
+| **Consultative** | Another professional advises; the therapist treats | A psychiatrist advises on medication while the therapist continues |
+| **Transfer** | The case moves entirely | A disclosure of psychosis in a couple therapist's office |
+| **Escalation** | A statutory pathway is triggered | Suspected child abuse |
+
+Most incompetence situations require additive or consultative referral, and therapists skip to transfer because
+transfer is easier to justify and harder to bear. Transferring a case that could have been treated with advice
+deprives the client of the therapist who knows her.
+
+**Step 3 — Name it to the client, without shame and without euphemism.** The template: "I want to talk about
+something in our work. I think you need something I am not the best person to provide, and I want to tell you what
+it is and why." Then the specific gap: "what you are describing needs a psychiatric assessment, and I am not
+qualified to do that. It is not that I am giving up on you."
+
+**Step 4 — Make it warm.** A name on a piece of paper is a cold referral and most clients do not follow it up. The
+warm referral: the therapist telephones the receiving professional with the client's written consent, describes
+the situation and the question, and then gives the client the name of a person who is expecting her. Where the
+receiving service is a public clinic with a queue, the therapist finds out when to attend and what to bring, and
+writes it down.
+
+**Step 5 — Bridge, if the client needs it.** One or two sessions while the referral is arranged, with the client's
+agreement, is not a failure to refer; it is the prevention of a gap. The bridge has a stated end: "we will meet
+twice more while you get an appointment, and then we will finish."
+
+**Step 6 — Follow up once, and close properly.** One telephone call after the transfer, to confirm attendance and
+to say that the therapist is glad. Then a closing session, with a summary, an offer of return if the situation
+changes, and a note in the file. A referral without a closing is an abandonment with paperwork.
+
+**The client who refuses the referral.** Common, and often rational: the referred service is expensive, far away,
+stigmatised, or staffed by someone the client distrusts. The therapist's response is not to insist and not to
+collude. She names the risk of continuing: "I can keep seeing you, and I want to be honest that I would be
+guessing at the part that matters. If you will not go, I will still see you, and I will say so in my notes." The
+decision is the client's, the honesty is the therapist's, and the record must show that the choice was informed.
+
+**The refusal to refer.** The other failure. A therapist who will not refer because the client will be upset, or
+because the case is interesting, or because she is the only person the family trusts, has placed her own needs
+above the client's. The test: if a colleague described this case to me, would I say she should refer it? Therapists
+answer this question accurately about other people's cases and inaccurately about their own.
+
+**Referral in a crisis.** Where the need is urgent — psychosis, suicidal intent with a plan, a child at risk — the
+referral is not a suggestion but an arrangement made in the room: the call is made with the client present, the
+appointment is fixed, transport is discussed, and where the client will not go and the risk is grave, the
+statutory pathway or the emergency service is used and the client is told what is being done and why.
+
+### 7.4a The referral letter
+
+Six lines, written the same day, sent with the client's written consent, and copied to the file. Longer letters are
+read less carefully and disclose more than the purpose requires.
+
+> Re: [name], [date of birth]. Client attended [n] sessions with me between [dates]. Reason for referral: [the
+> question, in one sentence, e.g. "assessment of persecutory beliefs of three months' duration and one episode of
+> apparent unresponsiveness"]. Relevant history: [two or three lines]. Risk: [current, one line]. Client has
+> consented to this referral and to my speaking with you. I am available on [number]. Yours, [name], [qualification].
+
+**The rule about diagnoses in the letter.** The referring therapist states observations and her formulation, and
+does not present her formulation as a finding. "I have been working with a formulation of depression; the features
+below do not fit it" is honest. "Client has psychosis" is a diagnosis the therapist is not entitled to make, and
+if she is wrong it follows the client into a file.
+
+**The rule about the client's own words.** Quote them, briefly and accurately. "Client states that his supervisor
+'has been replaced by someone who is not him'" is worth more to a receiving psychiatrist than three paragraphs of
+the therapist's adjectives.
+
+### 7.5 Case: Mr Ogundipe, and the diagnosis the therapist did not make
+
+**Referral.** Femi Ogundipe, 52, a customs officer, self-refers for "stress and marriage problems". His wife
+telephoned first and said he had "changed"; he attends reluctantly. Married twenty-four years, four children,
+the youngest 15.
+
+**Sessions 1–3, as the therapist recorded them.** Low mood, poor sleep, loss of interest, irritability with his
+wife, and a complaint that his colleagues "are talking about me". The therapist formulates depression with a
+relational precipitant, begins behavioural activation, and refers the couple for joint work in week four.
+
+**What the therapist missed, in the record.** Three details, each recorded and none interrogated.
+
+1. In session two, Ogundipe said that the neighbours had installed a device to listen to his conversations, and
+   that he had found "a mark" on his car. The therapist wrote "client reports feeling watched; discuss trust".
+2. In session three, his account of a meeting at work was difficult to follow: he moved between subjects, said his
+   supervisor had been "replaced by someone who is not him", and laughed at a point in the narrative that was not
+   funny.
+3. His wife, in the joint session, said he had stopped eating food she cooked, on the grounds that "it tastes
+   different", and had twice slept in the car.
+
+**The joint session that changed the case.** In week five, Mrs Ogundipe said, in her husband's presence, that he
+had not slept for three nights and had been praying aloud until dawn. Ogundipe stood up, said "you have all
+decided to make me mad", and left the room. He returned eleven minutes later, calm and apologetic, with no memory
+of the preceding half hour.
+
+**What the therapist did, in the order she did it.**
+
+1. She stopped the couple work. This is the first and most important act: a treatment that requires two
+   participants to be lucid could not continue while one of them was intermittently not.
+2. She saw Ogundipe alone the following day, with a structured screen for psychotic symptoms, which she had not
+   been trained to use and had read the previous night. That is not competence; it is a first-aid measure, and it
+   is better than nothing. She found persecutory beliefs held with conviction, a period of apparent
+   unresponsiveness that she could not account for, and no insight.
+3. She telephoned the psychiatric service the same afternoon, with written consent, described the presentation and
+   asked for an urgent assessment. She wrote the question down: "is this a first episode of psychosis, and does he
+   need admission?"
+4. She told Ogundipe what she was doing before she did it, in the presence of his wife, and she used the sentence
+   that made it possible: "I am not saying you are mad. I am saying that something is happening to your mind that
+   I am not qualified to assess, and I am not willing to guess."
+5. She attended the psychiatric appointment with the couple at the client's request, contributed the record, and
+   handed the case over.
+
+**The outcome.** Ogundipe was assessed and admitted for three weeks; the working diagnosis was a psychotic episode
+with a likely organic contribution, and he was investigated accordingly. He returned to the practice eleven months
+later, at his own request, for couple work — with a psychiatrist's letter, a stable medication regime, and a
+therapist who now had a supervision arrangement with a psychiatrist for exactly this kind of question.
+
+**What the case teaches.**
+
+1. **The odd detail is the diagnosis.** "Feeling watched" is not a symptom of depression; "the supervisor has been
+   replaced by someone who is not him" is not a marital complaint. Both were in the record within three sessions
+   and neither was pursued. The failure was not ignorance of psychiatry; it was the therapist's assumption that
+   the formulation she had was sufficient.
+2. **The couple's presence concealed the symptoms.** In joint sessions Ogundipe was polite, coherent for twenty
+   minutes and defended by his own narrative; his wife's account was the only evidence and the therapist had
+   classified it as marital criticism.
+3. **The competence that was required was recognition, not treatment.** No part of this case needed the therapist
+   to be a psychiatrist. It needed her to notice, to ask, to telephone, and to say "I am not qualified to assess
+   this" without shame.
+4. **The referral preserved the relationship.** Ogundipe returned, which is the outcome that the cold referral
+   rarely produces.
+
+### 7.6 Transcript: the referral conversation
+
+Minutes four to sixteen of the session after the joint session. Annotated.
+
+> **R1 Therapist:** I want to talk about something, and I am going to say it plainly because I think you will hear
+> it better plainly than gently. — *The warning that a serious statement is coming. It buys attention and it
+> treats the client as an adult.*
+>
+> **R2 Ogundipe:** You want to stop.
+>
+> **R3 Therapist:** I want to change what we are doing. *(pause)* What I have seen in the last two sessions is
+> not something I am trained to assess. — *The distinction between stopping and changing, offered first, before
+> the content.*
+>
+> **R4 Ogundipe:** What did I do?
+>
+> **R5 Therapist:** Nothing. *(pause)* This is not about your behaviour. There are experiences you have described
+> to me — the neighbours, the mark on the car, the night you do not remember — and those are not things a
+> counsellor assesses. A doctor needs to look at them, and I want to arrange that this week. — *The content
+> named, in his own words, without a diagnostic label.*
+>
+> **R6 Ogundipe:** *(quietly)* So you think I am mad.
+>
+> **R7 Therapist:** *(pause)* I think something is happening in your mind that is frightening you and that I
+> cannot explain. *(pause)* "Mad" is a word people use to end a conversation. I am trying to start one. — *The
+> refusal of the label and the refusal of the euphemism, in the same answer.*
+>
+> **R8 Ogundipe:** My job. If they hear —
+>
+> **R9 Therapist:** That is a real fear and we will deal with it. *(pause)* The psychiatrist I am going to call
+> works in a private clinic; the note goes to your file there and nowhere else. If the assessment leads to
+> treatment, we will talk about what your employer is told, which in most cases is nothing. — *A practical concern
+> answered specifically, which is what makes the rest credible.*
+>
+> **R10 Ogundipe:** And my wife? She will say I told you —
+>
+> **R11 Therapist:** Your wife has been saying it for months and you have been telling her she is wrong.
+> *(pause)* What I am doing is taking her seriously, which does not mean she is right about everything. — *The
+> move that converts the wife from accuser to ally, and that requires the therapist to say something slightly
+> uncomfortable.*
+>
+> **R12 Ogundipe:** *(long pause)* Will you tell them what I said? The thing about the car?
+>
+> **R13 Therapist:** With your permission, yes, because it is the reason for the referral. Without your
+> permission, I will tell them what I observe and I will tell you that I have done so. — *The honest answer, which
+> is more useful than reassurance and which models the disclosure policy of Week 3 in a medical setting.*
+>
+> **R14 Ogundipe:** *(pause)* Can you be there?
+>
+> **R15 Therapist:** If you want me there, I will be there. — *Three seconds of commitment that determine whether
+> he attends.*
+
+**What the transcript shows.** Nine of the fifteen turns are the client's fears, and each is answered
+specifically rather than globally. The therapist never says "it will be fine". She says what she will do, what she
+will not do, and what the client's choices are — and the referral holds because the fear of being labelled was
+answered with a procedure rather than with reassurance.
+
+### 7.7 Laboratory: the competence audit and the referral rehearsal
+
+**Part A — the audit (thirty minutes, individual, written).** The student lists fifteen presenting problems
+likely in her intended practice, and for each: a competence rating out of five, the evidence for the rating (how
+many cases, with what supervision), and the named service or supervisor she would refer to. The two lowest ratings
+become the year's development plan; the two highest ratings are interrogated by a partner, who asks "when did you
+last have feedback on that?"
+
+| Presenting problem | Rating (1–5) | Evidence | Referral destination |
+|---|---|---|---|
+| Couple conflict with no violence | | | |
+| Couple conflict with a violent partner | | | |
+| Child with behavioural difficulty | | | |
+| Adolescent self-harm | | | |
+| Suspected psychosis | | | |
+| Grief and bereavement | | | |
+| Sexual difficulty in a couple | | | |
+| Family with a member who has dementia | | | |
+| Substance misuse | | | |
+| Disclosure of historical abuse | | | |
+
+**Part B — the referral rehearsal (forty minutes, triads).** Each triad receives one card: *refer for a
+psychiatric assessment*; *refer because the client's child needs a specialist*; *refer because the therapist's own
+history makes the case inappropriate*; *refer because the client needs a service the therapist does not provide
+(legal aid, housing)*. The therapist has twelve minutes to tell the client, name the gap without shame, offer a
+warm handover, and survive the client's anger. The observer marks the six elements.
+
+**Marks (20).**
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Recognition** | Did not identify the gap | Identified it late | Identified it early and recorded it |
+| **The naming** | Euphemism or self-blame | Clear but cold | Clear, specific, unashamed, and about the task not the person |
+| **Warmth** | A name on paper | Contact offered | Telephone call made, appointment arranged, logistics given |
+| **The client's anger** | Defended or collapsed | Endured | Received, named, and the referral held |
+| **The record** | Nothing | Description | Reasoning, the referral question, the consent, the follow-up date |
+
+**The marking note.** The lowest band applies to the therapist who, when the client protests, offers to "keep
+seeing you as well". That sentence is the commonest way in which a correct referral is undone, and it is a failure
+of the criterion on warmth — because the therapist has made the client's comfort the criterion rather than the
+client's care.
+
+### 7.8 Six errors
+
+**Error 1 — Confusing scope of practice with scope of competence.** "I am licensed to see families" is true and
+is not an answer to "should I be seeing this family?".
+
+**Error 2 — Treating the first case of a kind as routine.** The first psychotic presentation, the first
+disclosure of abuse, the first family in which a child has died: each requires supervision in advance, and each is
+frequently held alone because the therapist does not want to appear inexperienced.
+
+**Error 3 — The cold referral.** A name and a telephone number, given at the end of a session, with no call and no
+follow-up. Most clients do not attend, and the therapist records a referral that did not happen.
+
+**Error 4 — The referral that becomes an abandonment.** No closing session, no summary, no offer to return. The
+client experiences the referral as a rejection and does not seek help again.
+
+**Error 5 — Supervision that is a performance.** The therapist brings the case that will make her look thoughtful
+and leaves out the one she is failing. The supervisor cannot supervise what she is not told, and the client carries
+the cost.
+
+**Error 6 — Cultural humility used as an excuse.** "I did not want to impose my framework" is not a reason for
+failing to assess, to ask, or to refer. Humility is a stance in enquiry; it is not an absence of method.
+
+### 7.8a The case the therapist kept
+
+The counter-case to section 7.5, and the more common failure.
+
+A therapist in a small practice sees a woman for eighteen months for what is recorded as "anxiety and marital
+difficulty". The woman has a history of childhood sexual abuse that emerges in month four. The therapist has no
+training in trauma treatment, has read two books, and continues. The treatment is supportive, kind, and static; the
+client's nightmares do not change and her marriage deteriorates. In month fifteen the client discloses that she has
+been cutting her thighs for a year and has not told anyone.
+
+**The signals that were present and unheeded.** The dread before sessions, recorded nowhere. The case never
+presented in the peer group, because the therapist "did not want to be told to refer". The night-before reading
+that the therapist experienced as diligence. The flat trajectory that the therapist attributed to the client's
+"complexity".
+
+**What competence would have required, at month four.** A supervision conversation about whether trauma-focused
+work was within the therapist's scope; an additive referral to a trauma-trained clinician, with the therapist
+continuing the marital work; or a transfer with a bridge. None of these requires abandoning the client, and all of
+them require the therapist to say out loud that she did not know how to treat what had emerged.
+
+**The lesson, stated as a rule.** The case that the therapist cannot bring herself to discuss is the case that most
+needs discussing, and the reluctance is the most reliable signal in this chapter. It is also the signal that
+therapists are least likely to act on, because acting on it requires admitting, in front of a senior colleague,
+that a client has been receiving a treatment that was not working.
+
+### 7.9 Culture, faith and the referral that is refused
+
+**The traditional healer.** In much of this region, families consult a traditional healer, a spiritualist, or an
+elder before or alongside a therapist, and the therapist who ignores this will be working in parallel with a
+treatment she knows nothing about. The professional position is neither endorsement nor contempt but enquiry:
+what has been done, by whom, what was said, what it cost, and what the family believes about it. Where the family
+attributes the problem to a spiritual cause and the therapist's formulation is psychological, the two are not
+necessarily in conflict, and the therapist who insists on the conflict loses the family.
+
+**Collaboration, with limits.** Collaboration with a traditional practitioner is possible and sometimes
+excellent, particularly where the practitioner holds the family's trust and the therapist holds the clinical
+method. It requires a clear agreement about confidentiality, a shared understanding of who is treating what, and a
+willingness to withdraw if the practitioner's methods involve harm — beating, confinement, deprivation, or
+"deliverance" practices that endanger a child. Where harm is involved, the statutory duty is engaged and the
+family's framework is not a defence.
+
+**Referral to a religious authority.** Families frequently ask the therapist to refer them to a pastor or imam for
+the spiritual part of a problem, and sometimes the therapist should. The distinction worth teaching: refer for
+pastoral care where the client wants it and it is additive; do not refer *instead* of the clinical assessment
+where the clinical need is real. A therapist who sends a depressed client to a pastor in place of treatment has
+not respected the culture; she has failed to treat.
+
+**When the therapist's referral is refused on religious grounds.** "We do not take these things to doctors." The
+response is not argument and not capitulation. It is specificity: what exactly is feared (stigma, gossip,
+medication, admission, cost), what the family would accept (a physician rather than a psychiatrist, a female
+doctor, a private clinic, a single consultation), and what the therapist's own limit is. Where a child's welfare
+is at stake, the limit stops being negotiable.
+
+**The elder's veto.** In some households a senior man will decide whether the family continues in treatment, and
+the therapist will never meet him. The clinical response is to ask the client what the elder believes is
+happening, and to offer a route by which the elder's view can be heard — a letter, a meeting, a family session —
+because a treatment that the household's authority has not consented to will end at the elder's first objection.
+
+**The therapist's own faith.** A therapist whose framework is religious will be tempted to offer it, and a
+therapist whose framework is secular will be tempted to correct the family's. The competent position is that the
+therapist's metaphysics is not the treatment, and that the client's is material. What the therapist believes about
+God is not a clinical instrument; what the client believes is.
+
+> **DEBATE** — "A therapist who shares a client's culture is always better placed to treat that client than one
+> who does not." Argue for: shared language, shared shame, shared knowledge of what a family will and will not
+> tolerate, and the credibility that comes with it. Argue against: over-assumed understanding, the impossibility
+> of disclosing family business to a person from the same community, the blind spots that similarity produces, and
+> the client's need for someone outside the system. Then describe the case in which you would deliberately choose
+> an outsider.
+
+### 7.9a When the therapist is the only service
+
+A situation common in this region and almost absent from the training literature: the therapist is the only
+clinician within four hours' travel, and the client cannot be referred anywhere.
+
+**The four moves available.** *Extend scope carefully, with supervision at a distance:* a monthly telephone
+consultation with a specialist, a recorded session reviewed by email, a named consultant for the specific domain.
+*Use the medical system for what it can do:* the general practitioner, the district hospital, the community health
+worker — each can carry part of the assessment even where no psychiatrist exists. *Train a local resource:* a
+nurse, a teacher, a catechist who can be taught a structured screen and a referral pathway. *Travel:* the therapist
+goes to the specialist twice a year with a caseload, which is cheaper than pretending.
+
+**What must be recorded.** That no local service existed; what alternatives were considered; what the remote
+consultation advised; and what the client was told about the limits. The record is not defensive paperwork; it is
+the only evidence that the decision was a considered one rather than a convenience.
+
+**What must not happen.** The therapist treating outside her competence while describing the situation as
+"cultural context" or "the reality of practice". Necessity changes the risk calculation; it does not change the
+obligation to seek advice, to record, and to tell the client the truth about what is and is not available.
+
+### 7.10 Evidence note
+
+**What the research supports.** Therapist effects are substantial and consistent: outcomes vary more between
+therapists than between the treatments they claim to deliver, and the most robust correlates of better outcomes are
+skill in alliance management, deliberate practice, and the use of feedback. Supervision is associated with
+therapist development in qualitative and survey research, and feedback-informed practice improves outcomes and
+reduces deterioration, particularly with clients who are not progressing. Training in cultural formulation is
+associated with better engagement but not reliably with better outcomes, which supports the humility framing
+rather than a knowledge-acquisition framing.
+
+**What is weaker.** The direct evidence that supervision improves client outcomes is surprisingly thin, because
+supervision is nearly universal and therefore hard to study by comparison. The evidence on interpreter use is
+mostly about error rates and satisfaction rather than clinical outcomes.
+
+**What is not supported.** That experience alone produces competence; the evidence on therapist development shows
+that many therapists plateau early and that self-assessed competence correlates poorly with observed skill. That
+cultural matching reliably improves outcomes — the findings are mixed and the mechanisms are unclear. And that a
+referral is a neutral act; clients experience it as a judgement on themselves, and the evidence on drop-out after
+referral is consistent with that.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same referral, made in week two and made in week twenty, is a different
+clinical act — the first is a formality, the second is a rejection after an investment.
+
+### 7.11 Key terms
+
+**Scope of practice** — what the licence permits.
+
+**Scope of competence** — what the therapist can do to an adequate standard, specified by domain.
+
+**Cultural humility** — a stance of enquiry about one's own frame and the client's, with the capacity to be
+corrected.
+
+**Additive referral** — another professional joins and treatment continues.
+
+**Consultative referral** — advice obtained; the therapist continues.
+
+**Transfer** — the case moves entirely.
+
+**Warm handover** — a direct contact between professionals, with consent, so that the client arrives expected.
+
+**Bridge session** — a planned continuation while a referral is arranged, with a stated end date.
+
+**Signal** — a felt or observed indicator that the case may exceed competence; not proof and not to be ignored.
+
+### 7.12 Self-test
+
+1. Name the four dimensions of competence and give a failure of each.
+2. Why is confidence a poor indicator of competence?
+3. List the six signals that a case is beyond you.
+4. What are the four rules for working with an interpreter, and why is a family member never acceptable?
+5. Distinguish additive, consultative and transfer referrals with an example of each.
+6. What are the six elements of a referral that the client actually acts on?
+7. What is the "refusal to refer", and what test detects it?
+8. In the Ogundipe case, what were the three missed details and what did each signify?
+
+**Answers.** *(1)* Knowledge — confident error from outdated method; skill — knowing the technique and being
+unable to enact it; experience — treating the first case of a kind as routine; appropriateness — the therapist's
+own history or position driving the treatment. *(2)* Because competence deficits remove the cues by which they
+would be detected, and because confidence rises fastest where feedback is absent. *(3)* Dread before the session;
+reading the night before in order to conduct it; the case never presented in supervision; relief when the client
+cancels; a treatment that has been flat and unexplained; material the therapist was never trained to assess.
+*(4)* Introduce and contract the interpreter as a professional; speak to the client in the first person; never use
+a family member; allow double time. A family member is never acceptable because their own position in the family
+distorts what is said, and because a child or spouse cannot safely carry another member's disclosure. *(5)*
+Additive — a physician reviews medication while therapy continues; consultative — a psychiatrist advises and the
+therapist treats; transfer — a first episode of psychosis moves to a psychiatric service. *(6)* Recognition
+recorded; the kind of referral chosen; the gap named without shame; a warm contact made; a bridge if needed; a
+follow-up and a closing. *(7)* Continuing a case because the client will be upset or because the therapist is the
+only person trusted; the test is what the therapist would say if a colleague described the case to her. *(8)* The
+belief that neighbours were watching (persecutory belief); the incoherent account of the meeting ("replaced by
+someone who is not him"); the refusal of his wife's cooking and sleeping in the car (a change in behaviour with a
+possible delusional basis) — together, an emerging psychosis that the depression formulation concealed.
+
+### 7.13 Reflective task
+
+Write one page on the following: name the client you would least like to be referred. Describe that client's
+presenting problem, and then answer honestly whether your reluctance is about competence or about your own
+history. Keep the page; it is the beginning of your development plan.
+
+### 7.14 Further reading
+
+- Rønnestad, M. and Ladany, N. on the development of therapists over the career — the evidence on plateauing and
+  on what distinguishes therapists who keep improving.
+- Miller, S., Hubble, M. and Duncan, B. on feedback-informed practice — the strongest argument that outcomes can be
+  improved with routine measurement.
+- Falender, C. and Shafranske, E. on clinical supervision — the standard text on the supervisory relationship and
+  contract.
+- Tervalon, M. and Murray-García, J. on cultural humility — the original formulation, worth reading in the source.
+- Any current local guidance on the use of interpreters in health and social care.
+- Your professional body's continuing development requirements, read as a minimum and not as a standard.
+
+*Next: Week 8 — Risk I: suicide and self-harm.*
 
 ---
 
