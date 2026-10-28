@@ -4937,32 +4937,703 @@ history. Keep the page; it is the beginning of your development plan.
 
 ## Week 8 — Risk I: suicide and self-harm
 
-**The standard.** Ask directly, ask specifically, ask about means, and document. There is no evidence that
-asking about suicide increases risk, and substantial evidence that clinicians fail to ask.
+**Learning outcomes.** By the end of this week the student can (1) ask about suicide directly, specifically and
+without euphemism, and explain why asking does not increase risk; (2) conduct and document the ten-element
+assessment and formulate risk at one of three levels; (3) write a safety plan with a client rather than for one;
+(4) manage a disclosure of risk inside a family treatment without turning the session into an interrogation; and
+(5) break confidentiality for risk in a way that preserves the relationship.
 
-**A defensible risk assessment includes:**
+### The standard, stated once
 
-1. **Ideation** — frequency, intensity, duration, controllability.
-2. **Plan** — specific method, place, time.
-3. **Intent** — "Do you intend to act on this?"
-4. **Means** — access to firearms, medication, pesticides, heights.
-5. **Previous attempts** — the strongest single predictor.
-6. **Protective factors** — reasons for living, responsibility to children, faith, support.
-7. **Substance use and impulsivity.**
-8. **Family history.**
-9. **Current stressors and recent losses.**
-10. **Disclosure and support network** — who can be told, who can watch.
+Ask directly. Ask specifically. Ask about means. Document what you asked and what you were told. There is no
+evidence that asking about suicide increases risk; there is substantial evidence that clinicians do not ask, that
+they ask indirectly when they do, and that the indirect question produces a denial.
 
-**Documentation.** Record the questions you asked and the answers, your formulation of risk (low/moderate/
-high), the plan, who was informed, and the review date. If you decide *not* to break confidentiality,
-record why.
+**The four sentences that are wrong, and the one that is right.**
 
-**In family work.** A parent's suicidality, an adolescent's self-harm and a child's disclosure must be
-handled without turning the family session into an interrogation. Structure: see the person individually
-first, agree what will be shared, then facilitate the sharing.
+| Said | Heard | Problem |
+|---|---|---|
+| "You are not thinking of doing anything silly, are you?" | "Say no" | "Silly" invites denial and insults the person |
+| "Do you ever feel like you want to end it all?" | "That is a metaphor" | Vague; produces a vague answer |
+| "You would not harm yourself, would you?" | "I am being watched" | Leading; the answer is in the question |
+| "Are you having thoughts of suicide?" | "Yes or no" | Better, but a closed door |
+| "Have you had thoughts of ending your own life — and if so, how often, and what have you thought about doing?" | "This person can hear it" | Correct: direct, specific, and open |
 
-> **PRACTICAL (OBSERVED)** — Fifteen-minute suicide risk assessment role-play with a trained actor. You must
-> ask all ten elements, formulate risk, and agree a safety plan. Pass/fail.
+**Why family therapists get this wrong more often than individual therapists.** Because in family work the
+therapist is managing multiple people's distress at once, and risk appears as one thread among many. The parent
+who says "she is being dramatic" and the adolescent who says "I am fine" produce a session that is busy, warm and
+dangerous. The discipline is structural: risk is assessed individually, in every case that presents with the
+features below, whatever the presenting complaint.
+
+**When to assess, as a minimum.** Any presentation with: hopelessness, a recent loss, a previous attempt, a family
+history of suicide, a chronic illness or pain, substance misuse, a disclosure of self-harm, an adolescent with
+school refusal or sudden withdrawal, a client in a violent relationship, a client who has just been left, and any
+client about whom the therapist has a private unease she cannot name. The last is on the list because it is
+frequently correct.
+
+| Level | Picture | Action |
+|---|---|---|
+| **Low** | Ideation absent or fleeting, no plan, no intent, good support, reasons for living | Document, safety plan, review at next session, monitor |
+| **Moderate** | Ideation with frequency, some intent, no plan or vague plan, inconsistent support, treatable | Safety plan, means restriction, notify a support person with consent, increase frequency, refer for assessment |
+| **High** | Ideation with plan and intent, access to means, previous attempt, agitation, intoxication, no support | Do not leave the person alone; arrange urgent psychiatric assessment or emergency care; inform family; document contemporaneously |
+
+### 8.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–8 | The standard, and the four wrong sentences | Students write their own opening question, then compare |
+| 8–25 | Five concepts: state not trait, the assessment is an intervention, means, family as resource and hazard, documentation | Lecture |
+| 25–45 | The ten elements, each with its wording | Demonstration; then triads practise three elements each |
+| 45–55 | Formulation and the three levels | Five vignettes, voted and defended |
+| 55–65 | Self-harm: function, contagion, family response | Lecture with a case |
+| 65–78 | The safety plan, written with the client | Live construction with a volunteer |
+| 78–90 | The Suleiman case: an adolescent, a plan, and two parents | Case, students decide what the mother is told and when |
+
+### 8.2 Five concepts that organise the week
+
+**Concept 1 — Risk is a state, not a trait.** The same person assessed in March and in July is two different
+patients. Risk rises with agitation, insomnia, intoxication, shame, loss of a relationship, and access to means,
+and falls with sleep, support and a reason to stay alive. The implication for practice is that an assessment is a
+snapshot with a date and a review, not a verdict filed once.
+
+**Concept 2 — The assessment is itself an intervention.** A careful, direct, non-judgemental enquiry reduces
+isolation, communicates that the therapist can bear the material, and frequently produces the first honest
+conversation the person has had. This is why the quality of the asking matters clinically and not only
+forensically: a bad assessment does harm and a good one does some good.
+
+**Concept 3 — Means matter more than intent.** The difference between a serious attempt and a death is often
+distance and method. Means restriction — locking medication, removing a firearm, agreeing that a friend holds the
+pesticide — is the intervention with the best evidence in the whole of this week's material, and it is the one
+most often omitted because it feels intrusive.
+
+**Concept 4 — The family is both the resource and the hazard.** The family is the most reliable source of
+monitoring and the most common source of the precipitants: conflict, shame, rejection, violence, and the loss of a
+relationship within the household. A family therapist is therefore unusually well placed to intervene and
+unusually at risk of talking the risk down.
+
+**Concept 5 — Documentation is a clinical act, not a defensive one.** The record of what was asked, what was
+answered, how risk was formulated, who was informed and when it will be reviewed is what allows the next clinician
+to continue the work. It is also the only thing that distinguishes a considered decision from a negligent one when
+the outcome is bad, which it sometimes will be.
+
+### 8.2a The ten elements, with wording
+
+The elements are the standard list. What is usually missing from teaching is the sentence to use for each.
+
+**1. Ideation.** "In the last two weeks, have you had thoughts of ending your own life?" Then: how often, how long
+does it last, can you stop it, does it come on its own or when something happens.
+
+**2. Plan.** "Have you thought about how you would do it?" Then: where, when, have you prepared anything, have you
+been to the place. A plan that has been rehearsed is a different level of risk from a plan that has been imagined.
+
+**3. Intent.** "Do you intend to act on this?" The question is uncomfortable and it is the one that most changes
+the formulation. A second question follows: "what has stopped you so far?"
+
+**4. Means.** "Do you have access to — " and then name the means the client has already mentioned, plus the
+common ones in the setting: medication in the house, pesticides, a firearm, a height, a vehicle, a rope. Ask what is
+in the house and who else can reach it.
+
+**5. Previous attempts.** "Have you ever tried before?" Then: what, when, what happened, did anyone know. The
+strongest single predictor, and frequently not in the referral.
+
+**6. Protective factors.** "What keeps you going?" — children, a mother, faith, a dog, work, a plan for next year.
+Ask for specifics and record them in the client's words, because they are the raw material of the safety plan.
+
+**7. Substance use and impulsivity.** "How much are you drinking?" and "do you do things quickly when you are
+upset?" Intoxication and impulsivity are the two factors that convert ideation into action within hours.
+
+**8. Family history.** "Has anyone in your family died by suicide, or tried?" The question requires care and it
+must be asked; the answer frequently reframes the case.
+
+**9. Current stressors and recent losses.** "What has happened in the last three months?" — a separation, a
+dismissal, a debt, a diagnosis, a death, an arrest, a public humiliation. Ask what the client expects to happen
+next, because the anticipation of a loss is as potent as the loss.
+
+**10. Disclosure and support network.** "Who knows about this?" and "who could you call at two in the morning?"
+The answers determine whether a safety plan is possible or whether the plan must be a clinical arrangement.
+
+**The follow-up question students forget.** "What would make it worse this week?" The answer is the plan: the
+anniversary, the court date, the visit from the husband, the results of the test. A risk formulation that does not
+name the date on which risk will rise is a formulation that will be wrong within seven days.
+
+### 8.2b Formulation, and the sentence that carries it
+
+An assessment produces a level, and the level produces actions. What makes the work defensible is the sentence
+that connects them.
+
+**The template.** "Risk is assessed as [level] on [date]. This is based on [ideation, plan, intent, means,
+history]. Protective factors are [specific]. The precipitants in the next two weeks are [specific dates or
+events]. Actions taken: [means restriction, notification, referral, frequency of contact]. Review: [date]."
+
+**Worked example.**
+
+> Risk assessed as moderate on 14 March. Daily ideation over three weeks, no plan, no stated intent, prior overdose
+> at 17. Access to a large quantity of her mother's medication in an unlocked cupboard. Protective factors: two
+> children, a sister she telephones daily, church attendance. Precipitant: custody hearing on 26 March. Actions:
+> medication moved to the sister's house today with the client's agreement; sister informed with consent; weekly
+> sessions increased to twice weekly until the hearing; psychiatric assessment requested, appointment 19 March;
+> safety plan written and copied. Review: 17 March.
+
+**Why this format works.** It records the reasoning rather than the conclusion, so a reader can see that the
+assessment was made rather than assumed. It names the dates, so the review is real. And it records the client's
+consent to each notification, which is the detail that distinguishes a collaborative intervention from a
+unilateral one.
+
+**What must be added where the client refuses consent to notify.** "Client declined notification of her sister.
+Discussed the additional risk of secrecy; client maintained refusal. Therapist notes the increased risk and will
+review at the next contact. Emergency contact details held." Recorded refusal is not misconduct; unrecorded
+refusal becomes, in a subsequent inquiry, an omission.
+
+**The three things a formulation must never contain.** A promise — "client contracted not to harm herself" — which
+is worthless and which no client can make. A prediction — "client is not at risk" — which no clinician can make.
+And a euphemism — "client has some passive thoughts" — which conceals rather than records.
+
+### 8.2c Ten things that raise risk in a family case
+
+The formulation is built from the elements, and the elements are easy to gather and easy to leave unweighted. The
+ten items below are the ones that most often change a moderate assessment into a high one, and each is
+under-detected in family work because it appears as ordinary family material.
+
+1. **A recent humiliation or exposure** — an arrest, a pregnancy discovered, a debt made public, a shaming in
+   church or at work. The days immediately after an exposure are the days of highest risk.
+2. **The end of a relationship in the last six weeks**, including the end that the client has not yet accepted.
+3. **A court date, a hearing, or a custody decision in the next fortnight.** Ask for the date; it belongs in the
+   formulation and it sets the review.
+4. **Insomnia of more than three nights.** Agitation and sleeplessness are the states in which ideation becomes
+   action.
+5. **Access to a method that is unfamiliar to the therapist** — pesticides in a farming household, a relative's
+   firearm, a well, a river the client has mentioned twice.
+6. **A family history that nobody has asked about**, including a death that the family describes as an accident.
+7. **A client who has become the family's carer** — for a parent with dementia, a disabled sibling, a dying
+   spouse. The burden plus the loss of the role is a combination that appears in the files after the event.
+8. **A client who has disclosed abuse and been disbelieved** by the family member she told.
+9. **A client who is taking medication and has stopped it**, particularly where the family has discouraged it.
+10. **The therapist's own unease, without a reason.** It is on the list because it is data: an experienced
+    clinician's inarticulate concern is a signal that something in the presentation does not fit the formulation.
+
+### 8.3 Self-harm: what it is, and what it is not
+
+**The distinction that matters clinically.** *Suicidal behaviour* is intended to end life. *Non-suicidal
+self-injury* is intended to relieve intolerable feeling, to punish the self, to communicate, or to feel real, and
+is not intended to kill. The distinction is not absolute — self-injury is a risk factor for suicide, and the two
+occur in the same person — and it changes the response: self-injury requires an assessment of function and an
+alternative coping repertoire, and suicide requires a risk assessment and a safety plan.
+
+**The four functions, in the words clients use.**
+
+1. *To feel something, or to feel nothing.* "When I cut, everything goes quiet for a while."
+2. *To punish.* "I deserved it." Frequently following abuse, and frequently accompanied by shame.
+3. *To communicate.* "Nobody would listen unless they saw something." Common in adolescents in families where
+   distress is not permitted.
+4. *To control.* "It is the one thing that is mine." Common where the person's life is otherwise governed by
+   others.
+
+**The countertransference.** Self-injury produces strong reactions in therapists, and the reactions are usually
+one of three: rescue (the therapist becomes the person who must stop it, and the client's autonomy disappears),
+disgust (the therapist's own history or her culture's response to mutilation), or fascination (the case becomes
+the therapist's most interesting one). All three are material for supervision, and all three change the
+treatment.
+
+**What the therapist does in the session.** Asks about the injury without recoiling; asks about the function
+without interpreting it; asks about the moment before, in detail, because the sequence *feeling — act — relief —
+shame* contains the points at which alternatives can be introduced; and does not make the stopping of self-injury
+a condition of the therapy. A therapist who says "you must stop" has added a rule to a problem that is caused by
+rules.
+
+**The family's response.** The commonest sequence in a family: discovery, horror, prohibition, concealment. The
+adolescent learns to hide more carefully and to injure in places that do not show. The therapist's work with the
+parents is to convert horror into monitoring and prohibition into an agreement about what will happen when the
+urge arrives — usually a plan involving a person and a place rather than a rule.
+
+**Contagion.** In school and peer settings, self-injury and suicidal behaviour cluster. Two implications. First,
+group work with adolescents who self-injure should be conducted with attention to comparison and to explicit
+method discussion; some services avoid mixed groups entirely. Second, in a family with two adolescents, the
+therapist should expect the second to be affected and should ask.
+
+### 8.3a The safety plan, written with the client
+
+A safety plan is not a no-suicide contract. It is a written sequence the client will follow as the urge rises, and
+it is written *with* the client, in her language, on paper she keeps.
+
+**The six steps, in order.**
+
+1. **My warning signs.** The thoughts, feelings, images and behaviours that come before the urge. In the client's
+   words: "I stop answering messages", "I start thinking about my mother".
+2. **Things I can do on my own.** Two or three, specific and available: a shower, walking to the junction, a
+   particular playlist, prayer. Not "think positive".
+3. **People and places that distract me.** Named people, with numbers, and places that are open at night.
+4. **People I can ask for help.** Two or three names, with numbers, and an agreed script: "I am not all right, can
+   you be with me for an hour?"
+5. **Professionals and services.** The therapist's number with its limits, the clinic, the emergency department,
+   the crisis line. Written in full, not abbreviated.
+6. **Making the environment safe.** The means, and what will be done about them today: medication with the sister,
+   the razor blades removed, the pesticide taken to the farm, the key to the roof given to the neighbour.
+
+**The rules for writing it.** In the room, on paper, in the client's handwriting where possible; the client keeps
+a copy and the file keeps a copy; the client's own language, not the therapist's; reviewed at each session
+initially and at every change of circumstance; and the client's agreement sought at each step, because a plan
+imposed by the therapist is a plan the client will not use.
+
+**A worked plan, for Amina, 15, whose case follows in 8.5.**
+
+> **Warning signs:** I stop coming out of my room. I feel like I am behind glass. I start thinking nobody would
+> notice.
+> **On my own:** cold shower; the playlist Aunty Bisi made; walk to the corner and back.
+> **Distraction:** Halima (mother) in the kitchen; sit with her while she cooks. Fatima next door.
+> **Ask for help:** Halima — "I am having the bad thoughts again, please sit with me". Fatima — "can I come and
+> sit at your place".
+> **Professionals:** Dr Okafor (therapist) 0803…, weekdays 9–6; Amina's clinic 0805…; Emergency 112.
+> **Safe environment:** mother's medication now in a locked box with the key kept by Halima's sister; Amina's
+> blades given to the therapist in session; no access to the roof (padlock replaced 12 March).
+
+### 8.4 Risk inside a family treatment
+
+**The structural rule.** Assess individually, agree what will be shared, then facilitate the sharing. Three steps,
+in that order, every time. The therapist who assesses in front of the family gets a performance; the therapist who
+shares without agreement loses the young person; the therapist who neither assesses nor shares is the case in the
+file that ends badly.
+
+**Step 1 — individually.** The client is seen alone, the assessment is conducted in full, and the safety plan is
+written. The parents or partner are told that the therapist is seeing the person alone and why, in general terms,
+before the session — never after.
+
+**Step 2 — agree what is shared.** The conversation has three parts. What the therapist must tell, and why: the
+risk, because the household is the means of supervision. What the client will tell herself: the detail, the
+words, the timing. And what will not be told: the content of the therapy, the things said about the parents, the
+history. The agreement is written down, in the note and, where the client wishes, on paper for the family.
+
+**Step 3 — facilitate.** The client speaks first, in the joint session, with the therapist present. If she cannot,
+the therapist says what was agreed and the client confirms it. The family's reaction is then worked with: the
+father's anger, the mother's guilt, the sibling's confusion. The session ends with the household's part of the
+safety plan — who checks the medication cupboard, who is called, what happens at night.
+
+**The three family configurations that require specific care.**
+
+*The parent who is suicidal.* The children are not told the content. They are told what changes: "your mother is
+ill and is being treated; she will be in hospital for a few days; this is not your fault and it is not because of
+anything you did." The children's need for a truthful, age-appropriate account is a clinical task and it is
+frequently skipped because the adults are overwhelmed.
+
+*The adolescent who self-injures.* The parents are told the fact, not the diary. The prohibition response is
+anticipated and converted, in the session, into an agreement about the next occasion. The school is involved only
+with the young person's knowledge and, where the law requires it, with her being told first.
+
+*The child who discloses.* The child's disclosure of abuse is Week 9's territory and the same structure applies:
+the child is seen alone, told what will happen next, and told who will be told and in what words before anyone is
+told.
+
+### 8.4a Breaking confidentiality for risk, in words
+
+The moment is unavoidable and it is where many therapists lose a client. The four-part statement, delivered
+before the call is made rather than after.
+
+1. **The commitment, restated.** "I told you at the start that there are things I cannot keep, and this is one of
+   them."
+2. **The specific content.** "What I am going to tell your mother is that you have been thinking about taking her
+   tablets, and that we have made a plan. I am not going to tell her what you said about her, or about your father,
+   or anything about the sessions."
+3. **The reason.** "Because the tablets are in the house, and because she can do something I cannot do from here,
+   which is to be awake at two in the morning."
+4. **The offer.** "You can be in the room when I tell her, or I can tell her and you can come in afterwards. Those
+   are the two choices and I would rather you chose."
+
+**What the client usually says.** "You promised." The answer is not a defence of the policy. It is: "I promised,
+and I told you at the time what the exception was. I am keeping the promise that matters more, which is that I
+would not let this happen without doing something."
+
+**What must never happen.** Telling the family and then telling the client. The sequence converts a professional
+duty into a betrayal, and the client who learns of it afterwards will not disclose again — to this therapist or to
+any other.
+
+### 8.4b When the family will not cooperate with the plan
+
+The plan assumes a household that will act. Frequently it will not: the mother who says "she is doing it for
+attention", the father who refuses to lock anything because "a man's house is not a prison", the husband who
+dismisses his wife's ideation as manipulation.
+
+**The four responses, in order.** *First, ask what the objection is about,* because it is usually about something
+specific: the father hears an accusation of his parenting, the mother hears that she has failed. *Second, offer a
+version of the plan that does not require them to admit anything* — locking a cupboard because the children are
+small, not because a daughter is suicidal. *Third, find another adult* — an aunt, a teacher, a neighbour, a
+religious leader — and build the monitoring around that person, with the client's knowledge. *Fourth, and where
+the risk is high, state the position plainly:* "I am telling you what I think needs to happen because your
+daughter's life is at stake. If it does not happen, I will record that I asked and I will keep asking."
+
+**What not to do.** Do not discharge the family because they will not comply. Do not accept the plan's collapse in
+silence. And do not turn the work into a campaign against the parents, which will cost the adolescent the only
+household she has.
+
+### 8.5 Case: Amina Suleiman, fifteen
+
+**Referral.** The school counsellor telephones: a teacher noticed cuts on the forearm of Amina Suleiman, 15, a
+senior secondary student. Amina has refused to explain them. The mother, Halima, 41, a trader, is telephoned and
+attends with Amina the following day. The father, Yusuf, 47, is a long-distance driver and is away; he will attend
+when he returns in three weeks.
+
+**The household.** Halima and Yusuf, married nineteen years. Amina, 15; Ibrahim, 11. The family is Muslim; Halima's
+sister Bisi lives twenty minutes away. Yusuf is frequently absent for two to three weeks at a time.
+
+**Session one, with mother and daughter.** Amina is silent, arms covered, answering in single words. Halima does
+the talking: Amina has been "difficult" since the new school year, has stopped eating with the family, and has been
+found crying in the bathroom. Halima's own account includes a period of depression two years earlier after a
+miscarriage, for which she took medication and did not continue.
+
+The therapist does three things in this session and none of them is to ask about the cuts in front of the mother.
+She establishes the presenting problem in the family's terms. She explains the structure — she will see Amina alone
+first, then the family, and she explains why, in front of both, so that the individual session is not a secret. And
+she says what she will not keep: "if I think Amina is in danger, I will tell you, and I will tell her first that I
+am going to." Halima agrees. Amina looks up for the first time.
+
+**Session two, Amina alone, fifty minutes.** For fifteen minutes Amina says nothing of substance. The therapist
+does not fill the silence with questions; she says, at minute twelve, "I am not going to make you show me your arm.
+I am going to ask you some questions that I ask everybody, and you can tell me to stop." Then the assessment.
+
+- *Ideation:* yes, most days for about four months. "I think about not being here."
+- *Plan:* yes. Her mother's remaining tablets, in the cupboard above the sink. She has taken them out twice and put
+  them back.
+- *Intent:* "I do not know. Sometimes I do." She has written a note, on her phone, unsent, four weeks ago.
+- *Means:* the tablets, and the roof of the building, which has a door that is not locked.
+- *Previous attempts:* none. Two episodes of cutting, both in the last three months, both on the forearm, both
+  after arguments at home.
+- *Protective factors:* Ibrahim, her brother — "he would find me"; her aunt Bisi; prayer; the possibility of
+  finishing school.
+- *Substance use:* none. *Impulsivity:* high — she describes decisions made "in one minute".
+- *Family history:* none known; the therapist does not ask in detail and records that she will.
+- *Stressors:* a change of school; her father's absences; an argument six weeks earlier in which Yusuf said she had
+  "brought shame" by being seen with a boy; and the discovery that her mother had been "sick" and had hidden it.
+- *Network:* nobody knows. Her closest friend has been told "some of it".
+
+**The formulation.** High risk on the day of assessment: ideation with plan and some intent, means accessible in
+the house, a recent humiliating event at home, high impulsivity, and no adult who knows. Protective factors
+substantial: her brother, her aunt, her faith, school.
+
+**What the therapist did, in order, within that session.**
+
+1. She told Amina that she would be telling her mother, that evening, and exactly what she would say — that Amina
+   has thoughts of ending her life, that there are tablets in the house, and that they need a plan. She did not
+   tell her mother about the note, the boy, or the contents of the session.
+2. She offered Amina the choice of being in the room. Amina chose to be present.
+3. She telephoned the clinic's psychiatric service and made an appointment for two days later.
+4. She wrote the safety plan with Amina (8.3a) and gave her a copy.
+5. She asked Amina to hand over her blades, which Amina did, and recorded the receipt of them.
+6. She saw Halima for twenty minutes, with Amina present, and used the four-part statement of 8.4a. Halima's
+   response was silence, then weeping, then, "I did not know. I thought she was angry with me."
+7. She asked Halima to move the medication that night and to lock the roof door; Halima telephoned her sister and
+   the medication went to Bisi's house the same evening.
+8. She wrote the note the same day: the ten elements, the level, the actions, the review date, and the consent
+   recorded.
+
+**Sessions three to eight.** The psychiatric assessment finds a moderate depressive episode without psychosis; no
+medication is started, and weekly therapy plus review is agreed. The family sessions, with Ibrahim present for two
+of them, work on the household's rules about distress: the family in which feelings were "not discussed", the
+father's shaming sentence, the mother's concealed illness, and the brother who had noticed everything and had been
+told nothing.
+
+**The father's return, session six.** Yusuf attends, having been briefed by telephone by the therapist with
+Amina's knowledge. His first response is anger — at the school, at the boy, at the therapist for "putting ideas in
+her head". The therapist does not defend herself. She asks one question: "what did you want for her?" He answers,
+"a good life, a reputation". The therapist says, "those are not the same thing, and I think one of them is killing
+her." It is the most direct sentence in the case, and it is delivered after five sessions of alliance-building and
+in the presence of the family. Yusuf is silent for a long time; then he says, "what do I do?"
+
+**Week twelve.** Amina has not cut for nine weeks. The ideation has reduced to occasional, without plan. The
+family has a rule about the roof door and the medication, and Ibrahim knows what to do if his sister is "behind
+glass". Yusuf has changed his work pattern to be home one week in three.
+
+**What the case teaches.**
+
+1. **The assessment was done alone and the sharing was planned.** Had the therapist asked about the tablets in
+   front of Halima, she would have received "I would never do that to my mother", and the plan would have remained
+   in the cupboard.
+2. **The disclosure to the mother was specific and limited.** Amina knew exactly what would be said. That is what
+   made the second and third disclosures possible.
+3. **Means restriction was the intervention.** Eight of the therapist's actions in that first session were
+   administrative; the one that most reduced the risk was a locked box in another house.
+4. **The family's culture was the terrain, not the obstacle.** Yusuf's concern for reputation was not contemptible;
+   it was the value he had organised his life around. Naming it, and separating it from his daughter's life, was
+   possible only after five sessions of being taken seriously.
+5. **The mother's own history was in the case from session one.** Halima's untreated depression and her concealment
+   of it were both the reason for Amina's silence and a risk in their own right. The therapist referred Halima for
+   her own treatment in week seven.
+
+### 8.6 Transcript: telling a fifteen-year-old that her mother will be told
+
+Session two, minutes thirty-eight to forty-nine. Annotated.
+
+> **A1 Therapist:** Amina, I have to tell you something and it is not a punishment. — *The opening that
+> distinguishes a duty from a consequence. Without it, everything that follows is heard as the therapist taking
+> the mother's side.*
+>
+> **A2 Amina:** You are going to tell her.
+>
+> **A3 Therapist:** Yes. *(pause)* Tonight, before you leave. — *The fact confirmed immediately, with the timing.
+> Delay in this conversation produces a fantasy of delay in the disclosure.*
+>
+> **A4 Amina:** You said you would not.
+>
+> **A5 Therapist:** I said I would not tell her what we talk about. I also said that if I thought you were in
+> danger I would tell her. *(pause)* You are in danger. The tablets are in the kitchen. — *Both halves of the
+> original agreement restated, in her words. A therapist who only restates the exception sounds as though she is
+> invoking a technicality.*
+>
+> **A6 Amina:** *(crying)* She will ask me why.
+>
+> **A7 Therapist:** She will. *(pause)* And you do not have to answer that tonight. Tonight is about the tablets.
+> — *The separation of the urgent from the important, which is what makes the disclosure bearable. The reason can
+> wait; the means cannot.*
+>
+> **A8 Amina:** She will cry and then she will be angry and then she will tell my father.
+>
+> **A9 Therapist:** She may tell your father. *(pause)* I am going to ask her not to telephone him tonight, and to
+> let us decide together what he is told and by whom. I cannot promise she will agree. — *An honest answer about a
+> third party's behaviour, which is more reassuring than a promise the therapist cannot keep.*
+>
+> **A10 Amina:** Can I be there?
+>
+> **A11 Therapist:** I was going to offer you that. *(pause)* You can be in the room, or you can wait outside and
+> come in after I have said the first part. — *The choice, given in the terms of 8.4a. The client's only remaining
+> control is the manner, and it is enough.*
+>
+> **A12 Amina:** I want to be there. But I do not want to talk.
+>
+> **A13 Therapist:** You do not have to talk. *(pause)* I will say the words, and you can nod. — *The permission
+> that makes her presence possible. A client who is required to speak in that room will not attend it.*
+>
+> **A14 Amina:** *(long pause)* Are you going to tell her about the note?
+>
+> **A15 Therapist:** No. *(pause)* That is between us, and it is not what she needs tonight. — *A limited, kept
+> promise at the moment of breaking a larger one. The therapist's credibility rests on the second promise being
+> exactly as reliable as the first.*
+
+**What the transcript shows.** Four of the seven therapist turns are about what will and will not be said, and none
+of them is a reassurance. The client's objections are answered with facts about procedure. The one thing the
+therapist does not do is apologise — "I am sorry, I have to" — which would present the disclosure as the
+therapist's misfortune and invite the client to console her.
+
+### 8.7 Laboratory: the observed risk assessment
+
+**The exercise.** Fifteen minutes with a trained actor, observed, pass or fail, and it counts towards the
+observed risk assessment component of the module. The actor is briefed with a presentation and a script that
+contains three opportunities to minimise and one moment of direct disclosure that must not be missed.
+
+**The six requirements.** The student must (1) ask directly about ideation; (2) ask about plan, intent and means;
+(3) ask about previous attempts and protective factors; (4) ask what will make it worse in the next two weeks;
+(5) formulate a level aloud and justify it; (6) begin a safety plan with the client.
+
+| Criterion | Fail | Pass | Distinction |
+|---|---|---|---|
+| **Directness** | Euphemism, or never asked | Asked directly once | Asked directly, then followed up on frequency, controllability and content |
+| **Coverage** | Fewer than six elements | Six to eight | All ten, with wording that produced specific answers |
+| **Means** | Not asked | Asked | Asked, and a specific action agreed today |
+| **Formulation** | None, or a label | A level with reasons | A level, a justification, a precipitate date and a review date |
+| **Safety plan** | Suggested only | Begun | Written with the client, in her language, with means addressed |
+| **The relationship** | Client defensive or silenced | Client engaged | Client discloses more at fifteen minutes than at five |
+
+**The three most common failures observed.** Asking the question once and accepting the first denial. Skipping
+means because the conversation has become emotional. And ending the assessment without a review date, which turns
+a snapshot into a verdict.
+
+**The debrief question.** "What did you feel when she said she had thought about it?" Students report fear,
+relief, sadness, and a wish to reassure. Each of those is a signal of what the student will do under pressure, and
+each is worth naming before it is enacted.
+
+### 8.7a Telephone risk, and the session that is not a session
+
+A large proportion of risk work in a family practice happens on the telephone, and the telephone has its own
+method.
+
+**What to establish in the first four minutes.** Where the client is, whether anyone is with her, whether she is
+safe for the next hour, and whether she has taken anything or is about to. Nothing else matters until those four
+answers exist.
+
+**What to do with the answers.** If she has taken something, the call becomes a call for an ambulance and the
+therapist stays on the line, with the address written down and repeated aloud. If she has not, the call becomes a
+short assessment of the elements that can be assessed by voice — ideation, plan, intent, means, and who is nearby —
+followed by a decision: bring her in, send someone to her, or agree a contact in fifteen minutes.
+
+**The three things a telephone assessment cannot do.** It cannot see the room, the tablets, the injury, or the
+other person in the house. It cannot establish whether the client is alone and says she is not. And it cannot end
+the call — the therapist who says "call me if you need me" and puts the phone down has handed the risk back at the
+moment it was highest.
+
+**The note.** Written immediately after the call, before the next appointment, with the time of the call, the four
+opening answers, the action taken, and the time of the follow-up contact. Notes written the next morning lose the
+times, and the times are the evidence.
+
+### 8.8 Six errors
+
+**Error 1 — The indirect question.** "You are not thinking of doing anything silly?" The question is designed to
+be answered with a denial, by the therapist as much as by the client.
+
+**Error 2 — Assessing in front of the family.** The parent says "she is being dramatic" and the assessment ends
+before it begins. Individual assessment is a structural requirement, not a preference.
+
+**Error 3 — The no-harm contract.** "Will you promise me you will not do anything until we meet?" It has no
+evidentiary or clinical value, it shifts responsibility to a person who cannot carry it, and it has been followed
+by deaths in cases where it was recorded as protective.
+
+**Error 4 — Means left in the house.** The assessment identifies the tablets and the plan records them, and
+nothing is done about them. This is the single most common omission in the files of completed suicides.
+
+**Error 5 — Telling the family before telling the client.** The disclosure is made in a telephone call "for
+safety" and the client learns of it afterwards. The relationship ends, and the next clinician receives a client who
+will not disclose.
+
+**Error 6 — Treating self-harm as a behaviour to be stopped.** The prohibition produces concealment, the
+concealment removes the client from view, and the risk rises while the file says the behaviour has stopped.
+
+### 8.9 Culture, faith and suicide
+
+**The religious frame is not an obstacle to the assessment; it is material within it.** In households where
+suicide is understood as a sin and a shame upon the family, the client's ideation will be concealed with particular
+skill, and the protective factors will include the very belief that produces the shame. The therapist asks about
+both: what the client believes would happen to her soul, and what she believes would happen to her mother. The
+answers frequently reveal that the religious prohibition is holding the person alive and that the social
+consequence is pushing her toward death, at the same time.
+
+**Confession and concealment.** A client who has confessed suicidal thoughts to a religious authority and been told
+to pray more has been given a penance without an assessment. The therapist's response is not to criticise the
+authority but to make the assessment: "what did you tell him, and what did he say, and did anyone ask you whether
+you had a plan?"
+
+**The family's reputation after a death.** Where a death by suicide carries lasting stigma, the family's grief work
+includes managing the community's account of the death. This is a real clinical task and it is regularly ignored by
+models of bereavement developed elsewhere. The therapist helps the family decide what will be said, to whom, and by
+whom, and treats the family's need for a survivable story as legitimate.
+
+**Postvention.** After a death by suicide, the family's risk rises: bereaved relatives have elevated rates of
+suicide, and the risk is highest in the first year and among parents and partners. The therapist's postvention
+work with a family includes assessing each member, naming the risk explicitly with the adults, and agreeing who
+will watch whom in the first three months. It is the case in which the therapist is most likely to be invited to
+comfort and least likely to assess.
+
+**The therapist's own exposure.** A death by suicide in a therapist's caseload is an occupational hazard of
+clinical work and it produces a characteristic response: a review of every session, a conviction of responsibility,
+and either an increase in defensive practice or a withdrawal from risk entirely. The professional response is a
+structured review with a supervisor, a written account of the care provided, and support. The unprofessional
+response is silence, which converts one death into a pattern of avoidance that affects every subsequent client.
+
+> **DEBATE** — "When a competent adolescent refuses to allow her parents to be told about her suicidal thoughts,
+> the therapist should respect her refusal." Argue for: the young person's developing autonomy, the evidence that
+> forced disclosure ends engagement, and the clinical value of being the one adult who does not betray her. Argue
+> against: the household is the only available supervision, the means are in the house, and the law in most
+> jurisdictions permits or requires parental involvement. Then state the threshold at which you would override the
+> young person, and who you would tell first.
+
+### 8.9a The therapist's own history of suicide
+
+Many clinicians have lost someone to suicide, have survived an attempt themselves, or both, and the training
+literature treats this as though it did not exist.
+
+**The rule.** A therapist with an unprocessed personal history in this area is at risk of two opposite errors: the
+under-assessment that comes from familiarity ("she sounds like I did, and I am fine"), and the over-reaction that
+comes from fear ("I cannot take a client with ideation at all"). Both are clinical problems and neither is a
+character flaw.
+
+**The questions to ask yourself, in writing, once.** Whose death or attempt is nearest to this case? What do I do
+when a client describes a method I have thought about? Am I assessing this client or managing my own fear? The
+answers determine whether the work needs consultation, a change of caseload, or personal therapy.
+
+**What is not acceptable.** Practising without supervision in this domain while carrying an unexamined history, and
+disclosing the history to the client in a way that makes her responsible for the therapist's distress. "I lost my
+own brother, so I understand" is occasionally the most useful sentence in a session and is more often the moment at
+which the client stops being the patient.
+
+### 8.10 Evidence note
+
+**What the research supports.** Asking about suicide does not increase risk, and screening improves detection.
+Previous attempt is the strongest single predictor. Means restriction reduces suicide rates — the evidence from
+pesticide regulation, firearm access and medication packaging is among the strongest in the field. Safety planning
+interventions reduce subsequent suicidal behaviour relative to usual care, and brief contact interventions after
+discharge reduce repetition. The therapeutic alliance is associated with reduced suicidal ideation in treatment
+studies.
+
+**What is weaker.** Risk assessment tools have modest predictive value at the individual level and should not be
+used as a substitute for clinical formulation; the field has largely accepted that prediction is not achievable
+and that formulation, safety planning and continuity of care are the useful targets. The evidence base for
+no-harm contracts is essentially null and their use is discouraged.
+
+**What is not supported.** That hospitalisation prevents suicide in every high-risk case — the post-discharge
+period is the period of highest risk. That a client who denies ideation is safe. That a low score on an instrument
+settles the question.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* The same disclosure of ideation in a week when the client's mother is away and
+the tablets are unlocked, and in a week when the household is stable, are two different risks.
+
+### 8.11 Key terms
+
+**Ideation** — thoughts of ending one's life; assessed for frequency, intensity, controllability and content.
+
+**Plan** — a specified method, place or time; rehearsed plans indicate higher risk.
+
+**Means restriction** — reducing access to lethal methods; the intervention with the strongest evidence base.
+
+**Safety plan** — a written, client-authored sequence of steps from warning sign to emergency contact.
+
+**Non-suicidal self-injury** — self-harm without intent to die, performed for relief, punishment, communication
+or control.
+
+**Postvention** — the support and risk management provided after a death by suicide.
+
+**Formulation** — the clinical reasoning that links the assessment to a level of risk and a set of actions.
+
+### 8.11a Three sentences that are remembered
+
+**The sentence that opens the assessment.** "I ask everybody this, because it matters and because people are
+usually relieved to be asked: have you had thoughts of ending your own life?" The framing does two things — it
+normalises the question and it names the relief, which is usually accurate.
+
+**The sentence that survives a denial.** "All right. And if it came back, who would you tell?" A denial is
+information, not a conclusion, and the follow-up question keeps the door open without an interrogation.
+
+**The sentence that ends a session safely.** "Before you go: what is the plan for tonight, and who is in the house
+with you?" Asked at the door, it is heard as care rather than as assessment, and it produces information that the
+earlier questions did not.
+
+### 8.12 Self-test
+
+1. Give the correct wording for asking about suicidal ideation, and explain why the four common versions fail.
+2. State the ten elements of the assessment, and the follow-up question most often forgotten.
+3. What are the actions attached to each of the three levels?
+4. Why is a no-harm contract not a safety plan?
+5. Give the six steps of a safety plan.
+6. In the Suleiman case, what four actions most reduced the risk, and why?
+7. What is non-suicidal self-injury, and what are its four functions?
+8. What is postvention, and why is the family at elevated risk?
+
+**Answers.** *(1)* "Have you had thoughts of ending your own life — and if so, how often, and what have you thought
+about doing?" The common versions use euphemism, vagueness, leading phrasing, or a closed question, each of which
+invites denial or produces an unusable answer. *(2)* Ideation, plan, intent, means, previous attempts, protective
+factors, substance use and impulsivity, family history, current stressors and recent losses, disclosure and support
+network; the forgotten question is what will make it worse in the next two weeks. *(3)* Low — document, plan,
+review; moderate — plan, means restriction, notify with consent, increase frequency, refer; high — do not leave the
+person alone, urgent psychiatric or emergency care, inform family, document contemporaneously. *(4)* Because a
+contract extracts a promise from someone who cannot guarantee it and produces no actions, whereas a plan specifies
+who does what, when, with what means removed. *(5)* Warning signs; things I can do alone; people and places that
+distract; people I can ask for help; professionals and services; making the environment safe. *(6)* The individual
+assessment, which produced the information; telling the mother with Amina's knowledge and a limited content; the
+removal of the medication to another house; and the locked roof door — the last two being means restriction, the
+intervention with the strongest evidence. *(7)* Self-harm without intent to die, performed to relieve intolerable
+feeling, to punish, to communicate, or to control. *(8)* The support and risk management of those bereaved by
+suicide; because bereaved relatives, particularly parents and partners, have elevated suicide rates, highest in the
+first year.
+
+### 8.13 Reflective task
+
+Write the note you would want a coroner to read about a client you were worried about. Then write the note you
+actually keep. The difference between the two is the measure of your documentation practice.
+
+### 8.14 Further reading
+
+- Stanley, B. and Brown, G. on safety planning — the source of the six-step structure used here.
+- Jobes, D. on the collaborative assessment and management of suicidality — the best-developed clinical approach to
+  formulation and alliance.
+- Hawton, K. and colleagues on self-harm in adolescents — the epidemiology and the evidence on repetition.
+- The WHO suicide prevention materials, particularly on means restriction at population level.
+- Any current national guideline on the assessment and management of suicide risk in your jurisdiction.
+
+*Next: Week 9 — Risk II: intimate partner violence and child protection.*
 
 ---
 
