@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="620" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Crisis Intervention: Roberts' Seven-Stage Model</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">The first task is always safety, not insight</text>
+  <rect x="60.0" y="110.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="100.0" cy="160.0" r="20" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <text x="100.0" y="166.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">1</text>
+  <text x="134.0" y="150.0" fill="#9f1239" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Assess lethality</text>
+  <text x="134.0" y="174.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">risk to self or others; means, plan, intent</text>
+  <rect x="510.0" y="110.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="550.0" cy="160.0" r="20" fill="#b45309" stroke="none" stroke-width="1.5"/>
+  <text x="550.0" y="166.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">2</text>
+  <text x="584.0" y="150.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Establish rapport</text>
+  <text x="584.0" y="174.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">calm, non-judgemental contact; 'I'm here with you'</text>
+  <rect x="60.0" y="228.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="100.0" cy="278.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="100.0" y="284.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">3</text>
+  <text x="134.0" y="268.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Identify the problem</text>
+  <text x="134.0" y="292.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">the precipitating event and its meaning</text>
+  <rect x="510.0" y="228.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="550.0" cy="278.0" r="20" fill="#1d4ed8" stroke="none" stroke-width="1.5"/>
+  <text x="550.0" y="284.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">4</text>
+  <text x="584.0" y="268.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Explore feelings</text>
+  <text x="584.0" y="292.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">name and normalise; allow the story</text>
+  <rect x="60.0" y="346.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="100.0" cy="396.0" r="20" fill="#15803d" stroke="none" stroke-width="1.5"/>
+  <text x="100.0" y="402.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">5</text>
+  <text x="134.0" y="386.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Generate alternatives</text>
+  <text x="134.0" y="410.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">options, not yet decisions</text>
+  <rect x="510.0" y="346.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="550.0" cy="396.0" r="20" fill="#6d28d9" stroke="none" stroke-width="1.5"/>
+  <text x="550.0" y="402.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">6</text>
+  <text x="584.0" y="386.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Implement a plan</text>
+  <text x="584.0" y="410.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">concrete, timed, written down</text>
+  <rect x="60.0" y="464.0" width="420.0" height="100.0" rx="10" fill="#ffffff" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="100.0" cy="514.0" r="20" fill="#334155" stroke="none" stroke-width="1.5"/>
+  <text x="100.0" y="520.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">7</text>
+  <text x="134.0" y="504.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:700;">Follow up</text>
+  <text x="134.0" y="528.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">check adherence, revise, link to care</text>
+  <rect x="40.0" y="500.0" width="900.0" height="69.0" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="519.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="540.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Do not skip stage 1 to get to stage 3. A thorough lethality assessment (ideation, plan, intent, means, protective factors, previous attempts) is both a</text>
+  <text x="54.0" y="555.5" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">clinical and a legal duty. Document what you asked and what you did.</text>
+  <text x="490.0" y="566.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">In family crises, sequence matters: stabilise the most vulnerable member first, then convene the system.</text>
+</svg>
