@@ -7447,6 +7447,9 @@ absent.
 **And a note on honesty.** Where the integration was thinner than planned, say so in the limitations with a number
 attached; examiners forgive a small study and do not forgive a large claim.
 
+**The last word.** Mixing is a means, never an end: what a reader needs is a conclusion no single strand could have
+reached.
+
 ### 10.11 Key terms
 
 **Mixed methods** — a design in which quantitative and qualitative strands are collected and integrated to answer a
