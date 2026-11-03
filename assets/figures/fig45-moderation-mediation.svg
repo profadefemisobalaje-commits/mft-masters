@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-gold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="520" fill="#ffffff"/>
+  <text x="490" y="42" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22px;font-weight:700;">Moderation and Mediation: Two Different Questions</text>
+  <text x="490" y="66" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:400;">Moderation asks "for whom?"; mediation asks "through what?". They are tested with different models and cannot substitute for each other</text>
+
+  <line x1="490" y1="84" x2="490" y2="470" stroke="#e2e8f0" stroke-width="1.4"/>
+
+  <!-- LEFT: moderation -->
+  <text x="245" y="112" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;">MODERATION — for whom, or when?</text>
+
+  <rect x="80" y="150" width="150" height="56" rx="8" fill="#eef6f5" stroke="#0f766e" stroke-width="1.6"/>
+  <text x="155" y="175" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;">Programme</text>
+  <text x="155" y="192" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">X</text>
+
+  <rect x="270" y="150" width="150" height="56" rx="8" fill="#fbf3e6" stroke="#b45309" stroke-width="1.6"/>
+  <text x="345" y="175" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;">Satisfaction</text>
+  <text x="345" y="192" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">Y</text>
+
+  <line x1="232" y1="178" x2="266" y2="178" stroke="#1f2937" stroke-width="2.2" marker-end="url(#ar-ink)"/>
+  <text x="249" y="140" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">c′</text>
+
+  <rect x="170" y="266" width="160" height="52" rx="8" fill="#f4f2fb" stroke="#6d28d9" stroke-width="1.6"/>
+  <text x="250" y="289" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Age of adolescent</text>
+  <text x="250" y="305" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">W (moderator)</text>
+  <line x1="250" y1="264" x2="250" y2="212" stroke="#6d28d9" stroke-width="2.2" marker-end="url(#ar-ink)"/>
+  <text x="262" y="240" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">X×W</text>
+
+  <text x="245" y="352" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">The size of the programme's effect</text>
+  <text x="245" y="368" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">depends on the moderator.</text>
+  <text x="245" y="392" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">Tested by an interaction term.</text>
+  <text x="245" y="410" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Report simple slopes at low, mean, high W.</text>
+
+  <!-- RIGHT: mediation -->
+  <text x="735" y="112" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:15px;font-weight:700;">MEDIATION — through what?</text>
+
+  <rect x="560" y="150" width="130" height="56" rx="8" fill="#eef6f5" stroke="#0f766e" stroke-width="1.6"/>
+  <text x="625" y="175" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;">Programme</text>
+  <text x="625" y="192" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">X</text>
+
+  <rect x="790" y="150" width="130" height="56" rx="8" fill="#fbf3e6" stroke="#b45309" stroke-width="1.6"/>
+  <text x="855" y="175" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;">Satisfaction</text>
+  <text x="855" y="192" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">Y</text>
+
+  <rect x="640" y="272" width="200" height="56" rx="8" fill="#f4f2fb" stroke="#6d28d9" stroke-width="1.6"/>
+  <text x="740" y="296" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Communication</text>
+  <text x="740" y="312" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;">M (mediator)</text>
+
+  <!-- direct path -->
+  <path d="M 690 178 C 735 140 790 140 786 172" fill="none" stroke="#9f1239" stroke-width="2.2" marker-end="url(#ar-ink)"/>
+  <text x="738" y="132" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">c′ (direct)</text>
+
+  <path d="M 660 206 L 700 270" fill="none" stroke="#6d28d9" stroke-width="2.2" marker-end="url(#ar-ink)"/>
+  <text x="664" y="244" fill="#6d28d9" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">a</text>
+  <path d="M 790 270 L 826 208" fill="none" stroke="#6d28d9" stroke-width="2.2" marker-end="url(#ar-ink)"/>
+  <text x="822" y="244" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">b</text>
+
+  <text x="735" y="360" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">The programme works by changing</text>
+  <text x="735" y="376" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">communication, which in turn changes</text>
+  <text x="735" y="392" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">satisfaction: indirect effect a×b.</text>
+  <text x="735" y="416" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">Requires temporal ordering to be credible.</text>
+
+  <!-- footer -->
+  <rect x="60" y="466" width="860" height="42" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+  <text x="76" y="484" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;font-weight:400;">Cross-sectional data can estimate both models, and neither can order the variables in time. Say what the design permits before you say what the model shows.</text>
+  <text x="76" y="499" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">A significant interaction licenses "the effect differed by W"; a significant indirect effect licenses "the data are consistent with mediation", not "X works through M".</text>
+</svg>

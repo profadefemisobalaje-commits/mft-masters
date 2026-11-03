@@ -5279,23 +5279,766 @@ be examined against the design that produced it.
 
 ---
 
-## Week 8 — Quantitative analysis II
+## Week 8 — Quantitative analysis II: regression, confounding, moderation and mediation
 
-**Correlation is not causation, and neither is regression.** Regression tells you how much of the variance
-in an outcome is associated with predictors, adjusted for other predictors. It does not tell you the
-direction, unless the design does.
+**Learning outcomes.** By the end of this week the student can (1) read a regression table and say what each column
+means; (2) explain confounding and distinguish it from mediation; (3) test and interpret an interaction and report
+simple slopes; (4) describe what a mediation analysis can and cannot support given a cross-sectional design; and (5)
+write a modelling section that names every predictor, every covariate and every assumption.
 
-**Reading a regression table.** Look at: which predictors are significant; the *sign* and *size* of the
-coefficient (in meaningful units); the confidence intervals; R² (variance explained); and whether the model
-diagnostics were reported.
+### Association, adjustment and the word "because"
 
-**Moderation and mediation.** *Moderation*: for whom, or under what conditions, does the effect hold?
-(e.g. does the intervention work better for younger adolescents?) *Mediation*: through what mechanism?
-(e.g. does improved communication explain the reduction in distress?). Mediation requires strong
-assumptions and, ideally, longitudinal data.
+Regression is the ordinary language of quantitative family research, and its central promise is modest: it estimates
+the association between an outcome and each predictor while holding the other predictors constant. It does not order
+variables in time, it does not remove the influence of variables that were not measured, and it cannot tell you that
+one variable caused another unless the design already could.
 
-> **TASK** — Take a published regression table from a family study. Write four sentences a clinician could
-> use, including one caveat.
+**Correlation is not causation, and neither is regression.** The sentence is repeated so often that it has stopped
+being read. What it means in practice is this: a regression coefficient is a conditional association, and the
+conditions are the other variables in the model plus the assumption that the model's functional form is right. Change
+the covariates and the coefficient changes; add a confounder and it may collapse; the design that produced the data
+still determines what the coefficient can be used for.
+
+**Reading a regression table.** Five things, in order: which predictors are associated with the outcome and by how
+much in meaningful units; the sign and size of each coefficient, with its confidence interval; whether the covariates
+absorbed the association of interest; the proportion of variance explained, with the caveat that R² is sample-specific;
+and whether the diagnostics were reported at all. A table with coefficients, standard errors, p-values and R² but no
+interval and no diagnostics is a table that has not finished its work.
+
+**Moderation and mediation are different questions** and are tested with different models. *Moderation* asks for whom,
+or under what conditions, an effect holds: does the programme work better for younger adolescents? It is tested with
+an interaction term. *Mediation* asks through what mechanism an effect operates: does improved communication explain
+the reduction in distress? It is tested by decomposing a total effect into an indirect and a direct component, and it
+requires temporal ordering to be credible.
+
+![Figure 8.1 — Moderation and mediation: two different questions](../assets/figures/fig45-moderation-mediation.svg)
+
+### 8.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–12 | From a scatterplot to a line: what a coefficient means | Draw three datasets, one linear, one curved, one confounded |
+| 12–28 | Multiple regression: the coefficient as a conditional association | Worked example with two covariates |
+| 28–44 | Confounding, suppression and the change-in-estimate rule | Students compute the change from a supplied table |
+| 44–58 | Interaction: the product term, and why the main effects change meaning | Live demonstration and simple slopes by hand |
+| 58–72 | Mediation: a, b, c′, and the indirect effect with a bootstrap interval | Path diagram, then the numbers |
+| 72–84 | What a cross-sectional mediation analysis cannot support | Debate with two positions and a vote |
+| 84–90 | The modelling paragraph | Written and collected |
+
+### 8.2 Five concepts that organise the week
+
+**Concept 1 — A coefficient is a comparison between people who differ by one unit and are alike in everything else in
+the model.** The phrase "in everything else in the model" is doing all the work. If the model omits a variable that
+matters, the comparison is between people who are not alike in that respect, and the coefficient carries the
+difference.
+
+**Concept 2 — Confounding and mediation look identical in a table and are opposites in an argument.** A confounder is
+a common cause: it produces an association between X and Y that is not causal. A mediator is a consequence of X and a
+cause of Y: it carries a causal effect. Removing a confounder changes the estimate toward the truth; removing a
+mediator changes the estimate away from the total effect. The same covariate can be either, depending on the question,
+which is why the causal diagram must be drawn before the model.
+
+**Concept 3 — Interaction terms change the meaning of the coefficients below them.** With a product term in the model,
+the coefficient for X is the effect of X when W is zero — which may be a value that does not occur in the data. Mean
+centring makes the main effects interpretable, and simple slopes make the interaction interpretable, and both are
+usually omitted.
+
+**Concept 4 — An indirect effect requires temporal order to mean what it appears to mean.** In cross-sectional data the
+mediation model is algebraically estimable and substantively uninterpretable in causal terms, because the model
+assumes X precedes M precedes Y and the data cannot check.
+
+**Concept 5 — Model fit statistics do not certify a model.** R², AIC and RMSEA describe how well a specified model
+reproduces the data's covariances; they say nothing about whether the specified causal structure is the right one. A
+poorly specified model with excellent fit is common and it is more dangerous than a poor fit, because it looks
+convincing.
+
+### 8.2a Reading the table: nine numbers and what each one is for
+
+| Column | What it is | What a reader does with it |
+|---|---|---|
+| b (unstandardised coefficient) | Change in Y per one-unit change in X | The only column that speaks in the units of the measure |
+| SE | The uncertainty of b | Used to build the interval; rarely reported alone |
+| 95% CI | The range compatible with the data | The column that prevents overclaiming |
+| β (standardised) | b rescaled by the standard deviations | Comparison across predictors with different units |
+| p | Compatibility of the data with a zero coefficient | Never the whole story, always reported |
+| n | Observations in the model | Reveals listwise deletion |
+| R² | Proportion of variance explained | Sample-specific; report with adjusted R² |
+| ΔR² | Variance added by a block of predictors | The honest way to report a set of covariates |
+| Diagnostics | Residual normality, homoscedasticity, influence | A sentence, a figure, or both |
+
+**The coefficient in units, translated.** "Each additional point of financial stress was associated with a 0.9-point
+lower RDAS score (95% CI −1.5 to −0.3), holding age, years married and income constant." A clinician can act on that
+sentence; "β = −0.28, p = 0.004" alone leaves them counting standard deviations.
+
+**Listwise deletion, the silent sample change.** A model with eight predictors and 4 per cent missing on each will
+lose roughly a quarter of the sample, and the software reports the reduced n without comment. The analysis section must
+say how missing data were handled, and the results table must report the n that was actually analysed.
+
+**The change-in-estimate rule.** Run the model without the covariate of interest's putative confounders, then with
+them. A change of 10 per cent or more in the coefficient suggests confounding worth reporting; a change in the opposite
+direction suggests suppression, which is a finding and needs its own paragraph.
+
+**What to report for a categorical predictor.** The reference category, the coefficients for each other category with
+intervals, and the test of the overall effect of the variable with its degrees of freedom. A table that reports one
+dummy variable per row without naming the reference is unreadable.
+
+### 8.2b Sample size for a regression: the rule of thumb and its limits
+
+The old rule of ten observations per predictor is a heuristic, not a calculation, and it fails in three situations a
+family researcher will meet.
+
+**Situation 1 — Small effects with many covariates.** Ten per predictor is adequate for detecting a moderate effect in
+a model with three covariates and inadequate for detecting a small effect in a model with ten. The correct approach is
+a power calculation for the specific coefficient of interest, treating the covariates as variance-reducing rather than
+as costs.
+
+**Situation 2 — Interactions.** Testing an interaction requires substantially more cases than testing a main effect,
+because interaction terms are typically correlated with their components and because the effect being tested is usually
+smaller. A study powered for a main effect and analysed for an interaction is underpowered for the question it ends up
+asking.
+
+**Situation 3 — Mediation.** The indirect effect is a product of two estimates, each uncertain, and its power is lower
+than the power for either path. Simulation-based power for mediation models is available in free tools and takes an
+afternoon; the alternative is a study that finds a mediation it cannot distinguish from zero.
+
+**The numbers to bring to a proposal.** The number of parameters in the largest model; the expected effect size for the
+coefficient of interest; the resulting required n from a calculation or a simulation; the number available; and the
+smallest detectable effect given that number. Five numbers, one paragraph, and the proposal is defensible.
+
+### 8.3 Confounding: the four ways a covariate behaves
+
+**The confounder.** A common cause of both X and Y. Financial strain causes both marital conflict and low
+satisfaction; controlling for strain reduces the conflict–satisfaction association. Controlling is the right move if
+the question is about the direct association, and the wrong move if the question is about the total effect of strain
+on the family.
+
+**The mediator.** A consequence of X and a cause of Y. Conflict reduces communication, and poor communication reduces
+satisfaction. Controlling for communication estimates the direct effect of conflict, net of its effect through
+communication, which is usually a smaller and less interesting number. Students routinely control for the mediator
+because it is available, and thereby erase the mechanism they wanted to describe.
+
+**The collider.** A common consequence of X and of Y. Referral to a clinic is caused both by marital distress and by
+the couple's resources; restricting the sample to clinic attenders therefore induces an association between distress
+and resources that does not exist in the population. This is why clinic samples produce paradoxical correlations, and
+why Week 4's sampling discussion and this week's modelling discussion are the same discussion.
+
+**The proxy.** A variable measured because the real confounder could not be. Income as a proxy for financial strain,
+education as a proxy for health literacy, distance as a proxy for access. A proxy reduces confounding by the amount it
+correlates with the confounder, and a student should say so rather than implying that the confounder was measured.
+
+**The diagram that prevents all four errors.** Draw X, Y, and every variable you believe is related to either, with
+arrows for the believed causal directions. Then decide which arrows to block by adjustment. Three minutes with a pen,
+and it prevents the most common modelling error in student theses, which is controlling for everything available and
+interpreting the result as if nothing had been controlled.
+
+**The over-adjustment error, stated for the viva.** "Adjusting for a variable that lies on the causal path from
+exposure to outcome changes the estimand from the total effect to the direct effect. In this study the covariate
+'communication' is a candidate mediator, so the model that includes it estimates the direct effect only, and I report
+both models."
+
+### 8.3a The causal diagram a student can actually draw
+
+**The three-node version.** X → Y, with C → X and C → Y drawn above it. This is the confounded model and it is the
+minimum any proposal should contain.
+
+**The five-node version.** Add M on the path X → M → Y, and S as a shared consequence of X and Y (the collider).
+Drawing all five forces the student to decide which of the three roles each measured covariate plays.
+
+**The unmeasured node.** Draw it as a dashed circle and label it. Common unmeasured confounders in family research:
+genetic or personality factors shared within families, current employment insecurity, the couple's history before the
+study window, and the therapist's skill. Naming them in the diagram makes the limitation concrete rather than
+generic.
+
+**The rule of thumb for adjustment.** Adjust for confounders, do not adjust for mediators unless the direct effect is
+the question, never adjust for colliders, and state which of the three each covariate is believed to be. That sentence
+belongs in the analysis plan, before the data are opened, because after the data are opened the decision becomes
+tempting to make on the basis of what produces significance.
+
+### 8.4 Moderation: the product term, worked
+
+**The question.** Does the effect of the couples programme on satisfaction differ by the age of the couple's
+adolescent? Two parents of a 13-year-old may find a communication programme more useful than parents of a 19-year-old
+who has left home.
+
+**The model.** Y = b₀ + b₁X + b₂W + b₃(X×W) + e, where X is programme (0/1) and W is the adolescent's age in years.
+b₁ is the programme effect when W = 0, which is nonsense (an adolescent of age zero). Mean-centring W so that it takes
+the value 0 at the sample mean makes b₁ the programme effect at average age, which is interpretable.
+
+**The numbers.** Suppose b₁ = 3.8, b₂ = −0.4, b₃ = −0.9, with the interaction interval −1.6 to −0.2.
+
+**What each coefficient means.**
+
+- **b₁ = 3.8**: at the average adolescent age, the programme is associated with 3.8 points higher satisfaction.
+- **b₂ = −0.4**: in the comparison group, each additional year of adolescent age is associated with 0.4 points less
+  satisfaction.
+- **b₃ = −0.9**: the programme effect is 0.9 points smaller for each additional year of adolescent age. The interval
+  excludes zero, so the moderation is established in these data.
+
+**The simple slopes, computed by hand.** At one standard deviation below the mean age (say 14), the programme effect is
+3.8 + (−0.9)(−3) = 6.5 points. At the mean, 3.8. At one standard deviation above (age 20), 3.8 + (−0.9)(3) = 1.1. The
+programme appears to work for younger adolescents and not for older ones, and the pattern is entirely missed by a model
+with main effects only.
+
+**The reporting convention.** Report the interaction coefficient with its interval, then the simple slopes at
+meaningful values of W with their intervals, then a figure with two lines. A claim of moderation without simple slopes
+leaves the reader unable to see what was moderated.
+
+**The three errors in interaction analysis.**
+
+1. **Interpreting the main effect inside a model with an interaction** as though it were the overall effect. It is the
+   effect at W = 0, which may be outside the data.
+2. **Comparing significance across subgroups** instead of testing the interaction. "Significant for girls, not for
+   boys" is not moderation unless the difference is tested.
+3. **Fitting an interaction with too few cases per cell.** A 2×2 interaction with 12 people per cell is estimable in
+   principle and uninformative in practice; state the cell sizes.
+
+### 8.4a When the interaction is the whole study: subgroup analysis done properly
+
+A student who suspects the programme works for some couples and not others has three legitimate analytical routes, and
+only one of them is convincing.
+
+**Route 1 — Split the sample and run the analysis twice.** Fast, intuitive, and almost always misleading: the two
+subsamples are smaller, so power falls; the two estimates carry wide overlapping intervals; and the temptation to
+describe one as significant and the other as not is overwhelming. It is the route most students take.
+
+**Route 2 — Include the interaction term in the full sample.** The coefficient for the product term is the test of
+whether the effect differs, and it uses all the data. Report the interaction with its interval, then the simple slopes
+at meaningful moderator values, then a figure. This is the defensible route.
+
+**Route 3 — Pre-specify the subgroup in the protocol and report it as a secondary analysis.** The strongest of the
+three, because it removes the suspicion that the subgroup was chosen after the data were seen. A thesis that
+pre-specifies one subgroup and discovers an unexpected one in a second is more convincing than one that reports four
+discovered subgroups as if they had been planned.
+
+**The four questions a subgroup analysis must answer.** Was it pre-specified? How many people were in each cell? Was
+the interaction tested, and with what interval? Was any correction applied for the number of subgroups examined?
+
+**The honest sentence.** "The interaction between programme arm and adolescent age was −0.9 points per year (95% CI
+−1.6 to −0.2), indicating a larger association for younger adolescents; this subgroup analysis was exploratory and was
+not pre-specified, and the cell sizes at the extremes were small." Three claims, one caveat, and nothing an examiner
+can dismantle.
+
+### 8.5 Mediation: the decomposition and its assumptions
+
+**The three paths.** X → M is *a*; M → Y is *b*; the direct path X → Y is *c′*. The total effect *c* = *c′* + (*a* ×
+*b*), where *a* × *b* is the indirect effect. A path diagram is not decoration; it is the argument.
+
+**The numbers, in a worked example.** A ten-session programme (X) is intended to improve satisfaction (Y) by improving
+communication (M). Suppose *a* = 0.62 (programme improves communication by 0.62 SD), *b* = 0.48 (each SD of
+communication is associated with 0.48 SD of satisfaction), and *c′* = 0.21. The indirect effect is 0.62 × 0.48 = 0.30,
+the total effect is 0.21 + 0.30 = 0.51, and the proportion mediated is 0.59.
+
+**What the proportion mediated does not mean.** It does not mean that 59 per cent of the programme's effect happens
+through communication, because the estimate is unstable, it is undefined when the total effect is near zero, and it
+assumes no unmeasured confounding of the mediator–outcome path. Report it if you wish, and do not build sentences on
+it.
+
+**The bootstrap interval.** The distribution of *a* × *b* is not normal, so the interval should be bootstrapped (5,000
+resamples, percentile or bias-corrected). A Sobel test is the older alternative and is now considered overly
+conservative; if a student reports one, the paper should say why.
+
+**The four assumptions, in the order they are usually violated.**
+
+1. **No unmeasured confounding of X–Y.** The design must support this, and a randomised comparison does; a
+   cross-sectional survey does not.
+2. **No unmeasured confounding of M–Y.** The hardest assumption, and the one that cannot be fixed by statistics. In
+   family data, the mediator and the outcome are often measured at the same time from the same informant, which makes
+   this assumption very hard to defend.
+3. **No effect of Y on M.** Requires temporal ordering; with simultaneous measurement it cannot be ruled out.
+4. **No measurement error in M.** Attenuates *b*, and therefore the indirect effect.
+
+**What a student may write from cross-sectional mediation.** "The data are consistent with the hypothesis that
+communication accounts for part of the association between programme participation and satisfaction; the
+cross-sectional design cannot establish the ordering, and the estimate should be read as a description of the
+covariance structure rather than as evidence of a mechanism." That is a defensible sentence. "Communication mediated
+the effect of the programme on satisfaction" is not.
+
+### 8.5a The longitudinal mediation design a masters student can actually do
+
+Three waves is the minimum for a credible mediation analysis: X at wave 1, M at wave 2, Y at wave 3, with each
+measured after the previous in time. Two waves permit a cross-lagged panel model with strong assumptions; one wave
+permits description only.
+
+**A feasible three-wave design for a masters thesis.** Wave 1 at baseline (programme allocation, communication,
+satisfaction); wave 2 at eight weeks (communication); wave 3 at six months (satisfaction), with baseline satisfaction
+as a covariate. In 80 couples this is a modest but real study, and the analysis is a path model in any structural
+equation package.
+
+**The analysis that fits.** A cross-lagged panel model or a path model with autoregressive controls: each wave-2 and
+wave-3 variable regressed on its own previous value plus the other constructs. The autoregressive control is what makes
+the analysis interesting, because it removes the stable between-person differences that drive most cross-sectional
+correlations.
+
+**The cost of the third wave.** Attrition, and the analytic handling of it. A three-wave study with 30 per cent
+attrition needs full-information maximum likelihood or multiple imputation, and the analysis section must say which.
+
+**What a two-wave study can still do.** Estimate the association between change in M and change in Y, controlling for
+baseline levels. This is a weaker claim than mediation and a much stronger claim than a cross-sectional correlation,
+and it is achievable in one semester of fieldwork.
+
+**The honest framing for a thesis with two waves.** "Change in communication between baseline and follow-up was
+associated with change in satisfaction over the same period (b = 0.41, 95% CI 0.18 to 0.64), controlling for baseline
+levels of both. Because both were measured at the same two occasions, the ordering of change cannot be established and
+the estimate is consistent with either direction of influence." One paragraph, and the design's limitation is stated
+without apology.
+
+### 8.5b Confounding by indication: the trap in every programme evaluation
+
+Couples who attend a programme differ from those who do not, and the difference is not random. They are more
+motivated, better resourced, more likely to have been referred by someone who insisted, and possibly less distressed
+at the outset. A comparison between attenders and non-attenders therefore mixes the programme's effect with the
+reasons for attending.
+
+**The name.** Confounding by indication, from clinical epidemiology. The indication for treatment is also a predictor
+of the outcome, and it is the variable nobody measured.
+
+**The three imperfect remedies available to a student.**
+
+1. **Baseline adjustment** for the variables that predict attendance, which reduces but cannot eliminate the problem
+   because motivation is unmeasured.
+2. **A waitlist or comparison group recruited at the same point**, which removes some of the motivation difference
+   because both groups were referred at the same time.
+3. **Propensity scoring** on the observed predictors of attendance, which balances the groups on what was measured and
+   says nothing about what was not. A thesis that uses it must state that plainly.
+
+**What none of them fixes.** Self-selection into a programme delivered by a church, to couples known to the church, in
+a setting where attendance is visible. The effect estimate will include the effect of being seen to try, which is not
+nothing and is not the programme.
+
+**The sentence for the discussion.** "Couples who attended differed from those who did not in ways that were partly
+unmeasured, including motivation; the comparison therefore estimates the association between participation and outcome
+rather than the effect of the programme on a couple who would not otherwise have attended."
+
+### 8.6 Case: the mediation that disappeared when the baseline was controlled
+
+**CASE** — *Ngozi's model.* Ngozi Eze, a masters candidate, studied 96 couples attending a church-based programme. She
+measured, at post-test only: programme attendance (X), communication quality (M) and satisfaction (Y). She fitted a
+mediation model in a structural equation package and obtained a significant indirect effect: *a* = 0.55,
+*b* = 0.52, *c′* = 0.14, indirect 0.29, bootstrapped 95% CI 0.12 to 0.49. She wrote in her abstract: "Improved
+communication mediated the effect of the programme on marital satisfaction."
+
+**The supervisor's first question.** "Did you measure communication before the programme?"
+
+**The answer.** No. Communication was measured once, at post-test, at the same time as satisfaction, from the same
+informant.
+
+**The second question.** "So what would the model look like if the direction were reversed — satisfaction causing
+communication?"
+
+**The answer, after fitting it.** The reversed model fitted the data equally well and produced an indirect effect of
+similar size. The data could not distinguish the two models, and the fit statistics were almost identical because the
+models are statistically equivalent with cross-sectional data.
+
+**The third question.** "What would you need to distinguish them?" Time, and at least three measurement points.
+
+**The repair.** Ngozi had, in a subsample of 41 couples, a baseline measurement of both communication and satisfaction
+that she had collected for a different purpose and had not used. She re-analysed in three steps.
+
+1. **Cross-sectional model, reported as description** with the explicit statement that it cannot order the variables.
+2. **Change model**: change in communication against change in satisfaction, controlling for baseline levels of both.
+   The coefficient was 0.34 (95% CI 0.05 to 0.63) — smaller, and still distinguishable from zero.
+3. **Reversed-direction model**, reported as a sensitivity analysis, showing that the data were consistent with both
+   directions in the cross-sectional specification and less so once change was modelled.
+
+**The rewritten abstract sentence.** "Change in communication was associated with change in satisfaction over the
+programme period (b = 0.34), consistent with a communication pathway; the design cannot establish the ordering of the
+changes, and the estimate is therefore descriptive of the covariance structure rather than causal."
+
+**What the case teaches.**
+
+- **Statistically equivalent models are the central problem of cross-sectional mediation.** The software will fit
+  whichever arrow the student draws, and fit statistics will not object.
+- **Baseline measurement converts a weak study into a moderate one.** Ngozi's unused baseline data became the
+  strongest part of her thesis.
+- **The reversed-direction sensitivity analysis is cheap and persuasive.** It costs one model and it demonstrates
+  that the student understands what her design can support.
+- **The honest sentence was longer and duller and the examiners preferred it**, because it was the only sentence in the
+  chapter that could not be contradicted.
+
+### 8.7 An annotated supervision transcript: the covariate list
+
+*The student has 150 couples, cross-sectional data, and a hypothesis that financial strain lowers marital
+satisfaction. He has listed eleven covariates.*
+
+**SUPERVISOR:** Eleven covariates. Read them.
+
+**STUDENT:** Age, education, income, number of children, years married, religion, distance to the clinic, employment
+status, communication quality, husband's alcohol use, and whether the wife has a co-wife.
+
+**SUPERVISOR:** Which of these do you believe causes financial strain, and which do you believe is caused by it?
+
+**STUDENT:** *(pause)* I have not thought about it in those terms.
+
+**SUPERVISOR:** That is the whole task. Financial strain is your X. Which of these eleven could cause X?
+
+**STUDENT:** Income, employment status, education, number of children, maybe the co-wife.
+
+**SUPERVISOR:** Those are candidate confounders. Which could be caused by X?
+
+**STUDENT:** Communication quality, certainly. Possibly the alcohol use — if the man is under strain he may drink
+more.
+
+**SUPERVISOR:** Those are candidate mediators. If you control for them, what are you estimating?
+
+**STUDENT:** The direct effect of strain on satisfaction, not through communication.
+
+**SUPERVISOR:** Is that your question?
+
+**STUDENT:** No. My question is whether strain affects satisfaction, and if so how. I want the total effect and then
+the mechanism.
+
+**SUPERVISOR:** Then you need two models, and you need to say so. Model one: strain, adjusted for confounders only.
+Model two: add communication as a mediator and report the indirect effect with its interval. And what about the rest —
+religion, distance, age?
+
+**STUDENT:** Age and years married are correlated with each other.
+
+**SUPERVISOR:** So put in one of them, justify the choice, and report the other in a sensitivity analysis. Distance to
+the clinic is a sampling variable, not a confounder — your sample is clinic attenders, so it is nearly constant. And
+religion?
+
+**STUDENT:** I thought it might matter for how couples handle money.
+
+**SUPERVISOR:** Then draw the arrow. If religion causes strain and causes satisfaction, it is a confounder. If you
+cannot draw it, it is a variable you measured, not a covariate.
+
+**What the transcript teaches.**
+
+- **Every covariate needs a role**, and the roles are confounder, mediator, collider or none.
+- **Two models, not one**, when the question is about the total effect and the mechanism.
+- **Collinearity resolved by a decision, not by deleting both.** Report the alternative in a sensitivity analysis.
+- **A sampling variable is not a confounder** if the sample is defined by it; it is a restriction, and its consequences
+  belong in the discussion, not the model.
+- **"Draw the arrow" is the entire discipline of this week**, and it takes three minutes per covariate.
+
+### 8.8 Lab: build and defend a regression model
+
+**Aim.** One regression table, two models, a causal diagram, and a paragraph that justifies every covariate.
+
+**Materials.** A dataset with an outcome and at least six candidate predictors; software; a pen and paper for the
+diagram.
+
+**Steps.**
+
+1. **Draw the diagram** with X, Y, and every measured variable assigned to confounder, mediator, collider or none.
+   Label the unmeasured ones in dashed circles.
+2. **State the estimand** in one sentence: total effect, direct effect, or adjusted association.
+3. **Fit model 1**, adjusted for confounders only. Report coefficients, intervals and n.
+4. **Fit model 2**, adding the mediator. Report the change in the X coefficient and the indirect estimate.
+5. **Check the diagnostics** that matter for your model: residual plots, influence, collinearity.
+6. **Run one sensitivity analysis** — an alternative covariate, a different missing-data handling, or the reversed
+   direction — and report it in a short paragraph.
+7. **Test one interaction** if your question is about subgroup effects, and report simple slopes.
+8. **Write the modelling paragraph**: estimand, covariates with their roles, missing-data handling, diagnostics,
+   software.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Diagram with all four roles assigned | 4 | Unmeasured confounders named |
+| Estimand stated | 3 | The sentence distinguishes total from direct effect |
+| Model 1 correct and reported | 3 | Coefficients in units, intervals, n, R² |
+| Model 2 and the decomposition | 3 | Indirect estimate with bootstrap interval |
+| Diagnostics reported | 2 | At least two, with a sentence of interpretation |
+| Sensitivity analysis | 3 | A named alternative and its result |
+| Modelling paragraph | 2 | Every covariate justified by its role |
+
+**Fail conditions.** Eleven covariates with no rationale. Controlling for a mediator while claiming a total effect.
+A mediation claim from cross-sectional data with no qualification. A model reported without its n.
+
+### 8.8a The modelling paragraph, written out
+
+The paragraph below is the analysis section of a thesis on financial strain and marital satisfaction. It is 170 words
+and it does the work that most analysis sections leave to the reader.
+
+> "The estimand was the total effect of financial strain on marital satisfaction. A causal diagram (Appendix B) assigns
+> each measured variable a role: income, employment status, education and number of children are treated as
+> confounders; communication quality is treated as a candidate mediator; distance from the clinic is a sampling
+> variable and is not included. Model 1 regresses satisfaction on strain, adjusted for confounders, and reports
+> unstandardised coefficients with 95% confidence intervals. Model 2 adds communication and reports the direct effect
+> and the bootstrapped indirect effect (5,000 resamples, percentile interval). Missing data were 3 per cent or less on
+> all variables and were handled by full-information maximum likelihood. Diagnostics comprised residual plots,
+> inspection of influence and variance inflation factors; none indicated a problem. Analyses were conducted in R 4.3
+> with the lavaan package."
+
+**Why it works.** The estimand is named. The covariates are justified by role rather than by availability. The two
+models are distinguished. The missing-data method is stated with its magnitude. The diagnostics are named. The software
+is specified. Every sentence pre-empts a question.
+
+**What a weak version looks like.** "Multiple regression was used to determine the predictors of marital satisfaction.
+All variables were entered into the model. p < 0.05 was taken as significant." Three sentences that answer none of the
+questions an examiner will ask, and the student will answer them verbally in the viva, which is a worse venue.
+
+### 8.8b Three tables a modelling chapter needs
+
+**Table 1 — sample characteristics.** Described in Week 7, and it belongs in the modelling chapter too, because the
+reader must know who was modelled.
+
+**Table 2 — the models, side by side.** Model 1 and model 2 in adjacent columns, with coefficients, intervals and a
+row for n and R². Side-by-side presentation is what allows the reader to see the change in the coefficient of interest,
+which is the substance of the chapter.
+
+**Table 3 — sensitivity analyses.** One column per alternative specification, with a one-line note on what each
+changes. The table is usually short, unglamorous, and the strongest evidence in the thesis that the student thought
+about robustness.
+
+**The footnote that survives a viva.** "All continuous predictors were mean-centred for models containing interaction
+terms; unstandardised coefficients are reported in the units of each measure; the reference category for employment
+status is 'not in paid work'." Three facts, one line, three questions prevented.
+
+### 8.9 Six regression errors that survive examination
+
+**Error 1 — The kitchen-sink model.** Every measured variable entered as a covariate, including mediators and
+colliders, and the resulting coefficients interpreted as effects. The model has no argument, and the coefficients
+answer no question.
+
+**Error 2 — The mediator controlled and the mechanism claimed.** Controlling for communication and then writing that
+communication explains the effect. If it is controlled, its role is removed from the estimate.
+
+**Error 3 — Coefficients in standard deviations only.** A table of β values with no unstandardised coefficients,
+leaving the reader unable to say what a one-unit change does.
+
+**Error 4 — Mediation from cross-sectional data, stated causally.** The most common serious error in the regional
+literature, and the one an examiner with methods training will find first.
+
+**Error 5 — Moderation claimed from differing significance.** "The programme worked for mothers but not fathers" where
+the interaction was never tested.
+
+**Error 6 — R² as a verdict.** "The model explained 34 per cent of variance, which is good." R² depends on the
+heterogeneity of the sample, the reliability of the measures and the number of predictors; it is not a grade.
+
+> **CAUTION** — *The covariate that was really an outcome.* A student studying the effect of a wife's employment on
+> marital satisfaction adjusted for "decision-making power in the household", reasoning that it was a confounder
+> because more powerful women might be more likely to work. The examiner pointed out that employment plausibly increases
+> decision-making power, making the covariate a mediator, and that adjusting for it removed the very mechanism the
+> student's theory proposed. Her estimate of the direct effect was defensible; her interpretation of it as "the effect
+> of employment" was not. The correction took one paragraph and changed the conclusion of the paper.
+
+### 8.9a An audit of a published mediation paper
+
+*Read the abstract of any cross-sectional mediation paper in the family literature. The audit below applies to most of
+them.*
+
+**Question 1 — When was the mediator measured?** If the answer is "at the same time as the outcome, from the same
+informant", the temporal ordering the model assumes is not in the data.
+
+**Question 2 — Was the reversed model fitted?** Almost never. If it was not, the paper has reported one of several
+equally well-fitting orderings without saying so.
+
+**Question 3 — How was the indirect effect estimated, and with what interval?** A Sobel test in 2024 signals a paper
+that has not updated; a bootstrapped percentile interval with 5,000 resamples signals one that has.
+
+**Question 4 — Is the proportion mediated reported, and does anyone believe it?** A proportion of 0.78 with a total
+effect that barely differs from zero is a ratio of two small numbers and should not be in the abstract.
+
+**Question 5 — What does the conclusion sentence claim?** "Communication mediated the relationship between X and Y" is
+a causal claim in a descriptive design. "The association between X and Y was partly accounted for by communication" is
+the same analysis described accurately.
+
+**Question 6 — Were alternative models mentioned as a limitation?** One sentence is enough, and its absence is the
+clearest signal of what the authors did not consider.
+
+**The audit's use for a student.** Applying it to five papers produces the language and the caution that a good
+discussion chapter needs, and it produces a defensible reason for the student's own design choices: "unlike much of
+the existing literature, the present study measures the mediator at a separate wave".
+
+> **AUDIT** — Choose three mediation papers from your reading list and score them against the six questions. Then write
+> the two sentences you would use in your own discussion to distinguish your design from theirs. If all three fail
+> question 1, your sentence writes itself and your contribution is clear.
+
+### 8.10 Culture, structure and the covariates that cannot be measured
+
+**The compound as an unmeasured variable.** In households embedded in an extended family, decisions about money,
+schooling and discipline are frequently made with or by relatives who are never interviewed. A model that treats the
+couple as the decision unit carries an unmeasured confounder whose size is unknown and whose direction is not obvious:
+relatives may buffer strain or amplify it.
+
+**Polygyny as a variable, not a nuisance.** Studies that include polygynous households often control for it with a
+binary variable, which disguises a structural difference: the wife's position in the household, the presence of
+co-wives, the distribution of the husband's time and money. Treated as a covariate, polygyny enters as one coefficient;
+treated as a stratification variable, it produces two models and a comparison, which is usually the more informative
+choice.
+
+**The unmeasurable confounder every student must name.** The couple's history before the study window: how long the
+difficulty has existed, what has been tried, what the church or the family has already done. A cross-sectional model
+cannot adjust for it, and the discussion must say so in a specific sentence rather than a generic one.
+
+**The measurement-error correction.** Unreliable covariates bias their own coefficients toward zero and leave the
+coefficient of interest contaminated. A student who knows the reliability of each measure can report a sensitivity
+analysis using disattenuated estimates; a student who does not should at least report reliabilities alongside the
+model.
+
+> **DEBATE** — *Should a cross-sectional study test mediation at all?* One position: yes, as a description of
+> covariance structure, provided the language is disciplined and the reversed model is reported. The other: no,
+> because the language is never disciplined for long and the test invites a causal reading the data cannot support. The
+> resolution most examiners accept: test it, label it "consistent with", and report the equivalent reversed model.
+
+### 8.11 Evidence: what the modelling literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| Covariate selection governs the estimand; there is no neutral set of controls | Established in the causal-inference literature | High | Require a diagram and a stated estimand before modelling |
+| Adjusting for a mediator changes the estimand from total to direct effect | Established | High | Require two models where a mechanism is hypothesised |
+| Cross-sectional mediation models are statistically equivalent to reversed specifications | Established | High | Require a reversed-direction sensitivity analysis |
+| Bootstrapped intervals are preferred for indirect effects | Established | High | Require bootstrap intervals, not Sobel tests |
+| Interaction terms require simple slopes to be interpretable | Established | High | Require simple slopes and a figure |
+| Differing significance across subgroups does not establish moderation | Established | High | Require a formal interaction test |
+| R² is sample-specific and not a measure of model quality | Established | High | Teach the alternatives and the caveats |
+| Listwise deletion can bias estimates substantially under non-random missingness | Established | High | Require a stated missing-data method |
+
+**One cell, expanded — the equivalence of cross-sectional mediation models.** With a single measurement occasion and
+three observed variables, the model X → M → Y and the model Y → M → X have the same number of parameters and reproduce
+the same covariance matrix exactly; the fit statistics are identical by construction. This is not a limitation of the
+software but a property of the data. The teaching consequence is that any mediation claim from cross-sectional data is
+a claim about which of several equally well-fitting orderings the researcher prefers, and the preference must be
+justified by theory and by whatever temporal information the design contains.
+
+### 8.11a Reading a structural equation model without over-reading it
+
+A student who fits a structural equation model has usually been told it is more powerful than regression. What it
+actually offers is three things: the ability to model several outcomes at once, the ability to model latent variables
+with measurement error taken into account, and the ability to test whether a specified structure reproduces the
+observed covariances.
+
+**What the fit statistics say.** Chi-square (which almost always rejects in samples above 200), the comparative fit
+index, the Tucker–Lewis index, the root mean square error of approximation, and the standardised root mean square
+residual. Conventional thresholds exist and are conventions; the honest sentence reports them and then says what the
+model would look like if a path were reversed.
+
+**What they do not say.** That the model is correct. A model that fits well may be one of several equivalent models,
+and the equivalence is not visible in the fit table. Structural equation modelling moves the argument from the
+coefficients to the specification, which is why the path diagram must be justified by theory before the model is
+fitted.
+
+**The three reporting failures in student SEM chapters.** Reporting fit statistics and no coefficients; reporting
+coefficients and no fit; and reporting a modification-indices-driven respecification as though the final model had been
+specified in advance. The third is the most serious, because each added path was chosen to improve fit, and fit
+improvement is not evidence of a causal structure.
+
+**The one-sentence defence.** "The model was specified a priori from the theoretical model in Chapter 2; no paths were
+added on the basis of modification indices; alternative orderings were tested and are reported in Appendix F."
+
+**The five sentences that close a modelling chapter.** The primary association with its interval; the change when
+confounders were added; the mechanism tested and what its estimate can support; the subgroup examined and whether it
+was pre-specified; and the one thing the design cannot rule out. Written in that order, they read as judgement rather
+than as reporting, and they are the five sentences an examiner remembers.
+
+### 8.12 Key terms
+
+**Regression coefficient** — the estimated change in the outcome per one-unit change in a predictor, holding the other
+model terms constant.
+
+**Conditional association** — an association estimated within levels of the other variables in the model; what a
+regression coefficient is.
+
+**Confounder** — a common cause of predictor and outcome; adjusting for it moves the estimate toward the causal effect.
+
+**Mediator** — a consequence of the predictor and a cause of the outcome; adjusting for it moves the estimate away from
+the total effect.
+
+**Collider** — a common consequence of predictor and outcome; adjusting for it induces a spurious association.
+
+**Over-adjustment** — controlling for a mediator or a collider when the estimand is the total effect.
+
+**Estimand** — the quantity the analysis is intended to estimate; total effect, direct effect or adjusted association.
+
+**Change-in-estimate** — the shift in a coefficient when a covariate is added; a rule of thumb for detecting
+confounding.
+
+**Suppression** — a covariate that increases rather than reduces a coefficient, often by removing irrelevant variance.
+
+**Interaction** — a product term modelling the dependence of one variable's effect on the level of another.
+
+**Moderation** — the substantive hypothesis that an effect differs across levels of a third variable.
+
+**Simple slope** — the estimated effect of X at a specified value of the moderator; the interpretable output of an
+interaction model.
+
+**Mean centring** — subtracting the sample mean from a variable so that lower-order terms become interpretable at the
+average.
+
+**Mediation** — the hypothesis that the effect of X on Y operates partly through M.
+
+**Direct effect** — the effect of X on Y not through the mediator.
+
+**Indirect effect** — the product of the X → M and M → Y paths; the effect transmitted through the mediator.
+
+**Total effect** — the sum of direct and indirect effects.
+
+**Proportion mediated** — the indirect effect divided by the total effect; unstable and frequently uninterpretable.
+
+**Bootstrap interval** — a confidence interval derived from resampling, used for indirect effects whose sampling
+distribution is not normal.
+
+**Sensitivity analysis** — an analysis under an alternative assumption, reported to show how much a conclusion depends
+on it.
+
+**Cross-lagged panel model** — a model of reciprocal influence across waves, with each construct regressed on its own
+previous value and on the other construct's previous value.
+
+**Listwise deletion** — dropping any case with a missing value on any modelled variable; the default in most software
+and a frequent source of bias.
+
+**Full-information maximum likelihood** — an estimation method that uses all available data under a missing-at-random
+assumption.
+
+**Diagnostics** — residual, influence and collinearity checks reported alongside a model.
+
+### 8.13 Self-test
+
+1. What does a regression coefficient mean, and what does "holding constant" actually hold?
+2. Distinguish a confounder from a mediator, with one example of each in family research.
+3. Why is adjusting for a mediator a problem when the question is about a total effect?
+4. What is a collider, and why does restricting a sample to clinic attenders create one?
+5. In a model with an interaction, what does the coefficient for X represent, and why does centring help?
+6. Interpret b₃ = −0.9 for a programme × adolescent age interaction.
+7. Compute the indirect effect and the total effect from a = 0.62, b = 0.48, c′ = 0.21.
+8. Why is a bootstrapped interval preferred for an indirect effect?
+9. Name the four assumptions of a mediation model and say which is hardest to defend in cross-sectional data.
+10. Why do the mediation and reversed-mediation models fit cross-sectional data equally well?
+11. What is the minimum number of waves for a credible mediation analysis, and what does each wave provide?
+12. Write the sentence that reports a cross-sectional mediation result honestly.
+
+### 8.14 Answers
+
+1. The change in the outcome per one-unit change in the predictor, holding the other modelled variables constant; it
+   holds only what was measured and included, and only in the functional form specified.
+2. A confounder causes both X and Y — for example, financial strain causing both conflict and low satisfaction. A
+   mediator is caused by X and causes Y — for example, conflict reducing communication, which reduces satisfaction.
+3. Because the direct effect is a different estimand from the total effect; the adjusted coefficient no longer includes
+   the part of the effect that operates through the mediator.
+4. A collider is a variable caused by both X and Y; because referral to a clinic is caused by both distress and
+   resources, selecting attenders conditions on the collider and induces an association between distress and resources.
+5. The effect of X when the moderator equals zero; centring sets zero to the sample mean so that the coefficient is the
+   effect at an average level of the moderator.
+6. That the programme's association with satisfaction is 0.9 points smaller for each additional year of the
+   adolescent's age.
+7. Indirect = 0.62 × 0.48 = 0.30; total = 0.21 + 0.30 = 0.51.
+8. Because the product of two normally distributed estimates is not normally distributed, so a symmetric interval
+   based on the normal approximation is wrong; bootstrapping estimates the actual sampling distribution.
+9. No unmeasured confounding of X–Y; no unmeasured confounding of M–Y; no effect of Y on M; no measurement error in M.
+   The second is hardest in cross-sectional data, especially where M and Y are measured at the same time from the same
+   informant.
+10. Because both models have the same number of parameters and reproduce the same covariance matrix, so they are
+    statistically equivalent and fit cannot distinguish them.
+11. Three: X measured before M, M measured before Y, and each construct's own baseline to control for stable
+    differences.
+12. "The data are consistent with a communication pathway between programme participation and satisfaction; the
+    cross-sectional design cannot establish the ordering of the variables, and the estimate describes the covariance
+    structure rather than a demonstrated mechanism."
+
+### 8.15 Reflection and preparation for Week 9
+
+> **REFLECT** — Write the causal diagram of your own study on one page, with the unmeasured confounders in dashed
+> circles. Then write the one sentence you will use when an examiner asks what your model can and cannot establish. If
+> the sentence is hard to write, the design is doing less than the claim, and it is cheaper to discover that now.
+
+**Preparation task.** Bring to Week 9 the qualitative data or plan you have — transcripts, field notes, or your
+interview guide — and one analytic memo. Week 9 concerns qualitative analysis, and its central discipline is the same
+as this week's: to state, before reading the data, what a finding would look like.
+
+*Next: Week 9 — Qualitative analysis: from transcripts to defensible themes.*
 
 ---
 
