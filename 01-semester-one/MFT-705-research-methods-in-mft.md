@@ -4534,29 +4534,748 @@ same discipline applies — the unit, the procedure and the stopping rule, state
 
 ---
 
-## Week 7 — Quantitative analysis I
+## Week 7 — Quantitative analysis I: describing, comparing and judging what matters
 
-**Descriptive statistics.** Mean and standard deviation for symmetric data; median and interquartile range
-for skewed data (income, session counts). Always report n, missingness, and the range.
+**Learning outcomes.** By the end of this week the student can (1) choose and report descriptive statistics appropriate
+to each variable's distribution; (2) select and justify a test for a comparison between two or three groups; (3) compute
+and interpret an effect size with a confidence interval; and (4) distinguish statistical from clinical significance and
+say which one their study was designed to establish.
 
-**Comparing groups.** t-test (two groups), ANOVA (three or more), chi-square (categorical). Check
-assumptions: independence, normality (roughly), equal variance.
+### Before the test comes the table
 
-**Clinical significance versus statistical significance.** A drop of 2 points on a satisfaction scale can
-be statistically significant with n = 400 and clinically meaningless. Report **effect sizes** and, where
-available, the **minimal clinically important difference**.
+Most analysis failures happen before the first p-value. The student opens the software, finds the menu labelled
+"compare means", and produces a table of significance tests for variables she has not looked at. Three things are
+usually wrong: the distributions were never inspected, the missingness was never counted, and the question was never
+narrowed to a comparison that could be answered.
 
-**Common effect sizes.**
+The discipline of this week is therefore unglamorous. Describe first. Report every variable's n, centre, spread and
+range, and note the missing. Then look at the shape. A household income variable, a count of therapy sessions, and a
+number of children are all skewed, and a mean with a standard deviation misrepresents all three. Only then choose a
+test, and choose it from the question rather than from the software's menu.
 
-| Statistic | Meaning | Rough benchmark |
+**Descriptive statistics, correctly used.** Mean and standard deviation for roughly symmetric data; median and
+interquartile range for skewed data or for counts; frequencies and percentages for categorical variables, with the
+denominator always stated. Every table reports n, missingness and the range, because a mean of 42 with a range of 8 to
+79 tells the reader something a standard deviation does not.
+
+**Comparing groups.** A t-test for two groups, ANOVA for three or more, chi-square for categorical comparisons. Each
+carries assumptions: independence (Week 6), approximate normality within groups where samples are small, and
+homogeneity of variance. Each carries the same interpretive limitation: a significant difference is a statement about
+whether a difference exists, not about whether it matters.
+
+**Clinical against statistical significance.** A two-point drop on a satisfaction scale can be statistically
+significant with 400 participants and clinically meaningless. The remedy is not to abandon significance testing but to
+report effect sizes with confidence intervals and, where the literature provides one, the minimal clinically important
+difference. A results chapter that reports only p-values has told the reader what it could not have told them: how big
+anything was.
+
+### 7.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
 |---|---|---|
-| Cohen's d | Standardised mean difference | 0.2 small, 0.5 moderate, 0.8 large |
-| Pearson's r | Association | 0.1 small, 0.3 moderate, 0.5 large |
-| Odds ratio | Relative odds | 1.5 modest, 2+ substantial |
-| Number needed to treat | How many treated for one extra success | Lower is better |
+| 0–12 | The unopened dataset: three failures before the first test | Show a real dataset; students compute n, missing, range |
+| 12–26 | Shape, centre and spread: choosing descriptives variable by variable | Students classify ten variables from a real study |
+| 26–40 | Two groups: the t-test behind the menu, with the arithmetic | Worked calculation by hand, then software |
+| 40–54 | Three or more: ANOVA, and why not four t-tests | Demonstration of the inflated error rate |
+| 54–68 | Effect sizes: d, r, odds ratio, NNT, all with intervals | Compute d from a published table |
+| 68–82 | Clinical significance and the MCID | Debate: is a 2-point change worth a programme? |
+| 82–90 | The results table, redrawn | Students redraw one published table |
 
-> **TASK** — Interpret this sentence for a non-researcher in two sentences: "The intervention group showed
-> a greater reduction in distress than controls (d = 0.55, 95% CI [0.21, 0.89], p = .002)."
+### 7.2 Five concepts that organise the week
+
+**Concept 1 — A test answers a narrower question than the one that was asked.** "Is there a difference between
+programme and control?" is answered by a t-test. "Does the programme help couples?" is not, because helping involves
+size, duration, who benefits and what it costs. The test is one sentence in a longer argument.
+
+**Concept 2 — Significance is a function of sample size, effect size and variability.** The same effect is significant
+in a large sample and not in a small one; that is arithmetic, not truth. A field that reports only significance
+therefore rewards large samples regardless of the size of what they found.
+
+**Concept 3 — An effect size without an interval is a point pretending to be a range.** *d* = 0.55 with an interval from
+0.21 to 0.89 says something; *d* = 0.55 alone invites a reader to treat a number as a fact.
+
+**Concept 4 — The minimal clinically important difference is a judgement, not a statistic.** It is the smallest change
+a patient, a couple or a therapist would notice and care about, and it must be sourced — from a published anchor study,
+from a panel of clinicians, or from a patient-defined threshold. A student who invents one should say so.
+
+**Concept 5 — Every table is an argument.** Columns, order, decimal places and the presence or absence of intervals
+all steer the reader. A well-built table lets a clinician answer "how much, how certain, for whom" in under a minute;
+a poorly built one requires the text to do the table's work, which the text then does badly.
+
+### 7.2a Describing the variables: a table that earns its place
+
+The descriptive table is the most-read table in any thesis and the least carefully made. Six columns make it useful.
+
+| Column | Example | Why it matters |
+|---|---|---|
+| Variable | Household income (monthly, ₦) | Named as a variable, not as a survey item |
+| n | 178 of 186 | The denominator, with missingness |
+| Centre | Median 62,000 | The statistic appropriate to the shape |
+| Spread | IQR 38,000–95,000 | In the units of the variable |
+| Range | 0–540,000 | Reveals implausible values and skew |
+| Note | 8 missing; 2 refused | One line that prevents a reader's question |
+
+**The three decisions inside the table.**
+
+**Which centre?** Mean for symmetric, median for skewed. Income, session counts, number of children, years since
+separation and distance travelled are almost always skewed. Age and scale scores are often roughly symmetric, and
+should be checked rather than assumed.
+
+**Which spread?** Standard deviation pairs with the mean; interquartile range pairs with the median. Reporting a
+median with a standard deviation, or a mean with an interquartile range, is a small error that marks a student as one
+who has not read a statistics textbook.
+
+**How many decimals?** Enough to distinguish values, no more. A satisfaction score to two decimal places implies a
+precision the instrument does not have; report one. Percentages to one decimal. p-values to three, or as "< 0.001".
+
+**The missingness audit.** For a study of 186 couples, a table in the appendix should show, variable by variable, how
+many were missing, and a note on why: not asked, refused, not applicable, lost to follow-up. Missing data at random can
+be handled by a stated method; missing data not at random is a finding about the study, and the audit is how it is
+found.
+
+**The implausible value.** A monthly income of 540,000 in a sample whose median is 62,000 may be a data entry error
+(54,000), a genuine outlier, or a different unit (annual). Each requires a different handling, and the decision must be
+recorded. The most common error in student datasets is not the outlier; it is the silent correction of one.
+
+### 7.2b The assumption checks worth doing, and the ones worth mentioning
+
+**Independence.** Already covered in Week 6, and the most consequential. No test diagnoses it; the design does.
+
+**Normality.** Matters for small samples and for inference about means. With groups of 30 or more, the sampling
+distribution of the mean is approximately normal by the central limit theorem regardless of the variable's shape. With
+groups of 8, it matters. Check with a histogram and skewness, not with a significance test — normality tests reject
+trivial departures in large samples and fail to detect important ones in small samples.
+
+**Homogeneity of variance.** Compare the group standard deviations. A ratio beyond about 2:1 with unequal group sizes
+is worth addressing, either by a corrected test or by reporting both.
+
+**The three checks students run instead.** A Shapiro–Wilk test on 400 observations (which rejects because the data are
+not perfectly normal, as no data are), a Levene test treated as a gate rather than a description, and a
+multicollinearity check performed on variables that will never enter the same model. Each is harmless and none
+addresses the question.
+
+**What to write in the methods.** One paragraph: the descriptive statistics used and the criterion for choosing them;
+the tests used for each comparison and the assumptions checked; whether any correction for multiple comparisons was
+applied; the alpha; the software and version. Six sentences, and the analysis section is complete.
+
+### 7.2c The cleaning log: the document that saves a viva
+
+Every dataset is cleaned, and almost no thesis records how. The cleaning log is a dated list of every decision that
+changed a value, and it takes ten minutes per week of fieldwork.
+
+**What it records.** The variable affected, the value before and after, the reason, the date, and who decided. A single
+row per decision, in a spreadsheet that sits beside the dataset.
+
+**The four decisions that always occur.** Duplicate records from double entry; impossible values (an age of 6 for a
+mother, an income of 5,000,000); inconsistent units (annual income entered by three respondents); and skip-pattern
+errors in which a respondent answered questions that did not apply.
+
+**Why it matters beyond tidiness.** A cleaning decision can change a result, and a reader who cannot see the decisions
+cannot evaluate them. More practically, the examiner's question "why does this variable have 172 cases when the sample
+is 186?" is answered in one line by a log and in an afternoon by memory.
+
+**The three errors the log prevents.** Silent deletion of cases on the basis of the outcome; silent transformation of a
+variable after looking at its relation to the outcome; and silent imputation presented as complete data. Each is
+common, and each is a matter of research integrity rather than of statistics.
+
+**The line to add to the methods.** "All data cleaning decisions are recorded in Appendix D; no cases were excluded on
+the basis of outcome values." That sentence, unusual in theses, tells the reader something rare and reassuring.
+
+### 7.3 Comparing two groups: the t-test, with the arithmetic visible
+
+**What the test does.** It compares the difference between two means with the uncertainty of that difference. The
+statistic is the difference divided by its standard error:
+
+> t = (M₁ − M₂) / SE<sub>difference</sub>
+
+where the standard error depends on both group standard deviations and both group sizes.
+
+**A worked example.** A couples programme enrols 44 couples; 22 complete and 22 are on a waiting list. Satisfaction
+(M = 50, SD = 12). At follow-up:
+
+- Programme: M = 56, SD = 11, n = 22
+- Waiting list: M = 50, SD = 12, n = 22
+
+The pooled standard deviation is approximately 11.5; the standard error of the difference is
+11.5 × √(1/22 + 1/22) = 11.5 × 0.301 = 3.46. The t statistic is 6 / 3.46 = 1.73, with 42 degrees of freedom. The
+two-tailed p-value is about 0.09.
+
+**What the student learns from the arithmetic, before any software.** A six-point difference on a scale with a
+standard deviation of 11.5, in 22 couples per arm, is not distinguishable from chance. The effect size is
+d = 6 / 11.5 = 0.52, which is moderate, and the study was simply too small. This is the Week 4 lesson arriving in
+Week 7: power determined the conclusion, not the programme.
+
+**The three t-tests and when each applies.** Independent samples for two separate groups; paired for the same people
+measured twice; Welch's version when variances differ and group sizes are unequal. Reporting which one was used, and
+why, is a sentence and it marks competence.
+
+**The paired case, worked.** The same 22 completers measured before (M = 50) and after (M = 56) with a correlation
+between occasions of 0.6. The standard deviation of the difference is
+SD<sub>diff</sub> = √(SD₁² + SD₂² − 2r·SD₁·SD₂) = √(144 + 121 − 2(0.6)(12)(11)) = √(265 − 158.4) = 10.3. The standard
+error is 10.3/√22 = 2.20, and t = 6/2.20 = 2.73, p ≈ 0.012.
+
+**The lesson in the contrast.** The same six-point change is non-significant between groups and significant within
+them, because the within-person analysis removes the between-person variance. This is not a trick; it is the reason an
+uncontrolled pre–post study can appear to show an effect that a controlled study cannot. The comparison group exists
+precisely because within-person change is not evidence of a programme effect.
+
+### 7.3a Three or more groups: ANOVA, and the multiple-comparison problem
+
+**What ANOVA does.** It compares the variance between group means with the variance within groups. A large ratio (F)
+means the group means differ by more than sampling variability explains; it does not say which groups differ.
+
+**Why not run four t-tests instead.** With four groups there are six pairwise comparisons; at alpha 0.05 each, the
+probability of at least one false positive is 1 − 0.95⁶ = 0.26. With six groups (fifteen comparisons) it is 0.54. The
+error rate is not a technicality; it is the difference between a finding and a fishing expedition.
+
+**The three legitimate follow-ups.** Planned contrasts, chosen before the analysis and limited in number; post hoc
+tests with a correction (Tukey, Bonferroni, Games–Howell); or a single a priori comparison that reflects the actual
+hypothesis. A student who reports "post hoc Tukey showed that group 1 differed from group 3" without having planned to
+compare groups should say that the analysis was exploratory.
+
+**The reported set from an ANOVA.** The F statistic with both degrees of freedom, the p-value, the group means with
+standard deviations, and an effect size — eta squared or omega squared — with an interpretation. A table of group means
+alone is not a result.
+
+### 7.3b Categorical comparisons and the 2×2 trap
+
+**Chi-square** tests whether two categorical variables are associated by comparing observed counts with those expected
+under independence.
+
+**The trap.** A significant chi-square in a 2×2 table tells you that an association exists, not how strong it is, and
+with large samples it will be significant for a trivial association. Report the percentages in each cell, the
+chi-square with its degrees of freedom, and a measure of association (phi, Cramér's V, or an odds ratio with an
+interval).
+
+**The expected-count rule.** With expected counts below 5 in any cell, chi-square is unreliable; Fisher's exact test is
+the alternative and is available in every package.
+
+**The baseline problem.** A table showing that 62 per cent of the programme group improved against 41 per cent of
+controls is informative; a table showing only the p-value is not. Percentages with denominators, then the test, then
+the effect size, in that order.
+
+![Figure 7.1 — Reading a forest plot against a clinical threshold](../assets/figures/fig44-effect-size-forest.svg)
+
+### 7.3c When not to use a t-test: the non-parametric alternatives
+
+**The rank-based tests, and what they do.** Mann–Whitney U compares two independent groups on ranks; Wilcoxon
+signed-rank does the same for paired data; Kruskal–Wallis extends to three or more groups. None of them tests medians
+exactly — they test whether one distribution tends to produce larger values — and describing them as "median tests" is
+a small inaccuracy that examiners notice.
+
+**When they are the right choice.** Ordinal outcomes (a five-point agreement scale treated as ordinal), small samples
+with clear skew, and outcomes with influential outliers. Not, as a default, whenever a normality test is significant in
+a sample of 300.
+
+**The cost.** Rank tests discard magnitude. A Mann–Whitney on an income variable answers "do the groups differ in the
+ordering of incomes" and not "by how much", and the effect size therefore needs a separate computation (the
+rank-biserial correlation, or a Hodges–Lehmann estimate of the median difference).
+
+**The reporting sentence.** "Because the RDAS change scores were markedly skewed in this sample (skewness 1.4), groups
+were compared with Mann–Whitney U, and the median difference with its 95% confidence interval is reported." One
+sentence, the reason, the test, the estimate.
+
+**The practical rule for a thesis.** Decide the test from the distribution and the measurement level, before looking at
+the p-value. A student who runs both tests and reports whichever is significant has not chosen a test; she has chosen a
+result, and the choice is visible in the appendix.
+
+### 7.4 Effect sizes: the four a family researcher needs
+
+| Statistic | What it expresses | Formula or source | Benchmarks (with caution) |
+|---|---|---|---|
+| Cohen's d | Standardised mean difference | (M₁ − M₂) / pooled SD | 0.2 small, 0.5 moderate, 0.8 large |
+| Pearson's r | Strength of linear association | From correlation or from d | 0.1 small, 0.3 moderate, 0.5 large |
+| Odds ratio | Relative odds of an outcome | (a×d)/(b×c) in a 2×2 table | 1.5 modest, 2+ substantial |
+| Number needed to treat | How many treated for one extra success | 1 / absolute risk reduction | Lower is better; 5 excellent, 20 weak |
+
+**The benchmarks are conventions, not laws.** Cohen himself warned that a "small" effect can be clinically important
+and a "large" one trivial. In couple research, where the outcome is a relationship rather than a cure, an effect of
+*d* = 0.3 sustained over a year may matter more than 0.8 measured the week the programme ended.
+
+**Worked conversions.** From the Week 7 example, d = 0.52. Converting: r = d / √(d² + 4) = 0.52 / √(4.27) = 0.25. In
+the language of explained variance, this is r² ≈ 6 per cent — a number that sounds small and is entirely normal for a
+psychological intervention. Reporting both the standardised effect and its variance interpretation prevents the
+overclaim that d = 0.5 is "half a cure".
+
+**An odds ratio with an interval, worked.** In the programme group, 28 of 42 couples (67 per cent) improved by at least
+the MCID; in the control group, 17 of 40 (43 per cent). The odds ratio is (28×23)/(14×17) = 2.71. The absolute risk
+reduction is 24 percentage points, and the number needed to treat is 1/0.24 ≈ 4.2 — about four couples treated for one
+additional couple to improve.
+
+**Why the NNT is the most persuasive number and the most fragile.** It converts an effect into a clinical quantity and
+it varies enormously with baseline risk: the same odds ratio produces an NNT of 4 in a high-risk clinic and 20 in a
+general population. Always report the baseline risk alongside it.
+
+### 7.4c The four numbers a clinician asks for, in the order they ask
+
+A clinician reading a results table asks four questions in a fixed order, and a thesis that answers them in that order
+is read with gratitude.
+
+1. **How much did it change?** The estimate in the units of the measure — points on the RDAS, sessions attended,
+   proportion improved. Not a standardised effect, which is a translation for comparison.
+2. **How sure are we?** The interval. "Six points, but anywhere from one to eleven" is a different sentence from "six
+   points, give or take two".
+3. **Does that matter?** The distance from the estimate to the MCID, and the proportion who crossed it.
+4. **For whom?** The subgroup pattern, the responder count, and whether the effect appeared in the first four sessions
+   or accumulated.
+
+**The translation exercise.** "d = 0.55, 95% CI [0.21, 0.89], p = .002" becomes, in a clinician's language: "couples
+in the programme ended about half a standard deviation more satisfied than couples who did not, which on this scale is
+roughly six points; the true value could be as small as two points or as large as ten; and the smallest change couples
+themselves report noticing is five points, so the effect is probably worthwhile for some couples and not for others."
+
+**What the exercise reveals.** The standardised effect is the least useful number in the sentence for a clinician and
+the most useful for a meta-analyst. A thesis serves both readers, so it reports both, in that order of priority.
+
+### 7.4a Clinical significance: the MCID, the reliable change index and the responder count
+
+**The minimal clinically important difference.** The smallest change that matters to somebody. Three ways to obtain
+one: a published anchor study that compared change scores with patients' own judgements of improvement; a panel of
+clinicians asked to judge vignettes; a distribution-based estimate such as half a standard deviation. The first is
+strongest, the third is a fallback, and all three must be cited or declared.
+
+**The reliable change index.** Change divided by the standard error of the difference:
+RCI = (post − pre) / (SD<sub>pre</sub> × √(2(1 − r))). A change larger than 1.96 indicates that the individual's
+movement exceeds measurement error. This answers a different question from the group mean: did *this couple* change?
+
+**The responder analysis.** Count the proportion in each arm whose change exceeded the MCID, and compare those
+proportions. It is the most clinically readable result a programme evaluation can produce, because it says how many
+couples moved rather than how far the average moved.
+
+**The four-cell table that combines them.** Cross recovery (change beyond the RCI) with clinical status (final score
+below the clinical cut-off) to produce recovered, improved, unchanged and deteriorated. A programme that produces ten
+recoveries and two deteriorations in fifty couples is described honestly in one table, whereas a mean difference of
+3.4 points describes almost nothing a clinician can use.
+
+**The deterioration cell is not optional.** Reporting improvements without reporting the people who got worse is the
+most serious form of selective reporting in intervention research, and the cell costs nothing to compute.
+
+### 7.4b What a confidence interval does that a p-value cannot
+
+A p-value answers: if there were no effect, how surprising are these data? A confidence interval answers: given these
+data, what range of effect sizes is compatible with them? The second is what a clinician, a policymaker and an
+examiner actually want.
+
+**Reading an interval.** *d* = 0.55, 95% CI [0.21, 0.89]. The estimate is moderate; the interval excludes zero; the
+range compatible with the data spans from a small-to-moderate to a large effect. A programme funder can see that the
+effect might be modest, and should be told.
+
+**The three intervals that teach the most.**
+
+1. **A wide interval crossing zero**: −0.10 [−0.62, 0.42]. Not "no effect" but "the data cannot distinguish an effect
+   from its absence". The sentence matters for what the student may claim next.
+2. **A narrow interval near zero**: 0.03 [−0.02, 0.08]. A precisely estimated trivial effect, which is a real finding
+   and a useful one — this programme does not move this outcome, and we know it reliably.
+3. **An interval that excludes the MCID**: 0.35 [0.12, 0.58] where the MCID corresponds to 0.60. Statistically
+   significant, and probably not clinically important. The student who reports this honestly has done better work than
+   one who reports "significant improvement".
+
+**The reporting convention.** Estimate, interval, and a sentence of interpretation in the units of the measure. "The
+programme group improved by 6 points on the RDAS (95% CI 1.2 to 10.8), against an MCID of 5 points; the interval
+therefore includes both trivial and worthwhile effects." That sentence is the whole results chapter in miniature.
+
+### 7.5 Case: the study that was significant and useless
+
+**CASE** — *Four hundred couples and a two-point change.* A doctoral student in Ibadan evaluated a marriage enrichment
+programme delivered through twenty churches. The design was a cluster quasi-experiment: ten churches received the
+programme, ten were comparison congregations, and couples were surveyed before and eight weeks after.
+
+**The sample.** 412 couples at baseline, 366 at follow-up (89 per cent retention), with an ICC for satisfaction within
+church of 0.08.
+
+**The analysis she first ran.** An independent-samples t-test comparing change scores between arms. The programme arm
+improved by 2.3 points on the RDAS; the comparison arm by 0.4 points. The difference was 1.9 points, t(728) = 2.61,
+p = 0.009.
+
+**The first draft's claim.** "The programme significantly improved marital satisfaction (p < 0.01)."
+
+**The three questions her supervisor asked.**
+
+1. *How big is 1.9 points?* The RDAS ranges from 0 to 84, with a published MCID of about 5 points in distressed
+   couples. A 1.9-point difference is less than half the smallest change couples themselves notice. The result is
+   statistically detectable and clinically trivial.
+2. *What is the denominator?* 728 degrees of freedom implies 730 observations, but 366 couples are the unit. The
+   individual-level test inflates precision; with the ICC of 0.08 and clusters of about 18 couples per church, the
+   design effect is 1 + 17(0.08) = 2.36, and the effective sample is roughly 155 couples, not 366.
+3. *Who improved?* She had not computed the proportion reaching the MCID. When she did: 21 per cent of the programme
+   arm and 9 per cent of the comparison arm improved by five points or more. That is a difference worth reporting, and
+   it is invisible in the mean.
+
+**The reanalysis.** A multilevel model with couples nested in churches, a fixed effect for arm, and a random intercept
+for church. The arm coefficient was 1.7 points (95% CI −0.6 to 4.0) — not distinguishable from zero once clustering
+was modelled. The responder analysis gave an adjusted odds ratio of 2.4 (95% CI 1.2 to 4.9) for achieving the MCID.
+
+**The revised claim, in her discussion chapter.** "The programme did not shift the average level of satisfaction by a
+clinically meaningful amount, and after accounting for clustering the average difference was compatible with no
+effect. It did, however, roughly double the odds that a couple achieved a change of at least the minimal clinically
+important difference. The programme appears to work for a subset of couples rather than to lift all couples slightly,
+which suggests that the question for future work is who benefits, not whether the average moves."
+
+**What the case teaches.**
+
+- **Statistical significance and clinical meaning are different findings**, and a study can produce the first while
+  failing the second.
+- **The responder analysis rescued a study that the mean had made look null.** It answered a different and more
+  useful question.
+- **The clustering correction removed an effect that the original analysis had created.** With an ICC of 0.08 and 18
+  couples per cluster, the design effect was large because the clusters were large.
+- **The honest version was more interesting than the triumphant one.** "It works for a subset" invites the next study;
+  "it works" invites a replication that will fail.
+
+### 7.5a Reading software output without being misled by it
+
+Every package prints more numbers than a thesis needs, and the surplus is where students go wrong.
+
+**The four numbers to look for first.** The group estimates with their standard deviations; the difference with its
+interval; the test statistic with its degrees of freedom; and the effect size if the software provides one. Everything
+else in the output — sums of squares, mean squares, Levene's statistic, adjusted R² for models not yet fitted — is
+either diagnostic or irrelevant to the sentence being written.
+
+**The three traps in the printout.** A p-value printed as ".000", which is not zero and should be reported as
+"< 0.001"; a default two-tailed test where a one-tailed test was planned (and the discrepancy never disclosed); and a
+"Sig." column for a post hoc table that has been read without noticing which comparisons were corrected.
+
+**The habit that prevents all three.** Paste the output into the appendix, and write the results sentence by hand from
+the numbers rather than by copying the output's labels. A sentence written from the output reads like the output; a
+sentence written by hand reads like a finding.
+
+### 7.6 An annotated results table and the paragraph that reads it
+
+*The table below is the results section of a masters thesis evaluating a ten-session group programme for couples
+referred after disclosure of infidelity. Read the table, then the paragraph, then the annotations.*
+
+| Outcome | Programme (n = 38) | Comparison (n = 35) | Adjusted difference | 95% CI | p | d |
+|---|---|---|---|---|---|---|
+| RDAS total, follow-up | 47.2 (11.4) | 43.1 (12.0) | 4.1 | 1.4 to 6.8 | 0.003 | 0.35 |
+| Trust scale | 18.6 (6.2) | 15.9 (6.5) | 2.7 | 0.9 to 4.5 | 0.004 | 0.42 |
+| Forgiveness scale | 41.0 (9.8) | 38.4 (10.1) | 2.6 | −0.4 to 5.6 | 0.09 | 0.26 |
+| Couple sessions attended | 8.1 (1.9) | 1.2 (2.4) | — | — | — | — |
+
+**The paragraph under the table.**
+
+> "At follow-up the programme group scored 4.1 points higher on the RDAS than the comparison group (95% CI 1.4 to 6.8,
+> p = 0.003, d = 0.35), an effect below the published minimal clinically important difference of 5 points. The
+> difference in trust was 2.7 points (95% CI 0.9 to 4.5, d = 0.42). The forgiveness difference was not clearly
+> estimated (95% CI −0.4 to 5.6). Attendance in the programme group averaged 8.1 of 10 sessions; the comparison group
+> attended a mean of 1.2 sessions over the same period, indicating that the groups differed in contact as well as in
+> content."
+
+**What the paragraph does.**
+
+- **It reports the estimate in the units of the measure first**, then the interval, then p, then d. A clinician can
+  stop after the first clause and know something.
+- **It compares the effect to the MCID in the same sentence.** This is the single most valuable sentence in the
+  results chapter and it is usually absent.
+- **It distinguishes "not clearly estimated" from "no effect"** for forgiveness, which is the correct reading of an
+  interval spanning zero.
+- **It reports the attendance asymmetry as a fact**, not as a limitation buried three paragraphs later. The comparison
+  group received almost no contact, so the study compares a programme with nothing, not with an active control, and
+  the reader is told.
+
+**The four things the table does not say, which the discussion must.**
+
+1. Whether the differences persisted beyond follow-up, which the design cannot tell.
+2. Whether the therapists delivering the programme differed in skill, which a therapist-level ICC would address.
+3. Whether the couples who dropped out (11 in the programme arm) were the ones not improving.
+4. Whether a 4.1-point difference, below the MCID, is worth the cost of ten sessions — a question the analysis cannot
+   answer and the discussion must.
+
+### 7.6a A short viva on the table in §7.6
+
+**EXAMINER:** Your adjusted difference is 4.1 points and your MCID is 5. What have you shown?
+
+**STUDENT:** That the programme group ended higher than the comparison group by an amount that is probably below the
+threshold couples notice, though the upper end of the interval reaches 6.8.
+
+**EXAMINER:** So the programme may or may not be clinically useful. Why report it as an effect at all?
+
+**STUDENT:** Because the responder analysis shows the odds of achieving the MCID were 2.4 times higher in the programme
+arm, and because a mean below the threshold is consistent with a subgroup who improved substantially.
+
+**EXAMINER:** What would have made the study conclusive?
+
+**STUDENT:** A larger sample, an active comparison group rather than a near-zero-contact control, and a longer
+follow-up. And pre-registration of the responder threshold so that it was not chosen after seeing the data.
+
+**EXAMINER:** Your comparison group attended 1.2 sessions. What does that do to the claim?
+
+**STUDENT:** It makes the comparison one of programme against almost nothing; the study shows that the programme is
+better than no contact, not that it is better than another treatment.
+
+**EXAMINER:** One more. Your table reports no deterioration.
+
+**STUDENT:** It is in Appendix E; four couples in the programme arm and two in the comparison arm deteriorated by the
+RCI. I should have put it in the main table, and I will.
+
+**What the exchange teaches.** The student survived because she knew three things beyond her own numbers: the
+threshold and its provenance, the responder analysis, and the deterioration cell. A results chapter built around those
+three is very hard to dismantle.
+
+### 7.7 Lab: from raw data to a results table
+
+**Aim.** Produce a descriptive table, one comparison, and one effect size with an interval, from open data, with every
+decision recorded.
+
+**Materials.** A dataset with at least one outcome and one grouping variable (your own pilot data, or a public
+dataset); statistical software; the effect size formulae from §7.4.
+
+**Steps.**
+
+1. **Open the dataset and count.** Rows, columns, unique identifiers, and the number of missing cells per variable.
+   Write these numbers down before anything else.
+2. **Classify every variable** as continuous symmetric, continuous skewed, count, ordinal or categorical. Record the
+   classification; it determines every later choice.
+3. **Build the descriptive table** with the six columns of §7.2a. Include the range and the missingness note.
+4. **Inspect two distributions graphically** — one symmetric and one skewed — and write one sentence on what the
+   figure shows that the mean does not.
+5. **Choose your comparison** and write the reason: two groups or more; independent or paired; parametric or not.
+6. **Check the three assumptions** you can check and state the two you cannot.
+7. **Run the test** and record the statistic, degrees of freedom, p and the group summaries.
+8. **Compute the effect size and its interval.** Where software does not provide the interval, compute it by hand or
+   bootstrap it.
+9. **Write the three-sentence result**: estimate in units, interval, effect size with interpretation against the MCID.
+10. **Redraw one published table** from a paper in your field so that it carries n, spread and an interval.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Counts and missingness established first | 3 | Numbers reported for every variable, not only the outcome |
+| Variables correctly classified | 3 | Skewed variables given median and IQR |
+| Descriptive table complete | 4 | Six columns, ranges, notes, no unexplained blanks |
+| Test choice justified | 3 | Justification refers to the question and the data structure |
+| Effect size with interval | 4 | Interval computed or bootstrapped, interpreted in units |
+| Three-sentence result | 3 | Includes the MCID comparison or states that none exists |
+
+**Fail conditions.** A p-value without an effect size. A mean and SD for income. A test chosen from the menu because
+the variable was continuous. A result reported as "significant" without saying of what size.
+
+**The closing paragraph of the results chapter.** One paragraph that names the primary finding with its interval and
+its distance from the threshold, the secondary findings in order of certainty, the harms and dropout, and a single
+sentence on what the analysis cannot tell. Written last, read first by most examiners, and the only paragraph that
+needs to be perfectly true.
+
+### 7.8 Six analysis errors that survive examination
+
+**Error 1 — The test that answered a different question.** A t-test comparing programme and control answers "is there
+a difference in means". The chapter claims to have evaluated whether the programme helps couples. The gap between the
+two sentences is the error, and it is closed by reporting size, interval, MCID and responder counts.
+
+**Error 2 — Significance without magnitude.** "p < 0.01" as the entire result. The reader cannot tell whether the
+effect is large, trivial, or an artefact of 400 participants.
+
+**Error 3 — The mean for a skewed variable.** Household income reported as mean ± SD, producing a "typical" income no
+household in the sample has, and an SD larger than the mean.
+
+**Error 4 — Many tests, no correction, no acknowledgement.** Twelve comparisons, two significant at 0.05, reported as
+findings. With twelve tests, one false positive is expected.
+
+**Error 5 — The within-group change presented as an effect.** "Satisfaction improved significantly from baseline"
+with no comparison group. Regression to the mean and natural fluctuation produce this result in almost any sample.
+
+**Error 6 — The missing deterioration.** Improvement rates reported, deterioration rates not, though both were
+computed. This is the error with ethical weight: a programme that harms one couple in twenty should say so.
+
+> **CAUTION** — *The table that was too good.* A student's descriptive table showed every variable with a mean, an SD,
+> and a range that contained no outliers in a sample of 240. Her supervisor asked to see the raw file. Two variables
+> had been winsorised at the 5th and 95th percentile without a note, three cases had been deleted as "outliers" on the
+> basis of the outcome, and one income value had been divided by ten. Each decision was defensible on its own; together
+> they made the data look calmer than they were, and the note explaining them was written after the supervisor asked.
+> Data cleaning is a set of decisions, and the decisions belong in the appendix, dated, before the analysis.
+
+### 7.8a An audit of a results chapter, paragraph by paragraph
+
+**Paragraph 1 — description.** Are all variables described, including the ones that will not be analysed? Is
+missingness reported? If a variable is skewed, is the mean still there?
+
+**Paragraph 2 — the primary comparison.** Is the estimate given in units before the test statistic? Is the interval
+present? Is the effect size interpreted, or merely labelled "moderate"?
+
+**Paragraph 3 — secondary outcomes.** Are they labelled secondary? Is any correction for multiple testing applied or
+its absence acknowledged? Is a non-significant secondary outcome reported as "no effect" or as "not established"?
+
+**Paragraph 4 — subgroup analyses.** Were the subgroups specified in advance? Is the number in each subgroup reported,
+and the interaction tested rather than inferred from differing significance?
+
+**Paragraph 5 — harms, deterioration and dropout.** Is the deterioration count present? Are the dropouts compared with
+the completers on baseline values?
+
+**Paragraph 6 — the summary sentence.** Does the chapter end with a sentence that could be read aloud to a clinician,
+containing an estimate, an interval and a threshold?
+
+**The audit score.** A chapter that answers all six carries 12–16 paragraphs of work in about six. Most drafts answer
+two and pad the rest, which is why the audit is worth doing before the supervisor does it.
+
+### 7.9 Culture, measurement and the politics of the average
+
+**The average couple does not exist.** A programme effect expressed as a mean difference describes a distribution, not
+a couple. In a setting where most couples improve a little and a minority deteriorate sharply, the mean can be
+positive while the modal experience is bad. The responder analysis is not a statistical refinement; it is the
+correction of a description that was never true of anyone.
+
+**Whose satisfaction is being averaged?** If only wives were interviewed (Week 4), the "couple satisfaction" mean is a
+mean of wives' reports. The results chapter must say so in the table's own note, not only in the limitations.
+
+**Imported benchmarks.** The MCID of 5 RDAS points was derived in Western clinical samples. Whether Nigerian couples
+notice a 5-point change, or a 3-point one, is an empirical question that a student can address with a small anchor
+study — asking a subsample whether they feel "a little better", "about the same" or "much better" and comparing those
+judgements to their change scores. That study is publishable and takes two weeks.
+
+**The reporting of harms.** In a context where a couple's participation may be known to their church, a programme that
+increases conflict at home before it decreases it can cause real damage. Reporting only the mean conceals the early
+deterioration that a clinical reader would want to know about.
+
+> **DEBATE** — *Should a thesis report the MCID comparison if the MCID comes from another country?* One position: yes,
+> with the source stated; a benchmark that may not transfer is still more informative than no benchmark. The other: no,
+> because a wrong benchmark creates a false impression of clinical significance. The resolution: report it, state its
+> provenance and the local uncertainty, and add a responder analysis at two thresholds — the imported MCID and a
+> locally defensible one.
+
+> **REFLECT** — Find the effect size in the last intervention paper you read. Ask: what would this mean for one couple
+> in front of me? If the answer is "nothing I could say to them", the paper has not finished its work, and neither has
+> your thesis unless you write the sentence that translates.
+
+**The sentence that makes the chapter professional.** Before the first table, a short paragraph stating what the
+analysis will show and in what order: the sample, the primary outcome, the secondary outcomes, the subgroup analyses
+and the harms. Three sentences, and the reader is oriented. Most results chapters begin with a table the reader has no
+way to situate, and the reader's first task becomes reconstructing the author's plan from the numbers.
+
+### 7.10 Evidence: what the analytical literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| p-values alone do not convey magnitude or precision | Established and widely endorsed in reporting guidelines | High | Require estimates with intervals in every results table |
+| Effect sizes can be converted among d, r and odds ratios, with assumptions | Established | High | Teach the conversions and their limits |
+| Published MCIDs exist for several couple and family measures, with variable provenance | Moderate; source samples differ | Moderate | Require the source and a statement of transferability |
+| Responder analyses are more clinically interpretable than mean differences | Consistent in trials methodology | High | Require a responder table alongside means |
+| Deterioration rates are under-reported in psychotherapy trials | Consistent finding in the literature | Moderate | Require the deterioration cell |
+| Multiple uncorrected comparisons inflate false positives | Established | High | Require correction or an exploratory label |
+| Non-parametric tests trade magnitude for robustness | Established | High | Require a magnitude estimate with rank tests |
+| Cluster-level effects (therapist, church) frequently exceed expectation | Consistent | Moderate | Ask about the level of analysis before the test |
+
+**One cell, expanded — the MCID problem in this setting.** Published MCIDs for the RDAS and DAS derive largely from
+Western clinical samples and were anchored on patient judgements of improvement. There is no established Nigerian MCID
+for either instrument. The consequence for a thesis is exact: the imported value may be reported if its source is
+stated and its transferability questioned, and a locally anchored estimate may be produced with a small subsample in
+two weeks. What is not acceptable is an invented threshold presented as a standard.
+
+### 7.11 Key terms
+
+**Descriptive statistic** — a summary of a variable's distribution: centre, spread, shape and range.
+
+**Mean and standard deviation** — the arithmetic average and the typical distance from it; appropriate for roughly
+symmetric data.
+
+**Median and interquartile range** — the middle value and the span of the middle half; appropriate for skewed data and
+counts.
+
+**Skewness** — the asymmetry of a distribution; positive skew indicates a long right tail, as with income.
+
+**Missingness** — the count and pattern of absent values; must be reported for every variable.
+
+**t-test** — a test comparing two means, independent or paired, against the uncertainty of their difference.
+
+**Analysis of variance (ANOVA)** — a test comparing three or more group means by the ratio of between-group to
+within-group variance.
+
+**Post hoc test** — a follow-up comparison after ANOVA, with a correction for multiple testing.
+
+**Chi-square test** — a test of association between categorical variables, comparing observed with expected counts.
+
+**Fisher's exact test** — an alternative to chi-square for small expected counts.
+
+**Type I error** — rejecting a true null hypothesis; its rate rises with the number of uncorrected comparisons.
+
+**Effect size** — the magnitude of a difference or association, expressed in standardised units or in the units of the
+measure.
+
+**Cohen's d** — a standardised mean difference; conventionally 0.2, 0.5 and 0.8 described as small, moderate and
+large.
+
+**Pearson's r** — a standardised measure of linear association.
+
+**Odds ratio** — the ratio of the odds of an outcome in one group to the odds in another.
+
+**Absolute risk reduction** — the difference in the proportion experiencing an outcome between two groups.
+
+**Number needed to treat (NNT)** — the reciprocal of the absolute risk reduction; the number treated for one
+additional outcome.
+
+**Minimal clinically important difference (MCID)** — the smallest change that matters to patients or clinicians,
+sourced from anchor studies, expert panels or distributional rules.
+
+**Reliable change index (RCI)** — change divided by the standard error of the difference; a test of whether an
+individual's change exceeds measurement error.
+
+**Responder analysis** — the comparison of the proportion in each group achieving a defined change threshold.
+
+**Deterioration rate** — the proportion whose scores worsened by a defined margin; must be reported alongside
+improvement.
+
+**Confidence interval** — the range of values compatible with the data at a stated probability; more informative than a
+p-value.
+
+**Forest plot** — a graphical display of estimates and intervals across studies or subgroups, often against a
+threshold line.
+
+**Winsorising** — replacing extreme values with the nearest retained value; a data decision that must be recorded.
+
+**Exploratory analysis** — an analysis not specified in advance; legitimate if labelled as such.
+
+### 7.12 Self-test
+
+1. Why is a mean inappropriate for household income, and what should replace it?
+2. What six columns should a descriptive table contain?
+3. A study reports t(42) = 1.73, p = 0.09, with a six-point difference and SDs near 11.5. Compute *d* and say what
+   determined the non-significance.
+4. Why is running four t-tests for four groups a problem, and what is the error rate?
+5. State the difference between statistical and clinical significance, with an example of each occurring alone.
+6. Compute the NNT given an improvement rate of 67 per cent in the treated group and 43 per cent in controls.
+7. What does a confidence interval of −0.10 to 0.42 permit you to claim, and what does it forbid?
+8. Explain the reliable change index and the question it answers.
+9. Why must a responder analysis be reported with the deterioration rate?
+10. Give the reporting sentence for a rank-based test, including the reason and the magnitude estimate.
+11. What is wrong with choosing between a t-test and a Mann–Whitney on the basis of which is significant?
+12. What must accompany an imported MCID in a thesis set in Nigeria?
+
+### 7.13 Answers
+
+1. Income is strongly right-skewed, so the mean is pulled upward by a few high values and describes no typical
+   household; report the median with the interquartile range, and the full range.
+2. Variable, n with missingness, centre, spread, range, and a note on missing or implausible values.
+3. *d* = 6/11.5 = 0.52, a moderate effect; the non-significance was determined by the small sample (22 per arm) and
+   hence the width of the standard error, not by the absence of an effect.
+4. Because six pairwise comparisons at alpha 0.05 give a family-wise error rate of 1 − 0.95⁶ ≈ 0.26, so a false
+   positive becomes likely.
+5. Statistical significance is about whether a difference is distinguishable from chance; clinical significance is
+   about whether it matters. Statistically significant but clinically trivial: a 1.9-point RDAS difference in 730
+   observations. Clinically important but not significant: a 9-point difference in 24 couples.
+6. Absolute risk reduction = 0.24; NNT = 1/0.24 ≈ 4.2, so about four couples treated for one additional improvement.
+7. It permits the claim that the data are compatible with effects from slightly negative to moderate, and that no
+   clear effect is established; it forbids the claim of no effect, and forbids a claim of benefit.
+8. RCI = (post − pre) / (SD<sub>pre</sub> × √(2(1 − r))); it answers whether an individual's change exceeds measurement
+   error, as distinct from whether the group mean moved.
+9. Because a programme can produce improvements in some couples and deterioration in others, and reporting only the
+   former misrepresents its effects and conceals harm.
+10. "Because change scores were markedly skewed, groups were compared with Mann–Whitney U; the median difference was
+    3.0 points (95% CI 0.5 to 5.4)."
+11. It is choosing a result rather than a test; the decision must follow from the measurement level and the
+    distribution, and the choice must be visible in the analysis plan.
+12. Its source sample, a statement that transferability is uncertain, and ideally a locally anchored estimate from a
+    subsample judgement study.
+
+### 7.14 Reflection and preparation for Week 8
+
+> **REFLECT** — Write the single sentence you would want a clinician to remember from your results, using an estimate,
+> an interval and a threshold. If you cannot write it, your analysis has produced numbers but not a finding, and Week
+> 8 is where the finding gets built.
+
+**Preparation task.** Bring to Week 8 a published regression table from a family study, a copy of your own outcome and
+predictor variables with their scales of measurement, and a one-sentence causal claim you would like to make. Week 8
+concerns modelling, confounding and the difference between association and causation — and the sentence you bring will
+be examined against the design that produced it.
+
+*Next: Week 8 — Quantitative analysis II: regression, confounding, moderation and mediation.*
 
 ---
 
