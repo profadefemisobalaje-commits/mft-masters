@@ -2306,25 +2306,743 @@ the sentence; a few change the design, and those are the ones who finish with a 
 
 ---
 
-## Week 4 — Sampling
+## Week 4 — Sampling: who is in, who is out, who never comes
 
-**The uncomfortable fact.** Clinical samples are almost never representative. Families who attend are
-different from families who are referred and do not attend, and those are different again from families
-who are never referred. Your findings describe *attenders*, not *families*.
+**Learning outcomes.** By the end of this week the student can (1) explain why clinical samples are almost never
+representative and what that means for the wording of a conclusion; (2) choose between probability and
+non-probability sampling on the basis of the claim she wants to make; (3) identify the participant within a family
+and defend the choice; (4) conduct a power calculation for a simple comparison and state its assumptions; and (5)
+justify a qualitative sample size without invoking saturation as a magic word.
 
-**Probability sampling** (random, stratified, cluster) permits generalisation. **Non-probability sampling**
-(convenience, purposive, snowball, quota) does not — and this is fine, if you say so.
+### The uncomfortable fact
 
-**In family research specifically:**
+Clinical samples are almost never representative, and the reason is not carelessness. A sample drawn from a clinic is
+a sample of families who were referred *and* attended *and* continued *and* were recorded. Each of those filters
+removes a different kind of family, and the filters are not random: the family that attends has the money for
+transport, the household that can spare an adult for two hours, the parents who believe that a stranger can help,
+and the child whose school allowed the absence.
 
-- **Who is the participant?** Mother, father, child, whole family, or the therapist's rating of the family?
-- **Who refuses?** Fathers are the most common absence in family research and in family therapy. A study
-  that reports "family functioning" from mothers' reports is a study of mothers.
-- **Sample size.** For quantitative work, do a power calculation before you collect (software: G*Power, or
-  the pwr package in R). For qualitative work, plan for saturation and state how you will judge it.
+The practical consequence is a discipline of language. A study of clinic attenders may conclude something about
+*clinic attenders*; it may not conclude something about *families*, and the abstract must say which. Most of the
+overclaiming in the family literature is not statistical; it is a study of attenders described as a study of
+families.
 
-> **TASK** — Critique the sample in any published Nigerian family study: who was included, who was
-> excluded, and what does the exclusion do to the conclusions?
+| The population the student imagines | The population actually sampled | The difference |
+|---|---|---|
+| "Families in Ibadan" | Families who attended one clinic in the last year | Access, income, referral route, belief in therapy |
+| "Couples with marital difficulties" | Couples in which one partner agreed to come | Motivation, severity, gender dynamics |
+| "Adolescents with depression" | Adolescents whose parents sought help and who consented | Parental recognition, severity, family resources |
+| "Fathers' views on therapy" | Fathers who attended at least once | The fathers who never attended are the question |
+
+**Probability sampling** — simple random, systematic, stratified, cluster — permits generalisation because every
+member of a defined population has a known chance of selection. It requires a sampling frame, which is why it is rare
+in family services: the frame would have to list every family, including those who never present.
+
+**Non-probability sampling** — convenience, purposive, snowball, quota — does not permit generalisation, and this is
+entirely acceptable where the claim is descriptive or explanatory rather than inferential. The rule is not "use
+probability sampling"; it is "describe the sample accurately, and make the claim the sample supports".
+
+**Four questions specific to family research.**
+
+- **Who is the participant?** The mother, the father, the child, the whole family as a unit, or the therapist's
+  rating of the family? Each answers a different question and produces a different claim.
+- **Who refuses, and what do they have in common?** Fathers are the most common absence in family research and in
+  family therapy. A study that reports "family functioning" from mothers' reports is a study of mothers' reports,
+  and saying so is not a limitation to be buried in the discussion but a fact to be stated in the abstract.
+- **How large must the sample be?** For quantitative work, a power calculation before collection, with its
+  assumptions stated. For qualitative work, a sampling strategy and a stated criterion for stopping.
+- **What is the unit?** The individual, the dyad, the family or the service. The unit determines the analysis (Week
+  6) and the sample size, and studies routinely collect at one level and analyse at another.
+
+### 4.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | The four filters: referred, attended, continued, recorded | Four studies, students identify the filter each ignores |
+| 10–25 | Probability against non-probability, and the claim each supports | Lecture with two sampling frames drawn on the board |
+| 25–40 | Who is the participant in a family? Five choices, five claims | Case, students choose and defend |
+| 40–55 | The missing father, and what his absence does | Data from a real clinic audit; students compute the distortion |
+| 55–72 | Power: a worked calculation, on paper, with assumptions | Whole-group calculation, then pairs with their own numbers |
+| 72–85 | Qualitative sampling: purposive, snowball, quota, and the stopping rule | Students write their own sampling paragraph |
+| 85–90 | The sentence that must appear in the abstract | Written and collected |
+
+### 4.2 Five concepts that organise the week
+
+**Concept 1 — A sampling frame is a list, and a list is a political object.** Who appears on the clinic register, who
+appears on the church roll, who appears on the school list: each list encodes a set of decisions about who counts.
+The study inherits those decisions, and the proposal should say so.
+
+**Concept 2 — The people who are missing are usually the people the question is about.** Fathers, refusers,
+non-attenders, families without a telephone, households where the woman cannot speak to a stranger alone. A sample
+is defined as much by its exclusions as by its inclusions, and the exclusions should be reported as findings.
+
+**Concept 3 — Sample size is an argument, not a number.** For a comparison, the argument is a power calculation with
+stated assumptions about effect size, variability and attrition. For a qualitative study, the argument is about the
+sampling strategy, the homogeneity of the group, and the point at which further interviews stop producing new
+material — which must be defined in advance, not asserted afterwards.
+
+**Concept 4 — The unit of sampling and the unit of analysis must be the same, or the study must say why not.** A
+study that samples families and analyses individuals has made the Week 6 error at the design stage. A study that
+samples individuals and makes claims about families has made a different error with the same origin.
+
+**Concept 5 — Sampling is where the ethics and the method meet.** Who is asked, who is pressured, who is paid, who is
+excluded because they cannot consent in the language of the study: each of those is an ethical decision that is also
+a sampling decision, and the proposal must show that both were considered.
+
+**Concept 6 — Sampling ends when the analysis begins, not when the fieldwork does.** Every statement in the
+results chapter inherits the sample's boundaries, and the examiners will read the results against the methods. A
+defensible thesis is one in which the claim in the conclusion could be traced back, sentence by sentence, to a
+population that was actually sampled.
+
+### 4.2a Probability sampling, in the four forms a student might actually use
+
+**Simple random sampling.** Every member of the frame has an equal chance. Requires a complete list and a random
+mechanism. In a clinic study the frame is the register, and the practical obstacle is that a third of the telephone
+numbers are out of date.
+
+**Systematic sampling.** Every *n*th name on the list, with a random start. Simpler than simple random and vulnerable
+to periodicity: if the list is ordered by appointment date and every *n*th appointment falls on a Saturday, the
+sample is a sample of Saturdays.
+
+**Stratified sampling.** Divide the frame into groups — sex, referral source, distance from the clinic — and sample
+within each. It guarantees representation of the strata and requires the strata to be known in advance. In family
+research the most useful stratification is usually by referral source, because referral source predicts attendance.
+
+**Cluster sampling.** Select whole clusters — schools, clinics, compounds — and sample within them. It is the design
+for a population without a list, and it costs precision: families within a cluster are more similar to each other
+than to families in another cluster, which must be accounted for in the analysis.
+
+**The sample size consequence of cluster sampling.** The design effect: the variance is inflated by a factor related
+to the intra-cluster correlation, which means a cluster sample of 200 families may carry the information of a simple
+random sample of 120. A proposal using clusters must state the design effect or acknowledge that it has not.
+
+**When a student can realistically use probability sampling.** Almost only with a complete administrative list and a
+small, well-defined population: a school's register, a clinic's list of all couples seen in a year, a programme's
+cohort. That is enough for a defensible thesis, and it is more than most published studies in this field achieve.
+
+### 4.3 Non-probability sampling: the four forms and the claim each supports
+
+**Convenience sampling.** Whoever is available. Fast, cheap, and honest only if called what it is. The correct
+description is "a convenience sample of couples attending a church-based programme in Ibadan between March and
+June", not "couples in Ibadan".
+
+**Purposive sampling.** Participants chosen because they can speak to the question. It has sub-forms worth naming: *criterion* (everyone who meets a defined criterion), *maximum variation* (deliberately including the extremes so that the range of experience appears), *typical case* (the ordinary instance, chosen to describe the norm), *deviant case* (the exception, chosen to test a theory), and *theory-based* (the next case chosen to fill the gap in an emerging theory).
+
+**Snowball sampling.** One participant recruits others. Essential where the population is hidden — same-sex couples, families in which a member has been violent, therapists in a small specialty. Its bias is structural: networks recruit the well-connected and the willing, and a snowball sample is a sample of social circles.
+
+**Quota sampling.** Fixed numbers in each category — twenty fathers, twenty mothers, ten from each religion, four per referral source — filled by convenience. It looks like stratification and is not, because the selection within each cell is not random. It is nonetheless a reasonable way to prevent the most common distortion in family research, which is a sample that is almost entirely mothers.
+
+| Form | Basis of selection | Claim it licenses | Typical use in family research |
+|---|---|---|---|
+| Simple random | Random mechanism on a full frame | Estimate for the defined population | Clinic audit of all couples seen in a year |
+| Stratified | Random within known groups | Estimate within each group, with guarantees | Over-sampling fathers or referral sources |
+| Cluster | Random selection of whole units | Estimate with a stated design effect | School or community studies |
+| Convenience | Availability | Description of those who came | Church or clinic programme evaluation |
+| Purposive | Relevance to the question | Explanation and depth | Experiences of disclosure, separation, violence |
+| Snowball | Peer referral | Hidden populations, with network bias stated | Stigmatised or small populations |
+| Quota | Fixed cells, convenience within | Balanced description, not estimation | Ensuring fathers and mothers are both present |
+
+### 4.4 Who is the participant? The five choices and the five claims
+
+The same clinical question has five defensible designs, and each produces a different sentence in the findings.
+
+1. **One parent reports on the family.** Claim: the mother's perception of family functioning. Design: individual
+   interview or self-report from mothers. Weakness: a mother's report is not a family's functioning.
+2. **Both parents report separately.** Claim: convergence and divergence between parents. Design: dyadic data,
+   analysed with the dependence acknowledged (Week 6). Strength: divergence is a finding, not a nuisance.
+3. **The child reports.** Claim: the child's experience. Design: age-appropriate interview. Ethics: consent, assent,
+   safeguarding, and the risk that the parent reads the transcript.
+4. **The family is observed together.** Claim: interaction as observed in one setting. Design: recorded task.
+   Weakness: the observation is a sample of behaviour under observation, and the family knows it.
+5. **The therapist rates the family.** Claim: the clinician's formulation. Design: rating scale after sessions.
+   Weakness: the rating measures the clinician as much as the family, and inter-rater reliability becomes the
+   question.
+
+**The design implication.** Choosing one of these is not a technical decision. A study of "communication in
+distressed couples" that samples mothers and asks them to describe communication is a study of mothers' descriptions
+of communication. That is a legitimate study, and it must be titled as one.
+
+> **CASE** — *The study that was about mothers.* A masters student in Ibadan proposed to study "family communication
+> patterns in homes with an adolescent who has dropped out of school". Her plan: 60 families, one interview each.
+> In the field, the person who came to the interview was the mother in fifty-four of the sixty homes, and in the
+> remaining six it was a grandmother or an aunt. Fathers were at work, or considered the matter the mother's, or
+> declined. Her first draft reported "family communication patterns" throughout.
+
+> **CASE** — *What her supervisor asked.* One question: "In how many of these homes did anybody other than a woman
+> speak to you?" The answer was none. The supervisor did not ask her to restart. She asked her to do three things:
+> retitle the study as a study of mothers' accounts; add a paragraph to the methods explaining why fathers were
+> absent and what that absence means for the claim; and try, in the last ten homes, to reach fathers by telephone
+> in the evening, reporting what happened when she did. In seven of the ten she reached a father. Those seven
+> conversations were the most interesting material in the thesis, and they were not in the original design.
+
+> **CASE** — *The number she could not defend.* The final sample was 64 mothers, 7 fathers and 3 grandmothers. Her
+> examiner asked how she had arrived at 60 homes. She said: "It was what was feasible." That answer is defensible
+> for a qualitative study with a saturation argument, and indefensible for the percentage comparisons she had put
+> in her results chapter. She had, in effect, made a probability-sampling claim from a convenience sample of women.
+
+> **CASE** — *The repair.* The thesis was restructured in five moves. The title changed to *Mothers' accounts of
+> communication in homes where an adolescent has left school: a qualitative study in Ibadan*. The 74 participants
+> were described in a single table with sex, relationship to the adolescent, religion, and how each was recruited.
+> The seven fathers became a short comparative section rather than a footnote. All percentages were replaced by
+> counts and illustrative quotations. And the discussion gained a paragraph headed "Whose voice is missing", which
+> the examiners cited as the strongest part of the work.
+
+**The transferable lesson.** Most sampling problems in student work are not solved by collecting more; they are
+solved by describing accurately, and by turning the absence into a reported finding rather than a private
+embarrassment.
+
+### 4.5 Sample size for a comparison: the calculation, done on paper
+
+A power calculation answers a narrow question: how many participants would be needed, under stated assumptions, for
+a test to detect a difference of a stated size with a stated probability. It is not a ritual. Each of its four
+inputs is a judgement that the proposal must defend.
+
+**The four inputs.**
+
+- **Effect size.** How large a difference matters? For a mean difference this is expressed in standard deviation
+  units (Cohen's *d*); for a correlation, as *r*; for proportions, as the difference between them. Use the smallest
+  difference that would change practice, not the largest found in a pilot.
+- **Standard deviation (or variability).** From a pilot, from the literature, or from a published Nigerian sample.
+  If none exists, state the assumption and run the calculation twice, at the low and high plausible value.
+- **Alpha.** Usually 0.05, two-tailed. Justify any departure.
+- **Power.** Usually 0.80, sometimes 0.90 where the consequence of missing an effect is serious.
+
+**The worked calculation, with real numbers.** A student tests whether a ten-session couples programme reduces
+Dyadic Adjustment Scale scores more than a waiting list. She assumes a between-group difference of 8 points at
+follow-up, a standard deviation of 15 points (from a Nigerian validation study), alpha 0.05 two-tailed, power 0.80.
+The standardised effect is 8/15 = 0.53. The required number per group from the standard formula is approximately
+
+> n per group = 2(z<sub>α/2</sub> + z<sub>β</sub>)² / d² = 2(1.96 + 0.84)² / 0.53² = 2(7.84) / 0.281 ≈ 56
+
+**Then the corrections that students forget.**
+
+- **Attrition.** Couples programmes lose 20–30 per cent by follow-up. At 25 per cent, 56 requires 75 per group.
+- **Design effect.** If couples are recruited through four churches and the analysis accounts for clustering with an
+  intra-class correlation of 0.05 and an average cluster size of 20, the design effect is 1 + (20 − 1)(0.05) = 1.95,
+  which nearly doubles the requirement.
+- **The unit.** If the unit of analysis is the couple, the couple is the unit for the calculation, not the individual.
+  A study that says "150 participants" when it means 75 couples has mis-stated its power.
+
+**What to write in the proposal.** A single paragraph: the effect size and where it came from; the alpha and power;
+the resulting number; the attrition allowance; the design effect if any; and the final target with the recruitment
+plan that will reach it. Six sentences, no more, and every number sourced.
+
+### 4.5a A second calculation: comparing two proportions
+
+Not every family study compares means. A student evaluates whether a six-session psychoeducation programme increases
+the proportion of fathers who attend at least one clinic appointment. In the control condition, 20 per cent of
+fathers attend; she wants to detect a rise to 45 per cent.
+
+**The inputs.** p1 = 0.20, p2 = 0.45, alpha 0.05 two-tailed, power 0.80. The standard formula for two proportions
+gives approximately
+
+> n per group = (z<sub>α/2</sub> + z<sub>β</sub>)² [p1(1 − p1) + p2(1 − p2)] / (p2 − p1)²
+> = 7.84 [0.16 + 0.2475] / 0.0625 = 7.84(0.4075) / 0.0625 ≈ 51
+
+**Then the same corrections.** Fifty-one families per arm before attrition; at 20 per cent loss, 64 per arm. And
+because families are recruited through four clinics with an average of 16 families each and an intra-class
+correlation of 0.03, the design effect is 1 + 15(0.03) = 1.45, bringing the target to about 93 families per arm.
+
+**The judgement inside the number.** A rise from 20 to 45 per cent is a large effect, and the student should ask
+whether it is plausible. A programme that roughly doubles paternal attendance in a setting where attendance is
+structured by working hours and by the assumption that the mother handles the child's schooling is an ambitious
+programme. If the realistic rise is from 20 to 30 per cent, the required sample per arm roughly triples, and the
+study becomes a multi-site trial — which is the honest conclusion, and the one a supervisor wants to hear at the
+proposal stage rather than at the analysis stage.
+
+**What this second calculation establishes.** The formula is trivial and the judgement is not. Every number in a
+power calculation is a claim about the world: how common the outcome is, how much it can move, how much of the
+movement this programme could produce. A proposal whose power calculation says "assuming a large effect" without
+arguing for the largeness has not done the work.
+
+### 4.6 Sample size for a qualitative study: what saturation actually means
+
+Saturation is the point at which additional data stop producing new codes, themes or insights. It is a property of
+the analysis, not of the sample size, and it cannot be known in advance with certainty. What can be known in advance
+is the *plan*: the sampling strategy, the homogeneity of the group, the breadth of the question, and the criterion
+the researcher will use to judge that further interviews are unproductive.
+
+**Four legitimate ways to justify a qualitative sample.**
+
+1. **Information power.** The more specific the aim, the denser the sample's relevance to it, the stronger the
+   theory, the better the dialogue quality and the narrower the analysis, the fewer participants are needed. State
+   each of those five judgements for your own study.
+2. **A prior range from the literature**, with the citation, and a statement of where in that range this study sits.
+3. **A stopping rule defined in advance**: for example, "recruitment will continue until three consecutive
+   interviews produce no new codes, with a minimum of twelve and a maximum of twenty-five."
+4. **A design-based number**: phenomenology typically 6–12 for a homogeneous group; a grounded theory of a process
+   may need 20–30; a multi-case study 4–8 cases with several interviews each.
+
+**What is not a justification.** "Qualitative research does not require sample size calculation." It does not
+require a power calculation; it requires an argument, and a reader can tell the difference.
+
+> **PRACTICAL** — *Three numbers, three sentences.* Each student writes three sentences about their own intended
+> sample: (a) the number and what it is a number *of*; (b) the basis on which the number was chosen, named — power
+> calculation, information power, prior range, or stopping rule; (c) the sentence in the abstract that will describe
+> the sample honestly. The three sentences are read aloud and the class votes on which is the most honest. In every
+> cohort, the winning sentence contains the word "attending" or "referred" or "who agreed".
+
+### 4.7 Recruitment arithmetic: from the population to the analysed sample
+
+Every study has a chain of numbers, and each link loses people. Writing the chain out is the single most useful
+planning act in a proposal, because it shows at a glance whether the study is feasible.
+
+**A worked chain.** The student needs 75 couples per arm, two arms, 150 couples.
+
+| Stage | Number | Loss | Why |
+|---|---|---|---|
+| Couples on the church programme lists | 640 | — | Four churches, 2019–2024 registers |
+| Reachable by telephone | 480 | 160 | Changed numbers, relocation |
+| Screened and eligible | 310 | 170 | Separated, moved abroad, did not meet criteria |
+| Consented | 186 | 124 | Refused, one partner refused, no time |
+| Attended first session | 164 | 22 | Dropout before starting |
+| Completed programme | 132 | 32 | Attrition during |
+| Provided follow-up data | 118 | 14 | Lost at follow-up |
+
+The study needs 150 couples and the chain yields 118. That is a finding at the design stage, and it changes the
+design: extend to six churches, extend the recruitment window, or relax the effect size assumption and state the
+reduced power honestly. What is never acceptable is to proceed and report a null result as if the study had been
+adequately powered.
+
+**The reverse calculation.** If the number of available participants is fixed — a programme with 90 couples — run
+the power calculation backwards to find the smallest detectable effect, and say so: "with 90 couples the study can
+detect a difference of *d* = 0.60 at 80 per cent power; smaller effects will not be detectable and will be reported
+as inconclusive rather than as absent." That sentence is worth more than a fabricated 0.80.
+
+### 4.8 The missing father: a sampling problem with a theory behind it
+
+Fathers are the most common absence in family research and in family therapy across settings, and the reasons are
+not mysterious. Referral routes favour the person who brings the child. Service hours favour the parent who is not
+in paid work. The invitation is often addressed to "the mother of". And in many settings the father's role in
+child-rearing is construed as providing rather than attending.
+
+**Three ways to handle it, in ascending order of quality.**
+
+1. **Ignore it**, and describe the sample as "parents". This is the most common and the least defensible.
+2. **Report it** — "of the 74 participants, 8 were fathers" — and discuss the implication for the claims.
+3. **Design for it** — evening or weekend appointments, separate interviews, telephone or video options, recruitment
+   through the father's own networks (workplace, mosque, church men's group, market association), and a sampling
+   frame that begins from the household rather than from the clinic.
+
+**The theoretical point.** If the father's absence from the clinic is itself a feature of the phenomenon — a
+statement about how families in this setting distribute responsibility for a child's difficulty — then a study of
+mothers is not a defective study of families but a *valid study of a gendered help-seeking process*. That
+reframing is the intellectual move that turns a limitation into a contribution, and it requires the researcher to
+know the literature on help-seeking rather than only the literature on the presenting problem.
+
+### 4.9 Bias, and the four kinds that live in sampling
+
+**Selection bias.** The sample differs systematically from the population on something related to the outcome.
+Volunteer bias, referral bias, survival bias (studying only couples who stayed together), and left-censoring (the
+clinic only sees families after the problem has become severe).
+
+**Coverage bias.** Some of the population has no chance of selection: households without phones, families outside
+the catchment, people who do not speak the language of the instrument.
+
+**Non-response bias.** Those who decline differ from those who accept. The size of the bias depends on the
+difference times the response rate; a study with a 30 per cent response rate can have an enormous bias from a small
+difference.
+
+**Attrition bias.** Those who leave a longitudinal study differ from those who stay, and they usually differ in the
+direction of the outcome — the families who deteriorate are the ones who stop attending.
+
+**The diagnostic habit.** For each of the four, ask: in which direction would this bias move my estimate, and by how
+much? A proposal that names the direction and the reason is stronger than one that lists "limitations" without
+thinking about the sign.
+
+### 4.9a Attrition, worked out with a table a student can actually build
+
+Attrition is not a single event. It is a set of distinct exits, each with a reason, and the reasons matter more than
+the total. A student following 90 couples over six months should keep a table of this shape from the first week of
+fieldwork.
+
+| Exit point | Couples lost | Stated reason | What the loss does to the estimate |
+|---|---|---|---|
+| Baseline to session 3 | 11 | Work travel, relocation | Removes the more mobile, slightly better-off couples |
+| Session 3 to session 6 | 9 | Separation, one partner withdrew | Removes the most distressed; inflates satisfaction scores |
+| Session 6 to follow-up | 6 | Unreachable by telephone | Unknown direction; requires a tracing attempt |
+| Refused follow-up | 4 | No reason given | Unknown direction |
+| **Total** | **30 of 90 (33 per cent)** | | Analysis sample 60 |
+
+**Three habits that follow from this table.**
+
+**Compare the leavers with the stayers.** At baseline the study has a satisfaction score for every couple. The
+difference between the baseline scores of those who completed and those who left is the best available estimate of
+the direction of attrition bias, and it costs nothing to compute.
+
+**Trace before you write the limitation.** Six couples unreachable by telephone may be reachable through the church
+register, a neighbour, or a home visit. The number written into the limitation should be the number after tracing,
+not before.
+
+**Report the analysis sample, not the recruited sample, in the results.** A study that reports 90 couples in the
+abstract and analyses 60 has mis-stated its own power, and the mis-statement usually survives into the discussion.
+
+**The intention-to-treat question.** For a programme evaluation, analysing only those who completed answers a
+different question from analysing everyone allocated: the first is the effect of *receiving* the programme, the
+second the effect of *offering* it. Both are legitimate, they must be labelled, and for a family programme the
+effect of offering is usually the one a policymaker wants.
+
+### 4.10 An annotated methods paragraph, good and bad
+
+**The bad version.**
+
+> "A sample of 100 couples was randomly selected from the community. Couples were interviewed about their marital
+> satisfaction using a standard questionnaire. Ethical approval was obtained."
+
+Six problems in three sentences: "randomly selected from the community" without a frame; "couples" without saying
+whether both partners were interviewed; "community" undefined; "standard questionnaire" unnamed; the analysis unit
+unstated; and "ethical approval was obtained" without naming the body or the consent process.
+
+**The good version.**
+
+> "Participants were 74 mothers of adolescents who had left secondary school in the previous three years, recruited
+> from the attendance registers of three government secondary schools in Ibadan North between March and July 2025.
+> All 212 mothers on the registers were approached by telephone; 74 (35 per cent) agreed and completed an
+> interviewer-administered questionnaire at the school. Mothers who declined did not differ from participants in the
+> adolescent's sex or school (p = 0.4) but were more likely to be in paid employment (p = 0.03). Fathers were not
+> interviewed: the register records only one contact per household, which in 91 per cent of cases was the mother, and
+> this is discussed as a limitation and as a finding about help-seeking. The unit of analysis is the mother."
+
+**What the good version does, sentence by sentence.** Names the participants and their relationship to the index
+person; names the frame and the period; gives the denominator and the response rate; reports a non-response check;
+states the father's absence with a reason and frames it as knowledge; and states the unit of analysis. It is twelve
+lines long and it does more methodological work than most published methods sections.
+
+> **DRILL** — *Rewrite the sentence.* Take any published Nigerian family study available to you and rewrite its
+> sampling paragraph in the six-part form above: participants, frame, period, denominator and response rate,
+> non-response check, unit of analysis. Where the original does not supply a part, write "[not reported]" and count
+> how many parts are missing. In a class of twenty students doing this exercise on twenty papers, the mean number of
+> missing parts is between three and four, and the paper that reports all six is the exception.
+
+### 4.11 Lab: build your sampling plan
+
+**Aim.** Produce a one-page sampling plan for your own proposed study that a supervisor can approve or reject
+without asking a further question.
+
+**Materials.** Your research question from Week 2, your design from Week 3, a calculator or R, and the recruitment
+arithmetic table from §4.7.
+
+**Steps.**
+
+1. **Write the claim you intend to make, in one sentence.** It must name the population and the verb: estimate,
+   describe, explain, compare.
+2. **Name the population twice** — the population you are studying and the population you can actually reach. Write
+   the second one on the same line, in brackets.
+3. **Name the frame.** What list, register, roll or network will you draw from, who maintains it, and what does it
+   omit?
+4. **Choose the sampling method** and write the single sentence that justifies it against your claim.
+5. **Decide the participant** — mother, father, both, child, family, clinician — and write the claim that choice
+   supports and the claim it forbids.
+6. **Compute the number.** Quantitative: effect size, alpha, power, attrition, design effect. Qualitative: strategy,
+   information power or stopping rule, expected range.
+7. **Draw the recruitment chain** with a number at every stage, from frame to analysed sample.
+8. **Name the four biases** and the direction of each.
+9. **Write the abstract sentence** describing the sample honestly.
+10. **Have a peer mark it** against the six-part form in §4.10.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Claim and population stated, twice | 3 | The reachable population is named and the gap acknowledged |
+| Frame described with its omissions | 3 | Names the list-keeper and at least two omissions |
+| Method justified against the claim | 3 | The justification would not work for a different claim |
+| Participant choice defended | 3 | Both the licensed and the forbidden claim are stated |
+| Number computed with assumptions | 4 | Every input has a source or an explicit assumption |
+| Recruitment chain complete | 2 | Numbers at every stage, and they reconcile |
+| Biases named with direction | 2 | Direction argued, not merely listed |
+
+**Fail conditions.** A number with no argument. "Random" without a frame. A qualitative study justified by
+"qualitative research does not need sample size". An abstract sentence that says "families" when the sample was
+mothers.
+
+### 4.12 Six sampling errors that survive examination
+
+**Error 1 — Random without a frame.** "Participants were randomly selected" when what happened was that the
+researcher approached whoever was present and did not choose. Randomness is a mechanism, not a mood.
+
+**Error 2 — The availability fallacy.** Using the sample you could get and writing the conclusion for the sample you
+wanted. The tell is an abstract noun in the title — "families", "couples", "adolescents" — and a methods section
+full of "attending".
+
+**Error 3 — Power calculated after the fact.** Observed power, or "post hoc power", is a transformation of the
+p-value and adds nothing. Power belongs before collection, or in the discussion as a limitation about the design.
+
+**Error 4 — Saturation asserted.** "Saturation was reached after twelve interviews" with no account of what was
+saturated, how it was judged, or who judged it. Either describe the judgement or describe the stopping rule.
+
+**Error 5 — Unit confusion.** Sampling individuals, analysing individuals, concluding about families. The most
+common form is the mother who reports the family.
+
+**Error 6 — The invisible refusal.** A response rate reported as a sample size: "the sample was 120 couples" when
+380 were approached. The denominator is part of the finding.
+
+> **CAUTION** — *The convenience sample that became a prevalence estimate.* A church counselling unit published that
+> "34 per cent of couples in Ibadan experience severe marital distress", based on 210 couples who attended a
+> marriage seminar and completed a questionnaire. The number was quoted in a national newspaper. The study had
+> measured the distress of couples who chose to attend a marriage seminar, which is not a prevalence estimate and
+> could not be, and the correction cost the unit more credibility than the original claim had earned.
+
+### 4.13 Culture, kinship and the ethics of who gets asked
+
+Sampling in Nigerian family research runs through kinship, and kinship changes what a sample means.
+
+**The household is not the family.** A compound may contain three generations, several wives, foster children and
+wards. Deciding who counts as a household member is a sampling decision, and the answer affects every rate computed.
+
+**Permission flows upward.** Asking a young wife before asking her husband, or a child before a father, may be
+read as an insult or as a threat, and it may also be the only way to obtain a truthful account from the wife. The
+ethics protocol must decide, in advance, how consent will be sequenced without making the woman's participation
+contingent on the man's permission.
+
+**Gatekeepers decide the sample.** Church leaders, imams, ward heads, school principals and market women's
+associations control access. A sample recruited through a gatekeeper is a sample of that gatekeeper's people, with
+their loyalties and their exclusions, and the proposal should say whose permission opened the door.
+
+**Money changes answers.** Transport reimbursement is standard and defensible; payment for participation in a
+study of marital violence may buy a narrative the participant thinks the researcher wants, and may also create a
+coercive inducement in a poor household.
+
+**Language decides the sample too.** An instrument written in English, administered in English, silently excludes
+the older woman who speaks Yoruba comfortably and English with effort, and she declines rather than admit it. An
+interpreter solves the exclusion and creates a new one: interviews conducted through a third person — often a
+relative, sometimes a co-wife — produce accounts edited for the audience. If an interpreter is needed, the proposal
+must say who will interpret, whether that person is known to the family, and how the interpreter's presence is
+expected to change what is said.
+
+> **DEBATE** — *Should fathers be over-sampled at the cost of representativeness?* One position: yes, because the
+> absence of fathers is the field's most persistent distortion and quota sampling for fathers produces knowledge
+> that no representative sample of mothers can. The other: no, because a quota sample of fathers recruited through
+> men's fellowships is a sample of religiously active fathers, and the distortion has merely moved. Resolve it by
+> asking what claim the study intends, and whether the sample can support it.
+
+> **REFLECT** — Write the sentence you would put in your abstract if your sample turned out to be nothing like your
+> plan. If you cannot write it now, you will write it badly at the end, under pressure, in the discussion chapter,
+> where examiners look first.
+
+### 4.14 An annotated supervision transcript: the sample that could not answer the question
+
+*The student is a second-year masters candidate. His proposed study compares the marital satisfaction of couples in
+which the wife works outside the home with that of couples in which she does not. He plans to recruit through two
+churches in Ibadan.*
+
+**SUPERVISOR:** Read me your sampling paragraph as it stands.
+
+**STUDENT:** "Two hundred couples will be selected from churches in Ibadan. The couples will be divided into two
+groups according to the wife's employment status, and their marital satisfaction will be compared using the Dyadic
+Adjustment Scale."
+
+**SUPERVISOR:** Two hundred couples. How many people is that?
+
+**STUDENT:** Four hundred.
+
+**SUPERVISOR:** Only if both partners answer. Will both answer?
+
+**STUDENT:** *(pause)* In the pilot, mostly the wives answered.
+
+**SUPERVISOR:** So you have two hundred wives, and you are calling the variable "the wife's employment status" while
+measuring "the wife's report of marital satisfaction". Is that a problem?
+
+**STUDENT:** It is a limitation.
+
+**SUPERVISOR:** It is not a limitation, it is a different study. A limitation is when your design falls slightly
+short of its claim. This is a mismatch between the claim and the data. Say the claim out loud as your data will
+support it.
+
+**STUDENT:** "Wives who work outside the home report lower marital satisfaction than wives who do not, in two
+Ibadan churches."
+
+**SUPERVISOR:** Better. Now — why two churches?
+
+**STUDENT:** They are the ones my pastor knows.
+
+**SUPERVISOR:** Write that. "A convenience sample recruited through the pastor's network in two congregations."
+And what does that network contain?
+
+**STUDENT:** Active members. People who come on Sundays. Couples who are not in crisis, mostly.
+
+**SUPERVISOR:** So your comparison is between two groups of religiously active, non-crisis wives whose husbands
+allowed them to be interviewed. What is the most likely direction of the bias?
+
+**STUDENT:** The wives who work may be the ones with more education, and education may be doing the work rather
+than employment.
+
+**SUPERVISOR:** Which means what for your design?
+
+**STUDENT:** I need to measure education and control for it. And I need to think about whether I can even find
+wives who do not work — in a church in Ibadan, most women trade or farm.
+
+**SUPERVISOR:** Now you are doing sampling. Let me ask the arithmetic. If the difference in satisfaction between
+working and non-working wives is about a third of a standard deviation, and you have one hundred per group, what is
+your power?
+
+**STUDENT:** I would have to calculate.
+
+**SUPERVISOR:** Do it tonight, with the attrition. Then tell me whether two churches can yield one hundred
+non-working wives whose husbands permit the interview. If the answer is no, the study changes: fewer groups, a
+narrower claim, or a qualitative design that asks wives to describe the relationship between work and marriage in
+their own terms.
+
+**STUDENT:** That might be better.
+
+**SUPERVISOR:** It might be more honest. It is not automatically better. A qualitative study answers a different
+question, and you have to want that question.
+
+**What the transcript teaches.**
+
+- **"Two hundred couples" is not a number until it is a number of people who will actually answer.** The unit
+  question (couple, individual) came before every other design question, and the design collapsed without it.
+- **The supervisor's move was to make the student state the claim his data would support**, not to correct his
+  method. Once the claim was stated honestly, the method's problems became obvious to the student.
+- **The gatekeeper was named** — the pastor's network — and its contents described. That one sentence about the
+  sample's social location did more than any paragraph of limitations.
+- **The confound arrived through the sampling conversation.** Wives in paid work differ by education, and the
+  comparison is therefore a comparison of two bundles of characteristics, not two employment statuses. Sampling
+  decisions and confounding are the same conversation.
+- **The arithmetic ended the fantasy.** Two churches cannot produce a hundred non-working wives who will consent;
+  the discovery is cheap at the design stage and expensive at the analysis stage.
+- **The alternative was offered with its cost.** The supervisor did not say "do qualitative instead"; he said a
+  qualitative study answers a different question, and the student must want that question. That is the difference
+  between advice and direction.
+
+### 4.15 Evidence: what the sampling literature actually establishes
+
+| Claim | What the evidence supports | Confidence | Implication for this week's teaching |
+|---|---|---|---|
+| Clinical samples differ systematically from the populations they are said to represent | Consistent across help-seeking, attrition and referral studies in high- and middle-income settings | High | State the reachable population in the abstract, always |
+| Non-response bias is larger in low-response surveys and is not random with respect to outcome | Well established | High | Report denominators and a non-response check |
+| Fathers are under-represented in family research and in family therapy attendance | Consistent in Western and African service studies, magnitude varies | Moderate–high | Design for fathers or name their absence as a finding |
+| Design effects in clustered family and community samples are often substantial | Established methodologically; magnitude sample-specific | High | State the design effect; do not ignore clustering |
+| Post hoc power adds no information | Established | High | Never report observed power |
+| Saturation is a defensible stopping criterion only when the judgement procedure is described | Contested in the methodological literature | Moderate | Require a stated procedure or stopping rule |
+| Information power provides a defensible a priori justification for qualitative sample size | Increasingly accepted | Moderate | Teach it as the preferred qualitative justification |
+| Purposive maximum-variation samples improve the description of a range at the cost of typicality | Consistent | Moderate | Match the sampling strategy to the claim, not to fashion |
+
+**One cell, expanded — the missing father.** The evidence is consistent that fathers attend family therapy less
+often than mothers, and that services are structured in ways that make their attendance less likely: hours,
+wording of invitations, the assumption that the mother is the "primary caregiver". What the evidence does not
+establish is a single figure for the proportion of fathers in Nigerian family studies, because the reporting is
+too inconsistent to pool. The teaching consequence is precise: a student may state that fathers are commonly
+absent and cite the service literature, but may not state a percentage for Nigeria without citing a study that
+measured it.
+
+### 4.16 Key terms
+
+**Sampling frame** — the list from which a sample is drawn; its keeper and its omissions are part of the method.
+
+**Reachable population** — the population the researcher can actually contact, as distinct from the population of
+interest.
+
+**Probability sample** — a sample in which each member of the frame has a known, non-zero chance of selection.
+
+**Sampling fraction** — the proportion of the frame that is selected; the basis of weighting in complex designs.
+
+**Design effect** — the factor by which the variance is inflated by clustering or by weighting; entered into the
+sample size calculation or acknowledged as absent.
+
+**Stratification** — dividing the frame into groups and sampling within each; guarantees representation, requires
+prior knowledge of the strata.
+
+**Cluster sampling** — selecting whole units and sampling within them; used where no list of individuals exists.
+
+**Purposive sampling** — deliberate selection of participants who can speak to the question; includes criterion,
+maximum-variation, typical-case, deviant-case and theory-based forms.
+
+**Snowball sampling** — recruitment through participants' networks; the design for hidden populations, with network
+bias built in.
+
+**Quota sampling** — fixed numbers per category filled by convenience; balances a sample without permitting
+estimation.
+
+**Saturation** — the point at which further data yield no new codes or themes; a judgement about analysis, not a
+number.
+
+**Information power** — the amount of information a sample carries, determined by aim, specificity, theory, dialogue
+quality and analysis strategy.
+
+**Effect size** — the magnitude of the difference or association of interest, expressed in standardised units or in
+the units of the measure; the first input to any power calculation.
+
+**Power** — the probability of detecting an effect of a stated size if it exists; conventionally 0.80.
+
+**Attrition** — loss of participants between measurement points; the correction that students most often omit from
+the sample size.
+
+**Non-response bias** — distortion arising because those who decline differ from those who accept.
+
+**Selection bias** — distortion arising because the sample differs systematically from the population on something
+related to the outcome.
+
+**Coverage bias** — distortion arising because part of the population has no chance of selection.
+
+**Unit of analysis** — the entity about which conclusions are drawn; must be the unit that was sampled.
+
+**Gatekeeper** — a person or body controlling access to participants; the sample inherits the gatekeeper's
+boundaries.
+
+**Denominator** — the number approached, as distinct from the number who participated; part of the finding.
+
+### 4.17 Self-test
+
+1. Define the sampling frame for a study of couples attending a named clinic, and name two of its omissions.
+2. A student approaches everyone in the waiting room on four mornings. Name the sampling method and the claim it
+   can support.
+3. Why does cluster sampling reduce precision even when the total number of participants is unchanged?
+4. State the four inputs to a power calculation and say which one students most often fail to justify.
+5. Compute the number per group for a difference of 6 points, a standard deviation of 12, alpha 0.05 and power 0.80.
+6. A study has 150 couples but reports 25 per cent attrition and a design effect of 1.4. What is the effective
+   sample?
+7. Distinguish saturation from information power in one sentence each.
+8. Give the three ways of handling the missing father, and say which is a design solution rather than a reporting
+   one.
+9. Name the four sampling biases and give the direction of each in a study of couples who remain married.
+10. Rewrite in one sentence: "A random sample of 100 couples was drawn from the community."
+11. What is wrong with "saturation was reached after twelve interviews"?
+12. Why is post hoc power uninformative?
+
+### 4.18 Answers
+
+1. The clinic register of couples seen between two dates; it omits couples who never attended, couples seen elsewhere,
+   and families whose first contact was by telephone only.
+2. Convenience sampling; it supports a description of couples who attend on those mornings, not an estimate for the
+   clinic population.
+3. Because observations within a cluster are correlated, so the second family in a cluster adds less new information
+   than the first; the variance is inflated by the design effect.
+4. Effect size, variability, alpha and power; the effect size is most often unjustified, usually borrowed from a
+   study in another country.
+5. *d* = 0.5, so n per group = 2(1.96 + 0.84)² / 0.25 = 62.7, approximately 63 per group before attrition.
+6. 150 × 0.75 = 112.5 couples after attrition; divided by 1.4 gives an effective sample of about 80 couples.
+7. Saturation is the point at which further data yield nothing new, judged during analysis; information power is the
+   a priori judgement of how much a sample can tell you, given the aim, specificity, theory and dialogue quality.
+8. Ignore, report, design for; only designing for fathers — through timing, recruitment route and separate
+   interviews — is a design solution.
+9. Selection (favours couples who stayed together, who are more satisfied), coverage (excludes those who left the
+   area), non-response (excludes refusers, who may be less satisfied), attrition (excludes the deteriorating).
+10. "A convenience sample of 100 couples attending a named clinic during a stated period was interviewed" — or, if a
+   frame existed, name it and the random mechanism.
+11. It states a stopping point without stating what was saturated, how the researcher judged it, or what would have
+   counted as evidence that saturation had not been reached.
+12. Because it is a deterministic function of the observed p-value and the sample size; it tells you nothing that the
+   confidence interval does not already tell you.
+
+### 4.19 Readings and preparation for Week 5
+
+**Required.** Any standard chapter on sampling in a social research methods text available to you — read it with a
+pencil and mark every place where the author assumes a sampling frame exists.
+
+**Required.** Re-read your own Week 3 design statement and find the sentence that implies a sample. Most design
+statements imply one without stating it, and the sample must follow from the design rather than be arranged around
+it.
+
+**Recommended.** A published Nigerian family or mental health study of your choice: write out its six-part sampling
+paragraph as in §4.10, marking the missing parts.
+
+**Preparation task.** Bring to Week 5 a printed copy of one measurement instrument you intend to use, with its
+developer's manual or the paper reporting its validation, and one sentence on whether it has been validated in a
+Nigerian sample. Week 5 concerns measurement, and a study is only as good as the instrument it carries its question
+in.
+
+*Next: Week 5 — Measurement: instruments, validity, reliability and the problem of translation.*
 
 ---
 
