@@ -3788,32 +3788,749 @@ structure it receives.
 
 ---
 
-## Week 6 — The independence problem
+## Week 6 — The independence problem: analysing data from couples and families
 
-This is the technical heart of family research.
+**Learning outcomes.** By the end of this week the student can (1) explain why observations from partners are not
+independent, and what happens to a test that assumes they are; (2) compute and interpret an intraclass correlation and
+a design effect; (3) choose between couple-level scoring, multilevel modelling and a dyadic model, and justify the
+choice against the question; (4) read an APIM table and say what the actor and partner effects mean clinically; and
+(5) write an analysis section that names the unit of analysis and the dependence structure.
 
-**The problem.** In a study of 100 couples, you do not have 100 independent observations; you have 50
-couples, and partners' scores are correlated. Standard tests (t-test, ANOVA, OLS regression) assume
-independence. Violating it inflates Type I error: you will find effects that are not there.
+### The problem, stated carefully
 
-**Three solutions.**
+In a study of 100 couples you do not have 100 independent observations; you have 50 couples, and partners' scores are
+correlated. Standard tests — the t-test, ANOVA, ordinary least squares regression — assume that each observation
+carries independent information. When that assumption fails, two things go wrong at once: the standard errors are
+underestimated, so the p-values are too small; and the effective sample size is smaller than the nominal sample, so
+the study is less informative than its degrees of freedom suggest.
 
-1. **Analyse at the dyad level.** Compute a couple score (mean, difference, or both) and analyse that.
-   Simple, loses information about within-couple differences.
-2. **Treat the dyad as the unit and model non-independence explicitly.** Multilevel models (HLM) with
-   individuals nested in couples nested in therapists. This is the modern standard.
-3. **Dyadic models.** The **Actor–Partner Interdependence Model (APIM)** separates *actor effects* (my
-   predictor on my outcome) from *partner effects* (my predictor on my partner's outcome). This is often
-   the clinically interesting question.
+The consequence in practice is that studies of couples report effects that will not replicate. The error is not
+subtle, and it is not rare: the majority of published papers in family therapy journals that analyse couple data with
+individual-level tests make this mistake, and the mistake survives peer review because the analysis looks ordinary.
 
-**Worked example.** Suppose you measure criticism (predictor) and satisfaction (outcome) in 60 couples.
-An OLS regression treating all 120 people as independent finds criticism predicts satisfaction, p = .001.
-An APIM re-analysis finds: actor effect significant; partner effect smaller but present; and the standard
-errors widen. The clinical interpretation changes: criticism damages the person who gives it as well as
-the person who receives it.
+**Why the correlation is inevitable.** Partners share a household, a history, a set of current stressors and, by the
+time they reach a clinic, a problem. A husband's satisfaction and his wife's satisfaction are not two independent
+draws from a population of satisfaction scores; they are two measurements from a system that has been generating
+shared experience for years.
 
-> **TASK** — Simulate it: in a spreadsheet, create 40 couples with correlated scores. Run a t-test treating
-> all 80 as independent, then compute the couple means and run the test again. Note the difference in p.
+### 6.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–12 | What independence buys you, and what it costs | Two-by-two illustration; one inflated p-value on the board |
+| 12–25 | The intraclass correlation: definition, typical values, why 0.4 is common | Students estimate the ICC in their own data or a supplied dataset |
+| 25–38 | Three solutions: couple-level scores, multilevel models, dyadic models | Comparison table built live |
+| 38–55 | The APIM: actor, partner, and the four paths | Path diagram on the board, then Figure 6.1 |
+| 55–72 | Worked reanalysis: the same data under three models | Software demonstration and students' own numbers |
+| 72–85 | Writing the analysis section, and the sentence that names the unit | Written and collected |
+| 85–90 | The one mistake to avoid in your own thesis | Vote and discussion |
+
+### 6.2 Five concepts that organise the week
+
+**Concept 1 — Dependence is information as well as a nuisance.** The correlation between partners is not only a
+statistical problem; it is the phenomenon. A couple in which both partners report low satisfaction is different from
+a couple in which one reports high and the other low, and the difference is clinically central. Methods that erase
+dependence erase the finding.
+
+**Concept 2 — The intraclass correlation is the exchange rate between nominal and effective sample size.** An ICC of
+0.50 in a sample of 100 couples means the 200 individual observations carry roughly the information of 133 independent
+ones. An ICC of 0.70 means they carry about 118. The formula and its use are set out in §6.2a.
+
+**Concept 3 — The unit of analysis is a claim, not a convenience.** Analysing at the individual level claims that
+individuals are exchangeable; analysing at the couple level claims that couples are the units of interest; a
+multilevel model claims that both levels matter and estimates the variance at each. The choice must be made from the
+question, and the question must be visible in the sentence.
+
+**Concept 4 — Actor and partner effects answer the clinical question.** In family work, almost every interesting
+question is about cross-over: does my behaviour affect your wellbeing? Ordinary regression, applied to individuals,
+cannot answer it because it has no concept of "your". The APIM is the minimal model that does.
+
+**Concept 5 — Sample size, power and dependence are one conversation.** A power calculation that assumes independent
+observations and a design that samples couples will produce an underpowered study. The design effect must enter the
+calculation, not the discussion.
+
+### 6.2a The arithmetic: intraclass correlation, effective n, design effect
+
+**The intraclass correlation.** For a sample of *k* couples with two observations each, the ICC is the proportion of
+total variance that lies between couples:
+
+> ICC = variance between couples / (variance between couples + variance within couples)
+
+If partners' scores were unrelated, all the variance would be within couples and the ICC would be 0. If partners were
+identical, all the variance would be between couples and the ICC would be 1. In clinic samples of marital
+satisfaction, values of 0.35 to 0.60 are typical; for measures of family functioning reported by two parents, 0.30 to
+0.50; for individually experienced constructs such as depression, 0.15 to 0.35.
+
+**The design effect.** For a cluster of size *m*,
+
+> design effect = 1 + (m − 1) × ICC
+
+For couples, *m* = 2, so the design effect is 1 + ICC. At an ICC of 0.50, the design effect is 1.5: the effective
+sample is the number of individuals divided by 1.5.
+
+**The worked example.** A student collects 200 individuals in 100 couples. The ICC for satisfaction is 0.50.
+
+- Effective *n* = 200 / 1.5 = 133.
+- A t-test computed on 200 independent observations with a standard error based on 198 degrees of freedom has
+  standard errors that are too small by a factor of √1.5 = 1.22.
+- A result reported as p = 0.01 may, when corrected, be p = 0.04. A result reported as p = 0.06 may be p = 0.25.
+
+**The two corrections a student can make without new software.**
+
+1. **Aggregate to the couple** and analyse *n* = 100. Conservative, simple, and defensible for a question about
+   couples.
+2. **Adjust the degrees of freedom** in the individual-level test. Crude, transparent, and better than nothing: divide
+   the *df* by the design effect.
+
+**The number to report.** Whatever the model, report the ICC and the design effect, because they allow the reader to
+judge how much information the sample actually carries. A table row saying "ICC = 0.48; design effect 1.48; effective
+n = 135" is the mark of an analysis that has thought about its own data.
+
+### 6.2b What inflation looks like: a simulated demonstration a student can reproduce
+
+The demonstration in the scaffold's task is worth doing carefully, because the arithmetic becomes memorable once a
+student has watched a p-value move.
+
+**The simulation.** Generate 40 couples. Give each couple a latent satisfaction level drawn from a normal
+distribution with mean 50 and standard deviation 10. Give each partner that couple level plus an individual
+deviation with standard deviation 7. Randomly assign half the couples to a "programme" group and half to "no
+programme", and add no treatment effect at all. Then run a t-test on all 80 individuals.
+
+**What happens.** Because partners share the couple level, the 80 observations behave like roughly 55 independent
+ones. The t-test's standard error is too small, and across many simulated datasets it rejects the null hypothesis
+about 15 to 20 per cent of the time at the 0.05 level, instead of 5 per cent. The test is not biased in its estimate
+of the difference — the mean difference is centred on zero — but it is wildly overconfident about that estimate.
+
+**The same simulation, three ways.** Run it again and analyse (a) all 80 individuals, (b) the 40 couple means, and
+(c) a model with a random intercept for couple. The estimated difference is similar in all three. The confidence
+interval is narrowest in (a), widest in (b), and intermediate in (c) — which is the correct answer, because (b) throws
+away the within-couple information legitimately while (a) pretends there is more information than there is.
+
+**The lesson in one sentence.** With dependent data, the estimate is usually fine and the uncertainty is usually
+wrong; and it is the uncertainty that decides whether you claim an effect.
+
+**The three numbers a student should keep.** Type I error inflation at ICC 0.5 with pairs: nominal 5 per cent becomes
+roughly 17 per cent. Effective *n* at ICC 0.5: two-thirds of the nominal. The correction factor on standard errors:
+√(1 + ICC) = 1.22.
+
+### 6.2c Four questions to ask your own data before you model anything
+
+Before choosing software, a student should be able to answer four questions about the data structure. Each answer
+determines something the model must do.
+
+**Question 1 — What is the identifier?** Is there a column that marks the couple, family or therapist? Without it no
+dependent-data method is available, and obtaining it after collection means going back to the field. The question
+sounds trivial and has ended more analyses than any other: a dataset of 200 rows with a "sex" column and no "couple"
+column cannot be reanalysed by any of this week's methods.
+
+**Question 2 — Are the clusters complete?** Forty couples planned; in the event, 33 couples with both partners, five
+with one partner only, and two with a grandmother added as a third informant. Clusters of unequal size are estimable in
+a multilevel model, but they are not estimable by couple-mean scoring without an explicit decision about the five
+singletons and the two triads. That decision belongs in the analysis section, with the counts.
+
+**Question 3 — At what level does the predictor vary?** Some predictors vary within a cluster — a partner's own
+criticism — and some are constant within it: household income, distance from the clinic, allocation to a programme. A
+cluster-constant predictor cannot be estimated as a within-cluster effect, and a student who models it there will be
+told by the software, in an error message, what this paragraph could have told them in advance. The distinction also
+governs interpretation: a within-cluster effect answers "when this partner is more critical than usual", while a
+between-cluster effect answers "couples who are more critical", and these are different clinical claims.
+
+**Question 4 — How many clusters, and how many members each?** The ratio decides what is estimable. Many clusters of
+two permit a random intercept but not a random slope; few clusters of many members permit aggregation but not stable
+hierarchical estimation; one cluster per level is not a multilevel structure at all. Thirty clusters is the usual
+floor, fifty is comfortable, and a hundred is where random slopes become defensible.
+
+**The four answers written down** take a single page and prevent the three crises that consume the analysis month: no
+identifier, unhandled singletons, and a model estimated on twenty clusters whose results nobody can defend.
+
+### 6.3 The three solutions, compared honestly
+
+| Approach | What it does | What it costs | When it is the right choice |
+|---|---|---|---|
+| Couple-level score | Collapses two observations into one — mean, difference, or both | Loses within-couple information, and the loss may be the finding | Small samples; questions about the couple as a unit; teaching analyses |
+| Multilevel model with random intercepts | Estimates between-couple and within-couple variance separately | Requires enough clusters (usually 30+, ideally 50+) and software | Nested designs: individuals in couples, couples in therapists, therapists in clinics |
+| Dyadic model (APIM) | Separates actor from partner effects, models the correlation between partners' residuals | Requires both partners' data and a structural model | Questions about mutual influence — the majority of clinically interesting questions |
+
+**What all three have in common.** Each names the dependence structure and deals with it. The error is not choosing
+the simple option; the error is choosing the individual-level option and saying nothing.
+
+**The sample-size floor for multilevel models.** With fewer than about 30 clusters, variance estimates are unstable and
+the model may fail to converge or may report implausibly precise effects. A study of 20 couples is a study for
+couple-level analysis, not for hierarchical linear modelling, and a student who insists otherwise will spend three
+months fighting software instead of writing.
+
+**The worked pair to memorise.** Two couples, both nominally "satisfied" at 50 on a hundred-point scale. In the first,
+both partners score 50. In the second, one scores 80 and the other 20. The mean is identical; the second couple is in
+serious trouble, and the discrepancy score is the only number in the analysis that knows it. Any study that reports
+couple satisfaction as a single number per couple has made a decision to average this away, and that decision must be
+argued rather than assumed.
+
+### 6.3a Couple-level scoring: the mean, the difference, and the third variable
+
+Three derived variables can be computed from a dyad, and each answers a different question.
+
+**The mean** — the couple's average level. Answers: how satisfied is this couple, on average? Erases disagreement.
+
+**The difference** — partner A minus partner B. Answers: how far apart are they? Erases level. A couple scoring 30 and
+70 and a couple scoring 55 and 55 have the same mean difference in absolute terms but very different marriages, and
+neither the mean alone nor the difference alone distinguishes them.
+
+**The pair of scores, kept as a pair** — the two variables entered together, with the dependence modelled. This is the
+APIM, and it is the only one of the three that keeps both level and discrepancy.
+
+**An illustration that settles the argument.** Two couples, both with a mean satisfaction of 50. In couple A, both
+partners score 50. In couple B, one scores 20 and the other 80. Any analysis based on the mean treats them as
+identical. Any clinician knows they are not, and the difference — 60 points — is the clinically meaningful measurement
+in couple B.
+
+**The reporting convention.** If a study uses the couple mean, it should also report the mean absolute difference and
+its correlation with the outcome. That single additional number tells the reader whether the mean is hiding the story.
+
+### 6.3b Multilevel models in plain language
+
+A multilevel model does not require the student to become a statistician, but it does require four ideas.
+
+**Idea 1 — Two sources of variation.** Individuals vary around their couple's level (within-couple variation), and
+couples vary around the sample mean (between-couple variation). The model estimates both, and their ratio is the
+intraclass correlation.
+
+**Idea 2 — Random intercepts.** Each couple is allowed its own baseline. The model estimates the spread of those
+baselines rather than fixing them.
+
+**Idea 3 — Random slopes.** Each couple can also be allowed its own relationship between predictor and outcome. This
+is usually too much to estimate with two people per couple, and a student should not attempt it without more than
+about 100 couples.
+
+**Idea 4 — Shrinkage.** Couples with few observations are pulled toward the overall mean, which is a feature: the
+estimates borrow strength from the sample.
+
+**The minimum reportable model.** A random-intercept model with the couple identifier, one or two predictors, and a
+reported ICC. In R: a linear mixed model with a random intercept for couple; in Stata: `mixed`; in SPSS: `MIXED`. The
+output the thesis needs is the fixed effects with confidence intervals, the variance components, and the ICC.
+
+**The three reporting failures.** Reporting only fixed effects with no variance components; failing to state the
+number of clusters; and reporting a model that did not converge as though it had.
+
+### 6.4 The APIM: a worked example with numbers a student can read
+
+**The design.** Sixty couples, both partners measured. Predictor: criticism, from a five-item self-report subscale
+(higher = more criticism). Outcome: satisfaction, from the RDAS total. Each person therefore has an X and a Y, and the
+couple has two of each.
+
+**The model.** Two equations, one per partner:
+
+> Y<sub>husband</sub> = b<sub>0</sub> + a<sub>h</sub>·X<sub>husband</sub> + p<sub>h</sub>·X<sub>wife</sub> + e<sub>h</sub>
+> Y<sub>wife</sub> = b<sub>1</sub> + a<sub>w</sub>·X<sub>wife</sub> + p<sub>w</sub>·X<sub>husband</sub> + e<sub>w</sub>
+
+with the two residuals allowed to correlate. That residual correlation is the non-independence, made explicit rather
+than assumed away.
+
+![Figure 6.1 — The actor–partner interdependence model: two people, four paths](../assets/figures/fig43-apim-path-diagram.svg)
+
+**The results as they might be reported.**
+
+| Path | Estimate | 95% CI | Interpretation |
+|---|---|---|---|
+| Actor, husband (a<sub>h</sub>) | −0.62 | −0.91 to −0.33 | His criticism lowers his own satisfaction |
+| Actor, wife (a<sub>w</sub>) | −0.48 | −0.79 to −0.17 | Her criticism lowers her own satisfaction |
+| Partner, husband→wife (p<sub>w</sub>) | −0.31 | −0.58 to −0.04 | His criticism lowers her satisfaction |
+| Partner, wife→husband (p<sub>h</sub>) | −0.22 | −0.49 to 0.05 | Her criticism does not clearly affect his |
+| Residual correlation | 0.34 | 0.10 to 0.55 | Satisfaction levels remain correlated within couples |
+
+**The three readings the table supports, and the one it does not.**
+
+1. **Both actor effects are negative and clearly estimated.** Criticism costs the person who gives it, which is the
+   least intuitive finding for students and the most reliable one in the literature.
+2. **The partner effect from husband to wife is negative and its interval excludes zero.** His criticism predicts her
+   lower satisfaction, net of her own criticism. This is the finding an individual-level analysis cannot produce.
+3. **The partner effect from wife to husband is imprecisely estimated.** The interval includes zero, and the correct
+   conclusion is "not established in this sample", not "no effect".
+4. **What the table does not support:** a claim of asymmetry. The two partner effects differ by 0.09 with overlapping
+   intervals, and a test of their difference would almost certainly be non-significant. Students routinely write "his
+   criticism harms her but hers does not harm him" from numbers like these, and that sentence is not in the data.
+
+**How to test the asymmetry properly.** Constrain the two partner effects to be equal and compare model fit; or
+compute the difference and its confidence interval directly. Reporting the constrained model, with the fit comparison,
+is the honest route, and it takes one extra line of syntax.
+
+**Distinguishable and exchangeable dyads.** In the model above the partners are *distinguishable*: husband and wife
+are different roles, and the paths are estimated separately. Where partners are exchangeable — same-sex couples
+without a role distinction, or friendships — the model is estimated with a single actor effect and a single partner
+effect, and the roles are assigned at random within dyad. The choice must be stated, because it changes the number of
+parameters and therefore the power.
+
+**The k parameter, briefly.** The ratio of partner to actor effect, *k* = p/a, is sometimes reported as a measure of
+how much a dyad behaves as a unit. An alternative is the "mutual influence" index. Neither is essential for a masters
+thesis, and both are worth knowing exist; a student who reports one should be able to say what it is for.
+
+### 6.4a Three questions the APIM answers that regression cannot
+
+**Question 1 — Does my behaviour affect your wellbeing, over and above your own behaviour?** That is the partner
+effect, and no individual-level model has a "your". This is the question couples bring to therapy.
+
+**Question 2 — Do the two partners influence each other equally?** That is a constraint test on the two partner
+effects. In clinical terms it asks whether the relationship is symmetrical, and answers to it change how a therapist
+opens a session.
+
+**Question 3 — How much of the similarity between partners' outcomes is due to influence and how much to selection?**
+Partially answerable: the residual correlation captures the similarity not explained by the modelled paths, and it is
+a lower bound on selection because the model cannot distinguish shared history from shared circumstance.
+
+**The fourth question the APIM cannot answer.** Causation. All four paths are associations in cross-sectional data.
+A student who writes "criticism caused lower satisfaction" from a cross-sectional APIM has overstated the design by
+one word per sentence, and it is the word examiners circle.
+
+### 6.5 Case: the thesis that was reanalysed in a weekend
+
+**CASE** — *Emeka's 120 people.* Emeka Ogunbiyi, a masters candidate, studied the relationship between financial
+stress and marital satisfaction. He collected data from 120 participants — 60 couples, both partners — at a private
+hospital's family clinic in Ibadan, using the RDAS and a four-item financial stress scale.
+
+**The first analysis.** He entered all 120 rows into SPSS, ran a correlation between financial stress and
+satisfaction, and obtained r = −0.38, p < 0.001. He ran a regression with three covariates and obtained a significant
+coefficient for financial stress. He wrote a results chapter over two weeks. His supervisor read it and asked a single
+question: "Are these 120 people independent?"
+
+**The diagnosis.** They were not. The ICC for satisfaction in his data was 0.52. The design effect was therefore 1.52,
+the effective sample was about 79, and his standard errors were too small by a factor of about 1.23. He recomputed:
+the correlation's confidence interval widened from roughly −0.52 to −0.22 to roughly −0.55 to −0.19, and the
+regression coefficient's p-value moved from 0.002 to 0.03.
+
+**What survived.** The association survived. The significance survived, barely in the regression. What did not survive
+was his interpretation of a covariate: the coefficient for "years married" had been significant at 0.04 in the
+individual-level model and was 0.19 after correction. He removed the claim.
+
+**The second analysis.** He then did three things worth describing, because they are the three things a supervisor
+hopes for.
+
+1. **Re-ran with the couple as the unit**, having computed a couple mean for each variable and a couple difference for
+   satisfaction. The correlation with the couple mean was r = −0.41; the correlation with the couple *difference* was
+   r = 0.09 and non-significant. The second result told him that financial stress was associated with how satisfied
+   the couple was on average, not with how far apart the partners were — a distinction he had not known to look for.
+2. **Fitted a random-intercept model** with individuals nested in couples. The fixed effect for financial stress was
+   −0.29 (95% CI −0.51 to −0.07); the between-couple variance component was 42.6 and the within-couple 21.9, giving an
+   ICC of 0.66 in the model — higher than his crude estimate, because the model partitioned shared variance that his
+   other covariates had absorbed.
+3. **Fitted an APIM** to test whether one partner's financial stress affected the other's satisfaction. The actor
+   effect was −0.34; the partner effect was −0.18 with a confidence interval that included zero. He reported that the
+   cross-partner effect was not established in his sample, and noted the sample size as the reason.
+
+**The viva.** The examiner asked why the ICC in the model differed from the crude ICC. Emeka had prepared the answer:
+the crude estimate treats all variance as either between or within couple, whereas the model's ICC is conditional on
+the covariates, and since financial stress is shared within couples it reduces the residual between-couple variance
+differently. The examiner then asked whether he had tested the equal-partner-effects constraint. He had not, and said
+so; it became a recommendation.
+
+**What the case teaches.**
+
+- **The correction changed a substantive claim**, not merely the width of an interval. The covariate that was
+  significant at the individual level was not significant at the couple level.
+- **The difference score was the cheapest new finding.** It cost one line of syntax and produced the most interesting
+  sentence in the chapter.
+- **Model-based and crude ICCs differ, and the student must be able to explain why.** This is the question that
+  separates a student who ran a model from one who understands it.
+- **A non-significant partner effect is a result, not a failure**, provided the interval is reported and the reason
+  for imprecision stated.
+
+### 6.5a The reanalysis checklist: seven steps from the old analysis to the new one
+
+A student who discovers a dependence problem late should not panic and should not start over. The seven steps below
+convert the discovery into a stronger results chapter, in the order that avoids wasted work.
+
+1. **Confirm the structure.** Identify the cluster variable, count the clusters, count the members, and locate the
+   singletons. If there is no identifier, reconstruct it from the questionnaire's serial numbers or the interview log
+   — this is possible more often than students expect.
+2. **Compute the ICC** for each outcome variable, not only the main one. Report them in a table.
+3. **Re-run the primary analysis at the correct level** and record the estimate, interval and p-value beside the
+   original.
+4. **Report both, labelled.** "Uncorrected individual-level analysis: p = 0.002. Couple-level analysis: p = 0.03."
+   Presenting the correction is not an admission of incompetence; concealing it is.
+5. **Check which substantive claims changed.** Usually the main association survives and a covariate does not; the
+   covariate is the part of the chapter that must be rewritten.
+6. **Add the discrepancy analysis** if the outcome is relational. It is one line of syntax and it is often the most
+   interesting result.
+7. **Update the abstract, the discussion and the limitations** in the same editing pass. The commonest failure at this
+   stage is a corrected analysis with an uncorrected abstract.
+
+**The time cost.** For a completed thesis with a clean dataset, the seven steps take two to four days. For a thesis
+without a couple identifier, they take two weeks and a return to the field. The difference is entirely a design
+decision, which is why this week's lesson belongs at the proposal stage.
+
+### 6.6 An annotated supervision transcript: the analysis plan
+
+*The student is planning her analysis before collecting data, which is the right time. Her study compares a
+ten-session group programme with a waiting list, in 40 couples per arm.*
+
+**SUPERVISOR:** Describe your analysis in one sentence.
+
+**STUDENT:** I will compare the mean satisfaction of the two groups after the programme using an independent-samples
+t-test.
+
+**SUPERVISOR:** How many observations?
+
+**STUDENT:** Eighty per group — forty couples.
+
+**SUPERVISOR:** So you will enter 80 rows per group, and the test will treat them as 80 independent people. What is
+your estimate of the ICC?
+
+**STUDENT:** I do not know. From the literature, maybe 0.4.
+
+**SUPERVISOR:** Then your design effect is 1.4 and your effective sample is 57 per group, not 80. Your power
+calculation was for 80. Does that change your conclusion?
+
+**STUDENT:** It might not be powered.
+
+**SUPERVISOR:** Redo the calculation with the design effect. Then decide: more couples, a bigger expected effect, or a
+different analysis. Now — what is your outcome variable, precisely?
+
+**STUDENT:** Satisfaction. Each person's score.
+
+**SUPERVISOR:** Then you have two outcomes per couple, and the interesting question is whether the programme changes
+the couple's average, the gap between them, or both. Which one does your theory predict?
+
+**STUDENT:** The average, mainly. But the gap should narrow too — the programme works on communication.
+
+**SUPERVISOR:** Then specify two outcomes, and tell me how you will handle the fact that they are correlated. And say
+in the analysis section which model you will use for each. What model?
+
+**STUDENT:** A mixed model with a random intercept for couple.
+
+**SUPERVISOR:** Good. What will you report from it?
+
+**STUDENT:** The fixed effect of group, with a confidence interval, and the variance components, and the ICC.
+
+**SUPERVISOR:** And if the model does not converge because you have 80 clusters of two?
+
+**STUDENT:** It should converge. If not, I would fall back to couple-level means and report that I did.
+
+**SUPERVISOR:** Write that sentence in the analysis plan now, before fieldwork. Then nothing that happens later will
+look like improvisation.
+
+**What the transcript teaches.**
+
+- **The power calculation and the analysis model must be the same model.** The student's original calculation assumed
+  independence, which the planned analysis would violate.
+- **"Satisfaction" was not yet a variable.** It became one only when the student said whose satisfaction and which
+  aspect; the specification produced a second outcome she had not planned.
+- **The fallback belongs in the plan.** Stating the alternative before collection converts a crisis into a decision.
+- **The reportable set is fixed in advance**: fixed effect with interval, variance components, ICC. A student who
+  decides this at the analysis stage reports whatever the software printed.
+
+### 6.7 Lab: reanalyse a dependent-data dataset in three ways
+
+**Aim.** Take one dataset with a dyadic or clustered structure and produce three analyses, then write the paragraph
+that justifies the one you will use.
+
+**Materials.** A dataset with a couple or family identifier and at least one repeated measure; R, Stata, SPSS or even a
+spreadsheet; the ICC formula.
+
+**Steps.**
+
+1. **Identify the cluster variable.** Which column identifies the couple or family? Confirm every cluster has the
+   expected number of members, and count the singletons.
+2. **Compute the ICC** for your main outcome, by hand from the between- and within-cluster variances or from a
+   random-intercept model. Report the design effect and the effective sample.
+3. **Analysis A — individual level, uncorrected.** Run the test you would have run before this week. Record the
+   estimate, the standard error, the p-value and the interval.
+4. **Analysis B — couple level.** Compute the mean and the difference for each cluster, run the same test on the means,
+   and run the difference as a second outcome.
+5. **Analysis C — multilevel.** Fit a random-intercept model. Record the fixed effect, the interval, the variance
+   components and the model-based ICC.
+6. **Compare the three.** Tabulate estimate, standard error, interval and p-value side by side.
+7. **Write the paragraph**: what the unit of analysis is, what the dependence structure is, what the ICC is, which
+   model you chose and why, and what you will report.
+8. **Peer review.** Exchange with a partner and check that the paragraph names the unit in its first sentence.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Cluster identified and described | 3 | Counts of clusters and members; singletons accounted for |
+| ICC computed and interpreted | 4 | Both crude and model-based where possible, and the difference explained |
+| Three analyses computed correctly | 4 | Estimates reconcile; the widening of intervals is visible |
+| Comparison table | 3 | Estimate, SE, interval and p for all three, same outcome |
+| Analytic paragraph | 4 | Unit stated first, dependence named, choice justified, fallback stated |
+| Honest conclusion | 2 | The weakest analysis is not the one presented as the finding |
+
+**Fail conditions.** Reporting the individual-level analysis as the main result with the multilevel model in an
+appendix. An ICC with no denominator stated. A model reported without its number of clusters.
+
+### 6.8 Six errors of dependent data
+
+**Error 1 — Treating partners as strangers.** The individual-level t-test on couple data, reported without comment.
+The most common error in the field, and the one this week exists to correct.
+
+**Error 2 — The couple mean that hides the marriage.** Analysing only the couple mean, and never the discrepancy, when
+the question concerns the relationship rather than the couple's average level.
+
+**Error 3 — Multilevel modelling with too few clusters.** Twenty couples, random slopes, and a convergence warning
+ignored. The model estimates effects with intervals that are artefacts of the software's optimism.
+
+**Error 4 — The residual correlation unmodelled.** An APIM reported without the correlation between partners'
+residuals, which is where the non-independence lives. Omitting it re-imposes the independence assumption inside a
+model that was chosen to relax it.
+
+**Error 5 — Significance differences treated as differences in significance.** "The effect was significant for wives
+but not for husbands" when the two intervals overlap substantially. The correct claim needs a test of the difference.
+
+**Error 6 — Power calculated for individuals, study analysed as couples.** The mirror image of Error 1, committed at
+the design stage, and undetectable in the finished thesis except by the reader who computes the effective sample.
+
+> **CAUTION** — *The therapist-level cluster that nobody noticed.* A programme evaluation sampled 180 families across
+> six therapists and analysed at the family level. The ICC for family functioning within therapist was 0.11 — small,
+> but with an average of 30 families per therapist the design effect was 1 + 29(0.11) = 4.2, and the effective sample
+> was 43 families, not 180. The reported effects were four times more precise than the data could support. The
+> therapist effect was the most interesting thing in the dataset and it had been treated as noise.
+
+### 6.8a Three published analyses, audited
+
+*The three patterns below appear constantly in regional journals. Each is described, then audited.*
+
+**Pattern 1 — the 300 participants who were 150 couples.** "Data were collected from 300 married respondents. A
+t-test compared satisfaction by employment status." *Audit:* the number is individuals, the design is dyadic, and the
+analysis treats spouses as strangers. The correction would be a couple-level or multilevel analysis; the minimum
+honest addition is the ICC and an acknowledgement that the reported p-values are optimistic.
+
+**Pattern 2 — the regression with both partners' scores in one row.** "A multiple regression predicted family
+functioning from communication, cohesion and support, N = 240." *Audit:* with both partners entered as separate rows
+and no cluster identifier, the model cannot know that rows 1 and 2 belong to the same marriage. The coefficients are
+probably close to correct; the intervals are not, and the claim about which predictors matter may rest on the
+difference between p = 0.04 and p = 0.06.
+
+**Pattern 3 — the intervention with six therapists.** "The programme improved family functioning (p = 0.02), N = 180
+families." *Audit:* the therapist is a cluster and the effective sample may be under a fifth of the nominal. The most
+interesting result in the study — that the therapist accounted for a large share of the variance — is not reported,
+because the model could not see it.
+
+**What unites the three.** In each, the estimate is defensible and the uncertainty is not; and in each, the fact that
+would have changed the interpretation was buried in a level the model ignored. The audit question to ask of any paper
+is therefore not "is the analysis right?" but "at what level does this model believe the data vary?"
+
+> **AUDIT** — Take one paper from your reading list and answer three questions: how many people, how many clusters, and
+> what does the model treat as independent? Then compute the effective sample under an assumed ICC of 0.4 and note how
+> far the reported precision exceeds what the data support.
+
+### 6.9 Culture, family structure and the dependence you did not model
+
+**The dependency structure is not always a couple.** In a polygynous household, the co-wives are nested within the
+husband, and the co-wife relationship carries variance that no two-level model captures. In a compound, several
+households share a kitchen and a patriarch, and the household mean conceals the compound. In a church programme, the
+couples are nested within the congregation, and the pastor's influence is a cluster effect with a name.
+
+**Three structural questions to ask before modelling.**
+
+1. **Who shares what?** Resources, space, reputation, obligation. Each shared thing is a source of correlation.
+2. **What is the nesting order?** Individual within wife-relationship, within husband, within compound, within
+   community. The order determines the levels, and getting it wrong produces a model that partitions variance into the
+   wrong boxes.
+3. **What is the unit of decision?** If the couple cannot decide without the husband's family, the couple is not the
+   decision unit, and a couple-level analysis will overstate its autonomy.
+
+**The fathers-and-mothers asymmetry.** In studies that do obtain both partners' reports, mothers and fathers often
+differ systematically — mothers report more emotional closeness, fathers report more satisfaction and less conflict.
+This is not measurement error to be averaged away; it is a finding about gendered experience, and the discrepancy
+score is its measurement. A study that reports only the couple mean has averaged the finding into silence.
+
+**The single-informant ceiling.** Where only one partner can be interviewed — common in studies of men who travel for
+work — the design cannot estimate partner effects at all. The honest report says so: "the cross-partner effects cannot
+be estimated from these data because only one partner was interviewed", and the analysis is confined to what one
+informant can support.
+
+> **DEBATE** — *Should a thesis with couple data always use a dyadic model?* One position: yes, because the question
+> that drew the student to family research is almost always about mutual influence, and a couple-level analysis
+> answers a weaker version of it. The other: no, because a well-executed couple-level analysis with a clear question
+> and honest reporting is better than an APIM fitted to 30 couples with unstable estimates. The resolution: match the
+> model to the number of dyads, and state the constraint.
+
+> **REFLECT** — Look at the last quantitative paper you read in this field. Work out whether its analysis treated
+> individuals as independent, and if so, what would change if the dependence were modelled. Write the answer in four
+> sentences: the design, the likely ICC, the direction of the error, and the claim you would now qualify.
+
+### 6.9a The family beyond the couple: triads, and what the two-person model leaves out
+
+The APIM is a two-person model, and most families in this setting are larger. A triad — mother, father, adolescent —
+has three actor effects and six partner effects, and estimating all of them with 60 families is not possible. Three
+practical options exist.
+
+**Option 1 — Analyse the adolescent separately.** The parents form a dyad analysed with an APIM; the adolescent's
+outcome is analysed with the two parents' predictors entered as separate variables. This answers a clear question
+("does each parent's criticism predict the adolescent's wellbeing?") and ignores the adolescent's influence on the
+parents, which must be said.
+
+**Option 2 — Aggregate the parents into a parental block**, using the mean and the discrepancy, and model the
+adolescent's outcome against both. This is the standard approach when the parental subsystem is the unit of interest.
+
+**Option 3 — Social relations model**, which partitions variance into actor, partner and relationship components
+across a group. Elegant, and beyond the scope of most masters theses; a student who proposes it should have a
+statistician on the supervisory team.
+
+**The honest sentence for a thesis that uses Option 1.** "The present analysis models the parental dyad and treats the
+adolescent's report as an outcome; the reciprocal influence of the adolescent on the parents is not estimated, and the
+cross-sectional design cannot order the effects."
+
+**The general rule.** A model that covers part of the system should say which part, in the analysis section, before the
+results. The limitation is then a boundary rather than an omission.
+
+> **AUDIT** — *Count the paths.* For a family of four, count the actor effects, the partner effects and the residual
+> correlations in a full model. Write the number down, then write the number of parameters your sample could estimate
+> at ten observations per parameter. The gap between the two numbers is the reason family research simplifies, and
+> the reason the simplification must be stated.
+
+**The reflexive question.** If your data can only see one informant, your findings are findings about that
+informant's account, and the discussion chapter should say so in a sentence a reader cannot miss. "These are mothers'
+accounts" is a limitation; "these are mothers' accounts, and the pattern they describe is itself patterned by who is
+expected to speak for a family" is a contribution.
+
+### 6.10 Evidence: what the methodological literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| Individual-level tests on dyadic data inflate Type I error | Established by simulation and analytic work | High | Teach the ICC and the design effect as compulsory arithmetic |
+| The ICC in couple satisfaction data is typically substantial (0.3–0.6) | Consistent across samples | High | Assume dependence; do not test for it and proceed as if absent |
+| Multilevel models require roughly 30 or more clusters for stable variance estimates | Established in simulation studies | High | Set a floor; recommend couple-level analysis below it |
+| APIM separates actor and partner effects and changes substantive conclusions | Established in the dyadic literature | High | Teach the model as the default for mutual-influence questions |
+| Actor effects are generally larger than partner effects | Consistent across dyadic studies | Moderate | Report asymmetry tests rather than asserting asymmetry |
+| Discrepancy scores predict relationship outcomes independently of mean levels | Consistent, though the literature is smaller | Moderate | Require the discrepancy in couple-level analyses |
+| Egalitarian or exchangeable dyad specification changes estimates materially where roles differ | Established | Moderate | Require the student to state and justify the specification |
+| Cluster effects at therapist or site level are frequently larger than assumed | Consistent | Moderate | Ask about nesting above the couple |
+
+**One cell, expanded — the asymmetry claim.** Studies in the APIM tradition frequently report that actor effects
+exceed partner effects, and this is one of the more robust regularities in the dyadic literature: one's own behaviour
+predicts one's own outcomes more strongly than it predicts the partner's. What the literature does not support is the
+ubiquitous secondary claim that the partner effect is significant for wives but not for husbands, because the
+difference between those two partner effects is rarely tested. The teaching consequence: report the two intervals,
+test the difference if the claim matters, and if the test is not done, write "imprecisely estimated" rather than "no
+effect".
+
+**The one-paragraph version for the discussion chapter.** "The intraclass correlation for satisfaction in this
+sample was 0.52, giving a design effect of 1.52 and an effective sample of approximately 79 rather than 120. The
+couple-level and multilevel analyses reported here therefore carry wider intervals than an individual-level analysis
+of the same data would have produced, and the individual-level p-values reported in Appendix D should be read as
+optimistic. The substantive association between financial stress and satisfaction survived correction; the association
+with years married did not, and the earlier claim has been withdrawn." Five sentences, one table reference, and the
+chapter is defensible.
+
+### 6.11 Key terms
+
+**Independence assumption** — the requirement that each observation contribute information unrelated to the others;
+violated whenever data are clustered.
+
+**Clustering** — the grouping of observations within larger units, such as partners within couples, couples within
+therapists, families within communities.
+
+**Intraclass correlation (ICC)** — the proportion of total variance lying between clusters; the exchange rate between
+nominal and effective sample size.
+
+**Design effect** — the factor by which variance is inflated by clustering, 1 + (m − 1) × ICC for clusters of size m.
+
+**Effective sample size** — the number of independent observations that would carry the same information as the
+clustered sample.
+
+**Unit of analysis** — the entity about which conclusions are drawn; must match the unit of sampling.
+
+**Multilevel model** — a model that estimates variation at more than one level simultaneously, with random intercepts
+and optionally random slopes.
+
+**Random intercept** — a cluster-specific baseline allowed to vary around the overall mean.
+
+**Random slope** — a cluster-specific relationship between predictor and outcome; rarely estimable with two members
+per cluster.
+
+**Variance components** — the estimated variance at each level of a multilevel model.
+
+**Shrinkage** — the borrowing of strength across clusters, pulling poorly estimated cluster values toward the overall
+mean.
+
+**Actor effect** — the association between a person's predictor and that same person's outcome.
+
+**Partner effect** — the association between a person's predictor and the other person's outcome.
+
+**APIM** — the actor–partner interdependence model; the minimal dyadic model separating actor and partner effects and
+allowing correlated residuals.
+
+**Distinguishable dyads** — dyads whose members have different roles, such as husband and wife, requiring separate
+estimates for each.
+
+**Exchangeable dyads** — dyads whose members have no role distinction, permitting a single actor and partner effect.
+
+**Residual correlation** — the correlation between partners' outcomes after the modelled paths; where non-independence
+remains visible.
+
+**Discrepancy score** — the difference between partners' scores on the same measure; a measure of distance rather than
+level.
+
+**Couple mean** — the average of partners' scores; a measure of level that conceals disagreement.
+
+**Between-cluster and within-cluster variance** — the two components whose ratio defines the ICC.
+
+**Singleton** — a cluster with one member; it contributes to the individual-level variance but not to the ICC, and its
+handling must be stated.
+
+**Convergence failure** — the model's inability to reach a stable estimate; must be reported, not hidden.
+
+### 6.12 Self-test
+
+1. Why does an individual-level t-test on couple data produce p-values that are too small?
+2. Compute the design effect for an ICC of 0.30 with clusters of size 3 (mother, father, adolescent).
+3. A sample has 240 individuals in 80 families; the ICC is 0.25. What is the effective sample?
+4. Distinguish the couple mean from the discrepancy score, and say what each conceals.
+5. What is the minimum number of clusters for a stable random-intercept model, and what should a student with 25
+   clusters do instead?
+6. Write the two equations of an APIM and say what the residual correlation represents.
+7. A partner effect has an interval of −0.49 to 0.05. What is the correct conclusion?
+8. Why is "the effect was significant for wives but not for husbands" insufficient evidence of asymmetry?
+9. What does the k parameter represent, and why is it optional?
+10. Give the four items a thesis must report from a multilevel model.
+11. How would you handle 40 co-wives nested within 12 husbands?
+12. What is the single sentence that should open every analysis section in this field?
+
+### 6.13 Answers
+
+1. Because the standard error is computed as though the observations were independent; dependence reduces the
+   effective information, so the true standard error is larger by roughly the square root of the design effect.
+2. 1 + (3 − 1)(0.30) = 1.60.
+3. 240 / (1 + 1 × 0.25) = 192.
+4. The mean measures the couple's average level and conceals disagreement; the discrepancy measures distance and
+   conceals level.
+5. About 30; with 25 clusters the student should aggregate to the cluster level (couple or family means) and analyse
+   those, reporting the aggregation and its loss of within-cluster information.
+6. Y<sub>A</sub> = b<sub>0</sub> + a·X<sub>A</sub> + p·X<sub>B</sub> + e<sub>A</sub> and
+   Y<sub>B</sub> = b<sub>1</sub> + a·X<sub>B</sub> + p·X<sub>A</sub> + e<sub>B</sub>; the residual correlation is the
+   similarity between partners not accounted for by the modelled paths.
+7. That a cross-partner effect is not established in this sample; the estimate is compatible with an effect of either
+   sign.
+8. Because non-overlapping significance does not imply a significant difference between the two estimates; the
+   difference must be tested directly.
+9. The ratio of the partner effect to the actor effect, p/a, an index of how strongly the dyad behaves as a unit; it is
+   optional because it is a transformation of coefficients already reported and its interpretation is contested.
+10. The fixed effects with confidence intervals, the variance components, the number of clusters, and the ICC.
+11. As a three-level model (co-wife within husband within community) if the number of husbands permits, or by
+    aggregating to the husband level and reporting the loss; with 12 husbands, aggregation is the honest choice.
+12. "The unit of analysis is the couple (or family), and the dependence between partners is modelled with a random
+    intercept for couple."
+
+### 6.14 Reflection
+
+> **REFLECT** — Write the one sentence you will put at the start of your analysis section, naming your unit of
+> analysis. Then write the sentence that follows it, naming the dependence and how you handled it. If you cannot write
+> the second sentence yet, you have found this week's task: you cannot handle dependence you have not described.
+
+### 6.15 Readings and preparation for Week 7
+
+**Required.** A chapter or tutorial on the actor–partner interdependence model, read for the two equations and the
+table of four paths rather than for the software syntax.
+
+**Required.** Any simulation or methodological paper demonstrating Type I error inflation in dyadic data; the numbers
+are what make the lesson stick.
+
+**Recommended.** A published family study that reports an ICC or a design effect; note how rare it is, and how much
+more informative the paper becomes.
+
+**Preparation task.** Bring to Week 7 your analysis plan in one page: the unit, the dependence structure, the model,
+the reportable set, and the fallback if the model does not converge. Week 7 concerns qualitative analysis, and the
+same discipline applies — the unit, the procedure and the stopping rule, stated before the data are read.
+
+*Next: Week 7 — Qualitative analysis: from transcripts to defensible themes.*
 
 ---
 
