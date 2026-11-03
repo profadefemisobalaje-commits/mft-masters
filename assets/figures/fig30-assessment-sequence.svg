@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="644" viewBox="0 0 980 644" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="644" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Family Assessment Sequence</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Assessment is a relationship, not an interrogation: gather, observe, feed back, agree</text>
+  <rect x="50.0" y="120.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <rect x="50.0" y="120.0" width="210.0" height="6.0" rx="3" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="160.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="165.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">1</text>
+  <text x="155.0" y="196.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Referral</text>
+  <text x="155.0" y="232.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">who is worried, and why</text>
+  <text x="155.0" y="245.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">now?</text>
+  <line x1="262.0" y1="195.0" x2="278.0" y2="195.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 268.0 190.0 L 278.0 195.0 L 268.0 200.0 z" fill="#5b6675"/>
+  <rect x="282.0" y="120.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <rect x="282.0" y="120.0" width="210.0" height="6.0" rx="3" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="310.0" cy="160.0" r="15" fill="#1d4ed8" stroke="none" stroke-width="1.5"/>
+  <text x="310.0" y="165.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">2</text>
+  <text x="387.0" y="196.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Contracting</text>
+  <text x="387.0" y="232.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">consent, confidentiality</text>
+  <text x="387.0" y="245.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">limits, fees, goals</text>
+  <line x1="494.0" y1="195.0" x2="510.0" y2="195.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 500.0 190.0 L 510.0 195.0 L 500.0 200.0 z" fill="#5b6675"/>
+  <rect x="514.0" y="120.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="514.0" y="120.0" width="210.0" height="6.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="542.0" cy="160.0" r="15" fill="#15803d" stroke="none" stroke-width="1.5"/>
+  <text x="542.0" y="165.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">3</text>
+  <text x="619.0" y="196.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Multi-informant</text>
+  <text x="619.0" y="212.2" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">intake</text>
+  <text x="619.0" y="232.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">each member's view; history;</text>
+  <text x="619.0" y="245.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">genogram</text>
+  <line x1="726.0" y1="195.0" x2="742.0" y2="195.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 732.0 190.0 L 742.0 195.0 L 732.0 200.0 z" fill="#5b6675"/>
+  <rect x="746.0" y="120.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="746.0" y="120.0" width="210.0" height="6.0" rx="3" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="774.0" cy="160.0" r="15" fill="#b45309" stroke="none" stroke-width="1.5"/>
+  <text x="774.0" y="165.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">4</text>
+  <text x="851.0" y="196.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Standardised</text>
+  <text x="851.0" y="212.2" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">measures</text>
+  <text x="851.0" y="232.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">functioning, satisfaction,</text>
+  <text x="851.0" y="245.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">symptoms, risk</text>
+  <rect x="50.0" y="310.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <rect x="50.0" y="310.0" width="210.0" height="6.0" rx="3" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="350.0" r="15" fill="#6d28d9" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="355.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">5</text>
+  <text x="155.0" y="386.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Interaction</text>
+  <text x="155.0" y="402.2" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">observation</text>
+  <text x="155.0" y="422.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">watch the family solve a real</text>
+  <text x="155.0" y="435.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">problem</text>
+  <line x1="262.0" y1="385.0" x2="278.0" y2="385.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 268.0 380.0 L 278.0 385.0 L 268.0 390.0 z" fill="#5b6675"/>
+  <rect x="282.0" y="310.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="282.0" y="310.0" width="210.0" height="6.0" rx="3" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="310.0" cy="350.0" r="15" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <text x="310.0" y="355.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">6</text>
+  <text x="387.0" y="386.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Formulation +</text>
+  <text x="387.0" y="402.2" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">feedback</text>
+  <text x="387.0" y="422.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">share a map, invite</text>
+  <text x="387.0" y="435.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">correction</text>
+  <line x1="494.0" y1="385.0" x2="510.0" y2="385.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 500.0 380.0 L 510.0 385.0 L 500.0 390.0 z" fill="#5b6675"/>
+  <rect x="514.0" y="310.0" width="210.0" height="150.0" rx="12" fill="#ffffff" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <rect x="514.0" y="310.0" width="210.0" height="6.0" rx="3" fill="#334155" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="542.0" cy="350.0" r="15" fill="#334155" stroke="none" stroke-width="1.5"/>
+  <text x="542.0" y="355.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">7</text>
+  <text x="619.0" y="386.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Plan + review</text>
+  <text x="619.0" y="422.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">measurable goals, review</text>
+  <text x="619.0" y="435.2" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">date</text>
+  <line x1="726.0" y1="385.0" x2="742.0" y2="385.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 732.0 380.0 L 742.0 385.0 L 732.0 390.0 z" fill="#5b6675"/>
+  <line x1="690.0" y1="280.0" x2="690.0" y2="300.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 695.0 290.0 L 690.0 300.0 L 685.0 290.0 z" fill="#5b6675"/>
+  <line x1="600.0" y1="300.0" x2="575.0" y2="300.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 585.0 305.0 L 575.0 300.0 L 585.0 295.0 z" fill="#5b6675"/>
+  <line x1="470.0" y1="300.0" x2="445.0" y2="300.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 455.0 305.0 L 445.0 300.0 L 455.0 295.0 z" fill="#5b6675"/>
+  <line x1="350.0" y1="300.0" x2="325.0" y2="300.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 335.0 305.0 L 325.0 300.0 L 335.0 295.0 z" fill="#5b6675"/>
+  <line x1="220.0" y1="300.0" x2="195.0" y2="300.0" stroke="#5b6675" stroke-width="1.4"/>
+  <path d="M 205.0 305.0 L 195.0 300.0 L 205.0 295.0 z" fill="#5b6675"/>
+  <rect x="50.0" y="430.0" width="880.0" height="130.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="76.0" y="458.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.6px;">MINIMUM ASSESSMENT PACKAGE FOR A MASTER'S-LEVEL CLINIC</text>
+  <text x="84.0" y="486.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Presenting problem + onset + attempted solutions</text>
+  <text x="514.0" y="486.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Genogram (3 generations) and migration history</text>
+  <text x="84.0" y="510.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Risk screen: harm to self/others, abuse, IPV, safeguarding</text>
+  <text x="514.0" y="510.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Functioning + relationship satisfaction measure</text>
+  <text x="84.0" y="534.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Cultural, religious and language context; who holds power</text>
+  <text x="514.0" y="534.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">• Client's own goals, in the client's own words</text>
+  <rect x="40.0" y="570.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="589.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="610.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Feedback tip: present the formulation as a draft hypothesis with three parts — 'Here is what I think is happening; here is what I am less sure about; what</text>
+  <text x="54.0" y="624.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">have I got wrong?' Correction by the family increases buy-in and accuracy.</text>
+</svg>

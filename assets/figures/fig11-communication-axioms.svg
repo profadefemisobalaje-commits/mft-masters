@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="648" viewBox="0 0 980 648" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="648" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Watzlawick's Five Axioms of Communication</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Every message has a report and a command; every relationship is a punctuation of events</text>
+  <rect x="40.0" y="108.0" width="900.0" height="88.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <rect x="40.0" y="108.0" width="6.0" height="88.0" rx="3" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="152.0" r="17" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="158.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">1</text>
+  <text x="108.0" y="142.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">One cannot not communicate</text>
+  <text x="108.0" y="164.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Silence, lateness and a turned back are messages.</text>
+  <text x="108.0" y="184.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">e.g. A husband's silence at dinner is read as punishment — and is communication either way.</text>
+  <rect x="40.0" y="206.0" width="900.0" height="88.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <rect x="40.0" y="206.0" width="6.0" height="88.0" rx="3" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="250.0" r="17" fill="#1d4ed8" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="256.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">2</text>
+  <text x="108.0" y="240.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">Every message has content and relationship levels</text>
+  <text x="108.0" y="262.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">The report carries information; the command defines the relationship.</text>
+  <text x="108.0" y="282.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">e.g. 'The bin is full' can mean information, or 'you are lazy'.</text>
+  <rect x="40.0" y="304.0" width="900.0" height="88.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <rect x="40.0" y="304.0" width="6.0" height="88.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="348.0" r="17" fill="#15803d" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="354.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">3</text>
+  <text x="108.0" y="338.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">Punctuation organises the sequence of events</text>
+  <text x="108.0" y="360.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Each partner believes the other started it.</text>
+  <text x="108.0" y="380.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">e.g. She says he withdraws; he says she nags. Both are describing the same loop from opposite ends.</text>
+  <rect x="40.0" y="402.0" width="900.0" height="88.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <rect x="40.0" y="402.0" width="6.0" height="88.0" rx="3" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="446.0" r="17" fill="#b45309" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="452.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">4</text>
+  <text x="108.0" y="436.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">Humans communicate digitally and analogically</text>
+  <text x="108.0" y="458.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Words are digital; tone, posture and timing are analogical.</text>
+  <text x="108.0" y="478.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">e.g. A text saying 'fine' with a three-hour delay carries two different messages.</text>
+  <rect x="40.0" y="500.0" width="900.0" height="88.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <rect x="40.0" y="500.0" width="6.0" height="88.0" rx="3" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="78.0" cy="544.0" r="17" fill="#6d28d9" stroke="none" stroke-width="1.5"/>
+  <text x="78.0" y="550.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">5</text>
+  <text x="108.0" y="534.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">Relationships are symmetrical or complementary</text>
+  <text x="108.0" y="556.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Equal/competitive versus unequal/one-up–one-down.</text>
+  <text x="108.0" y="576.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">e.g. Two high achievers escalate (symmetrical); a 'strong' parent and a 'weak' child lock in (complementary).</text>
+  <rect x="40.0" y="572.0" width="900.0" height="71.8" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="591.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="612.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;">Axiom 3 is the therapist's most useful tool: asking each member to punctuate the same sequence aloud makes the loop visible without</text>
+  <text x="54.0" y="628.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;">assigning blame.</text>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="600" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Therapist Self-Care: Eight Domains and a Weekly Audit</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Burnout is an occupational hazard of empathic work, not a personal failing</text>
+  <rect x="60.0" y="96.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="122.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Physical</text>
+  <text x="80.0" y="142.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">sleep, movement, food, medical care</text>
+  <rect x="80.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="128.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="176.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="224.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="272.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="320.0" y="168.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">3/5 this week</text>
+  <rect x="510.0" y="96.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="530.0" y="122.0" fill="#9f1239" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Emotional</text>
+  <text x="530.0" y="142.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">naming feelings, therapy, journaling</text>
+  <rect x="530.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="578.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="626.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="674.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="722.0" y="156.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="770.0" y="168.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">2/5 this week</text>
+  <rect x="60.0" y="204.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="230.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Social</text>
+  <text x="80.0" y="250.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">friends who are not clients</text>
+  <rect x="80.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="128.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="176.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="224.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="272.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="320.0" y="276.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">3/5 this week</text>
+  <rect x="510.0" y="204.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="530.0" y="230.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Cognitive</text>
+  <text x="530.0" y="250.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">boundaries on information, curiosity</text>
+  <rect x="530.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="578.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="626.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="674.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="722.0" y="264.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="770.0" y="276.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">2/5 this week</text>
+  <rect x="60.0" y="312.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="338.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Spiritual</text>
+  <text x="80.0" y="358.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">prayer, meditation, meaning, rest</text>
+  <rect x="80.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="128.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="176.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="224.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="272.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="320.0" y="384.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">3/5 this week</text>
+  <rect x="510.0" y="312.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="530.0" y="338.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Professional</text>
+  <text x="530.0" y="358.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">supervision, CPD, caseload limits</text>
+  <rect x="530.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="578.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="626.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="674.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="722.0" y="372.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="770.0" y="384.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">2/5 this week</text>
+  <rect x="60.0" y="420.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="446.0" fill="#7c2d12" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Financial</text>
+  <text x="80.0" y="466.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">fee policy, savings, debt plan</text>
+  <rect x="80.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#7c2d12" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="128.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="176.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="224.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="272.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="320.0" y="492.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">1/5 this week</text>
+  <rect x="510.0" y="420.0" width="430.0" height="90.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="530.0" y="446.0" fill="#0891b2" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Environmental</text>
+  <text x="530.0" y="466.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">workspace, light, commute, safety</text>
+  <rect x="530.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#0891b2" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="578.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#0891b2" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="626.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#0891b2" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="674.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <rect x="722.0" y="480.0" width="40.0" height="14.0" rx="4" fill="#e8edf3" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="770.0" y="492.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">3/5 this week</text>
+  <rect x="60.0" y="540.0" width="860.0" height="40.0" rx="8" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="566.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Warning signs: cynicism, dread before sessions, boundary erosion, resentment of clients, 'I am the only one who can help'.</text>
+</svg>

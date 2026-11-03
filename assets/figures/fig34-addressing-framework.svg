@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="646" viewBox="0 0 980 646" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="646" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Cultural Assessment: The ADDRESSING Framework (Hays)</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Culture is not a category you tick; it is a set of positions with power attached</text>
+  <rect x="60.0" y="104.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="96.0" cy="143.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="149.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">A</text>
+  <text x="128.0" y="134.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Age &amp; generational</text>
+  <text x="128.0" y="156.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Who is young, who is elder, who must not be corrected?</text>
+  <rect x="515.0" y="104.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="551.0" cy="143.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="551.0" y="149.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">D</text>
+  <text x="583.0" y="134.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Developmental / disability</text>
+  <text x="583.0" y="156.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Visible and invisible; access needs; stigma</text>
+  <rect x="60.0" y="196.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="96.0" cy="235.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="241.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">D</text>
+  <text x="128.0" y="226.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Disability acquired</text>
+  <text x="128.0" y="248.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Onset, meaning, family role changes</text>
+  <rect x="515.0" y="196.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="551.0" cy="235.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="551.0" y="241.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">R</text>
+  <text x="583.0" y="226.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Religion &amp; spirituality</text>
+  <text x="583.0" y="248.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Practice, obligation, authority, coping</text>
+  <rect x="60.0" y="288.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="96.0" cy="327.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="333.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">E</text>
+  <text x="128.0" y="318.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Ethnic &amp; racial identity</text>
+  <text x="128.0" y="340.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Majority/minority status; discrimination history</text>
+  <rect x="515.0" y="288.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="551.0" cy="327.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="551.0" y="333.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">S</text>
+  <text x="583.0" y="318.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Socioeconomic status</text>
+  <text x="583.0" y="340.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Income, class, education, job security</text>
+  <rect x="60.0" y="380.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="96.0" cy="419.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="425.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">S</text>
+  <text x="128.0" y="410.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Sexual orientation</text>
+  <text x="128.0" y="432.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Disclosure, safety, family acceptance</text>
+  <rect x="515.0" y="380.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="551.0" cy="419.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="551.0" y="425.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">I</text>
+  <text x="583.0" y="410.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Indigenous heritage</text>
+  <text x="583.0" y="432.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Land, language, custom, historical loss</text>
+  <rect x="60.0" y="472.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="96.0" cy="511.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="517.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">N</text>
+  <text x="128.0" y="502.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">National origin</text>
+  <text x="128.0" y="524.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Migration, citizenship, language, accent</text>
+  <rect x="515.0" y="472.0" width="435.0" height="78.0" rx="10" fill="#ffffff" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="551.0" cy="511.0" r="20" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="551.0" y="517.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">G</text>
+  <text x="583.0" y="502.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">Gender</text>
+  <text x="583.0" y="524.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">Roles, expectations, decision-making power</text>
+  <rect x="40.0" y="572.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="591.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="612.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Use it as an interview, not a checklist: 'In your family, who usually decides? Who is consulted? What does your faith say about this problem? What language</text>
+  <text x="54.0" y="626.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">do you argue in?' Then ask yourself where YOU sit on each line and how that shapes what you notice.</text>
+</svg>

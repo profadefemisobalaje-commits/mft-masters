@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>MSc Marriage and Family Therapy — library and print edition</title>
+<style>
+:root{--ink:#16232B;--teal:#0D4F4A;--gold:#A87C33;--line:#e2e7e6}
+*{box-sizing:border-box}
+body{margin:0;font-family:"Segoe UI",system-ui,-apple-system,Helvetica,Arial,sans-serif;
+color:var(--ink);background:#fbfbf9;line-height:1.6}
+header{background:#08322e;color:#fff;padding:56px 40px 46px}
+header .kicker{color:#d8b676;font-size:12px;letter-spacing:2.4px;text-transform:uppercase;font-weight:700}
+header h1{font-size:clamp(26px,3.6vw,40px);margin:10px 0 8px;letter-spacing:-.5px}
+header p{margin:0;color:#9fb3ae;max-width:66ch}
+.band{height:5px;background:var(--gold)}
+main{max-width:960px;margin:0 auto;padding:38px 24px 72px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px 24px 24px;
+display:flex;flex-direction:column;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+.card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(8,50,46,.14);border-color:var(--teal)}
+.card h2{font-size:17px;margin:0 0 6px;color:var(--teal)}
+.card p{margin:0 0 18px;font-size:14.5px;color:#41525a}
+.card .meta{font-size:12.5px;letter-spacing:.4px;text-transform:uppercase;color:var(--gold);
+font-weight:700;margin-bottom:10px}
+.btn{margin-top:auto;display:inline-block;background:var(--teal);color:#fff;text-decoration:none;
+font-weight:600;font-size:14px;padding:11px 18px;border-radius:9px;text-align:center}
+.btn.alt{background:#fff;color:var(--teal);border:1.5px solid var(--teal)}
+footer{max-width:960px;margin:0 auto;padding:0 24px 48px;font-size:13px;color:#6c7a81}
+code{background:#eef2f1;padding:2px 6px;border-radius:5px;font-size:12.5px}
+</style></head>
+<body>
+<header>
+  <div class="kicker">MSc Marriage and Family Therapy</div>
+  <h1>Lecture library and print edition</h1>
+  <p>Twenty-seven course books and a thesis volume for a two-year master's programme, with a
+  print-ready A4 PDF of every book. Two ways in: browse the text, or download the PDFs.</p>
+</header>
+<div class="band"></div>
+<main>
+  <div class="grid">
+    <div class="card">
+      <div class="meta">Reading</div>
+      <h2>Lecture library</h2>
+      <p>The full text of every volume as browsable web pages — one page per course book, with the
+      figures, tables, cases, transcripts and exercises laid out for the screen.</p>
+      <a class="btn" href="site/index.html">Open the library →</a>
+    </div>
+    <div class="card">
+      <div class="meta">Print edition</div>
+      <h2>Course PDFs</h2>
+      <p>One finished A4 PDF per course book, plus the whole library bound into a single bookmarked
+      file. Covers, contents with real page numbers, running heads, folios, embedded figures.</p>
+      <a class="btn" href="pdf/index.html">Download the PDFs →</a>
+    </div>
+    <div class="card">
+      <div class="meta">One file</div>
+      <h2>Everything as a book</h2>
+      <p>The complete library in a single PDF, bookmarked by course, for reading straight through or
+      printing in one run.</p>
+      <a class="btn alt" href="pdf/MFT-Library-Complete-28-volumes.pdf">Open the complete volume (PDF)</a>
+    </div>
+    <div class="card">
+      <div class="meta">Bundle</div>
+      <h2>All course PDFs (zip)</h2>
+      <p>Every course PDF in one download, for putting on a memory stick, a shared drive or a
+      departmental server.</p>
+      <a class="btn alt" href="MFT-All-28-Course-PDFs.zip">Download all 28 (zip, 11 MB)</a>
+    </div>
+  </div>
+</main>
+<footer>
+  <p>Built from the markdown sources in <code>01-semester-one/</code> … <code>04-electives/</code>.
+  Rebuild with <code>python3 scripts/build_site.py</code>,
+  <code>/home/user/.venv/bin/python scripts/build_pdfs.py --complete</code> and
+  <code>/home/user/.venv/bin/python scripts/build_pdf_gallery.py --zip</code>.</p>
+</footer>
+</body></html>

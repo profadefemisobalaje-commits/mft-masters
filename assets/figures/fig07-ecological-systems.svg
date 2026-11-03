@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="660" viewBox="0 0 980 660" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="660" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Family in Its Ecological Nested Systems</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Bronfenbrenner's bioecological model adapted for family therapy assessment</text>
+  <rect x="30.0" y="96.0" width="920.0" height="470.0" rx="16" fill="#f4f7fb" stroke="#d5dfea" stroke-width="1.5" opacity="1.0"/>
+  <text x="56.0" y="122.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.6px;">MACROSYSTEM  culture · policy · religion · economy</text>
+  <rect x="90.0" y="140.0" width="800.0" height="400.0" rx="14" fill="#eaf0f8" stroke="#c9d6e6" stroke-width="1.5" opacity="1.0"/>
+  <text x="112.0" y="166.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.5px;">EXOSYSTEM  school board · workplace · health system · mass media</text>
+  <rect x="150.0" y="184.0" width="680.0" height="330.0" rx="14" fill="#e4ece0" stroke="#c3d3bd" stroke-width="1.5" opacity="1.0"/>
+  <text x="172.0" y="210.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.4px;">MESOSYSTEM  links between microsystems (home–school, home–clinic)</text>
+  <rect x="215.0" y="230.0" width="550.0" height="258.0" rx="14" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.5" opacity="1.0"/>
+  <text x="238.0" y="256.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.5px;">MICROSYSTEM  the family's daily settings</text>
+  <rect x="300.0" y="286.0" width="44.0" height="44.0" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="408.0" cy="308.0" r="22" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <rect x="486.0" y="288.0" width="40.0" height="40.0" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <circle cx="548.0" cy="308.0" r="20" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <line x1="344.0" y1="308.0" x2="386.0" y2="308.0" stroke="#1f2937" stroke-width="2"/>
+  <line x1="430.0" y1="308.0" x2="486.0" y2="308.0" stroke="#1f2937" stroke-width="2"/>
+  <line x1="526.0" y1="308.0" x2="528.0" y2="308.0" stroke="#1f2937" stroke-width="2"/>
+  <text x="428.0" y="360.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;font-style:italic;">the family</text>
+  <rect x="250.0" y="392.0" width="130.0" height="62.0" rx="8" fill="#e6f4f1" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="315.0" y="416.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">church / mosque</text>
+  <text x="315.0" y="434.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">extended kin</text>
+  <rect x="400.0" y="392.0" width="120.0" height="62.0" rx="8" fill="#fdf3e3" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <text x="460.0" y="416.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">school</text>
+  <text x="460.0" y="434.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">health clinic</text>
+  <rect x="545.0" y="392.0" width="130.0" height="62.0" rx="8" fill="#e8eefc" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <text x="610.0" y="416.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">peers</text>
+  <text x="610.0" y="434.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:600;">social media</text>
+  <text x="300.0" y="490.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">CHRONOSYSTEM  time: migration, bereavement, policy change, family stage</text>
+  <line x1="920.0" y1="470.0" x2="905.0" y2="470.0" stroke="#5b6675" stroke-width="1.2"/>
+  <path d="M 915.0 475.0 L 905.0 470.0 L 915.0 465.0 z" fill="#5b6675"/>
+  <rect x="40.0" y="584.0" width="900.0" height="71.8" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="603.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="624.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;">Assessment prompt: 'What outside this room is holding the problem in place — rent, school fees, a shift pattern, a hostile in-law, a visa</text>
+  <text x="54.0" y="640.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:400;">application?' Therapy that stays inside the consulting room misses most of the system.</text>
+</svg>

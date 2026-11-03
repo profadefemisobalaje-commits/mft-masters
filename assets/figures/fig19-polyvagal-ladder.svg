@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="635" viewBox="0 0 980 635" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="635" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Polyvagal Ladder (Porges)</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Three survival states, each with its own felt sense and social signal</text>
+  <rect x="90.0" y="120.0" width="640.0" height="118.0" rx="10" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="90.0" y="120.0" width="7.0" height="118.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="116.0" y="150.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;letter-spacing:0.8px;">VENTRAL VAGAL</text>
+  <text x="116.0" y="172.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;letter-spacing:1px;">SAFE &amp; SOCIAL</text>
+  <text x="116.0" y="198.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">calm, curious, connected, flexible</text>
+  <text x="116.0" y="220.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">cues: warm voice, open posture, eye contact</text>
+  <rect x="160.0" y="256.0" width="570.0" height="118.0" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="160.0" y="256.0" width="7.0" height="118.0" rx="3" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="186.0" y="286.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;letter-spacing:0.8px;">SYMPATHETIC</text>
+  <text x="186.0" y="308.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;letter-spacing:1px;">MOBILISED</text>
+  <text x="186.0" y="334.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">anxious, angry, panicked, driven</text>
+  <text x="186.0" y="356.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">cues: fast speech, agitation, urgency</text>
+  <rect x="230.0" y="392.0" width="500.0" height="118.0" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="392.0" width="7.0" height="118.0" rx="3" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="256.0" y="422.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12.5px;font-weight:700;letter-spacing:0.8px;">DORSAL VAGAL</text>
+  <text x="256.0" y="444.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;letter-spacing:1px;">SHUT DOWN</text>
+  <text x="256.0" y="470.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">numb, flat, hopeless, dissociated</text>
+  <text x="256.0" y="492.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">cues: low voice, still face, collapse</text>
+  <line x1="830.0" y1="470.0" x2="830.0" y2="150.0" stroke="#15803d" stroke-width="2.4"/>
+  <path d="M 825.0 160.0 L 830.0 150.0 L 835.0 160.0 z" fill="#15803d"/>
+  <text x="785.0" y="300.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">co-regulation</text>
+  <text x="785.0" y="316.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">moves you up</text>
+  <text x="918.0" y="288.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">SAFETY</text>
+  <text x="918.0" y="306.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">is the</text>
+  <text x="918.0" y="322.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">intervention</text>
+  <rect x="40.0" y="560.0" width="900.0" height="69.0" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="579.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="600.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Clinically: the ladder is not a hierarchy of worth. A 'shut down' adolescent is not lazy; a 'mobilised' parent is not abusive by nature. Ask 'what did your</text>
+  <text x="54.0" y="615.5" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">body do to keep you safe?' before asking 'what should you do differently?'</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="634" viewBox="0 0 980 634" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="634" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Trauma-Informed Practice: The Four R's and Six Principles</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Trauma-informed is an organisational stance, not a technique you add to session two</text>
+  <rect x="45.0" y="96.0" width="212.0" height="110.0" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <rect x="45.0" y="96.0" width="212.0" height="6.0" rx="3" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="151.0" y="128.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.5px;">REALISE</text>
+  <text x="151.0" y="152.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">the widespread impact of</text>
+  <text x="151.0" y="165.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">trauma and the paths to</text>
+  <text x="151.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">recovery</text>
+  <rect x="273.0" y="96.0" width="212.0" height="110.0" rx="12" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <rect x="273.0" y="96.0" width="212.0" height="6.0" rx="3" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="379.0" y="128.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.5px;">RECOGNISE</text>
+  <text x="379.0" y="152.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">the signs and symptoms in</text>
+  <text x="379.0" y="165.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">clients, families and staff</text>
+  <rect x="501.0" y="96.0" width="212.0" height="110.0" rx="12" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="501.0" y="96.0" width="212.0" height="6.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="607.0" y="128.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.5px;">RESPOND</text>
+  <text x="607.0" y="152.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">by integrating knowledge</text>
+  <text x="607.0" y="165.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">into policy, language and</text>
+  <text x="607.0" y="178.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">practice</text>
+  <rect x="729.0" y="96.0" width="212.0" height="110.0" rx="12" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="729.0" y="96.0" width="212.0" height="6.0" rx="3" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="835.0" y="128.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:0.5px;">RESIST RE-TRAUMATISATION</text>
+  <text x="835.0" y="152.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">actively avoid practices that</text>
+  <text x="835.0" y="165.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">repeat the injury</text>
+  <text x="490.0" y="240.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">SIX PRINCIPLES IN THE ROOM</text>
+  <rect x="60.0" y="262.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="288.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Safety</text>
+  <text x="80.0" y="308.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">predictable start and finish; explain the room; no surprises</text>
+  <rect x="520.0" y="262.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="540.0" y="288.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Trustworthiness</text>
+  <text x="540.0" y="308.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">do what you say; be on time; be honest about limits</text>
+  <rect x="60.0" y="354.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="380.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Peer support</text>
+  <text x="80.0" y="400.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">link to people who share the experience, not only professionals</text>
+  <rect x="520.0" y="354.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="540.0" y="380.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Collaboration</text>
+  <text x="540.0" y="400.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">shared power; the client helps set the agenda</text>
+  <rect x="60.0" y="446.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="472.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Empowerment</text>
+  <text x="80.0" y="492.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">build on strengths; offer choices at every step</text>
+  <rect x="520.0" y="446.0" width="440.0" height="78.0" rx="10" fill="#f8fafc" stroke="#dde4ec" stroke-width="1.5" opacity="1.0"/>
+  <text x="540.0" y="472.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">Cultural humility</text>
+  <text x="540.0" y="492.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.6px;font-weight:400;">the family's meaning system is the treatment context</text>
+  <rect x="40.0" y="560.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="579.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="600.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Re-traumatisation traps to avoid: forcing a detailed narrative too early, using a restraint or closed door without explanation, disclosing confidential material</text>
+  <text x="54.0" y="614.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">in a joint session, and interpreting 'non-compliance' as character.</text>
+</svg>

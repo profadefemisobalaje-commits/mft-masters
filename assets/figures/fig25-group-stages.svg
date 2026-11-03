@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="640" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Stages of Group Development and the Therapeutic Factors</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Groups change shape over time; your leadership must change with them</text>
+  <rect x="55.0" y="110.0" width="168.0" height="130.0" rx="12" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <rect x="55.0" y="110.0" width="168.0" height="6.0" rx="3" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="139.0" y="140.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.8px;">FORMING</text>
+  <text x="139.0" y="166.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">orientation, anxiety,</text>
+  <text x="139.0" y="182.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">dependence on leader</text>
+  <line x1="225.0" y1="175.0" x2="249.0" y2="175.0" stroke="#334155" stroke-width="1.8"/>
+  <path d="M 239.0 170.0 L 249.0 175.0 L 239.0 180.0 z" fill="#334155"/>
+  <rect x="233.0" y="110.0" width="168.0" height="130.0" rx="12" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="233.0" y="110.0" width="168.0" height="6.0" rx="3" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="317.0" y="140.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.8px;">STORMING</text>
+  <text x="317.0" y="166.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">conflict, roles contested,</text>
+  <text x="317.0" y="182.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">resistance</text>
+  <line x1="403.0" y1="175.0" x2="427.0" y2="175.0" stroke="#334155" stroke-width="1.8"/>
+  <path d="M 417.0 170.0 L 427.0 175.0 L 417.0 180.0 z" fill="#334155"/>
+  <rect x="411.0" y="110.0" width="168.0" height="130.0" rx="12" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="411.0" y="110.0" width="168.0" height="6.0" rx="3" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="495.0" y="140.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.8px;">NORMING</text>
+  <text x="495.0" y="166.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">cohesion, shared rules,</text>
+  <text x="495.0" y="182.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">trust</text>
+  <line x1="581.0" y1="175.0" x2="605.0" y2="175.0" stroke="#334155" stroke-width="1.8"/>
+  <path d="M 595.0 170.0 L 605.0 175.0 L 595.0 180.0 z" fill="#334155"/>
+  <rect x="589.0" y="110.0" width="168.0" height="130.0" rx="12" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="589.0" y="110.0" width="168.0" height="6.0" rx="3" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="673.0" y="140.0" fill="#15803d" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.8px;">PERFORMING</text>
+  <text x="673.0" y="166.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">work, mutual aid,</text>
+  <text x="673.0" y="182.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">risk-taking</text>
+  <line x1="759.0" y1="175.0" x2="783.0" y2="175.0" stroke="#334155" stroke-width="1.8"/>
+  <path d="M 773.0 170.0 L 783.0 175.0 L 773.0 180.0 z" fill="#334155"/>
+  <rect x="767.0" y="110.0" width="168.0" height="130.0" rx="12" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <rect x="767.0" y="110.0" width="168.0" height="6.0" rx="3" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="851.0" y="140.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;letter-spacing:0.8px;">ADJOURNING</text>
+  <text x="851.0" y="166.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">separation, consolidation,</text>
+  <text x="851.0" y="182.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">forward plan</text>
+  <rect x="55.0" y="268.0" width="420.0" height="280.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="80.0" y="296.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">YALOM'S THERAPEUTIC FACTORS</text>
+  <circle cx="84.0" cy="326.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="330.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Instillation of hope</text>
+  <circle cx="289.0" cy="326.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="301.0" y="330.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Universality</text>
+  <circle cx="84.0" cy="360.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="364.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Imparting information</text>
+  <circle cx="289.0" cy="360.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="301.0" y="364.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Altruism</text>
+  <circle cx="84.0" cy="394.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="398.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Corrective recapitulation</text>
+  <circle cx="289.0" cy="394.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="301.0" y="398.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Socialising techniques</text>
+  <circle cx="84.0" cy="428.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="432.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Imitative behaviour</text>
+  <circle cx="289.0" cy="428.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="301.0" y="432.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Interpersonal learning</text>
+  <circle cx="84.0" cy="462.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="466.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Group cohesiveness</text>
+  <circle cx="289.0" cy="462.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="301.0" y="466.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Catharsis</text>
+  <circle cx="84.0" cy="496.0" r="4" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="96.0" y="500.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Existential factors</text>
+  <rect x="495.0" y="268.0" width="430.0" height="280.0" rx="12" fill="#ffffff" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="520.0" y="296.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;letter-spacing:0.8px;">WHAT THE LEADER DOES</text>
+  <text x="520.0" y="330.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Forming</text>
+  <text x="600.0" y="330.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">structure, safety, names, purpose</text>
+  <text x="520.0" y="372.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Storming</text>
+  <text x="600.0" y="372.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">stay steady; name the process</text>
+  <text x="520.0" y="414.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Norming</text>
+  <text x="600.0" y="414.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">make the rules explicit</text>
+  <text x="520.0" y="456.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Performing</text>
+  <text x="600.0" y="456.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">step back; let mutual aid work</text>
+  <text x="520.0" y="498.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Adjourning</text>
+  <text x="600.0" y="498.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">review gains; plan for relapse</text>
+  <rect x="40.0" y="566.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="585.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="606.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Open versus closed groups: closed groups build cohesion but lose members to attrition; open groups tolerate drop-out but must re-form repeatedly. Choose</text>
+  <text x="54.0" y="620.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">according to setting, not preference.</text>
+</svg>

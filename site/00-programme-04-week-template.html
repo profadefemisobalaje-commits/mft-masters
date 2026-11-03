@@ -1,0 +1,134 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The teaching-week template</title><style>
+:root{--ink:#1f2937;--muted:#5b6675;--line:#e2e8f0;--teal:#0f766e;--bg:#fff;
+--panel:#f8fafc;--amber:#b45309;--rose:#9f1239;--plum:#6d28d9;--blue:#1d4ed8;--green:#15803d;}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;font-family:"Segoe UI",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Arial,sans-serif;
+color:var(--ink);background:var(--bg);line-height:1.68;font-size:16.5px}
+.wrap{display:grid;grid-template-columns:296px minmax(0,1fr);min-height:100vh}
+nav{position:sticky;top:0;height:100vh;overflow-y:auto;background:#0f172a;color:#cbd5e1;padding:22px 18px 60px}
+nav h1{font-size:15px;letter-spacing:.4px;color:#fff;margin:0 0 4px;line-height:1.35}
+nav .sub{font-size:11.5px;color:#94a3b8;margin-bottom:16px}
+nav input{width:100%;padding:8px 10px;border-radius:8px;border:1px solid #334155;
+background:#1e293b;color:#e2e8f0;font-size:13px;margin-bottom:14px}
+nav a{display:block;color:#cbd5e1;text-decoration:none;font-size:13px;padding:5px 8px;border-radius:6px}
+nav a:hover{background:#1e293b;color:#fff}
+nav a.on{background:var(--teal);color:#fff;font-weight:600}
+nav .sec{font-size:10.5px;letter-spacing:1.2px;text-transform:uppercase;color:#64748b;margin:18px 0 6px}
+a{color:var(--teal)}
+main{padding:44px 52px 90px;max-width:1000px;width:100%}
+h1{font-size:30px;line-height:1.25;margin:0 0 8px;color:#0f172a;letter-spacing:-.4px}
+h2{font-size:22px;margin:46px 0 12px;padding-top:12px;border-top:1px solid var(--line);
+color:#0f172a;scroll-margin-top:16px}
+h3{font-size:17.5px;margin:28px 0 8px;color:var(--teal)}
+h4{font-size:15px;margin:20px 0 6px;color:#334155}
+p{margin:0 0 14px;max-width:76ch}
+ul,ol{margin:0 0 16px;padding-left:24px;max-width:76ch}
+li{margin:5px 0}
+code{background:#f1f5f9;padding:1px 5px;border-radius:4px;font-size:.9em}
+pre{background:#0f172a;color:#e2e8f0;padding:16px;border-radius:10px;overflow-x:auto}
+figure{margin:22px 0;padding:0}
+figure img{width:100%;height:auto;border:1px solid var(--line);border-radius:12px;background:#fff}
+figcaption{font-size:13px;color:var(--muted);margin-top:8px;font-style:italic}
+.tw{overflow-x:auto;margin:18px 0}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{border:1px solid var(--line);padding:9px 11px;vertical-align:top;text-align:left}
+th{background:var(--panel);font-size:12.5px;text-transform:uppercase;letter-spacing:.5px;color:#475569}
+tr:nth-child(even) td{background:#fcfdfe}
+blockquote,.callout{margin:20px 0;padding:16px 18px;border-radius:10px;border-left:4px solid var(--amber);
+background:#fdf7ec;font-size:15px}
+.callout.case{border-color:var(--teal);background:#eef7f5}
+.callout.practical{border-color:var(--blue);background:#eef2fd}
+.callout.caution{border-color:var(--rose);background:#fcf0f4}
+.callout.reflect{border-color:var(--plum);background:#f5f0fe}
+.callout.key{border-color:var(--green);background:#eef8f1}
+.callout.dialog{border-color:#475569;background:#f4f6f9}
+.callout.law{border-color:#7c2d12;background:#fbf3ee}
+hr{border:none;border-top:1px solid var(--line);margin:34px 0}
+.meta{color:var(--muted);font-size:14px;margin:0 0 6px}
+.toc{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 22px;margin:24px 0}
+.toc div{font-size:11px;letter-spacing:1.3px;text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+.toc a{display:block;font-size:14px;padding:3px 0;text-decoration:none}
+.toc a:hover{text-decoration:underline}
+@media print{
+ nav{display:none}.wrap{display:block}main{padding:0;max-width:none}
+ h2{page-break-after:avoid}figure{page-break-inside:avoid}body{font-size:11.5pt}
+ a{color:inherit;text-decoration:none}
+}
+@media (max-width:900px){.wrap{display:block}nav{position:static;height:auto}
+ main{padding:24px 18px 60px}h1{font-size:24px}}
+</style></head><body><div class="wrap">
+<nav><h1>MSc Marriage &amp; Family Therapy</h1>
+<div class="sub">Complete lecture library · 28 course books</div>
+<input id="q" placeholder="Filter courses…" oninput="f(this.value)">
+<div class="sec">Programme</div>
+<a href="00-programme-00-programme-handbook.html">Programme Handbook — MSc Marriage and Family Therapy</a>
+<a href="00-programme-01-teaching-and-assessment-guide.html">Teaching and Assessment Guide for Lecturers</a>
+<a href="00-programme-02-figure-index.html">Figure Index — 40 Original Diagrams</a>
+<a href="00-programme-03-figure-gallery.html">Figure Gallery — All 40 Diagrams</a>
+<a href="00-programme-04-week-template.html">The teaching-week template</a>
+<div class="sec">Semester One</div>
+<a href="01-semester-one-MFT-701-fundamentals-of-marriage-and-family-therapy.html">MFT 701 — Fundamentals of Marriage and Family Therapy</a>
+<a href="01-semester-one-MFT-702-theories-of-family-therapy.html">MFT 702 — Theories of Family Therapy</a>
+<a href="01-semester-one-MFT-703-human-development-across-the-lifespan.html">MFT 703 — Human Development Across the Lifespan</a>
+<a href="01-semester-one-MFT-704-ethical-and-legal-issues-in-therapy.html">MFT 704 — Ethical and Legal Issues in Therapy</a>
+<a href="01-semester-one-MFT-705-research-methods-in-mft.html">MFT 705 — Research Methods in Marriage and Family Therapy</a>
+<a href="01-semester-one-MFT-706-clinical-practice-and-techniques.html">MFT 706 — Clinical Practice and Techniques</a>
+<a href="01-semester-one-MFT-707-assessment-and-diagnosis-in-family-therapy.html">MFT 707 — Assessment and Diagnosis in Family Therapy</a>
+<a href="01-semester-one-MFT-708-cultural-competence-in-therapy.html">MFT 708 — Cultural Competence in Therapy</a>
+<div class="sec">Semester Two</div>
+<a href="02-semester-two-MFT-709-group-therapy-techniques.html">MFT 709 — Group Therapy Techniques</a>
+<a href="02-semester-two-MFT-710-couples-therapy.html">MFT 710 — Couples Therapy</a>
+<a href="02-semester-two-MFT-711-child-and-adolescent-therapy.html">MFT 711 — Child and Adolescent Therapy</a>
+<a href="02-semester-two-MFT-712-crisis-intervention-strategies.html">MFT 712 — Crisis Intervention Strategies</a>
+<a href="02-semester-two-MFT-713-substance-abuse-and-family-dynamics.html">MFT 713 — Substance Abuse and Family Dynamics</a>
+<a href="02-semester-two-MFT-714-trauma-informed-care.html">MFT 714 — Trauma-Informed Care</a>
+<a href="02-semester-two-MFT-715-family-systems-theory.html">MFT 715 — Family Systems Theory</a>
+<div class="sec">Semester Three</div>
+<a href="03-semester-three-MFT-716-communication-skills-in-therapy.html">MFT 716 — Communication Skills in Therapy</a>
+<a href="03-semester-three-MFT-717-psychopathology-in-families.html">MFT 717 — Psychopathology in Families</a>
+<a href="03-semester-three-MFT-718-intimacy-and-relationship-dynamics.html">MFT 718 — Intimacy and Relationship Dynamics</a>
+<a href="03-semester-three-MFT-719-family-life-cycle-and-transitions.html">MFT 719 — Family Life Cycle and Transitions</a>
+<a href="03-semester-three-MFT-720-supervision-and-consultation.html">MFT 720 — Supervision and Consultation in Therapy</a>
+<a href="03-semester-three-MFT-721-research-methodology.html">MFT 721 — Research Methodology</a>
+<a href="03-semester-three-MFT-770-master-thesis.html">MFT 770 — Master Thesis</a>
+<div class="sec">Electives</div>
+<a href="04-electives-MFT-722-professional-development-and-self-care.html">MFT 722 — Professional Development and Self-Care</a>
+<a href="04-electives-MFT-723-special-populations-in-therapy.html">MFT 723 — Special Populations in Therapy</a>
+<a href="04-electives-MFT-724-family-law-and-advocacy.html">MFT 724 — Family Law and Advocacy</a>
+<a href="04-electives-MFT-725-integrative-approaches-in-therapy.html">MFT 725 — Integrative Approaches in Therapy</a>
+<a href="04-electives-MFT-726-neurobiology-of-relationships.html">MFT 726 — Neurobiology of Relationships</a>
+<a href="04-electives-MFT-727-play-therapy-techniques.html">MFT 727 — Play Therapy Techniques</a></nav>
+<main><h1>The teaching-week template</h1><p>Every teaching week in every course book is written to a single standard: <strong>not less than 8,000 words of week content</strong>, delivered through the same thirteen components so a student always knows where to find what. The checker (<code>scripts/check_week_lengths.py</code>) measures each week from its heading to the next <code>##</code> heading, and fails the build if any week falls short.</p>
+<div class="tw"><table><thead><tr><th>#</th><th>Component</th><th>Target words</th><th>Purpose</th></tr></thead><tbody>
+<tr><td>1</td><td>Week at a glance — the 90-minute lecture plan</td><td>250</td><td>What happens in the session, minute by minute</td></tr>
+<tr><td>2</td><td>Lecture notes — six to nine numbered sections</td><td>2,800–3,200</td><td>The substance: concepts, mechanisms, debates, numbers</td></tr>
+<tr><td>3</td><td>Worked case study</td><td>1,000–1,300</td><td>One family, fully formulated, with the reasoning shown</td></tr>
+<tr><td>4</td><td>Annotated transcript</td><td>600–800</td><td>What the therapist did, turn by turn, and why</td></tr>
+<tr><td>5</td><td>Laboratory protocol + marking rubric</td><td>600–800</td><td>The assessed practice, with criteria and weights</td></tr>
+<tr><td>6</td><td>Skills drill</td><td>250–350</td><td>A repeatable exercise for deliberate practice</td></tr>
+<tr><td>7</td><td>Six common errors</td><td>350–450</td><td>What trainees actually get wrong, and the fix</td></tr>
+<tr><td>8</td><td>Culture, faith and context note</td><td>350–450</td><td>Local application, with the caution attached</td></tr>
+<tr><td>9</td><td>Evidence note or debate</td><td>350–450</td><td>What the literature supports, with hedges intact</td></tr>
+<tr><td>10</td><td>Key terms table</td><td>400–500</td><td>12–18 terms defined for the examination</td></tr>
+<tr><td>11</td><td>Self-test — MCQs, short answers, model answers</td><td>550–700</td><td>Formative assessment with the key</td></tr>
+<tr><td>12</td><td>Reflective task</td><td>180–250</td><td>The personal work that makes the week stick</td></tr>
+<tr><td>13</td><td>Readings</td><td>120–200</td><td>Two core, four extension, with what to notice</td></tr>
+</tbody></table></div>
+<p><strong>House style for week content</strong></p>
+<ul>
+<li>Headings: <code>### 7.1</code>, <code>### 7.2</code> … under the week's <code>##</code> heading, so the PDF contents nests correctly.</li>
+<li>Callouts are blockquote panels, one per line start: <code>&gt; <strong>CASE</strong> —</code>, <code>&gt; <strong>PRACTICAL</strong> —</code>, <code>&gt; <strong>CAUTION</strong> —</code>, <code>&gt; <strong>DEBATE</strong> —</code>, <code>&gt; <strong>REFLECT</strong> —</code>, <code>&gt; <strong>DRILL</strong> —</code>, <code>&gt; <strong>TASK</strong> —</code>, <code>&gt; <strong>AUDIT</strong> —</code>. Dialogue is written as <code>&gt; <strong>Speaker:</strong> …</code> lines.</li>
+<li>Cases are fictional composites. Names recur across the library so students meet the same families in different courses: the Adeyemi family, Mrs Okonkwo and Ebuka (9), Folake and Dele, Aisha and Sam.</li>
+<li>Every clinical claim that has an evidence base gets a hedge: <em>robust</em>, <em>plausible</em>, <em>popular but unsupported</em>. Students are being trained to read, not to believe.</li>
+<li>Currency: all figures cited as a percentage must be internally consistent within the book; where a figure is illustrative rather than sourced, say so.</li>
+<li>No week may end without a reflective task and a reading list.</li>
+</ul>
+<p><strong>Word-count discipline.</strong> Prose is not padded. The word count is met by covering the topic properly: the history of the idea, the mechanism, the clinical procedure, the failure modes, the cultural application, the evidence, the assessment. A week that reaches 8,000 words by repetition is a failed week; a week that reaches 8,000 words because the topic needed it is the standard.</p></main></div>
+<script>
+function f(v){v=v.toLowerCase();
+document.querySelectorAll('nav a').forEach(function(a){
+a.style.display=a.textContent.toLowerCase().includes(v)?'block':'none';});}
+</script></body></html>

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="694" viewBox="0 0 980 694" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="694" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Developmental Milestones Across Childhood</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A screening map — not a diagnostic instrument. Variation is normal; regression is a flag</text>
+  <text x="132.0" y="118.0" fill="#5b6675" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">AGE (years)</text>
+  <text x="212.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">0–1</text>
+  <text x="348.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">1–3</text>
+  <text x="484.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">3–6</text>
+  <text x="620.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">6–11</text>
+  <text x="756.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">11–14</text>
+  <text x="892.0" y="118.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">14–18</text>
+  <line x1="150.0" y1="130.0" x2="966.0" y2="130.0" stroke="#c7d0da" stroke-width="1.5"/>
+  <text x="132.0" y="190.0" fill="#0f766e" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Physical</text>
+  <rect x="154.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="218.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">sits, crawls, walks</text>
+  <rect x="290.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="354.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">runs, climbs,</text>
+  <text x="354.0" y="189.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">feeds self</text>
+  <rect x="426.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">hops, draws, toilet</text>
+  <text x="490.0" y="189.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">trained</text>
+  <rect x="562.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="626.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">refines motor</text>
+  <text x="626.0" y="189.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">skills</text>
+  <rect x="698.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="762.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">puberty begins</text>
+  <rect x="834.0" y="150.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="898.0" y="176.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">growth spurt,</text>
+  <text x="898.0" y="189.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">sexual maturity</text>
+  <text x="132.0" y="306.0" fill="#1d4ed8" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Cognitive</text>
+  <rect x="154.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="218.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">object</text>
+  <text x="218.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">permanence</text>
+  <rect x="290.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="354.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">symbolic play,</text>
+  <text x="354.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">words combine</text>
+  <rect x="426.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">magical thinking,</text>
+  <text x="490.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">theory of mind</text>
+  <rect x="562.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="626.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">concrete</text>
+  <text x="626.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">operations</text>
+  <rect x="698.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="762.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">abstract</text>
+  <text x="762.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">reasoning begins</text>
+  <rect x="834.0" y="266.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="898.0" y="292.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">hypothetical +</text>
+  <text x="898.0" y="305.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">moral reasoning</text>
+  <text x="132.0" y="422.0" fill="#15803d" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Language</text>
+  <rect x="154.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="218.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">cooing, babbling</text>
+  <rect x="290.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="354.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">first words,</text>
+  <text x="354.0" y="421.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">2-word phrases</text>
+  <rect x="426.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">sentences,</text>
+  <text x="490.0" y="421.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">1,000+ words</text>
+  <rect x="562.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="626.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">reading, narrative</text>
+  <rect x="698.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="762.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">complex</text>
+  <text x="762.0" y="421.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">sentences, slang</text>
+  <rect x="834.0" y="382.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="898.0" y="408.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">abstract, peer</text>
+  <text x="898.0" y="421.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">register</text>
+  <text x="132.0" y="538.0" fill="#6d28d9" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Social-emotional</text>
+  <rect x="154.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="218.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">attachment, social</text>
+  <text x="218.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">smile</text>
+  <rect x="290.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="354.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">self-recognition,</text>
+  <text x="354.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">tantrums</text>
+  <rect x="426.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="490.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">play with peers,</text>
+  <text x="490.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">initiative</text>
+  <rect x="562.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="626.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">industry,</text>
+  <text x="626.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">rule-based play</text>
+  <rect x="698.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="762.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">identity,</text>
+  <text x="762.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">autonomy</text>
+  <rect x="834.0" y="498.0" width="128.0" height="82.0" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1.5" opacity="1.0"/>
+  <text x="898.0" y="524.0" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">intimacy,</text>
+  <text x="898.0" y="537.2" fill="#1f2937" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.8px;font-weight:400;">independence</text>
+  <rect x="40.0" y="620.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="639.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="660.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Clinical use: milestone knowledge helps you distinguish a child's behaviour that is 'age-appropriate and infuriating' from a developmental delay. Always ask</text>
+  <text x="54.0" y="674.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">about regression (loss of words, toileting, motor skills) — that is a referral trigger.</text>
+</svg>

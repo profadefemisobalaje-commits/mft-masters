@@ -1,0 +1,5 @@
+# Python packages needed by the build scripts
+reportlab>=4.0     # PDF typesetting (build_pdfs.py)
+pillow>=10.0       # figure sizing
+pypdf>=3.16        # merging volumes into the single library PDF
+fonttools>=4.40    # synthesising italic faces for the PDF build

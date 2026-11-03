@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="732" viewBox="0 0 980 732" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="732" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Sound Relationship House (Gottman)</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Seven storeys supported by two pillars: trust and commitment</text>
+  <rect x="230.0" y="116.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#6d28d9" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="116.0" width="8.0" height="62.0" rx="4" fill="#6d28d9" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="142.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Create shared meaning</text>
+  <text x="258.0" y="163.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">rituals, roles, goals, symbols</text>
+  <rect x="230.0" y="184.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#b45309" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="184.0" width="8.0" height="62.0" rx="4" fill="#b45309" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="210.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Make life dreams come true</text>
+  <text x="258.0" y="231.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">honour each other's aspirations</text>
+  <rect x="230.0" y="252.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#9f1239" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="252.0" width="8.0" height="62.0" rx="4" fill="#9f1239" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="278.0" fill="#9f1239" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Manage conflict</text>
+  <text x="258.0" y="299.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">dialogue, repair, compromise, 'two yeses'</text>
+  <rect x="230.0" y="320.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#15803d" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="320.0" width="8.0" height="62.0" rx="4" fill="#15803d" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="346.0" fill="#15803d" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">The positive perspective</text>
+  <text x="258.0" y="367.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">positive sentiment override</text>
+  <rect x="230.0" y="388.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="388.0" width="8.0" height="62.0" rx="4" fill="#0f766e" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="414.0" fill="#0f766e" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Turn towards</text>
+  <text x="258.0" y="435.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">bids, small moments, emotional bank account</text>
+  <rect x="230.0" y="456.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#1d4ed8" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="456.0" width="8.0" height="62.0" rx="4" fill="#1d4ed8" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="482.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Share fondness and admiration</text>
+  <text x="258.0" y="503.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">express respect out loud</text>
+  <rect x="230.0" y="524.0" width="520.0" height="62.0" rx="8" fill="#ffffff" stroke="#334155" stroke-width="1.5" opacity="1.0"/>
+  <rect x="230.0" y="524.0" width="8.0" height="62.0" rx="4" fill="#334155" stroke="none" stroke-width="1.5" opacity="1.0"/>
+  <text x="258.0" y="550.0" fill="#334155" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Build love maps</text>
+  <text x="258.0" y="571.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">know each other's inner world</text>
+  <path d="M 210 112 L 490 66 L 770 112" fill="none" stroke="#334155" stroke-width="3"/>
+  <rect x="150.0" y="116.0" width="52.0" height="466.0" rx="8" fill="#e6f4f1" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="176.0" y="360.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22px;font-weight:700;">T</text>
+  <rect x="778.0" y="116.0" width="52.0" height="466.0" rx="8" fill="#e6f4f1" stroke="#0f766e" stroke-width="1.5" opacity="1.0"/>
+  <text x="804.0" y="360.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22px;font-weight:700;">C</text>
+  <text x="176.0" y="600.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;">Trust</text>
+  <text x="804.0" y="600.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:600;">Commitment</text>
+  <text x="490.0" y="612.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;font-style:italic;">friendship is the foundation of romance</text>
+  <text x="490.0" y="634.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:600;">5:1 positive-to-negative interaction ratio during conflict (the 'magic ratio')</text>
+  <rect x="40.0" y="656.0" width="900.0" height="70.4" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="675.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="696.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">Adaptation caution: Gottman's norms were derived largely from U.S. samples. Use the structure of the house as a clinical map; do not treat the</text>
+  <text x="54.0" y="712.2" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:400;">5:1 ratio as a universal law.</text>
+</svg>

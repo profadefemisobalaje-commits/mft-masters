@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="640" viewBox="0 0 980 640" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="640" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">The Social Brain: Where Connection Hurts and Heals</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">A simplified lateral schematic — the labels name functions, not precise anatomy</text>
+  <ellipse cx="500.0" cy="330.0" rx="205" ry="180" fill="#f7f2ea" stroke="#d8cbb8" stroke-width="2" opacity="1.0"/>
+  <path d="M 380 175 C 300 185 265 240 272 305 C 278 355 315 385 360 392 C 382 428 448 434 480 406 C 540 416 596 380 600 332 C 604 285 572 248 540 236 C 516 193 448 166 380 175 Z" fill="#fdf6ee" stroke="#c9b49a" stroke-width="2"/>
+  <path d="M 380 175 C 320 182 268 228 268 296 C 296 276 336 262 380 264 Z" fill="#e6f4f1" stroke="#0f766e" stroke-width="1.4"/>
+  <text x="322.0" y="246.0" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">PFC</text>
+  <circle cx="432.0" cy="344.0" r="24" fill="#9f1239" stroke="none" stroke-width="1.5"/>
+  <text x="432.0" y="349.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:700;">Amy</text>
+  <ellipse cx="498.0" cy="344.0" rx="38" ry="17" fill="#f1ebfd" stroke="#6d28d9" stroke-width="1.4" opacity="1.0"/>
+  <text x="498.0" y="348.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.5px;font-weight:400;">hippocampus</text>
+  <ellipse cx="392.0" cy="276.0" rx="34" ry="24" fill="#fdf3e3" stroke="#b45309" stroke-width="1.4" opacity="1.0"/>
+  <text x="392.0" y="281.0" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">insula</text>
+  <ellipse cx="366.0" cy="310.0" rx="26" ry="13" fill="#e8eefc" stroke="#1d4ed8" stroke-width="1.4" opacity="1.0"/>
+  <text x="366.0" y="314.0" fill="#1d4ed8" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.5px;font-weight:400;">ACC</text>
+  <circle cx="566.0" cy="404.0" r="40" fill="#efe6da" stroke="#c9b49a" stroke-width="1.5"/>
+  <text x="566.0" y="409.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:8.5px;font-weight:400;">cerebellum</text>
+  <rect x="520.0" y="396.0" width="24.0" height="86.0" rx="6" fill="#efe6da" stroke="#c9b49a" stroke-width="1.5" opacity="1.0"/>
+  <line x1="322.0" y1="246.0" x2="258.0" y2="136.0" stroke="#0f766e" stroke-width="1.1" stroke-dasharray="3 3"/>
+  <text x="252.0" y="140.0" fill="#0f766e" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Prefrontal cortex</text>
+  <text x="252.0" y="157.0" fill="#5b6675" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">perspective-taking, inhibition, reappraisal</text>
+  <line x1="392.0" y1="276.0" x2="714.0" y2="146.0" stroke="#b45309" stroke-width="1.1" stroke-dasharray="3 3"/>
+  <text x="720.0" y="150.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Insula</text>
+  <text x="720.0" y="167.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">visceral feeling; the 'gut sense' of another person</text>
+  <line x1="366.0" y1="310.0" x2="714.0" y2="242.0" stroke="#1d4ed8" stroke-width="1.1" stroke-dasharray="3 3"/>
+  <text x="720.0" y="246.0" fill="#1d4ed8" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Anterior cingulate</text>
+  <text x="720.0" y="263.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">social pain and exclusion; fires like physical pain</text>
+  <line x1="432.0" y1="344.0" x2="714.0" y2="338.0" stroke="#9f1239" stroke-width="1.1" stroke-dasharray="3 3"/>
+  <text x="720.0" y="342.0" fill="#9f1239" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Amygdala</text>
+  <text x="720.0" y="359.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">fast, pre-verbal threat detection</text>
+  <line x1="498.0" y1="344.0" x2="714.0" y2="434.0" stroke="#6d28d9" stroke-width="1.1" stroke-dasharray="3 3"/>
+  <text x="720.0" y="438.0" fill="#6d28d9" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Hippocampus</text>
+  <text x="720.0" y="455.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">context and memory; shrinks under chronic stress</text>
+  <rect x="40.0" y="512.0" width="900.0" height="67.7" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="531.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="552.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">Translation into practice: rejection activates pain circuitry (Eisenberger's social-pain findings), which is why contempt lands physically. A stressed</text>
+  <text x="54.0" y="566.9" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;">hippocampus also files the argument as a general rule rather than a single event — so reframing is not politeness, it changes what gets encoded.</text>
+</svg>

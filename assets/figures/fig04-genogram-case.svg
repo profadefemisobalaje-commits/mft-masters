@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="720" viewBox="0 0 980 720" role="img">
+  <defs>
+    <marker id="ar-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/></marker>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#9f1239"/></marker>
+    <marker id="ar-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+    <marker id="ar-plum" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6d28d9"/></marker>
+    <marker id="ar-blue" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1d4ed8"/></marker>
+    <marker id="ar-green" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#15803d"/></marker>
+    <marker id="ar-muted" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5b6675"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="720" fill="#ffffff"/>
+  <text x="490.0" y="48.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:26px;font-weight:700;">Three-Generation Genogram: The Adeyemi Family</text>
+  <text x="490.0" y="74.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14.5px;font-weight:400;">Presenting problem: 'Our 16-year-old daughter is out of control' — the map shows a wider story</text>
+  <text x="44.0" y="166.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;letter-spacing:1.1px;">GENERATION 1</text>
+  <text x="44.0" y="336.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;letter-spacing:1.1px;">GENERATION 2</text>
+  <text x="44.0" y="516.0" fill="#5b6675" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;letter-spacing:1.1px;">GENERATION 3</text>
+  <rect x="228.0" y="120.0" width="44.0" height="44.0" rx="2" fill="#eef2f7" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <line x1="226.0" y1="118.0" x2="274.0" y2="166.0" stroke="#9f1239" stroke-width="2.2"/>
+  <line x1="274.0" y1="118.0" x2="226.0" y2="166.0" stroke="#9f1239" stroke-width="2.2"/>
+  <text x="250.0" y="148.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">78</text>
+  <circle cx="360.0" cy="142.0" r="22" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="360.0" y="147.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">74</text>
+  <line x1="272.0" y1="142.0" x2="338.0" y2="142.0" stroke="#1f2937" stroke-width="2"/>
+  <text x="305.0" y="132.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">1958</text>
+  <text x="250.0" y="186.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">paternal grandsire</text>
+  <text x="250.0" y="201.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">d. 1998, stroke</text>
+  <text x="360.0" y="186.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">grandmother</text>
+  <text x="360.0" y="201.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;font-style:italic;">the family's memory-keeper</text>
+  <line x1="309.0" y1="142.0" x2="309.0" y2="258.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="196.0" y1="258.0" x2="400.0" y2="258.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="196.0" y1="258.0" x2="196.0" y2="276.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="400.0" y1="258.0" x2="400.0" y2="276.0" stroke="#1f2937" stroke-width="1.8"/>
+  <rect x="174.0" y="278.0" width="44.0" height="44.0" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <text x="196.0" y="306.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">52</text>
+  <text x="196.0" y="344.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Uncle Emeka</text>
+  <text x="196.0" y="359.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">cut off since 2011</text>
+  <rect x="378.0" y="278.0" width="44.0" height="44.0" rx="2" fill="#eef2f7" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <text x="400.0" y="306.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">49</text>
+  <text x="400.0" y="344.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Tunde (father)</text>
+  <text x="400.0" y="359.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">alcohol misuse</text>
+  <circle cx="520.0" cy="300.0" r="22" fill="#eef2f7" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="520.0" y="305.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">46</text>
+  <text x="560.0" y="344.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Bisi (mother)</text>
+  <text x="560.0" y="359.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">recurrent depression</text>
+  <line x1="422.0" y1="300.0" x2="498.0" y2="300.0" stroke="#1f2937" stroke-width="2"/>
+  <text x="460.0" y="291.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">m. 2003</text>
+  <line x1="222.0" y1="300.0" x2="372.0" y2="300.0" stroke="#1f2937" stroke-width="1.8"/>
+  <path d="M 292 300 l 7 -7 l -14 14 M 312 300 l -7 -7 l 14 14" fill="none" stroke="#9f1239" stroke-width="2"/>
+  <text x="302.0" y="286.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">cutoff</text>
+  <path d="M 432 312 l 7 -7 l 7 14 l 7 -14 l 7 14 l 7 -7" fill="none" stroke="#9f1239" stroke-width="2"/>
+  <text x="460.0" y="332.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9px;font-weight:400;">marital conflict</text>
+  <line x1="466.0" y1="300.0" x2="466.0" y2="468.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="400.0" y1="468.0" x2="560.0" y2="468.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="400.0" y1="468.0" x2="400.0" y2="494.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="500.0" y1="468.0" x2="500.0" y2="494.0" stroke="#1f2937" stroke-width="1.8"/>
+  <line x1="560.0" y1="468.0" x2="560.0" y2="494.0" stroke="#1f2937" stroke-width="1.8"/>
+  <rect x="378.0" y="494.0" width="44.0" height="44.0" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <text x="400.0" y="522.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">16</text>
+  <text x="400.0" y="560.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Amara (IP)</text>
+  <text x="400.0" y="575.0" fill="#9f1239" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">school refusal</text>
+  <circle cx="500.0" cy="516.0" r="22" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  <text x="500.0" y="521.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">13</text>
+  <text x="500.0" y="560.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Chidi</text>
+  <rect x="538.0" y="494.0" width="44.0" height="44.0" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" opacity="1.0"/>
+  <text x="560.0" y="522.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">9</text>
+  <text x="560.0" y="560.0" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Dayo</text>
+  <line x1="506.0" y1="324.0" x2="428.0" y2="492.0" stroke="#6d28d9" stroke-width="2" stroke-dasharray="3 4"/>
+  <text x="432.0" y="424.0" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;font-weight:400;">enmeshed</text>
+  <rect x="620.0" y="120.0" width="330.0" height="420.0" rx="12" fill="#f8fafc" stroke="#c7d0da" stroke-width="1.5" opacity="1.0"/>
+  <text x="785.0" y="150.0" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:700;">Working hypotheses</text>
+  <circle cx="650.0" cy="192.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="650.0" y="197.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">1</text>
+  <text x="672.0" y="190.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Amara's symptoms regulate</text>
+  <text x="672.0" y="207.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">the parents' distance.</text>
+  <circle cx="650.0" cy="256.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="650.0" y="261.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">2</text>
+  <text x="672.0" y="254.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Bisi and Amara form a</text>
+  <text x="672.0" y="271.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">cross-generational coalition.</text>
+  <circle cx="650.0" cy="320.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="650.0" y="325.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">3</text>
+  <text x="672.0" y="318.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Tunde's drinking tracks the</text>
+  <text x="672.0" y="335.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">marital conflict cycle.</text>
+  <circle cx="650.0" cy="384.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="650.0" y="389.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">4</text>
+  <text x="672.0" y="382.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">The paternal cutoff removed</text>
+  <text x="672.0" y="399.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">a source of practical support.</text>
+  <circle cx="650.0" cy="448.0" r="15" fill="#0f766e" stroke="none" stroke-width="1.5"/>
+  <text x="650.0" y="453.0" fill="#ffffff" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:700;">5</text>
+  <text x="672.0" y="446.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">Migration and bereavement</text>
+  <text x="672.0" y="463.0" fill="#1f2937" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:400;">thinned the kin network.</text>
+  <rect x="40.0" y="636.0" width="900.0" height="69.0" rx="10" fill="#fdf3e3" stroke="#f0d9b5" stroke-width="1.5" opacity="1.0"/>
+  <text x="54.0" y="655.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;letter-spacing:1.2px;">NOTE</text>
+  <text x="54.0" y="676.0" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">Notice what the map does NOT tell you: the meaning the family gives to father's drinking, the voice of the absent uncle, and the resources (church,</text>
+  <text x="54.0" y="691.5" fill="#b45309" text-anchor="start" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:400;">neighbours, income) that are not drawn. A genogram is a hypothesis generator, not a verdict.</text>
+</svg>
