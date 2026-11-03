@@ -6663,6 +6663,9 @@ the artefacts of this week are required rather than recommended.
 analytic claim and trace it back to its evidence. Some papers will not survive the trace, and the exercise will teach
 more about rigour than any checklist.
 
+**Why the number fourteen.** Not because fourteen is sufficient; because fourteen maximum-variation interviews
+produced no new codes in the last three, and the stopping criterion had been stated in advance in the audit trail.
+
 ### 9.11 Key terms
 
 **Qualitative description** — an approach that stays close to participants' words with minimal interpretation; the
