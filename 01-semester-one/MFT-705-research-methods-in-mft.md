@@ -6659,6 +6659,10 @@ traceability: a reader who disagrees with a theme must be able to see exactly wh
 produced it, and to argue with the interpretation on the evidence. That is a demanding standard, and it is the reason
 the artefacts of this week are required rather than recommended.
 
+**The habit to keep.** Read one qualitative paper a month, and for each, find the sentence that carries the
+analytic claim and trace it back to its evidence. Some papers will not survive the trace, and the exercise will teach
+more about rigour than any checklist.
+
 ### 9.11 Key terms
 
 **Qualitative description** — an approach that stays close to participants' words with minimal interpretation; the
