@@ -6643,6 +6643,22 @@ supported or contradicted by any extract — a code that no extract could refute
 candidate theme, and the two discarded codes, take three weeks and a return to the transcripts. The visible artefact
 of the code list conceals the labour that makes it a finding.
 
+**The final discipline.** A qualitative thesis is judged on whether a reader can follow the route from an
+utterance to a claim. Every artefact in this week — the frame, the memos, the theme table, the negative case, the
+reflexive statement, the audit appendix — exists to make that route walkable. Where the route is missing, the reader
+supplies one, and usually supplies the one that flatters the analyst.
+
+**What the reader is entitled to ask of the audit trail.** Four things, and a thesis that provides them pre-empts
+the examiner's hardest question about method: the coding frame with counts, so that the distribution of codes can be
+seen; the memos, so that decisions have dates; the theme table with a defining statement and an extract for each theme,
+so that the argument can be checked; and the note on the negative case, so that the account's boundary is visible.
+
+**A note on the standards of evidence.** Nothing in this chapter licenses the claim that qualitative findings are
+unverifiable, and nothing licenses the opposite claim that they are simply a matter of opinion. The standard is
+traceability: a reader who disagrees with a theme must be able to see exactly which extracts, decisions and memos
+produced it, and to argue with the interpretation on the evidence. That is a demanding standard, and it is the reason
+the artefacts of this week are required rather than recommended.
+
 ### 9.11 Key terms
 
 **Qualitative description** — an approach that stays close to participants' words with minimal interpretation; the
