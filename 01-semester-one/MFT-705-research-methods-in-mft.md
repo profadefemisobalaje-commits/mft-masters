@@ -1561,11 +1561,41 @@ examiner who asks why you did not study something bigger.
 
 ---
 
-## Week 3 — Designs overview
+## Week 3 — Designs overview: quantitative, qualitative and mixed
+
+**Learning outcomes.** By the end of this week the student can (1) match a question to a design and state what the
+design licenses her to claim; (2) distinguish the five common quantitative designs by the inference each supports;
+(3) distinguish the six common qualitative approaches by the kind of knowledge each produces; (4) explain what a
+mixed-methods design adds and what it costs; and (5) write a one-paragraph design statement that a supervisor can
+approve or correct in a single reading.
 
 ![Figure 3.1 — Choosing a research design: start with the question](../assets/figures/fig28-research-design-tree.svg)
 
-**Quantitative.**
+### The design is an argument, not a label
+
+Students describe designs as labels — "I am doing a qualitative study" — as though the label settled anything. A
+design is an argument with three premises: **this question** can only be answered by **this comparison or this
+description**, gathered **this way from these people**, and therefore the claim I make at the end can be **this
+strong and no stronger**.
+
+The last clause is the one that matters most, and it is the one students leave out. Every design licenses a specific
+claim, and the discipline of the week is to write the claim down before the study begins, because the claim is what
+the discussion section will be tempted to inflate.
+
+| Design | The claim it licenses | The claim it does not |
+|---|---|---|
+| Cross-sectional survey | "In this population at this time, X and Y are associated" | "X causes Y" |
+| Longitudinal cohort | "X at time one predicts Y at time two, adjusted for the obvious confounders" | "X causes Y" without further argument |
+| Quasi-experiment | "The group that received the intervention improved more than the comparison group" | "The intervention caused the difference" |
+| Randomised trial | "The intervention caused the difference in this population under these conditions" | "It will work in your clinic" |
+| Single-case design | "In this family, the change coincided with the intervention, repeatedly" | "It works in general" |
+| Phenomenology | "For these participants, the experience is structured like this" | "This is how all such people experience it" |
+| Grounded theory | "Here is a theory of the process, generated from this data" | "This theory is true of all settings" |
+| Ethnography | "In this setting, practice works like this" | "This is how the culture works everywhere" |
+| Case study | "In this bounded system, these mechanisms were at work" | "This generalises to the population" |
+| Mixed methods | "The quantitative pattern is explained, in part, by these accounts" | "The accounts are representative" |
+
+**Quantitative designs.**
 
 | Design | Answers | Strengths | Threats |
 |---|---|---|---|
@@ -1575,7 +1605,7 @@ examiner who asks why you did not study something bigger.
 | Randomised controlled trial | Does it cause the effect? | Strongest causal inference | Cost, ethics, generalisability |
 | Single-case (N=1) design | Does it work for *this* family? | Clinically realistic | Limited generalisation |
 
-**Qualitative.**
+**Qualitative approaches.**
 
 | Approach | Focus | Sample size |
 |---|---|---|
@@ -1586,10 +1616,693 @@ examiner who asks why you did not study something bigger.
 | Narrative inquiry | How people story their lives | 3–10 |
 | IPA | How individuals make sense of experience | 3–6 |
 
-**Mixed methods** — see Week 10.
+**Mixed methods** — developed in Week 10, introduced here as a design in its own right rather than a bolt-on.
 
-> **TASK** — Take your strongest question from Week 2 and map it onto two designs. State what each would
-> let you claim, and what it would not.
+### 3.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Design as argument; the claim table | Three claims, students match to designs |
+| 10–28 | The five quantitative designs, by inference | Lecture with one study of each, described in ninety seconds |
+| 28–45 | The six qualitative approaches, by the knowledge they produce | Students sort six abstracts into approaches and defend the sort |
+| 45–58 | Mixed methods: what it adds, what it costs | Two designs compared; the integration question |
+| 58–72 | Threats to inference, and the design that survives each | Eight threats on cards; students pair threat and design |
+| 72–85 | The design statement, written live | Volunteer's question, whole class drafting |
+| 85–90 | The claim sentence | Each student writes what her study will be entitled to say |
+
+### 3.2 Five concepts that organise the week
+
+**Concept 1 — Design follows from the claim you want to make, and the claim must be affordable.** A causal claim
+costs a design that supports it: randomisation, a comparison, a controlled delivery. A descriptive claim costs
+much less. Students who want causal language and a cross-sectional survey are asking for something the data cannot
+supply, and the correction is either a bigger design or a smaller claim.
+
+**Concept 2 — Every design has a characteristic threat, and the threat is named in the methods not the limitations.**
+Selection bias belongs to the quasi-experiment, attrition to the cohort, social desirability to the self-report
+survey, reactivity to the observed family, researcher influence to the qualitative interview. The competent
+proposal names the threat at the point of design and says what will be done about it.
+
+**Concept 3 — Qualitative approaches are not interchangeable.** Phenomenology, grounded theory, ethnography, case
+study, narrative inquiry and IPA answer different questions and require different analytic procedures. A student who
+says "I will do qualitative interviews and use thematic analysis" has not yet chosen an approach, and the analysis
+will drift.
+
+**Concept 4 — Mixed methods is a design with an integration problem, not two studies stapled together.** The value
+of a mixed design lies in what the two strands say to each other: does the qualitative material explain the
+quantitative pattern, contradict it, or fill in the mechanism? If the two strands are analysed and reported
+separately with a sentence of connection, the study has the costs of both designs and the benefits of neither.
+
+**Concept 5 — Feasibility is a design criterion.** A randomised trial that cannot recruit, a cohort that cannot be
+followed up, an ethnography that cannot spend six months in the field: each is a design that fails on paper and
+will fail in practice. The design that can be completed and honestly reported is worth more than the design that is
+methodologically superior and abandoned in month five.
+
+### 3.2a The five quantitative designs, in ninety seconds each
+
+**Cross-sectional survey.** One measurement, many people, at one time. Best for prevalence, patterns and
+association. The characteristic error is temporal: an association between marital satisfaction and depression
+measured on the same day cannot tell you which came first, and the write-up must not imply that it can.
+
+**Longitudinal cohort.** The same people measured more than once. The design buys temporal ordering: if X precedes
+Y, at least the arrow cannot run backwards. It pays for this with attrition, which is never random — the people who
+leave are usually the ones with the worst outcomes, and the study's estimate is optimistic in proportion.
+
+**Quasi-experiment.** A comparison between groups that were not randomly formed: two clinics, two periods, a
+waiting list, a natural change in policy. It is the most common design in service settings because randomisation is
+often impossible. Its characteristic threat is selection: the groups differ before the intervention, and the
+analysis must either adjust for the differences or state honestly that it cannot.
+
+**Randomised controlled trial.** Random allocation to conditions. The design's power is that randomisation
+distributes both known and unknown confounders, which is why it supports a causal claim. Its costs are money,
+ethics, and the gap between the trial's conditions and practice (Week 1). In family therapy the practical obstacles
+are substantial: consent from two adults, the impossibility of blinding participants, and the contamination that
+occurs when the same therapist delivers both conditions.
+
+**Single-case design.** One family, or a small number, measured repeatedly across phases — baseline, intervention,
+withdrawal or reversal where possible, follow-up. It is the design closest to clinical practice and the one most
+neglected in training. Its logic is the demonstration of a stable baseline followed by a change coinciding with the
+intervention, repeated across cases (multiple baseline). It cannot support a general claim and it can support
+exactly the claim a clinician needs: that the change happened here, and happened when the intervention happened.
+
+### 3.2d The single-case design, in more detail
+
+The design most likely to be useful to a practising family therapist, and the one about which students are least
+informed. Its logic is simple and it is not the same as a case report.
+
+**The logic.** A stable baseline is measured repeatedly. The intervention begins. The measure continues. If the
+behaviour changes at the point the intervention begins, and not before, and if the change is repeated when the
+intervention is introduced in a second case at a different time, the intervention is a plausible explanation. The
+design's power comes from repetition within the case and replication across cases, not from the number of people.
+
+**The four variants.**
+
+| Variant | Structure | Use |
+|---|---|---|
+| **A-B** | Baseline, then intervention | Weakest; cannot rule out maturation or history |
+| **A-B-A** | Baseline, intervention, withdrawal | Stronger, and often unethical in therapy because withdrawing help harms |
+| **Multiple baseline across cases** | Intervention introduced at different times in different families | The workhorse of clinical single-case research |
+| **Multiple baseline across behaviours** | Intervention introduced for different behaviours in sequence | Useful where the family has several targets |
+
+**What makes it rigorous, in five requirements.** A measure repeated often enough to show a trend rather than a
+point; a baseline long enough to be stable; a measure that is independent of the therapist's impression; a
+pre-specified criterion for what counts as change; and a report that includes the data, not only the conclusion.
+
+**What it can and cannot claim.** It can claim that in this family, the change coincided with the intervention, and
+that in six families the coincidence recurred at six different points. It cannot claim that the intervention works
+for families in general, and the write-up should not try: the claim's modesty is what makes it credible.
+
+**A worked example.** A therapist working with four families in which a child's night waking has exhausted the
+parents introduces a bedtime routine at weeks 3, 5, 7 and 9 respectively, with daily parent-recorded waking counts
+from week 1. The counts are stable in each family before its routine begins and decline afterwards in all four. The
+report states the four baselines, the four introduction points and the four trajectories, and claims only what the
+figure shows.
+
+### 3.2b The six qualitative approaches, by the knowledge each produces
+
+**Phenomenology.** Asks what the experience of a phenomenon is like, for people who have lived it. The method is
+deep, open interviewing and a descriptive analysis that stays close to the participants' accounts. Its product is a
+description of the essence or structure of the experience. Its claim is about the participants, not the population.
+*A thesis-sized example:* how parents describe the first month after a child's diagnosis of autism.
+
+**Grounded theory.** Asks how a process works — what people do, in what stages, in response to what conditions. The
+method is iterative: data collection, coding, comparison, more data collection targeted at the emerging theory. Its
+product is a theory, expressed as categories related to one another. Its distinctive discipline is constant
+comparison and theoretical sampling; a study that interviews its participants once and codes them has used the word
+but not the method. *A thesis-sized example:* the process by which families decide to disclose a diagnosis of HIV to
+a spouse.
+
+**Ethnography.** Asks how a setting works as a culture: what people do, what it means, how they talk about it. The
+method is prolonged fieldwork, observation, field notes, documents, interviews. Its product is a thick description of
+practice. It is the most demanding design in this year's programme and the most valuable for understanding a service
+from the inside. *A thesis-sized example:* what happens on a ward when a family visits, observed over three months.
+
+**Case study.** Asks how a bounded system works: one family, one service, one intervention, one decision. The method
+is a combination of whatever is needed — records, interviews, observation — and the analysis is within-case, then
+cross-case. Its product is an understanding of the mechanisms in that system. Its distinctive strength is the
+ability to hold a whole, complicated thing together. *A thesis-sized example:* the decision-making of a family
+service about a complex case, reconstructed from records.
+
+**Narrative inquiry.** Asks how people story their lives: what plot they use, what role they assign themselves,
+which events they foreground. The method is the collection of narratives and the analysis of their structure. Its
+product is an account of the narrative resources a person uses and their consequences. *A thesis-sized example:*
+how couples who separated after infidelity tell the story of the marriage to themselves and to others.
+
+**Interpretative phenomenological analysis (IPA).** Asks how individual participants make sense of an experience,
+with a commitment to the idiosyncratic and a small, homogeneous sample. The method is close, deep interviewing and a
+case-by-case analysis that eventually produces themes. Its claim is about the meanings in a small, specific group,
+and it is the design most likely to be used badly because it is also a normal word for a normal interview. *A
+thesis-sized example:* how three firstborn children describe taking on a caring role after a mother's illness.
+
+**How to choose among them.** By the question, in this order.
+
+| If the question is about | The approach is | Because |
+|---|---|---|
+| What an experience is like | Phenomenology | The product is a description of experience |
+| How a process unfolds and why | Grounded theory | The product is a theory of the process |
+| How a setting or culture works | Ethnography | The product is a description of practice |
+| How a bounded case works | Case study | The product is a mechanism in a system |
+| How people tell the story | Narrative inquiry | The product is the narrative structure |
+| How individuals make sense of one thing | IPA | The product is interpretative, individual, close |
+
+**The wrong way to choose.** By convenience. "I can get ten participants, so I will call it a phenomenology." The
+approach determines the sampling, the interview, the analysis and the claim, and a design chosen because it fits the
+available participants will be mismatched at every one of those points.
+
+### 3.2c The mixed-methods design, introduced
+
+Three basic forms, distinguished by sequence and purpose.
+
+| Form | Sequence | Purpose | Example |
+|---|---|---|---|
+| **Explanatory sequential** | Quantitative first, qualitative second | To explain a quantitative pattern | A survey finds high dropout; interviews with leavers explain why |
+| **Exploratory sequential** | Qualitative first, quantitative second | To build a measure or a hypothesis from accounts | Interviews generate the items for a local scale, then a survey tests it |
+| **Convergent** | Both at once | To compare two views of the same phenomenon | Survey scores and interviews about the same couples' change |
+
+**The integration question.** In every mixed design the student must specify **how the two strands will speak to each
+other**: which data will be used to interpret which, what will happen if they disagree, and where in the report the
+integration will appear. Without that specification, the study is two studies.
+
+**What a mixed design costs.** Time (two methods), skills (two competences), ethical exposure (two points of
+contact, two data sets), and analysis complexity (the qualitative strand cannot be a decoration). In a one-year
+thesis, a mixed design is feasible only when one strand is small and subordinate — for example, a survey of eighty
+people plus eight explanatory interviews.
+
+**The single most common failure.** The qualitative strand is designed to confirm the quantitative one, so it
+interviews the participants who will provide illustrative quotations. The design then produces no integration,
+because the qualitative data were selected to agree.
+
+### 3.3 Choosing: a worked comparison
+
+One question, four designs, and what each would produce. The question: *why do families attending a clinic for child
+behaviour problems stop attending after two or three sessions?*
+
+| Design | What it would produce | What it would cost | What it could not claim |
+|---|---|---|---|
+| **Record review (cross-sectional)** | The dropout rate, and the characteristics associated with it — age, sex, referral source, distance | Access to records; a fortnight of data extraction | Why; what the families were thinking |
+| **Explanatory sequential mixed** | The dropout rate and its correlates, then interviews with twelve leavers explaining what the correlates meant | Two strands, two skills, twice the time | Causation; representativeness of the interviews |
+| **Phenomenology of the leavers** | A description of the experience of deciding to stop | Recruitment through records, twelve interviews, careful analysis | How common the experience is |
+| **Grounded theory of the dropout process** | A theory of the process — how a first appointment leads, for some, to a decision to abandon | Iterative sampling, 15–20 interviews, longitudinal contact | Prevalence; the size of any effect |
+
+**The choice rule.** If the service does not know its dropout rate, the record review comes first, because a
+qualitative study of the reasons without a number will be read as an impression. If the rate is known and the
+service wants to act, the explanatory sequential design produces the actionable answer. If the field has no theory
+of the process, grounded theory. If the service wants to change how it feels to attend, the phenomenology.
+
+**What the worked comparison teaches.** All four designs are legitimate; none is the "right" one. The choice is
+determined by what the service already knows, what it will do with the answer, and what the student can complete.
+
+### 3.3a Threats to inference, and the design that answers each
+
+Eight threats, each with the design that reduces it and the honest alternative where it cannot be reduced. This table
+is the working core of the week: a proposal that names its threat and its mitigation is a proposal that will be
+approved.
+
+**1. Selection.** The groups differ before the intervention because people chose, or were chosen, into them.
+*Design that answers it:* randomisation. *Where randomisation is impossible:* a comparison group measured at
+baseline, with the differences described and, where possible, adjusted for statistically — and a discussion that
+admits the residual difference.
+
+**2. History.** Something else happened between the two measurements — a national strike, a school closure, a
+bereavement in the family. *Design that answers it:* a comparison group exposed to the same history. *Without one:*
+a shorter interval, and a discussion that names the events.
+
+**3. Maturation.** The participants changed because time passed, not because of the intervention — children develop,
+grief subsides, acute crises settle. *Design that answers it:* a comparison group, or repeated measurement to show
+the change did not begin before the intervention.
+
+**4. Attrition.** The people who leave are different from the people who stay, and the difference is usually in the
+direction of worse outcome. *Design that answers it:* intensive follow-up, and an analysis that compares completers
+with leavers on what is known. *The minimum:* report the attrition rate, and describe the leavers.
+
+**5. Regression to the mean.** People present for help when things are at their worst, so they improve afterwards
+whatever is done. *Design that answers it:* a comparison group, or a baseline period long enough to show that the
+extremity was not temporary.
+
+**6. Measurement reactivity.** Being measured changes the behaviour or the report — families who know they are being
+observed behave differently, and clients who complete a weekly outcome measure report improvement. *Design that
+answers it:* independent measures, unobtrusive data, and an awareness that a weekly measure is an intervention.
+
+**7. Social desirability.** Participants report what they believe the researcher wants, particularly about
+relationship quality, violence, discipline and faith. *Design that answers it:* anonymity, self-administered
+measures, triangulation with records, and questions asked in a form that permits the undesirable answer.
+
+**8. Researcher influence.** In qualitative work the researcher's presence, questions and interpretations shape the
+data. *Design that answers it:* reflexivity, a second coder, member checking, and an audit trail — not a pretence of
+neutrality.
+
+**How to use the table.** In the methods section, name the two or three threats that are most serious for this
+design and this population, and say what will be done. In the limitations, be honest about what remains. The
+examiner is not looking for a study without threats; she is looking for a student who knows which ones she has.
+
+### 3.4 The design statement
+
+One paragraph, six sentences, written before the proposal. It is the deliverable of this week and the skeleton of
+Week 15.
+
+1. **The question**, in one sentence.
+2. **The design**, named, with the reason it fits the question.
+3. **The comparison or the description**, whichever applies: what is compared with what, or what is being described
+   and from whose perspective.
+4. **The data**, in one sentence: what will be collected, from how many, by what method, at what time points.
+5. **The analysis**, named, with the reason it fits the data structure.
+6. **The claim** the design will license, stated in the exact words the discussion section will be permitted to use.
+
+**A worked statement.**
+
+> This study asks whether a six-session structured family engagement intervention reduces days absent from school
+> among adolescents referred for school refusal, compared with the clinic's usual individual counselling. It uses a
+> quasi-experimental comparison of two consecutive cohorts, because randomisation is not possible in a service that
+> must offer its usual care to everyone who presents. The comparison is between adolescents referred in the twelve
+> months before the intervention was introduced and those referred in the twelve months after. Data are the school
+> attendance records held by the referring schools, with parental consent, for approximately sixty adolescents, plus
+> the clinic's own session records. The analysis compares attendance between cohorts with adjustment for referral
+> source and distance from the clinic, and reports the difference with its confidence interval. The design will
+> license the claim that the cohort receiving the intervention had better attendance than the earlier cohort, and
+> will not license the claim that the intervention caused the difference, because the two cohorts differ in period
+> as well as in treatment.
+
+**What the statement does that a proposal does not.** It makes the claim and its limit adjacent, so the student cannot
+write a discussion that drifts into causal language without noticing that she wrote the opposite three months
+earlier.
+
+### 3.5 Case: the design that was chosen for the wrong reason
+
+**The student.** Chinedu, a chaplain at a university, wants to study the spiritual lives of students who have lost a
+parent. He proposes "a phenomenological study" with ten students, and describes the analysis as "thematic".
+
+**The supervisor's first question.** "Why phenomenology?" The answer: "because I want to understand their
+experience." The supervisor asks a second question: "what will you do with the understanding?" The answer: "I want
+to design a support group."
+
+**The mismatch.** Chinedu wants to build something, which is a question about process and mechanism — how do these
+students cope, what helps, what does not — and he has chosen a design whose product is a description of the essence
+of the experience. The description will be beautiful and will not tell him what to put in a support group. The
+mismatch is not fatal and it is real: the analysis will produce themes about the meaning of loss, and the
+recommendations will be extrapolations.
+
+**What the supervisor proposed instead, and why.** Grounded theory, because the product — a theory of the process of
+coping, with conditions, strategies and consequences — is exactly the material from which a support group can be
+built. The cost of the change: theoretical sampling, iterative data collection, and a longer fieldwork period than
+Chinedu had planned. He accepted the cost and reduced the sample to twelve, with a second round of interviews with
+six of them.
+
+**The third question, which changed the design again.** "Who are these students, and how will you find them?" The
+answer was the chaplaincy's list, which includes only students who have come to the chaplaincy. Chinedu's sample
+would have been students who seek help from a chaplain, studying coping with a chaplain — a sample selected on the
+outcome. The correction: recruit through the university's records office and the student affairs office as well, so
+that the sample included students who had not sought help at all.
+
+**What happened.** Twelve participants, eight of whom had not used the chaplaincy. The theory that emerged had three
+stages — *holding the news*, *carrying it alone*, and *finding a witness* — and the finding that mattered most for
+the support group was that the students who had not sought help described the chaplaincy as "for people who are
+religious", which the chaplain had never considered.
+
+**What the case teaches.**
+
+1. **"I want to understand the experience" is not a design rationale.** The rationale is the product: what kind of
+   knowledge will this design produce, and is that the knowledge the next decision needs?
+2. **The design follows the use.** Chinedu's support group needed a theory of process, not an essence of experience.
+3. **The sampling decision was the design decision.** Recruiting only through the chaplaincy would have produced a
+   study of help-seekers, whatever the label on the method.
+4. **A design change in week three is cheap.** The same change in month seven would have been a new thesis.
+
+### 3.5a The four questions a service asks about a proposed design
+
+When a student proposes to study a service, the manager will ask four questions, and the answers determine whether
+the study happens.
+
+**1. "What will it cost us?"** Staff time for recruitment, room bookings, records extraction, a supervisor's hours.
+The proposal should arrive with an estimate, because the manager who is asked to approve an unbudgeted cost will
+approve it slowly or not at all.
+
+**2. "What will we get?"** A report, a presentation, a one-page summary, a recommendation about a specific decision.
+The answer must be concrete and must arrive on a stated date, not at the end of the programme.
+
+**3. "What will it do to our clients?"** Interviews take an hour; a survey takes twenty minutes; a record review takes
+none. The manager is asking whether the study is a burden on people who came for help, and the answer should be
+specific about the burden and about what the participant gets.
+
+**4. "What if it shows something bad?"** The question managers are too polite to ask, and the one that decides
+whether the study proceeds. The answer is a written agreement about reporting: the service sees the findings first,
+may comment, and may not suppress them; the report may be anonymised; and the student will not publish anything that
+identifies the service without consent.
+
+**The agreement that follows.** One page, four headings, signed by the manager and the student, copied to the
+supervisor. It takes an hour and it is the difference between a study that proceeds and a study that is still being
+negotiated in month four.
+
+### 3.6 Transcript: the design supervision
+
+Minutes nine to twenty-four of the supervision in which Chinedu's design changed. Annotated.
+
+> **D1 Supervisor:** Tell me what your study will produce at the end, in one sentence.
+>
+> **D2 Chinedu:** A rich description of what it is like to lose a parent while you are at university.
+>
+> **D3 Supervisor:** *(pause)* And then what?
+>
+> **D4 Chinedu:** Then I would use it to design the support group.
+>
+> **D5 Supervisor:** How would a description of what it is like tell you what to put in a group? — *The question that
+> exposes the gap between product and use. Note that the supervisor does not say the design is wrong; she asks the
+> question that lets the student discover the mismatch.*
+>
+> **D6 Chinedu:** *(long pause)* It would tell me what they need.
+>
+> **D7 Supervisor:** It would tell you what it felt like. *(pause)* Those are not the same, and the distance between
+> them is where most pastoral care goes wrong. — *The distinction, stated flatly and without contempt, which is what
+> makes it usable.*
+>
+> **D8 Chinedu:** So I need something that tells me what helps.
+>
+> **D9 Supervisor:** You need something that tells you what they *did*, in what order, and what happened as a
+> result. *(pause)* That is a process question, and it has a different name. — *The reframe, in the student's own
+> vocabulary, with the method named only after the phenomenon has been.*
+>
+> **D10 Chinedu:** Grounded theory.
+>
+> **D11 Supervisor:** Grounded theory, if you are willing to do what it requires, which is a second round of
+> interviews with some of the same people, chosen because of what the first round said. — *The cost named up front,
+> so that the student chooses the method with its obligations attached.*
+>
+> **D12 Chinedu:** How long would that take?
+>
+> **D13 Supervisor:** Two months longer than your plan, and it fits your calendar, which is why I am suggesting it
+> rather than telling you no. — *The feasibility judgement, made explicit.*
+>
+> **D14 Chinedu:** *(pause)* Who should I interview?
+>
+> **D15 Supervisor:** That is the third question, and it is the one that will decide what you find. *(pause)* Where
+> is your list coming from? — *The sampling question, deferred to the moment the student is ready to hear it.*
+>
+> **D16 Chinedu:** The chaplaincy.
+>
+> **D17 Supervisor:** Then you will find out how students who come to the chaplaincy cope. *(pause)* Which is a
+> perfectly good study and is not the study you described, because the ones who do not come are the ones a support
+> group is for. — *The selection problem, named in a sentence, with the consequence spelled out.*
+
+**What the transcript shows.** The supervisor never says "your design is wrong". She asks what the study will
+produce, what it will be used for, and where the sample comes from — and the student changes the design three times
+in fifteen minutes. None of the changes required a lecture on methods.
+
+**The note Chinedu wrote.** "Design changed from phenomenology to grounded theory. Reason: the product needed is a
+theory of process, not a description of experience. Sampling changed from chaplaincy list to records plus student
+affairs, to include non-help-seekers. Cost: two months, second interviews with six. Supervisor's sentence to
+remember: 'it would tell you what it felt like, not what they did'."
+
+### 3.6a Three designs compared on the same data
+
+A teaching exercise that makes the design's function visible: the same phenomenon, three ways of collecting it.
+
+**The phenomenon.** A family's first appointment at a clinic: the waiting room, the form, the first ten minutes.
+
+**Design one, the survey.** A questionnaire completed after the first appointment: twelve items on satisfaction,
+waiting time, information received, and whether they would return. *What it produces:* a number per item, across all
+families, comparable over time. *What it cannot produce:* what the family understood by the form, why the waiting
+room felt the way it did, which moment decided whether they returned.
+
+**Design two, the interview.** Eight families interviewed a fortnight after their first appointment. *What it
+produces:* accounts of the experience — the form that asked for the father's tribe, the receptionist's tone, the
+counsellor's first question. *What it cannot produce:* how common any of this is, or whether it predicts return.
+
+**Design three, the observation.** A researcher sitting in the waiting room for three weeks, writing field notes.
+*What it produces:* what actually happens, including what nobody reports — who arrives late, who is spoken to first,
+what the room sounds like. *What it cannot produce:* what any of it meant to the family, without asking them.
+
+**What the comparison teaches.** Each design sees a different part of the same event, and the choice between them is
+not a choice of quality. The mixed design of Week 10 exists because a service frequently needs two of the three at
+once: the survey to know how often, the interviews to know what it meant, the observation to know what happened.
+
+### 3.7 Laboratory: the design sort and the design statement
+
+**Part A — the design sort (thirty-five minutes).** Each group receives six abstracts, stripped of their method
+sections, and must (a) state the question each study is answering, (b) name the design, and (c) state the claim the
+abstract is entitled to make. Two of the six abstracts overclaim, and identifying them is the exercise's real
+purpose.
+
+| Criterion | 0–1 | 2–3 | 4–5 |
+|---|---|---|---|
+| **Question** | Restates the title | States the question | States the question and the population |
+| **Design** | Guessed | Named | Named, with the feature that gives it away |
+| **Claim** | Accepts the abstract's claim | Questions one claim | Identifies both overclaims, with the design reason |
+| **Justification** | "It says so" | One reason | Reasoning from design feature to licensed claim |
+
+**Part B — the design statement (thirty minutes, individual).** Each student writes the six-sentence statement of
+section 3.4 for her own question, and a partner marks it against four tests: is the design named and justified; is
+the comparison or description specified; is the analysis named; and does the claim sentence match the design rather
+than the student's ambition.
+
+**Marks (20 total).** Part A five; Part B fifteen (design justified 4, comparison specified 4, analysis named 3,
+claim matched 4).
+
+**The observation for the debrief.** Almost every student's first claim sentence will be stronger than her design.
+The correction is the whole point of the exercise, and it is easier to make in week three than in the discussion
+chapter.
+
+### 3.7a The design decision record
+
+A one-page document, kept with the proposal, that takes forty minutes and prevents the commonest viva disaster: the
+candidate who cannot remember why she chose what she chose.
+
+**Six entries.** *The question*, as it stands today. *The designs considered* — at least three, with one sentence
+each on what they would have produced. *The design chosen*, and the two reasons. *What it costs* — time, money,
+access, skill. *The claim it licenses*, in the exact words. *What would make me change it* — the finding at week four
+that would justify a redesign.
+
+**Why three designs and not two.** Because two options produce a binary in which the alternative is a straw man, and
+because the presence of a third option demonstrates that the choice was a choice. The third is frequently the design
+the student rejected for reasons of pride rather than method, and writing it down exposes the reason.
+
+**When to revisit it.** At the end of data collection, before analysis begins, and at the viva preparation. At each
+revisit the student adds a dated line: what changed, and why. Three revisits produce a record that answers the
+examiner's question before it is asked.
+
+### 3.7b The design in one diagram
+
+Draw it before you write the methods. A design diagram has four boxes and three arrows, and a student who cannot draw
+it has not decided the study.
+
+**The four boxes.** *Who* — the population and the sample, with the numbers. *What they receive or experience* — the
+intervention, the condition or the phenomenon. *What is measured or described* — the outcome, the construct, the
+account. *When* — the time points, with the intervals.
+
+**The three arrows.** From who to what, showing allocation and whether it was random. From what to measurement,
+showing who measures and whether they know the condition. From measurement to the next time point, showing what is
+expected to change.
+
+**What the diagram exposes.** Mismatched units (families allocated, individuals measured), missing comparison groups,
+measurement points that do not align with the intervention, and outcomes that the intervention could not plausibly
+affect. It takes ten minutes and it catches design errors that three pages of prose conceal.
+
+### 3.8 Six errors
+
+**Error 1 — The design chosen by convenience.** "I can get ten participants, so I will call it phenomenology." The
+approach then mismatches the sampling, the interview and the analysis, and the mismatch shows in the viva.
+
+**Error 2 — The qualitative study described with quantitative ambitions.** "The study will show how common this
+experience is." It will not; frequency is a different question with a different design.
+
+**Error 3 — The trial that cannot be run.** A randomised design proposed for a service that cannot refuse care to
+anyone. The proposal will be rejected, and the student will lose a month.
+
+**Error 4 — The single-case design dismissed as "just a case".** The most clinically relevant design in the list,
+and the one students least often consider, because it does not sound like research. It is research, with a logic,
+a method and a literature.
+
+**Error 5 — The mixed design that is two studies.** No integration question, no point at which the strands speak,
+and a discussion with a paragraph beginning "the qualitative findings were consistent with the survey".
+
+**Error 6 — The claim that grows between the design and the discussion.** The design supports association; the
+discussion says "influences"; the abstract says "causes". Each step is small and the compound is a misrepresentation.
+
+### 3.9 Culture, faith and the choice of design
+
+**Some questions are only answerable qualitatively in this setting, and that is a finding rather than a limitation.**
+A study of how families decide whether to consult a traditional healer cannot be done with a questionnaire that the
+student has designed from the outside, because the categories in the questionnaire will not be the categories the
+family uses. The qualitative design is not a fallback here; it is the only design that can discover the categories.
+
+**The community's expectation of research.** Where a community has experience of surveys that produced nothing,
+a questionnaire may be refused while an interview is welcomed, because the interview involves somebody listening. The
+design choice is therefore also a relational choice, and the proposal should say so.
+
+**Gatekeepers and the shape of the sample.** Access through a church, a mosque, a school or a compound determines
+the sample's character. A study recruited through one congregation is a study of that congregation's families, and
+the design should state this as a boundary rather than describe the sample as "Nigerian families".
+
+**The single-case design and the extended family.** In a household where several adults share the care of a child,
+a single-case design measured on the child alone will miss the change that occurred because the grandmother moved
+in. The unit of the case is a design decision, and in this setting it is frequently larger than the referred
+individual.
+
+**Faith and the language of outcome.** A study measuring only symptom scores will record a family's improvement
+partially, because the family's own account of change may be about peace, reconciliation or obedience. The
+qualitative strand of a mixed design is where that language can be heard; a purely quantitative design should say in
+its limitations that it measured what it measured.
+
+**The ethics of the design choice.** Some designs expose participants more than others: a randomised trial of a
+family intervention assigns families to conditions; an ethnographic study observes a household; a survey asks about
+violence in a form that a husband might read. The design chapter is where those exposures are counted, not only the
+benefits.
+
+### 3.9a What the design decides about the participant's experience
+
+A neglected consideration: the design determines what it is like to take part, and that is an ethical matter as well
+as a methodological one.
+
+**The survey participant** gives twenty minutes and a set of numbers. She may never learn what happened, and her
+experience is of a form. The obligation is to make the form answerable, to say what it is for, and to return a
+summary.
+
+**The interview participant** gives an hour of her story to a stranger, and frequently finds it valuable and
+occasionally finds it distressing. The obligation is a competent interviewer, a procedure for distress, and a
+follow-up that does not leave her with more than she came with.
+
+**The observed family** gives up privacy in a room where privacy is the point. The obligation is a clear statement of
+what will be written down, who will read it, and the right to ask for the recorder or the observer to leave.
+
+**The single-case participant** is measured repeatedly, which can feel like being watched. The obligation is to
+explain what the measurements are for and to share them — a family who sees her own graph is a collaborator rather
+than a subject.
+
+**The trial participant** may be allocated to the condition the researcher believes is inferior. The obligation is
+honesty about the uncertainty, a stated plan for what happens if the intervention looks effective before the trial
+ends, and a guarantee that the comparison condition is not nothing.
+
+### 3.10 Evidence note
+
+**What is known.** The methodological literature is strong on the connection between design and inference: the
+hierarchy of causal designs, the logic of the single-case experiment, and the conditions under which qualitative
+approaches produce knowledge that quantitative work cannot. Mixed-methods writing has developed a substantial
+literature on integration and on the reporting standards for each strand. The empirical literature on research
+quality consistently finds that the largest source of error is not the analysis but the design: samples that cannot
+answer the question, comparisons that cannot support the claim, and measures that do not capture the construct.
+
+**What is weaker.** The comparative merit of qualitative approaches is a matter of methodological argument rather
+than empirical demonstration; there are few studies showing that a phenomenological analysis produces better
+knowledge than a thematic one for a given purpose. The claim in this week that the approach must follow the product
+is a coherent position rather than a demonstrated finding.
+
+**What is not supported.** That qualitative and quantitative methods can be combined without a design; that a mixed
+study is automatically stronger than either strand; and that a design label guarantees the rigour of the work
+conducted under it.
+
+**The matrix cell.** *Development is probabilistic and non-linear; the same input produces different outcomes
+depending on timing and context.* A design that fits a question in a stable service may not fit the same question in
+a service that is reorganising, because the comparison group's "usual care" is changing while it is being measured.
+
+### 3.10a The eleven design questions a viva will ask
+
+Collected here because they are asked in some form at every thesis defence in this field, and each one is answerable
+in two sentences.
+
+1. **Why this design and not the obvious alternative?** Name the alternative and say what it would have cost.
+2. **What can you not conclude?** The limitations, stated before they are extracted.
+3. **What was your comparison, and why is it fair?** Or, for qualitative work, whose perspective and why theirs.
+4. **How did you decide the sample size?** A calculation, a saturation account, or a stated convention.
+5. **What would you have done if recruitment had failed?** The contingency, stated in advance.
+6. **Who is missing from your sample, and what does that do to the claim?** The refusers, the fathers, the families
+   without a telephone.
+7. **What is the unit of analysis, and is it the unit of the claim?** The Week 6 problem, asked early.
+8. **What did you do about the characteristic threat of this design?** Selection, attrition, reactivity, influence.
+9. **Where does your data end and your interpretation begin?** The line that qualitative work must draw explicitly.
+10. **What would have counted as a different answer?** The falsifiability question, asked at the end.
+11. **What would you do differently?** A specific change, not a generality.
+
+**Why these eleven.** Because each of them can be answered in two sentences by a student who designed the study
+herself, and cannot be answered by a student who followed a template. The viva is not a memory test; it is a test of
+whether the design was thought through.
+
+### 3.11 Key terms
+
+**Design** — the structure of a study that connects a question to the data that can answer it and to the claim the
+answer can support.
+
+**Inference** — the move from data to conclusion; the strength of the move is what the design determines.
+
+**Confounder** — a variable associated with both the supposed cause and the outcome, which can produce a spurious
+association.
+
+**Selection bias** — systematic difference between groups that exists before the intervention.
+
+**Attrition** — loss of participants between measurement points; rarely random.
+
+**Regression to the mean** — the tendency of extreme measurements to be less extreme on a second occasion.
+
+**Reactivity** — the change in behaviour or report caused by being measured.
+
+**Saturation** — the point at which further data collection produces no new categories; relevant to qualitative
+sampling and contested as a criterion.
+
+**Integration** — in mixed methods, the specification of how the two strands inform each other.
+
+**Single-case design** — repeated measurement across phases in one case or a small number, with the logic of
+demonstrating a change coinciding with an intervention.
+
+### 3.12 Self-test
+
+1. State the three premises of a design argument.
+2. Match each of the five quantitative designs to the claim it licenses.
+3. Match each of the six qualitative approaches to the kind of knowledge it produces.
+4. Name five threats to inference and the design that answers each.
+5. What are the six sentences of a design statement?
+6. In the Chinedu case, what two design decisions were wrong, and why?
+7. What is the integration question in a mixed design, and what happens if it is not answered?
+8. Give four of the eleven viva questions and a two-sentence answer to one of them for your own study.
+
+**Answers.** *(1)* That this question requires this comparison or description; that it will be gathered this way
+from these people; and that the claim permitted at the end is this strong and no stronger. *(2)* Survey —
+association at one time; cohort — temporal prediction; quasi-experiment — a difference between non-randomised groups;
+trial — causation in that population under those conditions; single case — change coinciding with intervention in
+that case. *(3)* Phenomenology — the structure of experience; grounded theory — a theory of process; ethnography —
+how a setting works as a culture; case study — mechanisms in a bounded system; narrative inquiry — how lives are
+storied; IPA — how individuals make sense of one thing. *(4)* Selection — randomisation; history — a comparison group
+exposed to the same events; maturation — comparison or repeated baseline; attrition — intensive follow-up and
+reporting of leavers; regression to the mean — comparison or a longer baseline; reactivity — unobtrusive measures.
+*(5)* Question; design and reason; comparison or description; data; analysis; the claim licensed. *(6)* The design
+(phenomenology for a question about process and use) and the sampling frame (chaplaincy users only, which selected
+the sample on the outcome). *(7)* The specification of how the strands inform each other — which data interpret
+which, what happens if they disagree, and where the integration appears; without it the study is two studies with
+two sets of costs. *(8)* For example: "Why this design and not the obvious alternative?" — "A qualitative design
+because no theory of the process exists to test, and a survey would impose categories the participants do not use. A
+survey would have been faster and would have answered a question about prevalence, which is not the question the
+service faces."
+
+### 3.12a The four sentences that keep the discussion honest
+
+Written at the top of the discussion chapter, before a word of it is drafted.
+
+**"The design permits me to say …"** The claim sentence from the design statement, copied verbatim.
+
+**"It does not permit me to say …"** The claim the reader will expect and the design cannot support.
+
+**"The most serious threat is …, and I have addressed it by …"** One threat, not a list, chosen because it is the
+one an examiner would raise.
+
+**"What this study adds to the decision is …"** The specific contribution, in the service's terms rather than the
+literature's.
+
+**Why four and not ten.** Because a discussion chapter with ten limitations reads as an apology, and a discussion
+with one named and addressed threat reads as competence. The remaining threats belong in a table, briefly, where
+they can be read by the person who wants them.
+
+### 3.13 Reflective task
+
+Write the claim sentence for your study in the exact words you would permit yourself to use in the abstract, then a second sentence naming the design feature that licenses it, and a third naming the nearest claim you are not entitled to make. Read them on one line and ask which of the three you would rather have written, then
+read it against your design. If the sentence is stronger than the design, weaken one of them. Most students weaken
+the sentence; a few change the design, and those are the ones who finish with a study that says something true.
+
+### 3.14 Further reading
+
+- Any current text on research design in the social sciences, for the inference logic of the five quantitative
+  designs.
+- A qualitative methods text that distinguishes the six approaches by procedure rather than by label — read the
+  chapters on analysis, which is where the differences live.
+- The mixed-methods literature on integration and on reporting standards for each strand.
+- One exemplar single-case study in family therapy, read for the logic rather than the result.
+- Two theses from your department in each tradition, read for the design statement.
+
+*Next: Week 4 — Sampling: who is in, who is out, who never comes.*
 
 ---
 
