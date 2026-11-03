@@ -6780,24 +6780,775 @@ to mix is a question that neither approach can answer alone.
 
 ---
 
-## Week 10 — Mixed methods and participatory approaches
+## Week 10 — Mixed methods: integration, joint displays and participatory approaches
 
-**Why mix.** Numbers answer "how much"; words answer "how" and "why". Three designs:
+**Learning outcomes.** By the end of this week the student can (1) state which question requires two strands and why
+neither alone would answer it; (2) name the four principal designs by their sequence and integration point; (3) build a
+joint display that integrates findings rather than sitting them side by side; and (4) describe a participatory design
+with its ethics and its costs.
 
-1. **Explanatory sequential** — quantitative first, then qualitative to explain the result.
-2. **Exploratory sequential** — qualitative first (to build a culturally valid measure or model), then
-   quantitative.
-3. **Convergent parallel** — both at once, integrated in interpretation.
+### Why mix, and why not
 
-**Integration is the hard part.** A study that reports a survey and some interviews side by side, without
-integrating the findings, is two studies in one paper. Use a **joint display** table: finding from strand A
-| finding from strand B | convergence / divergence | interpretation.
+Numbers answer *how much* and *how often*, and answer them with an uncertainty that can be quantified. Words answer
+*how* something is experienced, *why* a service is not used, *what* a phenomenon means locally, and *how* a process
+unfolds. A study that needs both has a mixed-methods question, and a study that collects both because it seems thorough
+has two studies.
 
-**Participatory action research** is particularly well suited to community and family work: families help
-define the question, collect data, and interpret findings. It strengthens validity and ethics at once.
+**The test that settles it.** Remove one strand and ask what the remaining strand could not say. If the answer is
+"nothing", the second strand is decoration. If the answer is "it could not explain why attendance fell in the second
+half of the programme", the study is genuinely mixed.
 
-> **TASK** — Design a mixed-methods study to understand why families drop out after the first session.
-> Specify the sequence, the integration point, and one joint display row.
+**The three legitimate reasons.**
+
+1. **Complementarity** — the strands answer related but different aspects of one question: how many couples improve,
+   and what improvement feels like to those who report it.
+2. **Development** — one strand builds the instrument or the intervention for the other: interviews generate the items
+   for a scale, then the scale is surveyed.
+3. **Explanation** — a surprising quantitative pattern is pursued qualitatively: satisfaction rose overall but fell in
+   the church with the largest programme, and interviews explain why.
+
+**The three illegitimate reasons, which account for most mixed-methods theses.** Because the supervisor asked for both;
+because a quantitative study alone seemed thin; and because interviews are easy to add. None survives the removal
+test.
+
+![Figure 10.1 — Four mixed-methods designs and where integration happens](../assets/figures/fig47-mixed-methods-designs.svg)
+
+### 10.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–12 | The removal test; legitimate and illegitimate reasons for mixing | Students apply the test to six abstracts |
+| 12–28 | The four designs: sequence and integration point | Figure 10.1 built on the board in stages |
+| 28–44 | Integration is the hard part: joint displays | Students build one row of a display |
+| 44–58 | Divergence: when the strands disagree, and why that is the finding | Case from the programme evaluation |
+| 58–72 | Participatory action research: authority, ethics, cost | Discussion with a community partner invited |
+| 72–84 | Writing the mixed-methods methods chapter | Structure on the board |
+| 84–90 | The one-sentence justification each student must write | Written and collected |
+
+### 10.2 Five concepts that organise the week
+
+**Concept 1 — The design is named by sequence and integration, not by the presence of two data types.** "Explanatory
+sequential" says that the quantitative strand came first and the qualitative explained it; the name is a description of
+the logic, and it should be defensible from the methods chapter alone.
+
+**Concept 2 — Integration is a place in the analysis, not an aspiration in the discussion.** A joint display, a
+comparison of strands on the same construct, or a set of sampling decisions that carry one strand into the other are
+integration. A paragraph that says "the qualitative findings support the quantitative results" is not.
+
+**Concept 3 — Divergence is more informative than convergence.** When the survey says couples are satisfied and the
+interviews describe households in which nobody speaks, the disagreement is the finding. It may indicate
+social-desirability bias in the instrument, a different meaning of satisfaction, or a change over time. Averaging the
+two into "mixed evidence" wastes the most interesting data in the study.
+
+**Concept 4 — Participatory approaches redistribute authority, and that is the method, not the politics.** When
+families define the question and interpret the findings, the study can ask things an outsider would not think to ask,
+and it also loses control of the timeline, the framing and sometimes the conclusion.
+
+**Concept 5 — Mixed methods doubles the methodological burden and does not halve either.** Both strands must meet their
+own standards, the integration must meet a third, and a masters thesis has one year. A single-strand study done
+excellently is a better thesis than a two-strand study done adequately, and examiners say so.
+
+### 10.2a The four designs in detail, with what each requires
+
+**Explanatory sequential (QUAN → qual).** The quantitative strand is primary; the qualitative strand explains an
+unexpected or striking result. *Requires:* a quantitative finding that warrants explanation, and qualitative sampling
+drawn deliberately from the quantitative sample so that the explanations attach to the pattern. *The integration
+artefact:* a table of the quantitative result and the qualitative explanation, case by case. *The common failure:*
+interviews with a completely different group, so that the explanation floats free of the pattern it was meant to
+explain.
+
+**Exploratory sequential (QUAL → quan).** The qualitative strand is primary and developmental; it produces constructs,
+items or a model that the quantitative strand then tests at scale. *Requires:* a phenomenon without an adequate
+instrument or theory, and time for two phases. *The integration artefact:* a table mapping each item to the extract
+that generated it — the single most convincing appendix in this design. *The common failure:* writing items from the
+literature and conducting interviews "for context".
+
+**Convergent parallel (QUAN + QUAL).** Both strands run on the same phenomenon, often in the same sample, and are
+compared. *Requires:* constructs that can be measured and discussed, and a genuine willingness to report disagreement.
+*The integration artefact:* the joint display. *The common failure:* reporting the two strands in consecutive chapters
+and integrating in one sentence of the conclusion.
+
+**Participatory action research (PAR).** Participants co-design, co-collect, co-interpret, and the study ends in action.
+*Requires:* a community partner with real authority, a timeline that accommodates their decisions, and an ethics
+protocol that handles the fact that participants may know each other's data. *The integration artefact:* the
+co-analysis record — who said what in the analysis meetings. *The common failure:* calling a study participatory because
+participants were consulted on the question.
+
+**The embedded design, briefly.** One strand is nested inside the other for a subsidiary purpose: qualitative
+interviews embedded in a randomised comparison to understand why adherence varied. It is the design most suited to a
+programme evaluation with a limited budget, and it is under-used in student work.
+
+**The notation.** QUAN and QUAL in capitals denote the primary strand; lower case denotes the secondary. An arrow
+denotes sequence; a plus sign denotes concurrency. The notation is a shorthand for the logic, and its appearance in a
+methods chapter is the fastest way to show that the design was thought about rather than assembled.
+
+### 10.2b A worked exploratory sequential study: from interviews to items
+
+The design's justification is that no adequate instrument exists for the construct in this population. The following is
+the shortest defensible version, and it fits inside one academic year if the phases are kept small.
+
+**Phase 1 — interviews (n = 16).** Mothers of adolescent sons who had left school, asked one question: "Tell me what
+changed at home when he stopped going." Sixteen interviews, four themes: *the silence at meals*, *the husband's
+verdict*, *the mother's double shift*, *what the church said*.
+
+**Phase 2 — item generation (n = 24 items).** Four to six items per theme, written in the participants' language, each
+traceable to specific extracts. The mapping is the design's evidence:
+
+| Item | Theme | Extracts that generated it |
+|---|---|---|
+| "At meals, nobody talks about him." | Silence at meals | 4 participants, 6 extracts |
+| "His father has decided what kind of boy he is." | The husband's verdict | 7 participants, 11 extracts |
+| "I do two jobs now: the one I am paid for and the one at home." | The mother's double shift | 9 participants, 12 extracts |
+| "The church said we should pray and be patient." | What the church said | 6 participants, 8 extracts |
+
+**Phase 3 — expert review and cognitive interviewing (n = 10).** Two items dropped as double-barrelled, one reworded
+after a participant read *verdict* as a court judgment, and one retained despite discomfort because it indexed the
+study's central construct.
+
+**Phase 4 — survey (n = 240).** Exploratory factor analysis produced three factors rather than four, with the church
+items loading weakly. Alpha 0.81 for the total, 0.62 to 0.77 for factors. The church factor was reported as inadequately
+measured, and the discussion used the qualitative theme for it instead.
+
+**What the design bought and cost.** It bought an instrument that measures what mothers in this city actually
+experience, and a published instrument-development paper as a second output. It cost eleven months, and the factor
+analysis forced a revision of the four-theme model that the qualitative chapter had presented as settled.
+
+**The honest sentence.** "The instrument was developed and piloted for this study; the failure of the church items to
+form a reliable factor is reported, and the qualitative theme is used in its place in the discussion."
+
+### 10.3 The joint display: the artefact that proves integration
+
+A joint display is a table that places findings from the two strands side by side, by construct, with a column for the
+comparison and a column for what it means. It is the single most valuable page of a mixed-methods thesis, and it takes
+about an afternoon.
+
+| Construct | Quantitative finding | Qualitative finding | Comparison | Interpretation |
+|---|---|---|---|---|
+| Satisfaction | +4.1 RDAS points (95% CI 1.4–6.8) | Couples describe "managing" rather than "enjoying" the marriage | Divergence in meaning | The scale registers improvement that participants do not name as satisfaction |
+| Attendance | 78% completed 8+ sessions | Fathers describe attendance as their wives' responsibility | Convergence, with a gendered qualification | Attendance is dyadic in the data and individual in the household |
+| Conflict | Mean conflict score fell 3.2 points | Two couples describe more open conflict after the programme | Divergence in direction for a subgroup | Improvement in the mean conceals a subgroup whose conflict became overt |
+| Help-seeking | 41% had spoken to a pastor before the clinic | Pastors described referring "the serious ones" | Convergence | The pastor is the de facto gatekeeper of the clinic sample |
+
+**What makes the display work.** The rows are organised by construct, not by strand; the comparison column uses a
+vocabulary (convergence, divergence, expansion, complementarity) rather than an impression; and the interpretation
+column says what the combination means, which neither strand could have said alone.
+
+**The four comparison types.**
+
+- **Convergence**: the strands agree, which strengthens confidence but adds little new knowledge.
+- **Divergence**: the strands disagree, which is the most productive outcome and requires explanation rather than
+  resolution.
+- **Expansion**: one strand extends the other's scope, as when interviews reveal a mechanism the survey could not see.
+- **Complementarity**: the strands answer different questions about the same phenomenon, and together they cover it.
+
+**The display in the thesis.** One table in the results chapter, referred to repeatedly in the discussion. It is worth
+more than a hundred words of assertion that integration occurred.
+
+### 10.3a The methods chapter for a mixed-methods study
+
+**Section 1 — the question and the rationale (400 words).** The question, why it requires two strands, and the removal
+test stated explicitly: what each strand alone could not have established.
+
+**Section 2 — the design (300 words).** The notation, the sequence, the integration point, and a figure. One paragraph
+per strand stating its own design, sampling and analysis, with its own quality criteria.
+
+**Section 3 — integration (400 words).** The joint display's structure, who built it, how disagreements between
+strands were handled, and what would have counted as divergence.
+
+**Section 4 — the two standards (300 words).** Quantitative: power, measurement, analysis. Qualitative: rigour,
+reflexivity, audit trail. One paragraph each, no dilution.
+
+**Section 5 — ethics (250 words).** Two consent processes if the strands were separate; how a qualitative participant's
+data are handled when the quantitative sample is identifiable; and what participants were told about how the two would
+be combined.
+
+**Section 6 — team and roles (150 words), if there was a team.** Who did what, and who had analytic authority where
+they disagreed. In participatory work this section is essential.
+
+**The word count.** About 1,800 words for the methods chapter of a mixed-methods thesis, against 1,200 for a
+single-strand study. The difference is the price of the design, and it is worth paying only if the design earns it.
+
+### 10.3b Linking the samples: the decision that makes or breaks the design
+
+**The three linking strategies.**
+
+1. **Nested** — the qualitative participants are a purposive subsample of the quantitative sample. Strongest for
+   explanation, requires identifiers and consent for re-contact.
+2. **Parallel** — both samples drawn from the same population but not overlapping. Weaker, and acceptable when the
+   strands answer different questions.
+3. **Sequential independent** — the second sample drawn after the first analysis, from a different but adjacent
+   population. Weakest, and legitimate only for development designs.
+
+**What nested sampling requires operationally.** A consent item permitting re-contact; a linking code that is not the
+participant's name; a log of who was approached and who declined; and a decision rule for which quantitative cases to
+pursue — usually the extremes and a random selection of the middle, so that the qualitative sample is not only the
+surprising cases.
+
+**The design sentence.** "Fifteen couples were purposively selected from the 178 survey respondents: five whose change
+scores were in the top decile, five in the bottom decile, and five drawn at random from the remainder, so that the
+qualitative strand could describe both the improvement and the absence of it."
+
+**The refusal problem.** Some of the most informative cases refuse to be interviewed. The methods chapter should report
+how many were approached and how many declined, because a qualitative subsample consisting only of the willing is the
+same selection problem as Week 4, arriving one level down.
+
+### 10.4 Case: the programme that worked in the survey and not in the room
+
+**CASE** — *The evaluation of the Ibadan couples initiative.* A church network commissioned an evaluation of a
+ten-session marriage programme delivered in six congregations over eighteen months. The evaluator, a doctoral student,
+used a convergent parallel design: a before-and-after survey of 214 couples, and 22 interviews with couples and
+facilitators conducted during the final month.
+
+**The quantitative findings.** RDAS scores rose from 44.6 to 48.7 (paired difference 4.1, 95% CI 2.6 to 5.6), with a
+responder rate of 38 per cent. Attendance was 78 per cent for eight or more sessions. Satisfaction with the programme
+was 4.4 out of 5.
+
+**The qualitative findings.** Three themes. First, couples described the programme as a place where they had been
+*allowed to speak in front of others*, and several said the small-group sessions rather than the teaching had mattered.
+Second, four couples described conflict that had become *more open and less settled* since the programme, because they
+had learned to name grievances they previously kept quiet. Third, facilitators described two congregations where
+attendance collapsed after session five, and attributed it to a dispute between the pastor and a lay leader rather than
+to the programme.
+
+**The joint display, abridged.**
+
+| Construct | Quantitative | Qualitative | Comparison | Interpretation |
+|---|---|---|---|---|
+| Satisfaction | +4.1 points, 38% responders | "Managing" language; little talk of enjoyment | Divergence in meaning | The scale measures reduced distress more than increased pleasure |
+| Conflict | Mean fell 3.2 | A subgroup reports more open conflict | Divergence for a subgroup | Early-stage change looks like deterioration on a mean |
+| Attendance | 78% overall | Two congregations collapsed at session five | Divergence between sites | The aggregate hides a site-level failure with an institutional cause |
+| Mechanism | Not measured | Small groups named as the active ingredient | Expansion | A hypothesis for the next study, not a finding of this one |
+
+**What the evaluator did with the divergence.** She did not resolve it by preferring one strand. She reported the mean
+improvement, the responder rate, and the meaning divergence in the same paragraph, and she argued that the programme
+reduces distress before it increases enjoyment — a claim neither strand could have made alone, and one that changed the
+network's expectations of a twelve-month follow-up.
+
+**What she did with the collapsed congregations.** She re-analysed the quantitative data by congregation, which she had
+not planned to do. The two failing congregations had mean changes near zero; the other four had changes of 5 to 7
+points. The aggregate had concealed a site effect, and the qualitative strand had told her where to look.
+
+**The ethics problem she had not anticipated.** One facilitator, quoted in an early draft, was identifiable to the
+network's leadership from the description of the pastoral dispute. The interview had been conducted with a promise of
+anonymity, and the quotation was central to the theme. She replaced it with a paraphrase, marked the change, and
+disclosed in the methods that one quotation had been paraphrased to protect a participant.
+
+**What the case teaches.**
+
+- **Convergence is the least informative outcome.** The interesting rows in the display were the divergent ones.
+- **The qualitative strand identified where to re-analyse**, which is a form of integration that no joint display
+  captures and the methods chapter must describe.
+- **A site-level effect can hide inside an aggregate**, and mixed methods can point to it — the same lesson as the
+  cluster discussion in Week 6, arriving through a different door.
+- **Anonymity in a small network is fragile**, and the fix costs a paraphrase and a disclosed change.
+
+### 10.4a A second case: the drop-out study, explanatory sequential
+
+**CASE** — *Why families stop coming after the first session.* A clinic in Ibadan had a first-session drop-out rate of
+46 per cent, and the clinical team believed the reason was distance and cost. A masters student tested the belief.
+
+**The quantitative strand.** Records for 312 families seen in eighteen months: distance from the clinic, travel time,
+number of children, referral source, presenting problem, who attended the first session, and whether the family
+returned. A logistic regression predicted return.
+
+**What the model found.** Distance was not associated with return (OR 0.98 per kilometre, 95% CI 0.94 to 1.02). The
+strongest predictors were the referrer (families referred by a pastor were twice as likely to return as those referred
+by a school) and who attended the first session (families in which the father attended were 2.6 times as likely to
+return). Cost, measured as an indicator, was not distinguishable from zero.
+
+**The qualitative strand.** Twelve families who did not return, purposively selected to include both near and far, and
+both pastor-referred and school-referred.
+
+**What the interviews found.** Three themes. First, **the letter that was not a letter**: school referrals arrived as a
+written notice about the child, which parents read as a summons, whereas pastoral referrals arrived as a conversation
+with someone the family trusted; the same clinic felt like two different institutions. Second, **the room**: four
+mothers described being asked, in the first session, to say in front of their husbands what was wrong at home, and
+deciding on that basis not to return. Third, **the fee that was never mentioned**: three families believed the clinic
+was free until the end of the first session, and one described the discovery as the moment they decided not to come
+back.
+
+**The joint display, two rows.**
+
+| Construct | Quantitative | Qualitative | Comparison | Interpretation |
+|---|---|---|---|---|
+| Referral route | Pastor-referred 2× more likely to return | School letters read as summonses | Convergence, with mechanism | The referrer shapes the meaning of the clinic before the family arrives |
+| Cost | Not associated with return | Fee discovered late, not prohibitive | Divergence | The problem is not the amount but the timing of the information |
+
+**What the clinic changed.** It rewrote the school referral letter, moved the fee disclosure to the first contact, and
+changed the first session's opening so that the therapist asked each member what they wanted the clinic to help with
+rather than what was wrong at home. Fourteen months later the drop-out rate was 29 per cent. The follow-up is not part
+of the thesis and is reported in the discussion as the outcome the study was intended to inform.
+
+**What the case teaches.**
+
+- **The clinic's theory was wrong and testable.** Distance and cost were the team's explanation, and the records
+  refuted the first and complicated the second.
+- **The qualitative strand supplied mechanisms that changed practice**, not merely context.
+- **The joint display's divergence row was the most actionable finding**, and it would have been lost if cost had been
+  reported only as a coefficient.
+- **Action follows from integration**, and it is the strongest argument for the design in a clinical setting.
+
+### 10.4b What divergence can mean: four diagnoses
+
+When the strands disagree, there are four explanations, and the student's job is to decide which is most likely and to
+say how they decided.
+
+**Diagnosis 1 — the instrument is measuring something else.** Couples score high on satisfaction and describe a
+household in which nobody speaks. The scale may be measuring the absence of open conflict, which is not the same as
+satisfaction. Test: look at the items and at the correlations with other measures.
+
+**Diagnosis 2 — the sample differs between strands.** The survey included 178 couples; the interviews reached the
+fifteen willing ones, who were more religiously active. The divergence is then a finding about selection (Week 4), not
+about the construct.
+
+**Diagnosis 3 — the time frame differs.** The survey measured the last two weeks; the interviews covered the last five
+years. Couples can be satisfied now and describe a long history of difficulty without contradiction.
+
+**Diagnosis 4 — the meaning is contested.** "Satisfaction" in the survey means contentment; in the interviews,
+participants use the same English word to mean the absence of scandal. The divergence is linguistic, and it is exactly
+what Week 5's adaptation discussion predicted.
+
+**What the student must not do.** Choose the diagnosis that preserves the original thesis. The four diagnoses are
+distinguishable with the data a mixed-methods study already has, and the examiner will ask which one was considered.
+
+### 10.5 An annotated supervision transcript: the two-study thesis
+
+*The student has collected a survey of 150 mothers and twelve interviews with mothers, and cannot say how they relate.*
+
+**SUPERVISOR:** What does the survey answer?
+
+**STUDENT:** Whether maternal depression is associated with child behaviour problems.
+
+**SUPERVISOR:** And the interviews?
+
+**STUDENT:** How mothers describe their children's behaviour.
+
+**SUPERVISOR:** Same mothers?
+
+**STUDENT:** Different. The interviews were in a different clinic.
+
+**SUPERVISOR:** So you have two studies. What would make them one?
+
+**STUDENT:** If the interview mothers were drawn from the survey sample.
+
+**SUPERVISOR:** Why would that matter?
+
+**STUDENT:** Then I could say what the association means in these particular cases, rather than describing a different group.
+
+**SUPERVISOR:** Good. Can you still do that?
+
+**STUDENT:** I could go back and interview fifteen of the survey mothers whose children scored high, and ten whose children scored low.
+
+**SUPERVISOR:** That is an explanatory sequential design, and it will cost you six weeks. What would it give you?
+
+**STUDENT:** A comparison. I could say whether mothers of high-scoring children describe something the others do not, or describe the same thing differently.
+
+**SUPERVISOR:** And if they describe the same thing?
+
+**STUDENT:** Then the questionnaire is picking up something the mothers do not experience as a problem, and that is a finding about the instrument.
+
+**SUPERVISOR:** Now you have a mixed-methods study. Write the removal test sentence.
+
+**STUDENT:** "Without the interviews, the survey could not say whether the association reflected a difference in children's behaviour or a difference in mothers' thresholds for describing it."
+
+**SUPERVISOR:** Put that sentence in the first paragraph of your methods chapter, and everything else follows from it.
+
+**What the transcript teaches.**
+
+- **Two datasets are not two strands.** The strands must speak to the same phenomenon in the same population.
+- **Purposive selection from the quantitative sample is what makes explanation possible.** It is a sampling decision
+  (Week 4) serving a design decision.
+- **The design changed the cost and the calendar**, and the student accepted both knowingly.
+- **The removal test sentence is the thesis of the methods chapter**, and it is one sentence long.
+
+### 10.6 Lab: build a joint display
+
+**Aim.** One integrated table, with at least four constructs, a comparison column using the four-type vocabulary, and an
+interpretation for each row.
+
+**Materials.** Your quantitative results table (or a published one) and your qualitative themes (or a published set),
+plus a large sheet of paper.
+
+**Steps.**
+
+1. **List the constructs**, not the findings: satisfaction, conflict, attendance, help-seeking, communication.
+2. **Place each strand's finding in its own column**, in the units in which it was produced. Do not standardise; the
+   point of the display is that the units differ.
+3. **Assign a comparison type** to each row and justify it in three words: convergence, divergence, expansion,
+   complementarity.
+4. **Write the interpretation** for each row in one sentence: what the combination establishes that neither alone could.
+5. **Mark the rows where divergence is unexplained**, and list what would be needed to explain them.
+6. **Write the paragraph** that introduces the display in the results chapter, including what the reader should notice.
+7. **Peer review**: exchange with a partner and check that every row's interpretation could not have been written from
+   one strand alone.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Constructs, not findings, organising rows | 3 | Rows can be read by someone who has not read either chapter |
+| Findings in their native units | 4 | Intervals and counts preserved, not converted to adjectives |
+| Comparison type justified | 4 | The type is argued, not asserted |
+| Interpretation per row | 5 | Each sentence names what the combination adds |
+| Divergence handled, not resolved | 2 | At least one unexplained row is left visibly open |
+| Introductory paragraph | 2 | Tells the reader how to read the table |
+
+**Fail conditions.** A table of two columns with no comparison. A comparison column containing "supports". An
+interpretation that repeats the quantitative finding in words.
+
+### 10.6a Peer review of a joint display: six questions
+
+Exchange displays with a partner and answer these six questions in writing, in five minutes each.
+
+1. **Can I read this table without having read either chapter?** If not, the rows are findings rather than constructs.
+2. **Are the quantitative entries in their native units, with intervals?** A row that says "improved significantly"
+   has lost the information the table exists to preserve.
+3. **Does each comparison type have a reason attached?** "Divergence" with no explanation is a label, not an analysis.
+4. **Is there at least one unexplained divergence?** A display in which every row converges is either an unusual study
+   or an edited one.
+5. **Could each interpretation have been written from one strand?** If yes, the integration is nominal.
+6. **Does the interpretation change what a clinician would do?** The best displays end in an action.
+
+**The revision that almost always follows.** Two rows merge, one row is deleted for want of either a quantitative or a
+qualitative entry, and one interpretation is rewritten because it turned out to be a summary. A display survives about
+three revisions, and the third is the one that goes in the thesis.
+
+### 10.7 Six mixed-methods errors that survive examination
+
+**Error 1 — The two-study thesis.** A survey chapter and an interview chapter, integrated in one sentence of the
+conclusion. The removal test was never applied, and either strand would have sufficed.
+
+**Error 2 — Integration asserted rather than shown.** "The qualitative findings support the quantitative results", with
+no table, no comparison, no case-level link.
+
+**Error 3 — The different-sample explanation.** Interviews conducted with a different population from the survey, so
+that the qualitative strand cannot explain the pattern it was supposed to explain.
+
+**Error 4 — Divergence resolved by preference.** The strands disagree; the student reports the strand that suits the
+argument and mentions the other as "mixed evidence".
+
+**Error 5 — Standards diluted in both strands.** A survey too small to power its comparison and interviews too few to
+support their themes, on the reasoning that each is half a study. Each strand is judged in full.
+
+**Error 6 — Participation claimed, not practised.** "Participatory" used for a study in which participants were
+consulted once on the question and had no authority over the analysis or the report.
+
+> **CAUTION** — *The joint display that was built after the viva.* A student's examiners asked where the integration
+> was. She built a joint display over one weekend and inserted it. Two rows contradicted her discussion chapter, and
+> she had to rewrite the discussion in a week. Integration built at the end is not integration; it is a summary, and
+> summaries do not change conclusions. The display belongs in the analysis, before the discussion is drafted.
+
+### 10.8 Participatory action research: what it demands
+
+**Authority is shared, including over the question.** The community partner can change the question, refuse a method,
+and decide that a finding should not be published. A researcher who has not agreed in advance what happens when the
+partner disagrees has not understood the design.
+
+**The timeline belongs to the community.** Meetings are missed, decisions take a month, and the harvest season is not
+negotiable. A one-year masters thesis with a PAR design must plan for at least three months of slack.
+
+**Co-analysis is the analytic core.** Participants interpret the data in sessions that are recorded and analysed
+themselves. The record of those sessions — who said what, what was disputed, what the researchers did with the dispute
+— is the design's audit trail.
+
+**Confidentiality is harder.** In a community group, participants know each other. A quotation that criticises the
+group's leader cannot be anonymised within the group, and the ethics protocol must say how such material is handled
+before it is collected.
+
+**The benefit must be real.** PAR is justified by what it leaves behind: a skill, a service, a report the community can
+use. A student who extracts data and leaves is conducting research *on* a community while calling it *with*.
+
+**The honest statement for a thesis.** "The study was collaborative rather than fully participatory: the community
+advisory group shaped the question and reviewed the findings, but the analysis was conducted by the researcher and the
+report was written for the degree." That sentence is worth more than a claim the design cannot support.
+
+### 10.7a An audit of a published mixed-methods paper
+
+**Question 1 — What is the design, named, and can it be checked from the methods chapter?** A paper that says "a
+mixed-methods approach was used" without a design name, a sequence or an integration point has told you that two kinds
+of data were collected, which is not the same thing.
+
+**Question 2 — Are the samples linked?** If the interviews were with a different group from the survey, the
+explanatory claim is unsupported. Look for the sentence that says who was selected, from where, and why those
+particular cases.
+
+**Question 3 — Where is the integration artefact?** A joint display, a table mapping items to extracts, or a
+case-by-case comparison. If the integration is a paragraph in the discussion, it is a summary.
+
+**Question 4 — Is divergence reported?** Papers rarely report disagreement between strands; when they do, it is usually
+the most interesting page.
+
+**Question 5 — Does each strand meet its own standard?** Check power or precision for the quantitative strand, and
+sampling, coding and reflexivity for the qualitative one. Reviews find weak strands more often than weak integration,
+and both are common.
+
+**Question 6 — What is the metainference, and could either strand have produced it?** If the integrated conclusion
+could have come from the survey alone, the qualitative strand is decoration.
+
+**The audit's use.** Applied to five papers, it produces both the language for the student's own methods chapter and a
+set of design decisions with reasons. It also produces the sentence every mixed-methods student needs: "unlike much of
+the published work in this area, the present study links the qualitative sample to the quantitative one and reports a
+joint display."
+
+### 10.8a Participatory work in practice: the couples' advisory group
+
+*The following describes a design a student can realistically run in one year in a church or community setting.*
+
+**The group.** Six to eight members: three couples drawn from the congregation (not from the clinic sample), one lay
+leader, one pastor or imam, and the researcher as convenor rather than chair.
+
+**The four meetings, each with a deliverable.**
+
+1. **Question meeting**: the group reviews the researcher's proposed question and rewrites it in the community's
+   language. Deliverable: a one-page brief with the agreed question and the group's stated concern.
+2. **Method meeting**: the group reviews the interview guide and the recruitment plan, and removes questions that would
+   not be asked in a household, and adds two that the researcher had not thought of. Deliverable: the revised guide.
+3. **Preliminary findings meeting**: the researcher presents the themes without interpretation and records the group's
+   reactions, including disagreement. Deliverable: a transcript of the meeting, analysed as data.
+4. **Dissemination meeting**: the group decides what the congregation should hear, in what form, and from whom.
+   Deliverable: a two-page summary in plain language, and a plan for a Sunday presentation.
+
+**What the group changes, in the researcher's experience.** The question becomes narrower and more local; the guide
+loses two questions and gains three; at least one theme is rejected or renamed; and the dissemination is better attended
+than anything the researcher would have organised alone.
+
+**The cost.** Four meetings, roughly twelve hours of researcher time each with preparation, and a timeline that must
+absorb a postponement. In a twelve-month thesis the group should meet in months two, four, eight and eleven.
+
+**The ethics.** Group members know the study's preliminary findings and may know the participants. The consent form must
+say what the group will see, that findings will be discussed before publication, and that individual participant data
+will not be shared with the group.
+
+### 10.8b The limitations of a mixed design, stated honestly
+
+**The doubling of the burden.** Two strands in one year means each is smaller than it would have been alone. Say so,
+with numbers: "the survey was powered for a 0.6 standard deviation effect rather than the 0.4 the literature suggests;
+the qualitative strand comprised fifteen interviews rather than the twenty planned."
+
+**The integration was thinner than intended.** Almost every mixed-methods thesis can say this truthfully. Describe what
+was planned, what was done, and what a full integration would have required.
+
+**The strands were unequal in practice.** One strand often becomes primary in the writing regardless of the stated
+design. If the survey occupies forty pages and the interviews twelve, the design is QUAN with a qualitative
+illustration, and the methods chapter should say so.
+
+**The participatory element was collaborative rather than participatory** — the sentence from §10.8, which is the most
+common honest correction in this literature.
+
+**The three limitations to leave out.** "Time constraints" without numbers, "the sample was small" without saying small
+for what, and "further research is needed" as a substitute for a specific next study.
+
+### 10.9 Culture, faith and mixed methods in a Nigerian family setting
+
+**The community's theory of research.** Participants frequently understand research as an inspection, with the
+university as an inspector and the report as a verdict. A mixed-methods study, which asks the same people for a
+questionnaire and an interview, can feel like double inspection. The consent conversation must say twice what will
+happen to each kind of data, in language the household uses.
+
+**Literacy and the two strands.** A self-administered questionnaire excludes some participants who can speak
+beautifully about their marriages. An interviewer-administered survey includes them and introduces social desirability
+and privacy problems (Week 5). A mixed-methods design can send the interviewer-administered survey to everyone and
+follow up with interviews for the participants whose survey answers are most puzzling — which is a practical
+integration of the two data-collection modes, not only of the two analyses.
+
+**The gatekeeper across the two strands.** The pastor who permits the survey is also the person whose influence shapes
+whom the interviews reach. A mixed-methods study can make this visible by interviewing the gatekeepers themselves — a
+third strand in effect — and several of the most useful student theses in this area have done exactly that.
+
+**Faith language in the qualitative strand and scale language in the quantitative.** A mother who says her marriage is
+satisfactory because God sustains it, and scores low on a satisfaction scale, is not contradicting herself; she is
+answering two different questions. The joint display is the right place to report that, if the student has had the wit
+to put "meaning of satisfaction" in as a construct.
+
+> **DEBATE** — *Is a mixed-methods thesis feasible in one academic year?* One position: yes, with a small convergent
+> design, a short survey and twelve interviews, and the integration as the intellectual contribution. The other: no,
+> because both strands will be thin and the integration will be superficial, and a single well-executed strand would
+> earn a better degree. The resolution most supervisors reach: it is feasible when the two strands are deliberately
+> small and the integration is deliberately ambitious, and infeasible when both strands are ambitious and the
+> integration is an afterthought.
+
+> **REFLECT** — Write the removal-test sentence for your own study in two clauses: "Without the [strand], I could not
+> have said ___; without the [other], I could not have said ___." If either blank is empty, you are planning two
+> studies, and the cheaper correction is to choose one.
+
+### 10.9a Data management across two strands: the practical problems
+
+**Two consent forms, or one?** One form covering both strands is simpler and can be coercive — a participant who wants
+the interview may sign for the survey as well. Two forms, offered together, make the choice real.
+
+**Identifiers.** The quantitative dataset uses codes; the qualitative transcripts use pseudonyms. The crosswalk between
+them is the most sensitive document in the study, and it belongs in a locked file or an encrypted folder, not in the
+shared drive.
+
+**Storage and disposal.** Audio files deleted after transcription and checking; transcripts retained for the period the
+ethics approval specifies; the crosswalk destroyed at the end of the study and the destruction recorded.
+
+**The quotation problem.** A qualitative extract quoted in the thesis may make a survey respondent identifiable to a
+reader who knows the clinic. The methods chapter should state how quotations were checked against the linked
+quantitative record before use.
+
+**The audit line.** "All participants consented separately to the survey and the interview; six consented to the survey
+only and four to the interview only; the linking code was held in a single encrypted file and destroyed on completion."
+One sentence, and the data-management section is done.
+
+### 10.10 Evidence: what the mixed-methods literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| Integration quality, not the number of strands, distinguishes strong mixed-methods work | Established in the methodological literature | High | Require a joint display and an integration point |
+| Explanatory sequential designs require qualitative sampling drawn from the quantitative sample | Established | High | Make sample linkage a rubric criterion |
+| Divergence between strands is analytically productive | Consistent | High | Require at least one open divergence row |
+| Split-sample or parallel designs without linkage produce two studies | Consistent critique | High | Apply the removal test at proposal stage |
+| Mixed-methods studies rarely meet both strands' quality standards | Consistent in review studies | Moderate | Require each strand's criteria to be stated and met |
+| Participatory designs improve relevance and uptake, and increase timeline risk | Consistent | Moderate | Require a slack plan and an honest description of the collaboration |
+| Joint displays improve the interpretability of integrated findings | Consistent | Moderate | Teach the four comparison types |
+| Site-level heterogeneity is frequently invisible in aggregate quantitative results and visible in qualitative accounts | Consistent | Moderate | Use the mixed design to locate where to re-analyse |
+
+**One cell, expanded — the quality problem.** Reviews of mixed-methods health research repeatedly find that the
+quantitative strands are underpowered and the qualitative strands thinly analysed, while the integration is described
+in a sentence. The pattern is caused by the arithmetic of a fixed timeline: the same eighteen months must carry two
+designs. The teaching consequence is a design rule: if you mix, make each strand deliberately small and the integration
+deliberately deep, and write the removal-test sentence before collecting anything.
+
+### 10.10a The reporting checklist for a mixed-methods thesis
+
+Before submission, a student should be able to tick twelve items. Each corresponds to a question an examiner will ask.
+
+1. The design is named, with its notation and sequence.
+2. The removal-test sentence appears in the first two pages of the methods chapter.
+3. Each strand has its own design, sample, and analysis section, meeting its own standard.
+4. The samples are described, and their linkage (or its absence) is stated.
+5. The integration point is named and dated in the analysis sequence.
+6. A joint display appears in the results chapter with at least four constructs.
+7. At least one divergence is reported and discussed rather than resolved.
+8. The metainference is stated explicitly in the discussion.
+9. Divergences that could not be explained are listed as open questions.
+10. Ethics covers both strands, including re-contact and group confidentiality.
+11. The data-management record describes identifiers, storage and disposal.
+12. The limitations section addresses the doubled burden, honestly, including what was thinner than intended.
+
+**The two items most often missing** are the second and the seventh, and they are the two that distinguish a
+mixed-methods thesis from two theses bound together.
+
+**The final word on mixing.** A mixed-methods thesis is judged on one thing: whether the integrated conclusion is
+better than either strand could have produced. Everything else — the notation, the display, the team, the
+participatory meetings — is machinery in service of that comparison. If a reader of the discussion cannot say which
+sentence required both strands, the design has not yet paid for itself, and the student should either deepen the
+integration or narrow the claim to what one strand honestly supports.
+
+**The question to ask of your own design, on one page.** What did each strand establish; what did the integration
+establish that neither could; what divergence remains unexplained; and what would the study have concluded with one
+strand only. Four answers, and the design is justified or it is not.
+
+**A note on the reading.** Two mixed-methods papers read closely are worth more than a textbook chapter, because the
+failures are visible in the papers and invisible in the textbook. Read for the integration point, and note where it is
+absent.
+
+**And a note on honesty.** Where the integration was thinner than planned, say so in the limitations with a number
+attached; examiners forgive a small study and do not forgive a large claim.
+
+### 10.11 Key terms
+
+**Mixed methods** — a design in which quantitative and qualitative strands are collected and integrated to answer a
+question neither could answer alone.
+
+**Strand** — one of the two components of a mixed-methods study, each with its own design, sample and analysis.
+
+**Integration** — the point or points at which the two strands are combined analytically rather than merely reported
+together.
+
+**Joint display** — a table or figure placing findings from both strands side by side by construct, with a comparison
+and an interpretation for each row.
+
+**Convergence** — agreement between strands.
+
+**Divergence** — disagreement between strands, treated as a finding requiring explanation.
+
+**Expansion** — the extension of one strand's scope by the other.
+
+**Complementarity** — the coverage of different aspects of one phenomenon by the two strands.
+
+**Explanatory sequential design** — quantitative strand first, qualitative strand to explain it (QUAN → qual).
+
+**Exploratory sequential design** — qualitative strand first to develop constructs or instruments, then quantitative
+(QUAL → quan).
+
+**Convergent parallel design** — both strands concurrently, integrated at interpretation.
+
+**Embedded design** — one strand nested within the other for a subsidiary purpose.
+
+**Participatory action research** — a design in which participants co-design, co-collect, co-interpret and act, with
+shared authority over the inquiry.
+
+**Community advisory group** — a body of community members with authority over question, method and dissemination in a
+participatory study.
+
+**Co-analysis** — joint interpretation of data by researchers and participants, recorded as part of the audit trail.
+
+**Removal test** — the question of what each strand could not have said without the other; the test of whether a study
+is genuinely mixed.
+
+**Notation** — the QUAN/QUAL shorthand indicating primary strands, sequence and concurrency.
+
+**Split-sample design** — a mixed design in which the two strands use unrelated samples; usually a weakness.
+
+**Metainference** — the integrated conclusion drawn from both strands, and the quality criterion of a mixed-methods
+study.
+
+**Timeline slack** — planned allowance for the delays that participatory and sequential designs inevitably incur.
+
+### 10.12 Self-test
+
+1. State the removal test and apply it to a study of drop-out after a first session.
+2. Give three legitimate and three illegitimate reasons for mixing methods.
+3. Name the four principal designs and the integration point of each.
+4. What is a joint display, and what four comparison types does it use?
+5. Why is divergence more informative than convergence?
+6. What is the single most common weakness of explanatory sequential designs?
+7. Why must each strand meet its own quality standards in full?
+8. What does a participatory design demand of the timeline and of the ethics protocol?
+9. Write the honest sentence for a study that was collaborative rather than fully participatory.
+10. What is metainference, and where is it made?
+11. Why can a mixed design help locate a site-level effect that an aggregate conceals?
+12. What is the design rule for a one-year mixed-methods thesis?
+
+### 10.13 Answers
+
+1. Remove one strand and ask what the other could not say: without interviews, a survey of non-attenders could not say
+   why they did not return; without the survey, the interviews could not say how common each reason was.
+2. Legitimate: complementarity, development, explanation. Illegitimate: the supervisor required both; a single strand
+   seemed thin; interviews are easy to add.
+3. Explanatory sequential — sample selection and explanation; exploratory sequential — constructs and items carried
+   forward; convergent parallel — interpretation via joint display; participatory — every stage, including action.
+4. A table organising findings by construct with quantitative and qualitative columns, a comparison column and an
+   interpretation column; comparisons are convergence, divergence, expansion and complementarity.
+5. Because it reveals that something is being measured or experienced differently, and the explanation is usually the
+   most substantial finding in the study.
+6. Qualitative sampling drawn from a different population from the quantitative sample, so the explanations do not
+   attach to the pattern.
+7. Because each strand's conclusions are used in the integrated claim, and a weak strand weakens the metainference.
+8. At least three months of slack for community decision-making, and an ethics protocol that handles participants'
+   mutual knowledge and non-anonymisable criticism within a small group.
+9. "The study was collaborative rather than fully participatory: the advisory group shaped the question and reviewed the
+   findings, but the analysis and report were the researcher's."
+10. The integrated conclusion drawn from both strands; it is made explicitly in the discussion, at the integration
+    point, and is the quality criterion of the whole design.
+11. Because qualitative accounts identify where the failure occurred, prompting a re-analysis by site that the original
+    aggregate analysis had not planned.
+12. Make each strand deliberately small and the integration deliberately deep, and write the removal-test sentence
+    before collecting data.
+
+### 10.14 Reflection and preparation for Week 11
+
+> **REFLECT** — If your study has one strand, write the sentence you would use to justify not mixing: what the second
+> strand would have added and why the design could not carry it. If your study has two, write the sentence that proves
+> the second earned its place. Either way, you will be asked, and the answer is better prepared than improvised.
+
+**Preparation task.** Bring to Week 11 a systematic review question of your own, in PICO or SPIDER form, and one
+published review in your area to appraise. Week 11 concerns the review as a research method in its own right, and the
+question you bring determines whether the review is feasible in the time available.
+
+*Next: Week 11 — Systematic review and critical appraisal.*
 
 ---
 

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="620" viewBox="0 0 980 620" role="img">
+  <defs>
+    <marker id="ar-teal" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#0f766e"/></marker>
+    <marker id="ar-gold" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b45309"/></marker>
+  </defs>
+  <rect x="0" y="0" width="980" height="620" fill="#ffffff"/>
+  <text x="490" y="42" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22px;font-weight:700;">Four Mixed-Methods Designs and Where Integration Happens</text>
+  <text x="490" y="66" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:400;">The design is named by its sequence and its integration point, not by the fact that two kinds of data were collected</text>
+
+  <!-- legend -->
+  <text x="60" y="102" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">QUANTITATIVE STRAND</text>
+  <text x="240" y="102" fill="#b45309" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">QUALITATIVE STRAND</text>
+  <text x="420" y="102" fill="#6d28d9" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">INTEGRATION POINT</text>
+
+  <!-- Explanatory sequential -->
+  <text x="60" y="140" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">1. Explanatory sequential</text>
+  <text x="60" y="156" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Survey first, interviews to explain the surprise</text>
+  <rect x="60" y="166" width="170" height="42" rx="7" fill="#eef6f5" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="145" y="185" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">questionnaire</text>
+  <text x="145" y="200" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;">n = 180 couples</text>
+  <line x1="234" y1="187" x2="272" y2="187" stroke="#6d28d9" stroke-width="2" marker-end="url(#ar-gold)"/>
+  <circle cx="292" cy="187" r="7" fill="#6d28d9"/>
+  <rect x="312" y="166" width="170" height="42" rx="7" fill="#fbf3e6" stroke="#b45309" stroke-width="1.5"/>
+  <text x="397" y="185" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">interviews</text>
+  <text x="397" y="200" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;">n = 12 purposive</text>
+  <text x="500" y="182" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">Integration: sample selection +</text>
+  <text x="500" y="197" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">explanation of a quantitative pattern</text>
+
+  <!-- Exploratory sequential -->
+  <text x="60" y="252" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">2. Exploratory sequential</text>
+  <text x="60" y="268" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Interviews first, to build the instrument or model</text>
+  <rect x="60" y="278" width="170" height="42" rx="7" fill="#fbf3e6" stroke="#b45309" stroke-width="1.5"/>
+  <text x="145" y="297" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">interviews</text>
+  <text x="145" y="312" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;">n = 16, item generation</text>
+  <line x1="234" y1="299" x2="272" y2="299" stroke="#6d28d9" stroke-width="2"/>
+  <circle cx="292" cy="299" r="7" fill="#6d28d9"/>
+  <rect x="312" y="278" width="170" height="42" rx="7" fill="#eef6f5" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="397" y="297" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">new scale, surveyed</text>
+  <text x="397" y="312" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;">n = 240</text>
+  <text x="500" y="294" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">Integration: constructs and items</text>
+  <text x="500" y="309" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">carried from strand 1 into strand 2</text>
+
+  <!-- Convergent -->
+  <text x="60" y="364" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">3. Convergent parallel</text>
+  <text x="60" y="380" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Both at once, compared in a joint display</text>
+  <rect x="60" y="390" width="170" height="30" rx="7" fill="#eef6f5" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="145" y="409" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">questionnaire</text>
+  <rect x="60" y="426" width="170" height="30" rx="7" fill="#fbf3e6" stroke="#b45309" stroke-width="1.5"/>
+  <text x="145" y="445" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">interviews</text>
+  <line x1="234" y1="423" x2="272" y2="423" stroke="#6d28d9" stroke-width="2"/>
+  <circle cx="292" cy="423" r="7" fill="#6d28d9"/>
+  <rect x="312" y="405" width="170" height="46" rx="7" fill="#f4f2fb" stroke="#6d28d9" stroke-width="1.5"/>
+  <text x="397" y="424" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:700;">joint display</text>
+  <text x="397" y="440" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:9.5px;">convergence / divergence</text>
+  <text x="500" y="416" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">Integration: interpretation, by</text>
+  <text x="500" y="431" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">finding rather than by dataset</text>
+
+  <!-- Participatory -->
+  <text x="60" y="484" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:700;">4. Participatory action research</text>
+  <text x="60" y="500" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Families co-design, co-collect and co-interpret</text>
+  <rect x="60" y="510" width="120" height="30" rx="7" fill="#fbf3e6" stroke="#b45309" stroke-width="1.5"/>
+  <text x="120" y="529" fill="#b45309" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">co-design</text>
+  <rect x="192" y="510" width="120" height="30" rx="7" fill="#eef6f5" stroke="#0f766e" stroke-width="1.5"/>
+  <text x="252" y="529" fill="#0f766e" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">co-collect</text>
+  <rect x="324" y="510" width="120" height="30" rx="7" fill="#f4f2fb" stroke="#6d28d9" stroke-width="1.5"/>
+  <text x="384" y="529" fill="#6d28d9" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">co-interpret</text>
+  <rect x="456" y="510" width="120" height="30" rx="7" fill="#f8fafc" stroke="#5b6675" stroke-width="1.5"/>
+  <text x="516" y="529" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:700;">act</text>
+  <text x="600" y="522" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">Integration: at every stage,</text>
+  <text x="600" y="537" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;">with authority shared</text>
+
+  <!-- footer -->
+  <rect x="700" y="140" width="230" height="120" rx="9" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.3"/>
+  <text x="716" y="162" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">The test of a mixed-methods study</text>
+  <text x="716" y="182" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Remove one strand and ask what</text>
+  <text x="716" y="198" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">the remaining one could not say.</text>
+  <text x="716" y="218" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">If the answer is "nothing", the study</text>
+  <text x="716" y="234" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">is two studies sharing a cover.</text>
+  <text x="716" y="252" fill="#9f1239" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;font-weight:600;">Name the integration point in the methods.</text>
+
+  <rect x="700" y="276" width="230" height="150" rx="9" fill="#fbf3e6" stroke="#dcbf8c" stroke-width="1.3"/>
+  <text x="716" y="298" fill="#b45309" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:700;">Divergence is a finding</text>
+  <text x="716" y="318" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">Couples report high satisfaction</text>
+  <text x="716" y="334" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">on the scale and describe a</text>
+  <text x="716" y="350" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">household in which nobody</text>
+  <text x="716" y="366" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">speaks. Both are data about</text>
+  <text x="716" y="382" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.3px;">the measure and the marriage.</text>
+  <text x="716" y="404" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">Do not average it away; explain it.</text>
+</svg>
