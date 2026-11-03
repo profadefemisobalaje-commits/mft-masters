@@ -3046,39 +3046,745 @@ in.
 
 ---
 
-## Week 5 — Measurement
+## Week 5 — Measurement: instruments, validity and the work of translation
 
-A measure must be **reliable** (consistent), **valid** (measuring what it claims), and **responsive**
-(sensitive to change).
+**Learning outcomes.** By the end of this week the student can (1) distinguish reliability, validity and
+responsiveness and say which one a given claim requires; (2) evaluate an instrument's evidence for a specific
+population rather than in general; (3) run a translation and cognitive-interviewing process that produces a
+defensible local version; and (4) write a measurement section that an examiner cannot dismantle.
+
+### The instrument carries the question
+
+A design is an argument, a sample is a population, and an instrument is the vehicle in which the question travels to
+the participant and the answer travels back. If the vehicle is unsuited — too long, idiomatically foreign, keyed to a
+family form the participants do not live in — the answer that arrives is not the answer to the question asked, and no
+amount of careful analysis downstream can recover it.
+
+The three properties that matter are easy to state and hard to establish.
+
+**Reliable** means consistent: the same person measured twice, or two similar items, or two raters, give similar
+results. **Valid** means it measures what it claims: the score behaves as the construct should behave. **Responsive**
+means sensitive to change: it can detect the improvement a therapy produces, which is a separate property from being
+reliable, and a scale can be perfectly reliable and completely unresponsive.
+
+The order matters. Reliability is a precondition of validity: an inconsistent measure cannot be valid, because its
+scores are partly noise and noise does not correlate with anything. Validity is a precondition of a useful claim: a
+consistent measure of the wrong thing produces confident nonsense.
 
 ![Figure 5.1 — Four validity targets and three reliability methods](../assets/figures/fig29-validity-reliability.svg)
 
-**The four validity targets.**
+### 5.1 The lecture in ninety minutes
 
-| Validity | The question |
-|---|---|
-| Internal | Did the intervention, and not something else, produce the change? |
-| External | Can these findings travel to other families, settings and cultures? |
-| Construct | Are you measuring "alliance", or "wanting to please the therapist"? |
-| Statistical | Is the effect large enough, and the test powerful enough, to trust? |
-
-**Instruments you should know** (and check for local validation):
-
-| Instrument | Measures | Notes |
+| Minutes | Content | Teaching form |
 |---|---|---|
-| Dyadic Adjustment Scale (DAS) / DAS-4 | Relationship satisfaction | Widely used; short forms available |
-| Revised Dyadic Adjustment Scale (RDAS) | Satisfaction | 14 items |
-| FACES-IV | Cohesion and flexibility | Psychometrics debated; use cautiously |
-| Family Assessment Device (FAD) | Family functioning (McMaster) | 60 items; subscales |
-| Working Alliance Inventory (WAI-SR) | Therapeutic alliance | Adapt for family work carefully |
-| PHQ-9 / GAD-7 | Depression / anxiety | Free, brief, widely validated |
-| SDQ | Child emotional and behavioural functioning | Parent, teacher, self versions |
+| 0–12 | Reliability, validity, responsiveness: the three properties and their order | Three instruments on the table, students guess which fails which |
+| 12–28 | Internal consistency, test–retest, inter-rater: what each number means and does not mean | Worked alpha on the board; the alpha-0.90 trap |
+| 28–45 | The four validity targets and the evidence each requires | Table built live from students' own proposed measures |
+| 45–60 | The instrument inventory: what exists, what is validated where | Students locate their instrument's validation papers |
+| 60–78 | Translation: forward, back, committee, cognitive interviewing | Live cognitive interview with a volunteer |
+| 78–90 | The measurement paragraph: five sentences, no adjectives | Written and collected |
 
-**The cultural validity question.** Was this instrument developed and validated with families like the ones
-you see? If not, report that limitation and consider a local adaptation study (a perfectly good thesis).
+### 5.2 Five concepts that organise the week
 
-> **TASK** — Take one couple measure. Find two published validations, one in an African sample if it
-> exists. Report: internal consistency, factor structure, and any evidence of measurement invariance.
+**Concept 1 — Reliability is about noise, and the coefficient tells you how much.** A reliability coefficient of 0.80
+means roughly 80 per cent of the variance in scores is true-score variance and 20 per cent is error. That error does
+not disappear when the sample gets larger; it attenuates every correlation you compute, which is why a study using an
+unreliable measure underestimates its own effects and reports a null finding with a straight face.
+
+**Concept 2 — Cronbach's alpha is not a certificate.** Alpha is a lower bound on reliability under assumptions that
+family data routinely violate (essential tau-equivalence, uncorrelated errors). It rises with the number of items
+regardless of whether they measure one thing. A 60-item family functioning scale will produce alpha above 0.85 even
+if it is measuring three loosely related things. Report alpha, report the number of items, and add omega or a
+factor-analytic account if the structure matters.
+
+**Concept 3 — Validity is a property of an inference, not of a document.** No instrument is "validated" in the
+abstract. A scale validated on American married couples is not thereby validated on Yoruba-speaking co-wives in a
+polygynous household. The question is always: validated, on whom, for what claim?
+
+**Concept 4 — Measurement invariance is the technical name for cultural validity.** Before comparing mean scores
+across two groups, you need evidence that the items mean the same thing in both. Figure 5.2 shows the four steps.
+Most theses in this field compare means across groups without ever testing the first step, and most examiners do not
+ask — which is not the same as its being defensible.
+
+**Concept 5 — Every instrument imports a family model.** A scale that asks how often "we sit down together and discuss
+the children's problems" presumes a nuclear household with a shared evening. A scale that asks about "my partner and I
+sharing household tasks" presumes a division of labour the household may not recognise. The items are theory in
+disguise, and reading an instrument's items is reading its theory.
+
+![Figure 5.2 — Four steps of measurement invariance: configural, metric, scalar, residual](../assets/figures/fig42-measurement-invariance.svg)
+
+### 5.2a The three reliabilities, calculated and interpreted
+
+**Internal consistency** — do the items hang together? Computed as alpha or omega from a single administration.
+Relevant when items are intended as indicators of one construct. It says nothing about stability over time.
+
+**Test–retest** — is the score stable? The same people measured twice, with an interval long enough that they cannot
+remember their answers and short enough that the construct has not changed. For a state-like construct such as
+current distress, low test–retest is expected and appropriate; for a trait-like construct such as personality, low
+test–retest is a problem. The interval must be justified: two weeks for satisfaction, six months for a stable trait.
+
+**Inter-rater reliability** — do two observers agree? Reported as percentage agreement, kappa (for categories), or
+intra-class correlation (for continuous ratings). Percentage agreement flatters: two raters who both say "no
+evidence" for 85 per cent of families will agree 85 per cent of the time by chance.
+
+**The worked numbers.** A student administers a 14-item satisfaction scale to 120 couples and obtains alpha = 0.78.
+She retests 40 of them after three weeks and obtains a correlation of 0.71. Two research assistants rate 30 recorded
+sessions on a five-point engagement scale and obtain an intra-class correlation of 0.54.
+
+What the three numbers mean, together: internal consistency is acceptable for group comparisons and marginal for
+individual decisions; test–retest is moderate, and the three-week interval sits inside a period in which the couples
+were in active therapy, so some genuine change is expected and the coefficient understates stability; inter-rater
+reliability of 0.54 is weak, and any finding that depends on the engagement ratings must be reported with that
+weakness in view.
+
+**The reporting table.** A measurement section should present, for each instrument, the source, the number of items,
+the response format, the reliability in *this* sample, and the validation evidence in a comparable population. Five
+columns, one row per instrument, and the row that is blank in the last two columns is the row the examiner will ask
+about.
+
+### 5.3 The four validity targets, and the evidence each one requires
+
+The scaffold's table gives the four targets. What a thesis needs is not the definitions but the evidence that would
+support each claim.
+
+| Validity | The question | Evidence that would support it | Common shortcut that does not |
+|---|---|---|---|
+| Internal | Did the intervention, and not something else, produce the change? | Comparison group, randomisation, measurement of rival explanations | "The scores improved after therapy" |
+| External | Can these findings travel? | A sample described well enough to judge, and replications | "Further research is needed" |
+| Construct | Are you measuring alliance, or wanting to please the therapist? | Convergent and discriminant correlations, factor structure, known-groups differences | Face validity, or the instrument's own manual |
+| Statistical | Is the effect real and adequately estimated? | Confidence intervals, adequate power, correct model | A p-value alone |
+
+**Construct validity is where family research fails most instructively.** Consider the Working Alliance Inventory
+applied to family therapy. The concept of alliance was built for a dyad: one client, one therapist, one bond. In
+family work there are several alliances — each member with the therapist, the members with each other, the family
+with the therapist — and they diverge. A high total WAI score may mean that one parent feels understood while the
+adolescent feels ganged up on. The instrument is reliable; the construct has changed shape.
+
+**The known-groups test, cheap and convincing.** If a scale is valid, it should distinguish groups that theory says
+differ. A family functioning measure should score couples in a clinic sample lower than couples in a community
+sample. A student who adds one comparison of this kind to a validation study has done something an examiner can
+credit.
+
+**The convergent–discriminant pair.** A new measure of marital satisfaction should correlate substantially with an
+established one (convergent) and less substantially with a measure of, say, social desirability (discriminant). If
+it correlates with social desirability at r = 0.6, it is at least partly a measure of wanting to look good.
+
+### 5.3a The instrument inventory, and how to read an entry
+
+| Instrument | Measures | Items / format | Evidence in African samples | Cautions |
+|---|---|---|---|---|
+| Dyadic Adjustment Scale (DAS) | Relationship satisfaction, four subscales | 32 items, 6-point | Used in several Nigerian studies; full psychometric reporting rare | Long; the affectional expression subscale performs inconsistently |
+| DAS-4 | Global satisfaction | 4 items | Limited local reporting | Excellent for repeated measurement; weak for subscale claims |
+| Revised DAS (RDAS) | Satisfaction, consensus, cohesion | 14 items | Some Nigerian use | Factor structure unstable in some samples |
+| FACES-IV | Cohesion and flexibility | 42 items, 5-point | Sparse | Psychometrics debated even in origin samples; use cautiously |
+| Family Assessment Device (FAD) | Family functioning, six subscales | 60 items, 4-point | Used in African studies; subscale reliability varies | Long; the general functioning subscale is the most robust |
+| Working Alliance Inventory (WAI-SR) | Therapeutic alliance | 12 items | Growing use | Built for dyads; family adaptation requires re-thinking the referent |
+| PHQ-9 | Depression severity | 9 items, 4-point | Widely validated in Nigerian clinical and community samples | Somatic items inflate scores where physical illness is common |
+| GAD-7 | Anxiety severity | 7 items | Widely used | Screens, does not diagnose |
+| SDQ | Child emotional and behavioural functioning | 25 items, three informants | Validated in several African settings | Parent–teacher–self discrepancies are informative, not error |
+| Locke–Wallace | Marital adjustment | 15 items | Older; some Nigerian use | Dated item content on sex and leisure |
+
+**How to read the table.** The column that matters is the fourth. "Used in Nigerian studies" is not the same as
+"validated in a Nigerian sample", and a thesis that conflates the two has made the error the examiner is looking for.
+The correct sentence is: "The DAS-4 has been used in Nigerian clinic samples (cite), though published reports of its
+internal consistency and factor structure in this population are limited; the present study reports alpha in its own
+sample."
+
+**The free-instrument rule.** Where a validated free instrument exists (PHQ-9, GAD-7, SDQ, WHODAS), use it rather
+than a locally invented scale, because the examiner can compare your numbers with a literature. Where no instrument
+fits the construct — and for many family processes in this setting none does — say so, build carefully, and pilot the
+new measure. A locally built measure with a pilot, a factor analysis and a reliability estimate is a legitimate
+contribution; an ad hoc list of ten questions written the week before fieldwork is not.
+
+> **TASK** — Choose one instrument from the table for your own study and answer four questions in writing: what
+> construct does it claim to measure; what is the strongest published evidence for its use in a population like yours;
+> what is its reliability in samples like yours; and what would you have to add to your own study to report its
+> performance in your sample.
+
+### 5.3b Who answers for the family? Informants, aggregation and its arithmetic
+
+Many family constructs are not individual attributes: cohesion, flexibility, communication, organisation. Somebody has
+to report them, and whoever reports them changes the score.
+
+**Four informant strategies, with their costs.**
+
+1. **One key informant** — usually the mother. Cheap, and biased toward her position, particularly on discipline,
+   closeness to children, and the fairness of household labour.
+2. **All adult members, analysed separately.** Two scores per couple, and the divergence between them becomes a
+   variable of interest. Requires dependent-data analysis (Week 6) but is the richest option.
+3. **All members, aggregated to a family mean.** Convenient and often wrong: averaging a father's 2 and a mother's 6
+   yields a 4 that describes neither, and the mean conceals the disagreement that is the clinically interesting fact.
+4. **All members, with discrepancy scores reported alongside the mean.** The mean describes the family's central
+   tendency; the discrepancy describes its division. This is the strategy that most family research should use and
+   least often does.
+
+**The arithmetic that surprises students.** With a two-item scale per person and a family of four, the family mean has
+a standard error that depends on the within-family variance. In a family that agrees, the mean is precise; in a family
+that disagrees, the same mean carries far more uncertainty. Reporting a family mean without the within-family spread
+is reporting a point estimate with the error hidden.
+
+**The practical rule.** If your construct is relational, either report the discrepancy or justify why the family mean
+is the quantity of interest. The sentence "family cohesion was 4.2" is incomplete until someone says whose 4.2, and
+how much the members differed.
+
+### 5.3c The observation measure: coding, drift and the reliability you can actually claim
+
+An observational measure — a coding scheme applied to recorded family interaction — carries three reliabilities, and
+theses usually report the least meaningful one.
+
+**Inter-rater reliability** between two coders on the same recordings: necessary and not sufficient.
+
+**Intra-rater reliability**: the same coder re-coding a sample after a gap. Drift over months of coding is common and
+rarely reported.
+
+**Calibration over time**: periodic re-coding of a set of criterion recordings to detect drift, with a threshold
+(e.g. agreement falling below 0.70) that triggers retraining.
+
+**The coding sheet that makes reliability possible.** Behaviour categories must be mutually exclusive and exhaustive,
+with an anchor example and a counter-example for each. A category defined only by its label — "warmth" — will produce
+low agreement, and the low agreement will be blamed on the coders rather than on the definition.
+
+**The number to report.** Kappa for categorical codes, intra-class correlation for counts or ratings, with the number
+of recordings double-coded and whether they were sampled randomly or drawn from the difficult cases. A study that
+double-codes only the first five recordings reports reliability on the easiest material.
+
+### 5.4 Translation: the five-stage protocol
+
+Translation is the part of measurement that students most often do badly and could most easily do well. The
+five-stage protocol below is the standard in cross-cultural instrument work, and it costs about three weeks.
+
+**Stage 1 — Two independent forward translations.** Two bilingual people, ideally with different backgrounds (one a
+clinician, one a lay person), translate the instrument into the target language independently. They must not consult
+each other.
+
+**Stage 2 — Synthesis.** The two translations are reconciled into one, with the discrepancies recorded and resolved.
+The record of the discrepancies is the valuable artefact: it shows which items were ambiguous in the source.
+
+**Stage 3 — Two independent back-translations.** Two other bilingual people, blind to the original, translate the
+synthesised version back into the source language. Discrepancies between the back-translation and the original reveal
+where meaning drifted.
+
+**Stage 4 — Expert committee.** Clinicians, methodologists and translators review all versions and produce a
+pre-final version, deciding on cultural relevance of each item and the equivalence of each concept.
+
+**Stage 5 — Pre-testing by cognitive interviewing.** Ten to fifteen members of the target population complete the
+pre-final version while thinking aloud, and are asked after each item: what did that question mean to you, and how did
+you decide your answer?
+
+**What the protocol catches that ordinary translation misses.** An instrument that asks whether the respondent
+"talks things over with my partner" translates without difficulty and fails in the field, because in this setting
+"talking things over" with a spouse may be understood as reporting a decision already taken by the husband's family.
+The words were translatable; the concept was not. Only stage 5 finds that.
+
+**The refused item.** If an item is understood by fewer than about 80 per cent of pre-test participants, or is
+judged irrelevant or offensive by the committee, it should be dropped and the deletion reported. A locally adapted
+14-item scale with one item removed and a documented reason is a better instrument than a defended 15-item scale.
+
+### 5.4a A worked translation problem: "we share decisions"
+
+The item: *"My partner and I share decisions about the children."*
+
+**Forward translation 1** renders "share decisions" as *a máa ń ṣe ìpinnu pọ̀*, roughly "we take decisions together".
+**Forward translation 2** renders it as *a máa ń gbà á lọ́wọ́* — "we receive it from each other's hands", an idiom
+for consultation. The two versions differ: the first implies joint authority, the second implies one partner being
+informed.
+
+**Back-translation** of the synthesised version returns "we discuss decisions about the children before deciding".
+The committee notices the shift: the original measures *authority*, the version measures *consultation*. In a
+household where the father's family has final authority, a couple can consult daily and share no authority at all.
+The scores would be high on the adapted version and would not mean what the construct claims.
+
+**The committee's three options.** Keep the item with a clarified gloss ("decisions about the children are taken by
+the two of us, not by other people"), drop it, or split it into two items — one about consultation, one about
+authority. In practice the third option is usually best, because the distinction is real and worth measuring.
+
+**The cognitive interview that settled it.** Asked what the question meant, one mother said: "It means I cannot
+decide alone that my son will go to the polytechnic. I must tell his father, and then his father tells his people."
+Asked whether she and her husband shared the decision, she said yes; asked who decided, she said her husband's
+brother. The item, as adapted, was measuring the presence of a conversation; the construct concerned the location of
+authority.
+
+**The general lesson.** Translations fail at the level of *concept*, not at the level of *word*, and the failure is
+invisible to everyone except a pre-test participant who is asked to explain her answer. This is why stage 5 is not
+optional.
+
+### 5.4b The adaptation timetable: what three weeks actually buys
+
+Students routinely plan adaptation as a weekend task and discover, in the field, that they have produced a version
+nobody understands. The timetable below is the minimum for a single instrument.
+
+| Week | Activity | Deliverable | Who is needed |
+|---|---|---|---|
+| 1 | Licence request; two forward translations | Two independent texts and a signed permission | Two bilingual translators |
+| 1–2 | Synthesis with discrepancy record | One reconciled text and a list of ambiguous items | Researcher plus one translator |
+| 2 | Two back-translations, blind to the original | Two back-translations and a drift report | Two further bilinguals |
+| 2–3 | Expert committee meeting | Pre-final version with per-item decisions | Clinician, linguist, lay member, researcher |
+| 3 | Cognitive interviews, 10–15 participants | Item-by-item paraphrase record and revisions | Researcher, participants |
+| 3 | Final revision and documentation | Appendix-ready instrument and adaptation record | Researcher and supervisor |
+
+**The two deliverables that examiners ask for.** The permission letter and the adaptation record. Both live in an
+appendix, both take minutes to file, and their absence is interpreted as evidence that the adaptation was improvised.
+
+**The cost in a low-resource setting.** Four bilinguals and a committee are not free, but they are usually available
+within a department: a colleague in linguistics, a clinician, a community health worker, and the researcher. The
+expensive item is time, not money, and the time is three weeks in a fourteen-week project — which is why the planning
+must put adaptation before fieldwork rather than after it.
+
+### 5.5 Case: the adaptation of a couple measure in Ibadan
+
+**CASE** — *Blessing's seven months.* Blessing Adeyemi, a masters candidate, set out to compare marital satisfaction
+between couples in monogamous and polygynous households in Ibadan. She chose the RDAS, 14 items, because it is short
+enough to administer in a market or a church hall and has subscales she could report.
+
+**Month one — permission.** She obtained the instrument and its scoring instructions from the publishing house, wrote
+for permission to adapt, and was granted a licence for non-commercial research use with the requirement that she not
+alter the response format. The requirement shaped everything after it.
+
+**Month two — translation.** Two forward translations, a synthesis in which the translators disagreed on five items,
+two back-translations, and a committee of four: a family therapist, a Yoruba lecturer, a community health worker and
+Blessing. The committee's minutes recorded six problems: "demonstrations of affection" (which participants heard as
+sexual intercourse), "matters of recreation" (which presupposes leisure time), "religious matters" (which in a
+compound with two faiths meant something more fraught than the item anticipated), two items about in-laws that were
+ambiguous in polygynous households, and a cohesion item about "doing things together as a couple" that in practice
+included children.
+
+**Month three — cognitive interviewing.** Twelve participants, six in monogamous and six in polygynous households.
+Three findings changed the instrument. First, the affection item produced visible discomfort and two refusals; the
+committee reworded it to "showing that you care for each other" and the discomfort disappeared. Second, the
+recreation item was understood as "going out", which almost no participant did, so the item measured income rather
+than satisfaction; it was retained but its interpretation flagged. Third, and most consequentially, participants in
+polygynous households answered the consensus items with reference to a different referent in nearly every case: some
+about the husband and the senior wife, some about the husband and the whole compound.
+
+**Month four — the referent problem.** The scale assumes one partner. In a polygynous household the question "my
+partner and I" has several possible referents. Blessing's solution was to add a single clarifying instruction at the
+head of the instrument: "In answering, think about your own relationship with your husband" — and to record, in the
+demographic section, the wife's position in the household.
+
+**Month five — the pilot.** Forty couples, alpha 0.74 for the total scale, subscale alphas from 0.58 to 0.71, and a
+test–retest correlation of 0.69 in a subsample of fifteen re-interviewed after a fortnight. The cohesion subscale
+performed worst; two of its three items had low item–total correlations.
+
+**Month six — the decision.** She retained the total score, reported the subscale reliabilities with a caution, and
+dropped cohesion from the analysis. In the thesis she wrote a two-page measurement section that described the
+protocol, reported every coefficient, and listed the four items that had been reworded with the reasons.
+
+**Month seven — the viva.** The examiner's first question was not about her findings. It was: "Your sample is 40
+couples in the pilot and 180 in the main study. Did you re-examine the factor structure in the main sample?" She had
+not, and said so. It became a recommendation for further work rather than a fatal flaw, because she had done
+everything else and could describe it precisely.
+
+**What the case teaches.**
+
+- **The licence shaped the design.** Permission conditions are part of the method, and a student who ignores them
+  cannot publish.
+- **The committee is where concept problems are caught.** Six problems in fourteen items is normal, not a sign of a
+  bad instrument.
+- **The referent problem is a family-structure problem.** An instrument built for a dyad meets a household. Adding
+  one instruction and recording household position is a small, honest solution.
+- **The pilot's job is to produce numbers the thesis will report**, not to prove the instrument works. Alpha 0.58 on
+  a subscale is a finding; suppressing it is misconduct.
+- **The viva asks about the thing you did not do.** Knowing which thing that is, in advance, is what supervision is
+  for.
+
+> **DRILL** — *Classify the paraphrase.* For each participant paraphrase below, name the failure type — matching,
+> narrowing, broadening or shifting — and the single smallest change that would repair it.
+
+1. Item: "We agree on matters of recreation." Paraphrase: "We go out together sometimes." *Failure:* narrowing to
+   income-dependent outings. *Repair:* ask about time spent together at home, with an anchor.
+2. Item: "I can express affection to my partner." Paraphrase: "You mean sex." *Failure:* shifting from affection to
+   sexual intimacy, with a refusal risk. *Repair:* replace "affection" with "showing that you care", and separate
+   sexual items entirely.
+3. Item: "Our family solves problems together." Paraphrase: "We call my husband's brother." *Failure:* broadening —
+   problem-solving includes the extended family, which the item did not anticipate. *Repair:* accept the extension and
+   add an item about who is consulted.
+4. Item: "I feel close to my children." Paraphrase: "I feed them and they are well." *Failure:* shifting from
+   emotional closeness to the fulfilment of duty. *Repair:* ask about confiding and about enjoyment, with behavioural
+   anchors.
+5. Item: "We have similar ideas about what is right and wrong." Paraphrase: "We are both Christians." *Failure:*
+   narrowing to shared affiliation. *Repair:* add a concrete domain — discipline, money, or dealings with relatives.
+
+**The pattern across the five.** Every failure is a movement between the abstract construct and a concrete practice
+the participant actually experiences. Adaptation is not a search for better synonyms; it is a decision about which
+concrete practice the item should point to, and the decision belongs in the adaptation record.
+
+### 5.6 An annotated cognitive interview
+
+*The participant is a 41-year-old trader, married for nineteen years, mother of four, interviewed in Yoruba in a
+church annex. The interviewer is Blessing. The item under test: "Do you and your husband agree on how to spend
+money?"*
+
+**BLESSING:** I will read a question and I want you to tell me what it means to you before you answer it.
+
+**PARTICIPANT:** *(laughs)* It means we do not fight about money.
+
+**BLESSING:** What would "agree" look like in your house?
+
+**PARTICIPANT:** He gives me money for the shop and for food. If I need more, I tell him. If he does not have it, I
+find it. That is the agreement.
+
+**BLESSING:** So agreeing is about the money arriving?
+
+**PARTICIPANT:** Yes. Some men do not give anything. Their wives suffer.
+
+**BLESSING:** If money arrives but you never discuss how it is spent, would you answer "always agree"?
+
+**PARTICIPANT:** I would answer yes. There is no problem.
+
+**What this exchange reveals.** The item intends to measure *consensus about allocation* — a negotiation between
+partners. The participant reads it as *provision adequacy* — whether money arrives. In her household the decisions
+about large expenditure are made by her husband and his elder brother; her role is to manage the household allowance.
+She is not withholding information; she is answering a different question sincerely.
+
+**The interviewer's follow-up probes that mattered.**
+
+- **"What would 'agree' look like?"** — turns an abstract item into a behavioural description, and reveals the
+  criterion the participant is using.
+- **"If money arrives but you never discuss it…"** — a hypothetical counter-case, the single most productive probe in
+  cognitive interviewing, because it forces the participant to separate the two meanings.
+- **"Who decides if the money is for something big?"** — a referent probe, which located the decision in the extended
+  family and made the item's individualist assumption visible.
+
+**The three probe types, named.** *Comprehension* probes ask what the question means; *criterion* probes ask how the
+participant decided on an answer; *referent* probes ask who or what she had in mind. A cognitive interview schedule
+is these three, repeated across items, and it takes about forty minutes for a fourteen-item scale.
+
+**The committee's response to this interview.** The item was reworded from "agree on how to spend money" to "agree
+on how the money for the house is used", and a second item was added asking who decides about large expenditure. The
+rewording did not fix the underlying construct — a monogamous-couple notion of joint budgeting does not map cleanly
+onto a compound economy — but it stopped the item from silently measuring provision.
+
+**What the transcript teaches a student.**
+
+- **Participants answer the question they hear, not the question you wrote**, and they do so honestly. The error is
+  in the instrument, not in the respondent.
+- **A laugh is data.** The participant's laugh at the first question marked the item as slightly absurd, and that
+  reaction was the first signal that the item's frame did not fit.
+- **The hypothetical counter-case is the workhorse probe.** It separates meanings that ordinary answers fuse.
+- **Some items cannot be repaired, only reported.** The final decision to keep the item with a documented
+  interpretation limit, and to add a companion item, is better than a confident claim of equivalence.
+
+### 5.7 Lab: build and defend a measurement section
+
+**Aim.** A one-page measurement section, plus an appendix table, that states what each instrument measures, what
+evidence supports its use in this population, and what the present study will add.
+
+**Materials.** Your instruments, their manuals or validation papers, a spreadsheet, and fifteen minutes of a
+volunteer's time for a cognitive interview.
+
+**Steps.**
+
+1. **List every variable in your study** and mark each as measured, manipulated or derived. Every measured variable
+   needs an instrument, and every instrument needs a citation.
+2. **Complete the five-column table** from §5.2a: source, items and format, reliability in comparable samples,
+   validation in comparable samples, reliability in your sample.
+3. **Run one cognitive interview** with three items from your main instrument. Record the participant's paraphrase of
+   each item verbatim.
+4. **Classify each paraphrase** as matching, narrowing, broadening or shifting the construct.
+5. **Decide for each problem item**: keep, reword, add a companion item, or drop. Write one sentence of justification.
+6. **Write the five-sentence paragraph**: what the instrument measures; the source and licence; the evidence in this
+   population; what you did to it and why; what you will report from your own sample.
+7. **Pilot twenty cases** and compute alpha, item–total correlations and, if possible, a two-week retest in ten.
+8. **Peer review** against the rubric.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Every variable instrumented and cited | 3 | No orphan variable; no uncited scale |
+| Table complete, including the two honest blanks | 4 | Blanks are stated as gaps, not filled with generalities |
+| Cognitive interview recorded and used | 4 | Paraphrases quoted, problems classified |
+| Decisions justified per item | 3 | The justification refers to a paraphrase or a coefficient |
+| Five-sentence paragraph | 3 | No adjectives; every claim sourced |
+| Pilot numbers reported honestly | 3 | Low coefficients reported and interpreted, not hidden |
+
+**Fail conditions.** "The instrument is standard and widely used" as the whole justification. A locally written scale
+with no pilot. A translation produced by the researcher alone. An alpha reported for the whole scale when subscales
+carry the analysis.
+
+### 5.8 Six measurement errors that survive examination
+
+**Error 1 — The borrowed instrument with no local evidence.** The scale was validated in Michigan; the thesis is set
+in Ibadan; the measurement section says nothing about the difference. The examiner's question — "what is your
+evidence that this measures the same thing here?" — has no answer.
+
+**Error 2 — Alpha worship.** A single alpha above 0.80 used as proof of validity. Alpha is a lower bound on
+reliability, insensitive to multidimensionality, and inflated by item count.
+
+**Error 3 — The unreported adaptation.** Items were reworded or dropped in the field and the thesis reports the
+original scale. This is the most serious of the six, because it is a misdescription of what was done.
+
+**Error 4 — Comparing means without invariance.** Two groups compared on a mean score, with no test of whether the
+items mean the same thing in both. Common, rarely challenged, and addressed by reporting the limitation at minimum.
+
+**Error 5 — The social desirability blind spot.** A self-report measure of marital satisfaction administered in the
+presence of the spouse, or by a church worker known to the couple, measures something other than satisfaction.
+
+**Error 6 — Responsiveness assumed.** A pre–post design using a scale whose smallest detectable change is larger than
+the effect the therapy could plausibly produce. The study reports "no significant change" when the instrument could
+not have detected change.
+
+> **CAUTION** — *The alpha that was computed on the wrong sample.* A student reported alpha = 0.91 for a family
+> functioning scale, then discovered that she had computed it on the pooled sample of mothers and fathers, where
+> between-family variance inflates the coefficient. Within mothers the alpha was 0.72 and within fathers 0.68. She
+> reported all three, explained the inflation, and the examiners treated the correction as evidence of competence
+> rather than of error.
+
+### 5.8a An audit of a published measurement section
+
+*The following is a composite of the form common in regional journals. Read it once, then work through the audit.*
+
+> "Marital satisfaction was measured using the Dyadic Adjustment Scale (Spanier, 1976), a widely used and validated
+> instrument with good reliability. The scale has 32 items scored on a six-point scale. Couples were interviewed at
+> the clinic. Reliability in the present study was high."
+
+**Six audit questions.**
+
+1. **Which sample validated it, and for what?** The citation is to 1976 and to a North American sample; the claim
+   "widely used and validated" is true in general and uninformative for this population.
+2. **Reliability of what?** "Good reliability" with no coefficient, no sample, and no citation is unverifiable. Later,
+   "reliability in the present study was high" — with no number. Both sentences are placeholders.
+3. **Which score was analysed?** The DAS has four subscales and a total. A thesis that analyses the total while
+   discussing affection is analysing a number that does not measure affection.
+4. **Who was interviewed, and where?** "Couples were interviewed at the clinic" leaves open whether partners were seen
+   together, separately, or only one attended.
+5. **What was the adaptation?** Nothing is said, so the reader must assume none — which, if any occurred, is a
+   misdescription.
+6. **What about social desirability, literacy, language, and the presence of the partner?** Absent. Any one of these
+   would have been a sentence and would have strengthened the section.
+
+**The rewritten version, in five sentences.**
+
+> "Relationship satisfaction was measured with the 14-item Revised Dyadic Adjustment Scale (Busby et al., 1995), used
+> under a research licence. The RDAS has been used in Nigerian clinic samples but published reports of its internal
+> consistency in this population are limited, so reliability was estimated in the present sample: alpha was 0.78 for
+> the total score and 0.61 to 0.72 for subscales. Four items were reworded during a five-stage adaptation with
+> cognitive interviewing, and one cohesion item was dropped (Appendix C). Partners completed the scale separately in
+> sealed envelopes to reduce mutual influence. Subscale scores are reported but only the total score is used in
+> analysis, because subscale reliabilities were below 0.70."
+
+**Why the rewrite is stronger.** It states the instrument, the licence, the local evidence gap, the coefficient in
+this sample, the adaptation with its appendix, the administration condition, and the analytic decision. Every sentence
+would survive an examiner's question, and the total is about 110 words — shorter than many paragraphs that say less.
+
+**The transferable template.** Instrument and citation · local evidence and its gap · coefficient in your sample ·
+what you changed and where the record is · administration condition · which score you analyse and why. Six moves, six
+sentences, and the measurement section is finished.
+
+### 5.9 Culture, faith and the ethics of asking
+
+**The question that offends.** Instruments imported from elsewhere occasionally contain items that are not merely
+inapplicable but invasive: questions about sexual frequency, about physical violence, about a husband's other
+partners. In a church annex with the pastor's wife nearby, such items produce refusal, minimisation, or an answer the
+participant believes is expected. The ethics protocol must decide, item by item, which questions can be asked, by
+whom, where, and with what opt-out.
+
+**Self-report in the presence of others.** A satisfaction questionnaire completed by a wife in the same room as her
+husband is a measure of the marriage they present, not the marriage they live. Where literacy allows, self-completion
+in separate rooms with sealed envelopes is the minimum standard; where it does not, separate interviews with
+different interviewers, conducted simultaneously, are the practical alternative.
+
+**The interpreter as instrument.** When an interpreter mediates, the interpreter's choices become measurement
+decisions. A good protocol trains interpreters on the items, uses the same interpreter for a whole household where
+possible, and records where the interpreter paraphrased.
+
+**Faith and the framing of the construct.** "Marital satisfaction" is a construct with a history, and in a
+religiously observant sample it may be read through a theology of endurance. A participant who says her marriage is
+satisfactory because "we have not divorced, and God hates divorce" is answering the item as she understands her duty,
+not as she understands her happiness. A study that wants to measure satisfaction must decide whether to ask about
+happiness, duty, or both — and the choice is a conceptual one, not a technical one.
+
+**The social desirability check.** Two cheap options: include a short social desirability scale, or ask a
+behavioural item alongside every attitudinal one ("how many evenings last week did you and your husband eat
+together?"). Behavioural items are less susceptible to faith-shaped framing, and they cost three lines in the
+questionnaire.
+
+> **DEBATE** — *Is a locally adapted instrument better than a well-validated imported one?* One position: adaptation
+> produces instruments that measure the local construct, and the imported one measures an American family. The other:
+> adaptation destroys comparability, and a field in which everyone adapts has no cumulative evidence — every study
+> speaks only to itself. The resolution is a two-instrument strategy where resources allow: the imported measure for
+> comparability and a small set of locally generated items for validity, with both reported.
+
+### 5.9a Building a local measure in five steps (when nothing fits)
+
+Some constructs in family work in this setting have no adequate instrument: the management of a co-wife relationship,
+the negotiation of child discipline across two households, the role of the extended family in a couple's decisions.
+For these, a student may build a measure, and the five steps below are the minimum defensible process.
+
+**Step 1 — Define the construct in one paragraph**, with a boundary: what it is and what it is not. This paragraph is
+the most important document in the process, because every later decision is judged against it.
+
+**Step 2 — Generate items from the population, not from the literature alone.** Twenty open-ended interviews with
+people who have the experience, asking them to describe it in their own words. Then a content analysis producing
+domains, then items written in the participants' language.
+
+**Step 3 — Expert review and cognitive interviewing.** Six to ten experts rate each item's relevance to the construct
+(content validity index) and the items are revised; then ten participants talk through each item.
+
+**Step 4 — Pilot, then examine structure.** Two hundred respondents if possible, exploratory factor analysis,
+item–total correlations, and a decision rule for deletion stated in advance.
+
+**Step 5 — Report everything.** The construct definition, the item generation procedure, the CVI, the deleted items
+with reasons, the factor structure, the alphas, and the full instrument in an appendix.
+
+**What a locally built measure can and cannot support.** It can support a description of the construct in this
+population and a test of its associations. It cannot support comparison with studies that used a different instrument,
+and it should not be described as "validated" on the basis of one pilot in one city. The honest phrase is
+"developed and piloted for this study".
+
+### 5.10 Evidence: what the measurement literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| Reliability is necessary but not sufficient for validity | Established | High | Teach the order, not the definitions alone |
+| Alpha is a lower bound and is inflated by item count and multidimensionality | Established | High | Require omega or factor structure where the claim depends on it |
+| Cross-cultural adaptation by forward and back translation alone is insufficient | Established; cognitive interviewing improves equivalence | High | Make stage 5 non-negotiable in the rubric |
+| Scalar invariance frequently fails across cultural groups for family and mental health measures | Consistent in the invariance literature | Moderate–high | Report invariance or state its absence as a limitation |
+| The WAI and similar alliance measures require re-conceptualisation for family work | Consistent; several proposed family adaptations | Moderate | Warn against unmodified use in conjoint therapy |
+| Self-report of marital quality is sensitive to the presence of the partner | Consistent | Moderate | Require separate administration |
+| Brief measures (DAS-4, PHQ-9) perform comparably to long forms for global scores | Consistent for global scores, not for subscales | Moderate | Recommend brief measures for repeated measurement |
+| Locally developed measures are rarely validated beyond their development sample | Consistent in the regional literature | Moderate | Require the phrase "developed and piloted" rather than "validated" |
+
+**One cell, expanded — measurement invariance in practice.** Studies that formally test invariance of family measures
+across cultural or linguistic groups frequently find that configural and metric models fit but scalar models do not:
+the items relate to the construct similarly, but the thresholds for endorsing them differ. The practical consequence
+is precise and teachable. Associations can be compared across groups; mean scores cannot, unless scalar invariance
+holds. Most theses in this field compare means. A student who knows this and writes one honest paragraph about it is
+better equipped than the median published paper in the field.
+
+### 5.11 Key terms
+
+**Reliability** — consistency of measurement across occasions, items, raters or forms.
+
+**Internal consistency** — the extent to which items intended to measure one construct covary; estimated by alpha or
+omega.
+
+**Cronbach's alpha** — a lower-bound estimate of reliability under assumptions of essential tau-equivalence and
+uncorrelated errors; inflated by item count.
+
+**McDonald's omega** — a reliability estimate derived from a factor model; preferred where the scale is
+multidimensional.
+
+**Test–retest reliability** — stability of scores across two administrations separated by a justified interval.
+
+**Inter-rater reliability** — agreement between observers; reported as kappa or intra-class correlation, not as
+percentage agreement alone.
+
+**Standard error of measurement** — the expected variability of an individual's score around their true score; the
+basis for a minimal detectable change.
+
+**Validity** — the extent to which a score supports the inference it is used for; a property of inferences, not of
+documents.
+
+**Construct validity** — evidence that a measure reflects the construct it names, from convergent, discriminant,
+factor-analytic and known-groups evidence.
+
+**Convergent validity** — correlation with measures of the same or a closely related construct.
+
+**Discriminant validity** — the absence of strong correlation with measures of different constructs.
+
+**Known-groups validity** — the ability of a measure to distinguish groups that theory says should differ.
+
+**Criterion validity** — agreement with an external standard, concurrent or predictive.
+
+**Responsiveness** — sensitivity to change over time or with treatment; distinct from reliability.
+
+**Floor and ceiling effects** — clustering of scores at the extremes, which reduces both variance and responsiveness.
+
+**Measurement invariance** — the extent to which an instrument measures the same construct in the same way across
+groups; tested in four steps, configural, metric, scalar and residual.
+
+**Configural invariance** — the same items load on the same factors in each group.
+
+**Metric invariance** — factor loadings are equal across groups, permitting comparison of associations.
+
+**Scalar invariance** — item intercepts are equal across groups, permitting comparison of mean scores.
+
+**Differential item functioning** — an item that behaves differently for two groups at the same level of the
+construct.
+
+**Back-translation** — translating an adapted instrument back into the source language to detect drift in meaning.
+
+**Cognitive interviewing** — pre-testing in which participants explain what an item means and how they chose their
+answer.
+
+**Content validity index** — the proportion of experts rating an item as relevant; used in instrument development.
+
+**Social desirability bias** — distortion toward answers the participant believes are acceptable.
+
+**Minimal detectable change** — the smallest change in score that exceeds measurement error.
+
+### 5.12 Self-test
+
+1. State the relationship between reliability and validity, and why the order cannot be reversed.
+2. A scale has alpha 0.92 with 48 items. What additional information do you need before trusting it?
+3. Distinguish test–retest reliability from internal consistency, and give a construct for which low test–retest is
+   expected.
+4. Name the four validity targets and, for each, one piece of evidence that would support it.
+5. Why does an unreliable measure attenuate the correlations computed with it?
+6. Describe the five stages of cross-cultural adaptation and say which stage catches conceptual failure.
+7. What is the referent problem in a polygynous household, and what is one practical remedy?
+8. Explain the difference between metric and scalar invariance, and the claim each licenses.
+9. A student compares mean satisfaction between two language groups without testing invariance. What is the
+   objection, and what is the minimum honest response?
+10. Give three behavioural items that could accompany attitudinal items on marital satisfaction.
+11. What is minimal detectable change, and why does it matter for a pre–post design?
+12. When is it legitimate to build a new instrument, and what five steps must accompany it?
+
+### 5.13 Answers
+
+1. An unreliable measure cannot be valid because its variance includes error that does not correlate with the
+   construct; but a reliable measure can be consistently wrong, so reliability does not imply validity.
+2. Item–total correlations, the factor structure, the response format's susceptibility to acquiescence, and the
+   evidence in your population; also whether the analysis uses subscales whose alphas may be much lower.
+3. Test–retest compares scores across occasions and indexes stability; internal consistency compares items within one
+   administration and indexes homogeneity. Low test–retest is expected for a state construct such as current
+   distress or session-rated alliance.
+4. Internal — a comparison group and measured rival explanations; external — a fully described sample permitting
+   judgement of transferability; construct — convergent and discriminant correlations or factor structure;
+   statistical — confidence intervals and adequate power.
+5. Because the observed correlation is the true correlation multiplied by the square roots of the two reliabilities;
+   with reliabilities of 0.7 each, a true correlation of 0.5 appears as about 0.35.
+6. Forward translations, synthesis, back-translations, expert committee, cognitive pre-testing; stage 5 catches
+   conceptual failure.
+7. "My partner and I" has no single referent where there are several wives and an extended household; remedy: a
+   clarifying instruction naming the husband and a record of the wife's household position.
+8. Metric requires equal loadings and licenses comparison of associations; scalar requires equal intercepts and
+   licenses comparison of means.
+9. The objection is that differences in means may reflect different item functioning rather than different
+   satisfaction; the minimum response is to report the limitation, describe the adaptation, and frame the comparison
+   as provisional.
+10. Number of evenings eating together last week; number of conversations about a child's schooling last month;
+    number of joint outings in the last three months.
+11. The smallest change exceeding measurement error; if the expected treatment effect is smaller, a null result is
+    uninformative.
+12. When no adequate instrument exists for the construct in this population; the five steps are construct
+    definition, item generation from the population, expert review and cognitive interviewing, pilot with factor
+    analysis, and full reporting including deleted items.
+
+### 5.14 Reflection
+
+> **REFLECT** — Take the last questionnaire you completed yourself, in any setting. Recall one item you found
+> ambiguous, and what you decided it meant. You answered a question the researcher did not write. Somewhere in your
+> own instrument, a participant will do the same thing this week. Write down which item is most likely to be that one,
+> and what you will do about it before fieldwork rather than after.
+
+### 5.15 Readings and preparation for Week 6
+
+**Required.** The user's manual or the primary validation paper for your main instrument, read for the sample it was
+validated on rather than for the alpha it reports.
+
+**Required.** Any published account of cross-cultural adaptation using forward and back translation with cognitive
+interviewing; the protocol detail is what transfers.
+
+**Recommended.** A paper reporting measurement invariance testing for a family or mental health measure across two
+language groups; read the fit statistics table and note what failed.
+
+**Preparation task.** Bring to Week 6 a dataset or a clearly specified data structure — the variables, their scales of
+measurement, and the unit of analysis — because Week 6 concerns analysis, and analysis can only be as good as the data
+structure it receives.
+
+*Next: Week 6 — Data analysis: from description to inference, with the unit of analysis in view.*
 
 ---
 
