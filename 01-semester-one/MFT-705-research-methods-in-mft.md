@@ -6666,6 +6666,10 @@ more about rigour than any checklist.
 **Why the number fourteen.** Not because fourteen is sufficient; because fourteen maximum-variation interviews
 produced no new codes in the last three, and the stopping criterion had been stated in advance in the audit trail.
 
+**One last thing about the stopping rule.** A criterion stated in advance and applied honestly is worth more to an
+examiner than any number, because it shows the researcher knew what would count as enough before deciding that enough
+had arrived.
+
 ### 9.11 Key terms
 
 **Qualitative description** — an approach that stays close to participants' words with minimal interpretation; the
