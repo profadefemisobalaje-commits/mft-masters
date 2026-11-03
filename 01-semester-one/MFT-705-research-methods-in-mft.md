@@ -6042,33 +6042,714 @@ as this week's: to state, before reading the data, what a finding would look lik
 
 ---
 
-## Week 9 — Qualitative methods and rigour
+## Week 9 — Qualitative analysis: rigour, coding and the construction of themes
 
-**When qualitative methods are the right choice:** when you need to know *how* something is experienced,
-*why* a service is not used, *what* a concept means locally, or *how* a therapy unfolds. They are not a
-fallback for people who dislike numbers.
+**Learning outcomes.** By the end of this week the student can (1) say what a qualitative question is for, and when it
+is the right instrument; (2) apply the four rigour criteria and the reflexive turn without turning them into
+checklists; (3) code an extract and defend the unit of coding; (4) build a theme that can accommodate its counter-case;
+and (5) produce an audit trail an examiner can follow.
 
-**Rigour criteria** (Lincoln & Guba; Braun & Clarke for reflexive TA):
+### The question qualitative work answers
 
-| Criterion | Practical meaning |
-|---|---|
-| Credibility | Do the findings ring true to participants? (member checking, triangulation) |
-| Transferability | Enough context for a reader to judge relevance elsewhere (thick description) |
-| Dependability | An audit trail of decisions |
-| Confirmability | Findings grounded in data, not in the researcher's preferences |
-| Reflexivity | Your own position examined, not hidden |
+Qualitative methods answer questions that numbers cannot: how a difficulty is experienced by the people living it, why
+a service that exists is not used, what a concept means in a particular place, and how a therapy unfolds in the room.
+They are not a fallback for students who dislike statistics, and a thesis that treats them as one produces data that
+are neither analysed nor analysed-away.
 
-**Coding, briefly.** Familiarise → code → generate themes → review → define → write. Coding can be
-inductive (from the data) or deductive (from a framework). Reflexive thematic analysis explicitly treats
-themes as *constructed* by the analyst, not excavated from the data.
+**The four questions that belong here.** *How* is fatherhood experienced by men whose wives have left? *Why* do
+families stop attending after the first session? *What* does respect mean between a young wife and her mother-in-law?
+*How* does a therapist in Ibadan decide, in the moment, that a couple's argument has become unsafe? Each of these could
+be asked with a scale, and each would be answered badly, because the answer is in the meaning rather than in the
+distribution.
 
-**Sample extracts.** Suppose a father says: *"They asked me to come, but nobody asked me what I thought
-was wrong. I sat there like a visitor in my own house."* Codes: *excluded*, *not consulted*, *home as
-foreign*. Candidate theme: *"A visitor in my own house": the disengagement of fathers in family therapy*.
-Note how the theme uses the participant's own language.
+**The claim qualitative work makes.** Not "this is how it is for most people", but "this is how it is for these people,
+and here is the argument that the account is trustworthy and informative beyond them". Transferability is the reader's
+judgement, and the researcher's job is to provide the material on which that judgement can be made.
 
-> **TASK** — Code the extract above independently, then compare with a peer. Where you disagree, ask
-> whether you are coding the same *unit*.
+### 9.1 The lecture in ninety minutes
+
+| Minutes | Content | Teaching form |
+|---|---|---|
+| 0–10 | Four questions that belong to qualitative work, and four that do not | Students sort twelve research questions into two piles |
+| 10–24 | Rigour: credibility, transferability, dependability, confirmability | Table built live, with one counter-example per criterion |
+| 24–38 | Reflexivity: the analyst as instrument | Written reflexive statement, six minutes, read aloud |
+| 38–55 | Coding: the unit, the code, and the difference between a code and a theme | Live coding of one extract from three students |
+| 55–70 | Theme construction and the negative case | Worked example from Figure 9.1 |
+| 70–82 | The audit trail: what goes in the appendix | Students list their own audit artefacts |
+| 82–90 | Writing a theme paragraph that a reader can check | Written and collected |
+
+### 9.2 Five concepts that organise the week
+
+**Concept 1 — Rigour in qualitative work is about the traceability of the argument, not the size of the sample.**
+Credibility asks whether the account is recognisable to those who lived it; transferability asks whether the reader has
+enough context to judge its relevance elsewhere; dependability asks whether the decisions are documented; confirmability
+asks whether the findings are grounded in the data rather than in the researcher's preference.
+
+**Concept 2 — Reflexivity is not a confession.** It is an account of how the researcher's position shaped access, the
+interview, the coding and the writing. A reflexive statement that says "I am a Christian woman and a therapist"
+without saying what that made possible and what it foreclosed is a disclosure, not a reflexivity.
+
+**Concept 3 — A code is a label attached to a unit of meaning; a theme is an argument about a pattern.** Students
+routinely present a list of codes as themes. A theme makes a claim — "fathers attended as the person responsible for
+the problem rather than as a person with knowledge about it" — and can be supported or contradicted by extracts.
+
+**Concept 4 — The negative case is what makes an account an argument rather than a compilation.** A theme that has
+absorbed every piece of evidence is either true or unfalsifiable; the difference is whether the analyst looked for what
+would have contradicted it, and reported finding it.
+
+**Concept 5 — Writing is the analysis, not the report of it.** The sixth phase of reflexive thematic analysis is
+writing, and it is where themes are finished. A student who waits until the analysis is "done" to write has postponed
+the moment the argument becomes visible.
+
+![Figure 9.1 — From extract to theme: the six phases of reflexive thematic analysis](../assets/figures/fig46-coding-to-themes.svg)
+
+### 9.2a Coding: the unit, the code type, and the three decisions in every coding frame
+
+**The unit of coding.** A phrase, a sentence, a turn in the conversation, or a longer stretch of talk. The choice is
+consequential: a phrase-level unit produces many small codes; a turn-level unit respects the interaction; a
+paragraph-level unit produces codes that are really summaries of positions. Students should state the unit, and should
+keep it stable within a transcript. When two coders disagree, the first question is whether they coded the same unit.
+
+**The three code types.**
+
+- **Semantic codes** stay close to what the participant said: *not consulted*, *felt like a visitor*.
+- **Latent codes** interpret what the participant meant: *excluded from expertise*, *masculinity threatened*.
+- **Structural codes** describe the conditions of the talk: *the therapist's opening question*, *the mother
+  answering for the father*.
+
+A frame with all three is stronger than one with only semantic codes, because the structural codes make the interview
+itself part of the data.
+
+**The three decisions in every coding frame.** Inductive or deductive (from data or from a framework, or both, and if
+both, in what order); one coder or several (and if several, how disagreements were resolved); and how much context is
+retained in the coded extract (a code with no surrounding talk can be made to say anything).
+
+**The wrong way to do inter-coder reliability in reflexive TA.** Computing a kappa and treating a low value as a
+failure. Reflexive thematic analysis does not require consensus coding; it requires that the coding decisions be
+transparent. A student who reports "two coders independently coded the first four transcripts and the disagreements
+were resolved in discussion, producing three new codes" has described a defensible procedure. A student who reports
+"kappa = 0.62" has imported a criterion from a different paradigm and will be asked why.
+
+### 9.2b The six phases, done properly
+
+**Phase 1 — Familiarisation.** Transcribing your own interviews is not a chore; it is the first analytic act. Reading
+the transcripts twice, once for content and once with a pen for what surprises you, produces the memos that the analysis
+will later rely on.
+
+**Phase 2 — Coding.** Systematic, line-by-line or meaning-unit-by-meaning-unit, with verbatim anchors. Codes are
+provisional; they will be renamed, merged and deleted, and the names at the end are not the names at the beginning.
+
+**Phase 3 — Generating initial themes.** Clustering codes into candidate themes. These are candidates, and most will
+not survive.
+
+**Phase 4 — Reviewing themes.** Two levels: check the theme against the coded extracts, then against the whole dataset.
+A theme that describes only one participant is a case, not a theme; a theme that describes everyone is often a
+platitude. The interesting themes describe a pattern with variation inside it.
+
+**Phase 5 — Defining and naming.** A single sentence stating what the theme is, what it is not, and what it explains.
+No quotations, no adjectives. If the sentence cannot be written, the theme is not finished.
+
+**Phase 6 — Writing.** The account, the extracts, and the commentary that connects them. The writing is where the
+analytic claim becomes checkable, because a reader can now see which extracts support which claim and which sit
+awkwardly beside it.
+
+### 9.2d The analytic memo: the document that makes the audit trail real
+
+A memo is a dated note to yourself about a decision, a doubt, an idea or a surprise. It is the unit of the audit trail,
+and it takes two minutes to write.
+
+**The six kinds of memo, each with its opening line.**
+
+1. **The surprise memo**: "I expected fathers to describe work as an excuse and six of them described it as a fact."
+2. **The decision memo**: "I am merging 'not consulted' and 'no one asked me', because four extracts use them
+   interchangeably and no extract uses only one."
+3. **The doubt memo**: "I think this theme is a restatement of my interview question; I will test it against the two
+   transcripts where the guide was not followed."
+4. **The position memo**: "I noticed that I agreed with the participant and stopped probing; I returned to the question
+   eight minutes later."
+5. **The literature memo**: "This looks like the 'gatekeeping' literature; I will read two papers before deciding
+   whether it is a new theme or a known one."
+6. **The language memo**: "The participant used *ìtẹ́lọ́rùn*; I translated it as patience. Endurance would be closer,
+   and it changes the meaning of the theme."
+
+**What memos do for the thesis.** They supply the appendix, the methods section's account of decisions, and the
+reflexive statement. A student who has written memos for six months has an audit trail; one who has not cannot
+reconstruct one, and the reconstruction always reads as a rationalisation.
+
+**The rule.** Memo within twenty-four hours or not at all. The detail that makes a memo valuable — what the participant
+did with their hands, what you almost asked — is gone by the following week.
+
+### 9.2e Sampling and recruitment in qualitative family research: the two windows
+
+Qualitative studies in family work usually have two windows of access, and both must be described.
+
+**The institutional window.** Who gave permission: the clinic's head, the church's pastor, the school's principal. What
+they expected in return, and what they withheld. A pastor who agreed to recruitment after a sermon shaped the sample in
+ways the researcher must record.
+
+**The household window.** Who in the family agreed, and in what order. A father interviewed after his wife had
+mentioned the study at home is answering differently from one approached directly by letter. Both are legitimate and
+they produce different data.
+
+**The recruitment sentence.** "Fathers were identified from the school's referral register and approached by letter in
+English and Yoruba, with a follow-up telephone call; four were recruited through their wives after the letter produced
+no response, and these interviews are flagged in the analysis because the recruitment route may have shaped what was
+said." Two clauses, one honest flag, and the analysis gains a variable it would otherwise have missed.
+
+**The refusal that is data.** Nine fathers declined. Interviews with two of them about declining produced the study's
+sharpest material and required an ethics amendment. A student who records refusals and their reasons, even without
+interviewing them, has a better methods section than one who reports only the fourteen who agreed.
+
+### 9.3 Case: the study of fathers who do not come
+
+**CASE** — *Segun's fourteen fathers.* Segun Adebayo, a masters candidate in Ibadan, wanted to know why fathers are
+absent from family therapy appointments when their children are the identified patient. His first plan was a survey of
+200 mothers asking their views on their husbands' absence. His supervisor asked whether mothers could answer that
+question, and the plan changed.
+
+**The design he ended with.** Semi-structured interviews with fourteen fathers who had been invited to at least one
+appointment and had not attended, recruited through three churches and one school. Interviews in Yoruba, 45 to 70
+minutes, conducted at the father's workplace or in a church office in the evening. Maximum-variation sampling on
+occupation and on which child had been referred.
+
+**The four themes he ended with.**
+
+1. **Who has the problem.** Fathers understood the referral as a statement that the child had a problem, and their
+   role as one of providing the means for it to be fixed. Attendance was the mother's job because care work was
+   construed as hers.
+2. **The witness problem.** Three fathers described being observed by a therapist who was younger, female, and
+   unmarried, and being asked to describe failures of fathering to someone they did not consider qualified to judge.
+3. **The family's opinion.** In five cases the father's own relatives — a brother, a mother — had advised that the
+   matter be handled within the family, and the advice carried more weight than the clinic's invitation.
+4. **Work as an account and as a fact.** For four fathers, absence was genuinely determined by working hours; for six
+   others, work was the account given in a setting where it would not be challenged.
+
+**The fifth theme he discarded.** "Fathers do not believe in therapy." It was supported by two extracts, contradicted
+by nine, and he had written it in the first week because it was the theme a reader would expect. It is in his audit
+trail as a discarded candidate with the reason recorded, and the examiners asked to see the trail.
+
+**The theme he nearly lost.** In the first analysis, "the family's opinion" was coded under "work and time" as a
+barrier, because both are obstacles. On re-reading, the two were doing different things: one was a constraint, the
+other an authority. Separating them produced the most distinctive finding in the thesis, and it took a return to the
+transcripts rather than a new interview.
+
+**What the viva asked.** Whether fourteen fathers could support a claim about fathers. Segun's answer was the right
+one: the claim was about the range and structure of accounts among fathers who did not attend, not about the proportion
+of fathers holding each view, and the sampling was purposive with maximum variation and reported in full.
+
+**What the case teaches.**
+
+- **The question moved from mothers to fathers**, and the design changed with it. A study of fathers' absence conducted
+  with mothers is a study of mothers' theories of fathers.
+- **The discarded theme is evidence of method.** A student who has never abandoned a theme has probably never reviewed
+  one.
+- **Two themes can share a code and still be different findings.** Re-reading the coded data is the mechanism by which
+  the difference is found.
+- **The claim must match the sampling logic**, and fourteen maximum-variation interviews support a claim about the range
+  of accounts, not about distribution.
+
+### 9.3a The ethics of interviewing people about a failure
+
+Interviewing a father about his absence from his child's therapy asks him to describe a failure, in a setting where he
+may believe the interviewer is allied with the professionals who judged him. Four protections are not optional.
+
+**The framing at the start.** "I am not from the school and I am not from the clinic. I am trying to understand what
+happens at home when a letter like this arrives." The sentence takes thirty seconds and it changes what the participant
+can say.
+
+**The permission to not answer.** Explicit, repeated once mid-interview when the questions become about blame, and
+honoured without a sigh when it is used.
+
+**The right of reply.** A father who says "nobody asked why my son fought" has made a criticism of a service. The
+thesis may report it; the researcher should tell him, before he leaves, what will happen to the account and whether the
+service will read it.
+
+**The exit that is not an exit interview.** Ending with "what would you want another father in your position to know?"
+leaves the participant with authority in the encounter and produces material that is often the most quotable in the
+study.
+
+**What to do when the interview distresses the participant.** Stop, name what happened, offer to continue another day,
+and know in advance what referral you can make. In a study of fathers and school referrals this is unlikely; in a study
+of violence, separation or bereavement it is certain, and the ethics protocol must say what the researcher will do,
+with a named person and a telephone number.
+
+### 9.4 An annotated transcript: the second interview, when the first was a rehearsal
+
+*Excerpt from Segun's second interview, conducted in Yoruba, translated, with his analytic annotations. The father is a
+51-year-old mechanic whose daughter's school had referred her.*
+
+**FATHER:** They said I should come on Tuesday. I said I would come. Then a car came in that morning that had to be
+finished. *(Segun: 'Not refusal. The day was already full.')*
+
+**INTERVIEWER:** Did you tell them you could not come?
+
+**FATHER:** I told my wife. She would tell them. *(Segun: 'Routing of communication through the wife — code: the wife
+as channel.')*
+
+**INTERVIEWER:** Whose idea was it that she would tell them?
+
+**FATHER:** Is it not her that was there? She was the one they called. *(Short silence.)* They called her because she
+is the one who goes to the school. *(Segun: 'He is describing a division of labour, not an evasion; the school called
+her because she is the one on the register.')*
+
+**INTERVIEWER:** If they had called you, at your workshop, on a day when the car was not there —
+
+**FATHER:** *(interrupting)* I would have gone. *(pause)* But what would I say? The teacher knows the girl better than
+me. She is the one who sees her every day. I would sit there and they would ask me questions and I would have nothing
+to say, and then they would think I do not care about my daughter. *(Segun: 'The fear is not of the clinic; it is of
+being revealed as ignorant. Code: being asked to speak without knowledge.')*
+
+**INTERVIEWER:** So it is better not to go than to be seen not to know.
+
+**FATHER:** *(laughs)* You have said it. You are a therapist? *(Segun: 'He has identified my role; I had introduced
+myself as a student, and he is testing the frame.')*
+
+**The annotations, and what they show.**
+
+- **The first explanation was a fact, not a resistance.** The car was real. The analytic danger was to code the
+  practical account as an excuse and to miss what came after it.
+- **The wife as channel** is a structural code: it describes how the household routes institutional contact, and it
+  explains without blaming.
+- **The interruption is the hinge of the interview.** The participant interrupted with the thing that mattered, and
+  the interviewer's prepared question would have missed it. Noticing interruptions as data is a coding decision.
+- **The counter-question about the interviewer's role** marks a shift in the frame, and Segun recorded it as a memo on
+  the effect of his position rather than as a problem with the participant.
+
+**What the excerpt would support, and what it would not.** It supports a theme about fathers fearing exposure as
+unknowledgeable; it does not support a claim about how common that fear is, and it cannot be used to say that fathers
+who did attend do not feel it.
+
+### 9.4a A second transcript: when the participant disputes the frame
+
+*From the eleventh interview. The father is a 38-year-old teacher, and he is the negative case Segun kept.*
+
+**INTERVIEWER:** You did not go, even though the school asked twice.
+
+**FATHER:** I did not go because I did not agree with them. *(pause)* They said my son was fighting. I asked him. He
+said the other boy called his mother a name. So I told him, if someone insults your mother, you fight. I would have
+gone to the school to say that, but the woman on the phone had already decided what happened.
+
+**INTERVIEWER:** What would you have wanted to say to them?
+
+**FATHER:** That they should ask the boy what happened before they write the letter. They wrote a letter about
+fighting. Nobody asked why.
+
+**INTERVIEWER:** Some of the fathers I have spoken to said they did not go because they felt they would be blamed.
+
+**FATHER:** *(quickly)* I was not afraid of blame. I was angry. There is a difference. *(pause)* Maybe for others it is
+fear. For me it was that I had something to say and no one was going to hear it.
+
+**What the negative case does to the analysis.** It forces a revision of the theme "fathers avoided exposure as
+unknowledgeable". For this father, the absence was a protest with content: he had a judgement about the school's
+process and withdrew it rather than submit to a frame he rejected. The theme was refined to distinguish *withdrawal to
+avoid exposure* from *withdrawal as refusal of a frame*, and the second became a sub-theme with one strong case.
+
+**The general lesson.** A single dissenting case does not invalidate a theme; it specifies it. The refined theme is
+more interesting than the original, because it distinguishes two motives that the original had merged.
+
+**The discipline of the phrase "there is a difference".** The participant corrected the interviewer's interpretation
+explicitly. A coder who had already decided what the extract meant would have coded the disagreement as resistance.
+The correction is the data.
+
+### 9.6a Transcribing: the part of the method nobody teaches
+
+**Who transcribes.** Transcribing your own interviews is the single best analytic investment available to a masters
+student. It slows the interview to the speed of thought, and the first analytic memos are usually written during it. A
+student who outsources transcription should read the transcript alongside the recording for at least two interviews.
+
+**The convention that must be stated.** Verbatim including repetitions and hesitations, or cleaned? Timestamps every
+two minutes? Non-verbal material in brackets? Speaker labels? A stated convention is a method; an unstated one is an
+accident that will be discovered when two transcripts look different.
+
+**What translation does to a transcript.** A translated transcript is a second text. The analyst should keep the
+original alongside it, code the original where possible, and record the points at which the translation resolved an
+ambiguity the original did not.
+
+**The privacy of the file.** Named audio files on an unencrypted laptop are the most common confidentiality failure in
+student research. Pseudonymous file names, removed from cloud storage after transcription, are the minimum.
+
+**The line in the methods section.** "Interviews were conducted in Yoruba, audio-recorded with consent, and transcribed
+verbatim by the researcher; translations were checked by a bilingual colleague and are indicated in the text where the
+original resisted translation." One sentence, and it settles four questions at once.
+
+### 9.5 Lab: code, theme, and defend
+
+**Aim.** From one transcript extract, produce a coding frame, a candidate theme, a review note and a defensible theme
+statement — with the audit trail.
+
+**Materials.** One transcript extract (your own, or a supplied one), three coloured pens, a peer, and the six phases.
+
+**Steps.**
+
+1. **Write the unit statement.** "I code at the level of the meaning unit, defined as the smallest stretch of talk that
+   expresses one idea."
+2. **Code independently**, twice: once semantically and once for anything structural about the interview itself.
+3. **Compare with a peer** and record the disagreements, with the reason for each resolution.
+4. **Cluster into candidates.** Name each candidate and note which codes it contains and which extracts anchor it.
+5. **Review against the whole dataset.** For each candidate, find one extract that supports it and one that
+   complicates it, and record both.
+6. **Write the theme statement** in one sentence with no quotations and no adjectives.
+7. **Write the theme paragraph**: statement, two extracts, commentary, and the complication.
+8. **Build the audit list**: coding frame, memos, decision log, theme table, negative-case note.
+
+**Rubric (20 marks).**
+
+| Criterion | Marks | What distinguishes full marks |
+|---|---|---|
+| Unit declared and held | 3 | Disagreements traced back to the unit question |
+| Both semantic and structural coding | 4 | Structural codes make the interview part of the data |
+| Peer comparison recorded | 3 | Resolutions justified, new codes named |
+| Candidate themes with anchors | 3 | Each candidate cites the codes and the extracts it rests on |
+| Review with the complicating extract | 4 | The complication changes the statement, or is shown not to |
+| Theme statement | 3 | One sentence, no quotations, falsifiable |
+
+**Fail conditions.** A list of codes presented as themes. A theme supported by one participant and stated as a finding
+about fathers. No record of any abandoned or revised candidate. A theme statement that no extract could contradict.
+
+### 9.6 Six qualitative errors that survive examination
+
+**Error 1 — The topic summary presented as a theme.** "Fathers talked about work" is a topic. A theme says what the
+talk about work was doing.
+
+**Error 2 — The quotation as decoration.** Extracts inserted between paragraphs of the student's own opinion, with no
+commentary connecting them. The reader cannot see how the extract supports the claim.
+
+**Error 3 — The counter-case suppressed.** A theme stated flatly when two participants said the opposite, and the two
+are not mentioned. This is the qualitative equivalent of not reporting deterioration, and it is the fastest way to lose
+an examiner's confidence.
+
+**Error 4 — The over-generalised claim.** "Fathers in Nigeria feel excluded from family therapy", from fourteen
+purposively sampled men in one city in one religious network. The claim exceeds the sampling logic by an entire
+country.
+
+**Error 5 — The imported reliability statistic.** A kappa computed on reflexive thematic coding, reported as a
+validation. The criterion belongs to a different tradition, and its appearance marks a student who has read a methods
+section rather than a method.
+
+**Error 6 — Reflexivity as disclosure.** A paragraph listing the researcher's age, sex, religion and marital status
+with no account of what those positions made possible, what they foreclosed, and how the analysis was affected.
+
+> **CAUTION** — *The theme that was a question.* A student's third theme read: "How do fathers understand their role in
+> their children's schooling?" It was a good interview question, and it was not a finding. Three months of coding had
+> produced themes that were restatements of the guide, which is the most common failure mode in student qualitative
+> work: the interview schedule colonises the analysis. The remedy is to code the data for what was not asked.
+
+### 9.7 Culture, language and the ethics of interpretation
+
+**Translation is analysis.** A theme built on a translated extract carries two acts of interpretation: the
+participant's and the translator's. A thesis must say who translated, whether the translation was checked, and which
+Yoruba (or Igbo, or Hausa) terms resist translation. The word a participant uses for respect, shame or endurance
+usually has no exact English equivalent, and the gloss should be in the text, not in a footnote.
+
+**The interviewer's position.** A young unmarried female researcher asking a 55-year-old father about his failures is
+not a neutral instrument; the participant's answers are shaped by who is asking. Reflexivity here is not a confession
+but an analysis: what could this participant say to me, and what could he not?
+
+**Confidentiality in small networks.** In a church of 200 adults, "a 51-year-old mechanic whose daughter was referred"
+is identifiable to anyone who knows the church. Anonymisation must be more than a pseudonym: ages rounded,
+occupations broadened, and identifying details changed with the reader told that they were.
+
+**The ethics of the negative case.** Reporting that one father felt over-questioned is not disloyalty to a theme; it is
+the condition of the theme's credibility. Participants who read the account should be able to recognise themselves
+even in the parts that complicate the argument.
+
+> **DEBATE** — *Should participants be asked to comment on the analysis?* Member checking is often presented as a
+> validity procedure. Its defenders argue that participants are best placed to say whether an account is recognisable.
+> Its critics argue that participants cannot validate an analytic interpretation, that they may disagree for reasons
+> that are themselves data, and that the procedure can slide into seeking approval. The resolution: offer the account,
+> record the responses as data, and do not describe agreement as validation.
+
+> **REFLECT** — Write the reflexive statement you would put in your methods chapter, in five sentences: who you are in
+> relation to these participants, what access that gave you, what it foreclosed, one occasion in the field when you
+> noticed it, and what you did about it. Then ask whether any of the five sentences would change a reader's reading of
+> your findings. If none would, you have written a disclosure.
+
+### 9.8 The appraisal assignment (1,500 words, 25 per cent): a worked model
+
+Week 9 carries the first written assessment: an appraisal of one published study's qualitative method, 1,500 words,
+25 per cent of the module. The structure below is the one that produces a high mark, and it is not the structure most
+students choose.
+
+**Paragraph 1 — the study and its question (150 words).** What was asked, of whom, in what setting, and what claim the
+authors make. Quote the aim verbatim; it is usually more revealing than the abstract's paraphrase.
+
+**Paragraph 2 — the design and its fit (250 words).** Was the sampling strategy appropriate to the question? Was the
+interview or observation method capable of producing the material the analysis required? Name the mismatch if there is
+one, and say what would have fitted.
+
+**Paragraph 3 — the analysis, described and judged (350 words).** Which analytic tradition, described in enough detail
+to be checked? Were codes anchored, themes stated, negative cases reported? Here the student applies Figure 9.1's six
+phases to the paper's own account of itself.
+
+**Paragraph 4 — rigour (300 words).** Which of the four criteria does the paper address, and how? Is reflexivity
+present, and is it disclosure or analysis? Is the audit trail described or merely asserted?
+
+**Paragraph 5 — language, translation and position (200 words).** Who interviewed, in what language, and who
+translated? What does the paper say about the interviewer's position, and what does it leave unsaid?
+
+**Paragraph 6 — what you would do differently (250 words).** Three specific changes, each justified by a decision the
+paper made and the student would not. This paragraph is where marks are most often lost, because students write
+generalities ("more participants would have been better") rather than decisions.
+
+**The marking band that distinguishes a first.** A first-class appraisal does not merely find flaws; it explains why
+each flaw is a flaw *for the claim the paper makes*, and it names what the paper does well with the same precision. An
+appraisal that lists eleven weaknesses and no strengths reads as an exercise in fault-finding, and it is marked
+accordingly.
+
+**The one thing to avoid.** Judging a qualitative paper by quantitative criteria — sample size, generalisability,
+absence of a p-value — without acknowledging that the criteria belong to a different logic. Where a paper is weak, name
+the criterion internal to its own tradition that it fails.
+
+### 9.8a The most common examiner question about a qualitative chapter
+
+The question is almost always some version of: **"How do you know?"** — and it is asked about one sentence, not about
+the whole chapter. The following four answers, prepared in advance, cover it.
+
+**"Because eleven of fourteen fathers said a version of it, and I have said which two did not and how their accounts
+differed."** The answer to a claim about a pattern.
+
+**"Because the extract I quoted is the clearest instance, and Appendix C lists the four others that support it."** The
+answer to a claim about a specific reading.
+
+**"I cannot know that from these data; the sample was fourteen fathers recruited through two networks, and what I can
+say is that among them, the account took this shape."** The answer to a question about generalisation, and the one
+students are most afraid to give.
+
+**"That is my interpretation, and here is the evidence that made me prefer it to the alternative reading, which was
+this."** The answer to a question about analytic judgement, and the strongest of the four because it shows the
+alternative was considered.
+
+**The preparation.** For each theme, write the sentence you are least sure of and the four answers. Ten minutes per
+theme, and the viva becomes a conversation about the data.
+
+### 9.9 Writing the findings chapter: four paragraphs per theme
+
+**Paragraph 1 — the theme statement, then the claim it supports.** One sentence of statement, one of what it explains.
+No quotation yet, and no adjective.
+
+**Paragraph 2 — the principal extract, introduced and then interpreted.** Introduce it in one line (who, in what
+circumstance), quote at length, then interpret in three or four sentences that connect the extract to the claim. The
+interpretation is the analysis; the extract is the evidence.
+
+**Paragraph 3 — the variation.** A second extract that shows the pattern differently — a different participant, a
+different circumstance, a stronger or weaker version. This paragraph is what distinguishes a theme from an anecdote.
+
+**Paragraph 4 — the complication.** The extract that sits awkwardly, and the account's handling of it. Either the theme
+is refined to accommodate it, or its boundary is stated: "this was true of the fathers whose children had been referred
+by a school; the two fathers referred by a hospital described a different relationship with the clinic."
+
+**The word budget.** About 600 to 800 words per theme in a masters thesis, four themes, 2,600 to 3,200 words for the
+findings chapter, with a further 1,500 for the discussion. A findings chapter of 800 words total is not a findings
+chapter; it is an abstract with quotations.
+
+**The habit that improves every theme paragraph.** Read the paragraph aloud and ask, after each sentence, "how do I
+know that?" If the answer is not the extract, the sentence is the student's opinion and belongs in the discussion, if
+anywhere.
+
+### 9.9a The discussion chapter for a qualitative study: five moves
+
+**Move 1 — the answer to the question, in one paragraph.** Not a summary of the themes; the answer. "Fathers in this
+sample did not attend because attendance required them to present themselves as knowledgeable about a child's inner
+life in front of a stranger, and their authority at home did not depend on that knowledge and was threatened by being
+asked for it."
+
+**Move 2 — the dialogue with the literature.** Where the account confirms, extends, or contradicts published work, and
+why. The most valuable sentence in a qualitative discussion is the one that says what this account shows that the
+existing literature could not, because the existing studies were done elsewhere, or with mothers, or with clinic
+attenders.
+
+**Move 3 — the implications for practice.** Two or three concrete changes a clinic could make: who makes the first
+call, what the first question asks, whether the father is invited as a source of information or as a defendant. Each
+implication should be traceable to a theme, and the student should say which.
+
+**Move 4 — the limitations, stated as boundaries.** Who was not in the sample, what their presence would likely have
+changed, and what the sample can and cannot support. This is where the sampling logic from Week 4 returns.
+
+**Move 5 — what the next study should do.** Specific, not "more research is needed". For example: interview fathers
+who did attend and compare accounts; follow ten referred families for three months and observe what the household does
+with the invitation; test whether changing the first telephone call changes attendance.
+
+**The word budget and the balance.** About 1,500 to 2,000 words for a masters discussion, with roughly a third on the
+literature, a third on practice, and a third on limitations and next steps. The commonest imbalance is a discussion
+that repeats the findings in different words and mentions the literature in a paragraph of citations.
+
+### 9.10 Evidence: what the qualitative methods literature establishes
+
+| Claim | What the evidence supports | Confidence | Implication for teaching |
+|---|---|---|---|
+| Rigour criteria are applicable across qualitative traditions, with different emphases | Widely accepted | High | Teach them as questions about traceability, not as a checklist |
+| Reflexive thematic analysis treats themes as constructed rather than discovered | Established in the methodological literature | High | Require theme statements that an extract could contradict |
+| Consensus coding is not required in reflexive TA | Established | High | Do not require kappa; require a documented procedure |
+| Negative case analysis strengthens the credibility of an account | Consistent | High | Require the complication paragraph |
+| Member checking does not validate an interpretation | Contested; increasingly argued against as validation | Moderate | Teach it as data collection on the account, not as verification |
+| Translation introduces an additional interpretive layer that must be reported | Established | High | Require the translator's identity, language and checking procedure |
+| Saturation is a defensible stopping rule only with a stated procedure | Contested | Moderate | Use information power or an explicit stopping rule instead |
+| Purposive maximum-variation sampling supports claims about range, not distribution | Established | High | Match the claim in the discussion to the sampling logic |
+
+**One cell, expanded — member checking.** The procedure is widely taught and increasingly questioned. The argument
+against treating it as validation is that participants can confirm a description without being able to assess an
+interpretation, that their disagreement may reflect the analyst's correct reading of something the participant does not
+wish to see, and that the procedure is often conducted in a way that invites approval rather than critique. What
+survives is a weaker and still useful claim: returning the account to participants generates further data about how
+the account is received, and those responses belong in the analysis. A thesis that reports "participants confirmed the
+findings" is making a claim the procedure cannot support; one that reports "four of six participants recognised the
+account and two disputed the description of their own motivation, and this is discussed" has done something
+interesting.
+
+### 9.10a Four analytic approaches, and how to choose one
+
+| Approach | The question it suits | What it produces | Typical sample | Main risk in student hands |
+|---|---|---|---|---|
+| Reflexive thematic analysis | What patterns of meaning run across accounts? | Themes with extracts and commentary | 8–20 interviews | Codes presented as themes |
+| Interpretative phenomenological analysis (IPA) | How does a person make sense of a particular experience? | Idiographic accounts, convergence and divergence | 4–8 participants | Claiming general patterns from six cases |
+| Grounded theory | What process explains what is happening here? | A theory with categories and a core process | 15–30, theoretical sampling | Claiming a theory that is a coding frame |
+| Framework analysis | What does a policy or service need to know, across a matrix of cases and themes? | A charted matrix, themes by case | 15–40, often multi-site | Losing the participant in the matrix |
+| Qualitative description | What is happening, in participants' own terms? | Straightforward thematic summary | 10–20 | Under-analysis presented as "letting data speak" |
+
+**How to choose.** Read the question you wrote: if it asks *how people make sense of* a specific experience, IPA; if it
+asks *what process* explains something, grounded theory; if it asks *what patterns across accounts*, thematic analysis;
+if a service or policy needs an answer by a deadline, framework analysis.
+
+**The mixing error.** Students often name one approach and follow another's procedure — using theoretical sampling (a
+grounded theory practice) with a reflexive thematic analysis claim. The name on the cover must match the procedure in
+the methods chapter, and examiners check.
+
+**The minimal defensible statement.** "The study used reflexive thematic analysis (Braun and Clarke); coding was
+inductive at the semantic level with attention to structural features of the interviews; themes were reviewed against
+the full dataset; two candidate themes were discarded and one refined after a negative case. The analytic trail is in
+Appendix C." Four sentences, one citation, one honest account.
+
+### 9.12a A worked coding sample: five extracts, five codes, one candidate theme
+
+*Five extracts from the fathers study, with the code assigned and a note on why.*
+
+1. *"Nobody asked me what I thought was wrong."* — Code: **not consulted**. Semantic, direct.
+2. *"They called her because she is the one who goes to the school."* — Code: **the wife as channel**. Structural,
+   describing the route by which institutions reach the household.
+3. *"What would I say? The teacher knows the girl better than me."* — Code: **speaking without knowledge**. Latent,
+   interpreting the fear beneath the practical account.
+4. *"My brother said we should handle it at home."* — Code: **the family's authority**. Semantic, with a structural
+   implication about who decides.
+5. *"I was not afraid of blame. I was angry. There is a difference."* — Code: **refusal of the frame**. Latent, and
+   the extract that generated the negative-case revision.
+
+**Candidate theme:** *Attendance required a knowledge claim fathers did not feel entitled to make.*
+
+**The codes that were discarded.** **Work as an excuse** was dropped after review: it appeared in six extracts as a
+practical fact and in none as a claim about motive. **Traditional masculinity** was dropped as too abstract to be
+supported or contradicted by any extract — a code that no extract could refute is not doing analytic work.
+
+**What the sample shows about the difference between coding and analysis.** Five codes take twenty minutes; the
+candidate theme, and the two discarded codes, take three weeks and a return to the transcripts. The visible artefact
+of the code list conceals the labour that makes it a finding.
+
+### 9.11 Key terms
+
+**Qualitative description** — an approach that stays close to participants' words with minimal interpretation; the
+commonest form of student qualitative work.
+
+**Reflexive thematic analysis** — an approach in which themes are constructed by an active analyst whose position is
+part of the analysis.
+
+**Code** — a label attached to a unit of meaning in the data.
+
+**Semantic code** — a code close to the surface meaning of what was said.
+
+**Latent code** — a code that interprets what was meant, beyond what was said.
+
+**Structural code** — a code describing the conditions of the talk, such as the interviewer's question or the
+participant's shift of frame.
+
+**Unit of coding** — the stretch of text to which a code is applied; must be stated and held stable.
+
+**Candidate theme** — a provisional clustering of codes, expected to be revised or abandoned.
+
+**Theme** — an argument about a pattern in the data, stated in a sentence that could be contradicted.
+
+**Negative or deviant case** — an instance that does not fit the theme; its analysis strengthens or bounds the claim.
+
+**Credibility** — the recognisability and evidential adequacy of an account.
+
+**Transferability** — the reader's ability to judge whether findings apply elsewhere, enabled by thick description.
+
+**Dependability** — the traceability of analytic decisions over time.
+
+**Confirmability** — the grounding of findings in data rather than in the researcher's preferences.
+
+**Reflexivity** — the systematic examination of how the researcher's position shaped the study.
+
+**Audit trail** — the documented record of decisions that permits a reader to follow the analysis.
+
+**Coding frame** — the organised list of codes with definitions and anchors.
+
+**Analytic memo** — a dated note recording an analytic idea, decision or doubt.
+
+**Thick description** — contextual detail sufficient for a reader to judge transferability.
+
+**Member checking** — returning the account to participants; data about reception, not validation.
+
+**Purposive sampling** — deliberate selection of participants who can speak to the question.
+
+**Maximum variation sampling** — deliberate inclusion of the extremes to describe a range.
+
+**Saturation** — the point at which further data add no new codes; requires a stated procedure.
+
+**Information power** — the amount of information a sample carries, given the aim, specificity, theory and analysis.
+
+**Translation layer** — the additional interpretation introduced when data are analysed in a language other than the one
+in which they were produced.
+
+### 9.12 Self-test
+
+1. Give four research questions that belong to qualitative work and one that does not.
+2. Distinguish the four rigour criteria in a sentence each.
+3. What is the difference between a code and a theme?
+4. Why is the unit of coding a decision that must be stated?
+5. Name the three code types and give an example of each from the fathers study.
+6. What makes a negative case analytically valuable?
+7. Why is consensus coding not required in reflexive thematic analysis?
+8. What is the difference between reflexivity and disclosure?
+9. What must a thesis report about translation?
+10. What claim does a maximum-variation sample of fourteen fathers support, and what claim does it not?
+11. Why is member checking not validation?
+12. Write the four-paragraph structure of a theme.
+
+### 9.13 Answers
+
+1. How fatherhood is experienced after separation; why a service is not used; what respect means between in-laws; how a
+   therapist decides an argument is unsafe. Not: how many fathers attend.
+2. Credibility — is the account recognisable and adequately evidenced; transferability — can a reader judge relevance
+   elsewhere from the description provided; dependability — are the decisions traceable; confirmability — are the
+   findings grounded in data rather than preference.
+3. A code labels a unit of meaning; a theme is an argument about a pattern, stated so that evidence could contradict it.
+4. Because different units produce different codes, and most inter-coder disagreements dissolve once the unit is
+   agreed.
+5. Semantic — "felt like a visitor"; latent — "excluded from expertise"; structural — "the therapist's opening question
+   invited the mother to answer first".
+6. It tests the theme's boundary, forces refinement, and demonstrates that the analyst looked for disconfirming
+   evidence.
+7. Because the analytic claim rests on the transparency and plausibility of the interpretation, not on agreement
+   between coders; reporting a documented procedure is the appropriate standard.
+8. Reflexivity analyses what the researcher's position made possible and foreclosed; disclosure lists attributes.
+9. Who translated, into and from what language, whether the translation was checked, and which terms resist translation.
+10. It supports a claim about the range and structure of accounts among fathers who did not attend in those networks; it
+    does not support a claim about how common each account is, nor about fathers nationally.
+11. Because participants can recognise a description without being able to assess an interpretation, and their
+    responses are themselves data about reception.
+12. Theme statement and claim; principal extract with interpretation; variation across participants; the complication
+    and how the theme accommodates or is bounded by it.
+
+### 9.14 Reflection and preparation for Week 10
+
+> **REFLECT** — Take the theme you are least sure about and write the extract that would destroy it. Then search your
+> data for that extract. If you find it, the theme needs refining; if you do not, say so in a sentence — "no
+> participant described the opposite" — because a reader who knows you looked will trust the rest of the account more.
+
+**Preparation task.** Bring to Week 10 a quantitative finding from your own work or a published study that you cannot
+explain, and one qualitative question you would ask to explain it. Week 10 concerns mixed methods, and the only reason
+to mix is a question that neither approach can answer alone.
+
+*Next: Week 10 — Mixed methods: integration, joint displays and participatory approaches.*
 
 ---
 

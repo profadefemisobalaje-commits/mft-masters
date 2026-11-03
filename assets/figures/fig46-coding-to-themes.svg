@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600" role="img">
+  <rect x="0" y="0" width="980" height="600" fill="#ffffff"/>
+  <text x="490" y="44" fill="#334155" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:22px;font-weight:700;">From Extract to Theme: The Six Phases of Reflexive Thematic Analysis</text>
+  <text x="490" y="68" fill="#5b6675" text-anchor="middle" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13.5px;font-weight:400;">One father's sentence, followed through the whole analytic process, with the audit trail left visible</text>
+
+  <!-- column boxes -->
+  <rect x="40" y="92" width="300" height="120" rx="9" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.4"/>
+  <text x="56" y="114" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">1. FAMILIARISATION · the extract</text>
+  <text x="56" y="136" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-style:italic;">"They asked me to come, but nobody</text>
+  <text x="56" y="152" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-style:italic;">asked me what I thought was wrong.</text>
+  <text x="56" y="168" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-style:italic;">I sat there like a visitor in my</text>
+  <text x="56" y="184" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-style:italic;">own house."</text>
+  <text x="56" y="202" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">Father, 44, referred after a school incident</text>
+
+  <rect x="340" y="92" width="300" height="120" rx="9" fill="#eef6f5" stroke="#99c7c2" stroke-width="1.4"/>
+  <text x="356" y="114" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">2. CODING · five codes, verbatim anchors</text>
+  <text x="356" y="136" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• invited but not consulted</text>
+  <text x="356" y="153" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• expertise claimed elsewhere</text>
+  <text x="356" y="170" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• presence without authority</text>
+  <text x="356" y="187" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• home felt as foreign</text>
+  <text x="356" y="204" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• the therapist's opening question</text>
+
+  <rect x="640" y="92" width="300" height="120" rx="9" fill="#fbf3e6" stroke="#dcbf8c" stroke-width="1.4"/>
+  <text x="656" y="114" fill="#b45309" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">3. GENERATING THEMES · candidates</text>
+  <text x="656" y="136" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• "A visitor in my own house"</text>
+  <text x="656" y="153" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• Who is the patient here?</text>
+  <text x="656" y="170" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">• Being asked vs being told to come</text>
+  <text x="656" y="187" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">Candidates are provisional —</text>
+  <text x="656" y="202" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">some will not survive phase 4.</text>
+
+  <!-- arrows row 1 -->
+  <line x1="342" y1="152" x2="336" y2="152" stroke="#0f766e" stroke-width="2"/>
+  <text x="330" y="150" fill="#0f766e" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;">→</text>
+  <text x="634" y="150" fill="#b45309" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;">→</text>
+
+  <!-- phase 4 -->
+  <rect x="40" y="248" width="380" height="132" rx="9" fill="#f4f2fb" stroke="#c4b8e6" stroke-width="1.4"/>
+  <text x="56" y="270" fill="#6d28d9" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">4. REVIEWING · does the theme hold across cases?</text>
+  <text x="56" y="292" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">✓ eleven of fourteen fathers described a version of it</text>
+  <text x="56" y="309" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">✓ two mothers described their husbands being sidelined</text>
+  <text x="56" y="326" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">✓ one father disagreed: he felt over-questioned</text>
+  <text x="56" y="348" fill="#9f1239" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">Negative case recorded, not smoothed away</text>
+  <text x="56" y="365" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">A theme that cannot hold its counter-case is a summary.</text>
+
+  <!-- phase 5 -->
+  <rect x="440" y="248" width="260" height="132" rx="9" fill="#eef6f5" stroke="#99c7c2" stroke-width="1.4"/>
+  <text x="456" y="270" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">5. DEFINING · the theme statement</text>
+  <text x="456" y="292" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">Fathers attended as the person</text>
+  <text x="456" y="309" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">responsible for the problem, not</text>
+  <text x="456" y="326" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">as a person with knowledge</text>
+  <text x="456" y="343" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">about it.</text>
+  <text x="456" y="365" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">One sentence; no quotations; no adjectives.</text>
+
+  <!-- phase 6 -->
+  <rect x="720" y="248" width="220" height="132" rx="9" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.4"/>
+  <text x="736" y="270" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">6. WRITING</text>
+  <text x="736" y="292" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">The account, the extracts,</text>
+  <text x="736" y="309" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">the analytic commentary —</text>
+  <text x="736" y="326" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">and the case that</text>
+  <text x="736" y="343" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">qualified it.</text>
+  <text x="736" y="365" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">Quotes are evidence, not decoration.</text>
+
+  <line x1="424" y1="314" x2="436" y2="314" stroke="#0f766e" stroke-width="2"/>
+  <text x="434" y="312" fill="#0f766e" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;">→</text>
+  <line x1="704" y1="314" x2="716" y2="314" stroke="#0f766e" stroke-width="2"/>
+  <text x="714" y="312" fill="#0f766e" text-anchor="end" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;">→</text>
+
+  <!-- audit trail -->
+  <rect x="40" y="404" width="900" height="86" rx="9" fill="#ffffff" stroke="#cbd5e1" stroke-width="1.4" stroke-dasharray="6 4"/>
+  <text x="56" y="426" fill="#1f2937" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11.5px;font-weight:700;">THE AUDIT TRAIL (appendix): what a reader must be able to check</text>
+  <text x="56" y="448" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">Coding frame with counts · dated analytic memos · the decision log (which candidate themes were merged, renamed or dropped) ·</text>
+  <text x="56" y="465" fill="#334155" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.8px;">the theme table with a defining statement and an extract for each · the negative-case note · the reflexive statement</text>
+  <text x="56" y="482" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10px;font-weight:400;">None of these is required by reflexive TA's logic in the positivist sense; all of them are what makes the account checkable by an examiner.</text>
+
+  <!-- footer -->
+  <text x="56" y="516" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.2px;font-weight:400;">Themes are not "found in" the data. They are constructed by an analyst whose history and training are part of the instrument.</text>
+  <text x="56" y="536" fill="#5b6675" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.2px;font-weight:400;">A theme must be able to be wrong: it should be sayable what evidence would have contradicted it — and that evidence reported if it occurred.</text>
+  <text x="56" y="560" fill="#0f766e" style="font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:10.5px;font-weight:600;">Six phases, one sentence of data, one audit trail — and one negative case that the account keeps.</text>
+</svg>
